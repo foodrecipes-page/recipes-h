@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "h",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'h''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-h@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "halal-earthy-date-night-steak-tips",
+    "title": "Halal Earthy Date Night Steak Tips",
+    "tags": [
+      "steak",
+      "date-night",
+      "earthy",
+      "halal"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  }
+]

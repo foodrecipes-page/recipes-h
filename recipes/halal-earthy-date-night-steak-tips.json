@@ -1,0 +1,95 @@
+{
+  "title": "Halal Earthy Date Night Steak Tips",
+  "description": "A delightful halal-friendly earthy date-night dish featuring tenderized sirloin steak tips simmered in a rich, aromatic sauce with dates and other earthy ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak Tips",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Rosemary Sprigs",
+      "amount": "2-3 sprigs"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Date Syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Thyme Leaves",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season steak tips with olive oil, minced garlic, ground cumin, and ground coriander. Place on a baking sheet.",
+    "Sear steak tips in a skillet over medium-high heat until nicely browned on all sides. Remove from pan and set aside.",
+    "In the same skillet, add chopped fresh rosemary, chicken broth, red wine, date syrup, and freshly grated Parmesan cheese. Stir well to combine.",
+    "Add seared steak tips back into the skillet with the sauce mixture. Cover with a lid or foil and simmer for about 20 minutes until tender.",
+    "Sprinkle thyme leaves on top of the steak before serving.",
+    "Serve hot with crusty bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "steak",
+    "date-night",
+    "earthy",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 461,
+    "protein": 26,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "halal-earthy-date-night-steak-tips",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-earthy-date-night-steak-tips",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:39:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "halal",
+    "region": null
+  }
+}
