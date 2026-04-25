@@ -11,5 +11,17 @@
     "cuisine": "Russian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "herb-silk-fish",
+    "title": "Herb Silk Fish",
+    "tags": [
+      "herb-silk",
+      "australian-dish",
+      "brunch-mood"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]

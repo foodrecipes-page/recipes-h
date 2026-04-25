@@ -1,0 +1,80 @@
+{
+  "title": "Herb Silk Fish",
+  "description": "A silky and herbal brunch-mood Australian dish featuring fish fillet with a dash-friendly touch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "1 piece",
+      "notes": "Choose a firm white fish like Cod or Snapper"
+    },
+    {
+      "name": "Chopped Fresh Herbs",
+      "amount": "a handful of mixed herbs such as parsley, dill, chervil, and tarragon",
+      "notes": "About 20-30g in total"
+    },
+    {
+      "name": "Melted Vegan Butter or Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Can be replaced with a vegan substitute if needed"
+    },
+    {
+      "name": "Squeeze of Lemon Juice",
+      "amount": "a few drops",
+      "notes": "Freshly squeezed for the best flavor"
+    },
+    {
+      "name": "Coarse Salt and Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Avocado Mash (for garnish)",
+      "amount": "about 1/4 of an avocado",
+      "notes": "Optional but adds a silky texture"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Pat the fish fillets dry with paper towels.",
+    "In a mixing bowl, combine chopped fresh herbs, melted vegan butter or olive oil, lemon juice, and salt and pepper. Mix well until evenly distributed.",
+    "Coat both sides of the fish fillets generously with the herb mixture. Place them in an oven-safe dish lined with baking parchment.",
+    "Bake for 10-12 minutes at 350°F (175°C) or until the fish flakes easily when tested with a fork.",
+    "While the fish is cooking, prepare the avocado mash by mashing an avocado with salt and pepper. Set aside as a garnish.",
+    "Once done, serve the herb-silk-fish fillets on plates with the avocado mash for extra texture and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herb-silk",
+    "australian-dish",
+    "brunch-mood"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 20,
+    "carbs": 3,
+    "fat": 9
+  },
+  "slug": "herb-silk-fish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-silk-fish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:09:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "fish fillet",
+    "diet": "dash",
+    "region": null
+  }
+}
