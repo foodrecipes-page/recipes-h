@@ -1,0 +1,73 @@
+{
+  "title": "Herby Mingle Delight",
+  "description": "A comforting Irish dish featuring a mixture powder with herbs and vegan-friendly components for a juicy, herbal experience.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grilled vegetable skewers",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Herb mixture powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "4-5 sprigs"
+    },
+    {
+      "name": "Clove of garlic",
+      "notes": "whole, lightly crushed for a herby aroma"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Prepare the vegetable skewers by washing and marinating them with olive oil and herb mixture powder. Grill until slightly charred and tender.",
+    "In a small bowl, mix together the garlic cloves, crushed thyme leaves, and a bit of olive oil. Mix well to make a paste-like consistency.",
+    "Gently apply the herb mixture to the grilled vegetables before serving for an extra burst of flavor.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herb",
+    "juicy",
+    "irish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 7.1,
+    "carbs": 9.5,
+    "fat": 13
+  },
+  "slug": "herby-mingle-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herby-mingle-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:37:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "mixture powder",
+    "diet": "vegan",
+    "region": null
+  }
+}

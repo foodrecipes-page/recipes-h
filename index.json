@@ -114,6 +114,19 @@
     "shard": "h"
   },
   {
+    "slug": "herby-mingle-delight",
+    "title": "Herby Mingle Delight",
+    "tags": [
+      "herb",
+      "juicy",
+      "irish",
+      "vegan"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hoisin-blossom-stew",
     "title": "Hoisin Blossom Stew",
     "tags": [
