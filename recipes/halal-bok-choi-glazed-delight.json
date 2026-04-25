@@ -1,0 +1,91 @@
+{
+  "title": "Halal Bok Choi Glazed Delight",
+  "description": "Rich and chewy Halal-friendly Jamaican dish featuring bok choy that is perfect for weeknight dinners.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 cups of fresh bok choy",
+      "amount": "",
+      "notes": "Trim the white stalks and keep the leaves"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce (use reduced sodium if needed)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon dark brown sugar or honey",
+      "amount": "",
+      "notes": "For glazing"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "",
+      "notes": "To help caramelize the onions and bok choy"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large pan over medium heat.",
+    "Add chopped onion and minced garlic, sauté until softened and golden brown.",
+    "Toss in the bok choy leaves and white stalks. Sauté until they start to wilt slightly.",
+    "Pour soy sauce and brown sugar into the pan with the vegetables.",
+    "Mix well to combine all ingredients evenly.",
+    "Add water to the mixture, cover the pan, and let it simmer for about 10 minutes or until the liquid has reduced slightly and the bok choy is tender but still retains its chewiness.",
+    "Adjust seasoning with salt if necessary.",
+    "Garnish with fresh herbs like parsley or cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "jamaican-dish",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "halal-bok-choi-glazed-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-bok-choi-glazed-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:10:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "bok choi",
+    "diet": "halal",
+    "region": null
+  }
+}

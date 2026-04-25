@@ -1,5 +1,17 @@
 [
   {
+    "slug": "halal-bok-choi-glazed-delight",
+    "title": "Halal Bok Choi Glazed Delight",
+    "tags": [
+      "halal-friendly",
+      "jamaican-dish",
+      "weeknight-meals"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "halal-cod-bliss",
     "title": "Halal Cod Bliss",
     "tags": [
