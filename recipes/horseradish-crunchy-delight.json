@@ -1,0 +1,81 @@
+{
+  "title": "Horseradish Crunchy Delight",
+  "description": "A nutty and crumbly post-workout dish featuring horseradish, marinated in a blend of plant-based-friendly ingredients for added flavor.",
+  "cuisine": "Philippine",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Horseradish Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sunflower Seeds (crushed)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Almonds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mashed Avocado",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Parsley Leaves",
+      "amount": "few sprigs"
+    },
+    {
+      "name": "Plant-Based Mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water (as needed)",
+      "amount": "enough to cover ingredients"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine horseradish powder with mayonnaise, apple cider vinegar, and enough water to achieve the desired consistency.",
+    "Mix well until you reach a creamy consistency. Let it marinate for at least 30 minutes or up to an hour before use.",
+    "Once the marinade is ready, add crushed sunflower seeds and chopped almonds. Mix gently to combine.",
+    "Fold in mashed avocado and fresh parsley leaves until everything is evenly distributed.",
+    "Transfer the mixture into a serving dish and chill for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "horseradish",
+    "crunchy",
+    "post-workout",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 76,
+    "protein": 1.8,
+    "carbs": 5.4,
+    "fat": 3.2
+  },
+  "slug": "horseradish-crunchy-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/horseradish-crunchy-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:41:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "horseradish",
+    "diet": "plant-based",
+    "region": null
+  }
+}
