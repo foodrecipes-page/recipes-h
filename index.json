@@ -37,6 +37,19 @@
     "shard": "h"
   },
   {
+    "slug": "halal-fish-stock-pancakes",
+    "title": "Halal Fish Stock Pancakes",
+    "tags": [
+      "halal",
+      "jamaican",
+      "pancakes",
+      "fish_stock"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 13,
+    "shard": "h"
+  },
+  {
     "slug": "halal-lardo-quiche",
     "title": "Halal Lardo Quiche",
     "tags": [

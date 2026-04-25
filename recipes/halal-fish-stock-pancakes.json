@@ -1,0 +1,81 @@
+{
+  "title": "Halal Fish Stock Pancakes",
+  "description": "A sick-day Jamaican dish featuring a fermented fish stock base that’s light and fluffy for those feeling under the weather.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fish stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a dash"
+    }
+  ],
+  "instructions": [
+    "Mix fish stock, flax seeds, water, milk, baking powder, salt, and pepper in a bowl until well combined.",
+    "Stir in vanilla extract for added flavor and texture.",
+    "Heat a non-stick pan over medium heat. Pour batter into the hot pan, using about 1/4 cup per pancake.",
+    "Cook pancakes for about 2-3 minutes on each side or until golden brown.",
+    "Serve warm with your favorite spread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "halal",
+    "jamaican",
+    "pancakes",
+    "fish_stock"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 34,
+    "fat": 10
+  },
+  "slug": "halal-fish-stock-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-fish-stock-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:25:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "fish stock",
+    "diet": "halal",
+    "region": null
+  }
+}
