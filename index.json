@@ -162,5 +162,18 @@
     "cuisine": "Turkish Fusion",
     "totalTimeMin": 75,
     "shard": "h"
+  },
+  {
+    "slug": "hummus-energizer",
+    "title": "Hummus Energizer",
+    "tags": [
+      "hummus",
+      "snack",
+      "sweet",
+      "crispy"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]

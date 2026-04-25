@@ -1,0 +1,90 @@
+{
+  "title": "Hummus Energizer",
+  "description": "A sweet and crispy hummus dish with a Spanish twist, perfect for an energizing snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups cooked chickpeas",
+      "amount": "",
+      "notes": "Use canned or cook from scratch."
+    },
+    {
+      "name": "1/4 cup tahini",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 3 lemons",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": "",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "1/4 cup maple syrup or honey for sweetness",
+      "amount": "",
+      "notes": "Sweetens the hummus to a natural sugar alternative."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil, for drizzling",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Blend together chickpeas, tahini, lemon juice, garlic, cumin, maple syrup/honey, and salt in a food processor until smooth.",
+    "Add the olive oil gradually while blending to achieve desired consistency. Taste and adjust seasoning if needed.",
+    "Transfer hummus into serving bowls or dishes.",
+    "Serve with fresh-cut vegetables like bell peppers, cucumbers, carrots, etc., for added crunch and nutrients.",
+    "Optional: Garnish with a drizzle of extra olive oil and a sprinkle of paprika for additional flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hummus",
+    "snack",
+    "sweet",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 3.6,
+    "carbs": 11.2,
+    "fat": 4.6
+  },
+  "slug": "hummus-energizer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hummus-energizer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:01:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "hummus",
+    "diet": "egg-free",
+    "region": null
+  }
+}
