@@ -1,0 +1,87 @@
+{
+  "title": "Herbal Fluffini Muffins with Tadka",
+  "description": "A paleo-friendly herbal and fluffy Ukrainian dish featuring muffins flavored with a tadka, a traditional Indian seasoning blend.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Paleo Flour Blend",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "8 tablespoons"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Herbal Infused Oil Blend (Custom Mix)",
+      "notes": "Prepared according to a paleo-friendly recipe for flavoring"
+    },
+    {
+      "name": "Flax Seeds Meal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Herbal Infusions",
+      "amount": "to taste (e.g., mint, basil)"
+    },
+    {
+      "name": "Pitted Medjool Dates",
+      "notes": "For serving with the muffins"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a standard muffin tin.",
+    "In a mixing bowl, combine Paleo Flour Blend and coconut oil. Mix until smooth.",
+    "Add raw honey, almond milk, herbal infused oil blend, flax seeds meal, vanilla extract, and the desired amount of herbal infusions to the flour mixture. Stir gently but thoroughly to ensure all ingredients are well combined.",
+    "Divide the batter evenly among prepared muffin cups.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow muffins to cool slightly before removing from tin and placing on a wire rack. Serve warm with pitted medjool dates on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fluffini",
+    "muffins",
+    "tadka",
+    "herbal",
+    "uks"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 7
+  },
+  "slug": "herbal-fluffini-muffins-with-tadka",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-fluffini-muffins-with-tadka",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:56:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "muffins",
+    "diet": "paleo",
+    "region": null
+  }
+}
