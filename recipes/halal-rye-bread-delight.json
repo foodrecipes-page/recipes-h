@@ -1,0 +1,67 @@
+{
+  "title": "Halal Rye Bread Delight",
+  "description": "A rich and crunchy festive dish featuring halal-friendly rye bread which is boiled to perfection.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix water and salt.",
+    "Submerge the sliced rye bread into the liquid mixture thoroughly.",
+    "Place the wet bread in an oven-safe dish or baking sheet lined with parchment paper for easy cleanup.",
+    "Drizzle the top of the soaked bread evenly with vegetable oil.",
+    "Bake for 15-20 minutes, or until golden brown and crisp on top.",
+    "Remove from heat once done. Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "rye-bread",
+    "boiled-dish",
+    "halal-friendly",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 3.4,
+    "carbs": 20.7,
+    "fat": 16
+  },
+  "slug": "halal-rye-bread-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-rye-bread-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:34:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "rye bread",
+    "diet": "halal",
+    "region": null
+  }
+}

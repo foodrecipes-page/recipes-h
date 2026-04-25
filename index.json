@@ -38,6 +38,19 @@
     "shard": "h"
   },
   {
+    "slug": "halal-rye-bread-delight",
+    "title": "Halal Rye Bread Delight",
+    "tags": [
+      "rye-bread",
+      "boiled-dish",
+      "halal-friendly",
+      "festive"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "herb-silk-fish",
     "title": "Herb Silk Fish",
     "tags": [
