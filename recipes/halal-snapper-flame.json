@@ -1,0 +1,75 @@
+{
+  "title": "Halal Snapper Flame",
+  "description": "A peppery and velvety halal-friendly snapper dish perfect for a post-workout meal in the style of Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halal Snapper Fish",
+      "amount": "1 fish fillet (approx. 200g) per person"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red Chili Flakes (optional)",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C).",
+    "Mix all-purpose flour, cumin powder, paprika powder, and a pinch of red chili flakes in a shallow bowl.",
+    "Gently coat the snapper fillets with the spice mixture on both sides.",
+    "Place the coated fish fillets on a baking sheet lined with parchment paper.",
+    "Brush each fillet lightly with water to create steam during cooking.",
+    "Bake for 12-15 minutes or until the fish is cooked through and has a golden-brown crust. Adjust seasoning if needed.",
+    "Let it rest for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "slovakian",
+    "snapper",
+    "flame"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "halal-snapper-flame",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-snapper-flame",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:26:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "snapper fish",
+    "diet": "halal",
+    "region": null
+  }
+}

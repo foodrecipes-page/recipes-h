@@ -87,6 +87,19 @@
     "shard": "h"
   },
   {
+    "slug": "halal-snapper-flame",
+    "title": "Halal Snapper Flame",
+    "tags": [
+      "halal",
+      "slovakian",
+      "snapper",
+      "flame"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "halal-tandoor-freekeh-salad",
     "title": "Halal Tandoor Freekeh Salad",
     "tags": [
