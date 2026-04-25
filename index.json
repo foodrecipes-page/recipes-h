@@ -72,5 +72,19 @@
     "cuisine": "Chinese (Shandong)",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hoisin-blossom-stew",
+    "title": "Hoisin Blossom Stew",
+    "tags": [
+      "hoisin",
+      "stew",
+      "turkish",
+      "veggies",
+      "fusion"
+    ],
+    "cuisine": "Turkish Fusion",
+    "totalTimeMin": 75,
+    "shard": "h"
   }
 ]

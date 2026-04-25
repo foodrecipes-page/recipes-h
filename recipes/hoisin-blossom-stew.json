@@ -1,0 +1,110 @@
+{
+  "title": "Hoisin Blossom Stew",
+  "description": "A rich and juicy Turkish dish featuring a fusion of hoisin sauce and aromatic vegetables in a decadent stew that's both romantic and healthy.",
+  "cuisine": "Turkish Fusion",
+  "diet": [
+    "rich",
+    "juicy",
+    "romantic",
+    "turkish",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "",
+      "notes": "Choose fresh or frozen, ensure it's thoroughly cooked"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Mince finely for added flavor"
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "",
+      "notes": "Chopped to create a base for the sauce"
+    },
+    {
+      "name": "3 carrots",
+      "amount": "",
+      "notes": "Sliced thinly, providing natural sweetness and texture"
+    },
+    {
+      "name": "2 bell peppers (any color)",
+      "amount": "",
+      "notes": "Chopped into strips for vibrant color contrast"
+    },
+    {
+      "name": "1 cup baby spinach leaves",
+      "amount": "",
+      "notes": "Include for a pop of green and extra nutrition"
+    },
+    {
+      "name": "2 tbsp hoisin sauce",
+      "amount": "",
+      "notes": "Use organic if possible, essential for the flavor profile"
+    },
+    {
+      "name": "1 cup beef broth (or water)",
+      "amount": "",
+      "notes": "Ensure low sodium if using or adding herbs to taste"
+    },
+    {
+      "name": "1 tsp sesame oil",
+      "amount": "",
+      "notes": "Adds depth and a hint of nuttiness"
+    },
+    {
+      "name": "1 tbsp cornstarch",
+      "amount": "",
+      "notes": "For thickening the sauce, reduces during cooking"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "Adjust according to preference or seasoning preferences"
+    }
+  ],
+  "instructions": [
+    "Wash and cut your vegetables into manageable pieces. Ensure they're all thoroughly cooked before combining with other ingredients.",
+    "In a large pot, heat the hoisin sauce over medium-high heat until it begins to simmer. Deglaze with a splash of beef broth or water.",
+    "Add minced garlic, onions, carrots, and bell peppers. Stir occasionally for about 10 minutes, allowing flavors to meld together.",
+    "Gradually add in cornstarch dissolved in water (1 tablespoon per cup of liquid), stirring well until the sauce thickens but stays slightly loose to ensure a smooth texture.",
+    "Add baby spinach leaves just before serving to keep them fresh and vibrant. Adjust seasoning with salt as needed.",
+    "Serve hot, garnished with sliced green onions or sesame seeds for added visual appeal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hoisin",
+    "stew",
+    "turkish",
+    "veggies",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "hoisin-blossom-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hoisin-blossom-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:24:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "deglaze",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "fodmap",
+    "region": null
+  }
+}
