@@ -188,5 +188,17 @@
     "cuisine": "Spanish",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hummus-smoke-broil",
+    "title": "Hummus Smoke Broil",
+    "tags": [
+      "hummus",
+      "smoke",
+      "whole30"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 15,
+    "shard": "h"
   }
 ]

@@ -1,0 +1,81 @@
+{
+  "title": "Hummus Smoke Broil",
+  "description": "A quick-fix Italian dish featuring hummus for a creamy base with smoked meats or vegetables, perfect for Whole30 diets.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can chickpeas",
+      "amount": "14 oz (can size)",
+      "notes": "Rinse and drain"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "full lemon juice"
+    },
+    {
+      "name": "3 tablespoons tahini",
+      "amount": "stirred in"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "mixed with other ingredients"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 roma tomatoes (optional)",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "1/2 block smoked gouda or similar cheese (optional)",
+      "amount": "cubed"
+    }
+  ],
+  "instructions": [
+    "Blend chickpeas, garlic, lemon juice, tahini, olive oil, and salt until smooth. Season to taste.",
+    "Divide hummus into two bowls for serving if desired. Optionally add sliced tomatoes or cheese cubes on top before broiling.",
+    "Preheat oven to 200°C (392°F). Place tomato slices or gouda on a baking sheet lined with parchment paper.",
+    "Broil hummus mixture in a shallow dish directly under the heat source for about 5-7 minutes until warmed and slightly bubbly. Stir occasionally, avoiding overbrowning.",
+    "Once done, top each serving of hummus with tomato slices or cheese, if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hummus",
+    "smoke",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 8,
+    "carbs": 19,
+    "fat": 9
+  },
+  "slug": "hummus-smoke-broil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hummus-smoke-broil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:38:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "hummus",
+    "diet": "whole30",
+    "region": null
+  }
+}
