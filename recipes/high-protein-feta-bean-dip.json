@@ -71,9 +71,9 @@
     "carbs": 2,
     "fat": 4
   },
-  "slug": "highproteinfetabeandip",
+  "slug": "high-protein-feta-bean-dip",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/highproteinfetabeandip",
+  "canonicalUrl": "https://foodrecipes.page/r/high-protein-feta-bean-dip",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T15:10:17Z",
   "axes": {

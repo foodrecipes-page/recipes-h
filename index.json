@@ -126,6 +126,20 @@
     "shard": "h"
   },
   {
+    "slug": "herb-jerk-keto-gooey-stuffed-vegetables",
+    "title": "HerbJerkKetoGooeyStuffedVegetables",
+    "tags": [
+      "keto",
+      "herbjerk",
+      "vegetables",
+      "stuffed",
+      "fried"
+    ],
+    "cuisine": "Chinese (Shandong)",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "herb-silk-fish",
     "title": "Herb Silk Fish",
     "tags": [
@@ -189,20 +203,6 @@
     "shard": "h"
   },
   {
-    "slug": "herbjerkketogooeystuffedvegetables",
-    "title": "HerbJerkKetoGooeyStuffedVegetables",
-    "tags": [
-      "keto",
-      "herbjerk",
-      "vegetables",
-      "stuffed",
-      "fried"
-    ],
-    "cuisine": "Chinese (Shandong)",
-    "totalTimeMin": 45,
-    "shard": "h"
-  },
-  {
     "slug": "herby-mingle-delight",
     "title": "Herby Mingle Delight",
     "tags": [
@@ -216,7 +216,7 @@
     "shard": "h"
   },
   {
-    "slug": "highproteinfetabeandip",
+    "slug": "high-protein-feta-bean-dip",
     "title": "HighProteinFetaBeanDip",
     "tags": [
       "snack",
