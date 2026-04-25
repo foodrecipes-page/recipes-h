@@ -1,0 +1,88 @@
+{
+  "title": "HighProteinFetaBeanDip",
+  "description": "A savory Greek-inspired dish featuring high-protein-friendly feta cheese and beans for a quick weeknight snack or appetizer.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "can of drained and rinsed black beans",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "spices (optional)",
+      "amount": "",
+      "notes": "cayenne pepper, smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a mixing bowl, combine crumbled feta cheese with drained and rinsed black beans, diced red bell pepper, finely chopped red onion, olive oil, minced garlic, lemon juice, dijon mustard, cayenne pepper (if using), and smoked paprika (if using).",
+    "Mix all ingredients until well combined. Taste and adjust seasoning if needed.",
+    "Transfer the mixture into a serving bowl or small ramekins lined with baking paper.",
+    "Bake in preheated oven for 20-25 minutes, until golden brown on top.",
+    "Remove from oven, let cool slightly, then serve cold."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "high-protein",
+    "greek",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 2,
+    "fat": 4
+  },
+  "slug": "highproteinfetabeandip",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/highproteinfetabeandip",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:10:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "beans",
+    "diet": "high-protein",
+    "region": null
+  }
+}

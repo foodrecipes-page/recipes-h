@@ -177,6 +177,19 @@
     "shard": "h"
   },
   {
+    "slug": "highproteinfetabeandip",
+    "title": "HighProteinFetaBeanDip",
+    "tags": [
+      "snack",
+      "high-protein",
+      "greek",
+      "vegan-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hoisin-blossom-stew",
     "title": "Hoisin Blossom Stew",
     "tags": [
