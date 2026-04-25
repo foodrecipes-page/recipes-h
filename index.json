@@ -87,6 +87,20 @@
     "shard": "h"
   },
   {
+    "slug": "halal-tandoor-freekeh-salad",
+    "title": "Halal Tandoor Freekeh Salad",
+    "tags": [
+      "halal",
+      "smoky",
+      "crunchy",
+      "freekeh",
+      "tandoor"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "herb-silk-fish",
     "title": "Herb Silk Fish",
     "tags": [

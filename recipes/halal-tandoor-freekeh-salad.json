@@ -1,0 +1,85 @@
+{
+  "title": "Halal Tandoor Freekeh Salad",
+  "description": "A smoky and crunchy Dutch-style salad featuring halal-friendly ingredients such as freekeh, roasted garlic, and preserved lemon.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Preserved Lemon Zest and Juice",
+      "amount": "1/2 lemon"
+    },
+    {
+      "name": "Tandoori Spices (coriander, cumin, turmeric, garam masala)",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "2-3 leaves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Roast the garlic cloves for about 20 minutes until golden brown and slightly caramelized.",
+    "Mix freekeh with a pinch of salt, tossing until evenly coated. Spread on baking sheet lined with parchment paper.",
+    "Spread roasted garlic over the freekeh and drizzle with pomegranate molasses. Toss gently to combine.",
+    "Combine tandoori spices in a small bowl with 1/2 teaspoon salt. Mix into the freekeh mixture, dividing evenly among four plates.",
+    "Chop red onion finely and add it on top of each serving.",
+    "Finish with fresh mint leaves and preserved lemon zest on each plate.",
+    "Serve immediately as an appetizer or snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "smoky",
+    "crunchy",
+    "freekeh",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "halal-tandoor-freekeh-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-tandoor-freekeh-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:21:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "freekeh",
+    "diet": "halal",
+    "region": null
+  }
+}
