@@ -1,0 +1,92 @@
+{
+  "title": "Hearty Syrian Veggies Stir-fry",
+  "description": "A savory and gooey Syrian dish featuring diabetic-friendly vegetables like celery, carrots, and onions in a tangy tomato sauce with a hint of cumin.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "use diabetic-friendly onion if available"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "use baby carrots for easier chopping and cooking"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk",
+      "notes": "cut into thin slices or dice finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3 medium",
+      "notes": "halved or quartered"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water/Soy Milk (optional)",
+      "amount": "1/4 cup",
+      "notes": "for thinning the sauce if needed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add onions and minced garlic to sauté until softened, about 5 minutes.",
+    "Add diced carrots and celery slices. Cook for an additional 3-4 minutes or until vegetables are slightly tender.",
+    "Stir in cumin seeds and cook for another minute.",
+    "Pour in chopped tomatoes (or tomato sauce if using), water/soy milk, salt and pepper to taste.",
+    "Simmer on low heat for about 10 minutes, stirring occasionally, to allow flavors to meld together.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hearty-syrian-veggies-stir-fry",
+    "savory-gooey-dish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 213,
+    "protein": 7,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "hearty-syrian-veggies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-syrian-veggies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:24:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "celery",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Veggies",
+    "descriptor": "Hearty",
+    "dishForm": "Stir-fry"
+  }
+}

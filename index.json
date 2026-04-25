@@ -126,6 +126,18 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-syrian-veggies-stir-fry",
+    "title": "Hearty Syrian Veggies Stir-fry",
+    "tags": [
+      "hearty-syrian-veggies-stir-fry",
+      "savory-gooey-dish",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "herb-jerk-keto-gooey-stuffed-vegetables",
     "title": "HerbJerkKetoGooeyStuffedVegetables",
     "tags": [
