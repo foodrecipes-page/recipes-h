@@ -1,0 +1,73 @@
+{
+  "title": "Halal Lardo Quiche",
+  "description": "A hearty and flavorful Halal-friendly quiche featuring smoky lard, eggs, and spices, perfect for a solo dinner or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lard",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 pcs"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix lard, flour, salt, and pepper in a bowl until it forms a paste.",
+    "Beat eggs lightly with milk in another bowl.",
+    "Combine the flour mixture with egg mixture until smooth and no flour particles are visible.",
+    "Pour the batter into a greased quiche pan or pie dish.",
+    "Bake for 30-40 minutes or until golden brown on top and the center is set.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "halal-quiche",
+    "argentinian-dish"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 14.7,
+    "carbs": 20.7,
+    "fat": 24
+  },
+  "slug": "halal-lardo-quiche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-lardo-quiche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:38:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "lard",
+    "diet": "halal",
+    "region": null
+  }
+}

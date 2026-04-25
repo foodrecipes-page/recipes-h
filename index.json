@@ -25,6 +25,17 @@
     "shard": "h"
   },
   {
+    "slug": "halal-lardo-quiche",
+    "title": "Halal Lardo Quiche",
+    "tags": [
+      "halal-quiche",
+      "argentinian-dish"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "halal-medjool-delight",
     "title": "Halal Medjool Delight",
     "tags": [
