@@ -25,6 +25,19 @@
     "shard": "h"
   },
   {
+    "slug": "halal-medjool-delight",
+    "title": "Halal Medjool Delight",
+    "tags": [
+      "mediterranean",
+      "halal-friendly",
+      "date-night",
+      "dessert"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "herb-silk-fish",
     "title": "Herb Silk Fish",
     "tags": [

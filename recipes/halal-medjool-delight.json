@@ -1,0 +1,83 @@
+{
+  "title": "Halal Medjool Delight",
+  "description": "A mediterranean date-night dish featuring umami-rich dates and currants, infused with Mediterranean flavors for a delicious dessert.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "20 Medjool Dates",
+      "amount": "pitted"
+    },
+    {
+      "name": "1/4 cup finely chopped walnuts",
+      "notes": "For added texture and flavor"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "notes": "Optional, for a touch of sweetness if desired"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "notes": "Freshly squeezed for maximum freshness"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "coarse"
+    },
+    {
+      "name": "1/4 cup pitted prunes",
+      "notes": "For added depth and chewiness"
+    },
+    {
+      "name": "6 oz fresh currants",
+      "notes": "Use either dried or fresh if preferred, ensure they are not overly wet"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small saucepan, combine honey and lemon juice. Bring to a simmer over medium heat for about 2 minutes.",
+    "Meanwhile, pit the dates and place them in a bowl with prunes, pitted walnuts, salt, and remaining olive oil. Mix well.",
+    "Transfer the mixture into an oven-safe dish or a baking pan that can fit all ingredients evenly distributed.",
+    "Pour the honey-lemon sauce over the top of the date-walnut-prune mixture. Sprinkle fresh currants on top if using.",
+    "Bake for about 20-25 minutes, until golden and bubbly around the edges.",
+    "Remove from oven and let cool slightly before serving with Greek yogurt or a scoop of ice cream for a perfect mediterranean date-night treat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "halal-friendly",
+    "date-night",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 12,
+    "carbs": 67,
+    "fat": 12
+  },
+  "slug": "halal-medjool-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-medjool-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:22:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "currants",
+    "diet": "halal",
+    "region": null
+  }
+}
