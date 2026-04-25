@@ -126,6 +126,20 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-zest-chicken",
+    "title": "Herbal Zest Chicken",
+    "tags": [
+      "herbal",
+      "light",
+      "hangover-cure",
+      "syrian",
+      "nut-free-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "herbally-monsoon-french-lentil-delight",
     "title": "Herbally Monsoon French Lentil Delight",
     "tags": [

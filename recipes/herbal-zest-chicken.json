@@ -1,0 +1,76 @@
+{
+  "title": "Herbal Zest Chicken",
+  "description": "A light and herbal Syrian dish featuring chicken breast with a hint of mint and lemon to aid in hangover recovery, suitable for nut-free diets.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian",
+    "nut-free"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Leaves of Fresh Parsley",
+      "amount": "2 tablespoons, finely chopped"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut chicken into serving pieces and season with black pepper.",
+    "Heat olive oil in a skillet over medium heat, add chicken and cook until golden brown on both sides, about 4-5 minutes per side.",
+    "Add mint, parsley, and lemon zest to the skillet; toss gently to coat chicken evenly.",
+    "Transfer cooked chicken to a baking dish. Bake for 10-12 minutes or until internal temperature reaches 165°F (74°C).",
+    "Serve hot as a light Syrian-style snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "light",
+    "hangover-cure",
+    "syrian",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 27,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "herbal-zest-chicken",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-zest-chicken",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:45:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "chicken breast",
+    "diet": "nut-free",
+    "region": null
+  }
+}
