@@ -1,0 +1,94 @@
+{
+  "title": "HerbJerkKetoGooeyStuffedVegetables",
+  "description": "A savory Chinese Shandong-inspired solo-dinner dish featuring gooey vegetables stuffed with a Korean-style jerk seasoning and fried to perfection, suitable for the Keto diet.",
+  "cuisine": "Chinese (Shandong)",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large each for yellow and red"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "3"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Clean and slice zucchini into rounds, halve the bell peppers lengthwise.",
+    "Sauté minced jalapeno, garlic, and ground pork in hot vegetable oil until cooked through. Stir in oyster sauce, soy sauce, brown sugar, salt, and pepper for about 5 minutes on low heat.",
+    "Add seasoned ground meat mixture to zucchini slices and bell peppers, gently mix to coat evenly. Stuff each vegetable half with the meat mixture.",
+    "Preheat oven at 400°F (205°C). Place stuffed vegetables in a greased baking dish and bake for about 30 minutes until golden brown and tender.",
+    "Serve hot as a keto-friendly solo dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "herbjerk",
+    "vegetables",
+    "stuffed",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 17,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "herbjerkketogooeystuffedvegetables",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbjerkketogooeystuffedvegetables",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:49:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "jerk",
+    "diet": "kosher",
+    "region": "shandong"
+  }
+}

@@ -45,5 +45,19 @@
     "cuisine": "Turkish",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "herbjerkketogooeystuffedvegetables",
+    "title": "HerbJerkKetoGooeyStuffedVegetables",
+    "tags": [
+      "keto",
+      "herbjerk",
+      "vegetables",
+      "stuffed",
+      "fried"
+    ],
+    "cuisine": "Chinese (Shandong)",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
