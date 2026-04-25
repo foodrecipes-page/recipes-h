@@ -1,0 +1,68 @@
+{
+  "title": "Hot Beef Stock Pancakes",
+  "description": "A sweet and crunchy brunch dish featuring hot beef stock, jain-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Beef Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tapioca Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sweetener (optional, for a touch of sweetness)",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Combine beef stock and water in a pressure cooker. Bring to a simmer.",
+    "Whisk tapioca flour with a few drops of sweetener until smooth. Pour into the boiling mixture, stirring continuously.",
+    "Simmer for about 10 minutes or until thickened.",
+    "Remove from heat and let cool slightly.",
+    "Pour batter onto hot skillet or griddle over medium heat.",
+    "Cook pancakes in batches until golden brown on both sides.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hot-beef-stock-pancakes",
+    "vegan-friendly",
+    "jain-friendly",
+    "sweet-and-crunchy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 2
+  },
+  "slug": "hot-beef-stock-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-beef-stock-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:43:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "hot beef stock",
+    "diet": "jain",
+    "region": null
+  }
+}

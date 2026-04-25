@@ -256,6 +256,19 @@
     "shard": "h"
   },
   {
+    "slug": "hot-beef-stock-pancakes",
+    "title": "Hot Beef Stock Pancakes",
+    "tags": [
+      "hot-beef-stock-pancakes",
+      "vegan-friendly",
+      "jain-friendly",
+      "sweet-and-crunchy"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hummus-energizer",
     "title": "Hummus Energizer",
     "tags": [
