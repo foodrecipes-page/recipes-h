@@ -50,6 +50,19 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-quinua-custard",
+    "title": "Herbal Quinua Custard",
+    "tags": [
+      "quinua",
+      "custard",
+      "peruvian",
+      "honey"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "herbally-monsoon-french-lentil-delight",
     "title": "Herbally Monsoon French Lentil Delight",
     "tags": [
