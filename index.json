@@ -1,5 +1,17 @@
 [
   {
+    "slug": "halal-cod-bliss",
+    "title": "Halal Cod Bliss",
+    "tags": [
+      "halal-cookout",
+      "tangy-mexican-dish",
+      "indulgent-dessert"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
     "slug": "halal-earthy-date-night-steak-tips",
     "title": "Halal Earthy Date Night Steak Tips",
     "tags": [

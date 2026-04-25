@@ -1,0 +1,83 @@
+{
+  "title": "Halal Cod Bliss",
+  "description": "A tangy, tender Mexican-inspired dish featuring cod cooked sous-vide and served with a delicious sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sous-vide Cod Fillets",
+      "amount": "6 pieces, about 120g each"
+    },
+    {
+      "name": "Coconut Aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Chili Paste (such as Sambal Oelek)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Mango Chutney",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "6 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 130°F (54°C).",
+    "Season the cod fillets with salt and pepper.",
+    "Sous vide the cod for 4 hours at 130°F (54°C).",
+    "Blend coconut aminos, Dijon mustard, lime juice, chili paste, minced garlic, and mango chutney in a blender until smooth. Set aside.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add cod fillets to the skillet and cook for 2 minutes on each side or until golden brown.",
+    "Pour the sauce into the pan with the cooked cod, letting it simmer gently for 1-2 minutes, stirring occasionally.",
+    "Serve hot as an indulgent Mexican dish."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal-cookout",
+    "tangy-mexican-dish",
+    "indulgent-dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 25
+  },
+  "slug": "halal-cod-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-cod-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:47:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "cod",
+    "diet": "halal",
+    "region": null
+  }
+}
