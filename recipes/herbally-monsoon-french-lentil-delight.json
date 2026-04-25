@@ -1,0 +1,88 @@
+{
+  "title": "Herbally Monsoon French Lentil Delight",
+  "description": "A gooey, herbal monsoon dish featuring French lentils with a touch of toastiness and egg-free-friendly options.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups dried French lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can (14 oz) diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "2 tbsp fresh ginger, grated",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp cumin seeds",
+      "amount": ""
+    },
+    {
+      "name": "3 cardamom pods, crushed",
+      "amount": ""
+    },
+    {
+      "name": "1 cinnamon stick",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp curry powder",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh herbs (cilantro or parsley), chopped",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the lentils in water for at least an hour.",
+    "Heat a tablespoon of oil in a large pot. Add onions, garlic, ginger, cumin seeds, cardamom pods, cinnamon stick, curry powder, salt, and crushed tomatoes. Stir well.",
+    "Add the soaked lentils to the pot with their soaking liquid. Cover and simmer for about 30 minutes until the lentils are soft but still hold shape.",
+    "Stir in fresh herbs just before serving.",
+    "Garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbally-monsoon-french-lentil-delight"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 15,
+    "carbs": 59,
+    "fat": 4
+  },
+  "slug": "herbally-monsoon-french-lentil-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbally-monsoon-french-lentil-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:29:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "french lentils",
+    "diet": "egg-free",
+    "region": null
+  }
+}

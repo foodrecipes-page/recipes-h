@@ -35,5 +35,15 @@
     "cuisine": "Australian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "herbally-monsoon-french-lentil-delight",
+    "title": "Herbally Monsoon French Lentil Delight",
+    "tags": [
+      "herbally-monsoon-french-lentil-delight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
