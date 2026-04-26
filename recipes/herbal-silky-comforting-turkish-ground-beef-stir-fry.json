@@ -1,0 +1,102 @@
+{
+  "title": "Herbal Silky Comforting Turkish Ground Beef Stir-fry",
+  "description": "This herbal and silky comfort dish features ground beef in a rich sauce with aromatic herbs for a delicious dinner option that is egg-free-friendly.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Herbs (dried or fresh)",
+      "amount": "To taste, such as oregano, thyme, and parsley"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pan with vegetable oil over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it into small pieces.",
+    "Add onion and garlic; sauté for about 2 minutes.",
+    "Mix in cumin seeds, coriander powder, turmeric powder, and black pepper flakes. Cook for another minute to toast the spices.",
+    "Stir in herbs (dried or fresh) according to taste. Mix well until fragrant.",
+    "Pour in tomato paste and stir continuously for 1-2 minutes, allowing it to slightly thicken.",
+    "Gradually add water while stirring constantly to prevent clumping of ground beef. Let the mixture simmer gently for about 5 minutes.",
+    "Garnish with sliced red bell pepper if using, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-stir-fry",
+    "ground-beef-dish",
+    "herbaceous-flavor",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "herbal-silky-comforting-turkish-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-silky-comforting-turkish-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:36:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "ground beef",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Herbal Silky Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
