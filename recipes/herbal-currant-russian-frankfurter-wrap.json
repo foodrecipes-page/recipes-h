@@ -1,0 +1,99 @@
+{
+  "title": "Herbal Currant Russian Frankfurter Wrap",
+  "description": "A crisp and energizing Russian dish featuring a frankfurter inside a crispy wrap with herbal elements and currants for a pescatarian-friendly snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurters",
+      "amount": "4 slices",
+      "notes": "Ensure they are cooked thoroughly."
+    },
+    {
+      "name": "Whole Wheat Tortilla Wrap",
+      "amount": "2 pieces",
+      "notes": "Choose a whole wheat tortilla for added nutrition and texture."
+    },
+    {
+      "name": "Currants",
+      "amount": "1/4 cup",
+      "notes": "Dried or fresh, depending on availability and preference."
+    },
+    {
+      "name": "Herbal Salad Mix",
+      "amount": "1/2 cup",
+      "notes": "Include arugula, spinach, and other leafy greens for freshness and crunch."
+    },
+    {
+      "name": "Avocado Spread",
+      "amount": "1 tablespoon",
+      "notes": "Use a natural spread or guacamole to add creaminess."
+    },
+    {
+      "name": "Light Mayo (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For those who prefer a mild flavoring, use light mayonnaise for added moisture and nutrition."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste",
+      "notes": "Season with these classic spices to enhance flavors."
+    },
+    {
+      "name": "Paprika (optional)",
+      "amount": "A pinch",
+      "notes": "Sprinkle on top for a touch of color and spice."
+    }
+  ],
+  "instructions": [
+    "Heat the tortilla wrap in the microwave or toaster oven until it becomes slightly crisp, about 30 seconds.",
+    "Prepare the herbal salad by tossing together arugula, spinach, and any other greens with your chosen herbs. Season with salt and pepper to taste.",
+    "Add avocado spread and optional light mayo to a small mixing bowl for added moisture and texture.",
+    "Divide the herbal salad mix into two portions, evenly distributing it over the top of each wrap.",
+    "Place 2 frankfurters in a line on one half of the wrap. Spoon the avocado-mayo mixture over the frankfurter slices.",
+    "Sprinkle a pinch of paprika if desired to add color and subtle flavor.",
+    "Fold the wrap shut, using any leftover herbs or greens to fill in any gaps for added visual appeal and texture.",
+    "Serve immediately while still warm and enjoy your Herbal Currant Russian Frankfurter Wrap."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "crisp",
+    "energizing",
+    "russian",
+    "frankfurter",
+    "wrap",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "herbal-currant-russian-frankfurter-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-currant-russian-frankfurter-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:12:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "frankfurter",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Frankfurter",
+    "descriptor": "Herbal Currant",
+    "dishForm": "Wrap"
+  }
+}
