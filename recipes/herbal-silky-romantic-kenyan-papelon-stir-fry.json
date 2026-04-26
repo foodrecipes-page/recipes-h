@@ -1,0 +1,96 @@
+{
+  "title": "Herbal Silky Romantic Kenyan Papelon Stir-fry",
+  "description": "A herbal and silky vegetarian-friendly dish featuring papelon that is both romantic and easy to prepare, perfect for a light dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "100g"
+    },
+    {
+      "name": "green beans",
+      "amount": "50g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "bell pepper, red and green",
+      "amount": "2 pieces each"
+    },
+    {
+      "name": "herbs (thyme, rosemary)",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse papelon and green beans.",
+    "Slice onion, garlic cloves, red bell pepper, and green bell pepper thinly. Thinly slice the herbs for garnish.",
+    "Heat a bit of oil in a pan over medium heat. Add onions and sauté until translucent.",
+    "Add garlic and cook for another minute, stirring occasionally to prevent burning.",
+    "Toss in papelon and green beans, adding salt and pepper as needed. Stir-fry for 2-3 minutes.",
+    "Transfer the mixture to a baking dish. Layer in bell peppers evenly across the pan bottom.",
+    "Drizzle with butter over the vegetables. Sprinkle herbs on top. Drizzle remaining oil over the top layer of vegetables and herbs.",
+    "Bake for about 10-12 minutes until most vegetables are tender but slightly crisp around the edges.",
+    "Serve hot, garnished with a sprig of herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal-silky-romantic",
+    "kenyan-papelon-stir-fry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "herbal-silky-romantic-kenyan-papelon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-silky-romantic-kenyan-papelon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:53:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "papelon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "papelon",
+    "descriptor": "Herbal Silky Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
