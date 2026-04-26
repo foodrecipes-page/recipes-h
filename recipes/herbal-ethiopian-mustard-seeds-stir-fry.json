@@ -1,0 +1,100 @@
+{
+  "title": "Herbal Ethiopian Mustard Seeds Stir-fry",
+  "description": "This lazy-sunday dish combines tender mustard seeds with a variety of herbal flavors for a vibrant and healthful plant-based meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup mustard seeds",
+      "amount": "cup",
+      "notes": "Choose organic if available"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 medium onion, chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 bell pepper, any color, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 tbsp fresh ginger, grated",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cups spinach leaves (fresh or frozen)",
+      "amount": "cups"
+    },
+    {
+      "name": "3 sprigs cilantro, chopped",
+      "amount": "sprigs"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "2 tbsp vegan broth or water (for pressure cooking)",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pressure cooker over medium heat.",
+    "Add minced garlic, ginger, and onion. Sauté for about 3 minutes until fragrant but not browned.",
+    "Stir in mustard seeds and cook until they start to pop (about 2-3 minutes).",
+    "Pour in lemon juice, salt, and vegetable broth/water. Stir well.",
+    "Add the bell peppers and spinach leaves. Cover the cooker and seal with a pressure cooking lid.",
+    "Cook on high pressure for about 1 minute, then quick-release to release remaining steam (do not open until cool).",
+    "Toss the mixture with chopped cilantro just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "mustard seeds",
+    "lazy sunday",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 5.8,
+    "carbs": 27.9,
+    "fat": 9
+  },
+  "slug": "herbal-ethiopian-mustard-seeds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-ethiopian-mustard-seeds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:25:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mustard seeds",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mustard seeds",
+    "descriptor": "Herbal",
+    "dishForm": "Stir-fry"
+  }
+}
