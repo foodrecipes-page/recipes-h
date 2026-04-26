@@ -247,6 +247,21 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-tender-stout-soup",
+    "title": "Herbal Tender Stout Soup",
+    "tags": [
+      "herbal",
+      "tender",
+      "quick-fix",
+      "irish",
+      "dum",
+      "dash-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-zest-chicken",
     "title": "Herbal Zest Chicken",
     "tags": [

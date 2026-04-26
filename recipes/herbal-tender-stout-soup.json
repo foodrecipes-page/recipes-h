@@ -1,0 +1,74 @@
+{
+  "title": "Herbal Tender Stout Soup",
+  "description": "A quick-fix Irish dish featuring stout as the base with tender vegetables and herbs for a dash-friendly meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 liter Irish Stout",
+      "amount": "1 liter"
+    },
+    {
+      "name": "3 cups mixed leafy greens (e.g., spinach, kale)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "2 medium carrots, diced",
+      "amount": "2"
+    },
+    {
+      "name": "2 stalks celery, finely chopped",
+      "amount": "2"
+    },
+    {
+      "name": "1/4 cup fresh parsley, finely chopped (for garnish only)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the stout in a pot over medium heat. Stir occasionally to prevent burning.",
+    "Add the diced carrots and celery to the pot, stir well to combine with the stout.",
+    "When everything is heated through and well combined, add the leafy greens.",
+    "Stir until the greens wilt slightly but remain tender. The cooking time for vegetables should be about 5 minutes total.",
+    "Remove from heat and let it sit for a minute before serving. Garnish with fresh parsley if desired.",
+    "Serve hot as a quick-fix lunch or snack."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "tender",
+    "quick-fix",
+    "irish",
+    "dum",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "herbal-tender-stout-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-tender-stout-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:04:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "stout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Stout",
+    "descriptor": "Herbal Tender",
+    "dishForm": "Soup"
+  }
+}
