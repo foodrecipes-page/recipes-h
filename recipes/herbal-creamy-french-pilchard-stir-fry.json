@@ -1,0 +1,83 @@
+{
+  "title": "Herbal Creamy French Pilchards",
+  "description": "A high-protein-friendly meal-prep dish featuring pilchards in a creamy herbal sauce that's perfect for a quick and satisfying lunch or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilchards fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Herb-infused olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Béchamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh herbs (parsley, thyme, basil)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Creamy coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pilchard seasoning (optional)",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Boil the pilchards in herb-infused water for 5 minutes.",
+    "In a saucepan, melt a tablespoon of butter and whisk in béchamel sauce until smooth.",
+    "Add fresh herbs, creamy coconut milk, salt, pepper, and any additional seasoning (if using). Stir well to combine.",
+    "Combine the pilchards with the béchamel mixture. Gently stir them to coat evenly.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "creamy",
+    "french-pilchards",
+    "meal-prep",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 20
+  },
+  "slug": "herbal-creamy-french-pilchard-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-creamy-french-pilchard-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:09:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "pilchards",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Pilchards",
+    "descriptor": "Herbal Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
