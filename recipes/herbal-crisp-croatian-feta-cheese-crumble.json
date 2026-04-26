@@ -1,0 +1,82 @@
+{
+  "title": "Herbal Crisp Croatian Feta Cheese Crumble",
+  "description": "A herbal and crisp Croatian dish featuring cubed feta cheese crumbled with a dash of friendly flavors, perfect for snacking or adding to salads.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup",
+      "notes": "Use a variety of herbs like oregano and thyme"
+    },
+    {
+      "name": "Herbs (Oregano, Thyme)",
+      "amount": "Handful",
+      "notes": "Chopped fresh"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "1-2 cloves",
+      "notes": "Crushed or minced for added depth of flavor"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For a crispy texture"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Dash",
+      "notes": "To taste, can be omitted for a milder dish"
+    }
+  ],
+  "instructions": [
+    "Chop the feta cheese into small cubes.",
+    "Finely chop the herbs and garlic, ensuring to bruise them slightly with your fingers to release more flavor.",
+    "Heat coconut oil in a pan over medium heat. Add the chopped herbs and sauté for about 2 minutes until they start to wilt slightly.",
+    "Add the feta cheese cubes and salt, then toss gently so as not to break up the cheese too much. If using pepper, sprinkle it on at this point or just before serving.",
+    "Reduce heat to low and cook the mixture for another 5-10 minutes until most of the moisture is evaporated and the mixture starts to look crisp.",
+    "Serve hot or let cool slightly and then serve as a garnish over salads, soups, or as an appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "croatian",
+    "feta cheese",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 9,
+    "carbs": 2.4,
+    "fat": 10
+  },
+  "slug": "herbal-crisp-croatian-feta-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crisp-croatian-feta-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:22:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Feta Cheese",
+    "descriptor": "Herbal Crisp",
+    "dishForm": "Crumble"
+  }
+}
