@@ -1,0 +1,91 @@
+{
+  "title": "Herbal Chewy Mexican Shrimp",
+  "description": "A kid-friendly herbal and chewy shrimp dish infused with Mexican spices for a delightful snack that's also jain-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 ounces",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "3 tablespoons",
+      "notes": "Vegan for non-dairy options"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons, chopped fresh",
+      "notes": "For added freshness and crunch"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "To add heat if desired"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For a savory kick"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "Whole seeds or powder, optional for added depth"
+    }
+  ],
+  "instructions": [
+    "Combine mayonnaise and lime juice in a mixing bowl.",
+    "Add chopped cilantro to the mixture.",
+    "Stir in red pepper flakes, garlic powder, and cumin if using.",
+    "Gently fold shrimp into the mayo-cilantro-lime sauce until evenly coated.",
+    "Transfer to an oven-safe dish or shallow baking pan for serving.",
+    "Bake at 350°F (175°C) for about 12-15 minutes, until heated through and slightly crispy on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "chewy",
+    "kid-friendly",
+    "mexican",
+    "shrimp",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 14,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "herbal-chewy-mexican-shrimp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-chewy-mexican-shrimp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:13:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "shrimp",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shrimp",
+    "descriptor": "Herbal Chewy",
+    "dishForm": "Chewy"
+  }
+}

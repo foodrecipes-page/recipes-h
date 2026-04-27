@@ -176,6 +176,21 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-chewy-mexican-shrimp",
+    "title": "Herbal Chewy Mexican Shrimp",
+    "tags": [
+      "herbal",
+      "chewy",
+      "kid-friendly",
+      "mexican",
+      "shrimp",
+      "vegan-optional"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-creamy-french-pilchard-stir-fry",
     "title": "Herbal Creamy French Pilchards",
     "tags": [
