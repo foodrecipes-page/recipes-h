@@ -1,0 +1,97 @@
+{
+  "title": "Herbal Crisp Middle Eastern Ground Beef Stir-fry",
+  "description": "This festive dish features ground beef cooked with herbs for a crispy texture and unique flavor profile, perfect as a savory snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "200 grams"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "1 cup, fresh and roughly chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "2 tablespoons, chopped fresh"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it into small pieces as needed.",
+    "Stir in chopped onion and minced garlic. Cook for about 2 minutes or until the onions are translucent.",
+    "Mix in fresh dill and cilantro. Let the mixture cook for an additional minute to allow flavors to meld together.",
+    "Add finely chopped spinach leaves. Cover the pan and let the heat soften the leaves, stirring occasionally, approximately 5-7 minutes.",
+    "Taste the stir-fry at this point, adjust seasoning with salt and pepper as needed. Mix in lemon juice and sesame seeds last, serving immediately.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "crisp",
+    "middle-eastern",
+    "ground-beef-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 19,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "herbal-crisp-middle-eastern-ground-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crisp-middle-eastern-ground-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:17:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "fry",
+    "primaryIngredient": "ground beef",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Herbal Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
