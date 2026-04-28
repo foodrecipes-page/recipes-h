@@ -1,0 +1,102 @@
+{
+  "title": "Herbal Crispy Russian Cabbage Stir-fry",
+  "description": "This Mediterranean-friendly dish combines crispy cabbage leaves with herbs and spices for a flavorful one-pot meal that's perfect as a side or light dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage, thinly sliced",
+      "amount": "1 head",
+      "notes": "about 8 cups"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil if preferred"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "Dill, finely chopped (optional)",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "Thyme leaves, roughly torn (optional)",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, finely chopped (for garnish)",
+      "amount": "-",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion and garlic; sauté until translucent, about 5 minutes.",
+    "Toss in lemon zest, dill (if using), thyme leaves (if using), and red pepper flakes. Stir well to combine all the ingredients.",
+    "Place the cabbage on top of the vegetable mixture, making sure each slice is evenly coated with the herb-spice oil mixture.",
+    "Reduce heat to low and cover the pan for about 10-15 minutes until the cabbage leaves are tender but still crisp.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "crispy",
+    "russian",
+    "cabbage",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "herbal-crispy-russian-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crispy-russian-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:31:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Herbal Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
