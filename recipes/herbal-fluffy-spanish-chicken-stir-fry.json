@@ -1,0 +1,99 @@
+{
+  "title": "Herbal Fluffy Spanish Chicken Stir-Fry",
+  "description": "This Mediterranean-inspired dish features chicken stock concentrate, herbs, and a touch of kneading to achieve fluffy textures in a quick weeknight meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless skinless chicken breasts",
+      "amount": "4 pieces",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "1 piece",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 yellow bell pepper",
+      "amount": "1 piece",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 cup mixed fresh herbs (e.g., parsley, basil, mint)",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1/2 cup chicken stock concentrate",
+      "amount": "1/2 cup",
+      "notes": "Reconstituted with hot water to make 4 cups liquid"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "About 1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix chicken stock concentrate with hot water until fully dissolved.",
+    "Cut the chicken into bite-sized pieces and season with salt and pepper. Arrange on a baking sheet lined with parchment paper.",
+    "Mix minced garlic, chopped peppers, mixed herbs, lemon juice, olive oil, and remaining liquid from the chicken stock mixture in a large bowl. Add seasoned chicken pieces and toss to coat evenly.",
+    "Spread the chicken pieces in a single layer over the prepared pan. Bake for 20 minutes or until chicken is fully cooked (internal temperature reaches 165°F).",
+    "Reduce heat to 325°F (160°C) while resting the chicken pieces on a cooling rack. Pour remaining marinade into a small saucepan, add in any accumulated juices from the baking pan.",
+    "Heat over medium-high and bring mixture to a simmer. Simmer for about 2-3 minutes until slightly thickened. Toss with rested chicken pieces just before serving.",
+    "Serve hot alongside your choice of side dish such as quinoa or steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "spicy",
+    "mediterranean",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 27,
+    "carbs": 16,
+    "fat": 12
+  },
+  "slug": "herbal-fluffy-spanish-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-fluffy-spanish-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:41:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Herbal Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -274,6 +274,19 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-fluffy-spanish-chicken-stir-fry",
+    "title": "Herbal Fluffy Spanish Chicken Stir-Fry",
+    "tags": [
+      "fluffy",
+      "spicy",
+      "mediterranean",
+      "quick"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-greek-veal-stir-fry",
     "title": "Herbal Greek Veal Stir-fry",
     "tags": [
