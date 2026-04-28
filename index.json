@@ -311,6 +311,19 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-quinoa-salad",
+    "title": "Herbal Quinoa Salad with Sous-Vide",
+    "tags": [
+      "quinoa",
+      "salad",
+      "herbal",
+      "light"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 170,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-quinua-custard",
     "title": "Herbal Quinua Custard",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Herbal Quinoa Salad with Sous-Vide",
+  "description": "A light and herbal Portuguese-inspired salad featuring quinoa, mixed greens, and a delicate dressing that includes granulated sugar for a unique twist.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and cooked according to package instructions"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups",
+      "notes": "includes lettuce, spinach, and arugula for freshness and texture"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch",
+      "notes": "grated for a zingy flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed from one lemon for brightness"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "reduces the acidity of the lemon to make it more suitable for a salad dressing"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": "used as the primary fat in this dressing"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 teaspoon",
+      "notes": "adds sweetness and balances the tanginess of the dressing"
+    },
+    {
+      "name": "sauces, mixed (e.g., soy sauce)",
+      "amount": "1 tablespoon",
+      "notes": "used for a touch of umami and extra flavor"
+    }
+  ],
+  "instructions": [
+    "Sous-vide the quinoa according to package instructions at 50°C (122°F) for about 3 hours or until it's soft.",
+    "Prepare other ingredients like mixed greens, grated ginger root, and mix-ins such as chopped nuts and seeds for added texture.",
+    "In a mixing bowl, combine the cooked quinoa with all other prepared ingredients and dressings. Mix gently but thoroughly to ensure everything is evenly coated.",
+    "Taste the salad dressing; if needed, adjust it with more lemon juice or apple cider vinegar for better balance of flavors."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quinoa",
+    "salad",
+    "herbal",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "herbal-quinoa-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-quinoa-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:43:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "granulated sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Herbal",
+    "dishForm": "Salad"
+  }
+}
