@@ -1,0 +1,82 @@
+{
+  "title": "Herbaceous Thai Chicken Stir-fry",
+  "description": "A kid-friendly and raw-friendly herbal stir-fry featuring tender chicken seasoned with aromatic herbs for a deliciously easy-to-cook meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "scallions",
+      "amount": "6-8 stalks"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-3 slices"
+    },
+    {
+      "name": "lemon leaves",
+      "amount": "2-4 pieces"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the chicken by trimming any excess fat, slicing it into thin pieces, and season with salt and pepper.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat. Add scallions, ginger, lemon leaves, Thai basil, fish sauce, and soy sauce. Stir well to combine.",
+    "Add chicken to the pan and stir-fry for 5-7 minutes until cooked through, turning occasionally.",
+    "Serve hot with steamed jasmine rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbaceous",
+    "tender",
+    "kid-friendly",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 36,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "herbaceous-thai-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-thai-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:11:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "seasoning",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Herbaceous",
+    "dishForm": "Stir-fry"
+  }
+}

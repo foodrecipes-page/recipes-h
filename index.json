@@ -188,6 +188,19 @@
     "shard": "h"
   },
   {
+    "slug": "herbaceous-thai-chicken-stir-fry",
+    "title": "Herbaceous Thai Chicken Stir-fry",
+    "tags": [
+      "herbaceous",
+      "tender",
+      "kid-friendly",
+      "raw-friendly"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-chewy-mexican-shrimp",
     "title": "Herbal Chewy Mexican Shrimp",
     "tags": [
