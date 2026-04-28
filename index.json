@@ -150,6 +150,18 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-vegetarian-tofu-wraps",
+    "title": "Hearty Vegetarian Tofu Wraps",
+    "tags": [
+      "vegetarian-wrap",
+      "healthy-meal",
+      "quick-lunch"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "herb-jerk-keto-gooey-stuffed-vegetables",
     "title": "HerbJerkKetoGooeyStuffedVegetables",
     "tags": [

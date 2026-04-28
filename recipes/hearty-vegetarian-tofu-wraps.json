@@ -1,0 +1,84 @@
+{
+  "title": "Hearty Vegetarian Tofu Wraps",
+  "description": "Savory and gooey vegetarian wraps reminiscent of Venezuelan dishes, perfect for a weeknight meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toynabe Tofu",
+      "amount": "2 blocks"
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Juice of 1 Lime",
+      "amount": "large"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Blend the Toynabe Tofu with lime juice, garlic, cumin powder, and salt until smooth.",
+    "Heat olive oil in a pan over medium heat. Add chopped onions and sauté for about 5 minutes until they soften.",
+    "Add diced bell peppers to the onion mixture and cook for another 3-4 minutes or until peppers are soft and translucent.",
+    "Transfer the tofu mixture into the pan with vegetables, reduce heat to low, and let it simmer for at least 10 minutes stirring occasionally.",
+    "Serve hot inside lettuce leaves or whole wheat wraps as a filling."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian-wrap",
+    "healthy-meal",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "hearty-vegetarian-tofu-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-vegetarian-tofu-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:59:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "doner meat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Hearty",
+    "dishForm": "Wraps"
+  }
+}
