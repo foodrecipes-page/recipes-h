@@ -1,0 +1,89 @@
+{
+  "title": "Herbal Crunchy Tunisian Christmas Pudding Crumble",
+  "description": "A delightful blend of herbal spices and a crunchy texture for an indulgent dessert that pairs well with hot drinks during the festive season.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup (240ml) unsweetened almond milk",
+      "amount": "cup"
+    },
+    {
+      "name": "6 tablespoons (80g) ground almonds",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "3 teaspoons vanilla extract",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon ground ginger",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/8 teaspoon nutmeg",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup (60g) brown sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "for savory options, use 2 teaspoons fennel seeds instead"
+    },
+    {
+      "name": "Coarse sea salt for topping",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix the ground almonds and brown sugar in a bowl. Add vanilla extract, cinnamon, ginger, nutmeg, and salt (if using). Stir until well combined.",
+    "Add almond milk gradually while stirring continuously until mixture becomes thick enough for spreading (like jam).",
+    "Transfer to an oven-safe dish or baking sheet lined with parchment paper. Spread evenly.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown and crisp on top.",
+    "Let cool slightly before serving with a dollop of whipped cream or coconut milk for extra indulgence."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "christmas",
+    "indulgent",
+    "herbal",
+    "crunchy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "herbal-crunchy-tunisian-christmas-pudding-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crunchy-tunisian-christmas-pudding-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:41:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "christmas pudding",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Herbal Crunchy",
+    "dishForm": "Crumble"
+  }
+}
