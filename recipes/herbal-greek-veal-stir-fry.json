@@ -1,0 +1,100 @@
+{
+  "title": "Herbal Greek Veal Stir-fry",
+  "description": "A light and kid-friendly greek dish featuring veal with a tadka (Indian seasoning blend) for added flavor. Perfect for a quick weeknight dinner.",
+  "cuisine": "Greek, Indian",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegan mince meat substitute",
+      "amount": "1 cup",
+      "notes": "Can be found in most supermarkets"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "Full-fat for richness"
+    },
+    {
+      "name": "zucchini, sliced thinly",
+      "amount": "6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 piece"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1/2 piece"
+    },
+    {
+      "name": "capsicum (bell pepper), thinly sliced",
+      "amount": "1 piece"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "cilantro, chopped for garnish",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tadka seasoning blend (use for 2 tablespoons)",
+      "amount": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add minced garlic, onion, and diced red bell pepper to the pan.",
+    "Stir-fry for about 5 minutes until vegetables start to soften. Remove from heat and set aside.",
+    "In a separate bowl, mix together Greek yogurt and minced garlic in a blender or food processor.",
+    "Add sliced zucchini into the same skillet where you had cooked vegetables. Add a bit of water (about 1/4 cup) for steaming if needed. Stir-fry until tender-crisp, about 5 minutes.",
+    "Return vegetables to the bowl with yogurt mixture and add sliced capsicum. Mix well and set aside in a warm place.",
+    "In the same skillet, lightly fry minced vegan mince meat substitute till cooked through (approximately 8-10 minutes), breaking it into small pieces as you stir-fry.",
+    "Add tadka seasoning blend to the skillet and stir for about 30 seconds until fragrant. Pour in the yogurt mixture with zucchini and vegetables, stirring well.",
+    "Season with salt and pepper according to taste. Serve hot garnished with chopped cilantro.",
+    "Garnish each serving with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan_mince_meat_substitute",
+    "greek_vegan_veal_stir_fry",
+    "tadka_seasoning_blend"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 26,
+    "carbs": 32,
+    "fat": 19
+  },
+  "slug": "herbal-greek-veal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-greek-veal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:06:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "veal",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "veal",
+    "descriptor": "Herbal",
+    "dishForm": "Stir-fry"
+  }
+}

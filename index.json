@@ -274,6 +274,18 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-greek-veal-stir-fry",
+    "title": "Herbal Greek Veal Stir-fry",
+    "tags": [
+      "vegan_mince_meat_substitute",
+      "greek_vegan_veal_stir_fry",
+      "tadka_seasoning_blend"
+    ],
+    "cuisine": "Greek, Indian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-quinua-custard",
     "title": "Herbal Quinua Custard",
     "tags": [
