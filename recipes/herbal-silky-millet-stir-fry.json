@@ -1,0 +1,86 @@
+{
+  "title": "Herbal Silky Millet Stir-Fry",
+  "description": "This Herbal Silky Millet Stir-Fry is a delicious one-pot Mediterranean dish featuring millet, steamed vegetables, and aromatic herbs, ideal for Jain-friendly meals.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup millet",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cup(s)"
+    },
+    {
+      "name": "1 bell pepper, diced (red, green, yellow)",
+      "amount": "medium",
+      "notes": "any color can be used"
+    },
+    {
+      "name": "1 zucchini, diced",
+      "amount": "small to medium"
+    },
+    {
+      "name": "2 cups mixed herbs like dill and parsley, finely chopped",
+      "amount": "cup(s)"
+    },
+    {
+      "name": "1 tablespoon olive oil or ghee",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Rinse the millet and drain it. In a medium saucepan, bring water or vegetable broth to a boil.",
+    "Stir in the rinsed millet and reduce heat to low. Cover and simmer for about 15 minutes until liquid is absorbed and millet is tender.",
+    "While millet is cooking, dice bell peppers and zucchini into small pieces. In a large skillet, heat olive oil or ghee over medium-high heat.",
+    "Add the mixed herbs and cook for about 1 minute until fragrant. Then add diced vegetables to the skillet with the herbs, and sauté for another 5 minutes until slightly softened.",
+    "Once millet is cooked, remove from heat and let it cool slightly. Gently fold in cooled millet into the vegetable mixture with a spatula or spoon.",
+    "Season with salt and serve hot as your main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "silky",
+    "millet",
+    "mediterranean",
+    "one-pot",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 9,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "herbal-silky-millet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-silky-millet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:55:05Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "millet",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "millet",
+    "descriptor": "Herbal Silky",
+    "dishForm": "Stir-fry"
+  }
+}
