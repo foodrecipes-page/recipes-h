@@ -1,0 +1,87 @@
+{
+  "title": "Herbal Malaysian Corn Flour Pilaf",
+  "description": "A herbal and tender post-workout dish featuring corn flour with low-sodium content for a balanced meal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, ready to use"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "herbs (parsley, mint)",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat sesame oil over medium-high heat.",
+    "Add ginger paste and garlic paste to the pan and stir for about 30 seconds.",
+    "Gradually add corn flour while continuously stirring to avoid lumps. Cook for another minute until thickened.",
+    "Pour in vegetable broth gradually, ensuring it mixes well with the corn flour mixture.",
+    "Bring to a simmer, then reduce heat to low and let it cook for an additional 5-7 minutes or until sauce thickens further.",
+    "Taste test and adjust seasoning with salt if needed. Stir in fresh herbs like coriander leaves to garnish.",
+    "Serve hot as part of your lunch meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "herbal",
+    "tender",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "herbal-malaysian-corn-flour-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-malaysian-corn-flour-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:24:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "corn flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Corn Flour",
+    "descriptor": "Herbal",
+    "dishForm": "Pilaf"
+  }
+}
