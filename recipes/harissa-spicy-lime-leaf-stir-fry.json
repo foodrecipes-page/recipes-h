@@ -1,0 +1,97 @@
+{
+  "title": "Harissa Spicy Lime Leaf Stir-Fry",
+  "description": "A bitter, dense Thai dish featuring harissa spice and reduced for a keto-friendly twist, perfect for those with heavy heads.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb ground beef",
+      "amount": "unspecified",
+      "notes": "For a meat lover's version"
+    },
+    {
+      "name": "1/2 cup chicken stock",
+      "amount": "undetermined",
+      "notes": "Use water or low-sodium broth for keto-friendly option"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "undetermined",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "undetermined",
+      "notes": "For sautéing and frying"
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": "undetermined",
+      "notes": "Fresh is best for optimal flavor"
+    },
+    {
+      "name": "10 fresh Thai basil leaves",
+      "amount": "undetermined",
+      "notes": "Add at the end to avoid wilting"
+    },
+    {
+      "name": "2 tablespoons harissa paste",
+      "amount": "undetermined",
+      "notes": "Use a keto-friendly version if available"
+    },
+    {
+      "name": "1/4 cup shredded carrots (optional)",
+      "amount": "undetermined",
+      "notes": "To add some crunch and sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add ground beef, cook until browned, breaking it into small pieces as needed. Remove from pan and set aside.",
+    "In the same skillet, sauté minced garlic for about 1 minute.",
+    "Reduce heat to low, add harissa paste and stir to combine with garlic.",
+    "Return cooked beef to the skillet along with any remaining juices. Stir in lime juice and carrots (if using).",
+    "Cover the pan and simmer for another 5-7 minutes until vegetables are slightly tender.",
+    "Stir in Thai basil leaves. Cover again and cook just a few more seconds to wilt the basil.",
+    "Remove from heat immediately, as overcooking will cause loss of vibrant color and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "harissa",
+    "limes",
+    "thai",
+    "keto-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "harissa-spicy-lime-leaf-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/harissa-spicy-lime-leaf-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:25:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "reduce",
+    "primaryIngredient": "harissa spice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lime leaf",
+    "descriptor": "Harissa Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
