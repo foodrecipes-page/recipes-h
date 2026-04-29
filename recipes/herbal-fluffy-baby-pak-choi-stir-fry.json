@@ -1,0 +1,101 @@
+{
+  "title": "Herbal Fluffy Baby Pak Choi Stir-fry",
+  "description": "A romantic middle-eastern dish featuring baby pak koi stir-fried with a blend of herbal flavors that are nut-free-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Pak Choi",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Lebanese Tzatziki Sauce",
+      "amount": "2 tablespoons, optional for topping"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add finely chopped onion and sauté until translucent, about 3 minutes.",
+    "Add baby pak choi, bell pepper, and garlic. Stir-fry for another 5 minutes, until vegetables are crisp-tender.",
+    "Stir in turmeric powder, garam masala, cumin seeds, coriander powder, and salt. Cook for an additional minute to blend flavors.",
+    "Transfer the stir-fried vegetables to a serving dish and garnish with Lebanese Tzatziki Sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baby-pak-choi",
+    "stir-fry",
+    "nut-free-friendly",
+    "herbal-fluffy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "herbal-fluffy-baby-pak-choi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-fluffy-baby-pak-choi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:58:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "baby pak koi",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Baby Pak Choi",
+    "descriptor": "Herbal Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
