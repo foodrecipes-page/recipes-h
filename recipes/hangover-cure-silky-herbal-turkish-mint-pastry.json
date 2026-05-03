@@ -1,0 +1,123 @@
+{
+  "title": "Turkish Mint Borek",
+  "description": "A traditional Turkish pastry filled with a soothing mixture of mint, herbs, and spices, designed to alleviate hangover symptoms, made with diabetic-friendly ingredients and finished with a silky glaze.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for the dough"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1/2 cup",
+      "notes": "for the dough"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the dough"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Tadka oil (or vegetable oil)",
+      "amount": "1 tablespoon",
+      "notes": "for frying the garlic"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour and warm water to form the dough.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let it rest for 30 minutes.",
+    "On a lightly floured surface, roll out the dough to a thickness of 1/8 inch (3 mm).",
+    "Cut the dough into 12 equal squares.",
+    "In a small pan, heat the tadka oil over medium heat and sauté the minced garlic until fragrant.",
+    "In a separate bowl, mix together the chopped mint, parsley, dill, garlic, ginger paste, lemon juice, and salt.",
+    "Place a tablespoon of the herb mixture on one half of each dough square, leaving a 1/2 inch (1 cm) border.",
+    "Brush the edges of the dough with olive oil and fold the other half over the filling to form a triangle.",
+    "Press the edges to seal and use a fork to crimp the pastry.",
+    "Brush the tops with olive oil and bake for 20-25 minutes, or until golden brown.",
+    "While the borek is baking, prepare the silky glaze by whisking together 1 cup of powdered sugar and 2 tablespoons of lemon juice.",
+    "Once the borek is done, let it cool for 5 minutes before brushing with the silky glaze."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "mint",
+    "herbal",
+    "hangover-cure",
+    "silky",
+    "vegan",
+    "diabetic-friendly",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "hangover-cure-silky-herbal-turkish-mint-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-silky-herbal-turkish-mint-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:11:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "olive oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "mint",
+    "descriptor": "hangover-cure silky herbal",
+    "dishForm": "Pastry"
+  }
+}
