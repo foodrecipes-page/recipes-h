@@ -1,0 +1,112 @@
+{
+  "title": "Hangover-Cure Kenyan Herbal Tender Tea Stew",
+  "description": "A soothing Kenyan stew featuring herbal tea, clotted cream, and a hint of tadka to cure hangover symptoms while being vegan-friendly",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tender shoots of Bitter Leaf ( Vernonia amygdalina )",
+      "amount": "2 cups",
+      "notes": "harvested from a pesticide-free area"
+    },
+    {
+      "name": "Green tea leaves",
+      "amount": "1 tsp",
+      "notes": "loose-leaf, organic"
+    },
+    {
+      "name": "Clotted cream (dairy or dairy-free alternative)",
+      "amount": "2 tbsp",
+      "notes": "ensure it's vegan-friendly"
+    },
+    {
+      "name": "Tadka spice blend",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Ginger root",
+      "amount": "1 inch",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, organic"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": " Himalayan pink salt recommended"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large kettle, combine Bitter Leaf shoots, green tea leaves, ginger root, and vegetable broth.",
+    "Bring to a boil over high heat, then reduce the heat to low and simmer for 20 minutes.",
+    "Strain the tea into a separate pot, discarding the solids.",
+    "In a large saucepan, heat the tadka spice blend over medium heat for 1-2 minutes.",
+    "Add the coconut milk, clotted cream, and chopped fresh mint leaves. Stir until well combined.",
+    "Gradually add the strained herbal tea to the saucepan, whisking continuously.",
+    "Season with salt and black pepper to taste.",
+    "Simmer the stew over low heat for an additional 10-15 minutes.",
+    "Serve warm, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "herbal-tea",
+    "tender-shoots",
+    "clotted-cream",
+    "tadka-spice-blend",
+    "ginger-root",
+    "coconut-milk",
+    "vegetable-broth",
+    "hangover-cure",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "hangover-cure-kenyan-herbal-tender-tea-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-kenyan-herbal-tender-tea-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:44:11Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "clotted cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "herbal tender tea",
+    "descriptor": "hangover-cure",
+    "dishForm": "Stew"
+  }
+}
