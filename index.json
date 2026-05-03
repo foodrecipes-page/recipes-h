@@ -256,6 +256,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-russian-sweet-potato-parfait",
+    "title": "Hearty Russian Sweet Potato Parfait",
+    "tags": [
+      "dessert",
+      "hearty",
+      "parfait",
+      "post-workout",
+      "russian",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoked-kenyan-fish-braise",
     "title": "Hearty Smoked Kenyan Fish Braise",
     "tags": [

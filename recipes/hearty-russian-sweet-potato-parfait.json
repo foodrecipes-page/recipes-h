@@ -1,0 +1,113 @@
+{
+  "title": "Hearty Russian Sweet Potato Parfait",
+  "description": "A creamy, sweet and savory parfait layering roasted sweet potato, yogurt, and golden yellow corn masa for a post-workout treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "400g",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g",
+      "notes": "plain"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "yellow corn masa flour",
+      "amount": "50g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "50g",
+      "notes": "for crunch"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "few",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment paper.",
+    "Toss sweet potato cubes with butter, salt, pepper, and cinnamon, spread on sheet, and roast for 25 minutes until tender.",
+    "Whisk Greek yogurt, honey, vanilla, and a pinch of salt together in a bowl.",
+    "In a small saucepan, combine yellow corn masa flour with water, whisk until smooth, and simmer over medium heat until thickened, about 5 minutes.",
+    "Stir roasted sweet potato cubes into the thickened masa mixture and let cool slightly.",
+    "Layer the parfait by first adding a spoonful of the yogurt mixture at the bottom of each serving glass.",
+    "Add a layer of the sweet potato and masa mixture on top of the yogurt.",
+    "Sprinkle roasted chickpeas over the sweet potato layer for crunch.",
+    "Repeat the yogurt and sweet potato layers until glasses are filled, finishing with a top layer of yogurt.",
+    "Garnish each parfait with fresh mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "hearty",
+    "parfait",
+    "post-workout",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 8,
+    "carbs": 31,
+    "fat": 6
+  },
+  "slug": "hearty-russian-sweet-potato-parfait",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-russian-sweet-potato-parfait",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:54:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Hearty",
+    "dishForm": "Parfait"
+  }
+}
