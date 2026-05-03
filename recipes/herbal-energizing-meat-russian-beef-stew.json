@@ -1,0 +1,118 @@
+{
+  "title": "Herbal Energizing Meat Russian Beef Stew",
+  "description": "A hearty, juicy Russian beef stew infused with herbs and featuring redcurrants to boost energy and satisfy your appetite.",
+  "cuisine": "Russian",
+  "diet": [
+    "low_fodmap",
+    "paleo",
+    "gluten_free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef stew meat (500g)",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "redcurrants (250g)",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "fresh parsley (20g)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill (20g)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice (60ml)",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil (30ml)",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "ginger powder (5g)",
+      "amount": "1 teaspoon",
+      "notes": "or fresh ginger, grated"
+    },
+    {
+      "name": "black pepper (5g)",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder (5g)",
+      "amount": "1 teaspoon",
+      "notes": "or 1-2 cloves, minced"
+    },
+    {
+      "name": "beef broth (500ml)",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red wine (250ml)",
+      "amount": "1 cup",
+      "notes": "optional, or beef broth"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef, redcurrants, parsley, dill, lemon juice, olive oil, ginger powder, black pepper, and garlic powder. Mix well and refrigerate for at least 2 hours or overnight.",
+    "Preheat oven to 300°F (150°C). Remove the beef mixture from the marinade, allowing any excess to drip off.",
+    "In a large Dutch oven or oven-safe pot, heat 2 tablespoons of olive oil over medium-high heat. Sear the beef until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the beef broth and red wine (if using) to the pot, scraping up any browned bits from the bottom.",
+    "Return the seared beef to the pot, cover, and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender and falls apart easily.",
+    "Remove the pot from the oven and let it rest for 10 minutes.",
+    "Skim any excess fat from the surface and serve the stew hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "redcurrants",
+    "herbal",
+    "energizing",
+    "russian",
+    "stew",
+    "low_fodmap",
+    "paleo",
+    "gluten_free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "45g",
+    "carbs": "25g",
+    "fat": "30g"
+  },
+  "slug": "herbal-energizing-meat-russian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-energizing-meat-russian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:11:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "redcurrants",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "meat",
+    "descriptor": "herbal, juicy, energizing",
+    "dishForm": "Stew"
+  }
+}
