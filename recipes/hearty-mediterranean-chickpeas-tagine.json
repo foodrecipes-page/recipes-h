@@ -1,0 +1,122 @@
+{
+  "title": "Hearty Mediterranean Chickpeas Tagine",
+  "description": "A savory, dense Mediterranean chickpea stew packed with vanilla bean paste, perfect for a hangover cure.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g (1 can)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "adds depth"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g (1 can)",
+      "notes": "with juice"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "balances sweetness"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1/2 teaspoon",
+      "notes": "use a small amount to add complexity"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and cook another minute until fragrant.",
+    "Add tomato paste, cumin, coriander, smoked paprika, cinnamon, oregano, bay leaf, and vanilla bean paste; cook for 2 minutes to toast the spices.",
+    "Pour in diced tomatoes, stirring to combine, and bring to a simmer.",
+    "Add drained chickpeas, lemon juice, salt, and pepper; reduce heat to low and simmer uncovered for 15-20 minutes, allowing flavors to meld.",
+    "Taste and adjust seasoning; remove bay leaf.",
+    "Ladle the tagine into bowls, garnish with chopped parsley if desired.",
+    "Serve hot with crusty gluten‑free bread or over rice."
+  ],
+  "slug": "hearty-mediterranean-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mediterranean-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:43:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Hearty",
+    "dishForm": "Tagine"
+  }
+}
