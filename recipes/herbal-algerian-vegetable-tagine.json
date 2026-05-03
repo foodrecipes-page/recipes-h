@@ -1,0 +1,112 @@
+{
+  "title": "Herbal Algerian Vegetable Tagine",
+  "description": "A quick and flavorful Algerian stew made with a blend of herbs, mustard, and dum, perfect for a weeknight dinner. This jain-friendly dish is chewy and packed with nutrients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a mild variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can, drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Stir in the dried thyme, rosemary, and mustard seeds, cook for 1 minute.",
+    "Add the chopped dum, zucchini, bell pepper, and chickpeas, cook for 5 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "vegan",
+    "jain",
+    "stew",
+    "tagine",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "herbal-algerian-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-algerian-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:24:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "mustard",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "vegetables",
+    "descriptor": "herbal chewy",
+    "dishForm": "Tagine"
+  }
+}
