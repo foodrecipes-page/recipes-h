@@ -1,0 +1,89 @@
+{
+  "title": "Herbal Ukrainian Potato Curry",
+  "description": "A fragrant, plant‑based curry that marries Ukrainian comfort food with Thai red curry heat, simmered in a pressure cooker for tender potatoes and herbs.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "600g",
+      "notes": "peeled and cubed into 1.5cm pieces"
+    },
+    {
+      "name": "Sweet onion",
+      "amount": "200g",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "150g",
+      "notes": "sliced into half‑moon strips"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare ingredients: peel and cube potatoes, slice onion and carrot, chop dill and parsley, zest lemon.",
+    "Heat the pressure cooker on medium, sauté the onion and carrot in a splash of oil until translucent, about 3‑4 minutes.",
+    "Add the Thai red curry paste and stir to coat the vegetables, cooking for 1 minute to release aromas.",
+    "Pour in the vegetable broth and coconut milk, then add the cubed potatoes; stir to combine.",
+    "Seal the pressure cooker, set to high pressure and cook for 8 minutes.",
+    "Quick‑release the pressure, then carefully open the lid.",
+    "Stir in the chopped dill, parsley, lemon zest, and season with salt to taste.",
+    "Serve hot, garnished with extra fresh herbs if desired."
+  ],
+  "slug": "herbal-ukrainian-potato-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-ukrainian-potato-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:05:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "potato",
+    "descriptor": "Herbal",
+    "dishForm": "Curry"
+  }
+}
