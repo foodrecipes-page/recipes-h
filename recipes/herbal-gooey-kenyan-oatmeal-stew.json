@@ -1,0 +1,101 @@
+{
+  "title": "Herbal Gooey Kenyan Oatmeal Stew",
+  "description": "A comforting, low‑fat Kenyan stew that blends savory herbs with silky oats for a midnight craving that feels like home.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "40g",
+      "notes": "(1/2 cup)"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "240ml",
+      "notes": "(1 cup)"
+    },
+    {
+      "name": "carrot",
+      "amount": "61g",
+      "notes": "(1 medium, diced)"
+    },
+    {
+      "name": "potato",
+      "amount": "150g",
+      "notes": "(1 medium, diced)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30g",
+      "notes": "(2 tbsp)"
+    },
+    {
+      "name": "spinach",
+      "amount": "30g",
+      "notes": "(1 cup, fresh)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "(5 ml)"
+    },
+    {
+      "name": "herb blend",
+      "amount": "2 tsp",
+      "notes": "thyme, bay leaf, ground cardamom, minced ginger"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium pot over medium heat.",
+    "Add the diced carrot and potato, sautéing for 3–4 minutes until they start to soften.",
+    "Stir in the tomato paste and cook for another 2 minutes, allowing it to caramelize slightly.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Add the herb blend, reduce heat, and simmer uncovered for 10 minutes.",
+    "Stir in the rolled oats, reduce heat to low, and cover; cook for 6–8 minutes until oats are soft and the stew thickens.",
+    "Fold in the fresh spinach, allowing it to wilt in 1–2 minutes.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "low-fat",
+    "stew",
+    "oatmeal",
+    "herbal",
+    "midnight-crave",
+    "savory",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 11.9,
+    "carbs": 69.5,
+    "fat": 4.3
+  },
+  "slug": "herbal-gooey-kenyan-oatmeal-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-gooey-kenyan-oatmeal-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:13:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "oatmeal",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "oatmeal",
+    "descriptor": "Herbal Gooey",
+    "dishForm": "Stew"
+  }
+}
