@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Moroccan Peanuts Tagine",
+  "description": "A rich, gooey Moroccan chicken tagine that showcases peanut brittle folded into a glossy sauce, perfect for a show‑off dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone-in, skin-on",
+      "amount": "800g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried apricots, chopped",
+      "amount": "100g"
+    },
+    {
+      "name": "Roasted peanuts, unsalted",
+      "amount": "150g"
+    },
+    {
+      "name": "Peanut brittle, broken into pieces",
+      "amount": "100g"
+    },
+    {
+      "name": "Preserved lemon, rind scored and sliced",
+      "amount": "1/2"
+    },
+    {
+      "name": "Salt and black pepper, to taste",
+      "amount": "",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat a large tagine or heavy pot over medium heat and add olive oil, then sauté onion until translucent.",
+    "Add garlic, cumin, coriander, and smoked paprika, cooking for another minute until fragrant.",
+    "Place chicken thighs in the pot, brown each side for 3 minutes, then add chopped apricots and preserved lemon slices.",
+    "Cover, reduce heat to low, and cook for 25–30 minutes until chicken is tender and juices have thickened.",
+    "Stir in roasted peanuts, broken peanut brittle pieces, and salt and pepper to taste, blending until the brittle softens into a glossy sauce.",
+    "Remove from heat, fluff with a fork, and let it sit for 5 minutes to thicken further.",
+    "Sprinkle chopped cilantro over the tagine before serving.",
+    "Serve hot with couscous or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "halal",
+    "hearty",
+    "moroccan",
+    "peanut",
+    "slow-cook",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 30,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "hearty-moroccan-peanuts-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-moroccan-peanuts-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:11:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "peanut brittle",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Hearty",
+    "dishForm": "Tagine"
+  }
+}

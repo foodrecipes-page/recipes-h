@@ -301,6 +301,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-moroccan-peanuts-tagine",
+    "title": "Hearty Moroccan Peanuts Tagine",
+    "tags": [
+      "chicken",
+      "halal",
+      "hearty",
+      "moroccan",
+      "peanut",
+      "slow-cook",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-russian-sweet-potato-parfait",
     "title": "Hearty Russian Sweet Potato Parfait",
     "tags": [
