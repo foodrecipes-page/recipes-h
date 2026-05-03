@@ -1,0 +1,109 @@
+{
+  "title": "Herbaceous Tunisian Chicken Tagine",
+  "description": "A quick, savory tagine featuring coconut milk and a classic soffritto base, packed with aromatic herbs.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, bone-in, skin on",
+      "amount": "800 g",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, medium, diced",
+      "amount": "1"
+    },
+    {
+      "name": "carrot, peeled, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat until shimmering.",
+    "Add diced onion, sliced carrot, minced garlic, and grated ginger; sauté until onions turn translucent and aromatics soften.",
+    "Stir in the dried oregano, thyme, mint, and cumin, cooking for 1 minute to bloom the spices.",
+    "Place the chicken thighs into the pot, browning them on all sides over medium heat.",
+    "Pour in the coconut milk and chicken broth, then bring to a gentle simmer.",
+    "Cover the pot, reduce heat to low, and let the tagine cook for 25 minutes, allowing the flavors to meld.",
+    "Uncover, stir, and check seasoning, adding salt and pepper to taste.",
+    "Continue simmering uncovered for an additional 10 minutes, or until the chicken is fully cooked and the sauce has thickened.",
+    "Sprinkle chopped fresh parsley over the dish for a fresh finish.",
+    "Serve hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "gluten-free",
+    "herbaceous",
+    "one-pot",
+    "quick",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "herbaceous-tunisian-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-tunisian-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:28:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "soffritto-base",
+    "primaryIngredient": "coconut milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Herbaceous",
+    "dishForm": "Tagine"
+  }
+}

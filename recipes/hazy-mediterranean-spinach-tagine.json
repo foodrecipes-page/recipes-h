@@ -1,0 +1,109 @@
+{
+  "title": "Hazy Mediterranean Spinach Tagine",
+  "description": "A bitter yet juicy tagine that satisfies midnight cravings with fresh spinach, chickpeas, and aromatic spices, finished with a dollop of creamy yogurt.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced tomatoes, canned",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "4 cups, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium tagine or Dutch oven over medium heat.",
+    "Add diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add cumin, coriander, and cinnamon; stir to coat the onions and garlic for 30 seconds.",
+    "Pour in canned tomatoes and chickpeas; bring to a gentle simmer.",
+    "Add chopped spinach and cook until wilted, about 3 minutes.",
+    "Stir in lemon juice, season with salt, and reduce heat to low.",
+    "Cover and simmer for 20 minutes, stirring occasionally.",
+    "Serve hot, topped with a spoonful of plain Greek yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "mediterranean",
+    "slow-cook",
+    "spinach",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "hazy-mediterranean-spinach-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-mediterranean-spinach-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:28:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "spinach",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "spinach",
+    "descriptor": "Hazy",
+    "dishForm": "Tagine"
+  }
+}
