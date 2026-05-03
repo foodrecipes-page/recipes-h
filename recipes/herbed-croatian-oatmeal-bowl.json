@@ -1,0 +1,107 @@
+{
+  "title": "Herbed Croatian Oatmeal Bowl",
+  "description": "A light peppery oatmeal bowl infused with fresh Croatian herbs and caramelized vegetables, finished with a splash of lemon. It is a quick, solo-dinner option that brings Mediterranean flavors to a comforting bowl.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add diced onion, carrot, and zucchini, sauté until softened and caramelized, about 5 minutes.",
+    "Stir in minced garlic and black pepper, cook for 30 seconds until fragrant.",
+    "Pour in rolled oats, stirring to coat them in the oil and vegetables, toast for 2 minutes.",
+    "Add water and sea salt, bring to a boil, then reduce to a simmer.",
+    "Cook the oatmeal, stirring occasionally, until the oats absorb the liquid and reach a creamy consistency, about 10 minutes.",
+    "Remove from heat, stir in chopped dill, parsley, and lemon juice.",
+    "Taste and adjust seasoning with additional salt or pepper if needed.",
+    "Divide the oatmeal into bowls and sprinkle crumbled feta cheese on top, if desired.",
+    "Serve immediately while hot, garnished with extra herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "one-pot",
+    "quick",
+    "simple",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "herbed-croatian-oatmeal-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-croatian-oatmeal-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:46:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "oatmeal",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "oatmeal",
+    "descriptor": "Herbed",
+    "dishForm": "Bowl"
+  }
+}
