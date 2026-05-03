@@ -1,0 +1,100 @@
+{
+  "title": "Herbal Flaky Malaysian Cheese Samosas",
+  "description": "A fragrant, keto‑friendly Malaysian samosa with a creamy fromage frais filling, tossed in aromatic herbs and baked to a crisp, flaky finish in a tandoor‑style oven.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "¼ cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fromage frais",
+      "amount": "1 cup",
+      "notes": "low‑fat"
+    },
+    {
+      "name": "shredded cheddar",
+      "amount": "½ cup",
+      "notes": "keto‑friendly"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1",
+      "notes": "beaten, for sealing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 °F (200 °C); if you have a tandoor or pizza stone, place it inside.",
+    "In a bowl combine almond flour, coconut flour, salt, pepper, ground cumin, and ground coriander; add melted butter and stir until the mixture resembles coarse crumbs.",
+    "Knead the dough with a few tablespoons of water until smooth, then cover and let rest for 10 minutes.",
+    "In another bowl mix fromage frais, shredded cheddar, chopped cilantro, mint, and beaten egg yolk; season lightly with salt and pepper.",
+    "Divide the dough into 12 equal portions, roll each into a thin oval, then fold into a triangle shape and seal the edges with a little water.",
+    "Place the prepared samosas on a parchment‑lined baking sheet, brush the tops with melted butter.",
+    "Bake for 20–25 minutes until golden and flaky; if using a tandoor, bake 18 minutes at the same temperature.",
+    "Let the samosas cool for 5 minutes before serving."
+  ],
+  "slug": "herbal-flaky-malaysian-cheese-samosas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-flaky-malaysian-cheese-samosas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:41:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "fromage frais",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cheese",
+    "descriptor": "Herbal Flaky",
+    "dishForm": "Samosas"
+  }
+}
