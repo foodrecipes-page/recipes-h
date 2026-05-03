@@ -1,0 +1,106 @@
+{
+  "title": "Hot Brazilian Eggplant Stew",
+  "description": "A charred, molten stew of eggplant simmered with a mirepoix base, offering a comforting, whole30-friendly bite.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "4 medium, sliced 1 cm thick"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup low-sodium"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 cup no added sugar"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and char eggplant slices on a sheet until browned.",
+    "In a large pot, heat olive oil over medium heat and sauté onion, carrot, celery, and garlic until softened.",
+    "Add the charred eggplant slices to the pot and stir to combine.",
+    "Stir in crushed tomatoes, vegetable stock, smoked paprika, oregano, cayenne, and salt.",
+    "Bring to a simmer, cover, and cook for 25 minutes until vegetables are tender.",
+    "Uncover, stir, and simmer for an additional 10 minutes to thicken the stew.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, optionally garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "hearty",
+    "low-carb",
+    "one-pot",
+    "veggie",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "hot-brazilian-eggplant-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-brazilian-eggplant-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:49:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "egg plants",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Hot",
+    "dishForm": "Stew"
+  }
+}
