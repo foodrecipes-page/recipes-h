@@ -1,0 +1,102 @@
+{
+  "title": "hearty french parsnip confit",
+  "description": "a rich, comforting dish from alsace, france, featuring tender parsnips, nutty parmesan, and a hint of bay",
+  "cuisine": "french",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "parsnips",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry, vegan"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated, vegan alternative"
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 275f.",
+    "peel the parsnips and cut them into katsuramuki-cut sticks.",
+    "in a large saucepan, combine the parsnips, olive oil, garlic, bay leaves, salt, and black pepper.",
+    "add the white wine and water, and stir to combine.",
+    "bring the mixture to a boil over medium-high heat, stirring occasionally.",
+    "cover the saucepan with a lid, then place it in the preheated oven.",
+    "bake for 2 hours, or until the parsnips are tender and caramelized.",
+    "remove the saucepan from the oven and stir in the grated parmesan cheese.",
+    "serve the confit hot, garnished with additional bay leaves and parmesan cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "alsace",
+    "comforting-dish",
+    "hearty",
+    "one-pan",
+    "parsnip",
+    "rich-and-creamy",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "hearty-french-parsnip-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-parsnip-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:23:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "parmesan",
+    "diet": "vegan",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Parsnip",
+    "descriptor": "Hearty",
+    "dishForm": "Confit"
+  }
+}
