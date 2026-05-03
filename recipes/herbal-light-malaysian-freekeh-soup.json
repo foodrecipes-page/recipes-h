@@ -1,0 +1,99 @@
+{
+  "title": "Herbal Light Malaysian Freekeh Soup",
+  "description": "A fragrant, protein‑packed freekeh soup infused with lemongrass, kaffir lime leaves and fresh herbs, perfect for a post‑workout recovery meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1.5L"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "2, bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 bunch, roughly chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 bunch, roughly chopped"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 cm, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the freekeh under cold water until the water runs clear.",
+    "In a large pot, combine the freekeh and vegetable broth and bring to a rolling boil.",
+    "Add lemongrass, kaffir lime leaves, ginger, and minced garlic, then reduce heat to low and simmer for 45 minutes until the freekeh is tender and the soup has thickened slightly.",
+    "Remove the pot from heat and strain the soup through a fine‑mesh sieve; return the liquid to the pot.",
+    "Stir in salt and lime juice, adjusting seasoning to taste.",
+    "Ladle the soup into bowls and garnish with chopped coriander, mint, and a drizzle of sesame oil if desired.",
+    "Serve hot, optionally adding sliced chili for heat.",
+    "If you prefer a cooler option, let the soup cool to room temperature and refrigerate, though it remains delicious warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "vegan",
+    "post-workout",
+    "quick",
+    "light-soup"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 1
+  },
+  "slug": "herbal-light-malaysian-freekeh-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-light-malaysian-freekeh-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:46:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "freekeh",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "freekeh",
+    "descriptor": "Herbal Light",
+    "dishForm": "Soup"
+  }
+}
