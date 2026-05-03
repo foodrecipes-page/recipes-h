@@ -1,0 +1,116 @@
+{
+  "title": "Honey Glazed Saudi Fish Curry",
+  "description": "A fragrant, sweet‑sugared fish curry glazed with honey, cooked quickly in a pressure cooker for a low‑carb, Saudi‑Arabian flair.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm white fish fillets (cod or halibut)",
+      "amount": "1 kg",
+      "notes": "cut into 2‑inch pieces, seasoned with salt and pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 in",
+      "notes": "grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Coconut milk (full‑fat)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mixed spice blend",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, turmeric, cayenne"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season the fish pieces with salt and pepper and set aside.",
+    "Heat the olive oil in the pressure cooker using the sauté setting; add onion, garlic, and ginger, cooking until the onion is translucent.",
+    "Add the sliced red bell pepper and the mixed spice blend; sauté for 2 minutes until fragrant.",
+    "Stir in the fish sauce, honey, and tamarind paste, letting the flavors meld for 30 seconds.",
+    "Pour in the coconut milk and water, bringing the mixture to a gentle simmer.",
+    "Gently fold the fish pieces into the sauce, ensuring they are mostly submerged; close the pressure cooker lid.",
+    "Cook on high pressure for 5 minutes, then perform a quick pressure release.",
+    "Open the lid carefully and give the curry a good stir; taste and season with additional salt if needed.",
+    "Serve hot, optionally garnished with fresh cilantro.",
+    "Enjoy your quick, low‑carb Saudi fish curry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "pressure-cook",
+    "honey",
+    "saudi-arabian",
+    "fish-curry",
+    "quick",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 58,
+    "carbs": 13,
+    "fat": 15
+  },
+  "slug": "honey-glazed-saudi-fish-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-saudi-fish-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:38:30Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fish",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Fish",
+    "descriptor": "Honey Glazed",
+    "dishForm": "Curry"
+  }
+}
