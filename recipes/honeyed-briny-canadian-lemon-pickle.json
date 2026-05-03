@@ -1,0 +1,96 @@
+{
+  "title": "Honeyed Briny Canadian Lemon Pickle",
+  "description": "A tangy and refreshing side dish made with unwaxed lemons, featuring a touch of sweetness from honey and a burst of brininess from shio-cure.",
+  "cuisine": "Canadian",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unwaxed lemons",
+      "amount": "4",
+      "notes": "cut into 1/4-inch thick slices"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tsp",
+      "notes": "mold-cured, flaky salt"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "fresh, large leaves"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lemon slices under cold running water to remove any bitterness.",
+    "In a large bowl, mix together the honey, shio-cure, and black peppercorns.",
+    "Add the lemon slices to the bowl and toss to coat with the honey-shio-cure mixture.",
+    "Place a large agave leaf on a flat surface and arrange 4 lemon slices in the center of the leaf.",
+    "Top the lemon slices with a sprinkle of chopped fresh dill.",
+    "Roll the agave leaf into a tight cylinder and secure with a small toothpick, if needed.",
+    "Repeat with the remaining ingredients to make 3 more pickles.",
+    "Place the pickles in a large bowl and cover with plastic wrap.",
+    "Refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Serve chilled, garnished with additional fresh dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "pickles",
+    "raw-friendly",
+    "side-dish",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 0
+  },
+  "slug": "honeyed-briny-canadian-lemon-pickle",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-briny-canadian-lemon-pickle",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:57:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lemon",
+    "descriptor": "Honeyed Briny",
+    "dishForm": "Pickle"
+  }
+}

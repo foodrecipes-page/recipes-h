@@ -299,6 +299,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-comforting-uruguayan-custard-custard",
+    "title": "Uruguayan Manjar Custard",
+    "tags": [
+      "comfort-food",
+      "dinner-party",
+      "flexitarian",
+      "one-pan",
+      "spring",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-fragrant-saudi-arabian-lamb-kebabs",
     "title": "Hearty Fragrant Saudi Arabian Lamb Kebabs",
     "tags": [
@@ -452,6 +467,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-moroccan-pistachio-chebakia",
+    "title": "Hearty Smoky Moroccan Pistachio Chebakia",
+    "tags": [
+      "moroccan",
+      "pistachio",
+      "shojin-friendly",
+      "smoky",
+      "stone-bowl",
+      "yeasty"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -1709,6 +1739,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-briny-canadian-lemon-pickle",
+    "title": "Honeyed Briny Canadian Lemon Pickle",
+    "tags": [
+      "canadian",
+      "pickles",
+      "raw-friendly",
+      "side-dish",
+      "summer",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
