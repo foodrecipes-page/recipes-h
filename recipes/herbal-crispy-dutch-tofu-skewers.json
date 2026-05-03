@@ -1,0 +1,104 @@
+{
+  "title": "Herbal Crispy Dutch Tofu Skewers",
+  "description": "A plant-based Dutch dish featuring crispy tofu skewers infused with herbal flavors, perfect for a solo dinner. This recipe uses unflavored gelatin and a tandoor for a unique twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block (250g)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1/4 cup hot water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400°F (200°C).",
+    "In a large bowl, whisk together the dissolved gelatin, olive oil, parsley, dill, lemon juice, garlic powder, salt, pepper, and tandoor spice mix.",
+    "Add the tofu cubes to the bowl and toss to coat with the herbal mixture.",
+    "Thread the tofu cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers in the tandoor and cook for 15-20 minutes, or until crispy and golden brown.",
+    "Flip the skewers halfway through cooking to ensure even cooking.",
+    "Remove the skewers from the tandoor and let cool for a few minutes.",
+    "Serve the herbal crispy Dutch tofu skewers hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "tofu",
+    "herbal",
+    "crispy",
+    "plant-based",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "herbal-crispy-dutch-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crispy-dutch-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:25:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tofu",
+    "descriptor": "herbal crispy",
+    "dishForm": "Skewers"
+  }
+}
