@@ -1,0 +1,68 @@
+{
+  "title": "Herbal Crispy Mediterranean Corn Salad",
+  "description": "A fresh, herb‑laden corn salad with creamy dressing, crunchy roasted chickpeas, and tangy pickled cucumbers—perfect for meal prep and nut‑free diets.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 Tbsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 Tbsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp (1 g)",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp (5 g)",
+      "notes": ""
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "½ tsp (1 g)",
+      "notes": ""
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "½ cup (80 g)",
+      "notes": "Toss with olive oil, salt, pepper and roast at 200 °C (400 °F) for 20 min until crisp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 °C (400 °F). Toss the ½ cup chickpeas with 1 Tbsp olive oil, ½ tsp salt and ½ tsp pepper. Spread on a baking sheet and roast for 20 min, stirring halfway, until golden and crispy. Remove and set aside to cool.",
+    "In a large bowl, whisk together Greek yogurt, mayonnaise, Dijon mustard, lemon juice, honey, ½ tsp salt, and ½ tsp pepper until smooth.",
+    "Fold in the cooked corn kernels, diced pickled cucumbers, chopped parsley, dill, and oregano.",
+    "Gently stir in the cooled roasted chickpeas, reserving a handful for topping.",
+    "Cover the bowl and refrigerate for at least 30 min to allow flavors to meld.",
+    "Just before serving, sprinkle the reserved chickpeas over the top for extra crunch.",
+    "Serve chilled as a satisfying lunch or side dish."
+  ],
+  "slug": "herbal-crispy-mediterranean-corn-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crispy-mediterranean-corn-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:02:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "creamed corn",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "corn",
+    "descriptor": "Herbal Crispy",
+    "dishForm": "Salad"
+  }
+}

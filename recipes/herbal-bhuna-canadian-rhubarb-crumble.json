@@ -1,0 +1,116 @@
+{
+  "title": "Herbal Bhuna Canadian Rhubarb Crumble",
+  "description": "A cozy, herb-infused crumble featuring tart rhubarb and a fragrant bhuna spice blend, all sweetened naturally for a sugar-free-friendly treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "400 g"
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "1 stalk",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Stevia powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "50 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a bowl, mix rhubarb, lemongrass, ginger, garlic, cumin, coriander, turmeric, chili powder, salt, stevia, and olive oil until the fruit is well coated.",
+    "Transfer the mixture to a greased baking dish and spread evenly.",
+    "Bake for 20 minutes until the rhubarb is softened and caramelized.",
+    "While the rhubarb bakes, combine almond flour, oats, remaining stevia, and a pinch of salt to form the crumble topping.",
+    "Once the rhubarb is done, sprinkle the crumble topping over the fruit.",
+    "Return the dish to the oven for an additional 15 minutes until the crumble is golden brown.",
+    "Allow the crumble to rest for 5 minutes before serving warm.",
+    "Serve as is or topped with a dollop of dairy‑free yogurt for extra comfort."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "bhuna",
+    "rhubarb",
+    "crumble",
+    "sugar-free",
+    "gluten-free",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 191,
+    "protein": 5,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "herbal-bhuna-canadian-rhubarb-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-bhuna-canadian-rhubarb-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:03:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "rhubarb",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Herbal Bhuna",
+    "dishForm": "Crumble"
+  }
+}
