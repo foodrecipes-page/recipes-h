@@ -1,0 +1,104 @@
+{
+  "title": "Hearty British Almond Flour Fritters",
+  "description": "Nutty, silky and energizing fritters made with almond flour and blanched almonds, perfect for a Buddhist‑temple friendly breakfast or lunch, served in a classic bubble‑and‑squeak style.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "50g"
+    },
+    {
+      "name": "blanched almonds",
+      "amount": "100g",
+      "notes": "peeled and skins removed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "oat milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse blanched almonds and pat dry before chopping finely.",
+    "Whisk eggs with oat milk, honey, and salt until smooth.",
+    "Combine almond flour, baking powder, and chopped almonds into a bowl.",
+    "Add the wet mixture to the dry ingredients, stirring until a thick batter forms.",
+    "Heat 1 tablespoon oil in a non‑stick pan over medium heat.",
+    "Drop spoonfuls of batter into the pan, flattening slightly to create fritters.",
+    "Fry each side for 3 to 4 minutes until golden brown and crisp.",
+    "Sprinkle fresh thyme, chives, and grated ginger over the hot fritters.",
+    "Serve immediately with a side of mixed greens or a simple parsley sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "bubble-and-squeak",
+    "buddhist-temple-friendly",
+    "energizing",
+    "gluten-free",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-british-almond-flour-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-british-almond-flour-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:25:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "almond flour",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "almond flour",
+    "descriptor": "Hearty",
+    "dishForm": "Fritters"
+  }
+}
