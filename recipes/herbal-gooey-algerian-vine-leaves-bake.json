@@ -1,0 +1,111 @@
+{
+  "title": "Herbal Gooey Algerian Vine Leaves Bake",
+  "description": "A comforting, vegan-friendly baked dish featuring tender vine leaves, chickpeas, and a gooey blend of tomato and herbs.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "30",
+      "notes": "soaked in hot water for 5 minutes, drained"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "herb & spice blend",
+      "amount": "2 tsp",
+      "notes": "oregano, paprika, salt, pepper"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse vine leaves and soak in hot water for 5 minutes, then drain.",
+    "Heat 1 tbsp olive oil in a skillet and sauté diced onion for 3 minutes until translucent.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in diced tomato and cook for 4 minutes until softened.",
+    "Mix in tomato paste and herb & spice blend; cook for 1 minute to combine flavors.",
+    "Add cooked chickpeas and lemon juice, stir well and simmer for 5 minutes.",
+    "Reduce heat and fold in shredded vegan cheese until melted and gooey.",
+    "Line a baking dish with vine leaves, spoon filling onto the leaves, then top with remaining vine leaves.",
+    "Bake at 180°C (350°F) for 25 minutes or until the top is bubbly and golden.",
+    "Remove from oven, let rest for 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "algerian",
+    "vine-leaves",
+    "bake",
+    "gooey",
+    "herbal",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 24,
+    "carbs": 68,
+    "fat": 20
+  },
+  "slug": "herbal-gooey-algerian-vine-leaves-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-gooey-algerian-vine-leaves-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:49:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "vine leaves",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Vine Leaves",
+    "descriptor": "Herbal Gooey",
+    "dishForm": "Bake"
+  }
+}
