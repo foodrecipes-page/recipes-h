@@ -1,0 +1,109 @@
+{
+  "title": "Herbaceous German Chickpea Bowl",
+  "description": "A light, herb‑rich bowl of chickpeas tossed in a zesty red‑wine‑vinegar bhuna, topped with fresh German‑style herbs and crunchy rye croutons.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "Mediterranean-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas (drained and rinsed)",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves (minced)",
+      "amount": "2"
+    },
+    {
+      "name": "red onion (thinly sliced)",
+      "amount": "1/4 cup (~50 g)"
+    },
+    {
+      "name": "cherry tomatoes (halved)",
+      "amount": "200 g"
+    },
+    {
+      "name": "fresh herbs (parsley, dill, chives, chopped)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "spice blend (cumin, coriander, chili flakes)",
+      "amount": "2 tsp total"
+    },
+    {
+      "name": "rye bread croutons",
+      "amount": "100 g"
+    },
+    {
+      "name": "salt and pepper to taste"
+    },
+    {
+      "name": "lime wedges (for serving)",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a non‑stick skillet over medium heat.",
+    "Add the minced garlic and the spice blend; sauté until fragrant, about 30 seconds.",
+    "Stir in the sliced red onion and cook until softened, 2–3 minutes.",
+    "Add the chickpeas, halved cherry tomatoes, and the remaining tbsp of olive oil; season with salt and pepper. Cook for 5 minutes, stirring occasionally.",
+    "Whisk together the red wine vinegar and Dijon mustard, then pour over the chickpea mixture.",
+    "Simmer the mixture for another 3 minutes, letting the flavors meld and the tomatoes slightly soften.",
+    "Transfer the chickpea bhuna to bowls and top with the chopped fresh herbs and rye croutons.",
+    "Squeeze fresh lime juice over each bowl and serve immediately.",
+    "Optional: garnish with extra herbs or a drizzle of olive oil for added richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "herbaceous",
+    "german",
+    "chickpeas",
+    "mediterranean-friendly",
+    "bhuna",
+    "red-wine-vinegar",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "herbaceous-german-chickpea-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-german-chickpea-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:53:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Herbaceous",
+    "dishForm": "Bowl"
+  }
+}
