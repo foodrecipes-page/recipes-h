@@ -1,0 +1,111 @@
+{
+  "title": "Healing French Tuna Terrine",
+  "description": "A citrusy, creamy tuna terrine wrapped in flaky filo pastry, designed to soothe hangovers with a sattvic-friendly touch.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh tuna steak",
+      "amount": "300g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "Orange",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "40g"
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 small"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Crème fraîche",
+      "amount": "150g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Filo pastry sheets",
+      "amount": "6 sheets"
+    }
+  ],
+  "instructions": [
+    "Zest the lemon and orange, then squeeze their juices into a bowl.",
+    "Season 300g of fresh tuna steak with the citrus zest, juice, salt, pepper, and chopped dill; let marinate for 15 minutes.",
+    "Heat 2 tablespoons of olive oil in a skillet over medium heat; add the finely diced shallot and sauté until translucent.",
+    "Add the marinated tuna to the skillet and sear for 2 minutes per side, then transfer to a plate and allow to rest for 5 minutes before flaking.",
+    "In a mixing bowl, combine the flaked tuna, 150g crème fraîche, 50g Greek yogurt, 40g melted butter, sautéed shallot, salt, and pepper; stir until a smooth creamy mixture forms.",
+    "Warm each of the 6 filo pastry sheets at 80°C for 1 minute, then lay one sheet on a clean surface and brush lightly with melted butter.",
+    "Spoon a generous amount of the tuna mixture onto the center of the filo sheet, roll tightly, and place the roll seam side down in a greased baking dish.",
+    "Repeat the previous step with the remaining filo sheets to form a layered terrine structure.",
+    "Bake the assembled terrine in a preheated 180°C oven for 15 minutes, or until the filo sheets are golden and crisp.",
+    "Let the terrine cool for 10 minutes, then slice into rounds and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "creamy",
+    "filo-pastry",
+    "hangover-cure",
+    "no-gluten",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 1406,
+    "protein": 78,
+    "carbs": 27,
+    "fat": 79
+  },
+  "slug": "healing-french-tuna-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-french-tuna-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:36:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "filo pastry",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tuna",
+    "descriptor": "Healing",
+    "dishForm": "Terrine"
+  }
+}
