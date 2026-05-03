@@ -985,6 +985,23 @@
     "shard": "h"
   },
   {
+    "slug": "honeyed-moroccan-fish-tagine",
+    "title": "Honeyed Moroccan Fish Tagine",
+    "tags": [
+      "moroccan",
+      "fish",
+      "honeyed",
+      "light",
+      "pescatarian-friendly",
+      "sweet",
+      "spiced",
+      "quick"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "horseradish-crunchy-delight",
     "title": "Horseradish Crunchy Delight",
     "tags": [
