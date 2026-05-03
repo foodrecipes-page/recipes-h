@@ -578,6 +578,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-croatian-beef-toast",
+    "title": "Hot Croatian Beef Toast",
+    "tags": [
+      "croatian",
+      "beef",
+      "toast",
+      "hangover-cure",
+      "dairy-free",
+      "snack"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
     "slug": "hummus-energizer",
     "title": "Hummus Energizer",
     "tags": [
