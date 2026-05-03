@@ -160,6 +160,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-syrian-lamb-bowl",
+    "title": "Hearty Syrian Lamb Bowl",
+    "tags": [
+      "syrian",
+      "lamb",
+      "garlic-sauce",
+      "sous-vide",
+      "egg-free",
+      "bowl",
+      "hearty"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 135,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-syrian-veggies-stir-fry",
     "title": "Hearty Syrian Veggies Stir-fry",
     "tags": [
