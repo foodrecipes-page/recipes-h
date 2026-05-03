@@ -1,0 +1,107 @@
+{
+  "title": "Herbaceous Mediterranean Falafel Flatbread",
+  "description": "A fluffy, herb-packed flatbread topped with homemade falafel and tahini sauce, perfect for a romantic date night in the Mediterranean style.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas, cooked",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F.",
+    "Combine chickpeas, garlic, onion, parsley, cumin, salt, pepper and a splash of water in a food processor until a coarse paste forms.",
+    "Shape the chickpea mixture into small balls and bake on parchment for 20 minutes, flipping halfway.",
+    "In a bowl, whisk together flour, baking powder, and a pinch of salt; add warm water and olive oil, then knead into a smooth dough.",
+    "Divide dough into 6 portions, roll each into a thin circle, and brush with a little olive oil.",
+    "Cook dough circles on a hot skillet for 2 minutes per side until lightly browned.",
+    "Assemble each flatbread by placing a spoonful of falafel, a drizzle of tahini sauce, and extra parsley on top.",
+    "Return assembled flatbread to the oven for 5 minutes to meld flavors.",
+    "Slice and serve warm with a side of mixed greens."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dinner",
+    "flatbread",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 16,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "herbaceous-mediterranean-falafel-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-mediterranean-falafel-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:35:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "falafel",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Falafel",
+    "descriptor": "Herbaceous",
+    "dishForm": "Flatbread"
+  }
+}
