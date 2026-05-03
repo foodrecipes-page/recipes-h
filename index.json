@@ -406,6 +406,23 @@
     "shard": "h"
   },
   {
+    "slug": "herbaceous-japanese-tofu-stir-fry",
+    "title": "Herbaceous Japanese Tofu Stir-fry",
+    "tags": [
+      "balsamic",
+      "herbaceous",
+      "japanese",
+      "one-pan",
+      "quick",
+      "stir-fry",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "herbaceous-middle-eastern-lamb-tagine",
     "title": "Herbaceous Middle Eastern Lamb Tagine",
     "tags": [
