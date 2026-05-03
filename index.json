@@ -240,6 +240,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-gooey-slovakian-lentil-stew",
+    "title": "Hearty Gooey Slovakian Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "plant-based",
+      "slovakian",
+      "stew",
+      "winter-meal"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-cabbage-stew",
     "title": "Hearty Irish Cabbage Stew",
     "tags": [],
