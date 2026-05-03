@@ -1,0 +1,115 @@
+{
+  "title": "Herbal Light Turkish Cornmeal Pilaf",
+  "description": "A gentle, fragrant pilaf made with cornmeal, fresh herbs, and a bright lemon deglaze—ideal for kids and halal-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "fine, white"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, halal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Warm the vegetable broth in a saucepan until it just simmers.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3 minutes.",
+    "Stir in the minced garlic, thyme, and rosemary; cook for 30 seconds until aromatic.",
+    "Pour in the cornmeal and stir constantly to toast it lightly for 2 minutes.",
+    "Deglaze the pan with a splash of warm vegetable broth, scraping up any browned bits.",
+    "Gradually add the remaining broth, 1/2 cup at a time, stirring after each addition until the mixture thickens.",
+    "Fold in the frozen peas, lemon zest, and lemon juice; let simmer until the peas are heated through, about 5 minutes.",
+    "Season with salt and pepper.",
+    "Serve warm, optionally garnishing with a light drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal",
+    "kid-friendly",
+    "cornmeal",
+    "turkish",
+    "light",
+    "herbal",
+    "vegetarian",
+    "deglaze"
+  ],
+  "nutrition": {
+    "calories": 87,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 15
+  },
+  "slug": "herbal-light-turkish-cornmeal-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-light-turkish-cornmeal-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:37:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "cornmeal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Herbal Light",
+    "dishForm": "Pilaf"
+  }
+}
