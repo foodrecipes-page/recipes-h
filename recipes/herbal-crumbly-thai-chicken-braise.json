@@ -1,0 +1,111 @@
+{
+  "title": "Herbal Crumbly Thai Chicken Braise",
+  "description": "A soothing and savory Thai-inspired dish perfect for when you're not feeling well, featuring crunchy cashew nuts and a comforting braise.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegan-friendly"
+  ],
+  "meal": "lunch/dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Cashew nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven or heavy pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the lemongrass, galangal, and red onion; cook, stirring occasionally, until the vegetables are softened, about 5 minutes.",
+    "Add the chicken; cook, stirring occasionally, until browned on all sides and cooked through, about 5-7 minutes.",
+    "Add the cashew nuts, curry paste, fish sauce, and brown sugar; cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk; bring the mixture to a simmer.",
+    "Reduce the heat to low; cover the pot and cook, undisturbed, for 10-15 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Stir in the cilantro; season with salt and pepper to taste.",
+    "Serve the braise over steamed rice or noodles, garnished with additional cilantro if desired.",
+    "Note: If making ahead, refrigerate for up to 3 days or freeze for up to 2 months; reheat gently over low heat.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "cashews",
+    "braise",
+    "comfortfood",
+    "sickdayfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "herbal-crumbly-thai-chicken-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crumbly-thai-chicken-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:00:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "cashew nuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "herbal crumbly",
+    "dishForm": "Braise"
+  }
+}
