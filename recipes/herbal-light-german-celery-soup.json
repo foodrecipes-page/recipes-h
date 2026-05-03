@@ -1,0 +1,108 @@
+{
+  "title": "Herbal Light German Celery Soup",
+  "description": "A crisp, dairy‑free soup featuring fresh celery, aromatic herbs and a gentle splash of oat milk for a silky finish, perfect for a romantic date night.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "dairy‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery stalks",
+      "amount": "1 kg",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1½ liters"
+    },
+    {
+      "name": "water",
+      "amount": "½ liter"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oat milk",
+      "amount": "⅓ liter",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine vegetable broth, water, and bay leaf; bring to a boil over medium heat.",
+    "Add diced onion and minced garlic; simmer for 5 minutes until aromatics soften.",
+    "Stir in sliced celery and continue boiling for 15 minutes until the celery is tender.",
+    "Remove the pot from heat, discard the bay leaf, and whisk in oat milk until smooth.",
+    "Season with salt and black pepper to taste.",
+    "Return the soup to low heat and warm gently for 2 minutes (do not boil).",
+    "Turn off the heat and stir in chopped dill and parsley.",
+    "Serve hot, optionally garnished with a drizzle of extra dill or a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "vegan",
+    "dairy-free",
+    "light",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "herbal-light-german-celery-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-light-german-celery-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:00:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "celery",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "celery",
+    "descriptor": "Herbal Light",
+    "dishForm": "Soup"
+  }
+}
