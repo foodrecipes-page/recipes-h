@@ -1,0 +1,125 @@
+{
+  "title": "Herbed Filipino Chicken Skewers",
+  "description": "A light, herbed Filipino chicken skewer dish infused with turmeric, lemongrass, and Mediterranean-friendly flavors, perfect for a crowd-pleasing gathering.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breast",
+      "amount": "600 g (about 6 pieces, 100 g each)",
+      "notes": "cut into 2.5 cm cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons (30 ml)",
+      "notes": "for marination and grilling"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground if possible"
+    },
+    {
+      "name": "Ground lemongrass",
+      "amount": "1 teaspoon",
+      "notes": "or finely minced lemongrass stalks"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons (30 ml)",
+      "notes": "low-sodium preferred"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons (30 ml)",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "2 tablespoons (30 ml)",
+      "notes": "adds a subtle sweetness"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon (15 g)",
+      "notes": "golden syrup"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "2 tablespoons chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup diced (150 g)",
+      "notes": "optional, for skewering"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup diced (40 g)",
+      "notes": "optional, for skewering"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, turmeric, lemongrass, minced garlic, soy sauce, lemon juice, pineapple juice, honey, pepper, and salt until well blended."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "herbed",
+    "skewers",
+    "turmeric",
+    "mediterranean-friendly",
+    "quick",
+    "crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 221,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 6
+  },
+  "slug": "herbed-filipino-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-filipino-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:51:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "turmeric",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Herbed",
+    "dishForm": "Skewers"
+  }
+}
