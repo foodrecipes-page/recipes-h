@@ -1,0 +1,109 @@
+{
+  "title": "Herbaceous Middle Eastern Lamb Tagine",
+  "description": "A fragrant, low-sodium lamb tagine with red wine, herbs, and apricots that serves as a crowd‑pleasing main course.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2‑inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dry red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Herb blend (rosemary, thyme, oregano)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Spice mix (cumin, coriander, paprika, cinnamon, turmeric, black pepper)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160 °C (325 °F). Place tagine or Dutch oven on stove.",
+    "Heat olive oil over medium‑high, sear lamb cubes until browned on all sides, about 5–7 min. Transfer to a plate.",
+    "In the same pot, add diced onion and cook until translucent, about 4 min.",
+    "Stir in minced garlic and cook 1 min until fragrant.",
+    "Add sliced carrots and sauté 3 min.",
+    "Return lamb to the pot, pour in red wine, stir to deglaze, scraping up brown bits.",
+    "Add broth, herb blend, spice mix, lemon zest, and apricots. Stir well.",
+    "Bring to a gentle simmer, cover, and transfer to the oven for 1 h 45 min or until lamb is fork‑tender.",
+    "If needed, cook 15 min more to reach desired tenderness.",
+    "Remove from heat, let rest 10 min, then garnish with fresh parsley and cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "herbaceous",
+    "low-sodium",
+    "lamb",
+    "tagine",
+    "middle-eastern",
+    "wine",
+    "crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 34
+  },
+  "slug": "herbaceous-middle-eastern-lamb-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-middle-eastern-lamb-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:17:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "red wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Herbaceous",
+    "dishForm": "Tagine"
+  }
+}
