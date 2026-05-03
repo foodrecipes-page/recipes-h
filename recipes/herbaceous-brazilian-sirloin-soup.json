@@ -1,0 +1,106 @@
+{
+  "title": "Herbaceous Brazilian Sirloin Soup",
+  "description": "A light, comforting soup brimming with aromatic herbs and tender sirloin steak tips, perfect for a quick yet satisfying meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin steak tips",
+      "amount": "0.9 kg (2 lbs)",
+      "notes": "cut into bite‑size pieces; optional for vegetarian version"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Medium onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Low‑sodium beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh kale",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the steak tips and brown on all sides for about 4 minutes; remove and set aside.",
+    "In the same pot, add the diced onion, carrot, celery, and minced garlic; sauté until softened, about 5 minutes.",
+    "Stir in the dried oregano and thyme, cooking for 30 seconds to bloom the flavors.",
+    "Pour in the beef broth and vegetable broth, then add the bay leaf; bring to a gentle boil.",
+    "Return the browned steak to the pot, reduce heat to low, and let simmer for 15 minutes.",
+    "Add the chopped kale, simmer an additional 5 minutes until the greens are tender.",
+    "Season with salt and pepper to taste; remove the bay leaf.",
+    "Serve hot, garnished with fresh parsley and a squeeze of lemon juice.",
+    "For a vegetarian version, omit the steak and add extra vegetables or a plant‑based protein if desired."
+  ],
+  "slug": "herbaceous-brazilian-sirloin-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-brazilian-sirloin-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:42:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "herbaceous",
+    "dishForm": "Soup"
+  }
+}
