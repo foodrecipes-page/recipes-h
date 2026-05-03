@@ -1,0 +1,110 @@
+{
+  "title": "Herbal Crunchy Indian Seafood Salad",
+  "description": "A fresh, herbal salad that blends a quick bhuna-tossed frozen seafood mix with crisp veggies and roasted chickpeas, finished with a low‑fat yogurt‑lemon dressing.",
+  "cuisine": "Indian American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frozen mixed seafood (shrimp, fish, crab)",
+      "amount": "200g",
+      "notes": "thawed before cooking"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro & mint",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low‑fat plain Greek yogurt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice & mustard powder",
+      "amount": "1 tsp & 1/2 tsp",
+      "notes": "for dressing"
+    }
+  ],
+  "instructions": [
+    "Thaw the frozen seafood in a bowl of cold water for 10 minutes, then pat dry.",
+    "Heat the ghee in a non‑stick skillet over medium heat.",
+    "Add garam masala, cumin, coriander, and turmeric, sauté for 30 seconds until fragrant.",
+    "Add the seafood, stir and cook for 2–3 minutes until just opaque; do not overcook.",
+    "Transfer the seafood to a bowl and let it cool to room temperature.",
+    "Meanwhile, toss diced cucumber, red bell pepper, and chopped herbs in a separate bowl.",
+    "Add roasted chickpeas to the veggie mixture.",
+    "In a small bowl, whisk together the Greek yogurt, lemon juice, and mustard powder until smooth; season with salt and pepper to taste.",
+    "Combine the cooled seafood with the veggie and chickpea mix; gently fold in the dressing.",
+    "Toss lightly to coat everything evenly.",
+    "Garnish with a sprinkle of fresh cilantro if desired and serve immediately or refrigerate until ready to eat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "crunchy",
+    "seafood",
+    "salad",
+    "low-calorie",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "herbal-crunchy-indian-seafood-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crunchy-indian-seafood-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:14:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Seafood",
+    "descriptor": "Herbal Crunchy",
+    "dishForm": "Salad"
+  }
+}
