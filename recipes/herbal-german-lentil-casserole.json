@@ -1,0 +1,114 @@
+{
+  "title": "Herbal German Lentil Casserole",
+  "description": "A light, chewy casserole of lentils flavored with fresh herbs and a touch of unsweetened condensed milk—sugar‑free and suitable for a comforting German dinner.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried brown lentils",
+      "amount": "250 g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "750 ml",
+      "notes": "warm"
+    },
+    {
+      "name": "unsweetened condensed milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1 stalk",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until clear. Drain.",
+    "Heat olive oil in a Dutch oven over medium heat. Add diced onion, carrot, and celery; sauté until softened, about 5 minutes.",
+    "Add minced garlic and cook another 30 seconds until fragrant.",
+    "Stir in dried thyme and rosemary; cook 1 minute to bloom the herbs.",
+    "Add lentils, stirring to coat them in oil and vegetables.",
+    "Pour in vegetable stock and bring to a gentle boil; reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally.",
+    "Stir in unsweetened condensed milk; season with salt and pepper.",
+    "Cook uncovered for an additional 15 minutes, allowing the lentils to absorb liquid and become chewy; stir occasionally to prevent sticking.",
+    "Remove from heat, fluff with a fork, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "lentil",
+    "german",
+    "vegetarian",
+    "sugar-free",
+    "chewy",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 336,
+    "protein": 15,
+    "carbs": 44,
+    "fat": 11
+  },
+  "slug": "herbal-german-lentil-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-german-lentil-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:18:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "condensed milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "lentil",
+    "descriptor": "Herbal",
+    "dishForm": "Casserole"
+  }
+}
