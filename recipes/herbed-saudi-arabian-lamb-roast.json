@@ -1,0 +1,120 @@
+{
+  "title": "Herbed Saudi Arabian Lamb Roast",
+  "description": "A smoky, crisp lamb roast infused with scotch bonnet heat and aromatic Saudi herbs, perfect for a cozy dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg, bone-in",
+      "amount": "2.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "za'atar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion, quartered",
+      "amount": "1 small",
+      "notes": "quartered"
+    },
+    {
+      "name": "scotch bonnet, seeded and chopped",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon, sliced",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Rub lamb leg with olive oil, then with za'atar, sumac, rosemary, minced garlic, salt and pepper.",
+    "Place quartered onion, lemon slices, and chopped scotch bonnets around the lamb in a roasting pan.",
+    "Pour beef broth into the pan, ensuring it stays below the lamb surface.",
+    "Roast lamb for 90 minutes, basting every 30 minutes with pan juices.",
+    "After 90 minutes, increase oven temperature to 425°F (220°C) and roast for an additional 10 minutes to crisp the exterior.",
+    "Remove lamb from oven and let it rest for 15 minutes before slicing.",
+    "Spoon pan juices over the sliced lamb to add moisture and flavor.",
+    "Serve hot, optionally garnishing with fresh parsley or additional za'atar.",
+    "Enjoy the smoky, crisp lamb roast with a side of whole30-friendly salad or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "herbed-lamb",
+    "roast",
+    "saudi-arabian",
+    "smoky",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 57,
+    "carbs": 3,
+    "fat": 59
+  },
+  "slug": "herbed-saudi-arabian-lamb-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-saudi-arabian-lamb-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:46:51Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Herbed",
+    "dishForm": "Roast"
+  }
+}
