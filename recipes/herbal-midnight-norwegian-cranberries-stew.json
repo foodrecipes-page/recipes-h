@@ -1,0 +1,122 @@
+{
+  "title": "Herbal Midnight Norwegian Cranberries Stew",
+  "description": "A silky, herbal stew bursting with dried cranberries, apricots, and lingonberries, simmered in a pressure cooker for a midnight craving that feels like a sweet, comforting hug.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "kosher",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots, chopped",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried lingonberries (or dried cherries)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "½ cup",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "¼ cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "red onion, diced",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and rinse all dried fruits to remove any excess salt or sugar.",
+    "Heat the olive oil in the pressure cooker on the sauté setting and add the diced onion; cook until translucent, about 2 minutes.",
+    "Add minced garlic, grated ginger, cinnamon, and cardamom; sauté for 30 seconds until fragrant.",
+    "Stir in the dried cranberries, apricots, and lingonberries, and cook for another 2 minutes to toast slightly.",
+    "Pour in the vegetable broth, orange juice, and maple syrup; stir to combine all ingredients.",
+    "Seal the pressure cooker lid and set to high pressure for 10 minutes; this ensures the stew reaches a safe internal temperature of 121 °C.",
+    "After the cooking time, allow a natural release for 5 minutes, then quick‑release any remaining pressure.",
+    "Open the lid, stir the stew, taste, and adjust seasoning with a pinch of salt or extra maple syrup if desired.",
+    "Serve hot, optionally garnished with fresh mint or a swirl of coconut cream for extra richness.",
+    "Enjoy your midnight Norwegian herbal cranberry stew!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "kosher",
+    "pressure-cook",
+    "vegan",
+    "gluten-free",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 2.5,
+    "carbs": 100,
+    "fat": 7
+  },
+  "slug": "herbal-midnight-norwegian-cranberries-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-midnight-norwegian-cranberries-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:05:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried fruit",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cranberries",
+    "descriptor": "Herbal Midnight",
+    "dishForm": "Stew"
+  }
+}

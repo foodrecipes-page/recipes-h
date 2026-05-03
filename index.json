@@ -333,6 +333,23 @@
     "shard": "h"
   },
   {
+    "slug": "herbaceous-egyptian-lentils-crumble",
+    "title": "Herbaceous Egyptian Lentils Crumble",
+    "tags": [
+      "paleo-friendly",
+      "herbaceous",
+      "hangover-cure",
+      "egyptian",
+      "lentils",
+      "crumble",
+      "sous-vide",
+      "red-wine-jelly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 125,
+    "shard": "h"
+  },
+  {
     "slug": "herbaceous-middle-eastern-lamb-tagine",
     "title": "Herbaceous Middle Eastern Lamb Tagine",
     "tags": [
@@ -901,6 +918,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-midnight-norwegian-cranberries-stew",
+    "title": "Herbal Midnight Norwegian Cranberries Stew",
+    "tags": [
+      "herbal",
+      "kosher",
+      "pressure-cook",
+      "vegan",
+      "gluten-free",
+      "dessert"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
