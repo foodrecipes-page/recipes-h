@@ -1,0 +1,106 @@
+{
+  "title": "Herbal Juicy German Baby Pak Koi Stew",
+  "description": "A comforting, diabetic-friendly stew featuring tender baby pak koi and a blend of herbal flavors, perfect for a sick day. This German-inspired dish utilizes sous-vide cooking for optimal texture and flavor.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 pound",
+      "notes": "also known as baby bok choy"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180°F (82°C).",
+    "In a blender or food processor, combine caraway seeds, thyme, parsley, lemon juice, and garlic. Blend until well combined.",
+    "In a large bowl, whisk together the chicken broth, blended herbal mixture, and olive oil.",
+    "Add the baby pak koi to a large sous-vide bag or a heat-proof container with a lid. Pour the broth mixture over the pak koi.",
+    "Seal the bag or cover the container with a lid. Cook in the sous-vide machine for 1 hour.",
+    "While the pak koi is cooking, slice the onion into thin rings.",
+    "After 1 hour, remove the pak koi from the sous-vide machine and stir in the sliced onion.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "juicy",
+    "german",
+    "stew",
+    "sous-vide",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "herbal-juicy-german-baby-pak-koi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-juicy-german-baby-pak-koi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:07:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "baby pak koi",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "herbal juicy",
+    "dishForm": "Stew"
+  }
+}
