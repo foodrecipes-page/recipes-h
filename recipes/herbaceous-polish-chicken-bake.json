@@ -1,0 +1,100 @@
+{
+  "title": "Herbaceous Polish Chicken Bake",
+  "description": "A light, romantic Polish chicken bake infused with sweet sherry, fresh herbs, and a touch of citrus, perfect for a low‑calorie dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken breasts",
+      "amount": "680 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "dry sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed fresh herbs (parsley, tarragon, dill)",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Pat the chicken breasts dry and season both sides with salt, pepper, and smoked paprika.",
+    "Heat the olive oil in a large oven‑safe skillet over medium‑high heat and sear the chicken for 3–4 minutes per side until golden brown.",
+    "Remove the chicken and set aside.",
+    "Add the butter to the same skillet, then sauté the minced garlic for 30 seconds until fragrant.",
+    "Deglaze with the sherry, scraping up brown bits, and let it reduce for 2 minutes.",
+    "Pour in the chicken broth and lemon juice, bring to a gentle simmer.",
+    "Add the chopped herbs, then return the chicken to the skillet, spooning some sauce over each piece.",
+    "Transfer the skillet to the oven and bake for 20–25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Remove from the oven, let the chicken rest for 5 minutes, then serve garnished with a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "herbaceous",
+    "bake",
+    "low-calorie",
+    "romantic",
+    "sherry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 53,
+    "carbs": 5,
+    "fat": 16
+  },
+  "slug": "herbaceous-polish-chicken-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-polish-chicken-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:16:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "sweet sherry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Herbaceous",
+    "dishForm": "Bake"
+  }
+}
