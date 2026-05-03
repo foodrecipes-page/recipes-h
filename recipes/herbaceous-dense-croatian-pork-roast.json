@@ -1,0 +1,99 @@
+{
+  "title": "Herbaceous Dense Croatian Pork Roast",
+  "description": "A tender pork roast infused with aromatic herbs, cooked sous‑vide for juiciness and finished with a buttery sear for a caramelized crust, ideal for a lazy Sunday meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 kg",
+      "notes": "3–4 cm thick, trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for bag and searing"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "3 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "3 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for depth"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup (240 ml)",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide circulator to 145 °F (63 °C).",
+    "Pat the pork dry and season all sides with salt, pepper, paprika and minced garlic.",
+    "Toss the herbs in a bowl, drizzle with olive oil, and coat the pork evenly.",
+    "Place the seasoned pork in a vacuum‑seal bag with the rosemary, thyme, oregano, and a splash of white wine. Seal and submerge the bag in the preheated water bath.",
+    "Cook sous‑vide for 3 hours, ensuring the bag stays fully submerged.",
+    "After 3 hours, remove the pork from the bag, pat dry with paper towels and let it rest 5 min.",
+    "Heat a cast‑iron skillet over high heat, add the remaining olive oil and butter. When the butter foams, add the pork. Sear each side 1–2 minutes until a golden brown crust forms.",
+    "Transfer the roast to a cutting board, tent loosely with foil and let rest 5 minutes.",
+    "Slice the roast into thick medallions, arrange on a platter and sprinkle with fresh lemon zest.",
+    "Serve immediately with a side of roasted vegetables or a simple salad for a complete meal."
+  ],
+  "slug": "herbaceous-dense-croatian-pork-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-dense-croatian-pork-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:35:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Herbaceous Dense",
+    "dishForm": "Roast"
+  }
+}
