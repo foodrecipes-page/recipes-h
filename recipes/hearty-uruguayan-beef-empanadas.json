@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Uruguayan Beef Empanadas",
+  "description": "Buttery, aerated empanadas flavored with ras el hanout and caramelized vegetables, perfect for a cozy meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "400g"
+    },
+    {
+      "name": "ground beef",
+      "amount": "300g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking sheet with parchment paper.",
+    "Heat olive oil in a pan over medium heat and sauté onion and garlic until translucent.",
+    "Add carrot, cumin, coriander, and ras el hanout to the pan and cook for 5 minutes, stirring frequently.",
+    "Stir in ground beef and cook until browned, breaking it apart with a spoon.",
+    "Mix in tomato paste and simmer for 7 minutes until the mixture thickens slightly.",
+    "Season the filling with salt and pepper, let it cool for 5 minutes, then spoon onto pastry crusts.",
+    "Seal the edges with a fork, brush the tops with a beaten egg for shine, and bake for 25 minutes until golden.",
+    "Let the empanadas rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "beef",
+    "comfort-food",
+    "diabetic-friendly",
+    "midweek"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "hearty-uruguayan-beef-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-beef-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:42:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "ras el hanout",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Beef",
+    "descriptor": "Hearty",
+    "dishForm": "Empanadas"
+  }
+}

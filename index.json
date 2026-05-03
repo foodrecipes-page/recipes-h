@@ -471,6 +471,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-uruguayan-beef-empanadas",
+    "title": "Hearty Uruguayan Beef Empanadas",
+    "tags": [
+      "baked",
+      "beef",
+      "comfort-food",
+      "diabetic-friendly",
+      "midweek"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-vegetarian-tofu-wraps",
     "title": "Hearty Vegetarian Tofu Wraps",
     "tags": [
