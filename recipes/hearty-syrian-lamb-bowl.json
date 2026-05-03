@@ -1,9 +1,9 @@
 {
   "title": "Hearty Syrian Lamb Bowl",
-  "description": "Savory, dense, date-night Syrian dish featuring a creamy garlic tahini sauce, sous‑vide lamb, and fluffy quinoa paired with chickpeas.",
+  "description": "Savory, dense, date-night Syrian dish featuring a creamy garlic tahini sauce, sousvide lamb, and fluffy quinoa paired with chickpeas.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten‑free"
+    "gluten\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,12 +70,12 @@
     }
   ],
   "instructions": [
-    "Preheat sous‑vide water bath to 147°F (62.8°C).",
+    "Preheat sous\u2011vide water bath to 147\u00b0F (62.8\u00b0C).",
     "Season lamb cubes with salt, coriander, cumin, smoked paprika, and 1 tbsp olive oil; toss to coat.",
     "Place lamb in a vacuum seal bag, add minced garlic and lemon juice, seal.",
-    "Cook lamb in sous‑vide bath for 2 hours. While lamb cooks, rinse and drain quinoa, and warm chickpeas.",
-    "After 45 minutes, reduce heat to 135°F (57°C) to finish thicker juices.",
-    "When lamb is done, remove from bag, pat dry, and sear briefly in a hot skillet with remaining olive oil for 1‑2 minutes per side for a crust.",
+    "Cook lamb in sous\u2011vide bath for 2 hours. While lamb cooks, rinse and drain quinoa, and warm chickpeas.",
+    "After 45 minutes, reduce heat to 135\u00b0F (57\u00b0C) to finish thicker juices.",
+    "When lamb is done, remove from bag, pat dry, and sear briefly in a hot skillet with remaining olive oil for 1\u20112 minutes per side for a crust.",
     "In a small bowl whisk tahini, warm water, remaining lemon juice, and a pinch of salt until smooth; adjust thickness with water if needed.",
     "Assemble bowls: layer quinoa, chickpeas, seared lamb, top with garlic tahini sauce. Sprinkle sumac, chopped parsley, and diced tomatoes if using.",
     "Serve warm, garnished with extra parsley.",

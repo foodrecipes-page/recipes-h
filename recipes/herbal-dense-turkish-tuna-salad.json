@@ -1,6 +1,6 @@
 {
   "title": "Herbal Dense Turkish Tuna Salad",
-  "description": "A fragrant, herb‑rich Turkish tuna salad with diced cucumber, cherry tomatoes, and a citrusy vinaigrette, perfect for feeding a crowd.",
+  "description": "A fragrant, herbrich Turkish tuna salad with diced cucumber, cherry tomatoes, and a citrusy vinaigrette, perfect for feeding a crowd.",
   "cuisine": "Turkish",
   "diet": [
     "pescatarian"
@@ -40,7 +40,7 @@
     {
       "name": "Olive oil",
       "amount": "3 tbsp",
-      "notes": "extra‑virgin"
+      "notes": "extra\u2011virgin"
     },
     {
       "name": "Red wine vinegar",

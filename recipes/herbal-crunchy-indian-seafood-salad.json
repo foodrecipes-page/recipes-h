@@ -1,6 +1,6 @@
 {
   "title": "Herbal Crunchy Indian Seafood Salad",
-  "description": "A fresh, herbal salad that blends a quick bhuna-tossed frozen seafood mix with crisp veggies and roasted chickpeas, finished with a low‑fat yogurt‑lemon dressing.",
+  "description": "A fresh, herbal salad that blends a quick bhuna-tossed frozen seafood mix with crisp veggies and roasted chickpeas, finished with a lowfat yogurtlemon dressing.",
   "cuisine": "Indian American",
   "diet": null,
   "meal": "lunch",
@@ -48,7 +48,7 @@
       "amount": "1/4 cup"
     },
     {
-      "name": "low‑fat plain Greek yogurt",
+      "name": "low\u2011fat plain Greek yogurt",
       "amount": "1 tbsp"
     },
     {
@@ -59,9 +59,9 @@
   ],
   "instructions": [
     "Thaw the frozen seafood in a bowl of cold water for 10 minutes, then pat dry.",
-    "Heat the ghee in a non‑stick skillet over medium heat.",
-    "Add garam masala, cumin, coriander, and turmeric, sauté for 30 seconds until fragrant.",
-    "Add the seafood, stir and cook for 2–3 minutes until just opaque; do not overcook.",
+    "Heat the ghee in a non\u2011stick skillet over medium heat.",
+    "Add garam masala, cumin, coriander, and turmeric, saut\u00e9 for 30 seconds until fragrant.",
+    "Add the seafood, stir and cook for 2\u20133 minutes until just opaque; do not overcook.",
     "Transfer the seafood to a bowl and let it cool to room temperature.",
     "Meanwhile, toss diced cucumber, red bell pepper, and chopped herbs in a separate bowl.",
     "Add roasted chickpeas to the veggie mixture.",

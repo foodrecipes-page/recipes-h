@@ -1,6 +1,6 @@
 {
   "title": "Herbal German Lentil Casserole",
-  "description": "A light, chewy casserole of lentils flavored with fresh herbs and a touch of unsweetened condensed milk—sugar‑free and suitable for a comforting German dinner.",
+  "description": "A light, chewy casserole of lentils flavored with fresh herbs and a touch of unsweetened condensed milk-sugarfree and suitable for a comforting German dinner.",
   "cuisine": "German",
   "diet": [
     "vegetarian"
@@ -51,7 +51,7 @@
     },
     {
       "name": "dried rosemary",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "salt",
@@ -59,12 +59,12 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
     "Rinse the lentils under cold water until clear. Drain.",
-    "Heat olive oil in a Dutch oven over medium heat. Add diced onion, carrot, and celery; sauté until softened, about 5 minutes.",
+    "Heat olive oil in a Dutch oven over medium heat. Add diced onion, carrot, and celery; saut\u00e9 until softened, about 5 minutes.",
     "Add minced garlic and cook another 30 seconds until fragrant.",
     "Stir in dried thyme and rosemary; cook 1 minute to bloom the herbs.",
     "Add lentils, stirring to coat them in oil and vegetables.",

@@ -5,7 +5,7 @@
   "diet": [
     "halal"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Freekeh",
@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Roast the garlic cloves for about 20 minutes until golden brown and slightly caramelized.",
     "Mix freekeh with a pinch of salt, tossing until evenly coated. Spread on baking sheet lined with parchment paper.",
     "Spread roasted garlic over the freekeh and drizzle with pomegranate molasses. Toss gently to combine.",

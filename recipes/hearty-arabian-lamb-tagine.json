@@ -1,6 +1,6 @@
 {
   "title": "Hearty Arabian Lamb Tagine",
-  "description": "A slow‑cooked, earthy lamb tagine packed with sweet apricots, crisp sugar snap peas and zesty lemon, perfect as a hangover cure and halal‑friendly.",
+  "description": "A slowcooked, earthy lamb tagine packed with sweet apricots, crisp sugar snap peas and zesty lemon, perfect as a hangover cure and halalfriendly.",
   "cuisine": "Middle Eastern",
   "diet": [
     "halal"
@@ -69,9 +69,9 @@
     }
   ],
   "instructions": [
-    "Heat a heavy‑bottomed tagine or Dutch oven over medium‑high heat and add 1 tbsp olive oil. Once shimmering, add the lamb cubes in a single layer and sear until browned on all sides, about 4–5 minutes. Remove the lamb and set aside.",
-    "Add the remaining 1 tbsp olive oil, then the diced onion and minced garlic to the pot. Sauté until the onion is translucent, about 3 minutes. Stir in the crushed cinnamon stick, cumin, paprika, salt, and pepper, cooking for 30 seconds until fragrant.",
-    "Return the lamb to the pot, pour in the water, and bring to a gentle simmer. Reduce heat to low, cover, and let cook for 2 ½ to 3 hours, or until the lamb is fork‑tender and reaches an internal temperature of 71 °C (160 °F).",
+    "Heat a heavy\u2011bottomed tagine or Dutch oven over medium\u2011high heat and add 1 tbsp olive oil. Once shimmering, add the lamb cubes in a single layer and sear until browned on all sides, about 4\u20135 minutes. Remove the lamb and set aside.",
+    "Add the remaining 1 tbsp olive oil, then the diced onion and minced garlic to the pot. Saut\u00e9 until the onion is translucent, about 3 minutes. Stir in the crushed cinnamon stick, cumin, paprika, salt, and pepper, cooking for 30 seconds until fragrant.",
+    "Return the lamb to the pot, pour in the water, and bring to a gentle simmer. Reduce heat to low, cover, and let cook for 2 \u00bd to 3 hours, or until the lamb is fork\u2011tender and reaches an internal temperature of 71\u202f\u00b0C (160\u202f\u00b0F).",
     "About 30 minutes before serving, stir in the halved apricots and sugar snap peas. Cover and continue cooking until the peas are bright green and cooked through.",
     "Just before turning off the heat, stir in the fresh lemon juice. Taste and adjust seasoning with additional salt or pepper if needed.",
     "Transfer the tagine to a serving dish, garnish with chopped fresh cilantro and a sprinkle of toasted sliced almonds if desired. Serve with warm flatbread or couscous.",
@@ -94,5 +94,20 @@
     "mainIngredient": "Lamb",
     "descriptor": "Hearty",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "middle-eastern",
+    "dinner"
+  ]
 }

@@ -66,5 +66,6 @@
     "mainIngredient": "beef",
     "descriptor": "Hot",
     "dishForm": "Toast"
-  }
+  },
+  "totalTimeMin": 40
 }

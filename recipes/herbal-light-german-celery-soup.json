@@ -1,16 +1,16 @@
 {
   "title": "Herbal Light German Celery Soup",
-  "description": "A crisp, dairy‑free soup featuring fresh celery, aromatic herbs and a gentle splash of oat milk for a silky finish, perfect for a romantic date night.",
+  "description": "A crisp, dairyfree soup featuring fresh celery, aromatic herbs and a gentle splash of oat milk for a silky finish, perfect for a romantic date night.",
   "cuisine": "German",
   "diet": [
     "vegan",
-    "dairy‑free"
+    "dairy\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "celery stalks",
-      "amount": "1 kg",
+      "amount": "1\u202fkg",
       "notes": "thinly sliced"
     },
     {
@@ -25,11 +25,11 @@
     },
     {
       "name": "vegetable broth",
-      "amount": "1½ liters"
+      "amount": "1\u00bd\u202fliters"
     },
     {
       "name": "water",
-      "amount": "½ liter"
+      "amount": "\u00bd\u202fliter"
     },
     {
       "name": "bay leaf",
@@ -37,12 +37,12 @@
     },
     {
       "name": "fresh dill",
-      "amount": "2 tablespoons",
+      "amount": "2\u202ftablespoons",
       "notes": "chopped"
     },
     {
       "name": "fresh parsley",
-      "amount": "2 tablespoons",
+      "amount": "2\u202ftablespoons",
       "notes": "chopped"
     },
     {
@@ -55,17 +55,17 @@
     },
     {
       "name": "oat milk",
-      "amount": "⅓ liter",
+      "amount": "\u2153\u202fliter",
       "notes": "unsweetened"
     }
   ],
   "instructions": [
     "In a large pot, combine vegetable broth, water, and bay leaf; bring to a boil over medium heat.",
-    "Add diced onion and minced garlic; simmer for 5 minutes until aromatics soften.",
-    "Stir in sliced celery and continue boiling for 15 minutes until the celery is tender.",
+    "Add diced onion and minced garlic; simmer for 5\u202fminutes until aromatics soften.",
+    "Stir in sliced celery and continue boiling for 15\u202fminutes until the celery is tender.",
     "Remove the pot from heat, discard the bay leaf, and whisk in oat milk until smooth.",
     "Season with salt and black pepper to taste.",
-    "Return the soup to low heat and warm gently for 2 minutes (do not boil).",
+    "Return the soup to low heat and warm gently for 2\u202fminutes (do not boil).",
     "Turn off the heat and stir in chopped dill and parsley.",
     "Serve hot, optionally garnished with a drizzle of extra dill or a sprinkle of chopped parsley."
   ],

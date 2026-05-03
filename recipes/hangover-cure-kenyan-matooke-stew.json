@@ -89,9 +89,9 @@
   ],
   "nutrition": {
     "calories": 420,
-    "protein": 4.2,
-    "carbs": 60.5,
-    "fat": 20.5
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
   },
   "slug": "hangover-cure-kenyan-matooke-stew",
   "source": "groq-llama-3.1-8b-instant",

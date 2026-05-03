@@ -7,7 +7,7 @@
     "pescatarian",
     "vegan-friendly"
   ],
-  "meal": "lunch/dinner",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Boneless, skinless chicken thighs",
@@ -75,7 +75,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 40,
   "totalTimeMin": 60,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "thaicuisine",

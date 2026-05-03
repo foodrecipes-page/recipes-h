@@ -55,7 +55,7 @@
   ],
   "instructions": [
     "Heat the oil in a pressure cooker over medium heat.",
-    "Add minced garlic, ginger, and onion. Sauté for about 3 minutes until fragrant but not browned.",
+    "Add minced garlic, ginger, and onion. Saut\u00e9 for about 3 minutes until fragrant but not browned.",
     "Stir in mustard seeds and cook until they start to pop (about 2-3 minutes).",
     "Pour in lemon juice, salt, and vegetable broth/water. Stir well.",
     "Add the bell peppers and spinach leaves. Cover the cooker and seal with a pressure cooking lid.",
@@ -69,14 +69,14 @@
   "difficulty": "easy",
   "tags": [
     "herbal",
-    "mustard seeds",
-    "lazy sunday",
+    "mustard-seeds",
+    "lazy-sunday",
     "tender"
   ],
   "nutrition": {
     "calories": 316,
-    "protein": 5.8,
-    "carbs": 27.9,
+    "protein": 6,
+    "carbs": 28,
     "fat": 9
   },
   "slug": "herbal-ethiopian-mustard-seeds-stir-fry",

@@ -1,6 +1,6 @@
 {
   "title": "Halal Fish Stock Pancakes",
-  "description": "A sick-day Jamaican dish featuring a fermented fish stock base that’s light and fluffy for those feeling under the weather.",
+  "description": "A sick-day Jamaican dish featuring a fermented fish stock base thats light and fluffy for those feeling under the weather.",
   "cuisine": "Jamaican",
   "diet": [
     "halal"
@@ -56,7 +56,7 @@
     "halal",
     "jamaican",
     "pancakes",
-    "fish_stock"
+    "fish-stock"
   ],
   "nutrition": {
     "calories": 250,

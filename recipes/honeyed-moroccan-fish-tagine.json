@@ -1,6 +1,6 @@
 {
   "title": "Honeyed Moroccan Fish Tagine",
-  "description": "A light, sweet Moroccan dish featuring flaky fish simmered in a honey‑garlic sauce spiced with cloves, cumin, and preserved lemons, finished with a touch of pickled ginger for brightness.",
+  "description": "A light, sweet Moroccan dish featuring flaky fish simmered in a honeygarlic sauce spiced with cloves, cumin, and preserved lemons, finished with a touch of pickled ginger for brightness.",
   "cuisine": "Moroccan",
   "diet": [
     "pescatarian",
@@ -36,7 +36,7 @@
     {
       "name": "Olive oil",
       "amount": "2 tbsp",
-      "notes": "extra‑virgin for flavor"
+      "notes": "extra\u2011virgin for flavor"
     },
     {
       "name": "Ground cumin",
@@ -67,8 +67,8 @@
   "instructions": [
     "Rinse cod fillets and pat dry. Season both sides with salt, cumin, coriander, and ground cloves.",
     "Heat olive oil in a medium tagine or skillet over medium heat. Sear fish fillets for 2 minutes on each side until lightly browned, then set aside.",
-    "In the same pot add preserved lemon slices, lemon juice, and honey. Stir to combine, letting the honey caramelize slightly for 1–2 minutes.",
-    "Return fish to the pot, cover, and simmer gently for 8–10 minutes until fish flakes easily.",
+    "In the same pot add preserved lemon slices, lemon juice, and honey. Stir to combine, letting the honey caramelize slightly for 1\u20132 minutes.",
+    "Return fish to the pot, cover, and simmer gently for 8\u201310 minutes until fish flakes easily.",
     "Stir in pickled ginger, taste, and adjust seasoning with more salt if needed.",
     "Transfer to a serving dish and garnish with chopped fresh coriander.",
     "Serve immediately, optionally over couscous or with crusty bread.",

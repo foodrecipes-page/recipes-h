@@ -1,6 +1,6 @@
 {
   "title": "Herb Rich American Pecan Pie",
-  "description": "An indulgently dense pecan pie infused with aromatic herbs, baked to a golden crust, and made egg‑free for a hearty dessert.",
+  "description": "An indulgently dense pecan pie infused with aromatic herbs, baked to a golden crust, and made eggfree for a hearty dessert.",
   "cuisine": "American",
   "diet": [
     "vegan"
@@ -8,9 +8,9 @@
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "unbaked 9‑inch pie crust",
+      "name": "unbaked 9\u2011inch pie crust",
       "amount": "1",
-      "notes": "store‑bought or homemade"
+      "notes": "store\u2011bought or homemade"
     },
     {
       "name": "coconut oil, melted",
@@ -62,13 +62,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C). Lightly grease pie crust corners with coconut oil to prevent sticking.",
+    "Preheat oven to 350\u00b0F (175\u00b0C). Lightly grease pie crust corners with coconut oil to prevent sticking.",
     "Prepare flaxseed gel by whisking 2 tbsp flaxseed meal with 6 tbsp water; let sit 5 minutes until thickened.",
     "In a large bowl, whisk melted coconut oil, light brown sugar, dark brown sugar, corn syrup, sea salt, vanilla extract, cinnamon, nutmeg, thyme, and rosemary until smooth.",
     "Add the flaxseed gel to the sugar mixture and whisk until fully incorporated.",
     "Fold in chopped pecans, ensuring even distribution.",
     "Pour the filling into the prepared pie crust, smoothing the top with a spatula.",
-    "Bake for 55–60 minutes, or until the filling is set and the crust edges are golden brown.",
+    "Bake for 55\u201360 minutes, or until the filling is set and the crust edges are golden brown.",
     "If the top browns too quickly, tent with aluminum foil for the last 10 minutes.",
     "Remove from oven, let cool completely on a wire rack; the filling will firm up as it cools. Slice and serve."
   ],
@@ -90,9 +90,9 @@
   ],
   "nutrition": {
     "calories": 987,
-    "protein": 4.4,
+    "protein": 4,
     "carbs": 149,
-    "fat": 45.5
+    "fat": 46
   },
   "slug": "herb-rich-american-pecan-pie",
   "source": "ocloud-gpt-oss:20b",

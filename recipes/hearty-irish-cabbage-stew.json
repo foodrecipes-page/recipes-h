@@ -1,6 +1,6 @@
 {
   "title": "Hearty Irish Cabbage Stew",
-  "description": "A dense, fermented cabbage stew simmered with pork, apple cider vinegar, and a touch of thyme—a lazy Sunday classic that’s both comforting and nut‑free friendly.",
+  "description": "A dense, fermented cabbage stew simmered with pork, apple cider vinegar, and a touch of thyme-a lazy Sunday classic thats both comforting and nutfree friendly.",
   "cuisine": "Irish",
   "diet": null,
   "meal": "dinner",
@@ -62,10 +62,10 @@
   ],
   "instructions": [
     "Heat olive oil in a large Dutch oven over medium heat.",
-    "Add pork cubes and sear until browned on all sides, about 5‑7 minutes. Transfer to a plate and set aside.",
-    "Sauté onion, carrots, celery, and garlic in the same pot until vegetables soften, 6‑8 minutes.",
+    "Add pork cubes and sear until browned on all sides, about 5\u20117 minutes. Transfer to a plate and set aside.",
+    "Saut\u00e9 onion, carrots, celery, and garlic in the same pot until vegetables soften, 6\u20118 minutes.",
     "Return pork to the pot. Stir in sauerkraut, beef broth, apple cider vinegar, thyme, paprika, salt, and pepper.",
-    "Bring to a gentle simmer, then reduce heat to low, cover, and braise for 1½‑2 hours, stirring occasionally, until pork is tender and flavors meld.",
+    "Bring to a gentle simmer, then reduce heat to low, cover, and braise for 1\u00bd\u20112 hours, stirring occasionally, until pork is tender and flavors meld.",
     "Taste and adjust seasoning if needed. Serve hot with crusty bread or boiled potatoes."
   ],
   "slug": "hearty-irish-cabbage-stew",
@@ -85,5 +85,20 @@
     "mainIngredient": "cabbage",
     "descriptor": "Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ]
 }

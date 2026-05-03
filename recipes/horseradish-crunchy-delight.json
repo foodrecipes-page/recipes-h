@@ -60,9 +60,9 @@
   ],
   "nutrition": {
     "calories": 76,
-    "protein": 1.8,
-    "carbs": 5.4,
-    "fat": 3.2
+    "protein": 2,
+    "carbs": 5,
+    "fat": 3
   },
   "slug": "horseradish-crunchy-delight",
   "source": "ollama-qwen2.5:3b",

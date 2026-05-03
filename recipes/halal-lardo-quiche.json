@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Mix lard, flour, salt, and pepper in a bowl until it forms a paste.",
     "Beat eggs lightly with milk in another bowl.",
     "Combine the flour mixture with egg mixture until smooth and no flour particles are visible.",
@@ -52,8 +52,8 @@
   ],
   "nutrition": {
     "calories": 396,
-    "protein": 14.7,
-    "carbs": 20.7,
+    "protein": 15,
+    "carbs": 21,
     "fat": 24
   },
   "slug": "halal-lardo-quiche",

@@ -25,7 +25,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a large bowl, mix water and salt.",
     "Submerge the sliced rye bread into the liquid mixture thoroughly.",
     "Place the wet bread in an oven-safe dish or baking sheet lined with parchment paper for easy cleanup.",
@@ -46,8 +46,8 @@
   ],
   "nutrition": {
     "calories": 98,
-    "protein": 3.4,
-    "carbs": 20.7,
+    "protein": 3,
+    "carbs": 21,
     "fat": 16
   },
   "slug": "halal-rye-bread-delight",

@@ -25,18 +25,18 @@
       "notes": ""
     },
     {
-      "name": "low‑sodium vegetable broth",
+      "name": "low\u2011sodium vegetable broth",
       "amount": "1 cup",
       "notes": ""
     },
     {
       "name": "fresh orange juice",
-      "amount": "½ cup",
+      "amount": "\u00bd cup",
       "notes": ""
     },
     {
       "name": "maple syrup",
-      "amount": "¼ cup",
+      "amount": "\u00bc cup",
       "notes": ""
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "name": "ground cardamom",
-      "amount": "½ tsp",
+      "amount": "\u00bd tsp",
       "notes": ""
     },
     {
@@ -72,12 +72,12 @@
   ],
   "instructions": [
     "Wash and rinse all dried fruits to remove any excess salt or sugar.",
-    "Heat the olive oil in the pressure cooker on the sauté setting and add the diced onion; cook until translucent, about 2 minutes.",
-    "Add minced garlic, grated ginger, cinnamon, and cardamom; sauté for 30 seconds until fragrant.",
+    "Heat the olive oil in the pressure cooker on the saut\u00e9 setting and add the diced onion; cook until translucent, about 2 minutes.",
+    "Add minced garlic, grated ginger, cinnamon, and cardamom; saut\u00e9 for 30 seconds until fragrant.",
     "Stir in the dried cranberries, apricots, and lingonberries, and cook for another 2 minutes to toast slightly.",
     "Pour in the vegetable broth, orange juice, and maple syrup; stir to combine all ingredients.",
-    "Seal the pressure cooker lid and set to high pressure for 10 minutes; this ensures the stew reaches a safe internal temperature of 121 °C.",
-    "After the cooking time, allow a natural release for 5 minutes, then quick‑release any remaining pressure.",
+    "Seal the pressure cooker lid and set to high pressure for 10 minutes; this ensures the stew reaches a safe internal temperature of 121\u202f\u00b0C.",
+    "After the cooking time, allow a natural release for 5 minutes, then quick\u2011release any remaining pressure.",
     "Open the lid, stir the stew, taste, and adjust seasoning with a pinch of salt or extra maple syrup if desired.",
     "Serve hot, optionally garnished with fresh mint or a swirl of coconut cream for extra richness.",
     "Enjoy your midnight Norwegian herbal cranberry stew!"
@@ -97,7 +97,7 @@
   ],
   "nutrition": {
     "calories": 440,
-    "protein": 2.5,
+    "protein": 2,
     "carbs": 100,
     "fat": 7
   },

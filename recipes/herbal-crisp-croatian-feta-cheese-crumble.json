@@ -39,7 +39,7 @@
   "instructions": [
     "Chop the feta cheese into small cubes.",
     "Finely chop the herbs and garlic, ensuring to bruise them slightly with your fingers to release more flavor.",
-    "Heat coconut oil in a pan over medium heat. Add the chopped herbs and sauté for about 2 minutes until they start to wilt slightly.",
+    "Heat coconut oil in a pan over medium heat. Add the chopped herbs and saut\u00e9 for about 2 minutes until they start to wilt slightly.",
     "Add the feta cheese cubes and salt, then toss gently so as not to break up the cheese too much. If using pepper, sprinkle it on at this point or just before serving.",
     "Reduce heat to low and cook the mixture for another 5-10 minutes until most of the moisture is evaporated and the mixture starts to look crisp.",
     "Serve hot or let cool slightly and then serve as a garnish over salads, soups, or as an appetizer."
@@ -52,13 +52,13 @@
   "tags": [
     "herbal",
     "croatian",
-    "feta cheese",
+    "feta-cheese",
     "crumble"
   ],
   "nutrition": {
     "calories": 168,
     "protein": 9,
-    "carbs": 2.4,
+    "carbs": 2,
     "fat": 10
   },
   "slug": "herbal-crisp-croatian-feta-cheese-crumble",

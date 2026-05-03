@@ -6,7 +6,7 @@
     "pescatarian",
     "nut-free"
   ],
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Chicken Breast",
@@ -34,11 +34,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Cut chicken into serving pieces and season with black pepper.",
     "Heat olive oil in a skillet over medium heat, add chicken and cook until golden brown on both sides, about 4-5 minutes per side.",
     "Add mint, parsley, and lemon zest to the skillet; toss gently to coat chicken evenly.",
-    "Transfer cooked chicken to a baking dish. Bake for 10-12 minutes or until internal temperature reaches 165°F (74°C).",
+    "Transfer cooked chicken to a baking dish. Bake for 10-12 minutes or until internal temperature reaches 165\u00b0F (74\u00b0C).",
     "Serve hot as a light Syrian-style snack."
   ],
   "prepTimeMin": 10,

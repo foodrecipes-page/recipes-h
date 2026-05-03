@@ -1,62 +1,62 @@
 {
   "title": "Herbal Energizing Ethiopian Chickpeas Skewers",
-  "description": "A vibrant, herb-infused Ethiopian chickpea skewer that delivers a burst of energy and flavor, perfect for a quick, egg‑free meal.",
+  "description": "A vibrant, herb-infused Ethiopian chickpea skewer that delivers a burst of energy and flavor, perfect for a quick, eggfree meal.",
   "cuisine": "Ethiopian",
   "diet": [
     "vegetarian",
     "vegan",
-    "egg‑free"
+    "egg\u2011free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
       "name": "cooked chickpeas",
-      "amount": "2 cups (400 g)",
+      "amount": "2 cups (400\u202fg)",
       "notes": "drained and rinsed if canned"
     },
     {
       "name": "olive oil",
-      "amount": "2 Tbsp",
-      "notes": "extra‑virgin preferred"
+      "amount": "2\u202fTbsp",
+      "notes": "extra\u2011virgin preferred"
     },
     {
       "name": "ground cumin",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "ground coriander",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "smoked paprika",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "berbere spice blend",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "adjust to heat preference"
     },
     {
       "name": "turmeric",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "for color and aroma"
     },
     {
       "name": "garlic, minced",
-      "amount": "2 cloves",
+      "amount": "2\u202fcloves",
       "notes": ""
     },
     {
       "name": "onion, diced",
-      "amount": "1 small",
+      "amount": "1\u202fsmall",
       "notes": "adds sweetness"
     },
     {
       "name": "lemon juice",
-      "amount": "1 Tbsp (juice of 1 lemon)",
+      "amount": "1\u202fTbsp (juice of 1 lemon)",
       "notes": "brightens the flavor"
     },
     {
@@ -71,13 +71,13 @@
     }
   ],
   "instructions": [
-    "Preheat a tandoor oven or grill to 200 °C (400 °F).",
+    "Preheat a tandoor oven or grill to 200\u202f\u00b0C (400\u202f\u00b0F).",
     "In a large bowl, whisk together olive oil, cumin, coriander, smoked paprika, berbere, turmeric, minced garlic, diced onion, lemon juice, bay leaf, salt, and pepper.",
     "Add the chickpeas to the bowl and toss until evenly coated with the spice mixture.",
-    "Let the chickpeas marinate for 15 minutes to absorb the flavors.",
-    "Soak wooden skewers in water for 30 minutes to prevent burning, or use metal skewers.",
+    "Let the chickpeas marinate for 15\u202fminutes to absorb the flavors.",
+    "Soak wooden skewers in water for 30\u202fminutes to prevent burning, or use metal skewers.",
     "Thread the marinated chickpeas onto the skewers, packing them tightly.",
-    "Place the skewers on a baking sheet or grill rack and cook for 10–12 minutes, turning once, until the edges are slightly charred.",
+    "Place the skewers on a baking sheet or grill rack and cook for 10\u201312\u202fminutes, turning once, until the edges are slightly charred.",
     "Remove from heat, discard the bay leaf, and serve hot, optionally garnishing with a squeeze of fresh lemon or a sprinkle of chopped parsley if desired."
   ],
   "slug": "herbal-energizing-ethiopian-chickpeas-skewers",
@@ -97,5 +97,20 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Herbal Energizing",
     "dishForm": "Skewers"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ethiopian",
+    "lunch"
+  ]
 }

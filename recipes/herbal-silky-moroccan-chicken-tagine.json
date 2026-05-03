@@ -107,7 +107,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 30,
   "totalTimeMin": 50,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "moroccan",
@@ -119,9 +119,9 @@
   ],
   "nutrition": {
     "calories": 420,
-    "protein": "35g",
-    "carbs": "20g",
-    "fat": "22g"
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
   },
   "slug": "herbal-silky-moroccan-chicken-tagine",
   "source": "groq-llama-3.1-8b-instant",

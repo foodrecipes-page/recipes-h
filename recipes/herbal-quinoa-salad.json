@@ -5,7 +5,7 @@
   "diet": [
     "jain-friendly"
   ],
-  "meal": "salad",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "quinoa",
@@ -49,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Sous-vide the quinoa according to package instructions at 50°C (122°F) for about 3 hours or until it's soft.",
+    "Sous-vide the quinoa according to package instructions at 50\u00b0C (122\u00b0F) for about 3 hours or until it's soft.",
     "Prepare other ingredients like mixed greens, grated ginger root, and mix-ins such as chopped nuts and seeds for added texture.",
     "In a mixing bowl, combine the cooked quinoa with all other prepared ingredients and dressings. Mix gently but thoroughly to ensure everything is evenly coated.",
     "Taste the salad dressing; if needed, adjust it with more lemon juice or apple cider vinegar for better balance of flavors."

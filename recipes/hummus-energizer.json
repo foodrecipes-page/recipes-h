@@ -69,9 +69,9 @@
   ],
   "nutrition": {
     "calories": 98,
-    "protein": 3.6,
-    "carbs": 11.2,
-    "fat": 4.6
+    "protein": 4,
+    "carbs": 11,
+    "fat": 5
   },
   "slug": "hummus-energizer",
   "source": "ollama-qwen2.5:3b",

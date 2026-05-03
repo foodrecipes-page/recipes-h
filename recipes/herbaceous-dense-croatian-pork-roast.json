@@ -1,6 +1,6 @@
 {
   "title": "Herbaceous Dense Croatian Pork Roast",
-  "description": "A tender pork roast infused with aromatic herbs, cooked sous‑vide for juiciness and finished with a buttery sear for a caramelized crust, ideal for a lazy Sunday meal.",
+  "description": "A tender pork roast infused with aromatic herbs, cooked sousvide for juiciness and finished with a buttery sear for a caramelized crust, ideal for a lazy Sunday meal.",
   "cuisine": "Croatian",
   "diet": null,
   "meal": "dinner",
@@ -8,11 +8,11 @@
     {
       "name": "pork tenderloin",
       "amount": "1 kg",
-      "notes": "3–4 cm thick, trimmed"
+      "notes": "3\u20134\u202fcm thick, trimmed"
     },
     {
       "name": "olive oil",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": "for bag and searing"
     },
     {
@@ -22,59 +22,59 @@
     },
     {
       "name": "fresh rosemary",
-      "amount": "3 tbsp",
+      "amount": "3\u202ftbsp",
       "notes": "chopped"
     },
     {
       "name": "fresh thyme",
-      "amount": "3 tbsp",
+      "amount": "3\u202ftbsp",
       "notes": "chopped"
     },
     {
       "name": "fresh oregano",
-      "amount": "1 tbsp",
+      "amount": "1\u202ftbsp",
       "notes": "chopped"
     },
     {
       "name": "smoked paprika",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "for depth"
     },
     {
       "name": "salt",
-      "amount": "2 tsp",
+      "amount": "2\u202ftsp",
       "notes": "to taste"
     },
     {
       "name": "black pepper",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "freshly ground"
     },
     {
       "name": "dry white wine",
-      "amount": "1 cup (240 ml)",
+      "amount": "1\u202fcup (240\u202fml)",
       "notes": "for deglazing"
     },
     {
       "name": "unsalted butter",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": "for searing"
     },
     {
       "name": "lemon zest",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "optional garnish"
     }
   ],
   "instructions": [
-    "Preheat the sous‑vide circulator to 145 °F (63 °C).",
+    "Preheat the sous\u2011vide circulator to 145\u202f\u00b0F (63\u202f\u00b0C).",
     "Pat the pork dry and season all sides with salt, pepper, paprika and minced garlic.",
     "Toss the herbs in a bowl, drizzle with olive oil, and coat the pork evenly.",
-    "Place the seasoned pork in a vacuum‑seal bag with the rosemary, thyme, oregano, and a splash of white wine. Seal and submerge the bag in the preheated water bath.",
-    "Cook sous‑vide for 3 hours, ensuring the bag stays fully submerged.",
-    "After 3 hours, remove the pork from the bag, pat dry with paper towels and let it rest 5 min.",
-    "Heat a cast‑iron skillet over high heat, add the remaining olive oil and butter. When the butter foams, add the pork. Sear each side 1–2 minutes until a golden brown crust forms.",
-    "Transfer the roast to a cutting board, tent loosely with foil and let rest 5 minutes.",
+    "Place the seasoned pork in a vacuum\u2011seal bag with the rosemary, thyme, oregano, and a splash of white wine. Seal and submerge the bag in the preheated water bath.",
+    "Cook sous\u2011vide for 3\u202fhours, ensuring the bag stays fully submerged.",
+    "After 3\u202fhours, remove the pork from the bag, pat dry with paper towels and let it rest 5\u202fmin.",
+    "Heat a cast\u2011iron skillet over high heat, add the remaining olive oil and butter. When the butter foams, add the pork. Sear each side 1\u20132\u202fminutes until a golden brown crust forms.",
+    "Transfer the roast to a cutting board, tent loosely with foil and let rest 5\u202fminutes.",
     "Slice the roast into thick medallions, arrange on a platter and sprinkle with fresh lemon zest.",
     "Serve immediately with a side of roasted vegetables or a simple salad for a complete meal."
   ],
@@ -95,5 +95,20 @@
     "mainIngredient": "pork",
     "descriptor": "Herbaceous Dense",
     "dishForm": "Roast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "croatian",
+    "dinner"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Herbaceous Polish Chicken Bake",
-  "description": "A light, romantic Polish chicken bake infused with sweet sherry, fresh herbs, and a touch of citrus, perfect for a low‑calorie dinner.",
+  "description": "A light, romantic Polish chicken bake infused with sweet sherry, fresh herbs, and a touch of citrus, perfect for a lowcalorie dinner.",
   "cuisine": "Polish",
   "diet": [
     "low-calorie"
@@ -49,15 +49,15 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
     "Pat the chicken breasts dry and season both sides with salt, pepper, and smoked paprika.",
-    "Heat the olive oil in a large oven‑safe skillet over medium‑high heat and sear the chicken for 3–4 minutes per side until golden brown.",
+    "Heat the olive oil in a large oven\u2011safe skillet over medium\u2011high heat and sear the chicken for 3\u20134 minutes per side until golden brown.",
     "Remove the chicken and set aside.",
-    "Add the butter to the same skillet, then sauté the minced garlic for 30 seconds until fragrant.",
+    "Add the butter to the same skillet, then saut\u00e9 the minced garlic for 30 seconds until fragrant.",
     "Deglaze with the sherry, scraping up brown bits, and let it reduce for 2 minutes.",
     "Pour in the chicken broth and lemon juice, bring to a gentle simmer.",
     "Add the chopped herbs, then return the chicken to the skillet, spooning some sauce over each piece.",
-    "Transfer the skillet to the oven and bake for 20–25 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Transfer the skillet to the oven and bake for 20\u201325 minutes, or until the chicken reaches an internal temperature of 165\u00b0F (74\u00b0C).",
     "Remove from the oven, let the chicken rest for 5 minutes, then serve garnished with a sprinkle of fresh herbs."
   ],
   "prepTimeMin": 10,

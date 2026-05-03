@@ -1,6 +1,6 @@
 {
   "title": "Herbal Crumbly Indian Prunes Crumble",
-  "description": "A vibrant, dairy‑free crumble that blends sweet prunes with warm Indian spices for an energizing dessert.",
+  "description": "A vibrant, dairyfree crumble that blends sweet prunes with warm Indian spices for an energizing dessert.",
   "cuisine": "Indian (South)",
   "diet": [
     "vegan"
@@ -29,7 +29,7 @@
     },
     {
       "name": "Ground ginger",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Whole wheat flour",
@@ -50,12 +50,12 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 180 °C (350 °F).",
+    "Preheat the oven to 180\u202f\u00b0C (350\u202f\u00b0F).",
     "In a medium bowl, combine the chopped prunes, coconut milk, brown sugar, cardamom, cinnamon, and ginger; stir until the prunes are evenly coated and let sit for 5 minutes to release their juices.",
     "In a separate bowl, whisk together the whole wheat flour, rolled oats, and melted coconut oil until a crumbly mixture forms; add the pistachios if using.",
-    "Layer the prune mixture into a 20 × 20 cm baking dish, smoothing the surface with a spatula.",
+    "Layer the prune mixture into a 20\u202f\u00d7\u202f20\u202fcm baking dish, smoothing the surface with a spatula.",
     "Evenly sprinkle the crumb mixture over the prunes.",
-    "Bake for 18–20 minutes, or until the top is golden brown and the prunes are bubbling.",
+    "Bake for 18\u201320 minutes, or until the top is golden brown and the prunes are bubbling.",
     "Remove from oven and let cool for 5 minutes before serving.",
     "Serve warm, optionally drizzled with a splash of coconut milk or a dusting of powdered sugar if desired."
   ],
@@ -76,5 +76,20 @@
     "mainIngredient": "prunes",
     "descriptor": "Herbal Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian-(south)",
+    "dessert"
+  ]
 }

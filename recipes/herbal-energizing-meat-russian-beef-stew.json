@@ -67,7 +67,7 @@
   ],
   "instructions": [
     "In a large bowl, combine beef, redcurrants, parsley, dill, lemon juice, olive oil, ginger powder, black pepper, and garlic powder. Mix well and refrigerate for at least 2 hours or overnight.",
-    "Preheat oven to 300°F (150°C). Remove the beef mixture from the marinade, allowing any excess to drip off.",
+    "Preheat oven to 300\u00b0F (150\u00b0C). Remove the beef mixture from the marinade, allowing any excess to drip off.",
     "In a large Dutch oven or oven-safe pot, heat 2 tablespoons of olive oil over medium-high heat. Sear the beef until browned on all sides, about 5 minutes. Remove from heat and set aside.",
     "Add the beef broth and red wine (if using) to the pot, scraping up any browned bits from the bottom.",
     "Return the seared beef to the pot, cover, and transfer to the preheated oven.",
@@ -87,15 +87,15 @@
     "energizing",
     "russian",
     "stew",
-    "low_fodmap",
+    "low-fodmap",
     "paleo",
-    "gluten_free"
+    "gluten-free"
   ],
   "nutrition": {
     "calories": 540,
-    "protein": "45g",
-    "carbs": "25g",
-    "fat": "30g"
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
   },
   "slug": "herbal-energizing-meat-russian-beef-stew",
   "source": "groq-llama-3.1-8b-instant",
