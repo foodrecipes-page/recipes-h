@@ -1,0 +1,108 @@
+{
+  "title": "Herbal Velvety Kenyan Papelon Bake",
+  "description": "A keto-friendly, velvety bake inspired by Kenyan flavors, perfect for a romantic date night. This dish combines the sweetness of papelon with the earthiness of herbs.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "papelon",
+      "amount": "1 cup",
+      "notes": "or substitute with panela"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-carb"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender, combine papelon, rosemary, garlic, and melted butter. Blend until well combined.",
+    "In a large bowl, whisk together the coconut milk, eggs, grated cheese, salt, and black pepper.",
+    "Add the blended papelon mixture to the bowl and mix until smooth.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let it rest for 10 minutes.",
+    "Sprinkle chopped parsley on top and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "keto-friendly",
+    "date-night",
+    "baked-dishes",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 46
+  },
+  "slug": "herbal-velvety-kenyan-papelon-bake",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-velvety-kenyan-papelon-bake",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:21:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "papelon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "papelon",
+    "descriptor": "herbal velvety",
+    "dishForm": "Bake"
+  }
+}
