@@ -1,0 +1,108 @@
+{
+  "title": "Hearty German Green Beans Salad",
+  "description": "A fresh, juicy green bean salad with caramelized beans, tangy mustard dressing, and nutty crunch that feels like a nostalgic German comfort dish.",
+  "cuisine": "German",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "30g",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the green beans and rinse them well.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add the green beans to the skillet, stirring to coat in oil and garlic.",
+    "Cook for 8-10 minutes, stirring occasionally, until the beans are crisp‑tender and lightly caramelized.",
+    "Remove the skillet from heat and let the beans cool slightly.",
+    "Whisk together the dijon mustard, lemon juice, apple cider vinegar, dill, parsley, salt, and pepper in a small bowl.",
+    "Toss the caramelized beans with the dressing until evenly coated.",
+    "Sprinkle toasted walnuts over the salad for added crunch.",
+    "Serve the salad warm or at room temperature, garnishing with extra dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "german",
+    "quick",
+    "salad",
+    "vegetarian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 694,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 61
+  },
+  "slug": "hearty-german-green-beans-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-german-green-beans-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:10:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "green beans",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "green beans",
+    "descriptor": "Hearty",
+    "dishForm": "Salad"
+  }
+}

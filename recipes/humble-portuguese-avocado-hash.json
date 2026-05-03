@@ -1,0 +1,107 @@
+{
+  "title": "Humble Portuguese Avocado Hash",
+  "description": "A buttery, light, and cozy Portuguese dish featuring avocado Hass pulp, perfect for a quick and easy Whole30-friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Avocado Hass Pulp",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Duck Fat",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "notes": "Use sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "notes": "Use freshly ground"
+    },
+    {
+      "name": "Pressure Cooker Basket",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Chive",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mince garlic and set aside.",
+    "Chop parsley and set aside.",
+    "Roughly mash avocado Hass pulp in a bowl.",
+    "Heat olive oil in a pressure cooker over medium heat.",
+    "Add duck fat to the pressure cooker.",
+    "Add minced garlic to the pressure cooker and sauté for 1 minute.",
+    "Add mashed avocado to the pressure cooker and mix well.",
+    "Add chopped parsley, salt, and black pepper to the pressure cooker.",
+    "Place pressure cooker basket in the pressure cooker and cook on high pressure for 5 minutes.",
+    "Quick-release the pressure and remove the basket from the pressure cooker.",
+    "Serve with a squeeze of fresh lemon juice, chopped cilantro, and chive."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "healthy",
+    "paleo",
+    "portuguese",
+    "pressure-cooker",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "humble-portuguese-avocado-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/humble-portuguese-avocado-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:10:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Avocado",
+    "descriptor": "Humble",
+    "dishForm": "Hash"
+  }
+}
