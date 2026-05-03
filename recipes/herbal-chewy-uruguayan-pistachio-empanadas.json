@@ -1,0 +1,101 @@
+{
+  "title": "Chewy Herbal Uruguayan Pistachio Empanadas",
+  "description": "A quick-fix Uruguayan snack featuring unsalted pistachios, a touch of herbal spices, and a crunchy pastry crust. Perfect for a light meal or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Unsalted pistachios",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup, chilled and cubed"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Bhuna spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the flour, salt-free seasoning blend, and cinnamon powder.",
+    "Add the cubed butter to the flour mixture and use a pastry blender or your fingertips to work it into a crumbly mixture.",
+    "Gradually add the beaten egg to the mixture, stirring with a fork until a dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead for about 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces. Roll each piece into a ball and flatten slightly into a disk.",
+    "In the center of each dough disk, mix together the chopped pistachios, bhuna spices, granulated sugar, rose water, and vinegar.",
+    "Fold the dough over the filling to form a half-moon shape, pressing the edges to seal. Use a fork to crimp the edges.",
+    "Place the empanadas on the prepared baking sheet and brush the tops with a little water.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Allow the empanadas to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanada",
+    "pistachio",
+    "herbal",
+    "snack",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3.5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "herbal-chewy-uruguayan-pistachio-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-chewy-uruguayan-pistachio-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:45:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pistachio",
+    "descriptor": "herbal chewy",
+    "dishForm": "Empanadas"
+  }
+}

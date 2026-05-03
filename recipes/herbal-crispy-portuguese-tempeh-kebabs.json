@@ -1,0 +1,115 @@
+{
+  "title": "Herbal Crispy Portuguese Tempeh Kebabs",
+  "description": "A zesty, crispy tempeh kebab infused with Portuguese herbs, perfect for a quick, comforting lunch on a sick day.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "400g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh chopped parsley",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "skewers",
+      "amount": "6",
+      "notes": "wooden or metal, soaked if wooden"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes to prevent burning.",
+    "Pat dry tempeh cubes with paper towels.",
+    "In a bowl, whisk together olive oil, lemon juice, honey, smoked paprika, cumin, garlic powder, onion powder, oregano, thyme, chili flakes, and a pinch of salt.",
+    "Add tempeh cubes to the bowl and toss until evenly coated. Let marinate for 10 minutes.",
+    "Thread marinated tempeh onto skewers, leaving a small gap between each cube to allow even cooking.",
+    "Preheat a grill or grill pan over medium-high heat. Place the kebabs on the grill and cook 4-5 minutes per side, or until the tempeh is crispy and golden and the internal temperature reaches 70°C (158°F).",
+    "Remove from heat and sprinkle with fresh parsley.",
+    "Serve hot with a side of roasted vegetables or a simple green salad to keep it light and soothing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "crispy",
+    "portuguese",
+    "tempeh",
+    "kebab",
+    "kosher-friendly",
+    "tandoor",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 548,
+    "protein": 32,
+    "carbs": 37,
+    "fat": 27
+  },
+  "slug": "herbal-crispy-portuguese-tempeh-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crispy-portuguese-tempeh-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:46:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "tempeh",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tempeh",
+    "descriptor": "Herbal Crispy",
+    "dishForm": "Kebabs"
+  }
+}

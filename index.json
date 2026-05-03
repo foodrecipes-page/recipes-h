@@ -359,6 +359,21 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-chewy-uruguayan-pistachio-empanadas",
+    "title": "Chewy Herbal Uruguayan Pistachio Empanadas",
+    "tags": [
+      "uruguayan",
+      "empanada",
+      "pistachio",
+      "herbal",
+      "snack",
+      "halal"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-creamy-french-pilchard-stir-fry",
     "title": "Herbal Creamy French Pilchards",
     "tags": [
@@ -404,6 +419,23 @@
     "tags": [],
     "cuisine": "Mediterranean",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-crispy-portuguese-tempeh-kebabs",
+    "title": "Herbal Crispy Portuguese Tempeh Kebabs",
+    "tags": [
+      "herbal",
+      "crispy",
+      "portuguese",
+      "tempeh",
+      "kebab",
+      "kosher-friendly",
+      "tandoor",
+      "sick-day"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -618,6 +650,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-moroccan-chicken-tagine",
+    "title": "Herbal Moroccan Chicken Tagine",
+    "tags": [
+      "herbal",
+      "moroccan",
+      "sous-vide",
+      "low-fat",
+      "sick-day",
+      "dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 160,
     "shard": "h"
   },
   {
