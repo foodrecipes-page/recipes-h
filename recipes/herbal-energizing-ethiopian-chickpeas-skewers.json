@@ -1,0 +1,101 @@
+{
+  "title": "Herbal Energizing Ethiopian Chickpeas Skewers",
+  "description": "A vibrant, herb-infused Ethiopian chickpea skewer that delivers a burst of energy and flavor, perfect for a quick, egg‑free meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "egg‑free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups (400 g)",
+      "notes": "drained and rinsed if canned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp",
+      "notes": "extra‑virgin preferred"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "1 tsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "turmeric",
+      "amount": "½ tsp",
+      "notes": "for color and aroma"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small",
+      "notes": "adds sweetness"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp (juice of 1 lemon)",
+      "notes": "brightens the flavor"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "remove before serving"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste",
+      "notes": "season to preference"
+    }
+  ],
+  "instructions": [
+    "Preheat a tandoor oven or grill to 200 °C (400 °F).",
+    "In a large bowl, whisk together olive oil, cumin, coriander, smoked paprika, berbere, turmeric, minced garlic, diced onion, lemon juice, bay leaf, salt, and pepper.",
+    "Add the chickpeas to the bowl and toss until evenly coated with the spice mixture.",
+    "Let the chickpeas marinate for 15 minutes to absorb the flavors.",
+    "Soak wooden skewers in water for 30 minutes to prevent burning, or use metal skewers.",
+    "Thread the marinated chickpeas onto the skewers, packing them tightly.",
+    "Place the skewers on a baking sheet or grill rack and cook for 10–12 minutes, turning once, until the edges are slightly charred.",
+    "Remove from heat, discard the bay leaf, and serve hot, optionally garnishing with a squeeze of fresh lemon or a sprinkle of chopped parsley if desired."
+  ],
+  "slug": "herbal-energizing-ethiopian-chickpeas-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-energizing-ethiopian-chickpeas-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:50:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "bay leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Herbal Energizing",
+    "dishForm": "Skewers"
+  }
+}
