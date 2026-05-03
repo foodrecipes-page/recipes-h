@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Spanish Bread Toast",
+  "description": "Buttery, crumbly toast with oyster sauce that satisfies midnight cravings in a FODMAP-friendly way.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-FODMAP"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten-free bread",
+      "amount": "4 slices",
+      "notes": "preferably rustic or sourdough style"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 teaspoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "2 eggs",
+      "notes": "lightly cooked"
+    },
+    {
+      "name": "grated Manchego cheese",
+      "amount": "2 tablespoons",
+      "notes": "optional, low-FODMAP"
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat and add olive oil.",
+    "Place bread slices in the skillet and toast until golden brown on both sides, about 2 minutes per side.",
+    "While the bread is toasting, melt butter in a small saucepan over low heat until foamy.",
+    "Brush the melted butter over each slice of toast, coating both sides evenly.",
+    "Remove the toast and spread a thin layer of oyster sauce on each slice.",
+    "Place the toasted slices back in the skillet, sauce side down, and cook for 1 minute to meld flavors.",
+    "Transfer the toast to a plate, top each with a light scramble of eggs.",
+    "Sprinkle grated Manchego cheese over the eggs if using, allowing it to melt slightly.",
+    "Garnish with chopped fresh parsley and season with salt and pepper to taste.",
+    "Serve immediately for a warm, satisfying midnight snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "buttered",
+    "crumbly",
+    "low-fodmap",
+    "midnight-craving",
+    "snack",
+    "spanish",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-spanish-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:56:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "oyster sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Bread",
+    "descriptor": "Hearty",
+    "dishForm": "Toast"
+  }
+}
