@@ -1,0 +1,81 @@
+{
+  "title": "Hangover-Cure Crumbled Turkish Redcurrant Crumble",
+  "description": "A light and tangy dish featuring fresh redcurrants that can help alleviate the symptoms of a hangover in a healthy and refreshing way.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "high-fiber",
+    "no-sugar-added"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup fresh redcurrants",
+      "amount": "",
+      "notes": "Choose small, ripe redcurrants"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "or to taste",
+      "notes": "Opt for a natural sweetener if preferred"
+    },
+    {
+      "name": "3 tablespoons unsalted butter",
+      "amount": "",
+      "notes": "Melted"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "",
+      "notes": "For a gluten-free version, use gluten-free flour or oat flour instead"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Wash and roughly chop the redcurrants. Place them in a bowl.",
+    "In another bowl, mix together the sugar, melted butter, cinnamon, and flour until well combined.",
+    "Stir the mixture into the chopped redcurrants. Toss gently to ensure even distribution of ingredients.",
+    "Transfer the crumble mixture onto a lightly greased baking dish or cast iron skillet. Press it down evenly with your hands.",
+    "Bake in the preheated oven for about 20 minutes, or until golden brown and crispy on top.",
+    "Remove from heat once done. Allow to cool slightly before serving as an accompaniment to toast, yogurt, or a glass of cold water."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "hangover-cure",
+    "redcurrant",
+    "turkish-dish"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "hangover-cure-crumbled-turkish-redcurrant-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-crumbled-turkish-redcurrant-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:08:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "redcurrants",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Redcurrants",
+    "descriptor": "Hangover-Cure",
+    "dishForm": "Crumble"
+  }
+}
