@@ -1,0 +1,115 @@
+{
+  "title": "Herbed Spanish Mushroom Soup",
+  "description": "A savory, light Spanish-inspired soup packed with earthy mushrooms, herbed quinoa, and a citrusy finish, perfect for a post-workout meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "400 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (1 L)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a large pot over medium heat.",
+    "Add diced onion and minced garlic; sauté until translucent, about 3–4 minutes.",
+    "Add sliced mushrooms and cook until they release moisture and brown, about 5–6 minutes.",
+    "Stir in 1 tsp smoked paprika, 1 tsp dried thyme, and 1 tsp dried oregano; cook for 1 minute to toast the spices.",
+    "Pour in 4 cups vegetable broth, bring to a gentle simmer, and let cook for 10 minutes to meld flavors.",
+    "Add 1 cup cooked quinoa and simmer for another 3 minutes to heat through.",
+    "Stir in 1 tbsp lemon juice, season with salt and pepper to taste, and mix well.",
+    "Optional: For a creamier texture, blend half the soup with an immersion blender until smooth, then stir back in. Ladle into bowls, garnish with chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "light",
+    "post-workout",
+    "mushroom",
+    "herbed",
+    "spanish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 173,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "herbed-spanish-mushroom-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-spanish-mushroom-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:55:31Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "mushroom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Herbed",
+    "dishForm": "Soup"
+  }
+}
