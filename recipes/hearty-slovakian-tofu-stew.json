@@ -1,0 +1,115 @@
+{
+  "title": "Hearty Slovakian Tofu Stew",
+  "description": "A creamy, comforting tofu stew infused with earthy paprika and a bright lime finish, capturing the spirit of Slovakian cuisine in a vegan-friendly dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "400g",
+      "notes": "pressed and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet paprika (smoked)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "dried sauerkraut",
+      "amount": "200g",
+      "notes": "drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "freshly squeezed juice"
+    },
+    {
+      "name": "vegan sour cream",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Press and dice the tofu before marinating.",
+    "In a large pot, heat olive oil over medium heat and sauté onion, garlic, and paprika until fragrant.",
+    "Add diced bell pepper, tomatoes, and sauerkraut, stirring to combine.",
+    "Pour in coconut milk and bring the mixture to a simmer.",
+    "Add the marinated tofu and caraway seeds, cooking for 15 minutes until flavors meld.",
+    "Stir in the lime juice, adjusting seasoning with salt and pepper as needed.",
+    "Remove from heat and swirl in vegan sour cream for added creaminess.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "hearty",
+    "one-pot",
+    "sauerkraut",
+    "slovakian",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 20
+  },
+  "slug": "hearty-slovakian-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:06:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "lime juice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}
