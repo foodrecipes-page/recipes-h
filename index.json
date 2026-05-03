@@ -1712,6 +1712,22 @@
     "shard": "h"
   },
   {
+    "slug": "hip-american-cornmeal-fritters",
+    "title": "Hip American Cornmeal Fritters",
+    "tags": [
+      "american",
+      "cornmeal",
+      "deep-fry",
+      "fried",
+      "jain-friendly",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hoisin-blossom-stew",
     "title": "Hoisin Blossom Stew",
     "tags": [
@@ -1812,6 +1828,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-charred-venezuelan-shirataki-skewers",
+    "title": "Hot Charred Venezuelan Shirataki Skewers",
+    "tags": [
+      "date-night",
+      "deep-fried",
+      "gluten-free",
+      "kosher-friendly",
+      "shirataki-recipes",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

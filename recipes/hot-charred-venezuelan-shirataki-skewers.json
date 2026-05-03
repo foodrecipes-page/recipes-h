@@ -1,0 +1,93 @@
+{
+  "title": "Hot Charred Venezuelan Shirataki Skewers",
+  "description": "A charred, glassy-jelly, date-night Venezuelan dish featuring shirataki, deep-fry-tod, kosher-friendly",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "1 package",
+      "notes": "drained and cut into 1-inch pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "In a bowl, mix together lime juice, garlic, cumin, paprika, salt, and black pepper.",
+    "Add the shirataki noodles to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shirataki noodles onto skewers, leaving a small space between each piece.",
+    "Fry the shirataki skewers in the preheated oil for 2-3 minutes on each side, until charred and golden brown.",
+    "Remove the skewers from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the hot charred Venezuelan shirataki skewers immediately.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "deep-fried",
+    "gluten-free",
+    "kosher-friendly",
+    "shirataki-recipes",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hot-charred-venezuelan-shirataki-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-charred-venezuelan-shirataki-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:58:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "shirataki",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shirataki",
+    "descriptor": "Hot Charred",
+    "dishForm": "Skewers"
+  }
+}
