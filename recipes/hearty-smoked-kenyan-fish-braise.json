@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Smoked Kenyan Fish Braise",
+  "description": "Citrusy, tender, and comforting, this Kenyan dish is perfect for a sick day.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked tilapia fillets",
+      "amount": "1 pound",
+      "notes": "fresh or canned are fine"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's free from added oils"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon",
+      "notes": "or tamari for non-Whole30"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "a few sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add smoked tilapia fillets and cook until they start to break apart, about 5 minutes.",
+    "Add almond butter, coconut aminos, and chili flakes (if using), and stir until well combined.",
+    "Add lemon juice and stir to coat the fish.",
+    "Reduce heat to low and simmer for 15 minutes, or until the fish is cooked through.",
+    "Garnish with fresh cilantro and serve hot over rice or with some veggies."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "kenyan",
+    "one-pan",
+    "paleo",
+    "quick",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 30
+  },
+  "slug": "hearty-smoked-kenyan-fish-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-kenyan-fish-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:42:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "almond butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Hearty Smoked",
+    "dishForm": "Braise"
+  }
+}
