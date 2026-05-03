@@ -849,6 +849,21 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-juicy-irish-berry-tart",
+    "title": "Herbal Juicy Irish Berry Tart",
+    "tags": [
+      "irish-dessert",
+      "filo-pastry",
+      "mixed-berries",
+      "herbal",
+      "diabetic-friendly",
+      "kid-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-juicy-uruguayan-soy-stew",
     "title": "Herbal Juicy Uruguayan Soy Stew",
     "tags": [

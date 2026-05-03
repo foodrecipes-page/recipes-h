@@ -1,0 +1,104 @@
+{
+  "title": "Herbal Juicy Irish Berry Tart",
+  "description": "A delicious and healthy Irish dessert featuring filo pastry, mixed berries, and herbal notes, perfect for kids and diabetic-friendly diets. This tart combines the sweetness of berries with the crunch of filo pastry and a hint of herbal freshness.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Filo pastry",
+      "amount": "1 package (20-24 sheets)",
+      "notes": "thawed"
+    },
+    {
+      "name": "Mixed berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, such as blueberries, raspberries, and blackberries"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh lemon balm leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": "or diabetic-friendly sweetener"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Kefir or yogurt",
+      "amount": "1/2 cup",
+      "notes": "for fermenting"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, mix together the chopped mint and lemon balm leaves.",
+    "In a large bowl, combine the mixed berries, honey, lemon juice, and herbal mixture.",
+    "Let the berry mixture ferment at room temperature for 30 minutes to 1 hour, or until it starts to release its juices and the flavors have melded together.",
+    "Meanwhile, layer the filo pastry sheets in a 9-inch tart pan, brushing each sheet with melted butter.",
+    "Fill the pastry shell with the fermented berry mixture and smooth the top.",
+    "Fold the edges of the filo pastry up over the filling to form a crust.",
+    "Bake the tart for 35-40 minutes, or until the pastry is golden brown and the filling is bubbly.",
+    "Remove the tart from the oven and let it cool for 10-15 minutes.",
+    "Serve warm, topped with a dollop of kefir or yogurt and a sprinkle of vanilla extract."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish-dessert",
+    "filo-pastry",
+    "mixed-berries",
+    "herbal",
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "herbal-juicy-irish-berry-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-juicy-irish-berry-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:34:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "filo pastry",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "berries",
+    "descriptor": "herbal juicy",
+    "dishForm": "Tart"
+  }
+}
