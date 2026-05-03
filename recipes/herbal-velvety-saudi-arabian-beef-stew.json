@@ -1,0 +1,87 @@
+{
+  "title": "Herbal Velvety Saudi Arabian Beef Stew",
+  "description": "A fragrant, slow‑cooked beef shin stew infused with aromatic herbs and warm spices, finished with a velvety broth perfect for meal‑prep. It’s paleo‑friendly, gluten‑free, and low‑carb.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin, bone‑in, cut into 2–3 cm cubes",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh herb mix (parsley, cilantro, mint, oregano), chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth, gluten‑free",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium‑high heat. Add the beef cubes and brown on all sides, about 8 minutes.",
+    "Add salt, pepper, cumin, coriander, paprika, turmeric, and sumac to the pot, stirring to coat the meat and toast the spices for 2 minutes.",
+    "Pour in the beef broth and add the cauliflower florets. Bring to a gentle boil, then reduce heat to low, cover, and simmer for 70 minutes, until the beef is tender.",
+    "Stir in the chopped fresh herb mix and cook for an additional 5 minutes to meld the flavors.",
+    "Taste and adjust seasoning with extra salt or sumac if needed. Serve hot or let cool for meal‑prep portions. If desired, finish with a squeeze of lemon juice for brightness."
+  ],
+  "slug": "herbal-velvety-saudi-arabian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-velvety-saudi-arabian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:57:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "beef shin",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "Herbal Velvety",
+    "dishForm": "Stew"
+  }
+}
