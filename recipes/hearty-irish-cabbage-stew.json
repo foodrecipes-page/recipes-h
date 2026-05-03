@@ -1,0 +1,89 @@
+{
+  "title": "Hearty Irish Cabbage Stew",
+  "description": "A dense, fermented cabbage stew simmered with pork, apple cider vinegar, and a touch of thyme—a lazy Sunday classic that’s both comforting and nut‑free friendly.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "cubed"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 lb",
+      "notes": "drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add pork cubes and sear until browned on all sides, about 5‑7 minutes. Transfer to a plate and set aside.",
+    "Sauté onion, carrots, celery, and garlic in the same pot until vegetables soften, 6‑8 minutes.",
+    "Return pork to the pot. Stir in sauerkraut, beef broth, apple cider vinegar, thyme, paprika, salt, and pepper.",
+    "Bring to a gentle simmer, then reduce heat to low, cover, and braise for 1½‑2 hours, stirring occasionally, until pork is tender and flavors meld.",
+    "Taste and adjust seasoning if needed. Serve hot with crusty bread or boiled potatoes."
+  ],
+  "slug": "hearty-irish-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:51:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cabbage",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}
