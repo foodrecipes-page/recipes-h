@@ -1,0 +1,108 @@
+{
+  "title": "Herbal Chewy Kenyan Raspberry Dumplings",
+  "description": "A sweet, kid‑friendly Kenyan-inspired dumpling packed with fresh raspberries and aromatic herbs, served warm with a drizzle of honey for extra chewiness.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All‑purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp (5 g)",
+      "notes": "for lift"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp (1 g)",
+      "notes": "to taste"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "50 g"
+    },
+    {
+      "name": "Whole milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "200 g"
+    },
+    {
+      "name": "Honey",
+      "amount": "30 g"
+    },
+    {
+      "name": "Fresh mint, finely chopped",
+      "amount": "1 tbsp (7 g)"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1/2 tsp (2 g)"
+    },
+    {
+      "name": "Lemon zest, finely grated",
+      "amount": "1 tsp (2 g)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl whisk together flour, baking powder and salt.",
+    "In a separate bowl beat the egg and milk, then stir in the melted butter.",
+    "Pour the wet mixture into the dry ingredients and stir until a dough just comes together; let rest 10 minutes.",
+    "Gently fold in raspberries, mint, coriander and lemon zest, handling the dough softly to keep the berries intact.",
+    "Lightly oil a flat surface or a griddle and shape the dough into small, round dumplings (about 2 cm diameter) using a small cookie scoop or spoon.",
+    "Heat a skillet over medium heat and add a splash of olive oil. Place the dumplings and cook for 3–4 minutes per side until golden brown and the edges are firm.",
+    "Lower the heat to low, drizzle honey over the dumplings and let them sit for 1 minute to absorb the sweet glaze.",
+    "Serve the dumplings warm, optionally garnished with a few extra mint leaves or a light dusting of powdered sugar.",
+    "Enjoy the chewy texture and herbal aroma suitable for both kids and adults."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "gluten-free",
+    "chewy",
+    "herbal",
+    "raspberry",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "herbal-chewy-kenyan-raspberry-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-chewy-kenyan-raspberry-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:40:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "raspberries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Raspberry",
+    "descriptor": "Herbal Chewy",
+    "dishForm": "Dumplings"
+  }
+}
