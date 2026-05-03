@@ -1,0 +1,80 @@
+{
+  "title": "Herbal Crumbly Indian Prunes Crumble",
+  "description": "A vibrant, dairy‑free crumble that blends sweet prunes with warm Indian spices for an energizing dessert.",
+  "cuisine": "Indian (South)",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pitted prunes, chopped",
+      "amount": "200 g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "80 g"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "60 g"
+    },
+    {
+      "name": "Melted coconut oil",
+      "amount": "30 g"
+    },
+    {
+      "name": "Chopped pistachios",
+      "amount": "30 g",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 °C (350 °F).",
+    "In a medium bowl, combine the chopped prunes, coconut milk, brown sugar, cardamom, cinnamon, and ginger; stir until the prunes are evenly coated and let sit for 5 minutes to release their juices.",
+    "In a separate bowl, whisk together the whole wheat flour, rolled oats, and melted coconut oil until a crumbly mixture forms; add the pistachios if using.",
+    "Layer the prune mixture into a 20 × 20 cm baking dish, smoothing the surface with a spatula.",
+    "Evenly sprinkle the crumb mixture over the prunes.",
+    "Bake for 18–20 minutes, or until the top is golden brown and the prunes are bubbling.",
+    "Remove from oven and let cool for 5 minutes before serving.",
+    "Serve warm, optionally drizzled with a splash of coconut milk or a dusting of powdered sugar if desired."
+  ],
+  "slug": "herbal-crumbly-indian-prunes-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crumbly-indian-prunes-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:51:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "prunes",
+    "diet": "dairy-free",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "prunes",
+    "descriptor": "Herbal Crumbly",
+    "dishForm": "Crumble"
+  }
+}
