@@ -1,0 +1,109 @@
+{
+  "title": "Herbal Slovakian Saskatoon Berries Soup",
+  "description": "A fragrant, plant‑based soup that marries juicy saskatoon berries with soothing herbs and a splash of coconut milk, perfect for a monsoon‑swayed Slovakian-inspired dessert.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "500 g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Fresh basil (chopped)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley (chopped)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill (chopped)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a medium saucepan over medium heat.",
+    "Add the vegetable broth, bay leaf, ground ginger, basil, parsley, and dill; bring to a gentle simmer and infuse for 5 minutes.",
+    "In a separate small saucepan, combine 1 cup of the vegetable broth with the lemon zest and gently poach the saskatoon berries for 3–4 minutes until softened.",
+    "Remove the berries and set aside; discard the lemon zest and bay leaf.",
+    "Return the infused broth to the pot and stir in the coconut milk; bring to a low simmer.",
+    "Add the maple syrup, fresh lemon juice, and the poached berries; stir to combine.",
+    "Simmer the soup gently for an additional 10 minutes, allowing the flavors to meld.",
+    "Taste and season with salt and freshly ground pepper as desired.",
+    "Serve the soup hot, optionally garnishing with a few fresh herbs or a swirl of coconut milk.",
+    "Enjoy this fragrant, herbal dessert soup inspired by Slovakian traditions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "slovakian",
+    "saskatoon-berries",
+    "plant-based-friendly",
+    "poached-soup",
+    "dessert-soup",
+    "vegan-soup"
+  ],
+  "nutrition": {
+    "calories": 149,
+    "protein": 3,
+    "carbs": 80,
+    "fat": 9
+  },
+  "slug": "herbal-slovakian-saskatoon-berries-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-slovakian-saskatoon-berries-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:24:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Saskatoon Berries",
+    "descriptor": "Herbal",
+    "dishForm": "Soup"
+  }
+}
