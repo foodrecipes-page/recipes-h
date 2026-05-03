@@ -1,0 +1,100 @@
+{
+  "title": "Herbal Dense American Pork Skillet",
+  "description": "A date-night American dish featuring pork, mustard seeds, and herbs, perfect for a romantic dinner. This recipe combines the richness of pork with the freshness of herbs and the crunch of blanched vegetables.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 head"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt, black pepper, thyme, and rosemary.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the pork for 20-25 minutes, or until it reaches an internal temperature of 145°F (63°C).",
+    "While the pork is cooking, blanch the broccoli and red bell pepper in boiling water for 3-5 minutes, or until tender but still crisp.",
+    "In a small bowl, mix together the mustard seeds and a pinch of salt.",
+    "Remove the pork from the oven and sprinkle the mustard seed mixture evenly over the top.",
+    "Return the skillet to the stovetop over medium heat and add the garlic, cooking for 1 minute, or until fragrant.",
+    "Add the blanched broccoli and red bell pepper to the skillet, stirring to combine with the garlic and pork juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "american",
+    "pork",
+    "skillet",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "herbal-dense-american-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-dense-american-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:32:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "mustard seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork",
+    "descriptor": "herbal dense",
+    "dishForm": "Skillet"
+  }
+}
