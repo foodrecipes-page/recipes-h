@@ -1,0 +1,99 @@
+{
+  "title": "Herbal Juicy Venezuelan Apricot Toast",
+  "description": "A delicious and healthy Venezuelan-inspired dish featuring dried apricots, fresh herbs, and whole grain toast, perfect for a quick breakfast or snack. This dish is kid-friendly and low in calories.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "whole grain bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "low-fat cream cheese",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the toaster or toast the bread until lightly browned.",
+    "In a blender or food processor, blend the soaked and drained dried apricots, honey, lemon juice, and a pinch of salt until smooth.",
+    "In a small bowl, mix the chopped cilantro and mint.",
+    "Spread a slice of toasted bread with a tablespoon of cream cheese.",
+    "Top the cream cheese with a spoonful of the apricot mixture.",
+    " Sprinkle a pinch of the herb mixture and a sprinkle of shredded coconut (if using) on top.",
+    "Repeat the layers for the remaining slices of bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 2,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    " venezuelan-cuisine",
+    "healthy-breakfast",
+    "kid-friendly",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "herbal-juicy-venezuelan-apricot-toast",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-juicy-venezuelan-apricot-toast",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:27:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "dried apricots",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "apricots",
+    "descriptor": "herbal juicy",
+    "dishForm": "Toast"
+  }
+}
