@@ -1,0 +1,87 @@
+{
+  "title": "Herbal Argentinian Pak Choi Toast",
+  "description": "A creamy, herb-infused pak choi toast with a touch of argentinian flair, perfect for midnight cravings.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "150g",
+      "notes": "fresh, chopped into thin strips"
+    },
+    {
+      "name": "soft butter",
+      "amount": "10g",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "5g",
+      ": ": ", "
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "5g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "5ml",
+      "notes": "extra-light"
+    }
+  ],
+  "instructions": [
+    "Heat a small pan over medium heat.",
+    "Add pak choi strips and sauté for 2 minutes until tender.",
+    "Stir in melted butter, lemon juice, and olive oil.",
+    "Add chopped parsley and cilantro, mix gently.",
+    "Spread the mixture evenly on toasted bread slices.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "pakchoi",
+    "herbal",
+    "creamy",
+    "midnightcraving",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 14
+  },
+  "slug": "herbal-argentinian-pak-choi-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-argentinian-pak-choi-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:19:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "pak choi",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pak choi",
+    "descriptor": "herbal",
+    "dishForm": "Toast"
+  }
+}
