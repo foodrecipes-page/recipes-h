@@ -1,0 +1,114 @@
+{
+  "title": "Hangover Cure Kenyan Matooke Stew",
+  "description": "A hearty, bitter, creamy stew featuring matooke, cranberry juice, and a hint of pickle to cure your hangover woes. Served with a side of warm chapati.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Matooke (steamed green banana)",
+      "amount": "2 large",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "Pickle relish",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cranberry juice",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": " Kenyan-style or Madras"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "any neutral oil"
+    },
+    {
+      "name": "Chapati dough",
+      "amount": "4-6 chapatis",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add matooke, pickle relish, cranberry juice, curry powder, turmeric, salt, and pepper. Stir well.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 15-20 minutes, or until matooke is tender.",
+    "Meanwhile, prepare chapati dough according to package instructions.",
+    "Cook chapatis in a dry skillet over medium heat, about 2-3 minutes per side, until golden brown.",
+    "To serve, place a portion of matooke stew on a plate and serve with a few chapatis on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "kenyan",
+    "matooke",
+    "pickle",
+    "cranberry",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4.2,
+    "carbs": 60.5,
+    "fat": 20.5
+  },
+  "slug": "hangover-cure-kenyan-matooke-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-kenyan-matooke-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:25:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "cranberry juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "matooke",
+    "descriptor": "bitter creamy",
+    "dishForm": "Stew"
+  }
+}
