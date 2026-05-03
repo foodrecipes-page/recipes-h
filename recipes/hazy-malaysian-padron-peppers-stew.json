@@ -1,0 +1,105 @@
+{
+  "title": "Hazy Malaysian Padron Peppers Stew",
+  "description": "A smoky, dense one-pot stew featuring padron peppers and a bhuna-inspired flavor profile, low in calories and perfect for a hearty lunch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "200g",
+      "notes": "freshly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent.",
+    "Stir in the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Pour in the tomato puree and stir to combine.",
+    "Add the smoked paprika and soy sauce, mixing well.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Add the padron peppers and tamarind paste, covering the peppers with liquid.",
+    "Let the stew cook for 20 minutes, stirring occasionally, until the peppers are tender and the sauce has thickened.",
+    "Season with salt to taste and serve hot.",
+    "Optional: Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "low-calorie",
+    "malaysian",
+    "one-pot",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 16,
+    "carbs": 72,
+    "fat": 12
+  },
+  "slug": "hazy-malaysian-padron-peppers-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-malaysian-padron-peppers-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:38:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "padron peppers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Padron peppers",
+    "descriptor": "Hazy",
+    "dishForm": "Stew"
+  }
+}
