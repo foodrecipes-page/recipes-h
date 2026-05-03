@@ -1,0 +1,108 @@
+{
+  "title": "Herbal Irish Prawns Curry",
+  "description": "A light, herbal one‑pot Irish curry that pairs raw frozen prawns with tandoor‑seared aromatics, halal‑friendly ingredients, and a splash of coconut milk.",
+  "cuisine": "Irish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen raw prawns, peeled",
+      "amount": "400g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Light coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor (or grill pan) to 250 °C; rinse and pat dry the frozen prawns.",
+    "Heat 1 tbsp olive oil in a heavy‑bottomed pot over medium heat; add the diced onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cooking for an additional minute until fragrant.",
+    "Stir in the tomato paste, curry powder, salt, pepper, and chili flakes; cook for 2 minutes to develop the flavors.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer, allowing it to thicken slightly, about 3 minutes.",
+    "Add the tandoor‑seared prawns to the pot and cook for 4–5 minutes, or until the prawns turn pink and opaque.",
+    "Finish the curry with a splash of lemon juice, a handful of fresh cilantro, and a sprinkle of mint; adjust seasoning if needed.",
+    "Serve hot, optionally over steamed rice or with a side of crusty Irish soda bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "irish",
+    "seafood",
+    "halal-friendly",
+    "tandoor",
+    "one-pot",
+    "coconut",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "herbal-irish-prawns-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-irish-prawns-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:09:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "prawns",
+    "descriptor": "Herbal",
+    "dishForm": "Curry"
+  }
+}
