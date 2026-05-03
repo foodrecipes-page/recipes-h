@@ -1,0 +1,106 @@
+{
+  "title": "Herbal Velvety Brazilian Chicken Dumplings",
+  "description": "A Whole30-friendly Brazilian dish featuring herbal flavors and velvety texture, perfect for satisfying midnight cravings. Made with sesame seed oil and wholesome ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chicken, sesame seed oil, parsley, cilantro, garlic, and ginger. Mix well.",
+    "In a separate bowl, whisk together coconut flour, egg, salt, and black pepper.",
+    "Add the dry ingredients to the chicken mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat a large skillet with 1 tablespoon of sesame seed oil over medium heat.",
+    "Add 4-5 dumplings to the skillet and cook for 3-4 minutes on each side, until golden brown.",
+    "Repeat with the remaining dumplings.",
+    "Serve hot and enjoy!",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "whole30",
+    "gluten-free",
+    "dumplings",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "herbal-velvety-brazilian-chicken-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-velvety-brazilian-chicken-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:41:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "herbal velvety",
+    "dishForm": "Dumplings"
+  }
+}
