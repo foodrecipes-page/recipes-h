@@ -1,0 +1,91 @@
+{
+  "title": "Heavy Rich Brazilian Coconut Pudding",
+  "description": "A rich and creamy dessert featuring coconut milk, this Brazilian pudding is a show-off dish that is sure to impress, and is made with ingredients that are ayurvedic-rajasic-friendly and emulsified to create a glassy-jelly texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the coconut milk, sugar, and salt, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and add the softened gelatin, stirring until it is fully dissolved.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract.",
+    "Gradually add the melted butter to the egg yolks, whisking constantly.",
+    "Temper the egg yolks by slowly pouring the warm coconut milk mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to medium heat and cook the mixture, stirring constantly, until it thickens and coats the back of a spoon.",
+    "Remove the saucepan from the heat and strain the pudding into a clean bowl.",
+    "Let the pudding cool to room temperature, then cover and refrigerate until chilled and set.",
+    "Serve the pudding chilled, garnished with toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "coconut-based",
+    "creamy-desserts",
+    "gluten-free",
+    "rich-and-decadent",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "heavy-rich-brazilian-coconut-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavy-rich-brazilian-coconut-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:00:16Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "emulsify",
+    "primaryIngredient": "coconut milk",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "coconut",
+    "descriptor": "heavy rich",
+    "dishForm": "Pudding"
+  }
+}
