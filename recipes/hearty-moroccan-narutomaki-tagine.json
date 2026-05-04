@@ -1,0 +1,120 @@
+{
+  "title": "Hearty Moroccan Narutomaki Tagine",
+  "description": "A funkily chunky tagine that blends Moroccan spices with delicate narutomaki fish cakes, sweet potatoes, and chickpeas, delivering a monsoon-seasoned, diabetic-friendly punch of flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Narutomaki fish cakes",
+      "amount": "200g",
+      "notes": "sliced into 2.5cm sticks"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "400g",
+      "notes": "peeled and diced into 2cm cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "200g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spice blend",
+      "amount": "3 tsp",
+      "notes": "1 tsp cumin, 1 tsp coriander, 1 tsp paprika, 1 tsp oregano, 0.5 tsp cinnamon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat until shimmering.",
+    "Add diced onion and red bell pepper, sauté for 4-5 minutes until softened.",
+    "Stir in sweet potato cubes and cook for 3 minutes.",
+    "Sprinkle the spice blend over the vegetables, stir to coat evenly.",
+    "Pour in vegetable broth, bring to a gentle simmer, then add drained chickpeas and sliced narutomaki sticks.",
+    "Cover, reduce heat to low, and simmer for 20 minutes until sweet potatoes are tender and flavors meld.",
+    "Stir in lemon zest, season with salt and pepper, and remove from heat.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "low-carb",
+    "low-sugar",
+    "moroccan",
+    "narutomaki",
+    "one-pot",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 214,
+    "protein": 15,
+    "carbs": 39,
+    "fat": 5
+  },
+  "slug": "hearty-moroccan-narutomaki-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-moroccan-narutomaki-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:23:20Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "narutomaki",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Narutomaki",
+    "descriptor": "Hearty",
+    "dishForm": "Tagine"
+  }
+}

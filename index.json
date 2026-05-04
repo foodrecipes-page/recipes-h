@@ -1545,6 +1545,23 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-moroccan-narutomaki-tagine",
+    "title": "Hearty Moroccan Narutomaki Tagine",
+    "tags": [
+      "diabetic-friendly",
+      "low-carb",
+      "low-sugar",
+      "moroccan",
+      "narutomaki",
+      "one-pot",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-moroccan-peanuts-tagine",
     "title": "Hearty Moroccan Peanuts Tagine",
     "tags": [
