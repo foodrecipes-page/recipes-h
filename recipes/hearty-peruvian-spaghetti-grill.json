@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Peruvian Spaghetti Grill",
+  "description": "A satvic-friendly grilled chicken dish topped with spaghetti, fresh spinach, and savory bonito flakes for a crowd-pleasing lunch.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g",
+      "notes": "whole grain preferred"
+    },
+    {
+      "name": "boneless chicken thighs",
+      "amount": "2",
+      "notes": "skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken thighs with olive oil, cumin, smoked paprika, chili flakes, salt, and pepper for 10 minutes.",
+    "Preheat a grill or grill pan to medium-high heat and cook the chicken for 6-7 minutes per side until the internal temperature reaches 165°F.",
+    "Meanwhile, cook the spaghetti in salted boiling water according to package directions until al dente, then drain and set aside.",
+    "Sauté the spinach in a small pan with a splash of olive oil until wilted, about 2 minutes.",
+    "Divide the cooked spaghetti into bowls, top with the sautéed spinach.",
+    "Slice the grilled chicken and arrange it over the spaghetti.",
+    "Sprinkle bonito flakes over the chicken and drizzle with fresh lime juice.",
+    "Serve immediately with a side of lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "grilled",
+    "one-pot",
+    "peruvian",
+    "sattvic",
+    "spaghetti"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "hearty-peruvian-spaghetti-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-peruvian-spaghetti-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:17:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "spaghetti",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Hearty",
+    "dishForm": "Grill"
+  }
+}

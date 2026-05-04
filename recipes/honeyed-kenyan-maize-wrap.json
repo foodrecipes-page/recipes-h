@@ -1,0 +1,92 @@
+{
+  "title": "Honeyed Kenyan Maize Wrap",
+  "description": "Malty, cheese-pull Kenyan wrap steamed on lotus leaves, egg‑free and romantic.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "egg-free",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "maize flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lotus leaf",
+      "amount": "4 leaves",
+      "notes": "soaked until pliable"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix maize flour, salt, and yeast.",
+    "Add warm water, honey, and rapeseed oil to the dry mix and stir until a sticky dough forms.",
+    "Knead the dough on a lightly floured surface for 3 minutes until smooth.",
+    "Let the dough rise in a warm spot covered with a damp cloth for 25 minutes until doubled.",
+    "Soak lotus leaves in warm water until pliable, then pat dry.",
+    "Divide the dough into 4 equal portions and roll each into a thin circle about 6 inches in diameter.",
+    "Place a spoonful of shredded cheese on each dough circle, then fold the edges over to form a wrap.",
+    "Arrange the wraps on a steamer basket lined with lotus leaves and steam over simmering water for 8 minutes.",
+    "Serve the warm wraps drizzled with a bit of honey and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 43,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free-friendly",
+    "kenyan",
+    "malty",
+    "romantic-dish",
+    "steamed-wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "honeyed-kenyan-maize-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-kenyan-maize-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:16:23Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "maize",
+    "descriptor": "Honeyed",
+    "dishForm": "Wrap"
+  }
+}

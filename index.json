@@ -1337,6 +1337,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-peruvian-spaghetti-grill",
+    "title": "Hearty Peruvian Spaghetti Grill",
+    "tags": [
+      "crowd-pleaser",
+      "grilled",
+      "one-pot",
+      "peruvian",
+      "sattvic",
+      "spaghetti"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-portuguese-chicken-stew",
     "title": "Hearty Portuguese Chicken Stew",
     "tags": [
@@ -3434,6 +3449,20 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-kenyan-maize-wrap",
+    "title": "Honeyed Kenyan Maize Wrap",
+    "tags": [
+      "egg-free-friendly",
+      "kenyan",
+      "malty",
+      "romantic-dish",
+      "steamed-wrap"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 43,
     "shard": "h"
   },
   {
