@@ -1,0 +1,118 @@
+{
+  "title": "Hearty Tunisian Veal Wrap",
+  "description": "A kid-friendly, Buddhist temple-friendly wrap filled with silky sous-vide veal and vibrant Tunisian flavors, served in a crisp agave leaf.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "veal steak",
+      "amount": "400g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "100ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 per wrap"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon wedge",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Season the veal slices with salt, pepper, cumin, coriander, paprika, lemon juice, garlic, and harissa paste.",
+    "Vacuum‑seal the seasoned veal in a sous‑vide bag and cook at 56°C for 120 minutes.",
+    "Remove the veal from the bag, pat dry, and sear quickly in a hot pan for 30 seconds per side for a golden crust.",
+    "Warm the agave leaf over low heat until pliable, then lay it flat on a clean surface.",
+    "Spread a generous amount of seared veal on the center of the leaf, top with diced tomatoes, cucumber, and parsley.",
+    "Fold the sides of the leaf over the filling and roll tightly to form a wrap.",
+    "Slice the wrap in half and serve immediately with a lemon wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "gluten-free",
+    "kid-friendly",
+    "sous-vide",
+    "tunisian",
+    "veal",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 45
+  },
+  "slug": "hearty-tunisian-veal-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tunisian-veal-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:08:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "veal",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "veal",
+    "descriptor": "Hearty",
+    "dishForm": "Wrap"
+  }
+}

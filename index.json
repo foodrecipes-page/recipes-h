@@ -764,6 +764,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-moroccan-chickpeas-tagine",
+    "title": "Hearty Moroccan Chickpeas Tagine",
+    "tags": [
+      "brunch-ideas",
+      "chickpea-recipes",
+      "macrobiotic-friendly",
+      "moroccan-cuisine",
+      "vegetarian-meals"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-moroccan-peanuts-tagine",
     "title": "Hearty Moroccan Peanuts Tagine",
     "tags": [
@@ -1063,6 +1077,22 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-tunisian-veal-wrap",
+    "title": "Hearty Tunisian Veal Wrap",
+    "tags": [
+      "agave-leaf",
+      "gluten-free",
+      "kid-friendly",
+      "sous-vide",
+      "tunisian",
+      "veal",
+      "wrap"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {
