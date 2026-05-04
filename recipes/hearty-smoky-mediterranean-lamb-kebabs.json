@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Smoky Mediterranean Lamb Kebabs",
+  "description": "A sour and shaggy weeknight Mediterranean dish featuring roasted peanuts and ayurvedic-rajasic-friendly ingredients, grilled to perfection on a yakimono grill.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the lamb, red onion, and red bell pepper to the bowl and toss to coat.",
+    "Thread the lamb and vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to 145 degrees Fahrenheit.",
+    "While the kebabs are grilling, sprinkle the roasted peanuts over the top.",
+    "Once the kebabs are cooked, remove them from the grill and let them rest for 5 minutes.",
+    "Serve the kebabs hot, garnished with additional peanuts and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-smoky-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:27:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "roasted peanut",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Kebabs"
+  }
+}

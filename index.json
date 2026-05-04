@@ -1351,6 +1351,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-mediterranean-lamb-kebabs",
+    "title": "Hearty Smoky Mediterranean Lamb Kebabs",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mediterranean-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-moroccan-lentil-harira",
     "title": "Hearty Smoky Moroccan Lentil Harira",
     "tags": [
@@ -1438,6 +1452,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-middle-eastern-bread-fattoush",
+    "title": "Hearty Spicy Middle Eastern Bread Fattoush",
+    "tags": [
+      "brunch",
+      "fattoush",
+      "gluten-free",
+      "middle-eastern",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
