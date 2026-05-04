@@ -5160,6 +5160,20 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoked-chinese-tofu-stew",
+    "title": "Hot Smoked Chinese Tofu Stew",
+    "tags": [
+      "low-carb",
+      "satvik-friendly",
+      "smoked-paprika",
+      "tofu-dish",
+      "winter-stew"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoked-vietnamese-tofu-curry",
     "title": "Hot Smoked Vietnamese Tofu Curry",
     "tags": [

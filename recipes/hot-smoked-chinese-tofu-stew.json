@@ -1,0 +1,111 @@
+{
+  "title": "Hot Smoked Chinese Tofu Stew",
+  "description": "A funky, shattering Chinese stew that blends smoky paprika with silky tofu and crisp vegetables, simmered to perfection in a traditional kazan cauldron. The dish is satvik-friendly and packs a pop of heat.",
+  "cuisine": "Chinese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken tofu",
+      "amount": "400g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "1 liter"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a kazan cauldron over medium heat.",
+    "Add diced onion, minced garlic, and grated ginger, cooking until the onion is translucent.",
+    "Stir in sliced carrots, bell pepper, and stir until the vegetables soften for 4 minutes.",
+    "Pour in the vegetable stock and bring the mixture to a gentle boil.",
+    "Add the cubed tofu, smoked paprika, soy sauce, and salt, then reduce the heat and let simmer for 15 minutes.",
+    "Taste and adjust seasoning if needed, then stir in fresh cilantro.",
+    "Serve the stew hot straight from the kazan cauldron into bowls, garnishing with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "satvik-friendly",
+    "smoked-paprika",
+    "tofu-dish",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 5
+  },
+  "slug": "hot-smoked-chinese-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-chinese-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:04:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Hot Smoked",
+    "dishForm": "Stew"
+  }
+}
