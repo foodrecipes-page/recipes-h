@@ -856,6 +856,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-croatian-uni-bake",
+    "title": "Hearty Croatian Uni Bake",
+    "tags": [
+      "baked",
+      "croatian",
+      "feta",
+      "low-sodium",
+      "seafood",
+      "uni"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crunchy-jamaican-cauliflower-roast",
     "title": "Hearty Crunchy Jamaican Cauliflower Roast",
     "tags": [
