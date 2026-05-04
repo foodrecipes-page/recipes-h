@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Dutch Vegetable Hash",
+  "description": "A lacto-vegetarian friendly dish featuring caramelized vegetables and chimichurri sauce, perfect for a sick day",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "parsnips",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Caramelize the sliced onions in a large skillet over medium heat for 20 minutes, stirring occasionally",
+    "Add the grated carrots, halved brussels sprouts, and diced parsnips to the skillet and cook for 10 minutes, stirring occasionally",
+    "Stir in the chimichurri sauce, vegetable oil, salt, and black pepper, and cook for an additional 2 minutes",
+    "Transfer the vegetable mixture to a serving dish and top with crumbly feta cheese",
+    "Serve the hearty Dutch vegetable hash hot, garnished with chopped fresh parsley if desired",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together",
+    "Reheat the dish in the microwave or oven if it cools down too quickly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 32,
+  "totalTimeMin": 52,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "healthy",
+    "lacto-vegetarian",
+    "one-pan",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-dutch-vegetable-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dutch-vegetable-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:59:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "Hearty",
+    "dishForm": "Hash"
+  }
+}

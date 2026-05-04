@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Irish Water Chestnut Stew",
+  "description": "A pungent and crowd-pleasing Irish dish featuring water chestnut, this stew is perfect for a cold winter's night. It has a cheese-pull and can be cooked in a hot-pot vessel.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 can",
+      "notes": "drained and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "irish cheddar",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "yakimono sauce",
+      "amount": "1/4 cup",
+      "notes": "for grill"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "Grill the sliced water chestnuts for 2-3 minutes per side, until slightly charred.",
+    "In a large hot-pot vessel, saute the chopped onions and carrots in a little bit of oil until tender.",
+    "Add the chopped potatoes, vegetable broth, and shredded irish cheddar to the vessel.",
+    "Stir until the cheese is melted and the stew is heated through.",
+    "Add the grilled water chestnuts and chopped parsley to the stew.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-irish-water-chestnut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-water-chestnut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:59:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "water chestnut",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "water chestnut",
+    "descriptor": "hearty pungent",
+    "dishForm": "Stew"
+  }
+}

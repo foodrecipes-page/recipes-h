@@ -677,6 +677,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dutch-vegetable-hash",
+    "title": "Hearty Dutch Vegetable Hash",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "healthy",
+      "lacto-vegetarian",
+      "one-pan",
+      "sick-day"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 52,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dutch-vegetable-stew",
     "title": "Hearty Dutch Vegetable Stew",
     "tags": [
@@ -905,6 +920,21 @@
     ],
     "cuisine": "irish",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-water-chestnut-stew",
+    "title": "Hearty Irish Water Chestnut Stew",
+    "tags": [
+      "comfort-food",
+      "crowd-pleaser",
+      "hearty-stew",
+      "irish-cuisine",
+      "one-pot",
+      "winter-nights"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
