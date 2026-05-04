@@ -1,5 +1,20 @@
 [
   {
+    "slug": "habanero-mexican-cashews-tacos",
+    "title": "Habanero Mexican Cashews Tacos",
+    "tags": [
+      "cashew",
+      "dairy-free",
+      "date-night",
+      "mexican",
+      "spicy",
+      "taco"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "halal-bok-choi-glazed-delight",
     "title": "Halal Bok Choi Glazed Delight",
     "tags": [

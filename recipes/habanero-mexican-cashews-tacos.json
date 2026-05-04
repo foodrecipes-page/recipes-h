@@ -1,0 +1,99 @@
+{
+  "title": "Habanero Mexican Cashews Tacos",
+  "description": "Salty, spicy cashew tacos with a dairy‑free cheese pull, perfect for a date night.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "200g",
+      "notes": "roasted"
+    },
+    {
+      "name": "habanero peppers",
+      "amount": "2",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8"
+    },
+    {
+      "name": "vegan cheddar cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and spread cashews on a baking sheet.",
+    "Roast cashews for 10 minutes or until golden and fragrant, stirring halfway.",
+    "While cashews roast, mix habanero slices, lime juice, olive oil, salt, and half the cilantro in a bowl.",
+    "Once cashews are done, let them cool slightly before adding to the habanero mixture; stir until cashews are evenly coated.",
+    "Warm corn tortillas in a dry skillet over medium heat for about 30 seconds on each side.",
+    "Spoon the spicy cashew mixture onto each tortilla, leaving room for topping.",
+    "Sprinkle shredded vegan cheese over the cashew layer so it melts slightly.",
+    "Finish by garnishing with remaining cilantro and a squeeze of lime; serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cashew",
+    "dairy-free",
+    "date-night",
+    "mexican",
+    "spicy",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "habanero-mexican-cashews-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/habanero-mexican-cashews-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:41:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "cashews",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cashews",
+    "descriptor": "Habanero",
+    "dishForm": "Tacos"
+  }
+}
