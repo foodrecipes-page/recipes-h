@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Yeasty Indian Natto Paratha",
+  "description": "A yeasty, crumbly, and indulgent Indian dish featuring natto, this paratha is a perfect blend of flavors and textures, and can be made gluten-free friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented soybeans"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water in a bowl, and let it sit for 5 minutes to activate the yeast.",
+    "Add gluten-free flour, salt, and ghee to the bowl, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Divide the dough into 4 equal parts, and roll out each part into a thin circle.",
+    "Place a tablespoon of natto in the center of each circle, and add some chopped coriander leaves and green chili on top.",
+    "Fold the dough over the filling to form a paratha, and press the edges together to seal.",
+    "Heat a non-stick pan over medium heat, and cook the paratha for 2 minutes on each side, until it is golden brown.",
+    "Serve the paratha hot in a hot-pot vessel, with a squeeze of lemon juice on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-food",
+    "one-pan",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-yeasty-indian-natto-paratha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-yeasty-indian-natto-paratha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:27:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "emulsify",
+    "primaryIngredient": "natto",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "natto",
+    "descriptor": "hearty yeasty",
+    "dishForm": "Paratha"
+  }
+}
