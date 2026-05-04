@@ -1,0 +1,95 @@
+{
+  "title": "Herbaceous Welsh Tomato Scones",
+  "description": "A light, grassy Welsh scone studded with smoky tomato sauce and fresh herbs, served with clotted cream for a lazy Sunday brunch.",
+  "cuisine": "Welsh",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "30g",
+      "notes": "cold, cubed"
+    },
+    {
+      "name": "Milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "80g",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Fresh herbs (parsley, chives)",
+      "amount": "12g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "40g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking sheet with parchment.",
+    "Whisk flour, baking powder, salt, smoked paprika, and herbs in a bowl.",
+    "Cut in cold butter until mixture resembles coarse crumbs.",
+    "Stir in milk until dough just comes together, then shape into a round disc.",
+    "Cut disc into eight wedges and place on sheet.",
+    "Spoon a small dollop of tomato sauce onto each wedge and brush with a little milk.",
+    "Bake for 12-14 minutes until golden and risen.",
+    "Let cool 5 minutes then serve warm with a drizzle of clotted cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "clotted-cream",
+    "herb-scones",
+    "lazy-sunday",
+    "smoky",
+    "tomato-sauce",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "herbaceous-welsh-tomato-scones",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-welsh-tomato-scones",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:33:11Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "tomato sauce",
+    "diet": "mediterranean",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "tomato",
+    "descriptor": "Herbaceous",
+    "dishForm": "Scones"
+  }
+}
