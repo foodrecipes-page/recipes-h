@@ -1813,6 +1813,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-kenyan-cornmeal-casserole",
+    "title": "Hearty Kenyan Cornmeal Casserole",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "low-calorie",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-korean-rice-fried-rice",
     "title": "Hearty Korean Rice Fried Rice",
     "tags": [
