@@ -421,6 +421,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-argentinian-beef-tagine",
+    "title": "Hearty Argentinian Beef Tagine",
+    "tags": [
+      "argentinian",
+      "comfort-food",
+      "high-protein",
+      "low-fat",
+      "one-pot",
+      "oven-cooked",
+      "tagine"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 85,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-bitter-malaysian-fennel-curry",
     "title": "Hearty Bitter Malaysian Fennel Curry",
     "tags": [

@@ -1,0 +1,120 @@
+{
+  "title": "Hearty Argentinian Beef Tagine",
+  "description": "A low‑fat, creamy tagine featuring tender beef, cream cheese, and aromatic spices, slow‑cooked in a traditional clay vessel.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean beef chuck",
+      "amount": "400g",
+      "notes": "cut into 1.5cm cubes"
+    },
+    {
+      "name": "low‑fat cream cheese",
+      "amount": "200g",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Heat olive oil in a skillet over medium‑high heat and sear beef cubes until browned on all sides, about 5 minutes.",
+    "Transfer the browned beef to the tajine clay vessel.",
+    "Add the diced onion, minced garlic, cumin, paprika, chili powder, salt, and pepper; stir for 2 minutes until fragrant.",
+    "Pour in the beef broth and bring to a gentle simmer.",
+    "Cover the tajine and bake in the preheated oven for 1 hour, turning the beef halfway through cooking.",
+    "Remove from oven, stir in the low‑fat cream cheese and lemon juice until the cheese melts and the mixture thickens.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Sprinkle chopped parsley over the top for color and freshness.",
+    "Serve hot with crusty bread or quinoa if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "high-protein",
+    "low-fat",
+    "one-pot",
+    "oven-cooked",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 194,
+    "protein": 30,
+    "carbs": 3,
+    "fat": 14
+  },
+  "slug": "hearty-argentinian-beef-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-argentinian-beef-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:14:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "cream cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty",
+    "dishForm": "Tagine"
+  }
+}
