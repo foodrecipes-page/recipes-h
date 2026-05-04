@@ -1,0 +1,111 @@
+{
+  "title": "Hot Smoky Spanish Kombu Pisto Manchego",
+  "description": "A spicy and savory Spanish dish featuring kombu and bonito flakes, perfect for a date night, this low glycemic friendly recipe is a twist on the traditional pisto manchego.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved and dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned and crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the smoked paprika and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chopped zucchini and cook until tender, about 5 minutes.",
+    "Add the crushed tomatoes, salt, and black pepper, and stir to combine.",
+    "Add the kombu pieces and bonito flakes, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, stirring occasionally.",
+    "Remove the wok from the heat and let it cool slightly.",
+    "Serve the pisto manchego hot, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-glycemic",
+    "one-pan",
+    "smoky",
+    "spanish-cuisine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hot-smoky-spanish-kombu-pisto-manchego",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoky-spanish-kombu-pisto-manchego",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:14:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "bonito-shave",
+    "primaryIngredient": "kombu",
+    "diet": "low-glycemic",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "kombu",
+    "descriptor": "Hot Smoky",
+    "dishForm": "Pisto Manchego"
+  }
+}
