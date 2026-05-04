@@ -247,6 +247,21 @@
     "shard": "h"
   },
   {
+    "slug": "harmonious-middle-eastern-egg-yolks-baba-ganoush",
+    "title": "Harmonious Middle Eastern Egg Yolks Baba Ganoush",
+    "tags": [
+      "floral",
+      "gluten-free",
+      "indulgent",
+      "middle-eastern",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "harsh-spanish-turkey-tagine",
     "title": "Harsh Spanish Turkey Tagine",
     "tags": [
@@ -318,6 +333,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "healing-ethiopian-oxtail-flatbread",
+    "title": "Healing Ethiopian Oxtail Flatbread",
+    "tags": [
+      "healing",
+      "injera",
+      "low-carb",
+      "one-pot",
+      "tandoor",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 105,
     "shard": "h"
   },
   {

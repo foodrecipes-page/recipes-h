@@ -1,0 +1,113 @@
+{
+  "title": "Healing Ethiopian Oxtail Flatbread",
+  "description": "A winey, crumbly low‑carb injera‑style flatbread filled with slow‑cooked oxtail, perfect for a sick day comfort meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1500 g",
+      "notes": "cut into 3–4 piece segments"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Sear oxtail pieces in olive oil until browned on all sides.",
+    "Transfer oxtail to a clay pot and add diced onion, minced garlic, and ginger.",
+    "Pour in red wine, tomato paste, berbere, beef broth, and honey; stir to combine.",
+    "Cover pot and simmer on low heat for 90 minutes until oxtail is tender and sauce has thickened.",
+    "Whisk almond flour, egg, and a pinch of salt together to form a crumbly batter.",
+    "Ladle the batter into the clay pot over the oxtail stew, spreading it evenly to cover the surface.",
+    "Place the pot in a preheated oven at 200°C and bake for 20 minutes until the batter forms a golden crust.",
+    "Remove from oven, let sit 5 minutes, then slice into wedges to serve.",
+    "Garnish with fresh lemon juice and chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healing",
+    "injera",
+    "low-carb",
+    "one-pot",
+    "tandoor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 45
+  },
+  "slug": "healing-ethiopian-oxtail-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-ethiopian-oxtail-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:12:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "oxtail",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Oxtail",
+    "descriptor": "Healing",
+    "dishForm": "Flatbread"
+  }
+}
