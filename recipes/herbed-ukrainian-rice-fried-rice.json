@@ -1,0 +1,105 @@
+{
+  "title": "Herbed Ukrainian Rice Fried-Rice",
+  "description": "A peppery, herbed fried rice that recalls Ukrainian kitchen memories, brightened by a subtle sweetness from rice syrup and a tang from jocheong.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked long grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "½ cup, thawed"
+    },
+    {
+      "name": "scallion green parts",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh herbs (dill and parsley)",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "soy sauce (jocheong)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "honey or rice syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and melt the butter until foamy.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Stir in the minced garlic, diced carrot, and frozen peas, cooking for another 2 minutes.",
+    "Add the scallion greens, smoked paprika, and fresh herbs, sautéing for 1 minute until fragrant.",
+    "Pour in the cooked rice, breaking up clumps with a spatula, and stir to combine with the vegetables.",
+    "Drizzle the soy sauce and honey or rice syrup over the rice, tossing to coat evenly.",
+    "Season with salt and pepper to taste, adjusting as needed for flavor.",
+    "Continue to cook, stirring occasionally, until the rice is hot and slightly crispy on the bottom, about 5 minutes.",
+    "Remove from heat and let rest for 1 minute before serving.",
+    "Garnish with extra fresh herbs if desired and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbed",
+    "light-dish",
+    "nostalgic",
+    "peppery",
+    "rice-fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "herbed-ukrainian-rice-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-ukrainian-rice-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:32:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Rice",
+    "descriptor": "Herbed",
+    "dishForm": "Fried-Rice"
+  }
+}
