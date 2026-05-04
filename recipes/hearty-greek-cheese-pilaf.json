@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Greek Cheese Pilaf",
+  "description": "A savory and pillowy Greek dish featuring a sweet and tangy glaze, perfect for a quick-fix meal, and sugar-free-friendly with the use of natural sweeteners and blue food colouring for a unique twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek pilaf rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "blue food colouring",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey free sweetener",
+      "amount": "1 tablespoon",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the uncooked pilaf rice and stir to coat the rice with oil and heat for 2 minutes.",
+    "Add the chicken broth, lemon juice, honey free sweetener, and blue food colouring if using, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes or until the liquid is absorbed and the rice is cooked.",
+    "Fluff the cooked rice with a fork and stir in the crumbly feta cheese, pitted kalamata olives, canned artichoke hearts, and dried sun dried tomatoes.",
+    "Transfer the pilaf to a serving dish and let it cool for a few minutes before serving.",
+    "To make the glaze, mix the lemon juice and honey free sweetener in a small bowl until well combined.",
+    "Drizzle the glaze over the pilaf and serve immediately.",
+    "Garnish with additional olives, artichoke hearts, and sun dried tomatoes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "quick-fix",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hearty-greek-cheese-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-greek-cheese-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:31:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "blue food colouring",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "Hearty",
+    "dishForm": "Pilaf"
+  }
+}

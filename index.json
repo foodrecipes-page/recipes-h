@@ -1332,6 +1332,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-greek-cheese-pilaf",
+    "title": "Hearty Greek Cheese Pilaf",
+    "tags": [
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "quick-fix",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-greek-mozzarella-fritters",
     "title": "Hearty Greek Mozzarella Fritters",
     "tags": [
