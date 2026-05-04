@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Harmonious Chinese Poppy Seeds Char Siu Bao",
+  "description": "A tangy and aerated Chinese dish featuring ground poppy seeds, this vegetarian-friendly Char Siu Bao is a comforting treat from the Yunnan region.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the dough"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground poppy seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, sugar, and salt.",
+    "Gradually add in the vegetable oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour.",
+    "In a separate bowl, mix together the ground poppy seeds, chopped scallions, and soy sauce.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the poppy seed mixture in the center.",
+    "Fold the dough over the filling and seal the edges.",
+    "Steam the buns over boiling water for 15 minutes.",
+    "Serve the buns warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "poppy-seeds",
+    "steamed-buns",
+    "vegetarian-friendly",
+    "yunnan-region"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "hearty-harmonious-chinese-poppy-seeds-char-siu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-harmonious-chinese-poppy-seeds-char-siu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:15:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "vegetarian",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Hearty Harmonious",
+    "dishForm": "Char Siu Bao"
+  }
+}
