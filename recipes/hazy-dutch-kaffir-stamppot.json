@@ -1,0 +1,61 @@
+{
+  "title": "Hazy Dutch Kaffir Stamppot",
+  "description": "A bitter and fluffy Dutch dish featuring kaffir-lime-leaf, perfect for festive occasions and gluten-free diets.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Yukon Gold Potatoes",
+      "amount": "2",
+      "notes": "about 500g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200\u000515C (400\u000515F) and toast the kaffir lime leaves in a dry pan over medium heat for 5 minutes, or until wilted.",
+    "Mash the potatoes in a bowl until they are fluffy, then mix in the toasted kaffir lime leaves, a pinch of salt, and a few grinds of black pepper.",
+    "Transfer the potato mixture to a tandoor or a preheated oven-safe dish and cook at 200\u000515C (400\u000515F) for 20-25 minutes, or until golden brown on top.",
+    "Serve hot, garnished with additional kaffir lime leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "gluten-free",
+    "hazey",
+    "kaffir-lime-leaf",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "hazy-dutch-kaffir-stamppot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-dutch-kaffir-stamppot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Kaffir",
+    "descriptor": "Hazy",
+    "dishForm": "Stamppot"
+  }
+}
