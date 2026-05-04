@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Sweet Polish Chicken Skillet",
+  "description": "A sweet and savory Polish dish featuring chicken, vegetables, and a hint of sweetness, all cooked in a cast-iron skillet. This recipe is kid-friendly and FODMAP-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the chopped bell pepper and carrots to the skillet and cook until the vegetables are tender.",
+    "Add the prunes, chicken broth, tomato paste, salt, and pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and simmer until the sauce has thickened.",
+    "Serve the chicken and sauce hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "gluten-free",
+    "kid-friendly",
+    "low-fodmap",
+    "one-pan",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-sweet-polish-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sweet-polish-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:38:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty sweet",
+    "dishForm": "Skillet"
+  }
+}
