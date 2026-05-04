@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Slovakian Pork Dumplings",
+  "description": "A traditional Slovakian dish featuring charred and fluffy dumplings with a rich red pepper paste sauce, perfect for a comforting dinner. This recipe is low in sodium and can be adjusted to suit various tastes.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground pork, red pepper paste, flour, eggs, onion, garlic, paprika, and black pepper, and mix until just combined.",
+    "Do not overmix the dumpling mixture.",
+    "Using your hands, shape the mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Bake the dumplings in the preheated oven for 20 minutes, or until they are cooked through and lightly browned on the bottom.",
+    "While the dumplings are baking, heat a large skillet over medium-high heat and add a small amount of oil to the pan.",
+    "Once the oil is hot, add the baked dumplings to the skillet and cook for an additional 2-3 minutes on each side, or until they are nicely browned.",
+    "Serve the dumplings hot with your favorite sides, such as mashed potatoes or steamed vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "european",
+    "hearty",
+    "low-sodium",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:28:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "red pepper paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty",
+    "dishForm": "Dumplings"
+  }
+}
