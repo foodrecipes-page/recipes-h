@@ -2851,6 +2851,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-sour-argentinian-beef-empanadas",
+    "title": "Hearty Sour Argentinian Beef Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-empanadas",
+      "corn-husk-wrap",
+      "hearty-dinner",
+      "latin-american",
+      "nut-free",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-south-chickpea-flour-dhal",
     "title": "Hearty South Chickpea Flour Dhal",
     "tags": [

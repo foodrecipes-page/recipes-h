@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Sour Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish featuring sour and aerated beef empanadas, perfect for a weeknight dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground beef, white vinegar, chopped onion, minced garlic, salt, and black pepper, mixing well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the flavors to meld.",
+    "Soak the corn husks in water for at least 30 minutes to make them pliable.",
+    "To assemble the empanadas, lay a corn husk flat on a work surface and place about 1/4 cup of the beef mixture in the center of the husk.",
+    "Fold the sides of the husk over the filling and then roll the empanada up, starting from the wide end.",
+    "Repeat with the remaining corn husks and beef mixture.",
+    "In a large skillet, heat about 1/2 inch of beef broth over medium heat and add the empanadas, seam-side down.",
+    "Cook the empanadas for about 5 minutes on each side, or until they are lightly browned and the filling is cooked through.",
+    "Serve the empanadas hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-empanadas",
+    "corn-husk-wrap",
+    "hearty-dinner",
+    "latin-american",
+    "nut-free",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "hearty-sour-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sour-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:26:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "rest",
+    "primaryIngredient": "white vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "hearty sour",
+    "dishForm": "Empanadas"
+  }
+}
