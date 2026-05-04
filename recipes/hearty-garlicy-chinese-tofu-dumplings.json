@@ -1,0 +1,114 @@
+{
+  "title": "Hearty Garlicy Chinese Tofu Dumplings",
+  "description": "Chewy, garlicky dumplings inspired by Yunnan cuisine, served steaming from a donabe with sesame oil and wok-hei for a festive ovo-vegetarian experience.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Wok-hei",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "Water chestnut",
+      "amount": "50 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Napa cabbage",
+      "amount": "100 g",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 stalks",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "24 pieces"
+    }
+  ],
+  "instructions": [
+    "Press tofu with a clean towel to remove excess moisture then crumble it into a bowl.",
+    "Add minced garlic, grated ginger, diced water chestnut, shredded cabbage, minced green onions, wok-hei, soy sauce, Shaoxing wine, salt, and cornstarch to the tofu and mix until evenly coated.",
+    "Place a spoonful of filling onto each dumpling wrapper, leaving a small gap between pieces.",
+    "Moisten the edges of the wrapper with a little water and fold over to seal, pressing the edges to ensure no air pockets.",
+    "Heat a donabe over medium heat and add a splash of sesame oil to coat the bottom.",
+    "Spread the dumplings in a single layer, leaving space between them, and cook for 2 minutes until the bottoms are golden.",
+    "Add 1/4 cup water to the pot, cover immediately, and steam the dumplings for 5 minutes.",
+    "Remove the lid and let the water evaporate, then continue cooking for another 2 minutes to crisp the bottoms.",
+    "Transfer dumplings to a serving plate, drizzle with additional sesame oil, and sprinkle chopped green onions on top.",
+    "Serve hot with a side of steamed rice or enjoy solo for a festive dim-sum treat."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "chinese",
+    "lunch"
+  ],
+  "slug": "hearty-garlicy-chinese-tofu-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-garlicy-chinese-tofu-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:49:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "wok-hei",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "ovo-vegetarian",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Hearty Garlicy",
+    "dishForm": "Dumplings"
+  }
+}

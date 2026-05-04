@@ -1158,6 +1158,17 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-garlicy-chinese-tofu-dumplings",
+    "title": "Hearty Garlicy Chinese Tofu Dumplings",
+    "tags": [
+      "chinese",
+      "lunch"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-german-fennel-gratin",
     "title": "Hearty German Fennel Gratin",
     "tags": [
