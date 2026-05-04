@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Japanese Pork Gyoza",
+  "description": "Garlicky, flaky dumplings filled with scallions and pork, perfect for a high‑protein festive meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "Napa cabbage",
+      "amount": "200g",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "Scallions",
+      "amount": "3 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "30 sheets"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "optional, for sealing"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground pork, shredded cabbage, chopped scallions, minced garlic, grated ginger, soy sauce, sesame oil, and water, mixing until fully incorporated.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Meanwhile, bring a pot of water to a rolling boil and blanch the shredded cabbage for 1 minute, then drain and set aside to cool.",
+    "Warm a nonstick skillet over medium heat and lightly oil it, then place a dumpling wrapper and spoon 1 tablespoon of filling into the center, leaving a small space at the edge.",
+    "Fold the wrapper in half, pinching the edges together to seal, and press down firmly with a spatula to create a crisp seal.",
+    "Repeat steps 4 and 5 with the remaining wrappers and filling, stacking the sealed gyoza on a clean surface.",
+    "Spray the skillet with a light mist of water and cover with a lid, allowing the gyoza to steam for 3 minutes until the wrappers are translucent.",
+    "Remove the lid, increase heat to medium-high, and let the gyoza fry for an additional 2 minutes until the bottoms are golden and crispy.",
+    "Transfer the finished gyoza to a plate and drizzle with a squeeze of fresh lemon or a dash of chili oil if desired.",
+    "Serve immediately hot, accompanied by a small bowl of dipping sauce made with soy sauce, rice vinegar, and a hint of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dumpling",
+    "festive",
+    "garlic",
+    "high-protein",
+    "scallion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 96,
+    "carbs": 72,
+    "fat": 24
+  },
+  "slug": "hearty-japanese-pork-gyoza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-japanese-pork-gyoza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:25:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "scallions",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty",
+    "dishForm": "Gyoza"
+  }
+}

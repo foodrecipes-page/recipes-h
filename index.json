@@ -1795,6 +1795,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-japanese-pork-gyoza",
+    "title": "Hearty Japanese Pork Gyoza",
+    "tags": [
+      "dumpling",
+      "festive",
+      "garlic",
+      "high-protein",
+      "scallion",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-japanese-pork-stir-fry",
     "title": "Hearty Japanese Pork Stir fry",
     "tags": [
