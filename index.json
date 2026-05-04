@@ -1065,6 +1065,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-norwegian-cheese-casserole",
+    "title": "Hearty Norwegian Cheese Casserole",
+    "tags": [
+      "cheesy",
+      "fish-based",
+      "healthy-dinner",
+      "hot-stone-plate",
+      "norwegian-cuisine",
+      "whole30-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal",
     "title": "Hearty Peppery Moroccan Cauliflower Couscous Royal",
     "tags": [
@@ -1539,6 +1554,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-venezuelan-green-bean-stew",
+    "title": "Hearty Venezuelan Green Bean Stew",
+    "tags": [
+      "comfort-food",
+      "keto-friendly",
+      "low-carb",
+      "one-pot",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Venezuelan Green Bean Stew",
+  "description": "A comforting and bitter Venezuelan dish featuring green beans, this stew is perfect for a cold evening. It is also keto-friendly and brine-dry.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kazan-cauldron over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the green beans, tomato paste, beef broth, salt, and black pepper to the kazan-cauldron.",
+    "Stir everything together, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes, or until the green beans are tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "keto-friendly",
+    "low-carb",
+    "one-pot",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-venezuelan-green-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-venezuelan-green-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:02:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "green beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "green beans",
+    "descriptor": "hearty brine dry",
+    "dishForm": "Stew"
+  }
+}

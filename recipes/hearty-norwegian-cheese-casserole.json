@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Norwegian Cheese Casserole",
+  "description": "A briny and snappy Norwegian dish featuring cheese, cooked to perfection on a hot stone plate, perfect for a light and satisfying meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "salmon fillets",
+      "amount": "4 fillets",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the crumbly goat cheese, sliced fennel, and chopped parsley.",
+    "Season the salmon fillets with salt, black pepper, and a squeeze of lemon juice.",
+    "Brush the hot stone plate with olive oil and place the salmon fillets on it.",
+    "Spoon the cheese and fennel mixture over the salmon fillets.",
+    "Cook for 12 minutes or until the cheese is melted and the salmon is cooked through.",
+    "Serve immediately and garnish with additional parsley if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fish-based",
+    "healthy-dinner",
+    "hot-stone-plate",
+    "norwegian-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-norwegian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-norwegian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:02:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cheese",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "hearty baked",
+    "dishForm": "Casserole"
+  }
+}
