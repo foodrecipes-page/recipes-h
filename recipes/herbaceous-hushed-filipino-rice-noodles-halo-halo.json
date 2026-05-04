@@ -1,0 +1,113 @@
+{
+  "title": "Herbaceous Hushed Filipino Rice Noodles Halo-Halo",
+  "description": "A light, roasted noodle salad that captures the spirit of halo-halo with a fresh herbal twist and a hint of Filipino flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch"
+    },
+    {
+      "name": "kosher soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime",
+      "amount": "1 (juiced)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400F and slice sweet potato and bell pepper into 1-inch cubes.",
+    "Toss the cubed sweet potato and bell pepper with 1 tbsp toasted sesame oil, salt, pepper, and roast for 20 minutes until caramelized.",
+    "While the vegetables roast, heat a nonstick pan over medium heat and stir-fry the cubed tofu in 2 tbsp sesame oil until golden, then set aside.",
+    "In a separate pot, bring water to a boil and cook the flat rice noodles according to package instructions until al dente, then drain and rinse with cold water.",
+    "Mince the garlic and ginger, and finely chop the scallions, reserving the green parts for garnish.",
+    "Add the minced garlic and ginger to the pot of noodles, stir-fry for 1 minute to release aroma, then pour in 3 tbsp kosher soy sauce and stir to coat.",
+    "Fold in the roasted sweet potato, bell pepper, and tofu into the noodle mixture and heat through for 2 minutes.",
+    "Finish by adding a squeeze of lime juice and a sprinkle of fresh basil, then season with salt and pepper to taste.",
+    "Divide the noodle salad into bowls and top each with the reserved scallion greens for a fresh crunch.",
+    "Serve immediately as a light, herbaceous Filipino-inspired halo-halo parody."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "herbaceous",
+    "kosher-friendly",
+    "light",
+    "noodle",
+    "roasted",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 60,
+    "carbs": 220,
+    "fat": 48
+  },
+  "slug": "herbaceous-hushed-filipino-rice-noodles-halo-halo",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-hushed-filipino-rice-noodles-halo-halo",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:55:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Herbaceous Hushed",
+    "dishForm": "Halo-Halo"
+  }
+}

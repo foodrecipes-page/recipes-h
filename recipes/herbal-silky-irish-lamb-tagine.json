@@ -1,0 +1,102 @@
+{
+  "title": "Herbal Silky Irish Lamb Tagine",
+  "description": "A Whole30-friendly Irish dish featuring lamb marinated in miso and malai, cooked in a tagine pot with herbal flavors",
+  "cuisine": "Irish",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malai",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "In a large bowl, whisk together miso paste, malai, olive oil, salt, and black pepper",
+    "Add the lamb shoulder to the bowl and coat with the marinade",
+    "Let the lamb marinate for at least 2 hours or overnight",
+    "Heat the tagine pot over medium heat and add the lamb shoulder",
+    "Add the onion, garlic, thyme, and rosemary to the pot",
+    "Cover the pot and transfer it to the preheated oven",
+    "Cook the lamb for 2.5 hours or until it is tender and falls apart easily",
+    "Remove the pot from the oven and let it cool for 10 minutes",
+    "Serve the lamb hot, garnished with fresh herbs"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herbal-flavors",
+    "irish-cuisine",
+    "lamb-recipes",
+    "tagine-cooking",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "herbal-silky-irish-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-silky-irish-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:54:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "malai",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "herbal silky",
+    "dishForm": "Tagine"
+  }
+}
