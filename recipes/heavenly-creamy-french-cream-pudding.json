@@ -1,0 +1,94 @@
+{
+  "title": "Heavenly Creamy French Cream Pudding",
+  "description": "A floral and creamy French dessert featuring granulated sugar and tempering chocolate, diabetic-friendly and comforting.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "granulated sugar",
+      "amount": "1 1/2 cups",
+      "notes": "low glycemic index"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "2 1/2 cups"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried lavender buds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the granulated sugar, unsweetened almond milk, and salt.",
+    "Cook over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the large egg yolks and vanilla extract.",
+    "Temper the egg yolks by slowly pouring the warm milk mixture into the egg yolks, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the dark chocolate chips until melted and smooth.",
+    "Stir in the heavy cream and dried lavender buds.",
+    "Strain the mixture into a clean bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Serve the pudding chilled, garnished with additional dried lavender buds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cream-pudding",
+    "diabetic-friendly",
+    "french-dessert",
+    "low-carb",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "heavenly-creamy-french-cream-pudding",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-creamy-french-cream-pudding",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:12:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "granulated sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cream",
+    "descriptor": "Heavenly creamy",
+    "dishForm": "Pudding"
+  }
+}
