@@ -781,6 +781,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-greek-mozzarella-fritters",
+    "title": "Hearty Greek Mozzarella Fritters",
+    "tags": [
+      "cheese-pull",
+      "deep-fry",
+      "fodmap-friendly",
+      "mediterranean",
+      "snack"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-hangover-thai-chicken-khao-pad",
     "title": "Hearty Hangover Thai Chicken Khao Pad",
     "tags": [
@@ -1377,6 +1391,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-velvety-slovakian-pork-dumplings",
+    "title": "Hearty Velvety Slovakian Pork Dumplings",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "one-pot",
+      "slovakian",
+      "velvety",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 70,
     "shard": "h"
   },
   {

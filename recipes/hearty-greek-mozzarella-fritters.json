@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Greek Mozzarella Fritters",
+  "description": "Salty, cheese‑pull fritters that bring back Mediterranean memories, made with Greek mozzarella, herbs, and a crisp rapeseed oil edge.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek mozzarella",
+      "amount": "200 g",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "All‑purpose flour",
+      "amount": "30 g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "200 ml",
+      "notes": "for deep‑fry"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper, ground",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the rapeseed oil in a deep‑fry pan to 175°C (350°F).",
+    "Whisk the egg with a pinch of salt and pepper in a shallow bowl.",
+    "Add the flour to the egg mixture and stir until a smooth batter forms.",
+    "Fold in the chopped mozzarella, parsley, dill, oregano, and lemon zest until well combined.",
+    "Heat the oil to 175°C and drop spoonfuls of the batter into the pan, frying 2–3 minutes on each side until golden.",
+    "Use a slotted spoon to transfer the fritters to paper towels to drain excess oil.",
+    "Sprinkle a little extra salt or herbs on top while still hot.",
+    "Serve immediately with a squeeze of fresh lemon for a bright finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "deep-fry",
+    "fodmap-friendly",
+    "mediterranean",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 22,
+    "fat": 18
+  },
+  "slug": "hearty-greek-mozzarella-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-greek-mozzarella-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:33:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Mozzarella",
+    "descriptor": "Hearty",
+    "dishForm": "Fritters"
+  }
+}

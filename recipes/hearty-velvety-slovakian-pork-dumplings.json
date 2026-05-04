@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Velvety Slovakian Pork Dumplings",
+  "description": "A traditional Slovakian dish featuring pork dumplings in a rich saffron sauce, perfect for a weeknight dinner. This recipe is egg-free and uses a mother sauce base for added depth of flavor.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, flour, saffron threads, salt, and black pepper, and mix until just combined.",
+    "Heat the vegetable oil in a large skillet over medium heat, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute, until fragrant.",
+    "Add the chicken broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "In a small bowl, proof the yeast by mixing it with 1 tablespoon of warm water, then add it to the pork mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes, until smooth and elastic, then cover it with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces, then roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Add the dumplings to the simmering sauce and cook for 15 minutes, until cooked through.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "slovakian",
+    "velvety",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-velvety-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:32:55Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "saffron",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "hearty velvety",
+    "dishForm": "Dumplings"
+  }
+}
