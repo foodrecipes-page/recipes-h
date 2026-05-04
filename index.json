@@ -453,6 +453,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-australian-lamb-skewers",
+    "title": "Hearty Australian Lamb Skewers",
+    "tags": [
+      "australian",
+      "grilled",
+      "high-protein",
+      "lamb",
+      "low-glycemic",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-bitter-malaysian-fennel-curry",
     "title": "Hearty Bitter Malaysian Fennel Curry",
     "tags": [
