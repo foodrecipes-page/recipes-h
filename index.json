@@ -834,6 +834,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-fish-tagine",
+    "title": "Hearty Irish Fish Tagine",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "lazy-sunday",
+      "one-pot",
+      "pescatarian"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-jamaican-rice-stew",
     "title": "Hearty Jamaican Rice Stew",
     "tags": [

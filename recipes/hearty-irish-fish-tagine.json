@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Irish Fish Tagine",
+  "description": "A flavorful and comforting pescatarian dish featuring melted butter and a variety of spices, perfect for a lazy Sunday afternoon. This recipe is cooked in a tagine vessel, also known as a tagliere.",
+  "cuisine": "irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large tagine vessel, combine the chopped onion, minced garlic, and melted butter.",
+    "Add the chopped carrots and potatoes to the tagine vessel, stirring to combine.",
+    "Place the cod fillets on top of the vegetables, sprinkling with thyme, pepper, and salt.",
+    "Pour the chicken broth over the cod fillets, making sure they are covered.",
+    "Cover the tagine vessel with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the cod is cooked through and the vegetables are tender.",
+    "Remove the tagine vessel from the oven and let it cool for a few minutes before serving.",
+    "Serve the hearty Irish fish tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "lazy-sunday",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-irish-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:32:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "melted butter",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish",
+    "descriptor": "hearty",
+    "dishForm": "Tagine"
+  }
+}
