@@ -1,0 +1,104 @@
+{
+  "title": "Hollowed Kenyan Bread Wrap",
+  "description": "A yeasty, shattering Kenyan festival bread filled with a lacquer‑glazed San Marzano tomato sauce, wrapped in a fresh corn husk.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "400g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "8g"
+    },
+    {
+      "name": "warm milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "san marzano tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "corn husks",
+      "amount": "2",
+      "notes": "large, soaked"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, yeast, sugar, and salt.",
+    "Stir in warm milk and melted butter until a shaggy dough forms.",
+    "Add the egg and mix until dough comes together.",
+    "Knead on a floured surface for about 8 minutes until smooth.",
+    "Place dough in a greased bowl, cover, and let rise until doubled, about 90 minutes.",
+    "Punch down the dough, shape into oval rolls, and bake at 375°F for 20 minutes until golden.",
+    "While the bread cools, whisk tomato puree with olive oil and a pinch of salt to make the glaze.",
+    "Slice cooled rolls horizontally, hollow the center leaving a thin crust.",
+    "Fill each hollow with the tomato glaze, spread evenly, and drizzle additional olive oil for a lacquer sheen.",
+    "Wrap each filled roll in a soaked corn husk, tie loosely with kitchen twine, and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "corn-husk",
+    "festive",
+    "halal",
+    "kenyan",
+    "wrap",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "hollowed-kenyan-bread-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hollowed-kenyan-bread-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:20:45Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "san-marzano-tomato",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "bread",
+    "descriptor": "Hollowed",
+    "dishForm": "Wrap"
+  }
+}

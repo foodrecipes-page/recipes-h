@@ -2253,6 +2253,22 @@
     "shard": "h"
   },
   {
+    "slug": "hollowed-kenyan-bread-wrap",
+    "title": "Hollowed Kenyan Bread Wrap",
+    "tags": [
+      "bread",
+      "corn-husk",
+      "festive",
+      "halal",
+      "kenyan",
+      "wrap",
+      "yeast"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "honey-glazed-saudi-fish-curry",
     "title": "Honey Glazed Saudi Fish Curry",
     "tags": [
