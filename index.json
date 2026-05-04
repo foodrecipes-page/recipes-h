@@ -1948,6 +1948,22 @@
     "shard": "h"
   },
   {
+    "slug": "herbaceous-italian-brown-rice-pasta",
+    "title": "Herbaceous Italian Brown Rice Pasta",
+    "tags": [
+      "banana-leaf",
+      "calabrian",
+      "carbonara",
+      "lazy-sunday",
+      "mediterranean",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Italian Calabrian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "herbaceous-japanese-tofu-stir-fry",
     "title": "Herbaceous Japanese Tofu Stir-fry",
     "tags": [

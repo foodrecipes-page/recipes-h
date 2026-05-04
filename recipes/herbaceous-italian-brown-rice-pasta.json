@@ -1,0 +1,113 @@
+{
+  "title": "Herbaceous Italian Brown Rice Pasta",
+  "description": "A lazy Sunday carbonara style dish with aromatic herbs, crispy bacon, and steamed on a banana leaf for a Mediterranean twist.",
+  "cuisine": "Italian Calabrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "50g, chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "bacon strips",
+      "amount": "50g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g of brown rice pasta under cold water until clear.",
+    "Bring 4 cups of salted water to a boil, add the pasta, and cook for 10 minutes until al dente.",
+    "While pasta cooks, heat 2 tablespoons of olive oil in a skillet over medium heat and add strips of bacon, frying until crisp, then remove and set aside.",
+    "In the same skillet, add minced garlic and sauté for 30 seconds until fragrant.",
+    "Stir in 50g sun‑dried tomatoes, 1 cup chopped basil, 1 tsp dried oregano, salt and pepper, and cook for 2 minutes.",
+    "Drain the pasta and return it to the pot, pouring the skillet mixture over it.",
+    "Whisk 2 beaten eggs with 50g grated parmesan and pour over the pasta, stirring quickly to create a creamy sauce without scrambling the eggs.",
+    "Fold in the fried bacon and 1 cup chopped parsley, then transfer the mixture onto a folded banana leaf.",
+    "Cover with another banana leaf, seal the edges, and steam the wrapped dish for 5 minutes to meld flavors.",
+    "Unwrap, garnish with lemon zest, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana-leaf",
+    "calabrian",
+    "carbonara",
+    "lazy-sunday",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 417,
+    "protein": 17,
+    "carbs": 39,
+    "fat": 19
+  },
+  "slug": "herbaceous-italian-brown-rice-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-italian-brown-rice-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:39:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "brown rice",
+    "diet": "mediterranean",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "brown rice",
+    "descriptor": "Herbaceous",
+    "dishForm": "Pasta"
+  }
+}
