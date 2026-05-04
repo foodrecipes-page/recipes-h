@@ -314,6 +314,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-deep-fried-canadian-steak-burger",
+    "title": "Hearty Deep-Fried Canadian Steak Burger",
+    "tags": [
+      "bananas-leaf",
+      "burger",
+      "canadian",
+      "deep-fried",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-egyptian-couscous-pilaf",
     "title": "Hearty Egyptian Couscous Pilaf",
     "tags": [
@@ -510,6 +526,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-norwegian-kidney-bean-grill",
+    "title": "Hearty Smoky Norwegian Kidney Bean Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "norwegian",
+      "plant-based",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

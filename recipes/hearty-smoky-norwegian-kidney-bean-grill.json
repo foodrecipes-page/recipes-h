@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Smoky Norwegian Kidney Bean Grill",
+  "description": "A charred and aerated nostalgic Norwegian dish featuring kidney beans and bonito-shave, perfect for a plant-based friendly meal",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "bonito-shave",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, smoked paprika, salt, and black pepper",
+    "Add the sliced onion to the bowl and toss to coat with the oil mixture",
+    "Grill the onion slices for 3-4 minutes per side, or until charred and tender",
+    "In a separate bowl, mix together the cooked kidney beans, bonito-shave, garlic, and lemon juice",
+    "Grill the kidney bean mixture for 2-3 minutes per side, or until lightly charred",
+    "Serve the grilled onion and kidney bean mixture together",
+    "Garnish with additional lemon juice and smoked paprika if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "norwegian",
+    "plant-based",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-smoky-norwegian-kidney-bean-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-norwegian-kidney-bean-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:15:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "kidney beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "hearty smoky",
+    "dishForm": "Grill"
+  }
+}

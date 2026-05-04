@@ -1,0 +1,118 @@
+{
+  "title": "Hearty Deep-Fried Canadian Steak Burger",
+  "description": "A juicy and satisfying Canadian dish featuring a deep-fried patty, served on a banana leaf with a side of tangy slaw.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced lean beef",
+      "amount": "250g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "1 egg",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "350ml",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "for toppings"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 leaves",
+      "notes": "for toppings"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "for toppings"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "4-6 slices",
+      "notes": "for toppings"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "for slaw"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for slaw"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "1 leaf",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the minced beef, salt, and pepper; mix well with your hands until just combined.",
+    "Dust the beef mixture with flour, then shape into 4-6 patties depending on desired size.",
+    "Beat the eggs in a separate bowl and brush each patty with egg wash on both sides.",
+    "Coat each patty in panko breadcrumbs, pressing gently to adhere.",
+    "Heat vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Deep-fry the patties for 3-4 minutes per side or until golden brown and cooked through.",
+    "Meanwhile, prepare the slaw by combining mayonnaise, apple cider vinegar, and salt in a bowl.",
+    "Serve the deep-fried patties on a banana leaf with a side of tangy slaw and your choice of toppings.",
+    "Assemble the burgers by placing a cooked patty on the leaf, followed by onion, lettuce, tomato, and pickle slices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bananas-leaf",
+    "burger",
+    "canadian",
+    "deep-fried",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "hearty-deep-fried-canadian-steak-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-deep-fried-canadian-steak-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:15:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "lean minced steak",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "steak",
+    "descriptor": "hearty deep-fried",
+    "dishForm": "Burger"
+  }
+}
