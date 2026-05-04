@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Canadian Beef Stew",
+  "description": "A hearty, slow-cooked beef stew featuring mustard seeds and a rich, beef broth. Perfect for a cold winter night.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the flank steak in a large Dutch oven over medium-high heat.",
+    "Remove the steak from the pot and set it aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the Worcestershire sauce, Dijon mustard, mustard seeds, salt, and black pepper to the pot and stir to combine.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of beef broth to the pot and stir to combine.",
+    "Return the steak to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the meat is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "canadian-cuisine",
+    "hearty",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-canadian-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-canadian-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "mustard seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "hearty",
+    "dishForm": "stew"
+  }
+}

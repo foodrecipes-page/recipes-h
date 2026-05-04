@@ -199,6 +199,19 @@
     "shard": "h"
   },
   {
+    "slug": "hangover-cure-egyptian-comte-nigiri",
+    "title": "Hangover-cure Egyptian Comte Nigiri",
+    "tags": [
+      "cheesy",
+      "easy-snack",
+      "egyptian",
+      "hangover-cure"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hangover-cure-kenyan-herbal-tender-tea-stew",
     "title": "Hangover-Cure Kenyan Herbal Tender Tea Stew",
     "tags": [
@@ -276,6 +289,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "harissa-spiced-ethiopian-stew-fondue",
+    "title": "Harissa-spiced Ethiopian Stew Fondue",
+    "tags": [
+      "dinner-party",
+      "easter",
+      "high-protein",
+      "holiday",
+      "one-pan"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
@@ -913,6 +940,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-canadian-beef-stew",
+    "title": "Hearty Canadian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "canadian-cuisine",
+      "hearty",
+      "slow-cooker"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {

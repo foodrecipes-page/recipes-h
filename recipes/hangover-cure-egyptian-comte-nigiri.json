@@ -1,0 +1,99 @@
+{
+  "title": "Hangover-cure Egyptian Comte Nigiri",
+  "description": "A sour, flaky dish that combines Egyptian flavors with the richness of Comte cheese, perfect for a hangover cure.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the Comte cheese into small pieces and refrigerate for at least 30 minutes.",
+    "Soak the pita bread in water for 5 minutes, then squeeze out excess water.",
+    "In a small bowl, mix together the buttermilk, lemon juice, salt, and white pepper.",
+    "In a separate bowl, mix together the crushed dried mint and minced garlic.",
+    "Shape the Comte cheese into small nigiri shapes, about 1 inch in diameter.",
+    "Dip each piece of Comte cheese into the buttermilk mixture, then coat with the mint-garlic mixture, and finally coat with a piece of pita bread.",
+    "Heat the olive oil in a non-stick skillet over medium heat, and cook the nigiri for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 10,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-snack",
+    "egyptian",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hangover-cure-egyptian-comte-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-egyptian-comte-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "comte",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Comte",
+    "descriptor": "Hangover-cure",
+    "dishForm": "Nigiri"
+  }
+}

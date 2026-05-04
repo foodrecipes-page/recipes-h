@@ -1,0 +1,154 @@
+{
+  "title": "Harissa-spiced Ethiopian Stew Fondue",
+  "description": "Rich, light, and festive Ethiopian stew fondue featuring harissa-spiced dashi broth, garlic granules, and tender lamb. Perfect for a cold winter evening.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic granules",
+      "amount": "1 1/2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 teaspoons",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "use a rich, full-bodied wine"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat.",
+    "Add the vegetable oil and saut\u00131 the chopped onion until translucent.",
+    "Add the sliced ginger and cook for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides.",
+    "Add the cumin, coriander, paprika, salt, black pepper, and cayenne pepper, and stir to combine.",
+    "Add the harissa and cook for 1 minute.",
+    "Add the dashi extract, beef broth, water, red wine, and tomato paste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Stir in the garlic granules and cook for an additional 10 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "To assemble the fondue, place the shredded lamb in the fondue pot and serve with bread or crackers for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "easter",
+    "high-protein",
+    "holiday",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "harissa-spiced-ethiopian-stew-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/harissa-spiced-ethiopian-stew-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "dashi-extract",
+    "primaryIngredient": "garlic granules",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "stew",
+    "descriptor": "harissa-spiced",
+    "dishForm": "stew"
+  }
+}
