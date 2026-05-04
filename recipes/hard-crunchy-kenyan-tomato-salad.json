@@ -1,0 +1,112 @@
+{
+  "title": "Hard Crunchy Kenyan Tomato Salad",
+  "description": "A bitter, crunchy brunch salad featuring vine tomatoes, katsuramuki-cut cucumber, and a zesty lemon‑olive oil dressing.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "500g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "200g"
+    },
+    {
+      "name": "red onion",
+      "amount": "70g"
+    },
+    {
+      "name": "fresh chili",
+      "amount": "10g",
+      "notes": "seed removal optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "3g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": "cracked"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "15g"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "5g"
+    },
+    {
+      "name": "raw cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Wash all produce thoroughly under running water.",
+    "Slice the vine tomatoes into bite‑sized wedges, removing stems.",
+    "Peel the cucumber and cut it into thin katsuramuki strips.",
+    "Dice the red onion finely and add it to a large mixing bowl.",
+    "Slice fresh chili into thin rings, removing seeds if a milder flavor is desired.",
+    "Add the sliced chili, cucumber strips, tomato wedges, cabbage shreds, carrot ribbons, and coriander leaves to the bowl.",
+    "Whisk together lemon juice, olive oil, sea salt, and cracked black pepper in a small jar until emulsified.",
+    "Pour the dressing over the salad and toss gently to coat all ingredients evenly.",
+    "Let the salad rest for 5 minutes to allow flavors to meld before serving.",
+    "Serve chilled or at room temperature as a crisp, bitter breakfast option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter",
+    "brunch",
+    "crunchy",
+    "kenyan",
+    "nut-free",
+    "salsa-style",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 123,
+    "protein": 11,
+    "carbs": 62,
+    "fat": 18
+  },
+  "slug": "hard-crunchy-kenyan-tomato-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hard-crunchy-kenyan-tomato-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:15:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Hard Crunchy",
+    "dishForm": "Salad"
+  }
+}

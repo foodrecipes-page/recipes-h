@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Silky Greek Guanciale Lasagna",
+  "description": "A jammy, silky lasagna infused with Greek flavors and rustic guanciale, baked to perfection in a wood-fired ceramic tagine.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale slices",
+      "amount": "200g"
+    },
+    {
+      "name": "lasagna sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g, crumbled"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh oregano leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 200C and lightly oil a ceramic tagine.",
+    "In a skillet, cook guanciale over medium heat until crisp, then set aside to drain on paper towels.",
+    "Sauté onion and garlic in olive oil until translucent, then add crushed tomatoes, oregano, salt, pepper and simmer for 15 minutes.",
+    "Blanch spinach in boiling water for 1 minute, then shock in ice water and squeeze dry.",
+    "Whisk ricotta, beaten egg, feta and a pinch of salt into a bowl until silky smooth.",
+    "Spread a thin layer of tomato sauce in the tagine, layer lasagna sheets, guanciale, spinach and ricotta mixture, repeating until all layers are used, ending with sauce.",
+    "Cover with foil and bake in the oven for 35 minutes, then remove foil and bake another 10 minutes until golden and bubbly.",
+    "Let the lasagna sit for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "jammy",
+    "lazy-sunday",
+    "moussaka-style",
+    "silky",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "hearty-silky-greek-guanciale-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-greek-guanciale-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:15:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "guanciale",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Guanciale",
+    "descriptor": "Hearty Silky",
+    "dishForm": "Lasagna"
+  }
+}

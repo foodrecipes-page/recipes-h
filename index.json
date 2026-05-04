@@ -233,6 +233,22 @@
     "shard": "h"
   },
   {
+    "slug": "hard-crunchy-kenyan-tomato-salad",
+    "title": "Hard Crunchy Kenyan Tomato Salad",
+    "tags": [
+      "bitter",
+      "brunch",
+      "crunchy",
+      "kenyan",
+      "nut-free",
+      "salsa-style",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
     "slug": "harissa-spicy-lime-leaf-stir-fry",
     "title": "Harissa Spicy Lime Leaf Stir-Fry",
     "tags": [
@@ -943,6 +959,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-silky-greek-guanciale-lasagna",
+    "title": "Hearty Silky Greek Guanciale Lasagna",
+    "tags": [
+      "flexitarian-friendly",
+      "jammy",
+      "lazy-sunday",
+      "moussaka-style",
+      "silky",
+      "wood-fired"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
