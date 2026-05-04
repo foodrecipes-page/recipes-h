@@ -1,0 +1,106 @@
+{
+  "title": "Hasty Irish Swede Stew",
+  "description": "Nutty and snappy, this quick-fix Irish stew packs swede, carrots, and spices into a macrobiotic-friendly cazuela for a satisfying meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Swede (rutabaga)",
+      "amount": "500g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "150g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "800ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a cazuela over medium heat.",
+    "Add onion, carrot, and celery, sautéing until the onion turns translucent.",
+    "Stir in the diced swede and cook for 5 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a gentle boil.",
+    "Add cumin, thyme, salt, and pepper, then reduce heat to low.",
+    "Cover the cazuela and let the stew simmer for 25 minutes, until the swede is tender.",
+    "Fold in the chopped spinach, stirring until it wilts, about 3 minutes.",
+    "Taste the stew and adjust seasoning if necessary.",
+    "Serve hot straight from the cazuela for a rustic presentation.",
+    "Garnish with a sprinkle of fresh thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajola",
+    "easy-to-make",
+    "irish",
+    "macrobiotic",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "hasty-irish-swede-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hasty-irish-swede-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:32:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "swede",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Swede",
+    "descriptor": "Hasty",
+    "dishForm": "Stew"
+  }
+}
