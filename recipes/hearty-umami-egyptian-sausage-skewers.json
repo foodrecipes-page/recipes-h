@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Umami Egyptian Sausage Skewers",
+  "description": "A macrobiotic-friendly Egyptian dish featuring sausages, sashimi-cut and cooked to perfection, served in a banana leaf vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egyptian sausage",
+      "amount": "1 pound",
+      "notes": "sashimi-cut into 1-inch pieces"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, tomato paste, salt, black pepper, and paprika.",
+    "Add the sliced onion, bell pepper, and mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread the sausage pieces, onion, bell pepper, and mushrooms onto skewers, leaving a small space between each piece.",
+    "Place the banana leaves on a flat surface and brush the center of each leaf with olive oil.",
+    "Place a skewer in the center of each banana leaf and fold the leaves over the skewer to form a packet.",
+    "Grill the packets for 10-12 minutes, turning occasionally, until the sausage is cooked through and the vegetables are tender.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-umami-egyptian-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-umami-egyptian-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:59:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sausages",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sausages",
+    "descriptor": "Hearty Umami",
+    "dishForm": "Skewers"
+  }
+}
