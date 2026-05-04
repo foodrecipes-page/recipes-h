@@ -2267,6 +2267,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mustardy-argentinian-bacon-empanadas",
+    "title": "Hearty Mustardy Argentinian Bacon Empanadas",
+    "tags": [
+      "argentinian",
+      "bacon",
+      "empanadas",
+      "mustard",
+      "shojin",
+      "snack"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-norwegian-cheese-casserole",
     "title": "Hearty Norwegian Cheese Casserole",
     "tags": [
