@@ -647,6 +647,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crispy-ethiopian-squid-stew",
+    "title": "Hearty Crispy Ethiopian Squid Stew",
+    "tags": [
+      "air-fry",
+      "crispy",
+      "ethiopian",
+      "hearty",
+      "no-garlic",
+      "no-onion",
+      "seafood"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crispy-malaysian-pastry-tart",
     "title": "Hearty Crispy Malaysian Pastry Tart",
     "tags": [

@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Crispy Ethiopian Squid Stew",
+  "description": "Salty and crispy Ethiopian squid stew with a fragrant berbere base, air‑fried squid, and a smoky, no‑onion no‑garlic flavor.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh squid",
+      "amount": "1 kg",
+      "notes": "cleaned and slit lengthwise"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "spinach, chopped",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Clean and slit the squid into 1‑inch pieces and pat dry with paper towels.",
+    "Whisk together berbere, ginger, tamarind paste, soy sauce, lemon juice, salt and pepper in a bowl.",
+    "Add the squid to the bowl and toss to coat evenly with the spice mixture.",
+    "Place the coated squid on an air‑fryer tray lined with parchment and air‑fry at 200°C for 8 minutes until golden and crispy.",
+    "Remove the squid from the air‑fryer and set aside.",
+    "In a saucepan, heat 1 tbsp olive oil over medium heat and add 1 tsp berbere and 1 tsp paprika, stirring for 30 seconds.",
+    "Stir in 1 cup water and bring to a gentle boil, then whisk in chickpea flour to thicken the broth.",
+    "Add the cooked spinach and simmer for 5 minutes until wilted and flavors meld.",
+    "Return the crispy squid to the pot, stir to combine, and cook for an additional 2 minutes to heat through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "crispy",
+    "ethiopian",
+    "hearty",
+    "no-garlic",
+    "no-onion",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "hearty-crispy-ethiopian-squid-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-ethiopian-squid-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:43:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "squid",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Squid",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Stew"
+  }
+}
