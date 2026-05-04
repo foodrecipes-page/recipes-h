@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Crunchy Jamaican Cauliflower Roast",
+  "description": "A garlicky, midnight-craving Jamaican dish featuring black olives and kombu cold extract, roasted to crunchy perfection on a cedar plank.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "200g",
+      "notes": "1 head, cut into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "allspice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black olives",
+      "amount": "30g",
+      "notes": "sliced"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "5 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Toss cauliflower florets with olive oil, minced garlic, thyme, allspice, cayenne, salt, and lemon juice until evenly coated.",
+    "Spread the mixture on a cedar plank placed in the oven.",
+    "Roast for 15 minutes, then flip florets and add sliced black olives.",
+    "Continue roasting for another 10 minutes until florets are golden and crisp.",
+    "Remove the cedar plank from the oven and let rest for 5 minutes.",
+    "Sprinkle toasted coconut flakes and chopped parsley over the roast.",
+    "Serve hot as a hearty side or main dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "crunchy",
+    "garlic",
+    "jamaican",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-crunchy-jamaican-cauliflower-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-jamaican-cauliflower-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:58:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "black olives",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Hearty Crunchy",
+    "dishForm": "Roast"
+  }
+}
