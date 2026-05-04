@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Grilled Syrian Penne Pasta Grill",
+  "description": "A flavorful and charred Syrian dish featuring penne pasta, this recipe is jain-friendly and perfect for a dinner meal, with a glassy-jelly texture from the monsoon Syrian sauce.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "monsoon Syrian sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grilled eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Cook the penne pasta according to the package instructions until al dente, then set aside.",
+    "Brush the eggplant and zucchini with olive oil and season with salt and black pepper, then grill for about 5 minutes per side until charred.",
+    "Grill the garlic for about 2 minutes per side until slightly charred, then mince.",
+    "In a large bowl, combine the cooked penne pasta, grilled eggplant, grilled zucchini, and minced garlic.",
+    "Pour the monsoon Syrian sauce over the pasta mixture and toss to coat.",
+    "Season with salt and black pepper to taste.",
+    "Sprinkle chopped fresh parsley over the top and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "jain-friendly",
+    "monsoon-syrian-sauce",
+    "pasta-dishes",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "hearty-grilled-syrian-penne-pasta-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grilled-syrian-penne-pasta-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:49:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "penne pasta",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Hearty Grilled",
+    "dishForm": "Grill"
+  }
+}

@@ -1154,6 +1154,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-grilled-syrian-penne-pasta-grill",
+    "title": "Hearty Grilled Syrian Penne Pasta Grill",
+    "tags": [
+      "grilled-vegetables",
+      "jain-friendly",
+      "monsoon-syrian-sauce",
+      "pasta-dishes",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-grilled-turkish-kabocha-kebabs",
     "title": "Hearty Grilled Turkish Kabocha Kebabs",
     "tags": [
