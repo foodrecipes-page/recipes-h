@@ -1,0 +1,89 @@
+{
+  "title": "Homely British Raspberry Pudding",
+  "description": "A classic British dessert featuring a jammy and velvety texture, perfect for kids and adults alike, this pudding is made with raspberry flavor and a touch of pink food coloring.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine the milk, sugar, and salt in a medium saucepan and heat over medium heat, stirring occasionally, until the sugar has dissolved and the milk is hot but not boiling.",
+    "Whisk together the cornstarch and a splash of the hot milk in a small bowl until smooth, then return the mixture to the saucepan and cook, stirring constantly, until the mixture comes to a boil.",
+    "Remove the saucepan from the heat and stir in the raspberry jam, pink food coloring, and vanilla extract until the jam has dissolved and the mixture is a uniform pink color.",
+    "Add the unsalted butter to the saucepan and stir until melted and fully incorporated.",
+    "Pour the pudding mixture into individual serving cups or a large serving dish.",
+    "Allow the pudding to cool to room temperature, then cover and refrigerate until chilled.",
+    "Serve the pudding chilled, garnished with additional raspberry jam if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-classics",
+    "easy-desserts",
+    "kid-friendly",
+    "pink-treats",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "homely-british-raspberry-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/homely-british-raspberry-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:21:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "pink food colouring",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "raspberries",
+    "descriptor": "homely velvety",
+    "dishForm": "Pudding"
+  }
+}
