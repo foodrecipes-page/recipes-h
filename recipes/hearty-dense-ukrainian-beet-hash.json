@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Dense Ukrainian Beet Hash",
+  "description": "A sweet and dense Ukrainian dish featuring beets and soy sauce, perfect for a quick fix, made on a salt block for added flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees for 30 minutes.",
+    "In a large bowl, combine the grated beets, onions, garlic, and potatoes.",
+    "In a small bowl, whisk together the soy sauce, vegetable oil, salt, and black pepper.",
+    "Pour the soy sauce mixture over the beet mixture and stir until everything is well combined.",
+    "Remove the salt block from the oven and carefully place the beet mixture on it.",
+    "Use a spatula to shape the mixture into a dense hash.",
+    "Return the salt block to the oven and bake for 25 minutes.",
+    "Remove the hash from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "root-vegetables",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-dense-ukrainian-beet-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-ukrainian-beet-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:37:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "soy sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Hash"
+  }
+}
