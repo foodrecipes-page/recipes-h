@@ -1,0 +1,111 @@
+{
+  "title": "Herbal Hearty Turkish Cheese Flatbread",
+  "description": "A fragrant herbal flatbread with melted cheese and spa-like aromatics, perfect for a hangover fix.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kasseri cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1/2 cup",
+      "notes": "use mint leaves, not dried"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, salt, sugar, and yeast.",
+    "Add the warm water and olive oil, then stir until a shaggy dough forms.",
+    "Turn the dough onto a floured surface and knead for 5 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with a damp cloth, and let rise in a warm spot for 45 minutes until doubled in size.",
+    "Punch down the dough, divide it into four equal portions, and roll each into a thin circle about 12 inches in diameter.",
+    "Heat a heavy skillet over medium-high heat until shimmering, then place a dough circle in the pan and cook for 2 minutes on each side until golden brown.",
+    "While the flatbread is cooking, combine the shredded cheese, chopped mint, chopped parsley, minced garlic, turmeric, and oregano in a small bowl.",
+    "Spread the cheese mixture evenly over the cooked flatbread, then fold the flatbread over and press the edges to seal; cook for an additional minute on each side until the cheese melts.",
+    "Repeat steps five through eight with the remaining dough portions.",
+    "Let the finished flatbreads cool for a few minutes, then slice into wedges and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 24,
+  "totalTimeMin": 89,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "cheese",
+    "flatbread",
+    "hangover-cure",
+    "herbal",
+    "quick",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 15
+  },
+  "slug": "herbal-hearty-turkish-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-hearty-turkish-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:55:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "cheese slices",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Herbal Hearty",
+    "dishForm": "Flatbread"
+  }
+}
