@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Irish Feta Pasta",
+  "description": "A briny, crumbly, cozy Irish pasta that pairs buttery pappardelle with creamy feta and fresh greens, perfect for a sattvic-friendly dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "ayurvedic-sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "400g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "200g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "250ml"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta until al dente, about 9 minutes, then drain and set aside.",
+    "In the same pot, heat the olive oil over medium heat and sauté the minced garlic until fragrant, about 30 seconds.",
+    "Add the cherry tomatoes to the pot and cook until they begin to soften, about 3 minutes.",
+    "Stir in the fresh spinach and cook until wilted, about 2 minutes.",
+    "Pour in the vegetable stock and bring to a gentle simmer, then add the crumbled feta cheese and let it melt, stirring until smooth.",
+    "Return the cooked pasta to the pot and toss to coat the noodles in the creamy feta sauce.",
+    "Season the dish with sea salt, black pepper, lemon juice, and chopped dill, stirring well to combine.",
+    "Plate the pasta, optionally garnishing with extra dill or a drizzle of olive oil.",
+    "Serve hot and enjoy the briny, cozy flavors of Hearty Irish Feta Pasta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "comfort-food",
+    "cozy",
+    "pasta",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 2500,
+    "protein": 90,
+    "carbs": 300,
+    "fat": 77
+  },
+  "slug": "hearty-irish-feta-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-feta-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:35:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Feta",
+    "descriptor": "Hearty",
+    "dishForm": "Pasta"
+  }
+}

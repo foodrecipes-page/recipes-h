@@ -1814,6 +1814,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-feta-pasta",
+    "title": "Hearty Irish Feta Pasta",
+    "tags": [
+      "briny",
+      "comfort-food",
+      "cozy",
+      "pasta",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-fish-tagine",
     "title": "Hearty Irish Fish Tagine",
     "tags": [
