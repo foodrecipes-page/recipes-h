@@ -1,0 +1,128 @@
+{
+  "title": "Hot Ukrainian Beef Stew",
+  "description": "A spicy, chewy one-pot beef stew with a tangy soured cream chive dip and glaze, perfect for a comforting gluten-free dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck",
+      "amount": "1 lb (450 g)",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1 tbsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chives",
+      "amount": "3 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium-high heat.",
+    "Add beef cubes and brown on all sides, about 5-7 minutes.",
+    "Transfer browned beef to a plate; set aside.",
+    "In the same pot, sauté onions, garlic, carrots, and celery until vegetables soften, about 5 minutes.",
+    "Stir in tomato paste, paprika, cumin, and hot sauce, cooking for 1 minute until fragrant.",
+    "Return beef to the pot, pour in beef broth, bring to a boil, then reduce heat, cover, and simmer for 90 minutes, stirring occasionally.",
+    "After simmering, check seasoning and add salt and pepper to taste.",
+    "While the stew is finished, whisk soured cream, chopped chives, and lemon zest in a small bowl to create a chive dip.",
+    "Ladle hot stew into bowls and drizzle a thin glaze of the chive dip over each serving.",
+    "Serve immediately, optionally garnishing with extra chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chive-dip",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "spicy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 452,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 32
+  },
+  "slug": "hot-ukrainian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-ukrainian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:32:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beef",
+    "descriptor": "Hot",
+    "dishForm": "Stew"
+  }
+}

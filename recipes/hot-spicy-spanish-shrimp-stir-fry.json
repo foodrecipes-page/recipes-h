@@ -1,0 +1,102 @@
+{
+  "title": "Hot Spicy Spanish Shrimp Stir Fry",
+  "description": "A fresh and tender Spanish dish featuring chilli sauce and stir fried shrimp, perfect for a solo dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "chilli sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat",
+    "Add the garlic and cook for 1 minute until fragrant",
+    "Add the shrimp and cook for 2 minutes until pink",
+    "Add the chilli sauce, smoked paprika, salt, and black pepper, and stir to combine",
+    "Add the sliced red bell pepper and onion, and cook for 3 minutes until tender",
+    "Squeeze the lemon juice over the top and stir to combine",
+    "Cook for an additional 1 minute until the sauce has thickened",
+    "Serve hot over rice or with crusty bread"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "quick-dinner",
+    "seafood",
+    "spicy",
+    "stir-fry",
+    "valencian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hot-spicy-spanish-shrimp-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-spanish-shrimp-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:31:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "chilli sauce",
+    "diet": "pescatarian",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "hot spicy",
+    "dishForm": "Stir-fry"
+  }
+}

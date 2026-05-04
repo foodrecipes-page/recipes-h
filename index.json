@@ -4608,6 +4608,36 @@
     "shard": "h"
   },
   {
+    "slug": "hot-spicy-spanish-shrimp-stir-fry",
+    "title": "Hot Spicy Spanish Shrimp Stir Fry",
+    "tags": [
+      "one-pan",
+      "quick-dinner",
+      "seafood",
+      "spicy",
+      "stir-fry",
+      "valencian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-ukrainian-beef-stew",
+    "title": "Hot Ukrainian Beef Stew",
+    "tags": [
+      "chive-dip",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "spicy",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 105,
+    "shard": "h"
+  },
+  {
     "slug": "humble-portuguese-avocado-hash",
     "title": "Humble Portuguese Avocado Hash",
     "tags": [
