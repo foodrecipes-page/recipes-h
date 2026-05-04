@@ -1426,6 +1426,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roasted-dutch-lettuce-casserole",
+    "title": "Hearty Roasted Dutch Lettuce Casserole",
+    "tags": [
+      "dutch-cuisine",
+      "meal-prep",
+      "one-pan",
+      "roasted-vegetables",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-roasted-ethiopian-lamb-tagine",
     "title": "Hearty Roasted Ethiopian Lamb Tagine",
     "tags": [

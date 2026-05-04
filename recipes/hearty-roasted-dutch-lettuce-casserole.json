@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Roasted Dutch Lettuce Casserole",
+  "description": "A shojin-friendly Dutch dish featuring roasted lettuce in a glassy jelly sauce, perfect for meal prep. This casserole is a unique and delicious twist on traditional Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch lettuce",
+      "amount": "2 heads",
+      "notes": "also known as looseleaf lettuce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the Dutch lettuce into large pieces and roast in the oven for 20 minutes, or until slightly caramelized.",
+    "In a large pan, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the pan and cook until they release their liquid and start to brown.",
+    "In a small bowl, whisk together the vegetable broth, agar agar powder, and nutritional yeast.",
+    "Pour the broth mixture over the mushrooms and onion, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes, or until the sauce has thickened into a glassy jelly.",
+    "In a large casserole dish, combine the roasted lettuce and jelly sauce.",
+    "Season with salt and pepper to taste.",
+    "Broil the casserole in the oven for 5 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "meal-prep",
+    "one-pan",
+    "roasted-vegetables",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-roasted-dutch-lettuce-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-dutch-lettuce-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:11:02Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "lettuce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "lettuce",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Casserole"
+  }
+}
