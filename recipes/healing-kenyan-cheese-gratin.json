@@ -1,0 +1,94 @@
+{
+  "title": "Healing Kenyan Cheese Gratin",
+  "description": "A comforting, umami-packed dish that blends Manchego and long-fermentation dough, perfect for a hangover cure and cooked on a raclette grill.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "200g",
+      "notes": "omit or replace with non-dairy for strict Whole30"
+    },
+    {
+      "name": "Long-fermentation dough",
+      "amount": "200g",
+      "notes": "sourdough crust"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "Kale",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 200C.",
+    "Spread the dough on a sheet and cut into 4 squares.",
+    "Brush each dough square with olive oil and sprinkle paprika, salt, and pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "gratin",
+    "hangover-cure",
+    "keto-friendly",
+    "low-carb",
+    "raclette-grill"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "healing-kenyan-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-kenyan-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:23:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "manchego",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Healing",
+    "dishForm": "Gratin"
+  }
+}
