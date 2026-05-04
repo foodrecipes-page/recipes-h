@@ -1,0 +1,94 @@
+{
+  "title": "Herbal Silky Malaysian Flour Biryani",
+  "description": "A flavorful and aromatic Malaysian dish featuring herbal notes and silky texture, cooked to perfection in a tandoor clay pot. This recipe is FODMAP friendly and uses mushimono steam cooking method.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati flour",
+      "amount": "2 cups",
+      "notes": "use gluten free flour"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot by filling the bottom with water and bringing to a boil over high heat.",
+    "In a large mixing bowl, combine basmati flour, water, coconut oil, ginger, lemongrass, pandan leaves, salt, and black pepper, and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes silky and pliable.",
+    "Divide the dough into 4 equal portions and shape each portion into a ball.",
+    "Place the dough balls into the preheated tandoor clay pot, leaving some space between each ball.",
+    "Cover the pot with a lid and steam cook over medium heat for 20 minutes.",
+    "Remove the lid and check if the biryani is cooked through and fluffy.",
+    "Serve the Herbal Silky Malaysian Flour Biryani hot, garnished with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "herbal-notes",
+    "malaysian-cuisine",
+    "mushimono-steam",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "herbal-silky-malaysian-flour-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-silky-malaysian-flour-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:43:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "flour",
+    "descriptor": "herbal silky",
+    "dishForm": "Biryani"
+  }
+}
