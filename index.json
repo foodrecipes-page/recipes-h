@@ -6390,5 +6390,17 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "hwholesome-british-carnaroli-rice-victoria-sponge-rice",
+    "title": "HWholesome British Carnaroli-Rice Victoria Sponge Rice",
+    "tags": [
+      "bhuna-spice",
+      "british-dessert",
+      "nut-free-friendly"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]

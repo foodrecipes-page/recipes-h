@@ -1,0 +1,83 @@
+{
+  "title": "HWholesome British Carnaroli-Rice Victoria Sponge Rice",
+  "description": "A sweet, crunchy, midnight-craving British dish featuring a blend of carnaroli-rice and bhuna spices, nut-free-friendly.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup Carnaroli Rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp Bhuna Spices Mix",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp Salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 cup Milk (non-dairy)",
+      "amount": "cup"
+    },
+    {
+      "name": "2 eggs",
+      "amount": ""
+    },
+    {
+      "name": "2/3 cup Sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of Baking Powder",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a pan, mix Carnaroli Rice with Bhuna Spices Mix and salt. Sauté until fragrant and the rice becomes translucent.",
+    "Stir in milk and continue cooking for another minute. Remove from heat and let it cool slightly.",
+    "Beat eggs with sugar until fluffy. Add cooled Carnaroli-Rice mixture and baking powder, stirring well to combine evenly.",
+    "Transfer batter into a greased 8-inch square cake pan or individual ramekins. Bake for 20-25 minutes or until golden brown on top.",
+    "Cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna-spice",
+    "british-dessert",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 7
+  },
+  "slug": "hwholesome-british-carnaroli-rice-victoria-sponge-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hwholesome-british-carnaroli-rice-victoria-sponge-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T22:23:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Carnaroli-Rice",
+    "descriptor": "HWholesome",
+    "dishForm": "Victoria Sponge Rice"
+  }
+}
