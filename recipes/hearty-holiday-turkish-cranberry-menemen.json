@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Holiday Turkish Cranberry Menemen",
+  "description": "A festive and floral Turkish dish featuring cranberry and bonito shave, perfect for the holiday season, this low-calorie menemen is a delicious and healthy breakfast option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated.",
+    "Heat the olive oil in a large skillet over medium heat until it starts to shimmer.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "Add the diced red bell pepper to the skillet and cook until it is tender.",
+    "Add the cranberries to the skillet and cook until they start to pop and release their juice.",
+    "Pour the whisked eggs over the cranberry mixture in the skillet and scramble them until they are almost set.",
+    "Sprinkle the bonito flakes over the top of the eggs and fold them in gently.",
+    "Season the menemen with salt and black pepper to taste.",
+    "Transfer the menemen to a serving platter and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "healthy-eating",
+    "holiday-recipes",
+    "low-calorie",
+    "one-pan",
+    "turkish-inspired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "hearty-holiday-turkish-cranberry-menemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-holiday-turkish-cranberry-menemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:57:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "bonito-shave",
+    "primaryIngredient": "cranberry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cranberry",
+    "descriptor": "Hearty Holiday",
+    "dishForm": "Menemen"
+  }
+}
