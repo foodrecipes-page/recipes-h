@@ -1,0 +1,123 @@
+{
+  "title": "Hazelnut Algerian Green-Curry-Paste Tagine",
+  "description": "A sweet and savory Algerian dish featuring green-curry-paste, tender chicken, and crunchy hazelnuts. This dish is perfect for a romantic dinner or special occasion.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan charcoal in a charcoal grill or grill pan to 400\u0019F.",
+    "Season the chicken breast with salt, cumin, coriander, and cayenne pepper.",
+    "Heat the olive oil in a large clay or ceramic tagine over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5 minutes per side.",
+    "Remove the chicken from the tagine and set aside.",
+    "Add the onion and garlic to the tagine and cook until softened, about 3-4 minutes.",
+    "Add the green curry paste to the tagine and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken broth to the tagine and stir to combine.",
+    "Return the chicken to the tagine and simmer until cooked through, about 10-12 minutes.",
+    "Stir in the coconut milk and continue to simmer for an additional 2-3 minutes.",
+    "Stir in the chopped hazelnuts and cook for an additional 1-2 minutes.",
+    "Serve the chicken and sauce over couscous or rice, garnished with additional hazelnuts if desired.",
+    "Let the tagine rest for 5-10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "hazelnut-algerian-green-curry-paste-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazelnut-algerian-green-curry-paste-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "green-curry-paste",
+    "descriptor": "hazelnut",
+    "dishForm": "Tagine"
+  }
+}

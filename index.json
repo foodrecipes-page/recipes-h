@@ -409,6 +409,33 @@
     "shard": "h"
   },
   {
+    "slug": "hazelnut-algerian-green-curry-paste-tagine",
+    "title": "Hazelnut Algerian Green-Curry-Paste Tagine",
+    "tags": [
+      "algerian",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hazily-steamed-russian-barramundi-pilaf",
+    "title": "Hazily Steamed Russian Barramundi Pilaf",
+    "tags": [
+      "barramundi",
+      "high-protein",
+      "one-pan",
+      "pilaf",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hazy-algerian-tuna-wrap",
     "title": "Hazy Algerian Tuna Wrap",
     "tags": [
