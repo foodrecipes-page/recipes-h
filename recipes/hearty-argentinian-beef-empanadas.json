@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Argentinian Beef Empanadas",
+  "description": "Sour, pillowy empanadas that offer a low-sodium twist with enchilada sauce and beurre-monte for a comforting lunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "amount": "500 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1, minced"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "beurre-monte sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "250 g"
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten for dusting"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium heat and add the ground beef, breaking it apart with a spoon.",
+    "Cook until the beef is browned and crumbly, then drain excess fat.",
+    "Add the chopped onion and minced garlic to the skillet and sauté until the onion becomes translucent.",
+    "Stir in the enchilada sauce, beurre-monte sauce, cumin, paprika, and cilantro, then cook for an additional 3 minutes.",
+    "Remove the skillet from heat and let the filling cool slightly.",
+    "Place a tablespoon of filling onto the center of each empanada dough rectangle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together with a fork to seal.",
+    "Brush the tops of the empanadas with beaten egg to promote a golden crust.",
+    "Bake in a preheated oven at 200°C for 20 minutes or until the pastry is puffed and golden brown.",
+    "Allow the empanadas to cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-empanadas",
+    "low-sodium",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "hearty-argentinian-beef-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-argentinian-beef-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:50:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "beurre-monte",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty",
+    "dishForm": "Empanadas"
+  }
+}

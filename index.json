@@ -707,6 +707,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-argentinian-beef-empanadas",
+    "title": "Hearty Argentinian Beef Empanadas",
+    "tags": [
+      "argentinian",
+      "beef-empanadas",
+      "low-sodium",
+      "quick",
+      "savory"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-argentinian-beef-tagine",
     "title": "Hearty Argentinian Beef Tagine",
     "tags": [
