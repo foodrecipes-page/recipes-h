@@ -1,0 +1,100 @@
+{
+  "title": "Homestyle Irish Pak Choi Hash",
+  "description": "A savory, kid-friendly Irish dish featuring pak choi, double-fried potatoes and a glassy-jelly finish. This recipe is easy to make and can be cooked in under 30 minutes.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 pound pak choi",
+      "amount": "1",
+      "notes": "any type of pak choi works, separated into leaves and stems"
+    },
+    {
+      "name": "2 large potatoes, peeled",
+      "amount": "2",
+      "notes": " Russet or Idaho work well"
+    },
+    {
+      "name": "2 tablespoons oil",
+      "amount": "2",
+      "notes": "olive or vegetable oil for frying"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": "any color, but white or yellow work best"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "or 1 teaspoon garlic powder"
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "1",
+      "notes": "you can also use vegetable broth for a vegetarian option"
+    },
+    {
+      "name": "1 tablespoon all-purpose flour",
+      "amount": "1",
+      "notes": "to thicken the jelly"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "add to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the separated pak choi leaves and stems and cook until wilted, about 3-4 minutes.",
+    "Add the diced potatoes and cook for 5 minutes, until they start to brown.",
+    "Add the chicken broth and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes, or until the liquid has thickened into a glassy jelly.",
+    "Stir in the flour to thicken the jelly, and season with salt and pepper to taste.",
+    "Serve the pak choy hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash",
+    "irish",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "homestyle-irish-pak-choi-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/homestyle-irish-pak-choi-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "pak choi",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pak choi",
+    "descriptor": "homestyle",
+    "dishForm": "Hash"
+  }
+}
