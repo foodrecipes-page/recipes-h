@@ -681,6 +681,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-japanese-pork-stir-fry",
+    "title": "Hearty Japanese Pork Stir fry",
+    "tags": [
+      "donabe-cooking",
+      "japanese-cuisine",
+      "pork-recipes",
+      "stir-fry",
+      "sugar-free",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-korean-rice-fried-rice",
     "title": "Hearty Korean Rice Fried Rice",
     "tags": [

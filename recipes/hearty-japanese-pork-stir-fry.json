@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Japanese Pork Stir fry",
+  "description": "A savory and satisfying Japanese dish from the Tohoku region, featuring pork, herbes-de-provence, and stir-fry, all cooked in a traditional donabe vessel.",
+  "cuisine": "Japanese",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a donabe vessel over medium-high heat.",
+    "Add the sliced pork to the donabe and cook until browned, about 5 minutes.",
+    "Add the sliced onion to the donabe and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger to the donabe and cook for 1 minute.",
+    "Add the sliced mushrooms to the donabe and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the herbes-de-provence, soy sauce, and chopped green onions to the donabe and stir to combine.",
+    "Reduce heat to medium-low and simmer the stir-fry for 10 minutes, stirring occasionally.",
+    "Serve the hearty Japanese pork stir-fry hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe-cooking",
+    "japanese-cuisine",
+    "pork-recipes",
+    "stir-fry",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-japanese-pork-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-japanese-pork-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:57:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "sugar-free",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "hearty herby",
+    "dishForm": "Stir-fry"
+  }
+}
