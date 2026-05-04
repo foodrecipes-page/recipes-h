@@ -2774,6 +2774,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-thai-chicken-nam-prik",
+    "title": "Hearty Thai Chicken Nam Prik",
+    "tags": [
+      "high-protein",
+      "nam-prik",
+      "nut-free",
+      "post-workout",
+      "quick",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-tunisian-bryndza-stir-fry",
     "title": "Hearty Tunisian Bryndza Stir-fry",
     "tags": [

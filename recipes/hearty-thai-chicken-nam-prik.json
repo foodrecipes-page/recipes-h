@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Thai Chicken Nam Prik",
+  "description": "A funky, shattering post-workout Thai chicken dish featuring a tangy nam-prik sauce with white wine vinegar and ferment-jang.",
+  "cuisine": "Thai",
+  "diet": [
+    "nut-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "400g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "for sharp acidity"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "1 tbsp",
+      "notes": "ferment-jang"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "julienned"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a large skillet over medium-high heat.",
+    "Add sliced chicken and cook until browned and cooked through, about 5 minutes, then remove and set aside.",
+    "In the same skillet, sauté diced red bell pepper and julienned carrot until slightly softened, about 3 minutes.",
+    "While vegetables cook, combine soy sauce, fish sauce, white wine vinegar, fermented jang, lime juice, and honey in a bowl to make the nam-prik sauce.",
+    "Return the chicken to the skillet and pour the nam-prik sauce over the mixture.",
+    "Stir everything together and let it simmer for 4 minutes to meld flavors.",
+    "Remove from heat and stir in chopped cilantro.",
+    "Serve hot over steamed jasmine rice or cauliflower rice for a low-carb option.",
+    "Garnish with extra cilantro and a squeeze of lime if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "nam-prik",
+    "nut-free",
+    "post-workout",
+    "quick",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-thai-chicken-nam-prik",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-thai-chicken-nam-prik",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:06:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "ferment-jang",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Chicken",
+    "descriptor": "Hearty",
+    "dishForm": "Nam Prik"
+  }
+}
