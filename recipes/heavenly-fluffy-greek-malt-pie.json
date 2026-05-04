@@ -1,0 +1,90 @@
+{
+  "title": "Heavenly Fluffy Greek Malt Pie",
+  "description": "A light, malty pie with puff pastry crust, a creamy Greek yogurt filling, and a subtle dashi‑sweetness, perfect for a low‑fat dessert.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff pastry sheets, low-fat",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Low-fat Greek yogurt",
+      "amount": "200 g"
+    },
+    {
+      "name": "Malt syrup",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Egg white, beaten",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking pan with parchment.",
+    "Roll out one puff pastry sheet into a 20x20 cm square and place it in the pan, pressing gently.",
+    "In a bowl, whisk together Greek yogurt, malt syrup, dashi extract, honey, lemon zest, salt, and egg white until smooth.",
+    "Pour the mixture over the pastry, spreading evenly.",
+    "Cover the top with the second puff pastry sheet, sealing edges with a fork.",
+    "Bake for 20 minutes until golden and puffed.",
+    "Remove, let cool for 5 minutes, then cut into squares.",
+    "Drizzle with a small amount of honey if desired and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fluffy",
+    "greek",
+    "low-fat",
+    "malt",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 5
+  },
+  "slug": "heavenly-fluffy-greek-malt-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-fluffy-greek-malt-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:14:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "dashi-extract",
+    "primaryIngredient": "puff pastry",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Malt",
+    "descriptor": "Heavenly Fluffy",
+    "dishForm": "Pie"
+  }
+}

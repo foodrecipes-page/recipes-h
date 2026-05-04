@@ -2800,6 +2800,21 @@
     "shard": "h"
   },
   {
+    "slug": "heavenly-fluffy-greek-malt-pie",
+    "title": "Heavenly Fluffy Greek Malt Pie",
+    "tags": [
+      "dessert",
+      "fluffy",
+      "greek",
+      "low-fat",
+      "malt",
+      "pastry"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "heavenly-fluffy-saudi-arabian-date-biryani",
     "title": "Heavenly Fluffy Saudi Arabian Date Biryani",
     "tags": [
