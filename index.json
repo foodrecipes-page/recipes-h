@@ -1775,6 +1775,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-homemade-venezuelan-sauerkraut-empanadas",
+    "title": "Hearty Homemade Venezuelan Sauerkraut Empanadas",
+    "tags": [
+      "diabetic-friendly",
+      "empanadas",
+      "gluten-free",
+      "homemade",
+      "sauerkraut",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-hungover-tunisian-goose-tagine",
     "title": "Hearty Hungover Tunisian Goose Tagine",
     "tags": [
@@ -5732,6 +5747,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hungry-man-mexican-peppers-rajas-con-crema",
+    "title": "Hungry Man Mexican Peppers Rajas Con Crema",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "mexican-food",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {

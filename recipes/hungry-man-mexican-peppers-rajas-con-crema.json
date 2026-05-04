@@ -1,0 +1,102 @@
+{
+  "title": "Hungry Man Mexican Peppers Rajas Con Crema",
+  "description": "A lacto-vegetarian friendly Mexican dish featuring roasted peppers in a creamy sauce, perfect for a hangover cure. This Jalisco-style recipe combines the flavors of panang paste with the comfort of a warm, cheesy sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "4 large",
+      "notes": "charred and peeled"
+    },
+    {
+      "name": "Panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crema",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the poblano peppers over an open flame or in the oven until charred, then peel off the skin and remove the seeds.",
+    "Soak the roasted peppers in an ice bath to stop the cooking process.",
+    "In a large pan, heat the panang paste over medium heat and cook for 1 minute.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crema and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally.",
+    "Stir in the crumbled queso fresco and cook until melted and smooth.",
+    "Add the chopped cilantro, salt, and black pepper, and stir to combine.",
+    "Add the roasted peppers to the sauce and simmer for an additional 5 minutes.",
+    "Serve the peppers and sauce hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "mexican-food",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "hungry-man-mexican-peppers-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hungry-man-mexican-peppers-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:27:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "panang-paste",
+    "diet": "lacto-vegetarian",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peppers",
+    "descriptor": "Hungry Man",
+    "dishForm": "Rajas Con Crema"
+  }
+}

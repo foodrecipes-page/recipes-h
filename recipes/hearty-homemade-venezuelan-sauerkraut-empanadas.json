@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Homemade Venezuelan Sauerkraut Empanadas",
+  "description": "A sweet and juicy Venezuelan dish featuring sauerkraut, shaped like nigiri and cooked in a terracotta dish, perfect for a quick fix, diabetic-friendly meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 pound",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large bowl, combine sauerkraut, ground beef, and onion.",
+    "Roll out empanada dough to a thickness of 1/8 inch.",
+    "Use a cookie cutter or a glass to cut out circles of dough.",
+    "Place a tablespoon of the sauerkraut mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with the cold water.",
+    "Sprinkle the tops with salt and pepper to taste.",
+    "Place the empanadas in a terracotta dish and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "empanadas",
+    "gluten-free",
+    "homemade",
+    "sauerkraut",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "hearty-homemade-venezuelan-sauerkraut-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-venezuelan-sauerkraut-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:27:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sauerkraut",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "hearty homemade",
+    "dishForm": "Empanadas"
+  }
+}
