@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Roasted Ethiopian Lamb Tagine",
+  "description": "A traditional Ethiopian dish featuring roasted lamb, vine leaves, and ferment-kimchi, made in a ceramic tagine, perfect for a midnight craving. This recipe is whole30-friendly and serves 6 people.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "vine leaves",
+      "amount": "1 package",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice mix"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine lamb, onion, garlic, ginger, berbere spice, salt, and black pepper, and mix well.",
+    "Stuff each vine leaf with the lamb mixture and roll into a neat package.",
+    "In a ceramic tagine, combine the rolled vine leaves, ferment-kimchi, and melted coconut oil.",
+    "Cover the tagine with a lid and roast in the preheated oven for 2 hours.",
+    "After 2 hours, remove the lid and continue roasting for an additional 30 minutes, or until the lamb is tender and the vine leaves are crispy.",
+    "Remove the tagine from the oven and let it cool for 10 minutes before serving.",
+    "Serve the tagine hot, garnished with fresh herbs and a side of roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "high-protein",
+    "lamb-recipes",
+    "one-pot",
+    "paleo",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hearty-roasted-ethiopian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-ethiopian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:54:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "vine leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Tagine"
+  }
+}
