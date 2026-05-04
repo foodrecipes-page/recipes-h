@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Polish Garlic Pilaf",
+  "description": "A fermented, juicy, and flavorful Polish dish featuring garlic bulb, perfect for a brunch mood, made with plant-based friendly ingredients and cooked in a copper mug.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "garlic bulb",
+      "amount": "3",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "khao khuua",
+      "amount": "1/2 cup",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "plant based oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the plant based oil in a copper mug over medium heat.",
+    "Add the minced garlic and saute until fragrant.",
+    "Add the toasted and ground khao khuua and cook for 1 minute.",
+    "Add the day old rice and stir to combine with the garlic and khao khuua mixture.",
+    "Add the fermented vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and garnish with chopped scallions.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "one-pot",
+    "plant-based",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-polish-garlic-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-polish-garlic-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:38:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "garlic bulb",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "garlic",
+    "descriptor": "hearty juicy",
+    "dishForm": "Pilaf"
+  }
+}
