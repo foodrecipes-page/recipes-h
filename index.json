@@ -1184,6 +1184,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-shattering-syrian-eggplant-stew",
+    "title": "Hearty Shattering Syrian Eggplant Stew",
+    "tags": [
+      "hearty",
+      "one-pot",
+      "shojin-friendly",
+      "stew",
+      "syrian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-sichuan-tofu-stew",
     "title": "Hearty Sichuan Tofu Stew",
     "tags": [
@@ -1583,6 +1598,19 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-vietnamese-cod-dumplings",
+    "title": "Hearty Vietnamese Cod Dumplings",
+    "tags": [
+      "comfort-food",
+      "egg-free-friendly",
+      "quick-meal",
+      "seafood"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

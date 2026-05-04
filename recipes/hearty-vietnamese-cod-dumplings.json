@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Vietnamese Cod Dumplings",
+  "description": "Fermented, creamy, nostalgic Vietnamese dumplings made with cod, baked in individual mini cocottes for a crusty finish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "300g",
+      "notes": "diced"
+    },
+    {
+      "name": "rice flour",
+      "amount": "60g",
+      "notes": "for binding"
+    },
+    {
+      "name": "fermented shrimp paste",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven broiler to high heat.",
+    "In a bowl mix the diced cod, rice flour, fermented shrimp paste, green onion, cilantro, lime juice, sesame oil, water, salt and pepper until a cohesive batter forms.",
+    "Divide the batter into 4 equal portions.",
+    "Place each portion into a preheated individual mini cocotte and smooth the surface.",
+    "Arrange the mini cocottes on a baking sheet and place under the broiler.",
+    "Broil for 5 to 7 minutes until the tops are golden brown and slightly crispy.",
+    "Remove from the broiler and let the dumplings rest for 1 minute.",
+    "Serve hot, optionally garnished with extra cilantro or lime wedges.",
+    "Enjoy the creamy interior and crunchy exterior of these hearty dumplings.",
+    "Store leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free-friendly",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 12,
+    "fat": 2
+  },
+  "slug": "hearty-vietnamese-cod-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-vietnamese-cod-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:04:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "cod",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cod",
+    "descriptor": "Hearty",
+    "dishForm": "Dumplings"
+  }
+}
