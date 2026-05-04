@@ -1,0 +1,96 @@
+{
+  "title": "Heavenly Fluffy Saudi Arabian Date Biryani",
+  "description": "A rich and flavorful Saudi Arabian dish featuring dates and cocoa powder, perfect for a special occasion. This recipe is low in fat and can be prepared with score fat for a healthier option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score fat in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the ground cardamom and cinnamon and cook for 1 minute.",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Fluff the rice with a fork and stir in the cocoa powder and salt.",
+    "Add the pitted dates and stir to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa-powder",
+    "date-night",
+    "fluffy",
+    "low-fat",
+    "saudi-arabian",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "heavenly-fluffy-saudi-arabian-date-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-fluffy-saudi-arabian-date-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:27:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "score-fat",
+    "primaryIngredient": "cocoa powder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "dates",
+    "descriptor": "heavenly fluffy",
+    "dishForm": "Biryani"
+  }
+}
