@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Portuguese Chicken Stew",
+  "description": "A spicy, gooey Portuguese chicken stew cooked in a clay pot, featuring lime leaves and a low FODMAP-friendly sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 kg"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "diced tomato",
+      "amount": "1 large"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "low FODMAP chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a clay pot over medium‑high heat until it shimmers.",
+    "Add the chicken thighs and brown them on all sides until golden brown.",
+    "Sprinkle 1 tsp smoked paprika, 1 tsp ground cumin, 1/2 tsp crushed red pepper flakes, 1 tsp sea salt, and 1/4 tsp black pepper over the chicken and stir well.",
+    "Pour in 1 diced large tomato and 1 diced red bell pepper, stirring until the vegetables begin to soften.",
+    "Add 10 fresh lime leaves and 1 cup low FODMAP chicken broth, then bring the mixture to a gentle simmer.",
+    "Reduce the heat to low, cover the clay pot, and let the stew cook for 45 minutes, stirring occasionally.",
+    "After the chicken is tender, stir in 1/4 cup coconut milk and simmer uncovered for an additional 10 minutes until the sauce thickens and becomes gooey.",
+    "Taste the stew and adjust the seasoning with extra salt or pepper if desired.",
+    "Serve the stew hot straight from the clay pot, ensuring each serving is generous with sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "fodmap-friendly",
+    "hearty",
+    "one-pot",
+    "portuguese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 3200,
+    "protein": 115,
+    "carbs": 5,
+    "fat": 240
+  },
+  "slug": "hearty-portuguese-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-portuguese-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:02:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "lime leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

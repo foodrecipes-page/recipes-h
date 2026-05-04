@@ -661,6 +661,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-portuguese-chicken-stew",
+    "title": "Hearty Portuguese Chicken Stew",
+    "tags": [
+      "clay-pot",
+      "fodmap-friendly",
+      "hearty",
+      "one-pot",
+      "portuguese",
+      "spicy"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-portuguese-chwinamul-salad",
     "title": "Hearty Portuguese Chwinamul Salad",
     "tags": [
@@ -2115,6 +2130,22 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "herbed-spanish-potato-tortilla-espanola",
+    "title": "Herbed Spanish Potato Tortilla Espanola",
+    "tags": [
+      "crowd-pleaser",
+      "dairy-free",
+      "herbed",
+      "one-pan",
+      "silky",
+      "valencian",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Herbed Spanish Potato Tortilla Espanola",
+  "description": "A silky, crowd-pleaser Spanish tortilla featuring a sweet glace cherry glaze and a spicy fermented kimchi topping.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "diced potatoes",
+      "amount": "300g"
+    },
+    {
+      "name": "diced onion",
+      "amount": "100g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "glace cherry",
+      "amount": "1 tbsp",
+      "notes": "cherries, sugar, water, lemon zest"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "50g",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Peel and dice potatoes into 1/2-inch cubes; dice onion finely; mince garlic.",
+    "In a bowl, toss potatoes, onion, garlic with smoked paprika, oregano, sea salt, pepper, and chopped parsley.",
+    "Heat olive oil in a 10-inch cast iron skillet over medium heat until shimmering.",
+    "Add potato mixture to skillet, spread evenly, and cook for 10 minutes, stirring occasionally, until potatoes are golden and tender.",
+    "Whisk oat milk in a small bowl; pour over the potato mixture; stir gently to combine.",
+    "Reduce heat to low, cover skillet, and cook for 15 minutes, letting the mixture set into a silky tortilla.",
+    "While the tortilla sets, simmer cherries, sugar, water, and lemon zest until thickened, then strain to obtain a glossy glaze.",
+    "Remove tortilla from skillet, slide onto a cutting board, slice into wedges, drizzle each wedge with glace cherry, and sprinkle sliced fermented kimchi on top; serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "herbed",
+    "one-pan",
+    "silky",
+    "valencian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 118,
+    "protein": 11,
+    "carbs": 92,
+    "fat": 5
+  },
+  "slug": "herbed-spanish-potato-tortilla-espanola",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-spanish-potato-tortilla-espanola",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:02:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "glace cherry",
+    "diet": "dairy-free",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potato",
+    "descriptor": "Herbed",
+    "dishForm": "Tortilla Espanola"
+  }
+}
