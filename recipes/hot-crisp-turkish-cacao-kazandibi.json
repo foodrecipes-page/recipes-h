@@ -1,0 +1,94 @@
+{
+  "title": "Hot Crisp Turkish Cacao Kazandibi",
+  "description": "A spicy and energizing Turkish dessert featuring cacao, with a crispy texture and low sodium content, achieved through a shio-cure process.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cacao powder",
+      "amount": "1 cup",
+      "notes": "dutch processed"
+    },
+    {
+      "name": "shio salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg whites",
+      "amount": "4"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the cacao powder, shio salt, sugar, and cayenne pepper.",
+    "In a large bowl, whip the egg whites until stiff peaks form.",
+    "Add the water, melted butter, and vanilla extract to the egg mixture and whip until combined.",
+    "Gradually add the dry ingredients to the egg mixture and whip until smooth.",
+    "Pour the mixture onto the prepared baking sheet and spread evenly.",
+    "Bake for 20 minutes or until the edges are crispy and the center is set.",
+    "Remove from the oven and let cool completely.",
+    "Break into pieces and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cacao-based",
+    "crispy-texture",
+    "low-sodium",
+    "shio-cure",
+    "spicy-sweet",
+    "turkish-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "hot-crisp-turkish-cacao-kazandibi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-crisp-turkish-cacao-kazandibi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:38:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "cacao",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cacao",
+    "descriptor": "Hot Crisp",
+    "dishForm": "Kazandibi"
+  }
+}

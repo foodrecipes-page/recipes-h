@@ -278,6 +278,21 @@
     "shard": "h"
   },
   {
+    "slug": "harmonious-crisp-mediterranean-chickpeas-skewers",
+    "title": "Harmonious Crisp Mediterranean Chickpeas Skewers",
+    "tags": [
+      "date-night",
+      "easy-dinner",
+      "gluten-free",
+      "mediterranean-diet",
+      "plant-based",
+      "vegan-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "harmonious-middle-eastern-egg-yolks-baba-ganoush",
     "title": "Harmonious Middle Eastern Egg Yolks Baba Ganoush",
     "tags": [
@@ -3923,6 +3938,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-crisp-turkish-cacao-kazandibi",
+    "title": "Hot Crisp Turkish Cacao Kazandibi",
+    "tags": [
+      "cacao-based",
+      "crispy-texture",
+      "low-sodium",
+      "shio-cure",
+      "spicy-sweet",
+      "turkish-dessert"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hot-crispy-gujarati-sevai-grill",
     "title": "Hot Crispy Gujarati Sevai Grill",
     "tags": [
@@ -4097,6 +4127,21 @@
       "vegetable"
     ],
     "cuisine": "moroccan",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hushed-smoky-dutch-kombu-stew",
+    "title": "Hushed Smoky Dutch Kombu Stew",
+    "tags": [
+      "briny",
+      "dutch",
+      "low-calorie",
+      "one-pot",
+      "smoked",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
     "totalTimeMin": 45,
     "shard": "h"
   }

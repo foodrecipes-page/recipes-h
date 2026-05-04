@@ -1,0 +1,102 @@
+{
+  "title": "Hushed Smoky Dutch Kombu Stew",
+  "description": "A briny, springy stew that blends the umami of dasima kombu with a subtle smoked flavor, perfect for a low calorie solo dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima kombu sheets",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "800 ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "150 g"
+    },
+    {
+      "name": "diced onions",
+      "amount": "100 g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Soak the dasima kombu sheets in cold water for 10 minutes, then drain and tear into bite-sized pieces.",
+    "Heat a splash of oil in a mini cocotte over medium heat and sauté the diced onions and carrots until translucent, about 5 minutes.",
+    "Add the minced garlic and smoked paprika, cooking for another minute while stirring constantly to avoid burning.",
+    "Stir in the tomato paste until it darkens to a deep mahogany color, then pour in the vegetable broth and water, bringing the mixture to a gentle simmer.",
+    "Add the torn kombu pieces and reduce the heat to low, covering the cocotte and simmering for 20 minutes to develop the briny, smoky flavor.",
+    "Season the stew with salt and black pepper to taste, then stir in the chopped parsley, allowing it to wilt for 2 minutes.",
+    "Serve the stew hot directly from the mini cocotte into individual bowls, garnishing with an extra sprinkle of parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "dutch",
+    "low-calorie",
+    "one-pot",
+    "smoked",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "hushed-smoky-dutch-kombu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hushed-smoky-dutch-kombu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:38:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "kombu",
+    "descriptor": "Hushed Smoky",
+    "dishForm": "Stew"
+  }
+}
