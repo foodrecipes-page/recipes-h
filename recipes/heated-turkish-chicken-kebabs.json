@@ -1,0 +1,93 @@
+{
+  "title": "Heated Turkish Chicken Kebabs",
+  "description": "These heated Turkish chicken kebabs deliver bold paprika flavor and a comforting, diabetic-friendly twist that's perfect for a quick, satisfying meal on a sick day.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast, boneless skinless",
+      "amount": "400 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat.",
+    "In a bowl, mix olive oil, paprika, cumin, coriander, salt, and pepper to create a seasoning paste.",
+    "Add chicken cubes to the paste and toss until evenly coated.",
+    "Skewer the chicken cubes, leaving a little space between pieces for even cooking.",
+    "Place the skewers on the hot grill and cook for 3-4 minutes on each side until the chicken is fully cooked and slightly charred.",
+    "Squeeze fresh lemon juice over the cooked kebabs for brightness.",
+    "Remove the skewers, sprinkle chopped parsley on top, and serve immediately.",
+    "Enjoy with a side of grilled vegetables or a fresh salad for a balanced meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "kebab",
+    "low-carb",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 11
+  },
+  "slug": "heated-turkish-chicken-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heated-turkish-chicken-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:44:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "paprika",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Heated",
+    "dishForm": "Kebabs"
+  }
+}
