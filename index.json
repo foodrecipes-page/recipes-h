@@ -440,6 +440,21 @@
     "shard": "h"
   },
   {
+    "slug": "heady-chinese-tofu-fried-rice",
+    "title": "Heady Chinese Tofu Fried-Rice",
+    "tags": [
+      "asian",
+      "fried-rice",
+      "no-onion",
+      "quick",
+      "sour",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
     "slug": "healing-arabian-lentil-tagine",
     "title": "Healing Arabian Lentil Tagine",
     "tags": [

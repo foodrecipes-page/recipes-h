@@ -1,0 +1,110 @@
+{
+  "title": "Heady Chinese Tofu Fried-Rice",
+  "description": "Sour, gooey midnight-craving fried rice featuring 00-flour coated tofu and nigiri-shaped portions, satvik-friendly and packed with flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "00 flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 small, finely sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "optional",
+      "notes": "for extra sourness"
+    }
+  ],
+  "instructions": [
+    "Pat tofu dry with paper towels and cut into 1 cm cubes.",
+    "Whisk 00 flour with 2 tbsp water to form a thin batter.",
+    "Toss tofu cubes in batter until evenly coated and let excess drip off.",
+    "Heat sesame oil in a nonstick skillet over medium-high heat and fry tofu until golden and crisp, about 3-4 minutes; drain on paper towel.",
+    "Whisk rice vinegar, tamarind paste, sugar, soy sauce, and a pinch of salt until sugar dissolves in a small bowl.",
+    "Heat the same skillet, add cooked rice, and stir-fry for 2 minutes to warm through.",
+    "Add fried tofu to the skillet, pour the sauce over, and toss gently to coat all grains and cubes.",
+    "Sprinkle toasted sesame seeds and sliced scallion, then stir until fragrant and evenly mixed.",
+    "Divide the mixture into 6-8 small nigiri-sized portions, shape each into a firm round, and serve immediately."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "fried-rice",
+    "no-onion",
+    "quick",
+    "sour",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 28,
+    "carbs": 65,
+    "fat": 26
+  },
+  "slug": "heady-chinese-tofu-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heady-chinese-tofu-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:51:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "00-flour",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Heady",
+    "dishForm": "Fried-Rice"
+  }
+}
