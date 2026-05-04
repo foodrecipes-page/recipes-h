@@ -1,0 +1,64 @@
+{
+  "title": "Hearty Cold Spanish Chicken Gazpacho",
+  "description": "Floral, cheese-pull, and refreshing, this gazpacho dish is perfect for a date night. With its vibrant flavors and low-calorie count, it's a great option for a weeknight meal.",
+  "cuisine": "spanish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Combine chicken, 1 cup of water, 2 cloves of minced garlic, and 1 tablespoon of olive oil in a blender. Blend until smooth. ",
+    "Strain the mixture through a fine-mesh sieve into a large bowl. ",
+    "Add 2 cups of diced tomatoes, 1 cup of diced red bell pepper, 1 cup of diced cucumber, 1/4 cup of chopped fresh parsley, and 1/4 cup of chopped fresh cilantro to the bowl. ",
+    "Stir in 2 tablespoons of sherry vinegar and 1 teaspoon of smoked paprika. ",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld. ",
+    "Just before serving, stir in 1/4 cup of crumbled Manchego cheese. ",
+    "Taste and adjust the seasoning as needed. ",
+    "Ladle the gazpacho into bowls and serve immediately.",
+    "Garnish with additional parsley and cilantro, if desired. ",
+    "Serve with crusty bread or crackers on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "floral",
+    "gazpacho",
+    "low-calorie",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "hearty-cold-spanish-chicken-gazpacho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-cold-spanish-chicken-gazpacho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "chicken",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Cold",
+    "dishForm": "Gazpacho"
+  }
+}

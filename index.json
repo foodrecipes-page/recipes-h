@@ -1087,6 +1087,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-cold-spanish-chicken-gazpacho",
+    "title": "Hearty Cold Spanish Chicken Gazpacho",
+    "tags": [
+      "cheese-pull",
+      "date-night",
+      "floral",
+      "gazpacho",
+      "low-calorie",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-comforting-uruguayan-custard-custard",
     "title": "Uruguayan Manjar Custard",
     "tags": [
@@ -3139,6 +3155,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-sour-norwegian-rhubarb-bake",
+    "title": "Hearty Sour Norwegian Rhubarb Bake",
+    "tags": [
+      "lazy-sunday",
+      "norwegian",
+      "one-pan",
+      "sour",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -5884,6 +5914,22 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-ukrainian-butter-bake",
+    "title": "Honeyed Ukrainian Butter Bake",
+    "tags": [
+      "baked-good",
+      "breakfast",
+      "brunch",
+      "cake",
+      "easy-weekend",
+      "honey-sweet",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {

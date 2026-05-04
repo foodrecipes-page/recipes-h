@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Sour Norwegian Rhubarb Bake",
+  "description": "This recipe combines the tartness of rhubarb with the sweetness of dark rum and a hint of Norway's culinary heritage. Perfect for a lazy Sunday morning or afternoon.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality dark rum"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 orange"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rhubarb, brown sugar, and grated ginger. Let it sit for about 15 minutes, until the rhubarb starts to release its juices.",
+    "In a separate bowl, whisk together the flour, baking powder, baking soda, and salt.",
+    "Add the melted butter to the dry ingredients and mix until crumbly.",
+    "Add the dark rum to the rhubarb mixture and stir to combine.",
+    "Add the dry ingredients to the rhubarb mixture and stir until just combined.",
+    "Pour the batter into a 9x13 inch baking dish and smooth the top.",
+    "Bake in a preheated oven at 375°F (190°C) for 35-40 minutes, or until the top is golden brown and a toothpick inserted into the center comes out clean.",
+    "Let the bake cool for 10-15 minutes before serving.",
+    "Serve warm with a dollop of coconut whipped cream or a scoop of vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "lazy-sunday",
+    "norwegian",
+    "one-pan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-sour-norwegian-rhubarb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sour-norwegian-rhubarb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "dark rum",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Hearty Sour",
+    "dishForm": "Bake"
+  }
+}

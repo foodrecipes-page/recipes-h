@@ -1,0 +1,118 @@
+{
+  "title": "Honeyed Ukrainian Butter Bake",
+  "description": "A unique twist on traditional Ukrainian dishes, this recipe combines crispy buttery layers with a touch of honey for a sweet and savory brunch treat.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "",
+      "notes": "use unbleached, unbromated flour for best results"
+    },
+    {
+      "name": "1 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup cold unsalted butter, cut into small pieces",
+      "amount": "",
+      "notes": "keep butter chilled throughout recipe"
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "",
+      "notes": "use pure Grade A honey for best flavor"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": "use room temperature eggs for best results"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground nutmeg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "chilled heavy cream is essential for best whipped topping results"
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350\u000238F (175\u000238C).",
+    "Using a stand mixer with a paddle attachment, cream butter and sugar until light and fluffy, about 2 minutes.",
+    "Add eggs one at a time, beating well after each addition.",
+    "Beat in vanilla extract, cinnamon, nutmeg, and salt.",
+    "With mixer on low speed, gradually add flour, mixing until just combined.",
+    "Pour batter into a greased 9x13-inch baking dish.",
+    "Place baking dish in a larger pan or roasting pan and add hot water to come halfway up the sides of the baking dish.",
+    "Bake for 30-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from oven and let cool for 5 minutes.",
+    "While cake is cooling, whip heavy cream in a separate bowl until stiff peaks form.",
+    "Spread whipped cream over the top of the cake, then drizzle with melted butter and honey.",
+    "Serve warm, garnished with additional honey and chopped nuts if desired.",
+    "Slice into 12-16 servings.",
+    "Note: baking time may vary depending on oven type and temperature, so keep an eye on the cake and adjust baking time as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "baked-good",
+    "breakfast",
+    "brunch",
+    "cake",
+    "easy-weekend",
+    "honey-sweet",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "honeyed-ukrainian-butter-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-ukrainian-butter-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "bain-marie",
+    "primaryIngredient": "cajun",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "butter",
+    "descriptor": "honeyed",
+    "dishForm": "Bake"
+  }
+}
