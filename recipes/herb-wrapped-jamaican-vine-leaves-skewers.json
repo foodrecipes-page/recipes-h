@@ -1,0 +1,105 @@
+{
+  "title": "Herb Wrapped Jamaican Vine Leaves Skewers",
+  "description": "A fresh and creamy solo dinner dish featuring vine leaves with a char-grill flavor, made with ayurvedic sattvic friendly ingredients. This dish is perfect for a quiet evening meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "12 leaves",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1 pepper",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a blender, combine coconut cream, scotch bonnet pepper, curry powder, thyme, garlic, lemon juice, salt, and black pepper, and blend until smooth.",
+    "Add the blended mixture to a bowl and stir in olive oil.",
+    "Lay a vine leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1 tablespoon of the coconut cream mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining leaves and filling.",
+    "Thread the filled vine leaves onto skewers, leaving a little space between each leaf.",
+    "Brush the grill with oil to prevent sticking, then grill the skewers for 2-3 minutes per side, or until the leaves are slightly charred.",
+    "Serve the herb wrapped Jamaican vine leaves skewers hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pan",
+    "vegetarian-dishes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "herb-wrapped-jamaican-vine-leaves-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-wrapped-jamaican-vine-leaves-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:21:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "vine leaves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vine leaves",
+    "descriptor": "herb wrapped",
+    "dishForm": "Skewers"
+  }
+}
