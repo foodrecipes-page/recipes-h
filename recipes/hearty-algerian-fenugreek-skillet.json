@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Algerian Fenugreek Skillet",
+  "description": "A rich and energizing Algerian dish featuring fenugreek, perfect for a low-carb diet, cooked to perfection in a cast-iron skillet. This recipe is a hearty and flavorful option for a weeknight dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the fenugreek leaves, salt, black pepper, and paprika, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Remove the lid and continue to simmer for an additional 5 minutes, stirring occasionally.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-algerian-fenugreek-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-algerian-fenugreek-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:36:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "fenugreek",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "hearty low carb",
+    "dishForm": "Skillet"
+  }
+}
