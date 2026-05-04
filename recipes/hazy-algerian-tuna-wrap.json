@@ -1,0 +1,97 @@
+{
+  "title": "Hazy Algerian Tuna Wrap",
+  "description": "A quick, sour and aerated Algerian wrap featuring sashimi cut tuna, crisp cucumber, and a low-sodium harissa yogurt sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium-friendly",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat pita bread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "fresh tuna sashimi",
+      "amount": "160 g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "120 g"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "60 g"
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "6 leaves"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wash and slice cucumber thinly.",
+    "Prepare low-sodium harissa yogurt sauce by mixing plain yogurt, crushed garlic, lemon juice, and a pinch of harissa paste.",
+    "Lay a whole wheat pita flat on a plate.",
+    "Spread a thin layer of the harissa yogurt sauce over the pita.",
+    "Place sliced cucumber across the pita.",
+    "Arrange 80 g of sashimi-cut tuna over the cucumber.",
+    "Sprinkle sliced fresh mint and a few lemon zest curls for aroma.",
+    "Fold the pita in half and roll tightly to form a wrap.",
+    "Warm the wrap in a skillet for 30 seconds on each side to toast lightly.",
+    "Slice the wrap diagonally and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "low-sodium-friendly",
+    "quick-meal",
+    "seafood",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 27,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "hazy-algerian-tuna-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-algerian-tuna-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:54:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "pita bread",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "tuna",
+    "descriptor": "Hazy",
+    "dishForm": "Wrap"
+  }
+}

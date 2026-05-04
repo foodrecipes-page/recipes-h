@@ -367,6 +367,20 @@
     "shard": "h"
   },
   {
+    "slug": "hazy-algerian-tuna-wrap",
+    "title": "Hazy Algerian Tuna Wrap",
+    "tags": [
+      "algerian",
+      "low-sodium-friendly",
+      "quick-meal",
+      "seafood",
+      "wrap"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
     "slug": "hazy-malaysian-padron-peppers-stew",
     "title": "Hazy Malaysian Padron Peppers Stew",
     "tags": [
