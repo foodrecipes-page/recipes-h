@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Slovakian Potato Pie",
+  "description": "A cozy, citrusy potato pie with chewy texture, made from charlotte potatoes and a fragrant lemon‑coriander sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "halal-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 cups diced"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking pan with parchment paper.",
+    "Boil diced potatoes in salted water until just tender, about 10 minutes, then drain and let cool.",
+    "In a large bowl, combine the cooled potatoes, diced carrot, grated cheese and mix until evenly distributed.",
+    "Melt vegan butter with olive oil in a skillet, then stir in lemon zest, lemon juice, ground coriander, ground cumin, salt and pepper until fragrant, about 1 minute.",
+    "Pour the citrusy sauce over the potato mixture and stir until everything is well coated.",
+    "Beat the eggs in a separate bowl and whisk them into the potato‑citrus mixture until fully incorporated.",
+    "Transfer the mixture into the prepared pan and smooth the top with a spatula.",
+    "Bake for 35–40 minutes, or until the top is golden and the center is set.",
+    "Let the pie cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "citrus",
+    "comfort-food",
+    "halal-friendly",
+    "potato",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 1550,
+    "protein": 45,
+    "carbs": 130,
+    "fat": 92
+  },
+  "slug": "hearty-slovakian-potato-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-potato-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:16:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potato",
+    "descriptor": "Hearty",
+    "dishForm": "Pie"
+  }
+}

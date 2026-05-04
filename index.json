@@ -1994,6 +1994,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-slovakian-potato-pie",
+    "title": "Hearty Slovakian Potato Pie",
+    "tags": [
+      "chewy",
+      "citrus",
+      "comfort-food",
+      "halal-friendly",
+      "potato",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-slovakian-tofu-stew",
     "title": "Hearty Slovakian Tofu Stew",
     "tags": [
