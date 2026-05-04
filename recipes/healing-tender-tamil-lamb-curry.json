@@ -1,0 +1,112 @@
+{
+  "title": "Healing Tender Tamil Lamb Curry",
+  "description": "A briny, tender rogan josh style curry with lamb shanks, shio-cured and slow-cooked to a post-workout delight, featuring coconut and yogurt for creamy richness.",
+  "cuisine": "Indian",
+  "diet": [
+    "high-protein",
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "1 kg"
+    },
+    {
+      "name": "salt, for shio cure",
+      "amount": "10 g",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5 g"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "30 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "30 g"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "5 g"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "10 g"
+    },
+    {
+      "name": "garam masala",
+      "amount": "5 g"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "240 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "15 g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Pat dry lamb shanks and rub with 10 g salt, 5 g pepper, and a pinch of cumin seeds, then let cure at room temperature for 30 minutes.",
+    "Heat a tablespoon of oil in the Lazy Susan Spinner and brown the lamb shanks on all sides, then remove and set aside.",
+    "Add minced ginger and garlic to the pot and sauté until fragrant, about 2 minutes.",
+    "Stir in 10 g coriander powder, 5 g garam masala, and a splash of coconut milk, cooking for 1 minute.",
+    "Pour in 240 ml tomato puree, then return the lamb shanks to the pot, coating them in the sauce.",
+    "Add 200 ml coconut milk, cover the Lazy Susan Spinner, and set the heat to low for 90 minutes, rotating the pot every 15 minutes.",
+    "After 90 minutes, stir in 100 g plain yogurt, simmer for another 15 minutes until the sauce thickens.",
+    "Remove the lid, sprinkle with fresh coriander leaves, and adjust seasoning with salt if needed.",
+    "Transfer the curry to a serving dish and drizzle a little lemon juice for brightness.",
+    "Serve hot with steamed rice or warm naan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "lazy-susan",
+    "post-workout",
+    "rogan-josh",
+    "slow-cook",
+    "tamil"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "healing-tender-tamil-lamb-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-tender-tamil-lamb-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:10:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "lamb shanks",
+    "diet": "lacto-vegetarian",
+    "region": "tamil",
+    "cuisineAdjective": "Tamil",
+    "mainIngredient": "lamb",
+    "descriptor": "Healing Tender",
+    "dishForm": "Curry"
+  }
+}
