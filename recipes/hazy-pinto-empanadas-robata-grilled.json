@@ -1,0 +1,106 @@
+{
+  "title": "Hazy Pinto Empanadas Robata-Grilled",
+  "description": "A malty, molten, cozy argentinian dish featuring pinto beans, a sweet glaze, and a hint of spice.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "to thicken glaze"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "to add depth"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "to taste",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Preheat your robata grill to 400°F (200°C).",
+    "Roll out the empanada dough to a thickness of 1/4 inch (6 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together the pinto beans, chipotle peppers, smoked paprika, and a pinch of salt and pepper.",
+    "Spoon a tablespoon of the bean mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with water and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the empanadas to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer the empanadas to the preheated robata grill and cook for an additional 2-3 minutes, until crispy and caramelized.",
+    "In a small saucepan, combine the maple syrup and cornstarch. Cook over medium heat, whisking constantly, until the glaze thickens.",
+    "Brush the glaze over the empanadas and sprinkle with flaky sea salt to taste.",
+    "Serve the Hazy Pinto Empanadas Robata-Grilled hot, with additional glaze on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "bean-dish",
+    "comfort-food",
+    "gluten-free",
+    "hazey",
+    "one-pan",
+    "roasta-grilled",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hazy-pinto-empanadas-robata-grilled",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-pinto-empanadas-robata-grilled",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "pinto beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beans",
+    "descriptor": null,
+    "dishForm": "Grill"
+  }
+}

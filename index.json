@@ -426,6 +426,23 @@
     "shard": "h"
   },
   {
+    "slug": "hazy-pinto-empanadas-robata-grilled",
+    "title": "Hazy Pinto Empanadas Robata-Grilled",
+    "tags": [
+      "argentinian",
+      "bean-dish",
+      "comfort-food",
+      "gluten-free",
+      "hazey",
+      "one-pan",
+      "roasta-grilled",
+      "vegan"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hazy-smoky-ukrainian-tomato-crumble",
     "title": "Hazy Smoky Ukrainian Tomato Crumble",
     "tags": [
@@ -1344,6 +1361,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-fermented-australian-bush-herbs-bowl",
+    "title": "Hearty Fermented Australian Bush Herbs Bowl",
+    "tags": [
+      "australian",
+      "fermented",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
