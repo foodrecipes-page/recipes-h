@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Light German King Prawns Skewers",
+  "description": "A light and adventurous German dish featuring king prawns, this recipe is perfect for those looking for a sugar-free and flavorful meal. The briny taste of the prawns pairs well with the bold flavors of the German-inspired seasonings.",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a mortar, pound the garlic and onion until well combined.",
+    "Add the caraway seeds, paprika, salt, and black pepper to the mortar and pound until the mixture is well combined.",
+    "Thread the king prawns onto skewers.",
+    "Brush the prawns with olive oil and lemon juice.",
+    "Sprinkle the prawn skewers with the garlic and spice mixture.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with lemon wedges.",
+    "Let the skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "hearty-light-german-king-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-light-german-king-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:55:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "king prawns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "king prawns",
+    "descriptor": "hearty light",
+    "dishForm": "Skewers"
+  }
+}
