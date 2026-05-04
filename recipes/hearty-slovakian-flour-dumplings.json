@@ -1,0 +1,86 @@
+{
+  "title": "Hearty Slovakian Flour Dumplings",
+  "description": "A traditional Slovakian dish made with yeast and all purpose flour, these dumplings are paleo-friendly and perfect for a solo dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Gradually add the water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a steamer basket over boiling water.",
+    "Divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "Place the dumplings in the steamer basket, leaving some space between each dumpling.",
+    "Cover the steamer and cook for 15 minutes.",
+    "Remove the dumplings from the steamer and serve hot with melted butter.",
+    "Serve the dumplings as a solo dinner and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "paleo-friendly",
+    "slovakian-cuisine",
+    "steamed-dishes",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-slovakian-flour-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-flour-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:37:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "all purpose flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "flour",
+    "descriptor": "hearty",
+    "dishForm": "Dumplings"
+  }
+}
