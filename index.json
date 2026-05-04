@@ -944,6 +944,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-chinese-nuka-pickle-ma-la-tang",
+    "title": "Hearty Chinese Nuka-Pickle Ma-La-Tang",
+    "tags": [
+      "high-protein",
+      "ma-la-tang",
+      "nuka-pickle",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-comforting-uruguayan-custard-custard",
     "title": "Uruguayan Manjar Custard",
     "tags": [

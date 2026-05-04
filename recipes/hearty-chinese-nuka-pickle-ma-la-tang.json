@@ -1,0 +1,113 @@
+{
+  "title": "Hearty Chinese Nuka-Pickle Ma-La-Tang",
+  "description": "A savory, nutty, and energizing ma-la-tang dish made with almond milk, nuka-pickle, and a variety of vegetables. Perfect for a quick weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gai lan",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "8",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large cazuela over medium-high heat.",
+    "Add sliced ginger and cook for 1 minute, until fragrant.",
+    "Add chopped garlic and cook for another minute, until softened.",
+    "Add sliced shiitake mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add chopped gai lan and cook until wilted, about 2-3 minutes.",
+    "Add nuka-pickle, almond milk, soy sauce, and sugar to the cazuela. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, until slightly thickened.",
+    "Season with black pepper to taste.",
+    "Garnish with chopped green onions and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "ma-la-tang",
+    "nuka-pickle",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-chinese-nuka-pickle-ma-la-tang",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chinese-nuka-pickle-ma-la-tang",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "almond milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Almond milk",
+    "descriptor": "Hearty Nuka-Pickle",
+    "dishForm": "Ma-La-Tang"
+  }
+}
