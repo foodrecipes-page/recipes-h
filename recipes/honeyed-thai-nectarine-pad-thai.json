@@ -1,0 +1,108 @@
+{
+  "title": "Honeyed Thai Nectarine Pad Thai",
+  "description": "A sweet and savory pad thai with juicy nectarines, tangy lime, and a honey glaze, cooked on a raclette grill for a melt-in-your-mouth texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "nectarine",
+      "amount": "2 medium",
+      "notes": "sliced into wedges"
+    },
+    {
+      "name": "tofu",
+      "amount": "100g",
+      "notes": "firm, dry press before adding"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "natural honey"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": "toasted lightly"
+    }
+  ],
+  "instructions": [
+    "Soak rice noodles in warm water for 15 minutes, then drain.",
+    "Heat coconut oil in a skillet over medium heat, add tofu cubes, and sauté until golden, about 5 minutes.",
+    "In a small bowl, whisk tamarind paste, apple cider vinegar, honey, ground ginger, and minced garlic to create a sauce.",
+    "Add the sauce to the skillet with tofu, stir to coat, and cook for 2 minutes.",
+    "Spread the soaked noodles onto the heated raclette grill plate and toast until slightly crisp, about 2 minutes.",
+    "Scatter the nectarine wedges and sautéed tofu over the noodles, then pour the remaining sauce evenly.",
+    "Grill everything together on the raclette grill, flipping once, until the nectarines soften and the sauce thickens, about 3 minutes.",
+    "Garnish with sliced green onions and toasted crushed peanuts before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "pad-thai",
+    "quick",
+    "raclette-grill",
+    "savory-sweet"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "honeyed-thai-nectarine-pad-thai",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-thai-nectarine-pad-thai",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:57:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "nectarines",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "nectarine",
+    "descriptor": "Honeyed",
+    "dishForm": "Pad Thai"
+  }
+}
