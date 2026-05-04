@@ -1,0 +1,129 @@
+{
+  "title": "Herbaceous German Napa Cabbage Wrap",
+  "description": "Tangy and springy, this indulgent wrap blends crisp napa cabbage with a herbaceous quinoa filling, perfect for a light yet satisfying lunch.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "anti-inflammatory"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head",
+      "notes": "separated into individual leaves"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup",
+      "notes": "pre-cooked, cooled"
+    },
+    {
+      "name": "roasted carrot and parsnip",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional for sweetness"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash the napa cabbage and carefully separate the leaves, discarding the core.",
+    "Blanch the leaves in a pot of salted boiling water for 30 seconds, then transfer them to ice water to stop cooking.",
+    "Drain and pat the leaves dry with a towel.",
+    "In a large bowl, combine cooked quinoa, roasted carrot and parsnip, dill, parsley, garlic, lemon juice, olive oil, apple cider vinegar, honey, chives, walnuts, salt, and pepper.",
+    "Taste the mixture and adjust seasoning if needed.",
+    "Place a spoonful of the filling onto the center of each cabbage leaf.",
+    "Fold the sides of the leaf over the filling and roll tightly to secure.",
+    "Serve the wraps at room temperature, optionally drizzled with a light yogurt or tahini sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "quick",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "herbaceous-german-napa-cabbage-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-german-napa-cabbage-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:47:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "napa cabbage",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Herbaceous",
+    "dishForm": "Wrap"
+  }
+}
