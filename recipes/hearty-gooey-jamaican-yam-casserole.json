@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Gooey Jamaican Yam Casserole",
+  "description": "A festive Jamaican dish featuring pecorino-romano and tadka, this casserole is a low-calorie-friendly twist on traditional cuisine. It combines the natural sweetness of yams with the savory flavors of Jamaican spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pecorino-romano cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the coconut oil over medium heat and saute the onion and garlic until softened.",
+    "Add the tadka spice blend, scotch bonnet peppers, salt, and black pepper to the skillet and stir for 1 minute.",
+    "Add the diced yams to the skillet and stir to combine with the spice mixture.",
+    "Transfer the yam mixture to a 9x13 inch baking dish and top with crumbly pecorino-romano cheese.",
+    "Bake the casserole in the preheated oven for 45 minutes, or until the yams are tender and the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-casserole",
+    "festive-dish",
+    "jamaican-cuisine",
+    "low-calorie",
+    "vegetarian-friendly",
+    "yam-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hearty-gooey-jamaican-yam-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-gooey-jamaican-yam-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:33:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yams",
+    "descriptor": "Hearty Gooey",
+    "dishForm": "Casserole"
+  }
+}
