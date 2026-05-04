@@ -1,0 +1,133 @@
+{
+  "title": "Herbaceous Arabian Lamb Wrap",
+  "description": "A rich, aerated shawarma-style wrap with marinated lamb, green cardamom, and keto double-rise flatbread, finished with a creamy tahini drizzle.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, sliced",
+      "amount": "250g",
+      "notes": "lean cut"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "100g",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Green cardamom pods, crushed",
+      "amount": "5 pods"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Keto double-rise flatbread sheets",
+      "amount": "2 sheets",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Romaine lettuce leaves",
+      "amount": "4"
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine lamb slices with yogurt, crushed cardamom pods, cumin, coriander, paprika, salt, pepper, and olive oil; mix until coated.",
+    "Cover and marinate in the refrigerator for at least 30 minutes.",
+    "Heat a skillet over medium-high heat and cook lamb for 5-7 minutes until browned and cooked through.",
+    "While lamb cooks, warm the keto double-rise flatbread sheets in a dry pan for 1 minute each side.",
+    "Prepare the tahini sauce by whisking tahini, lemon juice, minced garlic, and enough water to reach a pourable consistency.",
+    "To assemble, lay a flatbread sheet, spread a layer of tahini sauce, add lettuce, cucumber, tomato, and cooked lamb.",
+    "Sprinkle chopped parsley over the filling and roll the wrap tightly.",
+    "Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "middle-eastern",
+    "quick",
+    "shawarma",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "herbaceous-arabian-lamb-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-arabian-lamb-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:04:01Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Herbaceous",
+    "dishForm": "Wrap"
+  }
+}
