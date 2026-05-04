@@ -1,0 +1,123 @@
+{
+  "title": "High-protein-friendly Heavy Steamed Malaysian Lettuce Wrap",
+  "description": "Savor the fluffiness of pillowy steamed Malaysian-style rice cakes wrapped around baby lettuce leaves in a savory broth, all made possible in a tandoor clay pot.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malaysian rice cakes",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Baby lettuce leaves",
+      "amount": "1 head",
+      "notes": " Choose fresh baby lettuce for crunch and flavor."
+    },
+    {
+      "name": "Salted egg mix (or plain egg yolk)",
+      "amount": "4",
+      "notes": "Add protein and creaminess to the dish."
+    },
+    {
+      "name": "Steamed chicken breast",
+      "amount": "6 oz",
+      "notes": "Thinly sliced for easy wrapping."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups",
+      "notes": "Dilute for a thick, savory sauce."
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tbsp",
+      "notes": "Add a rich and nutty flavor."
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tbsp",
+      "notes": "Ginger is a staple in Malaysian cuisine."
+    },
+    {
+      "name": "Galangal paste",
+      "amount": "1 tsp",
+      "notes": "Similar to ginger but with a deeper flavor."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Balances the savory flavors."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "Savory and aromatic."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "Umami flavor enhancer."
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, ginger paste, galangal paste, lime juice, salt, and black pepper in a bowl. Whisk until smooth and set aside.",
+    "Heat peanut oil in a tandoor clay pot over medium heat.",
+    "Add steamed chicken breast and cook until lightly browned, about 3-4 minutes.",
+    "Add Malaysian rice cakes and cook until lightly toasted, about 2-3 minutes on each side.",
+    "Add the coconut milk mixture and bring to a simmer.",
+    "Add fish sauce to taste and stir to combine.",
+    "Add salted egg mix and stir until well combined.",
+    "Arrange baby lettuce leaves in a serving area.",
+    "Spoon the steamed chicken and Malaysian rice cake mixture onto the leaves, wrapping each leaf to create a lettuce wrap.",
+    "Serve immediately and enjoy!",
+    "Let the dish rest for 5 minutes before serving for the flavors to meld together.",
+    "Prepare the ingredients ahead of time to make the wrapping process smoother."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "high-protein-friendly-heavy-steamed-malaysian-lettuce-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/high-protein-friendly-heavy-steamed-malaysian-lettuce-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "High-protein-friendly Heavy Steamed",
+    "dishForm": "Wrap"
+  }
+}

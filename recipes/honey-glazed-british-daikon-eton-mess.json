@@ -1,0 +1,117 @@
+{
+  "title": "Honey-Glazed British Daikon Eton-Mess",
+  "description": "A refreshing, energizing side dish made with daikon, honey, and lemon, perfect for a British-inspired meal.",
+  "cuisine": "British",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Daikon Radish",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "Cold Water",
+      "amount": "1/4 cup",
+      "notes": "for pastry dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Make pastry dough by combining flour, eggs, and water in a bowl, mixing until a cohesive mass forms. ",
+    "Wrap daikon in the pastry dough, leaving a small opening at the top. ",
+    "In a separate bowl, mix honey, lemon juice, thyme, salt, and pepper to create the glaze. ",
+    "Place the daikon in a baking dish and brush the honey glaze on top. ",
+    "Bake for 25 minutes, then remove the daikon from the oven and brush with additional glaze. ",
+    "Return the daikon to the oven and bake for an additional 10-15 minutes, or until the pastry is golden brown.",
+    "Let the daikon cool for a few minutes before serving.",
+    "Remove the pastry from the daikon and discard the pastry. ",
+    "Serve the warm daikon with the remaining honey glaze spooned over the top.",
+    "Garnish with fresh thyme if desired.",
+    "Slice the daikon into wedges and serve immediately.",
+    "Serve as a side dish or add to salads for a bit of crunch and flavor."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "daikon",
+    "easy-to-make",
+    "eton-mess",
+    "fall",
+    "glazed",
+    "side-dish",
+    "spring",
+    "summer",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "honey-glazed-british-daikon-eton-mess",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-british-daikon-eton-mess",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "daikon",
+    "diet": "macrobiotic",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Daikon",
+    "descriptor": "Honey-Glazed",
+    "dishForm": "Eton-Mess"
+  }
+}

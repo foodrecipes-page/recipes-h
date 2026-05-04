@@ -1,0 +1,105 @@
+{
+  "title": "Herbal Gooey Peruvian Black Pudding Wrap",
+  "description": "A kid-friendly Peruvian dish featuring black pudding, served in a crispy ssam-wrap with an ayurvedic-tamasic-friendly twist. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian black pudding",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-wrap",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ayurvedic turmeric paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a medium non-stick pan over medium heat.",
+    "Add the chopped onion and cook for 3 minutes until softened.",
+    "Add the chopped fresh mint and cook for 1 minute until wilted.",
+    "Add the crushed garlic and cook for 1 minute until fragrant.",
+    "Add the Peruvian black pudding and cook for 2 minutes breaking it up with a spoon.",
+    "Add the ayurvedic turmeric paste and Peruvian aji amarillo pepper sauce. Cook for 1 minute stirring constantly.",
+    "Warm the ssam-wraps according to the package instructions.",
+    "Assemble the wraps by spooning the black pudding mixture onto the center of each wrap.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Serve immediately and enjoy!",
+    "Cut the wraps in half if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic",
+    "black-pudding",
+    "high-protein",
+    "peruvian",
+    "ssam-wraps",
+    "tamasic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "herbal-gooey-peruvian-black-pudding-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-gooey-peruvian-black-pudding-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "black pudding",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "black pudding",
+    "descriptor": "herbal gooey",
+    "dishForm": "Wrap"
+  }
+}

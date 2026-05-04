@@ -4800,6 +4800,22 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-gooey-peruvian-black-pudding-wrap",
+    "title": "Herbal Gooey Peruvian Black Pudding Wrap",
+    "tags": [
+      "ayurvedic",
+      "black-pudding",
+      "high-protein",
+      "peruvian",
+      "ssam-wraps",
+      "tamasic-friendly",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 18,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-greek-veal-stir-fry",
     "title": "Herbal Greek Veal Stir-fry",
     "tags": [
@@ -5475,6 +5491,21 @@
     "shard": "h"
   },
   {
+    "slug": "high-protein-friendly-heavy-steamed-malaysian-lettuce-wrap",
+    "title": "High-protein-friendly Heavy Steamed Malaysian Lettuce Wrap",
+    "tags": [
+      "easy-to-make",
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hip-american-cornmeal-fritters",
     "title": "Hip American Cornmeal Fritters",
     "tags": [
@@ -5607,6 +5638,25 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "honey-glazed-british-daikon-eton-mess",
+    "title": "Honey-Glazed British Daikon Eton-Mess",
+    "tags": [
+      "british",
+      "daikon",
+      "easy-to-make",
+      "eton-mess",
+      "fall",
+      "glazed",
+      "side-dish",
+      "spring",
+      "summer",
+      "winter"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
