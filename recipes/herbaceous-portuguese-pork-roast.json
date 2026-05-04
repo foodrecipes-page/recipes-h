@@ -1,0 +1,104 @@
+{
+  "title": "Herbaceous Portuguese Pork Roast",
+  "description": "A silky, earthy pork roast infused with hoisin, shio‑koji cure, and Portuguese herbs, perfect for a date night.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin roast",
+      "amount": "2 lb",
+      "notes": "trim excess fat"
+    },
+    {
+      "name": "shio‑koji",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Pat the pork roast dry with paper towels.",
+    "In a small bowl, combine shio‑koji, hoisin sauce, olive oil, minced garlic, rosemary, thyme, paprika, and pepper.",
+    "Rub the seasoning mixture all over the pork roast, pressing into the surface.",
+    "Heat a heavy skillet over medium‑high heat and sear the roast on all sides until browned, about 3 minutes per side.",
+    "Place the seared roast into a roasting pan, add the bay leaf and pour chicken broth around the meat.",
+    "Roast in the preheated oven for 90 minutes, or until the internal temperature reaches 145°F.",
+    "Remove the roast from the oven and tent loosely with aluminum foil, letting it rest for 10 minutes.",
+    "Slice the roast thinly against the grain.",
+    "Serve the slices with a drizzle of the pan juices and optional fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "herbaceous-portuguese-pork-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-portuguese-pork-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:10:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "Herbaceous",
+    "dishForm": "Roast"
+  }
+}
