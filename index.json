@@ -974,6 +974,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-grilled-turkish-kabocha-kebabs",
+    "title": "Hearty Grilled Turkish Kabocha Kebabs",
+    "tags": [
+      "gluten-free",
+      "grilled",
+      "one-pan",
+      "turkish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-halal-egyptian-lamb-flatbread",
     "title": "Hearty Halal Egyptian Lamb Flatbread",
     "tags": [
@@ -1046,6 +1061,21 @@
       "turkish-inspired"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-hungover-tunisian-goose-tagine",
+    "title": "Hearty Hungover Tunisian Goose Tagine",
+    "tags": [
+      "hangover-cure",
+      "light-meals",
+      "nut-free",
+      "one-pot",
+      "sour-dishes",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
     "totalTimeMin": 35,
     "shard": "h"
   },

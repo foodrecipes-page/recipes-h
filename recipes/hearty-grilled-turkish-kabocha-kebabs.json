@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Grilled Turkish Kabocha Kebabs",
+  "description": "A comforting Turkish dish featuring kabocha, perfect for the grill, and gluten-free-friendly",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 kabocha squash (about 2 lbs)",
+      "amount": "1",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing kabocha"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "for flavor"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": "for added spice"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional for a smoky flavor"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "8 wooden skewers, soaked in water",
+      "amount": "8",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat",
+    "In a large bowl, combine kabocha, olive oil, garlic, cumin, smoked paprika (if using), salt, and pepper; mix well",
+    "Thread kabocha mixture onto skewers, leaving a little space between each piece",
+    "Grill kabocha kebabs for 20-25 minutes, turning occasionally, until tender and lightly charred",
+    "Serve hot, garnished with fresh parsley or cilantro (optional)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "one-pan",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "hearty-grilled-turkish-kabocha-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grilled-turkish-kabocha-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:02:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "kabocha",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "kabocha",
+    "descriptor": "Hearty Grilled",
+    "dishForm": "Kebabs"
+  }
+}

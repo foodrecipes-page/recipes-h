@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Hungover Tunisian Goose Tagine",
+  "description": "A sour and light Tunisian dish featuring goose fat and nuka-pickle to help cure hangovers, this recipe is nut-free-friendly and perfect for a morning pick-me-up. It combines the richness of goose with the tanginess of pickled vegetables.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered and cooled"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the goose fat in a large skillet over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the chopped nuka-pickle, lemon juice, olive oil, salt, and black pepper.",
+    "Reduce heat to low and simmer the tagine for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with additional lemon wedges if desired.",
+    "Let the tagine cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "light-meals",
+    "nut-free",
+    "one-pot",
+    "sour-dishes",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-hungover-tunisian-goose-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-hungover-tunisian-goose-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:02:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "goose fat",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "goose",
+    "descriptor": "hearty hungover",
+    "dishForm": "Tagine"
+  }
+}
