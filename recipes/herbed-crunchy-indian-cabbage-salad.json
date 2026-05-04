@@ -1,0 +1,107 @@
+{
+  "title": "Herbed Crunchy Indian Cabbage Salad",
+  "description": "A sour, crunchy Mangalorean salad featuring shredded white cabbage, toasted cumin and coriander, fresh mint, cilantro and a bright lemon mustard oil dressing.",
+  "cuisine": "Mangalorean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "500g"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and shred 500g of white cabbage into fine ribbons.",
+    "Toast 1/2 tsp cumin seeds and 1 tsp coriander seeds in a dry pan until fragrant, then transfer to a bowl.",
+    "Add 1 tbsp chopped fresh mint, 1 tbsp chopped cilantro, 1 tsp red chili powder, 1/2 tsp turmeric, 1 tsp sugar, 1 tsp salt and 1/2 tsp pepper to the toasted seeds and mix.",
+    "Pour 1 tbsp mustard oil over the spice mix and stir until the oil is fully incorporated.",
+    "Add the shredded cabbage to a large bowl and pour the prepared spice‑oil mixture over it.",
+    "Drizzle 2 tbsp lemon juice across the salad and toss thoroughly to coat evenly.",
+    "Let the salad rest for 10 minutes to allow flavors to meld.",
+    "Serve chilled or at room temperature, optionally garnished with extra mint or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fodmap-friendly",
+    "mangalorean",
+    "quick",
+    "salad",
+    "sour",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 7,
+    "carbs": 46,
+    "fat": 14
+  },
+  "slug": "herbed-crunchy-indian-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-crunchy-indian-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:43:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "score-fat",
+    "primaryIngredient": "white cabbage",
+    "diet": "fodmap",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Herbed Crunchy",
+    "dishForm": "Salad"
+  }
+}
