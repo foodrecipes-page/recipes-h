@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Molten Dutch Semolina Pasta",
+  "description": "A rich and creamy Dutch dish featuring semolina pasta, tempered chocolate, and a blend of fatty ingredients, all while being FODMAP friendly. This recipe is perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "FODMAP friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina rimacinata",
+      "amount": "12 oz",
+      "notes": "high quality, durum wheat semolina"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 oz",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the semolina pasta according to the package instructions until al dente.",
+    "In a medium saucepan, melt the unsalted butter over low heat.",
+    "Add the tempering chocolate to the melted butter and stir until smooth and well combined.",
+    "In a large skillet, combine the heavy cream, grana padano cheese, and a pinch of salt and pepper, and stir over low heat until the cheese is melted and the sauce is smooth.",
+    "In a small bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Temper the eggs by slowly pouring the warm cheese sauce into the eggs, whisking constantly.",
+    "Add the cooked semolina pasta to the cheese sauce and stir until well coated.",
+    "Add the tempered chocolate and butter mixture to the pasta and stir until well combined.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "fodmap-friendly",
+    "high-calorie",
+    "pasta-dish",
+    "rich-and-creamy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 26,
+    "carbs": 64,
+    "fat": 56
+  },
+  "slug": "hearty-molten-dutch-semolina-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-dutch-semolina-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:07:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "semolina",
+    "descriptor": "Hearty Molten",
+    "dishForm": "Pasta"
+  }
+}
