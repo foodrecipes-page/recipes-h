@@ -502,6 +502,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-korean-tofu-guk",
+    "title": "Hearty Korean Tofu Guk",
+    "tags": [
+      "dairy-free",
+      "festive-meals",
+      "korean-cuisine",
+      "lacquerware-bowls",
+      "tofu-recipes",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-mediterranean-chickpeas-tagine",
     "title": "Hearty Mediterranean Chickpeas Tagine",
     "tags": [],

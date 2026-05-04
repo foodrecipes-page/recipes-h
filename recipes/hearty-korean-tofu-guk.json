@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Korean Tofu Guk",
+  "description": "A flavorful and festive Korean dish featuring sake-cooked tofu and yuzu-cured vegetables in a rich guk broth, served in a beautiful lacquerware bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large lacquerware bowl, combine the sake, yuzu juice, and korean chili flakes to make the marinade.",
+    "Add the cubed tofu to the marinade and let it sit for at least 30 minutes to allow the flavors to absorb.",
+    "In a large pot, heat the sesame oil over medium heat and saute the minced garlic and grated ginger until fragrant.",
+    "Add the vegetable broth to the pot and bring to a boil, then reduce the heat to low and let simmer for 10 minutes.",
+    "Remove the tofu from the marinade and add it to the pot, letting it cook for an additional 5 minutes.",
+    "Stir in the chopped green onions and toasted sesame seeds.",
+    "Serve the guk hot in the lacquerware bowl, garnished with additional green onions and sesame seeds if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "festive-meals",
+    "korean-cuisine",
+    "lacquerware-bowls",
+    "tofu-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-korean-tofu-guk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-korean-tofu-guk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:39:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sake-cooking",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Hearty",
+    "dishForm": "Guk"
+  }
+}
