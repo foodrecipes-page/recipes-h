@@ -1,0 +1,98 @@
+{
+  "title": "Herb Crusted Venezuelan Tofu Empanadas",
+  "description": "A briny and crunchy Venezuelan dish featuring rosemary and tofu, perfect for a meal prep snack, cooked to perfection on a salt block.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "1 tablespoon",
+      "notes": "mixed with 3 tablespoons water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the crumbled tofu, chopped rosemary, olive oil, salt, and black pepper.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the tofu mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the vegan egg replacement mixture.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a preheated salt block and cook for 5 minutes on each side.",
+    "Transfer the empanadas to a baking sheet and bake for an additional 10 minutes.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "herb-crusted",
+    "meal-prep",
+    "plant-based",
+    "snack-ideas",
+    "tofu-recipes",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "herb-crusted-venezuelan-tofu-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-crusted-venezuelan-tofu-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:51:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "rosemary",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tofu",
+    "descriptor": "Herb Crusted",
+    "dishForm": "Empanadas"
+  }
+}
