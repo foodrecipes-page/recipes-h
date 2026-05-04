@@ -3878,5 +3878,20 @@
     "cuisine": "Kenyan",
     "totalTimeMin": 17,
     "shard": "h"
+  },
+  {
+    "slug": "hushed-moroccan-carrot-tagine",
+    "title": "Hushed Moroccan Carrot Tagine",
+    "tags": [
+      "date-night",
+      "lacto-vegetarian",
+      "moroccan",
+      "slow-cook",
+      "sour-cream",
+      "vegetable"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]

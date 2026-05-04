@@ -1,0 +1,108 @@
+{
+  "title": "Hushed Moroccan Carrot Tagine",
+  "description": "A fragrant, light Moroccan carrot tagine infused with full-fat sour cream and sweet dried fruit, perfect for a romantic date night.",
+  "cuisine": "moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp grated"
+    },
+    {
+      "name": "dried cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried fruit mix",
+      "amount": "100g chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "200g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add diced onion, minced garlic, and grated ginger, sauté until onion translucent.",
+    "Stir in cumin, coriander, and smoked paprika, cooking for 1 minute until fragrant.",
+    "Add sliced carrots and chopped dried fruit mix, stir to coat with spices.",
+    "Pour in vegetable broth and lemon juice, bring to a gentle simmer.",
+    "Cover and reduce heat to low, cook for 25 minutes until carrots are tender.",
+    "Remove from heat, stir in full fat sour cream until smooth and creamy.",
+    "Season with salt and pepper to taste.",
+    "Let the tagine rest for 5 minutes to allow flavors to meld.",
+    "Serve hot, optionally garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "lacto-vegetarian",
+    "moroccan",
+    "slow-cook",
+    "sour-cream",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "hushed-moroccan-carrot-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hushed-moroccan-carrot-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:02:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Carrot",
+    "descriptor": "Hushed",
+    "dishForm": "Tagine"
+  }
+}
