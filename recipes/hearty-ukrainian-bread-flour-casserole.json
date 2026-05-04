@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Ukrainian Bread Flour Casserole",
+  "description": "A silky, malty casserole that melds bread flour with savory vegetables, finished with a flambé for a touch of drama.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "1 cup",
+      "notes": "for thickening"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup",
+      "notes": "for malty flavor"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potato, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cognac",
+      "amount": "2 tbsp",
+      "notes": "for flambé"
+    }
+  ],
+  "instructions": [
+    "Heat the copper pot over medium heat and add olive oil.",
+    "Sauté onion and garlic until translucent, about 3 minutes.",
+    "Add carrot and potato and cook for another 5 minutes, stirring occasionally.",
+    "Sprinkle bread flour over the vegetables, stir to coat, and cook for 2 minutes to remove raw flour taste.",
+    "Pour in vegetable broth, add bay leaf, salt, pepper, and malt syrup, and bring to a gentle simmer.",
+    "Reduce heat to low, cover, and let the mixture thicken and flavors meld for 25 minutes.",
+    "Remove the pot from heat, pour the casserole onto a heat‑resistant surface, and carefully ignite the cognac over the top for a flambé finish.",
+    "Allow the flames to die out, stir once, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "egg-free-friendly",
+    "hearty",
+    "malt",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-ukrainian-bread-flour-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ukrainian-bread-flour-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:20:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "flambe",
+    "primaryIngredient": "bread flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread flour",
+    "descriptor": "Hearty",
+    "dishForm": "Casserole"
+  }
+}
