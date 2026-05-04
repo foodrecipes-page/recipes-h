@@ -1,0 +1,110 @@
+{
+  "title": "Honeyed Peruvian Tofu Bowl",
+  "description": "A silky, monsoon-inspired bowl of air‑fried tofu, quinoa, and crisp veggies glazed in honey and Peruvian spices, Jain-friendly and vegan.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "sliced into 1.5cm cubes"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup dry",
+      "notes": "rinsed before cooking"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "100g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "snow peas",
+      "amount": "100g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tsp",
+      "notes": "for tang"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "palm oil",
+      "amount": "2 tsp",
+      "notes": "for air‑frying"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture, then pat dry with a towel.",
+    "In a bowl, whisk honey, soy sauce, rice vinegar, and sesame oil to make the glaze.",
+    "Coat tofu cubes with the glaze, reserving a small amount for later.",
+    "Preheat the air fryer to 200°C (392°F) and lightly spray the basket with palm oil.",
+    "Air‑fry the tofu in a single layer for 15 minutes, shaking halfway, until golden and crisp.",
+    "Meanwhile, cook quinoa in 2 cups of water for 15 minutes, then fluff with a fork.",
+    "Steam sweet potato cubes and snow peas for 5 minutes, keeping them crisp.",
+    "Combine cooked quinoa, sweet potato, snow peas, and bell pepper in a bowl; drizzle with remaining glaze and toss gently.",
+    "Top the quinoa mix with the air‑fried tofu, garnish with scallion slivers, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "high-protein",
+    "low-fat",
+    "monsoon",
+    "peruvian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 27,
+    "carbs": 90,
+    "fat": 14
+  },
+  "slug": "honeyed-peruvian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-peruvian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:28:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "honey",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Honeyed",
+    "dishForm": "Bowl"
+  }
+}
