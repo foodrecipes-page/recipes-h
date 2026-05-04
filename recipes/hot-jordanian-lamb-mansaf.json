@@ -1,0 +1,103 @@
+{
+  "title": "Hot Jordanian Lamb Mansaf",
+  "description": "A spicy, pillowy lamb dish infused with yellow curry paste, steam cooked to tenderness and finished with a subtle salt-bake for a golden crust. Low-carb and flavorful, it is served hot from a bamboo steamer for a traditional Middle Eastern experience.",
+  "cuisine": "Jordanian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless, cubed",
+      "amount": "500g"
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Plain yogurt, low-fat",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "300ml"
+    },
+    {
+      "name": "Toasted almonds",
+      "amount": "50g",
+      "notes": "toasted for nutty flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt, to taste",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat and sear the lamb cubes until browned on all sides.",
+    "Transfer the lamb to a mixing bowl and add yellow curry paste, cumin, paprika, dried mint, salt, and yogurt; stir until the lamb is fully coated.",
+    "Cover the bowl and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Arrange the marinated lamb in the bottom of a bamboo steamer, place a layer of toasted almonds on top, and pour 300ml water into the steamer tray.",
+    "Steam the lamb over high heat for 25 minutes until tender.",
+    "Remove the steamer, add lemon juice, stir, and transfer the lamb mixture to a baking dish.",
+    "Bake in the preheated oven at 200°C for 10 minutes to develop a golden crust.",
+    "Serve hot, garnished with fresh coriander leaves, and accompany with a side of low-carb salad."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 35,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "low-carb",
+    "middle-eastern",
+    "oven",
+    "spicy",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 690,
+    "protein": 33,
+    "carbs": 6,
+    "fat": 35
+  },
+  "slug": "hot-jordanian-lamb-mansaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-jordanian-lamb-mansaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:31:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jordanian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hot",
+    "dishForm": "Mansaf"
+  }
+}
