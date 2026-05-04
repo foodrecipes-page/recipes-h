@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Dutch Tempeh Casserole",
+  "description": "This Dutch tempeh casserole is resinous and fluffy, with a rich Thai chili jam glaze. Cooked in a clay pot, it delivers a high-protein, comforting dish for any meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "200g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marination"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for sauté"
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "3 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 red",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Water",
+      "amount": "200 ml",
+      "notes": "to simmer"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "In a bowl, whisk soy sauce, sesame oil, and Thai chili jam.",
+    "Toss tempeh cubes in the sauce mixture, letting them marinate for 10 minutes.",
+    "Heat a clay pot over medium heat, add a splash of water, and sauté onions until translucent.",
+    "Add carrots, bell pepper, and marinated tempeh to the pot; stir for 5 minutes.",
+    "Pour remaining water, bring to a gentle simmer, cover, and cook for 15 minutes until vegetables tender.",
+    "Increase heat to high, stir in 2 tbsp of Thai chili jam, and let the sauce reduce, coating the casserole.",
+    "Transfer the clay pot to the preheated oven and bake for 10 minutes to tighten the glaze.",
+    "Remove from oven, sprinkle chopped parsley, and let rest 5 minutes.",
+    "Serve hot, optionally with a side of rice or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "dutch",
+    "high-protein",
+    "one-pot",
+    "thai-flavor",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 505,
+    "protein": 25,
+    "carbs": 57,
+    "fat": 24
+  },
+  "slug": "hearty-dutch-tempeh-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dutch-tempeh-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:25:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tempeh",
+    "descriptor": "hearty",
+    "dishForm": "casserole"
+  }
+}
