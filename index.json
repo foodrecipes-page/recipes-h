@@ -573,6 +573,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-chinese-noodles-dan-dan-mian",
+    "title": "Hearty Chinese Noodles Dan Dan Mian",
+    "tags": [
+      "chinese-food",
+      "comfort-food",
+      "low-carb",
+      "noodle-dish",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-comforting-uruguayan-custard-custard",
     "title": "Uruguayan Manjar Custard",
     "tags": [

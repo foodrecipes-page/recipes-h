@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Chinese Noodles Dan Dan Mian",
+  "description": "A pungent and cozy Chinese dish featuring sesame seeds, this low-carb-friendly dan dan mian is perfect for a cold winter night, served in a traditional donabe vessel.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chinese noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the Chinese noodles according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and chili oil to make the sauce.",
+    "In a large skillet or wok, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir the sauce into the skillet and bring to a simmer.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Transfer the noodle mixture to a donabe or large serving bowl.",
+    "Sprinkle the toasted sesame seeds and chopped scallions over the top of the noodles.",
+    "Serve immediately, with additional chili oil and soy sauce on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "low-carb",
+    "noodle-dish",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-chinese-noodles-dan-dan-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chinese-noodles-dan-dan-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:03:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "sesame seed",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Hearty",
+    "dishForm": "Dan Dan Mian"
+  }
+}
