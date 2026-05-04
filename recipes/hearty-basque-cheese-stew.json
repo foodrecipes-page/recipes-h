@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Basque Cheese Stew",
+  "description": "A briny, gooey Basque-inspired stew perfect for post-workout recovery, featuring a blend of fresh vegetables, a deglazing splash of wine, and rich Manchego cheese.",
+  "cuisine": "Spanish Basque",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "all-purpose seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "120ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "150g, grated"
+    },
+    {
+      "name": "milk",
+      "amount": "120ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and cook until translucent, about five minutes.",
+    "Stir in minced garlic and cook for thirty seconds until fragrant.",
+    "Add diced red bell pepper and zucchini, cooking until softened, about five minutes.",
+    "Pour in white wine, scraping up any browned bits, and reduce by half, about three minutes.",
+    "Stir in canned diced tomatoes, all-purpose seasoning, and salt, then bring to a simmer.",
+    "Pour in vegetable broth, cover, and let the mixture simmer gently for ten minutes.",
+    "Remove the lid, stir in milk, and continue to simmer until the stew thickens slightly, about five minutes.",
+    "Reduce heat to low, sprinkle grated Manchego cheese over the stew, and let melt until gooey, about three minutes.",
+    "Adjust seasoning with salt if needed, then serve hot over roasted potatoes or crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "basque",
+    "comfort-food",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 313,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 21
+  },
+  "slug": "hearty-basque-cheese-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-basque-cheese-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:10:36Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "lacto-vegetarian",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Cheese",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

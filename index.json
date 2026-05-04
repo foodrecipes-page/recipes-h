@@ -708,6 +708,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-basque-cheese-stew",
+    "title": "Hearty Basque Cheese Stew",
+    "tags": [
+      "basque",
+      "comfort-food",
+      "high-protein",
+      "lacto-vegetarian",
+      "one-pot",
+      "post-workout"
+    ],
+    "cuisine": "Spanish Basque",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-bitter-algerian-chicken-tagine",
     "title": "Hearty Bitter Algerian Chicken Tagine",
     "tags": [
