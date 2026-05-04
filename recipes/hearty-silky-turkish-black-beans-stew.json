@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Silky Turkish Black Beans Stew",
+  "description": "A roasted, silky, energizing Turkish stew featuring fermented black beans simmered to perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked fermented black beans",
+      "amount": "200 g",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the fermented black beans and set aside.",
+    "Heat olive oil in a heavy skillet over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in smoked paprika and oregano, cook for 30 seconds to release aromas.",
+    "Add the beans and pour in vegetable broth, bring to a gentle boil.",
+    "Reduce heat, cover and simmer for 20 minutes, allowing flavors to meld.",
+    "Season with salt to taste and stir in fresh parsley.",
+    "Wrap the stew in an agave leaf and let it steam for an additional 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "low-fat",
+    "macrobiotic",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 27
+  },
+  "slug": "hearty-silky-turkish-black-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-turkish-black-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:06:05Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "fermented black beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "black beans",
+    "descriptor": "Hearty Silky",
+    "dishForm": "Stew"
+  }
+}

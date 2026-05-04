@@ -1,0 +1,116 @@
+{
+  "title": "Hearty Nutty French Prawns Mille Feuille",
+  "description": "A multilayered French-inspired dish of tiger prawns and toasted nuts, braised gently in a tandoor clay pot and finished with a bright lemon‑egg binder.",
+  "cuisine": "french",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "400 g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "50 g",
+      "notes": "toasted until fragrant"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "50 g",
+      "notes": "toasted until golden"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 small",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fresh herbs (parsley, tarragon)",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a tandoor clay pot over low heat until it is hot but not smoking.",
+    "Toast the almonds and hazelnuts in a dry skillet until golden and fragrant, then set aside.",
+    "Sauté the minced shallot and garlic in olive oil and butter until translucent.",
+    "Add the tiger prawns to the skillet, stirring until they just start to turn pink.",
+    "Deglaze the pan with white wine, scraping up any browned bits, and let it reduce for two minutes.",
+    "Simmer the prawns until they are fully cooked, about three minutes, then remove from heat.",
+    "Arrange a thin layer of prawns in the bottom of the tandoor pot, sprinkle a layer of toasted nuts over them, and repeat until the pot is filled.",
+    "Sprinkle the chopped herbs and lemon zest over the layers, then pour the beaten egg evenly on top to bind the layers together.",
+    "Return the pot to the tandoor and warm through for five minutes, watching that the egg sets but does not overcook.",
+    "Serve the mille feuille hot, spooning any residual sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "french",
+    "mille-feuille",
+    "nutty",
+    "ovo-vegetarian",
+    "seafood",
+    "tandoori"
+  ],
+  "nutrition": {
+    "calories": 1552,
+    "protein": 52,
+    "carbs": 65,
+    "fat": 85
+  },
+  "slug": "hearty-nutty-french-prawns-mille-feuille",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-nutty-french-prawns-mille-feuille",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:06:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "ovo-vegetarian",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Prawns",
+    "descriptor": "Hearty Nutty",
+    "dishForm": "Mille Feuille"
+  }
+}

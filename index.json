@@ -1694,6 +1694,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-nutty-french-prawns-mille-feuille",
+    "title": "Hearty Nutty French Prawns Mille Feuille",
+    "tags": [
+      "energizing",
+      "french",
+      "mille-feuille",
+      "nutty",
+      "ovo-vegetarian",
+      "seafood",
+      "tandoori"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-nutty-vietnamese-yoghurt-bake",
     "title": "Hearty Nutty Vietnamese Yoghurt Bake",
     "tags": [
@@ -1915,6 +1931,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-silky-turkish-black-beans-stew",
+    "title": "Hearty Silky Turkish Black Beans Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "low-fat",
+      "macrobiotic",
+      "one-pot",
+      "vegan-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
