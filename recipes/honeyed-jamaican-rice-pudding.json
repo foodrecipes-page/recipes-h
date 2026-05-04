@@ -1,0 +1,104 @@
+{
+  "title": "Honeyed Jamaican Rice Pudding",
+  "description": "A sweet, festive pudding that blends coconut, honey, and Jamaican spices in a stone bowl dolsot.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pistachios, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the uncooked rice until the water runs clear and soak it for 10 minutes.",
+    "Drain the rice and place it in a stone bowl dolsot with the measured water, then bring to a boil over medium heat.",
+    "Reduce the heat to low, cover, and simmer the rice for about 15 minutes until the water is absorbed.",
+    "Stir in the coconut milk, honey, nutmeg, cinnamon, vanilla extract, and a pinch of salt, then return the pot to low heat.",
+    "Cook the mixture, stirring occasionally, for 10 minutes until it thickens to a creamy consistency.",
+    "Remove the dolsot from heat and let the pudding cool slightly so it thickens further as it rests.",
+    "Transfer the pudding to individual serving bowls and drizzle a thin layer of honey over each.",
+    "Dust the top of each bowl with icing sugar for a sweet finish.",
+    "Sprinkle chopped pistachios and shredded coconut over the surface for texture and flavor.",
+    "Serve warm or chilled, as preferred, and enjoy the aromatic Jamaican twist."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "holiday-dessert",
+    "jamaican-flavor",
+    "sweet-dish"
+  ],
+  "nutrition": {
+    "calories": 282,
+    "protein": 12,
+    "carbs": 142,
+    "fat": 56
+  },
+  "slug": "honeyed-jamaican-rice-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-jamaican-rice-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:03:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "icing sugar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "Honeyed",
+    "dishForm": "Pudding"
+  }
+}
