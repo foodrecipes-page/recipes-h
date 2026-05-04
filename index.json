@@ -1588,6 +1588,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-polish-pork-hash",
+    "title": "Hearty Polish Pork Hash",
+    "tags": [
+      "gluten-free",
+      "kid-friendly",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-portuguese-chicken-stew",
     "title": "Hearty Portuguese Chicken Stew",
     "tags": [
