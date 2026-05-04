@@ -2455,5 +2455,20 @@
     "cuisine": "Italian",
     "totalTimeMin": 15,
     "shard": "h"
+  },
+  {
+    "slug": "hushed-kenyan-mango-wrap",
+    "title": "Hushed Kenyan Mango Wrap",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "low-carb",
+      "quick",
+      "vegan",
+      "wrap"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 17,
+    "shard": "h"
   }
 ]
