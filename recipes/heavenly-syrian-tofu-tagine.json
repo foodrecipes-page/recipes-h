@@ -1,0 +1,115 @@
+{
+  "title": "Heavenly Syrian Tofu Tagine",
+  "description": "A fresh, silky, energizing Syrian tofu tagine featuring colatura di alici and a poached vegetable medley.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "800g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "colatura di alici",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse and press the tofu to remove excess moisture, then cut into 1-inch cubes.",
+    "Heat the tagine pot over medium heat and drizzle olive oil, letting it coat the bottom.",
+    "Add the tofu cubes to the pot and sauté until lightly golden on all sides, about 5 minutes.",
+    "Stir in the diced red bell pepper, sliced zucchini, and halved cherry tomatoes, cooking until the vegetables begin to soften, about 4 minutes.",
+    "Sprinkle cumin, coriander, paprika, and salt over the mixture, stirring to coat evenly.",
+    "Pour in the lemon juice and colatura di alici, then add enough water to just cover the ingredients, about 200ml.",
+    "Bring the liquid to a gentle boil, then reduce the heat to low and cover the pot, letting the tagine simmer for 25 minutes.",
+    "Check the seasoning, adjusting salt or spices as desired; the tofu should be tender and the flavors melded.",
+    "Stir in freshly chopped parsley just before serving, allowing it to wilt slightly.",
+    "Serve the heavenly Syrian tofu tagine hot, accompanied by lime wedges or a side of gluten-free couscous if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jain-friendly",
+    "one-pot",
+    "syrian",
+    "tagine",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 23,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "heavenly-syrian-tofu-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-syrian-tofu-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:17:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "colatura",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tofu",
+    "descriptor": "Heavenly",
+    "dishForm": "Tagine"
+  }
+}
