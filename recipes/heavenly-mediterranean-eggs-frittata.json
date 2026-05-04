@@ -1,0 +1,112 @@
+{
+  "title": "Heavenly Mediterranean Eggs Frittata",
+  "description": "A fluffy, floral frittata with savory bonito shavings and low‑glycemic Mediterranean flavors, perfect for late‑night cravings.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large eggs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tbsp",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "bonito shavings",
+      "amount": "2 tbsp",
+      "notes": "adds umami flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and lightly grease an ovenproof skillet with olive oil.",
+    "Whisk eggs, feta, salt, pepper, and lemon zest until blended.",
+    "Heat skillet over medium, then sauté garlic for 30 seconds.",
+    "Add spinach and cherry tomatoes, cooking until spinach wilts, about 2 minutes.",
+    "Pour egg mixture over vegetables, stirring gently to distribute evenly.",
+    "Sprinkle chopped dill and bonito shavings on top of the eggs.",
+    "Cook on stovetop for 3-4 minutes until edges set and center slightly runny.",
+    "Transfer skillet to oven and bake for 7-8 minutes until frittata is puffed and lightly golden.",
+    "Remove from oven and let rest 2 minutes before slicing into squares.",
+    "Serve warm with a fresh salad or drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral",
+    "fluffy",
+    "low-glycemic",
+    "midnight-craving",
+    "one-pan",
+    "protein-rich"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 46,
+    "carbs": 5,
+    "fat": 53
+  },
+  "slug": "heavenly-mediterranean-eggs-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-mediterranean-eggs-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:23:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "eggs",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggs",
+    "descriptor": "Heavenly",
+    "dishForm": "Frittata"
+  }
+}
