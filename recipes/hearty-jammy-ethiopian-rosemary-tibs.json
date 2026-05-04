@@ -1,0 +1,54 @@
+{
+  "title": "Hearty Jammy Ethiopian Rosemary Tibs",
+  "description": "A diabetic-friendly, crumbly Ethiopian dish featuring rosemary and infuse-oil, perfect for brunch.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rosemary sprigs",
+      "amount": "2",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of infuse oil in a large skillet over medium heat.",
+    "Add 1 tablespoon of butter and let it melt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "hearty-jammy-ethiopian-rosemary-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-jammy-ethiopian-rosemary-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:54Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rosemary",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "rosemary",
+    "descriptor": "Hearty jammy",
+    "dishForm": "Tibs"
+  }
+}
