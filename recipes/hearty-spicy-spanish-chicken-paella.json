@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Spicy Spanish Chicken Paella",
+  "description": "A spicy and dense Spanish dish featuring tarragon leaves, this keto-friendly paella is perfect for a family dinner. It is kid-friendly and can be prepared with namul-blanch-season method.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken to the pan and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, garlic powder, salt, and black pepper to the pan and stir to combine.",
+    "Add the chopped tarragon leaves to the pan and stir to combine.",
+    "Add the cauliflower rice to the pan and stir to combine.",
+    "Add the chicken broth and diced tomatoes to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Serve the paella hot, garnished with additional tarragon leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "keto-friendly",
+    "kid-friendly",
+    "one-pan",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-spicy-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:58:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "keto",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Spicy",
+    "dishForm": "Paella"
+  }
+}
