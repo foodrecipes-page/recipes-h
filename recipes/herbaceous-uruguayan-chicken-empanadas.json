@@ -1,0 +1,104 @@
+{
+  "title": "Herbaceous Uruguayan Chicken Empanadas",
+  "description": "A cultured and tender empanada featuring bread flour, a flavorful tadka, and Ayurvedic tamasic-friendly flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bread flour",
+      "amount": "300g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Chicken breast, cooked shredded",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "10g"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "10g"
+    },
+    {
+      "name": "Tadka",
+      "amount": "1 tbsp olive oil, 1 tsp cumin seeds, 1 tsp coriander seeds, 1 tsp fennel seeds, 1 tsp dried oregano, 1 tsp dried thyme, 1 tsp paprika, 1 tsp ground turmeric, 1 tsp chili powder"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine bread flour, yeast, and salt.",
+    "Add warm water and olive oil to the flour mixture and mix until dough forms.",
+    "Knead dough on a floured surface for 7 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover, and let rise in a warm place for 60 minutes or until doubled in size.",
+    "While dough rises, heat the olive oil in a pan and add the tadka spices, sautéing for 2 minutes until fragrant.",
+    "Add diced onion and minced garlic to the pan and cook until onion soft.",
+    "Stir in shredded chicken, parsley, cilantro, tomato paste, tamarind paste, and cooked tadka; season with salt and cook for 5 minutes, then remove from heat.",
+    "Punch down risen dough, divide into 12 equal pieces, roll each into a circle about 12cm in diameter.",
+    "Spoon a tablespoon of filling onto the center of each dough circle, fold over, and seal edges by pressing with a fork.",
+    "Place assembled empanadas on a parchment-lined baking sheet and bake at 200°C for 25 minutes until golden brown.",
+    "Let empanadas cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "easy",
+    "empanada",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 22,
+    "fat": 3
+  },
+  "slug": "herbaceous-uruguayan-chicken-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-uruguayan-chicken-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:45:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "bread flour",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Herbaceous",
+    "dishForm": "Empanadas"
+  }
+}

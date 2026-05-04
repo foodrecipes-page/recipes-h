@@ -2086,6 +2086,20 @@
     "shard": "h"
   },
   {
+    "slug": "herbaceous-uruguayan-chicken-empanadas",
+    "title": "Herbaceous Uruguayan Chicken Empanadas",
+    "tags": [
+      "chicken",
+      "easy",
+      "empanada",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-algerian-vegetable-tagine",
     "title": "Herbal Algerian Vegetable Tagine",
     "tags": [
