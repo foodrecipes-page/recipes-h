@@ -1,0 +1,117 @@
+{
+  "title": "Hearty Malted Italian Rocket Risotto",
+  "description": "A malty, glassy-jelly risotto infused with fresh rocket, dairy‑free and energizing for any Italian meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "malted barley flour",
+      "amount": "1 cup",
+      "notes": "for malty flavor"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "base of the risotto"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "unsweetened oat milk",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": "for emulsification"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh rocket",
+      "amount": "1 cup",
+      "notes": "washed and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add finely chopped onion and minced garlic, sauté until translucent, about 3 minutes.",
+    "Stir in malted barley flour and arborio rice, coat evenly and toast until edges lightly golden, about 2 minutes.",
+    "Pour in 1 cup oat milk, stir to create a thick, glassy base, and let it absorb for 2 minutes.",
+    "Gradually add vegetable broth 1 cup at a time, stirring constantly and allowing each addition to be absorbed before adding the next, continuing until the rice is creamy and al dente, about 18 minutes.",
+    "Whisk in balsamic vinegar, lemon zest, sea salt, and black pepper, then reduce heat to low and fold in fresh rocket until wilted, about 2 minutes.",
+    "Remove from heat and let rest for 3 minutes to set; during this time the risotto will thicken into a silky, jelly‑like consistency.",
+    "Serve hot, spooning generous amounts onto plates, optionally drizzle with a touch of olive oil; enjoy the malty, energizing flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 5
+  },
+  "slug": "hearty-malted-italian-rocket-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malted-italian-rocket-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:40:09Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "rocket",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rocket",
+    "descriptor": "Hearty Malted",
+    "dishForm": "Risotto"
+  }
+}
