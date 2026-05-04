@@ -677,6 +677,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-russian-cheese-grill",
+    "title": "Hearty Smoky Russian Cheese Grill",
+    "tags": [
+      "grilled-cheese",
+      "one-pan",
+      "russian-cuisine",
+      "smoky",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 16,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-south-chickpea-flour-dhal",
     "title": "Hearty South Chickpea Flour Dhal",
     "tags": [

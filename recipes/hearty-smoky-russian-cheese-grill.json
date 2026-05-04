@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Smoky Russian Cheese Grill",
+  "description": "A solo dinner Russian dish featuring maple syrup and double rise bread, grilled to perfection on a binchotan grill. This dish is salty, cheesy, and perfect for a weeknight meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "Russian cheese",
+      "amount": "1 cup",
+      "notes": "such as suluguni or mozzarella"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat.",
+    "Slice the double rise bread into 1 inch thick slices.",
+    "Butter one side of each bread slice.",
+    "Place the bread slices butter side down on the grill.",
+    "Sprinkle the Russian cheese over the bread slices.",
+    "Drizzle the maple syrup over the cheese.",
+    "Sprinkle the smoked paprika, salt, and black pepper over the cheese.",
+    "Close the grill lid and cook for 2-3 minutes or until the bread is toasted and the cheese is melted.",
+    "Flip the bread slices over and cook for an additional 2 minutes.",
+    "Remove the bread slices from the grill and sprinkle with chopped fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cheese",
+    "one-pan",
+    "russian-cuisine",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hearty-smoky-russian-cheese-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-russian-cheese-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:57:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "maple syrup",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cheese",
+    "descriptor": "hearty smoky",
+    "dishForm": "Grill"
+  }
+}
