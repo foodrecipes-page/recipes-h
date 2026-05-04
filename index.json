@@ -1499,6 +1499,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-norwegian-salmon-fried-rice",
+    "title": "Hearty Norwegian Salmon Fried-Rice",
+    "tags": [
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "quick",
+      "salmon"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-nutty-vietnamese-yoghurt-bake",
     "title": "Hearty Nutty Vietnamese Yoghurt Bake",
     "tags": [

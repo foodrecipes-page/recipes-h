@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Norwegian Salmon Fried-Rice",
+  "description": "A savory, charred salmon fried rice topped with creamy fromage frais and crunchy peanuts, bringing a burst of Norwegian flavor to the table.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "150g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "200g"
+    },
+    {
+      "name": "fromage frais",
+      "amount": "100g"
+    },
+    {
+      "name": "spinach",
+      "amount": "50g",
+      "notes": "fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "0.5 tbsp",
+      "notes": "for stir-fry"
+    },
+    {
+      "name": "peanuts",
+      "amount": "15g",
+      "notes": "toasted"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 0.5 tbsp sesame oil in a large skillet over medium-high heat.",
+    "Add the salmon fillet, searing each side for 2 minutes until a charred crust forms, then remove and set aside.",
+    "In the same skillet, scramble the eggs until just set, then remove and keep warm.",
+    "Add the cooked rice to the skillet, stirring to coat with oil and break up clumps.",
+    "Pour in soy sauce and season with black pepper, tossing to combine.",
+    "Return the salmon and eggs to the skillet, folding them into the rice.",
+    "Stir in fresh spinach until wilted, then mix in toasted peanuts for crunch.",
+    "Top the fried rice with a generous spoonful of fromage frais and sprinkle red chili flakes if desired.",
+    "Serve immediately, letting the fromage frais melt slightly over the hot rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "quick",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 1077,
+    "protein": 59,
+    "carbs": 66,
+    "fat": 48
+  },
+  "slug": "hearty-norwegian-salmon-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-norwegian-salmon-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:40:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "fromage frais",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Hearty",
+    "dishForm": "Fried-Rice"
+  }
+}
