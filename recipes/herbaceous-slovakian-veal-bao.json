@@ -1,0 +1,110 @@
+{
+  "title": "Herbaceous Slovakian Veal Bao",
+  "description": "Light, pillowy bao filled with nutty, herbaceous veal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal tenderloin",
+      "amount": "300 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Toasted almond slivers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "Instant yeast",
+      "amount": "5 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix veal with soy sauce, rice vinegar, sesame oil, garlic, ginger, almonds, and dill; refrigerate for 10 minutes.",
+    "In a bowl, combine flour, yeast, and salt.",
+    "Add warm water gradually, stirring until a sticky dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover, and let rise in a warm place until doubled in size, about 45 minutes.",
+    "Punch down the dough, divide it into 12 equal portions, and roll each into a round ball.",
+    "Flatten each dough ball into a 4-inch diameter circle, fill the center with about 30 g of the marinated veal mixture.",
+    "Pinch the edges together and seal to form a pouch, then place each bao on parchment paper.",
+    "Arrange the bao in a bamboo steamer, leaving space between them.",
+    "Steam over high heat for 10 minutes, then lower the heat and steam for another 5 minutes.",
+    "Remove the steamers, let the bao rest for 2 minutes, and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "herbaceous",
+    "nutty",
+    "slovakian",
+    "sugar-free",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 412,
+    "protein": 22,
+    "carbs": 38,
+    "fat": 5
+  },
+  "slug": "herbaceous-slovakian-veal-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-slovakian-veal-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:19:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "veal",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "veal",
+    "descriptor": "Herbaceous",
+    "dishForm": "Bao"
+  }
+}
