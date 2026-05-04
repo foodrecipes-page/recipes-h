@@ -677,6 +677,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dutch-vegetable-stew",
+    "title": "Hearty Dutch Vegetable Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "flexitarian",
+      "hearty-stew",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-egyptian-chicken-broth",
     "title": "Hearty Egyptian Chicken Broth",
     "tags": [
