@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Hangover Thai Chicken Khao Pad",
+  "description": "A fresh and chewy Thai dish featuring dried chillies to help cure hangovers, this low-calorie-friendly khao pad is made with chicken and a blend of spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2 tablespoons",
+      "notes": "crushed or 1 teaspoon dried chilli flakes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and crushed dried chillies to the skillet and cook for 1 minute.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the fish sauce, soy sauce, salt, and black pepper, and cook for 2-3 minutes, until the rice is well coated with the sauce.",
+    "Return the cooked chicken to the skillet and stir to combine with the rice mixture.",
+    "Transfer the khao pad to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "hangover-cure",
+    "low-calorie",
+    "one-pan",
+    "thai-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-hangover-thai-chicken-khao-pad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-hangover-thai-chicken-khao-pad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:31:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty hangover",
+    "dishForm": "Khao Pad"
+  }
+}
