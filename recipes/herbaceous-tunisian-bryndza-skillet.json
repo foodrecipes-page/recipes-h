@@ -1,0 +1,109 @@
+{
+  "title": "Herbaceous Tunisian Bryndza Skillet",
+  "description": "A smoky, velvety skillet dish that marries creamy bryndza cheese with fresh herbs and quinoa in a succulent Tunisian twist.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza cheese",
+      "amount": "150g",
+      "notes": "soft sheep cheese"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh coriander (cilantro)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cooked quinoa",
+      "amount": "200g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 (sliced)"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast-iron skillet over medium heat.",
+    "Drizzle 1 tbsp of olive oil in the skillet and let it heat until shimmering.",
+    "Add 150g of bryndza cheese to the skillet, breaking it into bite‑sized pieces.",
+    "Sprinkle 1 tsp smoked paprika and 1 tsp ground cumin over the cheese and stir to coat evenly.",
+    "Sauté the mixture for 3 minutes until the cheese begins to soften and the spices release aroma.",
+    "Fold in 200g of cooked quinoa, 1/2 sliced red bell pepper, 2 tbsp chopped fresh coriander, and 2 tbsp chopped fresh parsley.",
+    "Season with 1/2 tsp salt, 1/4 tsp black pepper, 1 tsp lemon zest, and 1 tbsp lemon juice, and stir gently to combine.",
+    "Reduce heat to low, cover the skillet, and simmer for 5 minutes to meld flavors and melt the cheese completely.",
+    "Remove the skillet from heat and sprinkle 1 tsp fresh mint leaves for a burst of freshness.",
+    "Serve the skillet directly from the cast‑iron pan, accompanied by crusty grain bread or a side salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "one-pan",
+    "quick",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 930,
+    "protein": 37,
+    "carbs": 54,
+    "fat": 61
+  },
+  "slug": "herbaceous-tunisian-bryndza-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-tunisian-bryndza-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:45:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Bryndza",
+    "descriptor": "Herbaceous",
+    "dishForm": "Skillet"
+  }
+}
