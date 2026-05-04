@@ -1,0 +1,95 @@
+{
+  "title": "Heavenly Sweet British Nectarine Trifle",
+  "description": "A sweet and crumbly British dessert featuring nectarines, perfect for midnight cravings, and friendly to all diets, including Buddhist temple standards, served in a beautiful lacquerware bowl.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4 large",
+      "notes": "ripe and diced"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "oat biscuits",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the diced nectarines, tagine spice mix, and honey until well combined.",
+    "Pour the almond milk into the bowl and stir until the nectarines are fully coated.",
+    "Transfer the nectarine mixture to a baking dish and bake for 20 minutes.",
+    "While the nectarines are baking, crush the oat biscuits in a separate bowl.",
+    "In a large lacquerware bowl, create a layer of crushed oat biscuits.",
+    "Once the nectarines are done baking, let them cool and then add them on top of the oat biscuit layer.",
+    "Spread a layer of whipped cream over the nectarines.",
+    "Sprinkle shredded coconut and chopped almonds over the whipped cream.",
+    "Repeat the layers one more time, ending with a layer of whipped cream on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "dessert",
+    "gluten-free",
+    "midnight-cravings",
+    "sweet-tooth",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "heavenly-sweet-british-nectarine-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-sweet-british-nectarine-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:29:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "nectarines",
+    "diet": "buddhist-temple",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "nectarines",
+    "descriptor": "Heavenly Sweet",
+    "dishForm": "Trifle"
+  }
+}
