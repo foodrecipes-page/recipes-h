@@ -1,0 +1,117 @@
+{
+  "title": "Healing Arabian Lentil Tagine",
+  "description": "A winey, springy lentil tagine that balances sweet treacle and bright spices, ideal for curing hangovers and soothing the soul.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "300g",
+      "notes": "chopped"
+    },
+    {
+      "name": "spinach",
+      "amount": "200g",
+      "notes": "washed"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "150g",
+      "notes": "cooked"
+    },
+    {
+      "name": "treacle",
+      "amount": "30g",
+      "notes": "warmed"
+    },
+    {
+      "name": "red wine",
+      "amount": "200ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "spice blend",
+      "amount": "3 tsp",
+      "notes": "cumin, coriander, smoked paprika, cinnamon, turmeric, ginger, saffron"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add diced onion, minced garlic, and sliced carrot; sauté until onions are translucent.",
+    "Stir in chopped tomatoes and the spice blend, cooking for 2 minutes to bloom flavors.",
+    "Add the red lentils, chickpeas, and red wine, stirring to combine and deglaze the pot.",
+    "Pour in vegetable broth, bring to a gentle boil, then reduce heat to low and simmer covered for 20 minutes until lentils are tender.",
+    "Warm the treacle until liquid, then stir it into the tagine, letting the dish finish cooking for an additional 5 minutes.",
+    "Fold in the spinach, allowing it to wilt while retaining its bright color.",
+    "Season with salt and pepper to taste, serve hot over couscous or flatbread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "hangover-cure",
+    "lentil",
+    "mid-east",
+    "one-pot",
+    "tagine",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "healing-arabian-lentil-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-arabian-lentil-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:31:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "treacle",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "lentils",
+    "descriptor": "Healing",
+    "dishForm": "Tagine"
+  }
+}
