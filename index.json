@@ -1243,6 +1243,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-german-sun-dried-tomato-stew",
+    "title": "Hearty German Sun Dried Tomato Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "hearty-stew",
+      "one-pot",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-german-veal-grill",
     "title": "Hearty German Veal Grill",
     "tags": [
