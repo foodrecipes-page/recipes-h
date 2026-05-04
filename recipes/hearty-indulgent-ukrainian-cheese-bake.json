@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Indulgent Ukrainian Cheese Bake",
+  "description": "A rich and creamy Ukrainian dish featuring a blend of cheeses and a touch of sweetness, baked to perfection in a wood-fired oven. This keto-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "16 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "farmers cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the softened cream cheese and crumbly farmers cheese.",
+    "Add the eggs one at a time, mixing well after each addition.",
+    "Stir in the caster sugar, vanilla extract, lemon zest, chopped fresh dill, and salt.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy!",
+    "Garnish with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "indulgent",
+    "keto-friendly",
+    "ukrainian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "hearty-indulgent-ukrainian-cheese-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indulgent-ukrainian-cheese-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:17:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "caster sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "hearty indulgent",
+    "dishForm": "Bake"
+  }
+}
