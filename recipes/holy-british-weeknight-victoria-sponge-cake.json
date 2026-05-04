@@ -1,0 +1,96 @@
+{
+  "title": "Holy British Weeknight Victoria Sponge Cake",
+  "description": "A salty and tender weeknight British dessert featuring jalapeno and deep-fried in a lacquerware bowl.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "2",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Combine the flour, sugar, eggs, milk, and salt in a large bowl, and mix until smooth.",
+    "Heat the oil in the deep frying pan to 375°F (190°C).",
+    "Carefully drop the cake mixture into the hot oil, and fry for 2 minutes on each side.",
+    "Remove the cake from the oil, and place it on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining cake mixture.",
+    "Once the cakes are cool enough to handle, split them in half lengthwise, and sandwich a layer of buttercream in between.",
+    "Buttercream: Cook the butter, water, and sugar in a saucepan over medium heat, stirring constantly, until the sugar dissolves.",
+    "Add the chopped jalapeno peppers to the saucepan, and cook for an additional 2 minutes.",
+    "Allow the buttercream to cool to room temperature before using.",
+    "Once the cakes are assembled, serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "deep-fried",
+    "dessert",
+    "jalapeno",
+    "kosher",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 8,
+    "carbs": 100,
+    "fat": 40
+  },
+  "slug": "holy-british-weeknight-victoria-sponge-cake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/holy-british-weeknight-victoria-sponge-cake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "jalapeno",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "weeknight",
+    "descriptor": "holy agemono-deep-fry",
+    "dishForm": "Victoria Sponge Cake"
+  }
+}
