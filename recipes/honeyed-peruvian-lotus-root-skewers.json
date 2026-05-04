@@ -1,0 +1,95 @@
+{
+  "title": "Honeyed Peruvian Lotus Root Skewers",
+  "description": "Funky, juicy, kid-friendly Peruvian dish featuring lotus root, honey glaze, and smoky spice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus root",
+      "amount": "200g lotus root, sliced",
+      "notes": "thin, 1 cm rounds"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp soy sauce"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tbsp honey"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp lime juice"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp smoked paprika"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp ground cumin"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp sea salt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp olive oil"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "8 skewers, soaked"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 30 minutes.",
+    "Slice lotus root into 1 cm thick rounds.",
+    "Whisk soy sauce, honey, lime juice, smoked paprika, cumin, and sea salt in a bowl.",
+    "Toss lotus slices in the glaze until coated.",
+    "Thread lotus slices onto soaked skewers, spacing evenly.",
+    "Heat a grill or grill pan over medium-high heat and brush with olive oil.",
+    "Grill skewers 3-4 minutes per side, brushing with extra glaze, until golden brown.",
+    "Remove from heat, let rest 2 minutes, and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "lacto-vegetarian",
+    "peruvian",
+    "quick",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "honeyed-peruvian-lotus-root-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-peruvian-lotus-root-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:04:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lotus Root",
+    "descriptor": "Honeyed",
+    "dishForm": "Skewers"
+  }
+}
