@@ -1,0 +1,102 @@
+{
+  "title": "Herb Infused Ukrainian Carrot Biryani",
+  "description": "A flavorful and aromatic Ukrainian dish featuring caraway seeds and kombu cold extract, perfect for the spring season. This macrobiotic friendly recipe combines the freshness of herbs with the warmth of spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 cups",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the grated carrots and cook for about 5 minutes, stirring occasionally.",
+    "Add the caraway seeds, thyme, salt, and pepper, and stir well.",
+    "Add the kombu cold extract and stir to combine.",
+    "Add the basmati rice and stir to coat the rice with the oil and mix with the carrots and spices.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for about 20 minutes, or until the water is absorbed and the rice is cooked."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "one-pot-meals",
+    "spring-recipes",
+    "ukrainian-cuisine",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "herb-infused-ukrainian-carrot-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-ukrainian-carrot-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:30:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "caraway seed",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "carrots",
+    "descriptor": "herb infused",
+    "dishForm": "Biryani"
+  }
+}
