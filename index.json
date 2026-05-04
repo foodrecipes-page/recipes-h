@@ -737,6 +737,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-brazilian-beef-stew",
+    "title": "Hearty Brazilian Beef Stew",
+    "tags": [
+      "beef-recipe",
+      "brazilian-cuisine",
+      "hearty-stew",
+      "keto-friendly",
+      "low-carb"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 170,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-brazilian-chicken-skillet",
     "title": "Hearty Brazilian Chicken Skillet",
     "tags": [
