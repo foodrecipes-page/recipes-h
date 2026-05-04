@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Herbal Croatian Bok Choi Skewers",
+  "description": "A flavorful and healthy Croatian dish featuring bok choi, herbs, and a molten cheese sauce, all grilled to perfection on a robata grill. This egg-free friendly dish is sure to be a crowd pleaser.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "1 head",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, parsley, dill, salt, and pepper.",
+    "Add the bok choi to the bowl and toss to coat with the herb mixture.",
+    "Thread the bok choi onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 5 minutes per side, or until the bok choi is tender.",
+    "In a small saucepan, heat the feta cheese over low heat until melted and smooth.",
+    "Stir in lemon juice and cook for an additional 2 minutes.",
+    "Serve the grilled bok choi skewers with the molten feta cheese sauce.",
+    "Garnish with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "grilled",
+    "healthy",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-herbal-croatian-bok-choi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-croatian-bok-choi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:12:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "bok choi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bok choi",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Skewers"
+  }
+}
