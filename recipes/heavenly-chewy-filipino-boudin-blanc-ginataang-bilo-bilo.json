@@ -1,0 +1,96 @@
+{
+  "title": "ginataang bilo-bilo with boudin blanc",
+  "description": "a creamy and chewy filipino dessert, wrapped in pandan leaves.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free",
+    "pork-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ginataan sauce",
+      "amount": "2 cups",
+      "notes": "see recipe below"
+    },
+    {
+      "name": "ube halaya",
+      "amount": "1 cup",
+      "notes": "purple yam jam"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "or as needed"
+    }
+  ],
+  "instructions": [
+    "cut the boudin blanc into bite-sized pieces and set aside.",
+    "in a blender or food processor, combine the ginataan sauce, ube halaya, sugar, and coconut milk.",
+    "blend until smooth and creamy.",
+    "heat the mixture over medium heat, whisking constantly.",
+    "when the mixture comes to a boil, reduce the heat to low and simmer for 5 minutes.",
+    "add the water and continue to simmer for another 2 minutes.",
+    "to assemble the dessert, place a few pieces of the boudin blanc onto the center of a pandan leaf.",
+    "drizzle the ginataan sauce mixture over the boudin blanc.",
+    "fold the pandan leaf over the filling to form a square or rectangle shape.",
+    "repeat with the remaining ingredients.",
+    "serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "filipino",
+    "finger-food",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T12:31:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Boudin-Blanc",
+    "descriptor": "Heavenly Chewy",
+    "dishForm": "Ginataang-Bilo-Bilo"
+  }
+}
