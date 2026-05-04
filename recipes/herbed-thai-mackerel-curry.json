@@ -1,0 +1,110 @@
+{
+  "title": "Herbed Thai Mackerel Curry",
+  "description": "A vibrant Thai-style curry with tender mackerel, fresh herbs, and a creamy cheese custard that melts into a silky sauce. This pescatarian-friendly dish blends traditional flavors with a modern twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh mackerel fillets",
+      "amount": "4 (≈ 800g)"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Fresh Thai basil leaves",
+      "amount": "30 g"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "30 g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "15 g"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "3"
+    },
+    {
+      "name": "Red Thai chilies",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Grated parmesan cheese",
+      "amount": "60 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium and pour in coconut milk, heavy cream, and fish sauce; bring to a gentle simmer.",
+    "Add sliced red Thai chilies, kaffir lime leaves, and a pinch of salt; stir for 2 minutes until fragrant.",
+    "Season the mackerel fillets with salt and place them in a small pot of boiling water to blanch for 30 seconds; remove and pat dry.",
+    "Transfer the blanched fillets into the simmering sauce and cook for 4 minutes until they are just opaque.",
+    "Stir in the grated parmesan cheese until fully melted and the sauce thickens slightly.",
+    "Reduce the heat to low and fold in the fresh basil, cilantro, and mint leaves until wilted.",
+    "Add lime juice and adjust seasoning with additional fish sauce if needed.",
+    "Serve the curry over steamed jasmine rice or cauliflower rice for a lower-carb option.",
+    "Garnish with extra herbs and a sprinkle of parmesan for a cheesy pull effect.",
+    "Let the dish sit for 2 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "creamy-curry",
+    "pescatarian",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 35,
+    "carbs": 2,
+    "fat": 52
+  },
+  "slug": "herbed-thai-mackerel-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-thai-mackerel-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:07:58Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "pescatarian",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "mackerel",
+    "descriptor": "Herbed",
+    "dishForm": "Curry"
+  }
+}

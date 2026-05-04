@@ -3500,6 +3500,21 @@
     "shard": "h"
   },
   {
+    "slug": "herbed-thai-mackerel-curry",
+    "title": "Herbed Thai Mackerel Curry",
+    "tags": [
+      "cheese-pull",
+      "comfort-food",
+      "creamy-curry",
+      "pescatarian",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "herbed-ukrainian-rice-fried-rice",
     "title": "Herbed Ukrainian Rice Fried-Rice",
     "tags": [
@@ -3865,6 +3880,21 @@
       "weeknight"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-spicy-chinese-fish-dumplings",
+    "title": "Hot Spicy Chinese Fish Dumplings",
+    "tags": [
+      "asian-inspired",
+      "dumplings",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "h"
   },

@@ -1,0 +1,95 @@
+{
+  "title": "Hot Spicy Chinese Fish Dumplings",
+  "description": "Garlicky and juicy Chinese fish dumplings featuring cornstarch, perfect for adventurous eaters, this Sichuan dish is a pescatarian-friendly delight.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine fish fillets, cornstarch, garlic, ginger, soy sauce, sesame oil, Sichuan pepper, and salt, and mix until just combined.",
+    "Knead the mixture for about 5 minutes until it becomes sticky and cohesive.",
+    "Divide the mixture into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape.",
+    "Bring a large pot of water to a boil and add the dumplings.",
+    "Cook the dumplings for about 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and drain off excess water.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "dumplings",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "hot-spicy-chinese-fish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-chinese-fish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:07:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "cornstarch",
+    "diet": "pescatarian",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fish",
+    "descriptor": "hot spicy",
+    "dishForm": "Dumplings"
+  }
+}
