@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Ethiopian Clams Bisque",
+  "description": "A salty, gooey bisque that fuses Ethiopian berbere flavor with fresh clams and a rich fond, perfect for monsoon evenings.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy pot over medium heat and sauté the diced onion until translucent.",
+    "Add minced garlic and grated ginger and cook for one minute until fragrant.",
+    "Stir in tomato paste and berbere spice and fry for two minutes to release aromas.",
+    "Deglaze the pot with a splash of fish sauce, scraping up all browned bits from the bottom.",
+    "Pour in the vegetable stock and bring to a gentle simmer.",
+    "Add the clams to the pot, cover, and cook for 5 minutes until the clams open, discarding any that remain closed.",
+    "Remove the pot from heat and stir in lemon juice and fresh parsley.",
+    "Season with black pepper, taste, and serve hot with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque",
+    "dinner",
+    "ethiopian",
+    "hearty",
+    "monsoon",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-ethiopian-clams-bisque",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ethiopian-clams-bisque",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:27:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "clams",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Clams",
+    "descriptor": "Hearty",
+    "dishForm": "Bisque"
+  }
+}
