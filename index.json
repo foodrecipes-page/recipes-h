@@ -1508,6 +1508,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-harmonious-algerian-haggis-tagine",
+    "title": "Hearty Harmonious Algerian Haggis Tagine",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "jain-friendly",
+      "north-african",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-harmonious-moroccan-vegetable-tagine",
     "title": "Hearty Harmonious Moroccan Vegetable Tagine",
     "tags": [

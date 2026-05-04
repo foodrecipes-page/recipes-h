@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Harmonious Algerian Haggis Tagine",
+  "description": "A fresh and tender Algerian dish featuring haggis, this tagine is simmered to perfection and is jain-friendly, providing an energizing meal option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "vegetarian haggis"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the ground cumin, ground coriander, and cayenne pepper, if using.",
+    "Add the vegetarian haggis and cook, breaking it up with a spoon, until it is no longer raw.",
+    "Add the chickpeas, dried apricots, and low sodium vegetable broth to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "jain-friendly",
+    "north-african",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-harmonious-algerian-haggis-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-harmonious-algerian-haggis-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:32:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "haggis",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "haggis",
+    "descriptor": "Hearty Harmonious",
+    "dishForm": "Tagine"
+  }
+}
