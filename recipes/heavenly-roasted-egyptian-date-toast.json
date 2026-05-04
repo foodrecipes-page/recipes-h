@@ -1,0 +1,94 @@
+{
+  "title": "Heavenly Roasted Egyptian Date Toast",
+  "description": "A rich and velvety Egyptian dish featuring roasted dates, cocoa, and toast, perfect for a date night, and is dairy-free friendly, served in a bento box.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "12",
+      "notes": "Medjool or Barhi work well"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Place the pitted dates on a baking sheet lined with parchment paper and roast for 15 minutes.",
+    "In a small bowl, whisk together the cocoa powder, maple syrup, and vanilla extract.",
+    "In a separate bowl, whip the coconut cream until it becomes stiff peaks.",
+    "Spread a layer of almond butter on each toasted bread slice.",
+    "Top the almond butter with a roasted date and a dollop of whipped coconut cream.",
+    "Drizzle the cocoa mixture over the top of each slice.",
+    "Sprinkle a pinch of sea salt over the top of each slice.",
+    "Serve immediately in a bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "egyptian-cuisine",
+    "healthy-dessert",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "heavenly-roasted-egyptian-date-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-roasted-egyptian-date-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:16:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "cocoa",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "Heavenly roasted",
+    "dishForm": "Toast"
+  }
+}
