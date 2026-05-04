@@ -1,0 +1,100 @@
+{
+  "title": "Hearty American Avocado Bowl",
+  "description": "A rich and creamy dish featuring avocado, served in a stone bowl, perfect for a raw and indulgent meal. This recipe combines the freshness of avocado with the bitterness of arugula and the crunch of toasted nuts.",
+  "cuisine": "American",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "3",
+      "notes": "ripe"
+    },
+    {
+      "name": "arugula",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the avocado in half and remove the pit.",
+    "Scoop the avocado into a stone bowl.",
+    "Top the avocado with arugula, toasted almonds, and red onion.",
+    "Crumble the feta cheese over the top.",
+    "Drizzle the lemon juice and olive oil over the salad.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional arugula if desired.",
+    "Store any leftovers in the refrigerator for up to one day."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "easy-to-make",
+    "healthy",
+    "indulgent",
+    "lunch",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "hearty-american-avocado-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-avocado-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:53:36Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "avocado",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "avocado",
+    "descriptor": "hearty indulgent",
+    "dishForm": "Bowl"
+  }
+}

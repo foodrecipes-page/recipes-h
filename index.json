@@ -429,6 +429,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-avocado-bowl",
+    "title": "Hearty American Avocado Bowl",
+    "tags": [
+      "american",
+      "easy-to-make",
+      "healthy",
+      "indulgent",
+      "lunch",
+      "raw-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-shungiku-roast",
     "title": "Hearty American Shungiku Roast",
     "tags": [
