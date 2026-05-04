@@ -468,6 +468,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-brazilian-chicken-skillet",
+    "title": "Hearty Brazilian Chicken Skillet",
+    "tags": [
+      "brazilian-cuisine",
+      "dinner-ideas",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "raw-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-british-almond-flour-fritters",
     "title": "Hearty British Almond Flour Fritters",
     "tags": [
@@ -524,6 +539,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-crispy-malaysian-pastry-tart",
+    "title": "Hearty Crispy Malaysian Pastry Tart",
+    "tags": [
+      "dairy-free",
+      "easy",
+      "festive",
+      "shortcrust",
+      "snack",
+      "tagliere"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

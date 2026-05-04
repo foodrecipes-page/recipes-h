@@ -1,0 +1,126 @@
+{
+  "title": "Hearty Crispy Malaysian Pastry Tart",
+  "description": "A festive, dairy‑free tart featuring a ready‑rolled shortcrust pastry shell filled with a spicy curry‑saiway namul vegetable mixture and tofu, served crisp on a tagliere.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ready‑rolled shortcrust pastry (dairy‑free)",
+      "amount": "1 sheet",
+      "notes": "approximately 133g"
+    },
+    {
+      "name": "blanched mixed namul vegetables",
+      "amount": "200g",
+      "notes": "spinach, bean sprouts, carrots, kale"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "50g",
+      "notes": "cubed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "30ml",
+      "notes": "1 tablespoon"
+    },
+    {
+      "name": "curry paste",
+      "amount": "15g",
+      "notes": "1 tablespoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1tsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and line a baking sheet with parchment paper.",
+    "Place the ready‑rolled shortcrust pastry onto a clean work surface and roll it out to fit a 9‑inch tagliere, trimming the edges to leave a small rim.",
+    "In a small saucepan combine the coconut milk, curry paste, ground coriander, ground cumin, turmeric, soy sauce and maple syrup; stir until the mixture is smooth and let it simmer for 2 minutes to meld the flavors.",
+    "While the sauce simmers sauté the blanched namul vegetables and cubed tofu in a splash of coconut oil until the tofu is golden and the vegetables fragrant, about 5 minutes.",
+    "Toss the sautéed vegetables and tofu with the simmered curry sauce, seasoning with salt and pepper to taste, and let the mixture cool slightly.",
+    "Spoon the vegetable‑curry filling evenly into the pastry shell, pressing it in gently with the back of a spoon so it adheres to the dough.",
+    "Brush the edges of the pastry with a little coconut milk to seal them and prevent puffing during baking.",
+    "Slide the prepared tart onto the preheated baking sheet and bake for 18–20 minutes, or until the pastry turns golden brown and the filling is set.",
+    "Remove the tart from the oven, allow it to cool on a wire rack for 5 minutes, then transfer it to the tagliere for serving.",
+    "Slice the tart into wedges, garnish with fresh cilantro leaves if desired, and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy",
+    "festive",
+    "shortcrust",
+    "snack",
+    "tagliere"
+  ],
+  "nutrition": {
+    "calories": 585,
+    "protein": 18,
+    "carbs": 77,
+    "fat": 35
+  },
+  "slug": "hearty-crispy-malaysian-pastry-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-malaysian-pastry-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:18:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Pastry",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Tart"
+  }
+}

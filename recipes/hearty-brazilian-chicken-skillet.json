@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Brazilian Chicken Skillet",
+  "description": "A peppery and fluffy Brazilian dish featuring ginger garlic paste, cooked to perfection in a clay pot on a tava griddle.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot on a tava griddle over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the chopped bell pepper and cook until it is tender.",
+    "Add the chopped tomato and cook until it is soft.",
+    "Add the ginger garlic paste and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the coconut milk and stir to combine.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "dinner-ideas",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-brazilian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-brazilian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:19:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty fluffy",
+    "dishForm": "Skillet"
+  }
+}
