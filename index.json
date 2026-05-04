@@ -5124,6 +5124,23 @@
     "shard": "h"
   },
   {
+    "slug": "herby-hearty-horseradish-welsh-beef-sunday-roast",
+    "title": "Herby, Hearty, Horseradish Welsh Beef Sunday Roast",
+    "tags": [
+      "beef",
+      "british",
+      "comfort-food",
+      "family-meal",
+      "horseradish",
+      "roast-beef",
+      "sunday-roast",
+      "traditional"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "herby-mingle-delight",
     "title": "Herby Mingle Delight",
     "tags": [
