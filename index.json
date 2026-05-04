@@ -810,6 +810,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crisp-portuguese-casabe-paella",
+    "title": "Hearty Crisp Portuguese Casabe Paella",
+    "tags": [
+      "crispy-top",
+      "gluten-free",
+      "macrobiotic-friendly",
+      "one-pot",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crispy-british-cheese-curds-fritters",
     "title": "Hearty Crispy British Cheese Curds Fritters",
     "tags": [
@@ -1345,6 +1359,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-grassy-greek-masarepa-pilaf",
+    "title": "Hearty Grassy Greek Masarepa Pilaf",
+    "tags": [
+      "comfort-food",
+      "flambe",
+      "greek-cuisine",
+      "one-pot",
+      "vegan-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
