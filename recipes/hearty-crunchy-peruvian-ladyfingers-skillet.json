@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Crunchy Peruvian Ladyfingers Skillet",
+  "description": "A rich and crunchy Peruvian dish featuring ladyfingers, chocolate, and beef, all in one keto-friendly skillet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "12",
+      "notes": "dried"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and bell pepper to the skillet and cook until they are tender.",
+    "Add the paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the dried ladyfingers to the skillet and stir to combine with the beef and vegetable mixture.",
+    "Pour the melted chocolate over the ladyfingers and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Serve the skillet hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lover",
+    "hearty-dinner",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-crunchy-peruvian-ladyfingers-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-peruvian-ladyfingers-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:07:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "Hearty Crunchy",
+    "dishForm": "Skillet"
+  }
+}
