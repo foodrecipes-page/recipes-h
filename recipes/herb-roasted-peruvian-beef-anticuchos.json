@@ -1,0 +1,105 @@
+{
+  "title": "Herb Roasted Peruvian Beef Anticuchos",
+  "description": "A traditional Peruvian dish featuring roasted beef heart anticuchos with a glassy jelly made from perilla leaf kkaennip, served solo for a satisfying dinner",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "perilla leaf kkaennip",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Thread the sliced beef heart onto skewers",
+    "In a bowl, mix together olive oil, garlic, ginger, turmeric, black pepper, and salt",
+    "Brush the mixture onto the beef heart skewers",
+    "Place the skewers in a bain-marie and roast in the oven for 20 minutes",
+    "Meanwhile, combine the chopped perilla leaf kkaennip, water, and gelatin in a saucepan",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes",
+    "Strain the mixture through a fine mesh sieve into a bowl",
+    "Let the mixture cool to room temperature, then refrigerate until set",
+    "Serve the roasted beef heart anticuchos with the glassy perilla leaf kkaennip jelly"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "beef-recipes",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "herb-roasted-peruvian-beef-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-roasted-peruvian-beef-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:24:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "bain-marie",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Herb Roasted",
+    "dishForm": "Anticuchos"
+  }
+}
