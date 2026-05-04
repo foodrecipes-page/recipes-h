@@ -1,0 +1,117 @@
+{
+  "title": "Hot Jamaican Tuna Pie",
+  "description": "A spicy, gooey midnight craving dish featuring tuna and lamination-puff, diabetic-friendly and made in a kadhai.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tuna",
+      "amount": "200g",
+      "notes": "drained"
+    },
+    {
+      "name": "puff pastry sheet",
+      "amount": "2",
+      "notes": "laminated"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai with one tablespoon of vegetable oil.",
+    "Add the chopped onion, minced garlic, and finely chopped scotch bonnet pepper, sautéing until fragrant.",
+    "Stir in one teaspoon of ginger, one teaspoon of allspice, and two tablespoons of tomato paste, cooking for one minute.",
+    "Add the drained canned tuna to the mixture and cook for two minutes, then season with one teaspoon of salt and one half teaspoon of black pepper.",
+    "Fold in one tablespoon of chopped cilantro and mix thoroughly.",
+    "Set the tuna mixture aside to cool slightly.",
+    "Roll out the puff pastry sheets on a lightly floured surface and cut into four equal squares.",
+    "Place a spoonful of tuna filling on the center of each pastry square, fold the edges over, and seal with a fork.",
+    "Arrange the folded pastries on a greased baking pan, brush the tops with a beaten egg for shine.",
+    "Bake in a preheated oven at 200°C for fifteen minutes until the pastry is golden and crisp.",
+    "Remove from oven, let sit one minute, then serve hot.",
+    "Enjoy the spicy, gooey tuna pies while they are still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "hot",
+    "jamaican",
+    "kadhai",
+    "puff-pastry",
+    "spicy",
+    "tuna"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "hot-jamaican-tuna-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-jamaican-tuna-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:58:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tuna",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Tuna",
+    "descriptor": "Hot",
+    "dishForm": "Pie"
+  }
+}

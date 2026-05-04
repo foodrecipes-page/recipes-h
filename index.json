@@ -3417,6 +3417,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-crispy-gujarati-sevai-grill",
+    "title": "Hot Crispy Gujarati Sevai Grill",
+    "tags": [
+      "grilled",
+      "monsoon",
+      "quick",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hot-croatian-beef-toast",
     "title": "Hot Croatian Beef Toast",
     "tags": [
@@ -3429,6 +3444,22 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-jamaican-tuna-pie",
+    "title": "Hot Jamaican Tuna Pie",
+    "tags": [
+      "diabetic-friendly",
+      "hot",
+      "jamaican",
+      "kadhai",
+      "puff-pastry",
+      "spicy",
+      "tuna"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

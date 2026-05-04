@@ -1,0 +1,107 @@
+{
+  "title": "Hot Crispy Gujarati Sevai Grill",
+  "description": "Salty, springy grilled sevai seasoned with Gujarati spices, perfect for monsoon days.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sevai",
+      "amount": "200g"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "amchur powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "chopped green chili",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh coriander leaves",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat an iron teppan over medium heat and lightly oil it with a paper towel.",
+    "In a bowl mix 200g sevai, 1 tbsp ground flaxseed, 1 tsp amchur powder, 1 tsp chili powder, and 1 tsp salt.",
+    "Toss the sevai in 1 tbsp of oil until coated and set aside to dry slightly.",
+    "Sprinkle 1 tsp ground coriander and 1/2 tsp black pepper over the coated sevai and mix well.",
+    "Place the seasoned sevai in a single layer on the teppan and press gently with a spatula.",
+    "Grill for 4 minutes on one side until golden and crispy, then flip and grill the other side for 3 minutes.",
+    "Remove the sevai and toss with freshly squeezed juice from one lemon and finely chopped garlic.",
+    "Serve hot with a side of chopped green chili and fresh coriander leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "monsoon",
+    "quick",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "hot-crispy-gujarati-sevai-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-crispy-gujarati-sevai-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:57:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "sevaiiya",
+    "diet": "mediterranean",
+    "region": "gujarati",
+    "cuisineAdjective": "Gujarati",
+    "mainIngredient": "sevai",
+    "descriptor": "Hot Crispy",
+    "dishForm": "Grill"
+  }
+}
