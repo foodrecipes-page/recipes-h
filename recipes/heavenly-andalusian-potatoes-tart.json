@@ -1,0 +1,109 @@
+{
+  "title": "Heavenly Andalusian Potatoes Tart",
+  "description": "A jammy, silky, indulgent Spanish dish featuring charlotte potatoes, lamination-puff, and Mediterranean flavors.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puff pastry sheet",
+      "amount": "1",
+      "notes": "250g"
+    },
+    {
+      "name": "Potatoes, small yellow waxy",
+      "amount": "300g",
+      "notes": "about 2 medium"
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "150g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Peel and thinly slice potatoes into 1-2 mm rounds, rinse and pat dry.",
+    "In a skillet, heat olive oil over medium heat; sauté potatoes with salt, pepper, paprika, and oregano until just tender, about 5 minutes.",
+    "Spread the apricot jam over the puff pastry sheet in the center, leaving a 1 cm border.",
+    "Arrange the sautéed potato slices over the jam in a circular pattern, overlapping slightly.",
+    "Whisk together heavy cream, egg yolk, and melted butter until smooth.",
+    "Pour the cream mixture evenly over the potatoes, ensuring full coverage.",
+    "Fold the pastry edges toward the center to enclose the filling, then brush the top with remaining cream mixture.",
+    "Bake for 25 minutes until the pastry is golden and the filling is set.",
+    "Remove from oven, let cool 5 minutes, then sprinkle chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "jammy",
+    "mediterranean",
+    "potato-tart",
+    "puff-pastry",
+    "quick-bake"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 41
+  },
+  "slug": "heavenly-andalusian-potatoes-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-andalusian-potatoes-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:38:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "mediterranean",
+    "region": "andalusian",
+    "cuisineAdjective": "Andalusian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Heavenly",
+    "dishForm": "Tart"
+  }
+}
