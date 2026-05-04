@@ -1,0 +1,106 @@
+{
+  "title": "Herbal Irish Prosciutto Flatbread",
+  "description": "A dense, earthy flatbread featuring the herbal notes of wild garlic and rosemary, paired with the salty sweetness of prosciutto, perfect for a monsoon-inspired Irish meal. This recipe is adapted for a shojin-friendly diet and served in an agave-leaf vessel.",
+  "cuisine": "Irish",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild Garlic",
+      "amount": "2 tbsp",
+      "notes": "Chopped fresh or 1 tsp dried"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Agave Syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 tsp",
+      "notes": "Chopped fresh or 1/2 tsp dried"
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "4 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Agave-Leaf Vessel",
+      "amount": "1",
+      "notes": "Fresh, large enough to hold the flatbread"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "Unbleached, all-purpose"
+    }
+  ],
+  "instructions": [
+    "Combine wild garlic, yeast, and 1/2 cup warm water in a large mixing bowl, let sit for 10 minutes.",
+    "Add agave syrup, rosemary, salt, and flour to the bowl, mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover with a damp cloth, and let rise in a warm place for 2 hours.",
+    "Preheat a dry griddle or skillet over medium-high heat, cook the flatbread for 2-3 minutes per side, until puffed and golden.",
+    "Meanwhile, slice the prosciutto into thin strips and place on a baking sheet, bake in a preheated oven at 200°F (90°C) for 5-7 minutes, until crispy.",
+    "Place the cooked flatbread on the agave-leaf vessel, top with crispy prosciutto and a drizzle of olive oil.",
+    "Serve immediately, garnished with additional wild garlic if desired.",
+    "Cut the flatbread into slices or wedges, serve with additional prosciutto and agave syrup if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "herbal",
+    "irish-cuisine",
+    "one-pan",
+    "prosciutto",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "herbal-irish-prosciutto-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-irish-prosciutto-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "prosciutto",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Prosciutto",
+    "descriptor": "Herbal",
+    "dishForm": "Flatbread"
+  }
+}
