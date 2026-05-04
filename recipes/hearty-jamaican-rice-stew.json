@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Jamaican Rice Stew",
+  "description": "A fermented, fluffy one-pot Jamaican dish packed with smoky paprika and fresh veggies, perfect for a quick halal-friendly lunch.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced cooked chicken breast",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced green beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce (tamari)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice until water runs clear and set aside.",
+    "In a large pot, combine the rice, smoked paprika, carrot, green beans, and vegetable broth; bring to a boil over medium-high heat.",
+    "Reduce heat to low, cover, and simmer for 15 minutes, stirring occasionally.",
+    "Stir in the coconut milk, soy sauce, diced chicken, salt, and black pepper; return to a gentle simmer.",
+    "Cook for an additional 10 minutes, uncovered, until the rice is tender and liquid is absorbed.",
+    "Remove from heat and let the stew rest for 5 minutes.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "hearty",
+    "jamaican",
+    "one-pot",
+    "rice-stew",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 20,
+    "carbs": 85,
+    "fat": 20
+  },
+  "slug": "hearty-jamaican-rice-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-jamaican-rice-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:39:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "smoked paprika",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

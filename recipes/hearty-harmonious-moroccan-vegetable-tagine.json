@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Harmonious Moroccan Vegetable Tagine",
+  "description": "This cultured and springy Moroccan dish features red curry paste and fermented ingredients, making it a great vegetarian option for a energizing meal. It combines the flavors of Morocco with the health benefits of fermented food.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "use a vegetarian friendly brand"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup",
+      "notes": "such as sauerkraut or kimchi"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Stir in the red curry paste and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and zucchini and cook for 5 minutes, until they start to soften.",
+    "Add the chickpeas, vegetable broth, fermented vegetables, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, until the vegetables are tender.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "healthy",
+    "moroccan",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-harmonious-moroccan-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-harmonious-moroccan-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:39:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Hearty Harmonious",
+    "dishForm": "Tagine"
+  }
+}

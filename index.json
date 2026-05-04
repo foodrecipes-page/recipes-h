@@ -361,6 +361,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-bitter-malaysian-fennel-curry",
+    "title": "Hearty Bitter Malaysian Fennel Curry",
+    "tags": [
+      "bitter-flavors",
+      "coconut-based",
+      "lazy-sunday",
+      "malaysian-cuisine",
+      "one-pan",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-british-almond-flour-fritters",
     "title": "Hearty British Almond Flour Fritters",
     "tags": [
@@ -598,6 +613,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-harmonious-moroccan-vegetable-tagine",
+    "title": "Hearty Harmonious Moroccan Vegetable Tagine",
+    "tags": [
+      "fermented-food",
+      "healthy",
+      "moroccan",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-holiday-turkish-cranberry-menemen",
     "title": "Hearty Holiday Turkish Cranberry Menemen",
     "tags": [
@@ -618,6 +648,21 @@
     "tags": [],
     "cuisine": "Irish",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-jamaican-rice-stew",
+    "title": "Hearty Jamaican Rice Stew",
+    "tags": [
+      "halal-friendly",
+      "hearty",
+      "jamaican",
+      "one-pot",
+      "rice-stew",
+      "smoked-paprika"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {

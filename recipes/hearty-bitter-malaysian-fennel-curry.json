@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Bitter Malaysian Fennel Curry",
+  "description": "A rich and flavorful Malaysian curry featuring bitter fennel bulb, perfect for a lazy Sunday. This dish is brine-wet and raw-friendly, making it a great option for those looking for a unique twist on traditional curry.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 large bulbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup",
+      "notes": "from pickled vegetables"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the sliced fennel bulb and cook for 5 minutes, stirring occasionally, until it starts to soften.",
+    "Add the curry powder and cook for 1 minute, stirring constantly, until the spices are fragrant.",
+    "Pour in the coconut milk and brine, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally, until the fennel is tender and the sauce has thickened.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "coconut-based",
+    "lazy-sunday",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-bitter-malaysian-fennel-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-bitter-malaysian-fennel-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:40:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "fennel bulb",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fennel",
+    "descriptor": "Hearty Bitter",
+    "dishForm": "Curry"
+  }
+}
