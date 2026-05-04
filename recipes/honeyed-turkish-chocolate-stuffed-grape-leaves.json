@@ -1,0 +1,107 @@
+{
+  "title": "Honeyed Turkish Chocolate Stuffed Grape Leaves",
+  "description": "These sweet grape leaves are filled with dark chocolate ganache, lightly fried to a crispy finish, then glazed with honey for a malty, festive treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh grape leaves",
+      "amount": "200g",
+      "notes": "rinsed and blanched"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "100g",
+      "notes": "70% cocoa, chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "30g"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "50g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for deep-fry"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "pistachios",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse grape leaves under cold water to remove excess brine and pat dry.",
+    "In a saucepan, melt butter and add coconut milk, honey, lemon zest, cinnamon, and a pinch of salt, stirring until the sauce thickens slightly.",
+    "Fold chopped dark chocolate into the warm sauce until smooth, then cool to room temperature.",
+    "Place a spoonful of chocolate mixture onto the center of each grape leaf, roll tightly, sealing the edges with a toothpick.",
+    "Heat olive oil in a deep pan to 180°C and carefully deep-fry the stuffed leaves for 2-3 minutes until golden and crisp.",
+    "Remove leaves with a slotted spoon and drain on paper towels.",
+    "Drizzle the remaining honey over the warm grape leaves and squeeze fresh lemon juice for brightness.",
+    "Sprinkle chopped pistachios if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "grape-leaves",
+    "quick",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 11
+  },
+  "slug": "honeyed-turkish-chocolate-stuffed-grape-leaves",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-turkish-chocolate-stuffed-grape-leaves",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:46:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "dark chocolate",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Honeyed",
+    "dishForm": "Stuffed Grape Leaves"
+  }
+}

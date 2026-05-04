@@ -2935,6 +2935,20 @@
     "shard": "h"
   },
   {
+    "slug": "honeyed-turkish-chocolate-stuffed-grape-leaves",
+    "title": "Honeyed Turkish Chocolate Stuffed Grape Leaves",
+    "tags": [
+      "chocolate",
+      "dessert",
+      "grape-leaves",
+      "quick",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "horseradish-crunchy-delight",
     "title": "Horseradish Crunchy Delight",
     "tags": [
