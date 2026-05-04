@@ -1,0 +1,96 @@
+{
+  "title": "Hushed Ukrainian Onion Flatbread",
+  "description": "A yeasty, aerated flatbread with tender onions, perfect for midnight cravings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "180ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (100g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "In a bowl mix flour, yeast, salt, sugar and oregano.",
+    "Add warm water and olive oil and stir until dough forms.",
+    "Knead dough on lightly floured surface for 8 minutes until smooth.",
+    "Place dough in greased bowl, cover with damp cloth, let rise 30 minutes until doubled.",
+    "Preheat yakimono grill to medium heat.",
+    "Punch down dough, roll into 10 thin circles on parchment.",
+    "Spread each circle with chopped onion, minced garlic and a pinch of paprika.",
+    "Cook on grill 3-4 minutes per side until golden and cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "low-calorie",
+    "midnight-crave",
+    "onion",
+    "yakimono-grill",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "hushed-ukrainian-onion-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hushed-ukrainian-onion-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:59:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "chopped onion",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "onion",
+    "descriptor": "Hushed",
+    "dishForm": "Flatbread"
+  }
+}

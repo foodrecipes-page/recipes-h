@@ -5557,5 +5557,20 @@
     "cuisine": "Dutch",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hushed-ukrainian-onion-flatbread",
+    "title": "Hushed Ukrainian Onion Flatbread",
+    "tags": [
+      "flatbread",
+      "low-calorie",
+      "midnight-crave",
+      "onion",
+      "yakimono-grill",
+      "yeast"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
