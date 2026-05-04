@@ -1,0 +1,97 @@
+{
+  "title": "Heavenly Argentine Marzipan Mousse",
+  "description": "A fermented, velvety dessert that combines sweet marzipan with citrusy yogurt, shaped into delicate nigiri-style bites for a quick, ovo-vegetarian treat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Marzipan",
+      "amount": "200 g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Greek yogurt, plain",
+      "amount": "250 g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp",
+      "notes": "finely grated"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Ground grape seeds",
+      "amount": "30 g",
+      "notes": "for texture"
+    },
+    {
+      "name": "Toasted almond slivers",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place chopped marzipan, lemon zest, and ground grape seeds in a bowl and mix until evenly distributed.",
+    "Add Greek yogurt and honey and stir until the mixture becomes smooth and creamy.",
+    "Fold in chopped mint leaves and a pinch of salt, then chill the mixture in the refrigerator for 10 minutes to allow flavors to meld.",
+    "While the mixture chills, toast almond slivers on a dry pan until golden brown, then set aside to cool.",
+    "Remove the mousse from the fridge and use a small spoon or melon baller to scoop it into nigiri-sized portions.",
+    "Place each portion on a chilled plate and spread a thin layer of toasted almond slivers on top for crunch.",
+    "Arrange the bites in a single layer and refrigerate again for 5 minutes to set the shape.",
+    "Serve immediately with a drizzle of honey on the side and a sprig of mint for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aromatic",
+    "dessert",
+    "marzipan",
+    "ovo-vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1520,
+    "protein": 35,
+    "carbs": 110,
+    "fat": 89
+  },
+  "slug": "heavenly-argentine-marzipan-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-argentine-marzipan-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:32:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "marzipan",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentine",
+    "mainIngredient": "marzipan",
+    "descriptor": "Heavenly",
+    "dishForm": "Mousse"
+  }
+}
