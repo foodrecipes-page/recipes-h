@@ -1,0 +1,61 @@
+{
+  "title": "Hollow Japanese Grape Leaves Inari-zushi",
+  "description": "A vegan-friendly, quick-fix Chugoku-style Inari-zushi dish featuring grape leaves and lamination-puff.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "12-15 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Wrap grape leaves around lamination puff, leaving small hollow inside each leaf.",
+    "Place wrapped leaves seam-side down in a steamer basket.",
+    "Steam over boiling water for 5 minutes.",
+    "Serve warm with soy sauce or sesame oil for dipping."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "hollow-japanese-grape-leaves-inari-zushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hollow-japanese-grape-leaves-inari-zushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "grape leaves",
+    "diet": "vegan",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Grape leaves",
+    "descriptor": "Hollow",
+    "dishForm": "Inari-zushi"
+  }
+}

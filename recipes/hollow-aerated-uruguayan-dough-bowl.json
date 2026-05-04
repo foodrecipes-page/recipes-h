@@ -1,0 +1,87 @@
+{
+  "title": "Hollow-Aerated Uruguayan Dough Bowl",
+  "description": "A fun and tasty Uruguayan dish featuring a long-fermentation dough and a crunchy pickle topping, served in a traditional Korean brass bowl.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Long-fermentation dough (see notes)",
+      "amount": 350,
+      "notes": "Use store-bought or make your own using flour, water, salt, and a starter culture."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "Pickles",
+      "amount": 120,
+      "notes": "Sliced dill pickles work best."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": 2,
+      "notes": "Add some color and freshness to the dish."
+    },
+    {
+      "name": "Red onion",
+      "amount": 1,
+      "notes": "Thinly slice and caramelize for added sweetness."
+    },
+    {
+      "name": "Garlic",
+      "amount": 1,
+      "notes": "Minced and saut\u00021ed for depth of flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00106F (200\u00106C).",
+    "Roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "Use a cookie cutter or a knife to create fun shapes from the dough.",
+    "Place the dough shapes on a baking sheet lined with parchment paper.",
+    "Drizzle with vegetable oil and sprinkle with salt.",
+    "Bake in the preheated oven for 15 minutes, or until lightly browned.",
+    "While the dough is baking, caramelize the red onion and saut\u00021e the garlic in a pan with a little bit of oil until softened.",
+    "Once the dough is done, let it cool for a few minutes before filling with pickle slices, chopped parsley, and caramelized onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-dough",
+    "anti-inflammatory",
+    "kid-friendly",
+    "korean-brass-bowl",
+    "one-pan",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "hollow-aerated-uruguayan-dough-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hollow-aerated-uruguayan-dough-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "pickles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dough",
+    "descriptor": "Hollow-Aerated",
+    "dishForm": "Bowl"
+  }
+}

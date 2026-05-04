@@ -4407,6 +4407,20 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-crispy-thai-bamboo-shoot-noodles",
+    "title": "Herbal Crispy Thai Bamboo Shoot Noodles",
+    "tags": [
+      "high-protein",
+      "midnightcravings",
+      "one-pan",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-crispy-turkish-vegetable-bake",
     "title": "Herbal Crispy Turkish Vegetable Bake",
     "tags": [
@@ -5344,6 +5358,21 @@
     "shard": "h"
   },
   {
+    "slug": "hollow-aerated-uruguayan-dough-bowl",
+    "title": "Hollow-Aerated Uruguayan Dough Bowl",
+    "tags": [
+      "aerated-dough",
+      "anti-inflammatory",
+      "kid-friendly",
+      "korean-brass-bowl",
+      "one-pan",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
     "slug": "hollow-charred-spanish-chicken-catalan-ensaimada",
     "title": "Hollow Charred Spanish Chicken Catalan Ensaimada",
     "tags": [
@@ -5357,6 +5386,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-japanese-grape-leaves-inari-zushi",
+    "title": "Hollow Japanese Grape Leaves Inari-zushi",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "quick-fix",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 10,
     "shard": "h"
   },
   {
