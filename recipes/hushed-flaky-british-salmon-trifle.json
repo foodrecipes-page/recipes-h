@@ -1,0 +1,105 @@
+{
+  "title": "Hushed Flaky British Salmon Trifle",
+  "description": "A savory trifle featuring flaky poached salmon, tangy pomegranate molasses, and a creamy sauce, ideal for a hearty British meal-prep.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillets (halal)",
+      "amount": "500 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup (250 ml)"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "whole wheat baguette",
+      "amount": "4 slices"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "capers, rinsed",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and lightly grease a 9x13 inch baking dish.",
+    "In a large skillet, heat olive oil over medium heat, season salmon with salt and pepper, and sear both sides until golden brown, about 3 minutes per side, then transfer to a shallow dish.",
+    "Pour pomegranate molasses and lemon juice over the seared salmon, add dill, parsley, and grated ginger, and let the salmon rest for 5 minutes to absorb flavors.",
+    "Whisk together heavy cream, Dijon mustard, and capers until smooth, then fold in a pinch of salt.",
+    "Toast baguette slices in a dry skillet until golden, then cut into small cubes and scatter them in the dish as a base layer.",
+    "Arrange poached salmon slices on top of the bread crumbs, then pour the cream sauce evenly over the salmon.",
+    "Sprinkle toasted sesame seeds over the top and place the dish in the oven for 10 minutes to meld the flavors.",
+    "Remove from the oven, let cool slightly, then refrigerate overnight to allow the trifle to set before serving chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "halal-friendly",
+    "meal-prep",
+    "salmon",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 30
+  },
+  "slug": "hushed-flaky-british-salmon-trifle",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hushed-flaky-british-salmon-trifle",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:08:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Salmon",
+    "descriptor": "Hushed Flaky",
+    "dishForm": "Trifle"
+  }
+}
