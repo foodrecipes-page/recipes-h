@@ -1,0 +1,115 @@
+{
+  "title": "hot molten Portuguese uni Skillet",
+  "description": "A sour and molten Portuguese dish featuring uni, perfect for a post-workout meal, made with sugar-free friendly ingredients in an iron teppan skillet.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan skillet over medium high heat.",
+    "Add olive oil to the preheated skillet and swirl it around.",
+    "Add the sliced portuguese sausage to the skillet and cook until browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chopped onion, bell pepper, and tomato to the skillet and cook until the vegetables are tender.",
+    "Add the chicken broth, lemon juice, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the fresh uni to the skillet and stir to combine.",
+    "Reduce the heat to low and cook for an additional 2 minutes.",
+    "Serve the hot molten Portuguese uni skillet immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "portuguese-cuisine",
+    "post-workout",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hot-molten-portuguese-uni-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-molten-portuguese-uni-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:13:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "emulsify",
+    "primaryIngredient": "uni",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "uni",
+    "descriptor": "hot molten",
+    "dishForm": "Skillet"
+  }
+}

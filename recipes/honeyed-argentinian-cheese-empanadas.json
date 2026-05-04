@@ -1,0 +1,93 @@
+{
+  "title": "Honeyed Argentinian Cheese Empanadas",
+  "description": "Sweet, aerated empanadas filled with creamy cheese and glazed with honey, perfect for a cozy treat.",
+  "cuisine": "argentinian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50 g",
+      "notes": "melted"
+    },
+    {
+      "name": "Warm water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "30 ml",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Cheddar cheese slices",
+      "amount": "200 g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and grease a baking sheet.",
+    "In a large bowl, combine flour and salt.",
+    "Gradually whisk in warm water and melted butter until dough forms.",
+    "Knead dough on a floured surface for 5 minutes, then cover and rest for 10 minutes.",
+    "Divide dough into 12 equal pieces and roll each into a 6-inch circle.",
+    "Place 30 g of cheese slices and a drizzle of honey on half of each circle, fold over, and seal edges with a fork.",
+    "Brush empanadas with beaten egg and arrange on the sheet.",
+    "Bake for 15 minutes until golden brown, then cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cozy",
+    "high-protein",
+    "quick",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 2300,
+    "protein": 90,
+    "carbs": 227,
+    "fat": 111
+  },
+  "slug": "honeyed-argentinian-cheese-empanadas",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-argentinian-cheese-empanadas",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:12:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "cheese slices",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Honeyed",
+    "dishForm": "Empanadas"
+  }
+}
