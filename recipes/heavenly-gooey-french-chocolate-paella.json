@@ -1,0 +1,90 @@
+{
+  "title": "Heavenly Gooey French Chocolate Paella",
+  "description": "A rich and decadent dessert featuring dark chocolate and ras el hanout, cooked to perfection in a paella pan. This dish is sure to impress with its gooey center and complex flavors.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "2 cups",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a medium bowl, whisk together the flour, sugar, and ras el hanout.",
+    "In a large bowl, melt the chocolate chips in the microwave in 30 second increments, stirring between each interval, until smooth.",
+    "Whisk together the heavy cream, eggs, and melted butter, then pour into the chocolate, whisking until well combined.",
+    "Add the dry ingredients to the chocolate mixture and stir until just combined.",
+    "Pour the batter into a 15 inch paella pan and smooth the top.",
+    "Bake for 25 minutes, then reduce the oven temperature to 350 degrees and continue baking for an additional 10 minutes.",
+    "Remove the paella from the oven and sprinkle with flaky sea salt.",
+    "Let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dark-chocolate",
+    "french-pastry",
+    "gooey-center",
+    "one-pan",
+    "rich-dessert",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "heavenly-gooey-french-chocolate-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-gooey-french-chocolate-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:24:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "ras el hanout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chocolate",
+    "descriptor": "heavenly gooey",
+    "dishForm": "Paella"
+  }
+}
