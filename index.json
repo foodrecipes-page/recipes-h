@@ -398,6 +398,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-korean-rice-fried-rice",
+    "title": "Hearty Korean Rice Fried Rice",
+    "tags": [
+      "easy-meal-prep",
+      "korean-cuisine",
+      "one-pan-meal",
+      "spicy-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-mediterranean-chickpeas-tagine",
     "title": "Hearty Mediterranean Chickpeas Tagine",
     "tags": [],

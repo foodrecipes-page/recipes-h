@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Korean Rice Fried Rice",
+  "description": "A sour, tender, and indulgent Korean dish featuring rice, fry, and nut-free friendly ingredients, perfect for a weeknight dinner. This recipe is a delicious and easy way to use up leftover rice and vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, gochujang, and kimchi, cooking for about 2-3 minutes, until the rice is well coated.",
+    "Add the chopped green onion, salt, and black pepper, stirring to combine.",
+    "Cook for an additional 2 minutes, until the rice is heated through and starting to brown.",
+    "Remove the skillet or wok from the heat and serve the fried rice hot.",
+    "Garnish with additional green onion and kimchi, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal-prep",
+    "korean-cuisine",
+    "one-pan-meal",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-korean-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-korean-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:06:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "fry",
+    "primaryIngredient": "rice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Hearty",
+    "dishForm": "Fried-Rice"
+  }
+}
