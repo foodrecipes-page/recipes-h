@@ -1,0 +1,95 @@
+{
+  "title": "Healthy Chinese Tofu Bao",
+  "description": "A fresh and fluffy Chinese dish featuring pomegranate and pickle, perfect for a satvik-friendly meal prep option. This recipe is easy to make and packed with nutritious ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bao buns",
+      "amount": "4-6 buns"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tofu into small cubes and bake for 20 minutes.",
+    "Prepare the pomegranate seeds by rinsing them in water.",
+    "Slice the pickle into thin strips.",
+    "Steam the bao buns for 5 minutes.",
+    "Assemble the tofu bao by spreading soy sauce and sesame oil on the bun, then adding the tofu, pomegranate seeds, pickle slices, and scallions.",
+    "Drizzle the grated ginger on top of the tofu bao.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-food",
+    "easy-lunch",
+    "healthy",
+    "meal-prep",
+    "tofu-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "healthy-chinese-tofu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-chinese-tofu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:55:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "pomegranate",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Healthy",
+    "dishForm": "Bao"
+  }
+}

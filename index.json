@@ -306,6 +306,21 @@
     "shard": "h"
   },
   {
+    "slug": "healthy-chinese-tofu-bao",
+    "title": "Healthy Chinese Tofu Bao",
+    "tags": [
+      "chinese-food",
+      "easy-lunch",
+      "healthy",
+      "meal-prep",
+      "tofu-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-arabian-lamb-tagine",
     "title": "Hearty Arabian Lamb Tagine",
     "tags": [],
