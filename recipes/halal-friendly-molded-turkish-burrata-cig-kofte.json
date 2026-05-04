@@ -1,0 +1,123 @@
+{
+  "title": "Halal-Friendly Molded Turkish Burrata Cig-Kofte",
+  "description": "A nutty, molten Turkish dish featuring burrata, perfect for kids, cooked in a ttukbaegi earthenware pot and made with halal-friendly ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "1 block",
+      "notes": "halal-friendly, 250g"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Kashkaval cheese",
+      "amount": "50g",
+      "notes": "crumbly, halal-friendly"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "200g",
+      "notes": "halal-friendly, lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot in a preheated oven at 180°C for 10 minutes.",
+    "In a large bowl, combine the ground beef, onion, garlic, parsley, salt, and black pepper. Mix well.",
+    "Add the breadcrumbs, egg, and mix until just combined.",
+    "Cut the burrata cheese into small pieces and add to the bowl. Mix until just combined.",
+    "Shape the mixture into small cylindrical shapes, about 5cm in diameter and 7cm in length.",
+    "Place the shaped mixture into the preheated ttukbaegi earthenware pot and cover with a lid.",
+    "Bake in the preheated oven at 180°C for 15 minutes.",
+    "Remove the pot from the oven and let it cool for 5 minutes.",
+    "Use a spoon to scoop out the molten cheese and serve hot.",
+    "Serve immediately and enjoy.",
+    "This dish can be served as a snack or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "halal",
+    "kid-friendly",
+    "one-pan",
+    "snack",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "halal-friendly-molded-turkish-burrata-cig-kofte",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-friendly-molded-turkish-burrata-cig-kofte",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:37:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "burrata",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Burrata",
+    "descriptor": "Halal-friendly Molded",
+    "dishForm": "Cig-Kofte"
+  }
+}
