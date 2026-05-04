@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Winey German Seitan Skillet",
+  "description": "A weeknight German dish featuring seitan, red chilli flakes, and pickle, with a winey and cheesy flavor, served on a hot stone plate. This plant-based dish is perfect for a quick and satisfying dinner.",
+  "cuisine": "German",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large hot stone plate over medium-high heat on the stovetop.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the seitan and cook until it is browned on all sides, breaking it up into small pieces as it cooks.",
+    "Add the red wine, vegetable broth, red chilli flakes, caraway seeds, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, stirring occasionally.",
+    "Stir in the chopped pickle and cook for an additional minute.",
+    "Reduce the heat to low and stir in the shredded vegan cheese until it is melted and the mixture is creamy.",
+    "Serve the seitan mixture hot on the hot stone plate, garnished with additional caraway seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pan",
+    "plant-based",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-winey-german-seitan-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-winey-german-seitan-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:02:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "seitan",
+    "descriptor": "hearty winey",
+    "dishForm": "Skillet"
+  }
+}
