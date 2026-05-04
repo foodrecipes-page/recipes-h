@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Egyptian Chicken Broth",
+  "description": "A spicy, silky broth that blends classic Egyptian spices with tender chicken, finished with miniature marshmallows for a kid-friendly twist. The dish is paleo-friendly and brine-wet for a deep umami flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken pieces",
+      "amount": "1 kg"
+    },
+    {
+      "name": "water",
+      "amount": "12 cups"
+    },
+    {
+      "name": "onion, quartered",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, crushed",
+      "amount": "4"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "celery stalk, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "8 oz"
+    }
+  ],
+  "instructions": [
+    "Place the chicken, onion, garlic, carrot, celery, cumin, coriander, paprika, turmeric, and cayenne in a large pot and cover with water.",
+    "Bring to a rolling boil over high heat, then reduce to a gentle simmer and cover.",
+    "Simmer for 45 minutes, or until the chicken is fully cooked and tender.",
+    "Remove the chicken, let it cool slightly, then shred the meat and return it to the pot.",
+    "Add a pinch of sea salt to taste and continue to simmer for 10 more minutes to allow the flavors to meld.",
+    "Stir in the miniature marshmallows and let them soften, about 2 minutes, until they become silky and glossy.",
+    "Taste and adjust seasoning with additional salt or cayenne if desired.",
+    "Garnish with fresh cilantro if using and serve hot.",
+    "Let the broth cool before storing in airtight containers for up to 4 days in the refrigerator.",
+    "Reheat gently over low heat before serving again."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "kid-friendly",
+    "paleo",
+    "silky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "hearty-egyptian-chicken-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-egyptian-chicken-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:31:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "brine-wet",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty",
+    "dishForm": "Broth"
+  }
+}
