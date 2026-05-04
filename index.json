@@ -974,6 +974,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-halal-egyptian-lamb-flatbread",
+    "title": "Hearty Halal Egyptian Lamb Flatbread",
+    "tags": [
+      "flatbread",
+      "high-protein",
+      "lamb-based",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-hangover-thai-chicken-khao-pad",
     "title": "Hearty Hangover Thai Chicken Khao Pad",
     "tags": [
