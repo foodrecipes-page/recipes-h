@@ -1,0 +1,93 @@
+{
+  "title": "Honeyed Velvet Argentinian Bananas Roast",
+  "description": "A resinous, velvety dessert that marries sweet bananas with honey and cinnamon, roasted on a cedar plank for a smoky finish.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "4 medium",
+      "notes": "peeled and sliced lengthwise"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "drizzled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "sprinkled"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp",
+      "notes": "sprinkled"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "sprinkled"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 medium",
+      "notes": "pre-soaked in water for 30 min"
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor oven to 200°C and place cedar plank inside to heat.",
+    "Arrange banana slices on a baking sheet while the plank heats.",
+    "Drizzle olive oil over banana slices and sprinkle with cinnamon and sea salt.",
+    "Roast bananas on the cedar plank in the tandoor for 12 minutes until caramelized and slightly charred.",
+    "Remove the plank from the tandoor and drizzle honey evenly over the hot bananas.",
+    "Let the bananas sit for 2 minutes so the honey sinks into the caramelized surface.",
+    "Garnish with lime zest before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "dessert",
+    "easy",
+    "tandoor",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 158,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "honeyed-velvet-argentinian-bananas-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-velvet-argentinian-bananas-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:25:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "tandoor",
+    "primaryIngredient": "bananas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Bananas",
+    "descriptor": "Honeyed Velvet",
+    "dishForm": "Roast"
+  }
+}

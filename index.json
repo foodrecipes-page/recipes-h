@@ -455,6 +455,22 @@
     "shard": "h"
   },
   {
+    "slug": "healing-american-mushroom-stew",
+    "title": "Healing American Mushroom Stew",
+    "tags": [
+      "american",
+      "hangover-cure",
+      "high-protein",
+      "mushroom",
+      "slow-cook",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 255,
+    "shard": "h"
+  },
+  {
     "slug": "healing-arabian-lentil-tagine",
     "title": "Healing Arabian Lentil Tagine",
     "tags": [
@@ -5230,6 +5246,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-velvet-argentinian-bananas-roast",
+    "title": "Honeyed Velvet Argentinian Bananas Roast",
+    "tags": [
+      "cedar-plank",
+      "dessert",
+      "easy",
+      "tandoor",
+      "vegan-friendly"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

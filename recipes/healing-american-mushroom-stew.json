@@ -1,0 +1,119 @@
+{
+  "title": "Healing American Mushroom Stew",
+  "description": "A floral, velvety stew that heals hangovers with earthy mushrooms, beans, and herbs, cooked low and slow for deep flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white button mushrooms",
+      "amount": "2 lbs",
+      "notes": "about 900 g"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "about 200 g"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "about 200 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "about 150 g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "about 15 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "about 30 ml"
+    },
+    {
+      "name": "low sodium vegetable broth",
+      "amount": "8 cups",
+      "notes": "about 2 L"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "about 5 g"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "about 5 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "about 2.5 g"
+    },
+    {
+      "name": "canned black beans drained and rinsed",
+      "amount": "2 cups",
+      "notes": "about 400 g"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat olive oil over medium heat and sauté onion, garlic, carrot, and celery until softened, about 5 minutes.",
+    "While the vegetables cook, clean and slice mushrooms into thick wedges.",
+    "Transfer the sautéed vegetables to a slow cooker and add sliced mushrooms, black beans, broth, dried thyme, bay leaf, salt, and pepper.",
+    "Stir everything together until well combined.",
+    "Cover and cook on low for 4 hours, or on high for 2 hours, until the flavors meld.",
+    "Taste and adjust seasoning if necessary.",
+    "Remove bay leaf before serving.",
+    "Ladle the stew into bowls and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "hangover-cure",
+    "high-protein",
+    "mushroom",
+    "slow-cook",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 16,
+    "carbs": 43,
+    "fat": 6
+  },
+  "slug": "healing-american-mushroom-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-american-mushroom-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:25:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "mushroom",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "mushroom",
+    "descriptor": "Healing",
+    "dishForm": "Stew"
+  }
+}
