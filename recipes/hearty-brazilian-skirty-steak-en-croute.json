@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Brazilian Skirty Steak En Croute",
+  "description": "A malty and aerated Brazilian dish featuring skirty steak en croute, perfect for a meal prep dinner, this recipe is onion and garlic free.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirty steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "malty beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together malty beer, egg, water, salt, and black pepper.",
+    "Add the skirty steak pieces to the bowl and marinate for 30 minutes.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Remove the steak from the marinade and place it in the center of the pastry rectangle.",
+    "Brush the edges of the pastry with olive oil.",
+    "Fold the pastry over the steak, pressing the edges to seal.",
+    "Place the en croute on a baking sheet and brush the top with olive oil.",
+    "Bake for 25 minutes or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "dinner-ideas",
+    "gluten-free",
+    "meal-prep",
+    "pastry-dishes",
+    "steak-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-brazilian-skirty-steak-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-brazilian-skirty-steak-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:22:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "skirty steak",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "skirty steak",
+    "descriptor": "hearty malty",
+    "dishForm": "en croute"
+  }
+}
