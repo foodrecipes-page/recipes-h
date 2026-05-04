@@ -2115,6 +2115,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoked-polish-nectarine-stew",
+    "title": "Hearty Smoked Polish Nectarine Stew",
+    "tags": [
+      "cazuela-recipes",
+      "comfort-food",
+      "fruit-based",
+      "one-pot",
+      "polish-cuisine",
+      "smoky"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-algerian-lamb-tagine",
     "title": "Hearty Smoky Algerian Lamb Tagine",
     "tags": [
