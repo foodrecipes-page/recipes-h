@@ -389,6 +389,19 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dutch-bread-toast",
+    "title": "Hearty Dutch Bread Toast",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 18,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-egyptian-chicken-broth",
     "title": "Hearty Egyptian Chicken Broth",
     "tags": [

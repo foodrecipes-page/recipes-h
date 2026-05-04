@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Dutch Bread Toast",
+  "description": "A quick and easy Dutch-inspired breakfast featuring peppery flavors and tender toast.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": "or half-and-half or milk"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Slice the whole wheat bread into 1-inch thick slices.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Spread a small amount of softened butter on each bread slice.",
+    "Mix the green curry paste and heavy cream in a small bowl until well combined.",
+    "Brush the curry cream mixture evenly onto each bread slice.",
+    "Season with salt and black pepper to taste.",
+    "Place the bread slices on the preheated skillet or griddle and cook for 2-3 minutes on each side.",
+    "Garnish with chopped cilantro and grated cheddar cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "hearty-dutch-bread-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dutch-bread-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:03:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bread",
+    "descriptor": "Hearty",
+    "dishForm": "Toast"
+  }
+}
