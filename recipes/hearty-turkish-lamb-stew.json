@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Turkish Lamb Stew",
+  "description": "A slow-cooked lamb shank stew with fragrant spices, tomatoes, and deep herbs, served with leaf-wrap steam for a traditional Turkish meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shank",
+      "amount": "4 pieces",
+      "notes": "1.2 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400 g"
+    },
+    {
+      "name": "water or lamb stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add lamb shanks and brown on all sides for about 5 minutes.",
+    "Remove shanks and set aside.",
+    "In the same pot, sauté chopped onion and minced garlic until translucent, about 3 minutes.",
+    "Stir in sliced carrot and cubed potato, cooking for another 5 minutes.",
+    "Add diced tomatoes, cumin, paprika, and salt, and stir to coat vegetables.",
+    "Return lamb shanks to the pot, pour in water or stock, and add bay leaves.",
+    "Bring the mixture to a simmer, reduce heat to low, cover, and cook for 2 hours until lamb is tender.",
+    "Remove bay leaves, adjust seasoning, and serve hot with leaf-wrap steam."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "familys-dinner",
+    "halal-friendly",
+    "lamb-stew",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 80,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "hearty-turkish-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-turkish-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:47:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "hind shank",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

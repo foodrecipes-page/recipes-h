@@ -247,6 +247,21 @@
     "shard": "h"
   },
   {
+    "slug": "harsh-spanish-turkey-tagine",
+    "title": "Harsh Spanish Turkey Tagine",
+    "tags": [
+      "adventurous",
+      "banana-leaf",
+      "gluten-free",
+      "pungent",
+      "spicy",
+      "tagine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 105,
+    "shard": "h"
+  },
+  {
     "slug": "hasty-irish-swede-stew",
     "title": "Hasty Irish Swede Stew",
     "tags": [
@@ -1018,6 +1033,20 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-lamb-stew",
+    "title": "Hearty Turkish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "familys-dinner",
+      "halal-friendly",
+      "lamb-stew",
+      "slow-cook"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {

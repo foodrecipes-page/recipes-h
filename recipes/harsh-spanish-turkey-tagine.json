@@ -1,0 +1,113 @@
+{
+  "title": "Harsh Spanish Turkey Tagine",
+  "description": "A spicy, pungent Spanish turkey tagine that melts in a banana leaf, perfect for adventurous diners.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey thighs",
+      "amount": "400g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "1 large",
+      "notes": "washed, pliable"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 red",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "dried cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or oven to 200 degrees Celsius.",
+    "Fold the banana leaf into a square, wet it slightly to make it pliable, and place it in the bottom of the tagine.",
+    "Rub the turkey thighs with olive oil, cumin, paprika, salt, and pepper and let them rest for 10 minutes.",
+    "Sauté the onion, bell pepper, and carrot in the tagine until softened, about five minutes.",
+    "Add the diced tomatoes and stir for two minutes.",
+    "Place the seasoned turkey on top of the vegetables and pour in the chicken broth.",
+    "Cover the tagine with its lid and seal the banana leaf around the edges.",
+    "Cook for 70 minutes until the turkey is tender and the juices have thickened.",
+    "Remove the tagine from heat, let it rest for five minutes, then carefully transfer the contents onto a serving platter.",
+    "Garnish with fresh parsley if desired and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "banana-leaf",
+    "gluten-free",
+    "pungent",
+    "spicy",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 70
+  },
+  "slug": "harsh-spanish-turkey-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/harsh-spanish-turkey-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:47:31Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "tagine-cook",
+    "primaryIngredient": "turkey",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Turkey",
+    "descriptor": "Harsh",
+    "dishForm": "Tagine"
+  }
+}
