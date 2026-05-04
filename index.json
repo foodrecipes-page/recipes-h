@@ -841,6 +841,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-croatian-meat-stew",
+    "title": "Hearty Croatian Meat Stew",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "hearty-stew",
+      "low-calorie",
+      "one-pot",
+      "winter-meal"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crunchy-jamaican-cauliflower-roast",
     "title": "Hearty Crunchy Jamaican Cauliflower Roast",
     "tags": [
@@ -2593,6 +2608,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-lamb-kebabs",
+    "title": "Hearty Turkish Lamb Kebabs",
+    "tags": [
+      "high-protein",
+      "post-workout",
+      "quick-preparation",
+      "whole30-friendly",
+      "wood-fired"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {

@@ -1,0 +1,116 @@
+{
+  "title": "Hearty Turkish Lamb Kebabs",
+  "description": "Peppery, molten lamb kebabs perfect for post-workout fuel, featuring gelatin leafs and a wood-fired finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground sumac",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "Gelatin leaves",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Water for gelatin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "8",
+      "notes": "soaked"
+    }
+  ],
+  "instructions": [
+    "Rehydrate gelatin leaves in cold water for 5 minutes, then squeeze out excess moisture.",
+    "In a large bowl, combine the ground lamb, diced red pepper, minced garlic, cumin, paprika, sumac, salt, pepper, lemon zest, and parsley.",
+    "Mix the softened gelatin leaves into the lamb mixture until fully incorporated.",
+    "Let the mixture rest in the refrigerator for 30 minutes to allow flavors to meld.",
+    "Soak wooden skewers in warm water for 10 minutes to prevent burning.",
+    "Divide the lamb mixture into 8 equal portions and mold each portion onto a soaked skewer, shaping into a long thin kebab.",
+    "Preheat a charcoal or wood-fired grill to medium-high heat and oil the grill grates lightly.",
+    "Place the kebabs on the grill and cook for 8-10 minutes, turning occasionally, until the lamb reaches an internal temperature of 160°F and the exterior is charred and molten.",
+    "Remove the kebabs from the grill and let them rest for 3 minutes before serving.",
+    "Serve hot with a side of fresh cucumber salad or grilled tomato slices."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 10,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "post-workout",
+    "quick-preparation",
+    "whole30-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 12,
+    "carbs": 1,
+    "fat": 13
+  },
+  "slug": "hearty-turkish-lamb-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-turkish-lamb-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:15:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Kebabs"
+  }
+}
