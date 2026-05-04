@@ -1,0 +1,101 @@
+{
+  "title": "Hand Shattered Shio Koji Australian Fennel Sausage Tagine",
+  "description": "A citrus-forward Australian fusion dish where shio-koji cured halal sausages are roughly broken by hand and slow-cooked in a traditional clay vessel.",
+  "cuisine": "Australian-Moroccan Fusion",
+  "diet": [
+    "Halal",
+    "Dairy-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halal Beef Fennel Sausages",
+      "amount": "500g",
+      "notes": "high quality Australian beef"
+    },
+    {
+      "name": "Liquid Shio Koji",
+      "amount": "3 tbsp",
+      "notes": "for curing and tenderizing"
+    },
+    {
+      "name": "Preserved Lemon",
+      "amount": "1 piece",
+      "notes": "finely chopped skin only"
+    },
+    {
+      "name": "Blood Orange juice",
+      "amount": "120ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "400g",
+      "notes": "one can, drained and rinsed"
+    },
+    {
+      "name": "Spanish Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "roughly chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Toss the sausages in liquid shio koji and refrigerate for thirty minutes to cure the meat.",
+    "Remove the sausages from the marinade and shatter them into irregular chunks using your hands.",
+    "Heat the olive oil in the base of the clay tagine over medium heat.",
+    "Saute the sliced onions until they become translucent and slightly caramelized.",
+    "Add the shattered sausage pieces to the tagine and brown them for five minutes.",
+    "Stir in the chopped preserved lemon and the drained chickpeas.",
+    "Pour the blood orange juice over the mixture to provide a bright citrus base.",
+    "Place the conical lid on the tagine and reduce the heat to low.",
+    "Simmer the mixture for twenty-five minutes until the sauce has thickened and the flavors merge.",
+    "Remove from heat and garnish generously with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 35,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-made",
+    "citrusy",
+    "fusion",
+    "halal-friendly",
+    "high-protein",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 28,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hand-shattered-shio-koji-australian-fennel-sausage-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T09:11:35Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fennel Sausage",
+    "descriptor": "Hand Shattered Shio Koji",
+    "dishForm": "Tagine"
+  }
+}
