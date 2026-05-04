@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Smoky American Chicken Skewers",
+  "description": "Savory and smoky chicken skewers, perfect for a post-workout meal, featuring malt vinegar and grilled to perfection on a yakimono-grill",
+  "cuisine": "American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat",
+    "In a large bowl, whisk together malt vinegar, olive oil, smoked paprika, garlic powder, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the marinated chicken, onion, and bell pepper onto skewers",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "hearty-smoky-american-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-american-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:48:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "malt vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Skewers"
+  }
+}

@@ -1800,6 +1800,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-american-chicken-skewers",
+    "title": "Hearty Smoky American Chicken Skewers",
+    "tags": [
+      "american",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-argentinian-beef-skewers",
     "title": "Hearty Smoky Argentinian Beef Skewers",
     "tags": [
