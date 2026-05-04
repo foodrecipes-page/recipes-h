@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Syrian Semolina Pilaf",
+  "description": "A yeasty, molten one-pot dish that blends semolina with a shio-koji cure and fragrant spices for a sattvic-friendly lunch. The resulting pilaf is airy, flavorful, and comforting.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "sattvic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "200 g",
+      "notes": "medium grind"
+    },
+    {
+      "name": "dry low-sodium vegetable broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "shio-koji (salted fermented soy)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, finely diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried apricots, chopped",
+      "amount": "30 g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat and sauté the onion until translucent.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Stir in the semolina, toasting it lightly until it turns a pale golden color.",
+    "Pour in the vegetable broth and shio-koji, stirring until the mixture thickens slightly.",
+    "Season with cumin, coriander, cinnamon, and a pinch of salt, then add the chopped apricots.",
+    "Reduce the heat to low, cover the pot, and simmer for 12 minutes, or until the semolina is tender and the liquid is absorbed.",
+    "Remove from heat, fluff the pilaf with a fork, and let it rest for 5 minutes.",
+    "Serve warm, optionally garnishing with fresh herbs or a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pot",
+    "quick",
+    "sattvic-friendly",
+    "semolina",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 8
+  },
+  "slug": "hearty-syrian-semolina-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-syrian-semolina-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:33:39Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Semolina",
+    "descriptor": "Hearty",
+    "dishForm": "Pilaf"
+  }
+}
