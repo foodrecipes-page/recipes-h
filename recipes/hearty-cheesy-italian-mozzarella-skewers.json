@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Cheesy Italian Mozzarella Skewers",
+  "description": "A light and earthy Kenyan-inspired dish featuring Italian seasoning and mozzarella cheese, grilled to perfection on a robata grill, this recipe is FODMAP friendly and features render fat for added flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "12 oz",
+      "notes": "fresh, sliced into 1-inch cubes"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Rendered fat",
+      "amount": "1/4 cup",
+      "notes": "from pork or beef"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread a mozzarella cube, a cherry tomato half, and a sprinkle of basil onto each bamboo skewer.",
+    "Drizzle the rendered fat over the skewers, making sure each piece is coated.",
+    "Sprinkle the Italian seasoning, salt, and black pepper over the skewers.",
+    "Place the skewers on the robata grill and cook for 2-3 minutes per side, or until the cheese is melted and the skewers are heated through.",
+    "Serve immediately and enjoy.",
+    "Make sure to handle the skewers carefully, as they will be hot.",
+    "Let the skewers cool for a minute or two before serving to guests."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "grilled-cheese",
+    "italian-inspired",
+    "kenyan-cuisine",
+    "rendered-fat",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "hearty-cheesy-italian-mozzarella-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-cheesy-italian-mozzarella-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:24:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "render-fat",
+    "primaryIngredient": "italian seasoning",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "hearty cheesy",
+    "dishForm": "Skewers"
+  }
+}
