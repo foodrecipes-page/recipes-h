@@ -314,6 +314,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-egyptian-couscous-pilaf",
+    "title": "Hearty Egyptian Couscous Pilaf",
+    "tags": [
+      "healthy",
+      "high-fiber",
+      "one-pan",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-fragrant-saudi-arabian-lamb-kebabs",
     "title": "Hearty Fragrant Saudi Arabian Lamb Kebabs",
     "tags": [
@@ -554,6 +568,22 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-lamb-wrap",
+    "title": "Hearty Turkish Lamb Wrap",
+    "tags": [
+      "egg-free",
+      "festive",
+      "kofte",
+      "lamb",
+      "pandan-leaf",
+      "turkish",
+      "wrap"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {

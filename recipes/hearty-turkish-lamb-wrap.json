@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Turkish Lamb Wrap",
+  "description": "A malty, creamy and festive Turkish lamb kofté rolled in fresh pandan leaves, garnished with morning-glory pak bung and sun-dried tomato confit.",
+  "cuisine": "Turkish",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "300g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut yogurt",
+      "amount": "100g",
+      "notes": "use dairy yogurt for richer flavor"
+    },
+    {
+      "name": "morning glory pak bung leaves",
+      "amount": "12",
+      "notes": "washed and trimmed"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground lamb, diced onion, minced garlic, smoked paprika, dried mint, salt, pepper, and chickpea flour until well mixed.",
+    "Fold in coconut yogurt until the mixture is moist and holds together; rest for 10 minutes.",
+    "Heat a grill pan over medium heat and shape the mixture into small oval koftés, about 3 cm long.",
+    "Cook the koftés for 3–4 minutes per side, or until browned and cooked through, turning occasionally.",
+    "While the koftés are cooking, warm the pandan leaves in a dry skillet for 1 minute to make them pliable.",
+    "Once cooked, set the koftés aside and lightly drizzle them with a little olive oil.",
+    "Place a kofté on each pandan leaf, top with a slice of confit tomato, a handful of morning‑glory pak bung leaves, and a sprinkle of cilantro.",
+    "Fold the sides of the pandan leaf over the filling and roll tightly to form a wrap.",
+    "Arrange the wraps on a plate, drizzle with extra coconut yogurt, and garnish with additional cilantro if desired.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "festive",
+    "kofte",
+    "lamb",
+    "pandan-leaf",
+    "turkish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "hearty-turkish-lamb-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-turkish-lamb-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:11:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "confit-tomato",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Egyptian Couscous Pilaf",
+  "description": "A rich and flavorful Egyptian-inspired dish that is perfect for a sick day.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "250g",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Dried Apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the ground beef and cook, breaking it up with a spoon, until it is fully browned.",
+    "Add the chopped apricots, cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Add the chickpeas and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook for 10-15 minutes.",
+    "While the mixture is cooking, bring a large pot of salted water to a boil.",
+    "Add the couscous to the pot and cook for 8-10 minutes, or until it is tender and fluffy.",
+    "Fluff the cooked couscous with a fork and stir in the chopped parsley.",
+    "To serve, place a scoop of the couscous mixture onto a plate, then top with the cooked couscous.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-fiber",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-egyptian-couscous-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-egyptian-couscous-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:11:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "couscous",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "couscous",
+    "descriptor": "Hearty",
+    "dishForm": "Pilaf"
+  }
+}
