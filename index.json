@@ -840,6 +840,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-canadian-scamorza-gratin",
+    "title": "Hearty Canadian Scamorza Gratin",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "gratin",
+      "lacto-vegetarian",
+      "one-pot"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-cheesy-italian-mozzarella-skewers",
     "title": "Hearty Cheesy Italian Mozzarella Skewers",
     "tags": [
@@ -1810,6 +1824,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-quinoa-hash",
+    "title": "Hearty Irish Quinoa Hash",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "irish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

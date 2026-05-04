@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Canadian Scamorza Gratin",
+  "description": "A rustic Canadian gratin featuring creamy scamorza, tender potatoes, and a sprinkle of bonito-shave for a springy finish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scamorza cheese",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Bonito-shave",
+      "amount": "20g",
+      "notes": "sprinkle on top"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F and lightly butter a 9x9-inch baking dish.",
+    "Arrange a layer of thinly sliced potatoes across the bottom of the dish, seasoning with salt and pepper.",
+    "Place a layer of scamorza slices over the potatoes, leaving a small border around the edges.",
+    "Drizzle heavy cream evenly over the cheese, then sprinkle minced garlic and diced butter on top.",
+    "Repeat the layers until all ingredients are used, ending with a final layer of scamorza.",
+    "Sprinkle bonito-shave evenly over the top layer of cheese.",
+    "Bake for 30 minutes or until the cheese is golden brown and the potatoes are tender.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Serve hot as a comforting dinner for four."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gratin",
+    "lacto-vegetarian",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 40
+  },
+  "slug": "hearty-canadian-scamorza-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-canadian-scamorza-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:21:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "scamorza",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "scamorza",
+    "descriptor": "Hearty",
+    "dishForm": "Gratin"
+  }
+}
