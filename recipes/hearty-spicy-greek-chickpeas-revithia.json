@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Spicy Greek Chickpeas Revithia",
+  "description": "A spicy and crispy Greek dish featuring chickpeas and rum, made in a cataplana vessel, perfect for a festive dinner. This egg-free friendly recipe is sure to delight.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced and rendered"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the chickpeas, rum, and rendered lardons to the vessel, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Remove the lid and increase the heat to medium-high, cooking for an additional 5 minutes, or until the chickpeas are crispy.",
+    "Serve the revithia hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "gluten-free",
+    "greek",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-spicy-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:21:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "lardons-render",
+    "primaryIngredient": "rum",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Hearty Spicy",
+    "dishForm": "Revithia"
+  }
+}
