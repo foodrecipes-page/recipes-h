@@ -1,0 +1,113 @@
+{
+  "title": "Hearty Chewy Tunisian Citrusy Chicken Grill",
+  "description": "A flavorful and refreshing one-pan dish featuring grilled chicken, preserved lemon, and cultured creme fraiche. Perfect for a weekend brunch or a casual dinner.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Preserved lemon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cultured creme fraiche",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat. In a small bowl, mix together cumin, smoked paprika, salt, and black pepper. Rub the spice mixture all over the chicken breasts, then place them on the grill. Cook for 5-6 minutes per side, or until the chicken is cooked through.",
+    "Remove the chicken from the grill and let it rest for a few minutes. In a separate bowl, mix together preserved lemon, cultured creme fraiche, parsley, mint, lemon zest, and Tunisian chili flakes. ",
+    "Brush the grill with olive oil to prevent sticking. ",
+    "Add the chicken back to the grill and cook for an additional 2-3 minutes, or until it's nicely charred and slightly crispy on the edges.",
+    "Transfer the chicken to a serving platter and spoon the preserved lemon-creme fraiche mixture over the top. Serve immediately, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "citrus",
+    "creme-fraiche",
+    "grill",
+    "one-pan",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 38
+  },
+  "slug": "hearty-chewy-tunisian-citrusy-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chewy-tunisian-citrusy-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Citrusy Chicken",
+    "descriptor": "Hearty Chewy",
+    "dishForm": "Grill"
+  }
+}
