@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Irish Shrimp Soup",
+  "description": "A fresh, flaky shrimp soup infused with Irish herbs and a wholesome shrimp stock, perfect for a festive yet macrobiotic-friendly dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp stock",
+      "amount": "4 cups",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "fresh shrimp",
+      "amount": "200 g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "leek",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tsp",
+      "notes": "torn leaves"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a splash of olive oil.",
+    "Add the chopped onion, carrot, celery, and leek to the pot and sauté until softened, about 5 minutes.",
+    "Stir in the minced garlic and fresh thyme, cooking for 30 seconds until fragrant.",
+    "Pour in the shrimp stock and bring the mixture to a gentle boil.",
+    "Add the peeled shrimp to the pot and simmer for 4 minutes until they turn pink and are cooked through.",
+    "Season the soup with sea salt and black pepper to taste.",
+    "Remove the pot from heat, then stir in a handful of chopped parsley for color and freshness.",
+    "Serve hot, accompanied by crusty Irish soda bread for a complete meal."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ],
+  "slug": "hearty-irish-shrimp-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-shrimp-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:57:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "shrimp stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Hearty",
+    "dishForm": "Soup"
+  }
+}

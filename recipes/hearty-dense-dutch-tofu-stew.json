@@ -1,0 +1,118 @@
+{
+  "title": "Hearty Dense Dutch Tofu Stew",
+  "description": "A winey, dense, quick-fix Dutch stew featuring hoisin sauce, simmered in a stone bowl and served on a cedar plank.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "cut into 1cm cubes"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "150g",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "white wine",
+      "amount": "120 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "60 ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 175°C and place a cedar plank on the rack for steam aroma.",
+    "In a large stone bowl, heat one tablespoon sesame oil over medium heat.",
+    "Add minced garlic and grated ginger to the bowl and sauté until fragrant, about 1 minute.",
+    "Add sliced onions and carrots to the bowl, cooking until softened, about 3 minutes.",
+    "Stir in sliced shiitake mushrooms, cooking until they release moisture, about 2 minutes.",
+    "Pour in 120 ml white wine, letting it reduce slightly for 2 minutes.",
+    "Add 500 ml vegetable broth and 60 ml hoisin sauce, bringing the mixture to a gentle simmer.",
+    "Gently fold in diced tofu cubes, then cover the bowl and let the stew simmer for 20 minutes to meld flavors.",
+    "Stir in 2 sliced green onion stalks and 1 tbsp toasted sesame seeds just before serving.",
+    "Serve hot, placing the stone bowl directly on the cedar plank for an aromatic presentation."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "dense",
+    "dutch",
+    "hearty",
+    "one-pot",
+    "quick",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 24,
+    "carbs": 100,
+    "fat": 29
+  },
+  "slug": "hearty-dense-dutch-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-dutch-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:57:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tofu",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Stew"
+  }
+}

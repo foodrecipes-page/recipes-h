@@ -814,6 +814,23 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-dutch-tofu-stew",
+    "title": "Hearty Dense Dutch Tofu Stew",
+    "tags": [
+      "cedar-plank",
+      "dense",
+      "dutch",
+      "hearty",
+      "one-pot",
+      "quick",
+      "stone-bowl",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-spanish-kale-arroz-negro",
     "title": "Hearty Dense Spanish Kale Arroz Negro",
     "tags": [
@@ -1397,6 +1414,17 @@
       "irish",
       "one-pot",
       "slow-cook"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-shrimp-soup",
+    "title": "Hearty Irish Shrimp Soup",
+    "tags": [
+      "irish",
+      "dinner"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
