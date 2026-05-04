@@ -853,6 +853,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-egyptian-shrimp-stew",
+    "title": "Hearty Egyptian Shrimp Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-ethiopian-clams-bisque",
     "title": "Hearty Ethiopian Clams Bisque",
     "tags": [
