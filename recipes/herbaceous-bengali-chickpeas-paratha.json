@@ -1,0 +1,99 @@
+{
+  "title": "Herbaceous Bengali Chickpeas Paratha",
+  "description": "Salty, chewy parathas filled with spiced chickpeas and fresh herbs, perfect for a lazy Sunday meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green chili, minced",
+      "amount": "1 small"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain canned chickpeas, then mash slightly with a fork.",
+    "In a bowl, mix mashed chickpeas with fajita seasoning, turmeric, salt, chopped cilantro, mint, and minced chili.",
+    "In another bowl, whisk together whole wheat flour, water, and 1 tablespoon oil until a soft dough forms.",
+    "Divide dough into 8 equal portions, rolling each into a ball.",
+    "Flatten a dough ball into a small disc, spoon 2 tablespoons of chickpea filling onto the center, then fold edges over to seal.",
+    "Gently roll the stuffed disc into a paratha shape, about 6 inches in diameter.",
+    "Heat a non-stick skillet over medium heat, adding the remaining tablespoon of oil.",
+    "Place the paratha on the skillet, cooking for 2 minutes on each side, until golden brown and puffed.",
+    "Remove from skillet and place on a paper towel to drain excess oil.",
+    "Serve hot with a side of yogurt or pickles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 13,
+    "carbs": 52,
+    "fat": 9
+  },
+  "slug": "herbaceous-bengali-chickpeas-paratha",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-bengali-chickpeas-paratha",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:56:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "low-calorie",
+    "region": "bengali",
+    "cuisineAdjective": "Bengali",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Herbaceous",
+    "dishForm": "Paratha"
+  }
+}
