@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Malaysian Haricot Bean Curry",
+  "description": "A quick and flavorful Malaysian curry made with haricot beans and coconut cream, perfect for a weeknight dinner. This low-glycemic-friendly dish is cooked in individual mini cocottes for a fun and satisfying meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "cooked and fermented overnight"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Stir in the curry powder and cook for 1 minute, until fragrant.",
+    "Add the cooked and fermented haricot beans, coconut cream, salt, and black pepper to the skillet.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10 minutes, until the flavors have melded together.",
+    "Ladle the curry into individual mini cocottes and serve hot.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-based",
+    "coconut-cream",
+    "low-glycemic",
+    "malaysian-cuisine",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-malaysian-haricot-bean-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malaysian-haricot-bean-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:40:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "haricot beans",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "haricot beans",
+    "descriptor": "hearty harmonious",
+    "dishForm": "Curry"
+  }
+}
