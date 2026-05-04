@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Turkish Almond Menemen",
+  "description": "A creamy, savory menemen enriched with ground almonds and bonito shavings for a protein-packed, post-workout breakfast.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "100g"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "100g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bonito shavings",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a nonstick skillet over medium heat.",
+    "Add diced onion and bell pepper, sauté until softened, about 3 minutes.",
+    "Stir in ground almonds and cumin, cooking until the almonds lightly toast for 1 minute.",
+    "Pour in canned tomatoes, season with salt, pepper, and oregano, and simmer for 5 minutes.",
+    "Add bonito shavings and stir well, then cover and let the mixture thicken for another 3 minutes.",
+    "Remove from heat, fluff the mixture with a fork, and sprinkle chopped parsley on top.",
+    "Serve hot with crusty gluten‑free bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-dish",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "hearty-turkish-almond-menemen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-turkish-almond-menemen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:29:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "bonito-shave",
+    "primaryIngredient": "ground almonds",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "almonds",
+    "descriptor": "Hearty",
+    "dishForm": "Menemen"
+  }
+}

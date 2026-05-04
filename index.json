@@ -1336,6 +1336,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-algerian-lamb-tagine",
+    "title": "Hearty Smoky Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "hearty-stew",
+      "lamb-recipes",
+      "low-sodium",
+      "one-pot-meal",
+      "smoky-flavor"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-argentinian-beef-skewers",
     "title": "Hearty Smoky Argentinian Beef Skewers",
     "tags": [
@@ -1540,6 +1555,21 @@
     ],
     "cuisine": "tunisian",
     "totalTimeMin": 135,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-almond-menemen",
+    "title": "Hearty Turkish Almond Menemen",
+    "tags": [
+      "breakfast-dish",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "quick"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
