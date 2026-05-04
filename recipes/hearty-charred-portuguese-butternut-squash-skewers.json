@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Charred Portuguese Butternut Squash Skewers",
+  "description": "A kid-friendly Portuguese dish featuring charred and juicy butternut squash, this recipe is perfect for a weeknight dinner. The addition of tempering chocolate adds a unique twist to this traditional dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the cubed butternut squash to the bowl and toss to coat with the marinade.",
+    "Thread the marinated squash onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 20-25 minutes, turning occasionally, until the squash is charred and tender.",
+    "While the squash is grilling, melt the tempering chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Once the squash is done, brush with lemon juice and sprinkle with grated chocolate.",
+    "Serve the skewers hot, garnished with additional paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-vegetables",
+    "one-pan",
+    "portuguese-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "hearty-charred-portuguese-butternut-squash-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-charred-portuguese-butternut-squash-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:37:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "butternut squash",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Hearty Charred",
+    "dishForm": "Skewers"
+  }
+}
