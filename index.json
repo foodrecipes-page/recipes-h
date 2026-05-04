@@ -846,6 +846,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-korean-cherry-banchan",
+    "title": "Hearty Dense Korean Cherry Banchan",
+    "tags": [
+      "asian-inspired",
+      "cherries",
+      "korean-cuisine",
+      "marinade",
+      "side-dish",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-spanish-kale-arroz-negro",
     "title": "Hearty Dense Spanish Kale Arroz Negro",
     "tags": [

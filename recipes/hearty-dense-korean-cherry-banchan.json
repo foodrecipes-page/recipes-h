@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Dense Korean Cherry Banchan",
+  "description": "A savory and dense Korean side dish featuring marinated cherries, perfect for adventurous eaters, this vegetarian-friendly banchan is a unique twist on traditional Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, blend gochujang, soy sauce, brown sugar, garlic, and ginger until smooth.",
+    "In a large bowl, whisk together the blended marinade and sesame oil.",
+    "Add the dried cherries to the marinade and toss to coat.",
+    "Let the cherries marinate for at least 2 hours or overnight.",
+    "Preheat the oven to 300 degrees.",
+    "Remove the cherries from the marinade and place them on a baking sheet lined with parchment paper.",
+    "Bake the cherries for 20 minutes or until they are tender and slightly caramelized.",
+    "In a small bowl, mix together the toasted sesame seeds and chopped scallions.",
+    "Sprinkle the sesame seed and scallion mixture over the baked cherries.",
+    "Serve the Hearty Dense Korean Cherry Banchan warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "cherries",
+    "korean-cuisine",
+    "marinade",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "hearty-dense-korean-cherry-banchan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-korean-cherry-banchan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:26:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "cherries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cherries",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Banchan"
+  }
+}
