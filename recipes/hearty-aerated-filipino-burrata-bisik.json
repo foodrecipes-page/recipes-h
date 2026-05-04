@@ -1,0 +1,89 @@
+{
+  "title": "Filipino Burrata Bisik",
+  "description": "A fusion Filipino dish featuring burrata, nuka-pickled vegetables and flavorful Filipino spices, served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "dairy-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Nuka-pickled Filipino vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Filipino-style adobo sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Thai chilies",
+      "amount": "2"
+    },
+    {
+      "name": "Patis (Filipino fish sauce)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Steamed jasmine rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender, puree nuka-pickled Filipino vegetables until smooth.",
+    "In a pan, heat sesame oil over medium heat.",
+    "Add Filipino-style adobo sauce and cook for 1 minute.",
+    "Add pureed vegetables, patis, and Thai chilies to the pan. Cook for 2 minutes.",
+    "Cut burrata cheese into small pieces and add to the pan. Cook for 2 minutes.",
+    "Serve the Filipino Burrata Bisik with steamed jasmine rice.",
+    "Garnish with additional Thai chilies, if desired.",
+    "Season to taste with salt and pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "breakfast-for-dinner",
+    "dairy-free-friendly",
+    "healthy",
+    "one-pan",
+    "snack",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "hearty-aerated-filipino-burrata-bisik",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-aerated-filipino-burrata-bisik",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:05:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "burrata",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Burrata",
+    "descriptor": "Hearty Aerated",
+    "dishForm": "Bisik"
+  }
+}

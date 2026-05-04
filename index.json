@@ -321,6 +321,23 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-aerated-filipino-burrata-bisik",
+    "title": "Filipino Burrata Bisik",
+    "tags": [
+      "asian-fusion",
+      "breakfast-for-dinner",
+      "dairy-free-friendly",
+      "healthy",
+      "one-pan",
+      "snack",
+      "veggie-packed",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-arabian-lamb-tagine",
     "title": "Hearty Arabian Lamb Tagine",
     "tags": [],
