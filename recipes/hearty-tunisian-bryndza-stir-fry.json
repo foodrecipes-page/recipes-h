@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Tunisian Bryndza Stir-fry",
+  "description": "A warm, tangy stir‑fry that blends sharp bryndza with bell pepper, tomato, and cumin, finished in a molcajete for a rustic finish. This dish is both energizing and kosher-friendly, making it a perfect dinner option.",
+  "cuisine": "tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bryndza cheese",
+      "amount": "200 g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat and add olive oil.",
+    "Add chopped onion and sauté until translucent.",
+    "Stir in minced garlic, ground cumin, coriander, and harissa paste; cook for 1 minute.",
+    "Add diced bell pepper and tomato, stir-fry for 5 minutes until softened.",
+    "Sprinkle salt and pepper, stir well.",
+    "Reduce heat to medium, crumble bryndza into the wok, cook for 3 minutes until cheese melts slightly.",
+    "Transfer the mixture into a preheated molcajete and crush gently with a wooden spoon to combine flavors.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kosher-friendly",
+    "one-pan",
+    "quick",
+    "stir-fry",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 24,
+    "carbs": 39,
+    "fat": 57
+  },
+  "slug": "hearty-tunisian-bryndza-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tunisian-bryndza-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:02:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Bryndza",
+    "descriptor": "Hearty",
+    "dishForm": "Stir-fry"
+  }
+}

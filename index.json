@@ -1874,6 +1874,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-tunisian-bryndza-stir-fry",
+    "title": "Hearty Tunisian Bryndza Stir-fry",
+    "tags": [
+      "kosher-friendly",
+      "one-pan",
+      "quick",
+      "stir-fry",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-tunisian-oyster-mushroom-tagine",
     "title": "Hearty Tunisian Oyster Mushroom Tagine",
     "tags": [
@@ -3862,6 +3876,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hungry-harmonious-german-kinako-wrap",
+    "title": "Hungry Harmonious German Kinako Wrap",
+    "tags": [
+      "german-cuisine",
+      "kinako-recipes",
+      "kosher-friendly",
+      "lunch-ideas",
+      "quick-meals",
+      "ssam-wrap"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

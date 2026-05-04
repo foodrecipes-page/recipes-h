@@ -1,0 +1,93 @@
+{
+  "title": "Hungry Harmonious German Kinako Wrap",
+  "description": "A sour, crispy, and light German dish featuring kinako, ssam-wrap, and kosher-friendly ingredients, perfect for a quick snack or lunch",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "1/2 cup",
+      "notes": "roasted soybean flour"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rye flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6 sheets"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together kinako, rye flour, and salt",
+    "Gradually add in water to form a dough",
+    "Knead the dough for 5 minutes until smooth",
+    "Divide the dough into 4-6 equal pieces",
+    "Roll out each piece into a thin sheet",
+    "Heat a non-stick pan over medium heat and cook each sheet for 1-2 minutes on each side",
+    "In a separate pan, heat the sauerkraut and pickles over medium heat until warmed through",
+    "Assemble the wraps by spreading a layer of sauerkraut and pickles on each sheet, then sprinkling with caraway seeds"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "kinako-recipes",
+    "kosher-friendly",
+    "lunch-ideas",
+    "quick-meals",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hungry-harmonious-german-kinako-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hungry-harmonious-german-kinako-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:02:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "kinako",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "kinako",
+    "descriptor": "Hungry Harmonious",
+    "dishForm": "Wrap"
+  }
+}
