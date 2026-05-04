@@ -1,0 +1,90 @@
+{
+  "title": "Hearty Middle Eastern Oat Milk Labneh",
+  "description": "A yeasty and pillowy Middle Eastern dish featuring oat milk, bhuna, and ayurvedic-tamasic-friendly ingredients, served in a traditional molcajete vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the oat milk, bhuna spice mix, and active dry yeast, stirring gently to dissolve the yeast.",
+    "Let the mixture sit at room temperature for 10 minutes, or until it becomes frothy and bubbly.",
+    "Add the salt, lemon juice, and garlic to the mixture, stirring to combine.",
+    "Pour the mixture into a molcajete vessel or a similar ceramic bowl.",
+    "Drizzle the olive oil over the top of the mixture.",
+    "Cover the vessel with a clean cloth and let it sit in a warm, draft-free place for 4 hours, or until the labneh has thickened and set.",
+    "Once set, refrigerate the labneh for at least 30 minutes to chill before serving.",
+    "Serve the labneh chilled, garnished with fresh herbs or spices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "labneh",
+    "middle-eastern",
+    "oat-milk",
+    "pillowy",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "hearty-middle-eastern-oat-milk-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-middle-eastern-oat-milk-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:10:27Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "oat milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "oat milk",
+    "descriptor": "hearty pillowy",
+    "dishForm": "Labneh"
+  }
+}
