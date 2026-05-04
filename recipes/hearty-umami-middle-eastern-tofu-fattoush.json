@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Umami Middle Eastern Tofu Fattoush",
+  "description": "A creamy and comforting Middle Eastern dish featuring tofu, sherry vinegar, and dashi extract, perfect for a satisfying meal. This ovo-vegetarian friendly recipe is a twist on the classic fattoush salad.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "toasted and broken into pieces"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the cubed tofu with a tablespoon of olive oil, salt, and pepper, and bake for 20 minutes.",
+    "In a large bowl, whisk together the sherry vinegar, dashi extract, and a pinch of salt and pepper.",
+    "Add the toasted pita bread pieces to the bowl and toss to coat with the dressing.",
+    "In a separate bowl, combine the mixed greens, cherry tomatoes, cucumber, and red onion.",
+    "In a small bowl, whisk together the remaining olive oil and a pinch of salt and pepper.",
+    "Drizzle the olive oil mixture over the greens mixture and toss to coat.",
+    "To assemble the salad, add the baked tofu, pita bread pieces, and crumbly feta cheese to the greens mixture and toss gently.",
+    "Season with salt and pepper to taste, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fattoush",
+    "middle-eastern",
+    "ovo-vegetarian",
+    "tofu-recipe",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-umami-middle-eastern-tofu-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-umami-middle-eastern-tofu-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:32:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "tofu",
+    "descriptor": "Hearty Umami",
+    "dishForm": "Fattoush"
+  }
+}

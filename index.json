@@ -1381,6 +1381,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roasted-australian-lamb-roast",
+    "title": "Hearty Roasted Australian Lamb Roast",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "hearty",
+      "keto-friendly",
+      "lamb-recipes",
+      "low-carb"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 80,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-roasted-ethiopian-lamb-tagine",
     "title": "Hearty Roasted Ethiopian Lamb Tagine",
     "tags": [
@@ -1827,6 +1842,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-umami-middle-eastern-tofu-fattoush",
+    "title": "Hearty Umami Middle Eastern Tofu Fattoush",
+    "tags": [
+      "comfort-food",
+      "fattoush",
+      "middle-eastern",
+      "ovo-vegetarian",
+      "tofu-recipe",
+      "umami-rich"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {

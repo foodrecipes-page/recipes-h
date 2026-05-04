@@ -1,0 +1,88 @@
+{
+  "title": "Hearty Roasted Australian Lamb Roast",
+  "description": "A savory and comforting Australian dish featuring roasted lamb and melted butter, perfect for a sick day or special occasion. This keto-friendly recipe is sure to become a favorite.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb roast",
+      "amount": "2 pounds",
+      "notes": "boneless, tied with kitchen twine"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the lamb roast with garlic powder, dried thyme, salt, and black pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Baste the lamb with melted butter every 20 minutes during the roasting time.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "hearty",
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "hearty-roasted-australian-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-australian-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:32:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "melted butter",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Roast"
+  }
+}
