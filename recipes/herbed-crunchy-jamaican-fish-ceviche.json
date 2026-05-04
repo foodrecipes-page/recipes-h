@@ -1,0 +1,121 @@
+{
+  "title": "Herbed Crunchy Jamaican Fish Ceviche",
+  "description": "A resinous, crunchy, light Jamaican fish ceviche brimming with citrus, African fermented shrimp sauce, and tempered chocolate nibs for a surprising twist. It’s Whole30-friendly and perfect as a bright snack or starter.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh white fish fillets (cod or snapper)",
+      "amount": "200g",
+      "notes": "diced into 1cm cubes"
+    },
+    {
+      "name": "seaweed aekjeot (fermented shrimp seaweed sauce)",
+      "amount": "1 cup",
+      "notes": "use low sodium version if possible"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "jalapeño pepper",
+      "amount": "1 medium",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced and zest added"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1 tablespoon",
+      "notes": "for crunch"
+    },
+    {
+      "name": "dark chocolate (70% cacao)",
+      "amount": "10g",
+      "notes": "tempered into shards"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2g",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Dice the fish into 1cm cubes and place in a glass bowl.",
+    "Whisk lime juice and zest into a small bowl.",
+    "Add seaweed aekjeot, salt, pepper, minced jalapeño, and onion to the fish.",
+    "Pour lime mixture over the fish, gently toss to combine.",
+    "Let the mixture marinate in the refrigerator for 20 minutes.",
+    "While the fish marinates, temper chocolate by heating to 115°F, cooling to 90°F, then chilling until firm.",
+    "After marination, stir in chopped cilantro, parsley, thyme, and toasted coconut flakes.",
+    "Remove fish from the fridge, line serving plates with parchment, and spread ceviche evenly.",
+    "Drop tempered chocolate shards on top of each portion.",
+    "Serve immediately with extra lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "crunchy",
+    "fish",
+    "jamaican",
+    "light",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "herbed-crunchy-jamaican-fish-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-crunchy-jamaican-fish-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:01:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Fish",
+    "descriptor": "Herbed Crunchy",
+    "dishForm": "Ceviche"
+  }
+}
