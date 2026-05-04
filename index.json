@@ -614,6 +614,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-molten-mexican-chickpeas-huaraches",
+    "title": "Hearty Molten Mexican Chickpeas Huaraches",
+    "tags": [
+      "chickpeas",
+      "dinner",
+      "huaraches",
+      "mexican",
+      "molten",
+      "vegetarian",
+      "yeasty"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-moroccan-peanuts-tagine",
     "title": "Hearty Moroccan Peanuts Tagine",
     "tags": [

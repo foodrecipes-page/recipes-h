@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Molten Mexican Chickpeas Huaraches",
+  "description": "A yeasty and molten solo dinner Mexican dish featuring chickpeas, perfect for a vegetarian friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yeast, sugar, and warm water, stirring to dissolve the yeast.",
+    "Add flour, salt, and vegetable oil to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non stick skillet or griddle over medium heat.",
+    "Punch down the dough and divide it into 4 equal pieces, shaping each into a thin circle.",
+    "Cook the dough circles for 2 minutes on each side, until they are lightly browned and crispy.",
+    "In a separate pan, heat some oil over medium heat and saute the onion and garlic until softened.",
+    "Add chickpeas, oregano, and a pinch of salt to the pan, stirring to combine.",
+    "Place a cooked dough circle on a plate, top with the chickpea mixture, and sprinkle with cheese.",
+    "Place the plate under the broiler for 1 minute, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "dinner",
+    "huaraches",
+    "mexican",
+    "molten",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "hearty-molten-mexican-chickpeas-huaraches",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-mexican-chickpeas-huaraches",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:43:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "vegetarian",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chickpeas",
+    "descriptor": "hearty molten",
+    "dishForm": "Huaraches"
+  }
+}
