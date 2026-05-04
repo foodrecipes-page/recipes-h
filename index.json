@@ -2424,6 +2424,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-snappy-american-beef-burger",
+    "title": "Hearty Snappy American Beef Burger",
+    "tags": [
+      "american-classics",
+      "beef-burgers",
+      "dinner-ideas",
+      "gluten-free",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 36,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-south-chickpea-flour-dhal",
     "title": "Hearty South Chickpea Flour Dhal",
     "tags": [

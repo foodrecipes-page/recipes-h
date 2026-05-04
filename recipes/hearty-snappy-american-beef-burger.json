@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Snappy American Beef Burger",
+  "description": "A peppery and snappy weeknight American dish featuring horseradish and pickle, perfect for a sugar-free friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works well"
+    },
+    {
+      "name": "horseradish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dill pickle slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "american cheese slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "buns",
+      "amount": "4"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, around 375 degrees Fahrenheit.",
+    "Form the ground beef into 4 patties, about 3/4 inch thick, and season with black pepper.",
+    "Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 130 degrees Fahrenheit for medium-rare.",
+    "Let the patties rest for a few minutes before assembling the burgers.",
+    "Spread a layer of mayonnaise on the bottom bun, followed by a cooked patty, a slice of cheese, a few slices of pickle, a spoonful of horseradish sauce, some shredded lettuce, and a slice of tomato.",
+    "Top with the top bun and serve immediately.",
+    "Repeat the assembly process for the remaining burgers.",
+    "Serve and enjoy your snappy American beef burgers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "beef-burgers",
+    "dinner-ideas",
+    "gluten-free",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "hearty-snappy-american-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-snappy-american-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:04:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "horseradish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "hearty snappy",
+    "dishForm": "Burger"
+  }
+}
