@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Malty Turkish Celeriac Menemen",
+  "description": "A malty, fluffy, nostalgic Turkish dish featuring celeriac, kombu-cold-extract, and gluten-free-friendly ingredients, served in a menemen form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together malt flour, salt, black pepper, and paprika.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add diced celeriac to the skillet and cook until tender, about 10 minutes.",
+    "In a separate bowl, whisk together eggs and kombu cold extract.",
+    "Pour the egg mixture over the cooked celeriac and stir gently.",
+    "Cook for an additional 2-3 minutes, until the eggs are set.",
+    "Serve the menemen hot, garnished with chopped fresh herbs if desired.",
+    "Toast some gluten-free bread and serve on the side.",
+    "Optional: add some crumbled feta cheese on top for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hearty-malty-turkish-celeriac-menemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malty-turkish-celeriac-menemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:58:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "celeriac",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "celeriac",
+    "descriptor": "Hearty Malty",
+    "dishForm": "Menemen"
+  }
+}
