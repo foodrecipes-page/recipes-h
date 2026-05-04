@@ -1,0 +1,96 @@
+{
+  "title": "Herb Infused Jamaican Tiger Prawns Skewers",
+  "description": "Savory and glassy-jelly, these Jamaican tiger prawns skewers are perfect for a lazy Sunday, featuring a blend of herbs and spices in a macrobiotic-friendly dish.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "brine-dry"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a blender, combine scotch bonnet peppers, thyme, allspice, garlic, lemon juice, and olive oil to make the herb infusion.",
+    "Add the herb infusion to a bowl with the tiger prawns and marinate for at least 30 minutes.",
+    "Thread the marinated tiger prawns onto skewers.",
+    "Season the tiger prawns with salt.",
+    "Grill the skewers for 8-10 minutes per side, or until the prawns are pink and cooked through.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve the herb infused Jamaican tiger prawns skewers hot.",
+    "Garnish with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "jamaican-cuisine",
+    "macrobiotic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "herb-infused-jamaican-tiger-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-jamaican-tiger-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:10:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "tiger prawns",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "herb infused",
+    "dishForm": "Skewers"
+  }
+}
