@@ -648,6 +648,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-bitter-algerian-chicken-tagine",
+    "title": "Hearty Bitter Algerian Chicken Tagine",
+    "tags": [
+      "easy",
+      "hearty",
+      "kid-friendly",
+      "low-sodium",
+      "tagine"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-bitter-malaysian-fennel-curry",
     "title": "Hearty Bitter Malaysian Fennel Curry",
     "tags": [
@@ -1350,6 +1364,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-herbal-canadian-lamb-tagine",
+    "title": "Hearty Herbal Canadian Lamb Tagine",
+    "tags": [
+      "canadian-cuisine",
+      "clay-cooking",
+      "herbal",
+      "lamb-recipes",
+      "paleo",
+      "whole30"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {

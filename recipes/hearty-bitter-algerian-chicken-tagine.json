@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Bitter Algerian Chicken Tagine",
+  "description": "This kid‑friendly Algerian tagine delivers a subtle bitter flavor with juicy chicken, enriched by homemade pickle and chicken stock concentrate for a low‑sodium meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "680 g bone-in skinless chicken thighs",
+      "amount": "680 g",
+      "notes": "cut into 3–4 inch pieces"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "1/2 tsp ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "1/2 tsp paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "1 cup chicken stock concentrate dissolved in 1 cup water",
+      "amount": "1 cup concentrate + 1 cup water",
+      "notes": "use low‑sodium concentrate"
+    },
+    {
+      "name": "1 cup chopped fresh cilantro",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/2 cup chopped pickled olives",
+      "amount": "1/2 cup",
+      "notes": "use low‑sodium pickles"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagliere over medium heat until shimmering.",
+    "Brown the chicken thighs on all sides for about 4 minutes per side, then remove.",
+    "Add diced onion and minced garlic to the tagliere and sauté until the onion turns translucent.",
+    "Stir in cumin, coriander, cinnamon, and paprika, cooking for 30 seconds to release aromas.",
+    "Pour in the dissolved chicken stock concentrate and bring to a gentle boil.",
+    "Return the browned chicken to the tagliere, nestle it into the sauce, and reduce heat to low.",
+    "Cover and simmer for 25 minutes until the chicken is tender and the flavors meld.",
+    "Stir in chopped pickled olives, chopped cilantro, and lemon juice, seasoning with salt to taste if needed.",
+    "Cook uncovered for another 5 minutes to let the sauce thicken slightly.",
+    "Serve the tagine hot, garnished with extra cilantro, directly from the tagliere."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "hearty",
+    "kid-friendly",
+    "low-sodium",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "hearty-bitter-algerian-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-bitter-algerian-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:39:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Bitter",
+    "dishForm": "Tagine"
+  }
+}

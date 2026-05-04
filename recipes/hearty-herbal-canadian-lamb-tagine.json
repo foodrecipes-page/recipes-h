@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Herbal Canadian Lamb Tagine",
+  "description": "A rich and flavorful Canadian dish featuring lamb, palm sugar, and herbs, cooked to perfection in a traditional clay tajine, perfect for a midnight craving. This whole30-friendly recipe is a hearty and satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the palm sugar, olive oil, rosemary, thyme, garlic, salt, and pepper.",
+    "Place the lamb pieces in the clay tajine and brush the sugar and herb mixture evenly over the lamb.",
+    "Cover the tajine with parchment paper and then with aluminum foil, creating a papillote effect.",
+    "Place the tajine in the oven and cook for 2 1/2 hours.",
+    "Remove the foil and parchment paper and continue cooking for an additional 30 minutes.",
+    "Remove the tajine from the oven and let it cool for 10 minutes.",
+    "Serve the lamb hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "clay-cooking",
+    "herbal",
+    "lamb-recipes",
+    "paleo",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hearty-herbal-canadian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-canadian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:39:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "palm sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty herbal",
+    "dishForm": "Tagine"
+  }
+}
