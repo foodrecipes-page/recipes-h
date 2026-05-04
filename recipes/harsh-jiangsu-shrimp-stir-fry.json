@@ -1,0 +1,112 @@
+{
+  "title": "Harsh Jiangsu Shrimp Stir-Fry",
+  "description": "A bold, bitter kung-pao inspired shrimp dish with yellow curry paste and Szechuan peppercorns. It is keto-friendly and perfect for festive Jiangsu celebrations.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "400 g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Dried red chilies",
+      "amount": "5"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 Tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 stalk",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chinese black bean sauce",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "3 Tbsp",
+      "notes": "1 Tbsp for stir-fry, 2 Tbsp for temper"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 Tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over high heat and add 1 Tbsp sesame oil for stir-frying.",
+    "Add the toasted Szechuan peppercorns and whole dried chilies, stir for 30 seconds until fragrant.",
+    "Toss in minced garlic and ginger, cook for another 30 seconds, then add the shrimp and stir until they turn pink.",
+    "Stir in 2 Tbsp yellow curry paste and 1 Tbsp Chinese black bean sauce, coating the shrimp evenly.",
+    "Pour in 2 Tbsp water, add soy sauce and rice vinegar, and let the mixture simmer for 2 minutes while stirring.",
+    "Add sliced green onions, stir, then reduce heat to medium and cook for 1 more minute.",
+    "Temper the remaining 2 Tbsp sesame oil over a small pan, then drizzle into the stir-fry to finish.",
+    "Serve hot, optionally garnish with a few extra Szechuan peppercorns for an extra kick."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "kung-pao",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 930,
+    "protein": 100,
+    "carbs": 14,
+    "fat": 49
+  },
+  "slug": "harsh-jiangsu-shrimp-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/harsh-jiangsu-shrimp-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:01:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "keto",
+    "region": "jiangsu",
+    "cuisineAdjective": "Jiangsu",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Harsh",
+    "dishForm": "Stir-Fry"
+  }
+}
