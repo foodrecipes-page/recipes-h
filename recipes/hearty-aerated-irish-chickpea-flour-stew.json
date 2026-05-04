@@ -1,0 +1,86 @@
+{
+  "title": "Hearty Aerated Irish Chickpea flour Stew",
+  "description": "A sweet and adventurous Irish dish featuring chickpea flour, fermented to perfection, and aerated to create a light and fluffy texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chickpea flour and water to create a smooth batter.",
+    "Add sweet potato, ginger, cinnamon, and yeast to the batter, and mix until well combined.",
+    "Transfer the mixture to a kazan and cook over medium heat, stirring constantly, until the mixture thickens and forms a foamy head.",
+    "Reduce heat to low and simmer, covered, for 45 minutes, or until the stew has reached a thick, creamy consistency.",
+    "Remove the kazan from the heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "fermented",
+    "gluten-free",
+    "high-fiber",
+    "irish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 90,
+    "fat": 12
+  },
+  "slug": "hearty-aerated-irish-chickpea-flour-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-aerated-irish-chickpea-flour-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "chickpea flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Chickpea flour",
+    "descriptor": "Hearty Aerated",
+    "dishForm": "Stew"
+  }
+}
