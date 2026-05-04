@@ -1827,6 +1827,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-korean-callaloo-stew",
+    "title": "korean callaloo stew",
+    "tags": [
+      "comfort",
+      "korean",
+      "one-pan",
+      "pescatarian",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-korean-rice-fried-rice",
     "title": "Hearty Korean Rice Fried Rice",
     "tags": [
@@ -2162,6 +2177,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-portuguese-cod-stew",
+    "title": "Hearty Portuguese Cod Stew",
+    "tags": [
+      "claypot",
+      "creme-fraiche",
+      "date-night",
+      "no-garlic",
+      "no-onion",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Portuguese Cod Stew",
+  "description": "A springy, funky cod stew that pairs creamy creme fraiche with a manteca-emulsified tomato base, perfect for a date night.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "manteca",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "150g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil and 1 tbsp manteca in a claypot over medium heat until the fats blend.",
+    "Add smoked paprika and dried oregano, sauté for 30 seconds until fragrant.",
+    "Stir in diced tomatoes, tomato paste, and water, bring to a gentle simmer.",
+    "Carefully lay cod fillets into the simmering liquid, ensuring they are fully covered.",
+    "Cover the pot and simmer for 15 minutes, or until the fish flakes easily.",
+    "Remove the claypot from heat and stir in 150g creme fraiche, whisking to emulsify into a silky base.",
+    "Season with salt, black pepper, and a splash of white wine vinegar to brighten the flavor.",
+    "Distribute the stew into bowls, garnish with fresh parsley if desired, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "creme-fraiche",
+    "date-night",
+    "no-garlic",
+    "no-onion",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 47,
+    "carbs": 19,
+    "fat": 48
+  },
+  "slug": "hearty-portuguese-cod-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-portuguese-cod-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:12:04Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "creme fraiche",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}
