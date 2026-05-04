@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Portuguese Poppy Seeds Casserole",
+  "description": "A malty and velvety Portuguese dish featuring ground poppy seeds, this casserole is a romantic and high-protein-friendly option for a special occasion, with a rich flavor profile that is sure to impress.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "malted milk",
+      "amount": "2 cups",
+      "notes": "low-fat"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the sliced portuguese sausage until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, whisk together the malted milk, eggs, salt, and black pepper.",
+    "Add the cooked sausage and onion mixture to the bowl and stir to combine.",
+    "Stir in the ground poppy seeds and cooked chicken breast.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Broil the casserole in the preheated oven for 5 minutes, or until the top is golden brown.",
+    "Reduce the oven temperature to 350 degrees Fahrenheit and bake for an additional 25 minutes, or until the casserole is set.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "high-protein",
+    "portuguese",
+    "romantic",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-portuguese-poppy-seeds-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-portuguese-poppy-seeds-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:20:59Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Hearty",
+    "dishForm": "Casserole"
+  }
+}
