@@ -1,0 +1,98 @@
+{
+  "title": "hearty tender argentinian corn bake",
+  "description": "A delicious and kid-friendly argentinian dish featuring creamed corn, salty shio-cure, and a hint of floral flavor baked in a claypot.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shio-cure",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh corn",
+      "amount": "3 ears"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated romano cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Grate the romano cheese and chop the fresh parsley in a bowl.",
+    "Boil the ears of corn until tender, then let cool.",
+    "Butter the claypot and set aside.",
+    "In a large bowl, whisk together the flour, salt, and pepper.",
+    "Add the unsalted butter to the bowl and mix until the mixture resembles coarse crumbs.",
+    "Add the heavy cream to the bowl and mix until the dough comes together.",
+    "Add the grated romano cheese and chopped parsley to the bowl and mix until well combined.",
+    "Sauté the shio-cure in a pan until crispy, then crumble and set aside.",
+    "Add the boiled corn to the bowl and mix until well combined.",
+    "Transfer the mixture to the buttered claypot and top with crumbled shio-cure.",
+    "Bake the corn bake for 30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-to-make",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "hearty-tender-argentinian-corn-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tender-argentinian-corn-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:03:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "shio-cure",
+    "primaryIngredient": "creamed corn",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "corn",
+    "descriptor": "Hearty Tender",
+    "dishForm": "Bake"
+  }
+}
