@@ -1,0 +1,114 @@
+{
+  "title": "Hearty Portuguese Chwinamul Salad",
+  "description": "A briny, shattering salad that combines fresh chwinamul with crisp vegetables and a nutty, paleo-friendly vinaigrette, perfect for a solo dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "egg yolk",
+      "amount": "1"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the chwinamul, then roughly chop and place in a large bowl.",
+    "Add sliced cucumber, halved cherry tomatoes, toasted pine nuts, chopped walnuts, and toasted almonds to the bowl.",
+    "In a small bowl whisk the egg yolk, then gradually whisk in olive oil until the mixture emulsifies into a pale sauce.",
+    "Stir in lemon juice, Dijon mustard, minced garlic, salt, pepper, and dried oregano to the sauce until well combined.",
+    "Pour the vinaigrette over the salad and toss gently to coat all ingredients evenly.",
+    "Serve immediately, allowing the briny flavors to shine in each bite."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garden-salad",
+    "high-protein",
+    "nutty",
+    "paleo-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "hearty-portuguese-chwinamul-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-portuguese-chwinamul-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:19:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chwinamul",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Hearty",
+    "dishForm": "Salad"
+  }
+}

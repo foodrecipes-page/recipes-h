@@ -466,6 +466,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-portuguese-chwinamul-salad",
+    "title": "Hearty Portuguese Chwinamul Salad",
+    "tags": [
+      "garden-salad",
+      "high-protein",
+      "nutty",
+      "paleo-friendly",
+      "quick-meal"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-russian-sweet-potato-parfait",
     "title": "Hearty Russian Sweet Potato Parfait",
     "tags": [
@@ -541,6 +555,20 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-south-chickpea-flour-dhal",
+    "title": "Hearty South Chickpea Flour Dhal",
+    "tags": [
+      "high-fiber",
+      "indian",
+      "one-pan",
+      "south-indian",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

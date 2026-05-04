@@ -1,0 +1,116 @@
+{
+  "title": "Hearty South Chickpea Flour Dhal",
+  "description": "Earthly, gooey, and nutritious single-dish Indian (south) dish featuring chickpea flour, pasta water emulsion, and macrobiotic-friendly aspects.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": "spoon-leveled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 cups",
+      "notes": "from al dente pasta boil"
+    },
+    {
+      "name": "red chili",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "sodium chloride"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "neutral oil"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the oil over medium heat.",
+    "Sauté the onion, garlic, and ginger until the onion turns translucent.",
+    "Add the diced tomato and red chili, and cook for 3-4 minutes.",
+    "Mix in the cumin, coriander, turmeric, and salt.",
+    "Stir in the chickpea flour and cook for 1-2 minutes.",
+    "Gradually add the pasta water, and whisk continuously to avoid lumps.",
+    "Continue cooking and whisking for 5-7 minutes, until the dhal thickens to desired consistency.",
+    "Taste and adjust seasoning as necessary.",
+    "Serve hot, garnished with fresh herbs or a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "indian",
+    "one-pan",
+    "south-indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "hearty-south-chickpea-flour-dhal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-south-chickpea-flour-dhal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:19:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chickpea flour",
+    "diet": "macrobiotic",
+    "region": "south",
+    "cuisineAdjective": "South",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "hearty",
+    "dishForm": "Dhal"
+  }
+}
