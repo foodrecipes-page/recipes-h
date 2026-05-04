@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Fried Malaysian Chicken Fried-Rice",
+  "description": "A rich and dense Malaysian dish featuring deep-fry-tod, perfect for hangover cures and Buddhist temple-friendly.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "chicken seasonings",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "all-purpose seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of coconut oil in a large skillet over medium-high heat.",
+    "Add 1 pound of chicken breast and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add 1 onion and 3 cloves of garlic to the skillet and cook until the onion is translucent.",
+    "Add 2 inches of ginger and cook for 1 minute.",
+    "Add the chicken seasonings and all-purpose seasoning to the skillet and stir to combine.",
+    "Add 2 cups of cooked rice to the skillet and stir to combine with the seasonings.",
+    "Add the cooked chicken back into the skillet and stir to combine with the rice and seasonings.",
+    "Push the rice mixture to one side of the skillet.",
+    "Add 2 tablespoons of soy sauce and 1 tablespoon of fish sauce to the other side of the skillet and stir to combine.",
+    "Scramble 4 eggs in a separate bowl and add to the skillet with the soy sauce and fish sauce mixture.",
+    "Stir the egg mixture into the rice mixture and cook until the eggs are fully incorporated."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "comfort-food",
+    "fried-rice",
+    "hangover-cure",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "hearty-fried-malaysian-chicken-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fried-malaysian-chicken-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:07:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Hearty Fried",
+    "dishForm": "Fried-Rice"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Hearty German Veal Grill",
+  "description": "A winey, tender veal grill with a creamy sour cream sauce, low-sodium friendly, served in a yakimono-style pan.",
+  "cuisine": "German",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "500g"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together sour cream, Dijon mustard, wine, vinegar, paprika, thyme, salt, pepper, and lemon zest until smooth.",
+    "Pat veal cutlets dry and season lightly with salt and pepper.",
+    "Coat each cutlet with the sauce mixture, pressing gently to adhere.",
+    "Heat a yakimono-style grill pan over medium-high heat and add butter, letting it melt and brown.",
+    "Place the coated veal cutlets onto the grill and sear for 3 minutes per side until a golden crust forms.",
+    "Reduce heat to medium, cover, and grill for an additional 4-5 minutes until internal temperature reaches 140°F (60°C).",
+    "Remove from grill, let rest for 5 minutes to redistribute juices.",
+    "Slice each cutlet, drizzle remaining sauce over, and serve immediately with a side of steamed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "german",
+    "grill",
+    "hearty",
+    "low-sodium",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "hearty-german-veal-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-german-veal-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:08:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sour cream",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "veal",
+    "descriptor": "Hearty",
+    "dishForm": "Grill"
+  }
+}
