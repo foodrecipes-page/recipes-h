@@ -1,0 +1,118 @@
+{
+  "title": "Healthy Fluffy Japanese Tiger Prawn Inarizushi",
+  "description": "A light and fluffy Japanese-inspired inarizushi featuring tiger prawns, crisp tofu skins, and a tangy vinaigrette. Perfect for a quick low-calorie lunch that feels like a treat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-calorie",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short-grain rice",
+      "amount": "100g cooked",
+      "notes": "rinsed and boiled"
+    },
+    {
+      "name": "tiger prawns",
+      "amount": "200g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tofu skin pouches",
+      "amount": "4",
+      "notes": "fried until crisp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "50g",
+      "notes": "julienned"
+    },
+    {
+      "name": "daikon radish",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "10ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mirin",
+      "amount": "10ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "10ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "2g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "5g",
+      "notes": "toasted"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "squeezed for brightness"
+    }
+  ],
+  "instructions": [
+    "Rinse the tiger prawns and pat them dry with a paper towel.",
+    "Heat a non-stick skillet over medium heat and cook the prawns 2 to 3 minutes per side until opaque, then set aside to cool.",
+    "In a saucepan, combine the rice with 180ml water, soy sauce, mirin, rice vinegar, and sugar, bring to a boil, then simmer until the water is absorbed, about 15 minutes, and fluff the rice before letting it cool.",
+    "While the rice cools, julienne the cucumber, grate the daikon radish, and mince the garlic.",
+    "Fry each tofu skin pouch in a dry pan over medium heat until crisp, then cut them to the desired size.",
+    "Fill each tofu pouch with a scoop of cooked rice, a spoonful of cucumber, a spoonful of daikon, and a prawn, then press gently to seal.",
+    "Sprinkle toasted sesame seeds over the assembled inarizushi.",
+    "Drizzle the remaining soy sauce over the sushi or squeeze lime juice for added brightness.",
+    "Place the sushi in the refrigerator for 10 minutes to allow the flavors to meld before serving.",
+    "Serve cold or at room temperature, optionally accompanied by a light cucumber soup."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "healthy",
+    "inari-sushi",
+    "kansai",
+    "low-calorie",
+    "prawn"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 32,
+    "carbs": 38,
+    "fat": 3
+  },
+  "slug": "healthy-fluffy-japanese-tiger-prawn-inarizushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-fluffy-japanese-tiger-prawn-inarizushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:45:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "tiger prawns",
+    "diet": "low-calorie",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tiger prawn",
+    "descriptor": "Healthy Fluffy",
+    "dishForm": "Inarizushi"
+  }
+}
