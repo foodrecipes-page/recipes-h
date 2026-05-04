@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Garlicky Filipino Noodles Pancit Canton",
+  "description": "A garlicky and tender Filipino dish featuring molasses, this satvik-friendly version of pancit canton is a crowd-pleaser, made with robata-grill flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "molasses",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "robata-grill seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large wok or frying pan, heat the vegetable oil over medium-high heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the shredded cabbage and grated carrots, cooking until they start to soften, about 3 minutes.",
+    "Add the robata-grill seasoning, molasses, soy sauce, salt, and black pepper, stirring to combine.",
+    "Add the cooked noodles to the wok or frying pan, stirring to combine with the vegetable mixture.",
+    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce.",
+    "Transfer the pancit canton to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleasers",
+    "easy-meals",
+    "filipino-food",
+    "garlic-lovers",
+    "noodle-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "hearty-garlicky-filipino-noodles-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-garlicky-filipino-noodles-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:47:38Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "molasses",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "noodles",
+    "descriptor": "hearty garlicky",
+    "dishForm": "Pancit Canton"
+  }
+}

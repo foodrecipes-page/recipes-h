@@ -917,6 +917,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-garlicky-filipino-noodles-pancit-canton",
+    "title": "Hearty Garlicky Filipino Noodles Pancit Canton",
+    "tags": [
+      "crowd-pleasers",
+      "easy-meals",
+      "filipino-food",
+      "garlic-lovers",
+      "noodle-dishes",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-german-green-beans-salad",
     "title": "Hearty German Green Beans Salad",
     "tags": [
@@ -1750,6 +1765,21 @@
       "weeknight"
     ],
     "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-tunisian-oyster-mushroom-tagine",
+    "title": "Hearty Tunisian Oyster Mushroom Tagine",
+    "tags": [
+      "gluten-free",
+      "mushroom-based",
+      "north-african",
+      "one-pot",
+      "paleo-friendly",
+      "spicy"
+    ],
+    "cuisine": "Tunisian",
     "totalTimeMin": 50,
     "shard": "h"
   },
