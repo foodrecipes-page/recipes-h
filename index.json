@@ -586,6 +586,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-argentine-lentils-stew",
+    "title": "Hearty Argentine Lentils Stew",
+    "tags": [
+      "argentinian",
+      "miso",
+      "mustard-flavor",
+      "one-pot",
+      "satvik",
+      "thick-stew",
+      "vegetarian"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-argentinian-beef-tagine",
     "title": "Hearty Argentinian Beef Tagine",
     "tags": [

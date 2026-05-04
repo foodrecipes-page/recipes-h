@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Argentine Lentils Stew",
+  "description": "A mustardy, shattering one-pot stew with grand marnier and miso-marinate, served from a wooden board for a rustic touch.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "200 g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "ground mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grand marnier",
+      "amount": "50 ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 l"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils until water runs clear.",
+    "In a large pot, heat olive oil over medium heat and sauté carrot and celery until softened.",
+    "Stir in ground mustard and miso paste until fragrant, about 30 seconds.",
+    "Add lentils, vegetable stock, grand marnier, salt, and pepper to the pot.",
+    "Bring mixture to a boil, then reduce heat and simmer uncovered for 30 minutes until lentils are tender.",
+    "Stir occasionally to prevent sticking, and add more stock if needed for desired consistency.",
+    "Once lentils are cooked, taste and adjust seasoning with extra salt or pepper.",
+    "Remove pot from heat and let stew rest for 5 minutes to thicken slightly.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "miso",
+    "mustard-flavor",
+    "one-pot",
+    "satvik",
+    "thick-stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 15
+  },
+  "slug": "hearty-argentine-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-argentine-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:29:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "miso-marinate",
+    "primaryIngredient": "grand marnier",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentine",
+    "mainIngredient": "Lentils",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}
