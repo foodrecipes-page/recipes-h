@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Slow Vietnamese Lentils Banh Mi",
+  "description": "A romantic and shattering Vietnamese dish featuring slow-cooked lentils in a banh mi, perfect for a Buddhist temple gathering, this fermented lentil banh mi is a hearty twist on traditional Vietnamese street food.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sriracha mayo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crusty baguette",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the lentils and vegetable broth, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes, or until the lentils are tender.",
+    "While the lentils are cooking, toast the baguette by baking it in a preheated oven at 350 degrees for 10 minutes.",
+    "Spread the sriracha mayo on the toasted baguette.",
+    "Assemble the banh mi by spooning the cooked lentils onto the baguette, followed by the pickled carrots, pickled daikon, cucumber, and cilantro.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banh-mi",
+    "lentil-recipes",
+    "slow-cooked",
+    "vegetarian-lunch",
+    "vietnamese-cuisine",
+    "vietnamese-street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-slow-vietnamese-lentils-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slow-vietnamese-lentils-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:41:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "lentils",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lentils",
+    "descriptor": "Hearty Slow",
+    "dishForm": "Banh Mi"
+  }
+}
