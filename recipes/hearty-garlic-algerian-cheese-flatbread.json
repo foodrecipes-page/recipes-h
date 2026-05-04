@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Garlic Algerian Cheese Flatbread",
+  "description": "A garlicky, cheese‑pull flatbread with an Algerian twist, perfect for a date night.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegan shredded cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unwaxed lime zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix flour, salt, and baking powder in a bowl.",
+    "Add water and olive oil and stir until a smooth dough forms.",
+    "Knead the dough for 2 minutes, then let it rest for 5 minutes.",
+    "Divide the dough into two equal portions and roll each into a flat circle on a floured surface.",
+    "Heat a comal over medium heat and place the dough on it.",
+    "Cook each side for 3 minutes or until golden brown and puffy.",
+    "Remove the flatbread from the comal and spread minced garlic on one side of each.",
+    "Sprinkle shredded vegan cheese evenly over the garlic.",
+    "Return the flatbread to the comal and cover for 2 minutes to melt the cheese.",
+    "Flip and cook the other side for 1 minute.",
+    "Serve hot, garnished with chopped parsley and a squeeze of unwaxed lime zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "easy",
+    "flatbread",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "hearty-garlic-algerian-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-garlic-algerian-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:37:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Hearty Garlic",
+    "dishForm": "Flatbread"
+  }
+}

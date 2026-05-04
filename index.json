@@ -486,6 +486,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearthy-smoky-greek-salmon-skewers",
+    "title": "Hearthy Smoky Greek Salmon Skewers",
+    "tags": [
+      "anti-inflammatory",
+      "grilled",
+      "mediterranean",
+      "salmon",
+      "smoldering",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-aerated-filipino-burrata-bisik",
     "title": "Filipino Burrata Bisik",
     "tags": [
@@ -989,6 +1004,20 @@
     ],
     "cuisine": "malaysian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-garlic-algerian-cheese-flatbread",
+    "title": "Hearty Garlic Algerian Cheese Flatbread",
+    "tags": [
+      "cheese-pull",
+      "date-night",
+      "easy",
+      "flatbread",
+      "vegan-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -2242,6 +2271,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "herb-infused-indian-sea-bass-curry",
+    "title": "Herb Infused Indian Sea Bass Curry",
+    "tags": [
+      "curry",
+      "gluten-free",
+      "indian-cuisine",
+      "low-fodmap",
+      "one-pan",
+      "seafood"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

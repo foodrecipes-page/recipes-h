@@ -1,0 +1,94 @@
+{
+  "title": "Hearthy Smoky Greek Salmon Skewers",
+  "description": "Charred, juicy salmon skewers with smoky paprika, fresh dill, and toasted coriander seeds bring a nostalgic Mediterranean touch to any dinner. The anti-inflammatory-friendly ingredients keep the dish heart‑healthy and flavorful.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "600 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water 30 min before use"
+    }
+  ],
+  "instructions": [
+    "Cut the salmon into 2-inch cubes and thread every third cube onto a soaked wooden skewer.",
+    "In a small bowl whisk together olive oil, lemon juice, toasted coriander seeds, smoked paprika, chopped dill, minced garlic, salt, and pepper to create the sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "grilled",
+    "mediterranean",
+    "salmon",
+    "smoldering",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 3,
+    "fat": 18
+  },
+  "slug": "hearthy-smoky-greek-salmon-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearthy-smoky-greek-salmon-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:38:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "coriander seeds",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Salmon",
+    "descriptor": "Hearthy Smoky",
+    "dishForm": "Skewers"
+  }
+}

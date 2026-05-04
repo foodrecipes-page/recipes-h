@@ -1,0 +1,105 @@
+{
+  "title": "Herb Infused Indian Sea Bass Curry",
+  "description": "A malty and crisp Indian dish featuring sea bass fillets cooked in a tandoor style curry, FODMAP friendly and full of energizing flavors. This recipe is made in a traditional kadhai vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "low FODMAP"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a kadhai over medium heat until it reaches a temperature of 350 degrees Fahrenheit.",
+    "Add the cumin seeds and let them sizzle for 10 seconds.",
+    "Add the curry leaves and let them cook for 1 minute until fragrant.",
+    "Add the coriander powder, turmeric powder, and salt, and cook for 1 minute until the spices are fragrant.",
+    "Add the ginger paste and cook for 1 minute until the paste is lightly browned.",
+    "Add the sea bass fillets and cook for 2 minutes on each side until they are lightly browned.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes until the sea bass is cooked through and the sauce has thickened.",
+    "Stir in the chopped cilantro and serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "gluten-free",
+    "indian-cuisine",
+    "low-fodmap",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "herb-infused-indian-sea-bass-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-indian-sea-bass-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:37:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sea bass",
+    "descriptor": "herb infused",
+    "dishForm": "Curry"
+  }
+}
