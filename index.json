@@ -2671,6 +2671,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoked-british-smoked-salmon-cottage-pie",
+    "title": "Hearty Smoked British Smoked Salmon Cottage Pie",
+    "tags": [
+      "british-classic",
+      "comfort-food",
+      "one-pot",
+      "pescatarian",
+      "smoked-salmon",
+      "wine-based"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoked-kenyan-fish-braise",
     "title": "Hearty Smoked Kenyan Fish Braise",
     "tags": [

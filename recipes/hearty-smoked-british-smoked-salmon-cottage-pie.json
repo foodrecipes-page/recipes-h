@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Smoked British Smoked Salmon Cottage Pie",
+  "description": "A winey and crumbly one-pot British dish featuring smoked salmon, this cottage pie is perfect for a comforting meal, with a rich braise and raw-friendly ingredients, all in one form of a classic cottage pie.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "100g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a large pan, melt the butter over medium heat and saute the onion and carrots until softened.",
+    "Add the chopped smoked salmon and cook for an additional 2 minutes.",
+    "Add the red wine and beef broth to the pan and bring to a boil, then reduce the heat and simmer for 10 minutes.",
+    "In a separate pot, boil the chopped potatoes until tender, then drain and mash with butter and flour.",
+    "Transfer the salmon mixture to a baking dish and top with the mashed potatoes and grated cheese.",
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the top is golden brown.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "one-pot",
+    "pescatarian",
+    "smoked-salmon",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-smoked-british-smoked-salmon-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-british-smoked-salmon-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:19:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "braise",
+    "primaryIngredient": "smoked salmon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "Hearty Smoked",
+    "dishForm": "Cottage Pie"
+  }
+}
