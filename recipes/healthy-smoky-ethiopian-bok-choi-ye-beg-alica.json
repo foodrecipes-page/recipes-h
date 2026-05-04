@@ -1,0 +1,107 @@
+{
+  "title": "Healthy Smoky Ethiopian Bok Choi Ye Beg Alica",
+  "description": "A quick and easy Ethiopian dish featuring smoky bok choi, this recipe is perfect for a weeknight dinner, and is ayurvedic sattvic friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "1 bunch",
+      "notes": "choose fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add sliced onion and saute until translucent.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Add bok choi and cook until wilted.",
+    "Stir in berbere spice and smoked paprika.",
+    "Squeeze lemon juice over the top and season with salt.",
+    "Cover the skillet with a lid and steam for 5 minutes.",
+    "Serve hot, garnished with lemon wedges.",
+    "Traditionally, ye beg alica is served with injera bread.",
+    "To make it more authentic, wrap the bok choi mixture in injera bread before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "healthy-smoky-ethiopian-bok-choi-ye-beg-alica",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-smoky-ethiopian-bok-choi-ye-beg-alica",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:55:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "bok choi",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "bok choi",
+    "descriptor": "Healthy Smoky",
+    "dishForm": "Ye Beg Alica"
+  }
+}
