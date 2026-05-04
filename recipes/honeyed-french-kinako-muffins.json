@@ -1,0 +1,97 @@
+{
+  "title": "Honeyed French Kinako Muffins",
+  "description": "Flaky muffins infused with powdered soy flour and topped with a honey vanilla glaze, perfect for a sweet brunch.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "powdered soy flour",
+      "amount": "80 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60 g",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "80 ml"
+    },
+    {
+      "name": "milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C and line a muffin tin with paper liners.",
+    "Whisk flour, kinako, baking powder, and salt in a bowl.",
+    "In a separate bowl, mix melted butter, honey, milk, eggs, vanilla, and lemon zest until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined, avoiding overmixing.",
+    "Fill the muffin cups about three-quarters full with batter.",
+    "Bake for 18 to 20 minutes until the tops are golden and a toothpick comes out clean.",
+    "Let the muffins cool in the tin for 5 minutes before transferring to a wire rack.",
+    "Serve warm or at room temperature, optionally dusted with powdered sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "family-friendly",
+    "french",
+    "quick-breakfast",
+    "sweet",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 36,
+    "carbs": 180,
+    "fat": 36
+  },
+  "slug": "honeyed-french-kinako-muffins",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-french-kinako-muffins",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:07:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "kinako",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "kinako",
+    "descriptor": "Honeyed",
+    "dishForm": "Muffins"
+  }
+}

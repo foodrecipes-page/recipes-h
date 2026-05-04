@@ -3376,6 +3376,21 @@
     "shard": "h"
   },
   {
+    "slug": "honeyed-french-kinako-muffins",
+    "title": "Honeyed French Kinako Muffins",
+    "tags": [
+      "easy",
+      "family-friendly",
+      "french",
+      "quick-breakfast",
+      "sweet",
+      "wholesome"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "honeyed-moroccan-fish-tagine",
     "title": "Honeyed Moroccan Fish Tagine",
     "tags": [
