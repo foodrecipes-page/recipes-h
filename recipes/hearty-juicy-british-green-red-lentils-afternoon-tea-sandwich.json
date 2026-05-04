@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Juicy British Green Red Lentils Afternoon Tea Sandwich",
+  "description": "A romantic British dish featuring green red lentils, soffritto-base, and ayurvedic-sattvic-friendly ingredients, perfect for a bitter and juicy afternoon tea experience.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "cut into small triangles"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring 2 cups of water to a boil and add the green red lentils, then reduce the heat to low and simmer for 20 minutes.",
+    "In a large skillet, heat the olive oil over medium heat and add the chopped onion, carrot, and celery, then cook until the vegetables are tender.",
+    "In a small bowl, whisk together the dijon mustard and apple cider vinegar.",
+    "Add the cooked lentils to the skillet with the vegetables and stir in the mustard mixture.",
+    "Season the lentil mixture with salt and pepper to taste.",
+    "Arrange the whole wheat bread triangles on a serving plate.",
+    "Spoon the lentil mixture onto the bread triangles.",
+    "Top the lentil mixture with lettuce leaves and tomato slices.",
+    "Serve the sandwiches immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british-classic",
+    "healthy-snack",
+    "high-fiber",
+    "lentil-based",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "hearty-juicy-british-green-red-lentils-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-british-green-red-lentils-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:50:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "green red lentils",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "green red lentils",
+    "descriptor": "hearty juicy",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}
