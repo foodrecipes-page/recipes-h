@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Robata-Grilled Russian Potato Salad",
+  "description": "A fatty, creamy hangover‑cure Russian salad featuring garlic, egg yolks, and fresh dill, made on a robata grill for a smoky bite.",
+  "cuisine": "Russian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "500g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g",
+      "notes": "softened"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Sour cream",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "10ml",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, around 180°C.",
+    "Rinse the diced potatoes under cold water and pat dry with a towel.",
+    "Toss the potatoes with olive oil, butter, minced garlic, salt, and pepper until evenly coated.",
+    "Arrange the potato cubes on the grill grates and cook, turning occasionally, until golden brown and crispy, about 15 minutes.",
+    "While the potatoes are grilling, whisk the egg yolks, sour cream, lemon juice, and chopped dill together in a bowl.",
+    "Remove the potatoes from the grill and transfer them to a large mixing bowl.",
+    "Drizzle the creamy dill mixture over the hot potatoes and fold gently until all pieces are coated.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Taste and adjust seasoning with extra salt or pepper if needed.",
+    "Serve immediately while warm, garnished with a few extra dill sprigs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fatty",
+    "hangover-cure",
+    "ovo-vegetarian",
+    "potato-salad",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "hearty-robata-grilled-russian-potato-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-robata-grilled-russian-potato-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:35:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "garlic clove",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potato",
+    "descriptor": "Hearty Robata-Grilled",
+    "dishForm": "Salad"
+  }
+}
