@@ -1,0 +1,119 @@
+{
+  "title": "Hearty Thai Cabbage Casserole",
+  "description": "A savory one‑pot casserole that blends fermented flavors with a crumbly Parmigiano‑Reggiano crust, perfect for a low‑carb dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 head, chopped",
+      "notes": "shredded to 1/2 inch thick"
+    },
+    {
+      "name": "fermented mustard sauce",
+      "amount": "2 tbsp",
+      "notes": "adds tangy depth"
+    },
+    {
+      "name": "ground pork",
+      "amount": "200 g",
+      "notes": "optional, use tofu for vegetarian"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup",
+      "notes": "low‑carb binder"
+    },
+    {
+      "name": "parmigiano‑reggiano",
+      "amount": "1 cup, shredded",
+      "notes": "crumbly cheese topping"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "for umami"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "minimally crushed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to heat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": "brightens flavors"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Heat coconut oil in a large skillet and sauté garlic, ginger, and chili flakes for 2 minutes until fragrant.",
+    "Add ground pork and cook until browned, about 5 minutes.",
+    "Stir in shredded cabbage, fermented mustard, fish sauce, and lime juice, cooking until the cabbage is slightly wilted, about 7 minutes.",
+    "Fold in cauliflower rice to combine and season with salt and pepper.",
+    "Transfer the mixture to a greased baking dish and top evenly with shredded Parmigiano‑Reggiano.",
+    "Bake in the preheated oven for 20 minutes until the cheese forms a golden crumbly crust.",
+    "Remove from oven and let rest for 5 minutes before serving."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ],
+  "slug": "hearty-thai-cabbage-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-thai-cabbage-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:41:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "low-carb",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cabbage",
+    "descriptor": "Hearty",
+    "dishForm": "Casserole"
+  }
+}

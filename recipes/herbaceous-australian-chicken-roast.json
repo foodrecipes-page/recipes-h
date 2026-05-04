@@ -1,0 +1,107 @@
+{
+  "title": "Herbaceous Australian Chicken Roast",
+  "description": "Charred, bouncy-qq chicken roasts infused with makrut lime leaves for a low-fat, solo-dinner Australian delight.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole free-range chicken",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Makrut lime leaves",
+      "amount": "15 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "brush"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "Fresh cracked black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, smashed",
+      "notes": "add to cavity"
+    },
+    {
+      "name": "Fresh rosemary sprigs",
+      "amount": "3 sprigs",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2 wedges",
+      "notes": "for serving"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for roasting pan"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "1 cup",
+      "notes": "optional for moistness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C and place a rack in the center.",
+    "Pat the chicken dry with paper towels and season inside and out with salt, pepper, and crushed garlic.",
+    "Stuff the cavity with makrut lime leaves, rosemary sprigs, and a lemon wedge.",
+    "Brush the skin with olive oil and place the chicken on a rack in a roasting pan with a splash of water and stock.",
+    "Roast for 10 minutes at 220°C to char the skin, then reduce heat to 180°C and continue roasting for 50 minutes, basting occasionally.",
+    "Check the internal temperature; it should reach 75°C in the thickest part.",
+    "Remove the chicken, tent with foil, and let rest 10 minutes.",
+    "Slice and serve with a wedge of lemon and a drizzle of the pan juices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "charred",
+    "herbaceous",
+    "low-fat",
+    "one-pan",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 120,
+    "carbs": 0,
+    "fat": 70
+  },
+  "slug": "herbaceous-australian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-australian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:41:15Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Herbaceous",
+    "dishForm": "Roast"
+  }
+}

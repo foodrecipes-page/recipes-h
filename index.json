@@ -2382,6 +2382,17 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-thai-cabbage-casserole",
+    "title": "Hearty Thai Cabbage Casserole",
+    "tags": [
+      "thai",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-tunisian-bryndza-stir-fry",
     "title": "Hearty Tunisian Bryndza Stir-fry",
     "tags": [
@@ -2836,6 +2847,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "herbaceous-australian-chicken-roast",
+    "title": "Herbaceous Australian Chicken Roast",
+    "tags": [
+      "bouncy-qq",
+      "charred",
+      "herbaceous",
+      "low-fat",
+      "one-pan",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 75,
     "shard": "h"
   },
   {
