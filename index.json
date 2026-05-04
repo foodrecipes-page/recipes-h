@@ -1056,6 +1056,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-potato-stew",
+    "title": "Hearty Irish Potato Stew",
+    "tags": [
+      "dairy-free",
+      "date-night",
+      "glassy-jelly",
+      "irish",
+      "one-pot",
+      "slow-cook"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-water-chestnut-stew",
     "title": "Hearty Irish Water Chestnut Stew",
     "tags": [
