@@ -1,0 +1,89 @@
+{
+  "title": "Heavenly Light Turkish Chocolate Mousse",
+  "description": "A light and romantic Turkish dessert featuring brandy and tempered chocolate, perfect for special occasions",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 oz",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "large egg whites",
+      "amount": "4"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate in a double boiler over low heat, stirring occasionally",
+    "Remove the chocolate from the heat and let it cool slightly",
+    "Whip the heavy cream until it forms stiff peaks and set it aside",
+    "In a separate bowl, whisk together the egg whites and granulated sugar until stiff peaks form",
+    "Fold the egg mixture into the cooled chocolate until well combined",
+    "Add the brandy, kosher salt, and vanilla extract to the chocolate mixture and fold until smooth",
+    "Fold the whipped cream into the chocolate mixture until no white streaks remain",
+    "Divide the mousse into individual mini cocottes and chill in the refrigerator for at least 2 hours"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brandy",
+    "chocolate",
+    "gluten-free",
+    "low-fodmap",
+    "mini-cocotte",
+    "romantic",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "heavenly-light-turkish-chocolate-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-light-turkish-chocolate-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:27:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "brandy",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chocolate",
+    "descriptor": "Heavenly Light",
+    "dishForm": "Mousse"
+  }
+}

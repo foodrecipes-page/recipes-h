@@ -1,0 +1,115 @@
+{
+  "title": "Hearty Sichuan Tofu Stew",
+  "description": "A briny, dense stew that blends Sichuan peppercorns, allspice, and silky tofu for a nostalgic, low-glycemic comfort dish cooked on a cedar plank.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400g",
+      "notes": "pressed and cut into 1.5cm cubes"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fermented black soybean paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "lightly crushed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Score a cedar plank and place a sheet of parchment paper on it to prevent sticking.",
+    "In a large bowl whisk together the vegetable broth, soy sauce, fermented black soybean paste, allspice, Sichuan peppercorns, ginger, garlic, and rice vinegar.",
+    "Gently fold in the tofu cubes and sliced shiitake mushrooms, reserving a few mushrooms for garnish.",
+    "Transfer the mixture onto the prepared cedar plank, spreading it evenly.",
+    "Cover the mix with a lid or aluminum foil to create a sealed environment.",
+    "Bake in a preheated oven at 180°C for 45 minutes, allowing the cedar aroma to infuse the stew.",
+    "Carefully remove the cedar plank, whisk the stew to combine, and stir in sesame oil.",
+    "Serve hot, garnished with the reserved mushrooms and chopped scallions.",
+    "Enjoy a comforting, briny Sichuan tofu stew that stays low-glycemic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "hearty",
+    "low-glycemic",
+    "one-pot",
+    "sichuan",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "hearty-sichuan-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sichuan-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:27:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "allspice",
+    "diet": "low-glycemic",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "tofu",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}
