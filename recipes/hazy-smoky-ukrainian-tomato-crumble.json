@@ -1,0 +1,106 @@
+{
+  "title": "Hazy Smoky Ukrainian Tomato Crumble",
+  "description": "A rustic tomato crumble infused with smoky flavor, perfect for a lazily spent Sunday.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh tomatoes",
+      "amount": "800 g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat olive oil in a pan and sauté onion and garlic until translucent.",
+    "Add tomatoes, smoked paprika, smoked salt, oregano, thyme, salt, and pepper, and cook for 10 minutes until softened.",
+    "Transfer the tomato mixture to a Korean brass bowl and spread evenly.",
+    "In a bowl, mix flour, oats, and brown sugar; cut in butter until crumbly.",
+    "Sprinkle the crumble mixture over the tomatoes.",
+    "Bake for 25 minutes until the crumble is golden and the tomatoes are bubbling.",
+    "Remove from oven and let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumble",
+    "lazy-sunday",
+    "one-pot",
+    "smoky",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "hazy-smoky-ukrainian-tomato-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-smoky-ukrainian-tomato-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:25:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "smoke-cold",
+    "primaryIngredient": "tomatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Hazy Smoky",
+    "dishForm": "Crumble"
+  }
+}
