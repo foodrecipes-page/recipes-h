@@ -638,6 +638,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-fregola-hash",
+    "title": "American Fregola Hash",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-shungiku-roast",
     "title": "Hearty American Shungiku Roast",
     "tags": [
