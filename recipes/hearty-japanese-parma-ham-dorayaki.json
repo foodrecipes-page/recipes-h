@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Japanese Parma Ham Dorayaki",
+  "description": "A fermented, gooey, lazy‑sunday dish that pairs savory Parma ham with a sweet miso glaze, rimmed with binchotan charcoal for a subtle smoky touch, all wrapped in macrobiotic‑friendly buckwheat pancakes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "4 slices",
+      "notes": "thinly sliced, 2.5 cm width"
+    },
+    {
+      "name": "Buckwheat dorayaki pancakes",
+      "amount": "4 pieces",
+      "notes": "pre‑made, 7 cm diameter"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "fermented, seasoned"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": "fresh, adds zing"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasting adds crunch"
+    },
+    {
+      "name": "Binchotan charcoal powder",
+      "amount": "1 tsp",
+      "notes": "dust lightly, for smoky flavor"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tsp",
+      "notes": "sweetness booster"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Warm the buckwheat dorayaki pancakes in a skillet over medium heat until lightly crisp.",
+    "Spread a thin layer of miso paste over the center of each pancake.",
+    "Layer two slices of Parma ham on top of the miso.",
+    "Sprinkle toasted sesame seeds and a pinch of binchotan charcoal powder over the ham.",
+    "Drizzle maple syrup and dust ground cinnamon over the filling.",
+    "Fold the pancake halves together to enclose the ham.",
+    "Heat a non‑stick pan over low heat and gently press the assembled dorayaki to meld flavors.",
+    "Cook each side for 2 minutes until golden and fragrant.",
+    "Remove from heat and let rest for one minute to settle.",
+    "Slice the dorayaki into bite‑size squares and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "macrobiotic",
+    "quick",
+    "savory-sweet",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 95,
+    "fat": 13
+  },
+  "slug": "hearty-japanese-parma-ham-dorayaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-japanese-parma-ham-dorayaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:11:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "parma ham",
+    "diet": "macrobiotic",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Parma Ham",
+    "descriptor": "Hearty",
+    "dishForm": "Dorayaki"
+  }
+}

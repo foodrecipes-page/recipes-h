@@ -1298,6 +1298,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-japanese-parma-ham-dorayaki",
+    "title": "Hearty Japanese Parma Ham Dorayaki",
+    "tags": [
+      "lazy-sunday",
+      "macrobiotic",
+      "quick",
+      "savory-sweet",
+      "snack"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-japanese-pork-stir-fry",
     "title": "Hearty Japanese Pork Stir fry",
     "tags": [
