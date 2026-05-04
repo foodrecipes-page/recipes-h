@@ -1,0 +1,107 @@
+{
+  "title": "Healthy Smoky Tunisian Rice Wrap",
+  "description": "Salty, pillowy Tunisian rice wrap bursting with smoky paprika and fresh veggies, perfect for a sick day.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "140g cooked"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "80g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "50g, grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ti leaf wrap",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Rinse 140g rice and cook in 280ml water for 15 minutes until fluffy.",
+    "While rice cooks, heat 1 tbsp olive oil in a skillet over medium heat.",
+    "Add diced onion and minced garlic, sauté until fragrant about 3 minutes.",
+    "Stir in grated carrot, cooked chickpeas, smoked paprika, cumin, salt, and pepper; cook for 4 minutes.",
+    "Add lemon juice and cooked rice, toss to combine and heat through, about 3 minutes.",
+    "Remove from heat and let the mixture cool slightly.",
+    "Warm 2 ti leaf wraps over a dry skillet for 30 seconds each side to make them pliable.",
+    "Spoon a generous amount of the rice mixture onto each wrap, fold in sides, then roll tightly.",
+    "Serve immediately, optionally with a squeeze of lemon or a sprinkle of fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "low-carb",
+    "one-pot",
+    "smoky",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 13,
+    "carbs": 77,
+    "fat": 18
+  },
+  "slug": "healthy-smoky-tunisian-rice-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-smoky-tunisian-rice-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:48:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "smoky paprika",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rice",
+    "descriptor": "Healthy Smoky",
+    "dishForm": "Wrap"
+  }
+}
