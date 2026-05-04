@@ -1,0 +1,116 @@
+{
+  "title": "Hot Smoked Peruvian Chicken Aji-De-Gallina",
+  "description": "A hearty, flavorful Peruvian dish with the rich flavors of hot smoked paprika and a creamy ají de gallina sauce, served in a traditional kazán cauldron.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked over oakwood"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cream of chicken soup",
+      "amount": "1 can",
+      "notes": "14.5 ounces"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "ají amarillo peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together hot smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken breast, making sure to coat it evenly.",
+    "Heat 2 tablespoons of vegetable oil in a large kazán cauldron over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same cauldron, sauté the diced ají amarillo peppers until they start to soften, about 3 minutes.",
+    "Add the cream of chicken soup and stir until it's well combined with the peppers.",
+    "Bring the mixture to a simmer and let cook for 2 minutes.",
+    "Shred the cooked chicken breast into bite-sized pieces and add it to the cauldron.",
+    "Stir in the shredded gruyère cheese until it's fully incorporated.",
+    "Reduce heat to low and let simmer for 5 minutes, stirring occasionally.",
+    "Stir in the heavy cream and cook for an additional 2 minutes, or until the sauce has thickened slightly.",
+    "Serve the hot smoked Peruvian chicken Aji-De-Gallina in the traditional kazán cauldron, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "hot-smoked",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hot-smoked-peruvian-chicken-aji-de-gallina",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hot Smoked",
+    "dishForm": "Aji-De-Gallina"
+  }
+}
