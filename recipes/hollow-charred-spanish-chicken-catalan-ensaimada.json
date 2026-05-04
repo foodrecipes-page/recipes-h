@@ -1,0 +1,115 @@
+{
+  "title": "Hollow Charred Spanish Chicken Catalan Ensaimada",
+  "description": "Tender, charred Spanish chicken, wrapped in a classic Catalan Ensaïmada pastry, paired with a flavorful basmati rice dish. Perfect for a date-night dinner.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Ensaïmada pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together olive oil, garlic, smoked paprika, salt, and black pepper. Add the chicken breasts and mix until coated.",
+    "Stuff the Ensaïmada pastry with the marinated chicken breasts and fold the pastry to seal.",
+    "Place the stuffed pastry on a rimmed baking sheet lined with parchment paper, leaving space between each pastry.",
+    "Bake the pastry in the preheated oven for 25 minutes, or until golden brown.",
+    "While the pastry is baking, prepare the basmati rice according to package instructions.",
+    "In a small bowl, mix together lemon juice, lemon zest, and chopped parsley. Set aside.",
+    "Once the pastry is done, remove it from the oven and let it cool for 5 minutes.",
+    "Slice the pastry in half lengthwise and hollow out the center, leaving about 1 inch of the pastry intact.",
+    "Stuff the hollowed-out pastry with the cooked basmati rice and drizzle with the lemon-parsley mixture.",
+    "Serve immediately and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "basmati-rice",
+    "chicken",
+    "date-night",
+    "kosher-friendly",
+    "pastry",
+    "spanish",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "hollow-charred-spanish-chicken-catalan-ensaimada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hollow-charred-spanish-chicken-catalan-ensaimada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:57:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "basmati rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Hollow Charred",
+    "dishForm": "Catalan Ensaimada"
+  }
+}

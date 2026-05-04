@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Smoky Argentinian Beef Skewers",
+  "description": "A smoky and savory Argentinian dish featuring tender beef skewers served with a side of crispy bread and a glassy jelly sauce, perfect for a date night.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "grass fed"
+    },
+    {
+      "name": "long fermentation dough bread",
+      "amount": "1 loaf",
+      "notes": "day old"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the beef strips onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with smoked paprika, garlic powder, salt, and black pepper.",
+    "Grill the skewers for 10 minutes per side, or until they reach an internal temperature of 135 degrees Fahrenheit.",
+    "Meanwhile, slice the long fermentation dough bread into 1 inch thick slices and grill until crispy.",
+    "In a small saucepan, combine the dates, red wine vinegar, and 1/4 cup of water and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the sauce has thickened into a glassy jelly.",
+    "Serve the beef skewers with the crispy bread and glassy jelly sauce.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "date-night",
+    "grilled-meats",
+    "high-protein",
+    "keto-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-smoky-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:56:28Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "bread",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Skewers"
+  }
+}

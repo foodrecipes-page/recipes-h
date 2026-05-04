@@ -632,6 +632,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-argentinian-beef-skewers",
+    "title": "Hearty Smoky Argentinian Beef Skewers",
+    "tags": [
+      "argentinian-cuisine",
+      "date-night",
+      "grilled-meats",
+      "high-protein",
+      "keto-friendly",
+      "special-occasion"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-moroccan-pistachio-chebakia",
     "title": "Hearty Smoky Moroccan Pistachio Chebakia",
     "tags": [
@@ -1975,6 +1990,22 @@
       "fusion"
     ],
     "cuisine": "Turkish Fusion",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-charred-spanish-chicken-catalan-ensaimada",
+    "title": "Hollow Charred Spanish Chicken Catalan Ensaimada",
+    "tags": [
+      "basmati-rice",
+      "chicken",
+      "date-night",
+      "kosher-friendly",
+      "pastry",
+      "spanish",
+      "wood-fired"
+    ],
+    "cuisine": "Spanish",
     "totalTimeMin": 75,
     "shard": "h"
   },
