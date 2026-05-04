@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Herb Mediterranean Pasta Pilaf",
+  "description": "A grassy and pillowy Mediterranean dish featuring prosciutto and yuzu-cure, perfect for a hangover cure, this kosher-friendly recipe is a hearty and satisfying meal. It combines the flavors of the Mediterranean with a unique twist of yuzu-cure.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "yuzu-cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the prosciutto and cook for 2 minutes until crispy.",
+    "In a large bowl, combine the cooked pasta, yuzu-cure, parsley, dill, lemon juice, salt, and black pepper.",
+    "Add the cooked prosciutto and garlic to the bowl and toss to combine.",
+    "Transfer the mixture to a baking dish and bake for 15 minutes until heated through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "kosher-friendly",
+    "mediterranean-diet",
+    "one-pan-meal",
+    "pasta-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-herb-mediterranean-pasta-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herb-mediterranean-pasta-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:45:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "prosciutto",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pasta",
+    "descriptor": "Hearty Herb",
+    "dishForm": "Pilaf"
+  }
+}
