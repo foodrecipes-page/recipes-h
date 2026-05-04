@@ -1511,6 +1511,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-herbal-slovakian-lamb-stew",
+    "title": "Hearty Herbal Slovakian Lamb Stew",
+    "tags": [
+      "hearty-stew",
+      "lamb-recipe",
+      "low-fat",
+      "one-pot",
+      "slovakian-cuisine",
+      "winter-dish"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-holiday-turkish-cranberry-menemen",
     "title": "Hearty Holiday Turkish Cranberry Menemen",
     "tags": [

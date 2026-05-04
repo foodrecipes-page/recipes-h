@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Herbal Slovakian Lamb Stew",
+  "description": "A flavorful and herbal Slovakian lamb stew featuring chilli powder and salt-bake, perfect for a cold winter night. This low-fat-friendly dish is made in one pot for ease and convenience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, and chilli powder.",
+    "Heat a large Dutch oven over medium-high heat and brown the lamb pieces on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the chicken broth, tomato paste, and dried thyme to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "lamb-recipe",
+    "low-fat",
+    "one-pot",
+    "slovakian-cuisine",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-herbal-slovakian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-slovakian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:44:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "chilli powder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Stew"
+  }
+}
