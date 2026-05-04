@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Crispy British Cheese Curds Fritters",
+  "description": "A nutty, crispy British dish featuring cheese curds doubled‑fried to golden perfection, served hot and satisfying.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "200 g"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "30 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "optional for extra crisp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "150 ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Set a deep pan on medium heat and pour enough vegetable oil to reach 2 inches.",
+    "In a bowl whisk the flour, cornstarch, baking powder, salt and pepper until combined.",
+    "Add the beaten eggs and buttermilk to the dry mix and whisk until a smooth batter forms.",
+    "Fold in the cheese curds until evenly coated.",
+    "Drop spoonfuls of the batter into the hot oil and fry until the first surface is golden, about 3 minutes.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Return the fritters to the hot oil for a second fry to crisp the exterior, about 2 minutes.",
+    "Drain again, sprinkle with a pinch of salt, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "cheese-curds",
+    "crispy",
+    "double-fry",
+    "hearty",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 55,
+    "carbs": 119,
+    "fat": 68
+  },
+  "slug": "hearty-crispy-british-cheese-curds-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-british-cheese-curds-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:47:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "cheese curds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese curds",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Fritters"
+  }
+}

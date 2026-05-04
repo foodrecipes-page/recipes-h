@@ -781,6 +781,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crispy-british-cheese-curds-fritters",
+    "title": "Hearty Crispy British Cheese Curds Fritters",
+    "tags": [
+      "british",
+      "cheese-curds",
+      "crispy",
+      "double-fry",
+      "hearty",
+      "quick"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crispy-ethiopian-squid-stew",
     "title": "Hearty Crispy Ethiopian Squid Stew",
     "tags": [
@@ -2337,6 +2352,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-sweet-spanish-white-chocolate-empanadas",
+    "title": "Hearty Sweet Spanish White Chocolate Empanadas",
+    "tags": [
+      "kid-friendly",
+      "lacto-vegetarian",
+      "spanish-dishes",
+      "sweet-treats",
+      "white-chocolate"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
