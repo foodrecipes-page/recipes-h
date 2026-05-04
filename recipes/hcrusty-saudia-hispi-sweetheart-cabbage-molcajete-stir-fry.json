@@ -1,0 +1,70 @@
+{
+  "title": "Hcrusty Saudia Hispi Sweetheart Cabbage Molcajete Stir-fry",
+  "description": "An earthy and crisp solo-dinner saudi-arabian dish featuring hispi sweetheart cabbage, nuka-pickle, low-fat-friendly, prepared in the molcajete vessel.",
+  "cuisine": "Saudi Arabia",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetcabbage",
+      "amount": 1
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 2,
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the hispi sweetcabbage into thin strips.",
+    "Finely mince the garlic cloves.",
+    "In a molcajete, mix chopped cabbage with minced garlic and a pinch of salt.",
+    "Add nuka-pickle to the mixture and stir until well combined.",
+    "Serve immediately as a solo-dinner dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "earthly",
+    "low-fat",
+    "saudi-arabian",
+    "sweet",
+    "vessel-molcajete"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 1
+  },
+  "slug": "hcrusty-saudia-hispi-sweetheart-cabbage-molcajete-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hcrusty-saudia-hispi-sweetheart-cabbage-molcajete-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:56:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "hispi sweetheart cabbage",
+    "descriptor": "Crusty",
+    "dishForm": "Stir-fry"
+  }
+}
