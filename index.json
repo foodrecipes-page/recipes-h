@@ -2166,6 +2166,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roasted-indian-peanut-biryani",
+    "title": "Hearty Roasted Indian Peanut Biryani",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "healthy",
+      "indian-cuisine",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-russian-sweet-potato-parfait",
     "title": "Hearty Russian Sweet Potato Parfait",
     "tags": [

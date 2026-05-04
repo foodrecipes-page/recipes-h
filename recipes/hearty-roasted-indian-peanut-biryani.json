@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Roasted Indian Peanut Biryani",
+  "description": "A resinous and pillowy Indian dish featuring roasted peanuts, made with ayurvedic-sattvic-friendly ingredients and a mortar-pestle-pound method, this biryani is an energizing meal option.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "soaked for 30 minutes"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat and add cumin seeds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add chopped carrot and cook for 5 minutes.",
+    "Add coriander powder, turmeric powder, and salt, and stir well.",
+    "Add soaked and drained basmati rice and stir gently.",
+    "Add water to the pan and bring to a boil.",
+    "Reduce heat to low, cover the pan, and cook for 15 minutes.",
+    "While the rice is cooking, grind roasted peanuts into a coarse powder using a mortar and pestle.",
+    "Once the rice is cooked, fluff it with a fork and stir in the peanut powder.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "healthy",
+    "indian-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-roasted-indian-peanut-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-indian-peanut-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:29:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "roasted peanut",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Biryani"
+  }
+}
