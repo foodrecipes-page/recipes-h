@@ -898,6 +898,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-fluffy-tunisian-tofu-tagine",
+    "title": "Hearty Fluffy Tunisian Tofu Tagine",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "north-african",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-fragrant-saudi-arabian-lamb-kebabs",
     "title": "Hearty Fragrant Saudi Arabian Lamb Kebabs",
     "tags": [
@@ -3804,6 +3819,22 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-indian-fish-bowl",
+    "title": "Hot Indian Fish Bowl",
+    "tags": [
+      "fish",
+      "indian",
+      "lassi",
+      "mortar-pestle",
+      "nut-free",
+      "peppery",
+      "quick-fix"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {

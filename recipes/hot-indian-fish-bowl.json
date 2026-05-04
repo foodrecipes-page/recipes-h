@@ -1,0 +1,109 @@
+{
+  "title": "Hot Indian Fish Bowl",
+  "description": "A quick, peppery fish bowl served with a fresh cucumber lassi, perfect for a light lunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Place garlic and ginger in a mortar and pound with a pestle until a fine paste forms.",
+    "Stir in garam masala, red chili flakes, and salt to create a spice rub.",
+    "Marinate the tilapia fillets in the paste, lemon juice, and a splash of olive oil for 5 minutes.",
+    "Heat a skillet over medium heat and sear the fillets for 3 minutes on each side until cooked through.",
+    "Transfer the fish to a tagliere and set aside.",
+    "Whisk yogurt with a pinch of salt to make a quick cucumber lassi; refrigerate until ready.",
+    "Dice cucumber and bell pepper, then sprinkle over the fish on the tagliere.",
+    "Drizzle remaining olive oil and chopped coriander over the bowl.",
+    "Serve the fish bowl with the chilled cucumber lassi on the side.",
+    "Enjoy a fresh, peppery meal in under 30 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "indian",
+    "lassi",
+    "mortar-pestle",
+    "nut-free",
+    "peppery",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "hot-indian-fish-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-indian-fish-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:06:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "fish",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Hot",
+    "dishForm": "Bowl"
+  }
+}
