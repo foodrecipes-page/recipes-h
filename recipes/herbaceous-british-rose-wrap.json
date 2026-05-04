@@ -1,0 +1,118 @@
+{
+  "title": "Herbaceous British Rose Wrap",
+  "description": "Floral, tender brunch wrap using fresh ti leaves, roasted beet, steamed carrot, and a sweet icing sugar finish.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ti leaves",
+      "amount": "12 leaves",
+      "notes": "fresh and pliable"
+    },
+    {
+      "name": "red beet",
+      "amount": "1 medium, roasted",
+      "notes": "peeled and sliced thin"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, steamed",
+      "notes": "cut into matchsticks"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, sliced",
+      "notes": "for fresh crunch"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "10 leaves, chopped",
+      "notes": "adds bright aroma"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10 leaves, chopped",
+      "notes": "softens sweetness"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs, finely chopped",
+      "notes": "adds earthy note"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 tbsp",
+      "notes": "sprinkle on finished wrap"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "for slight acidity"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Roast the beet at 200°C for 25 minutes until tender and slightly caramelized.",
+    "Steam the carrots until just bright orange and crisp, about 5 minutes.",
+    "Let the roasted beet cool, then slice thinly into strips.",
+    "Prepare the ti leaf wraps by gently warming each leaf in a dry pan for 10 seconds to make them pliable.",
+    "In a small bowl, toss the cucumber slices with 1 tsp of salt, 1 tsp of sugar, 1 tsp of water, and 1 tsp of lemon juice and let sit for 12 hours at room temperature to ferment mildly.",
+    "When ready, combine the steamed carrots, sliced beet, fermented cucumber, chopped mint, basil, and rosemary in a mixing bowl, season with salt and pepper, and stir gently.",
+    "Place a generous spoonful of the vegetable mix onto each ti leaf.",
+    "Drizzle each wrap lightly with 1 tsp lemon juice for brightness.",
+    "Fold the ti leaf sides over the filling and roll tightly to enclose the contents.",
+    "Finish by sprinkling each wrap with icing sugar before serving.",
+    "Serve immediately for a fresh, floral brunch experience."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "brunch",
+    "floral",
+    "fresh",
+    "satvik",
+    "ti-leaf-wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "herbaceous-british-rose-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-british-rose-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:05:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "icing sugar",
+    "diet": "satvik",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Rose",
+    "descriptor": "Herbaceous",
+    "dishForm": "Wrap"
+  }
+}

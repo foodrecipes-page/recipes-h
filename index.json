@@ -661,6 +661,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal",
+    "title": "Hearty Peppery Moroccan Cauliflower Couscous Royal",
+    "tags": [
+      "cauliflower",
+      "couscous",
+      "moroccan",
+      "royal",
+      "satvik",
+      "vegetarian",
+      "yuzu"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-portuguese-chicken-stew",
     "title": "Hearty Portuguese Chicken Stew",
     "tags": [
@@ -1051,6 +1067,22 @@
     "tags": [],
     "cuisine": "Brazilian",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "herbaceous-british-rose-wrap",
+    "title": "Herbaceous British Rose Wrap",
+    "tags": [
+      "british",
+      "brunch",
+      "floral",
+      "fresh",
+      "satvik",
+      "ti-leaf-wrap",
+      "vegetarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {

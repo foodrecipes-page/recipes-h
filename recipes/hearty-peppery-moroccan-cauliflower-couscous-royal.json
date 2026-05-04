@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Peppery Moroccan Cauliflower Couscous Royal",
+  "description": "A satvik-friendly, nostalgic Moroccan dish featuring cauliflower, with a peppery flavor and a bouncy texture, cured with yuzu, served in a royal couscous form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the cauliflower florets with olive oil, black pepper, cumin, coriander, and salt until they are evenly coated.",
+    "Spread the cauliflower mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the cauliflower is roasting, cook the couscous according to the package instructions.",
+    "In a small bowl, whisk together the yuzu juice and a pinch of salt.",
+    "Once the cauliflower is done roasting, remove it from the oven and toss it with the yuzu juice mixture until the cauliflower is evenly coated.",
+    "To assemble the dish, place the cooked couscous on a large platter or individual plates, then top with the roasted cauliflower mixture.",
+    "Garnish with chopped fresh parsley and mint.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "couscous",
+    "moroccan",
+    "royal",
+    "satvik",
+    "vegetarian",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-peppery-moroccan-cauliflower-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:05:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cauliflower",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Hearty Peppery",
+    "dishForm": "Couscous Royal"
+  }
+}
