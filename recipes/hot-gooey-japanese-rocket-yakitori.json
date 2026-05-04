@@ -1,0 +1,100 @@
+{
+  "title": "Hot Gooey Japanese Rocket Yakitori",
+  "description": "A romantic Japanese dish from Kyushu featuring fermented and gooey rocket, grilled to perfection on a yakimono grill, this gluten-free-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocket leaves",
+      "amount": "1 bunch",
+      "notes": "fresh and organic"
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Yakitori sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "20 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sake, mirin, rice vinegar, sugar, salt, and black pepper to make the marinade.",
+    "Add the rocket leaves to the marinade and let it sit for at least 2 hours in the refrigerator to allow the fermentation process to start.",
+    "Thread the marinated rocket leaves onto the bamboo skewers, leaving a small space between each leaf.",
+    "Brush the sesame oil onto the grill to prevent sticking.",
+    "Grill the rocket skewers for 2-3 minutes per side, or until they are slightly charred and gooey.",
+    "Brush the yakitori sauce onto the rocket leaves during the last minute of grilling.",
+    "Serve the hot gooey Japanese rocket yakitori immediately, garnished with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 10,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "grilled-vegetables",
+    "japanese-cuisine",
+    "kyushu-specialty",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "hot-gooey-japanese-rocket-yakitori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-gooey-japanese-rocket-yakitori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:41:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "rocket",
+    "diet": "gluten-free",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rocket",
+    "descriptor": "Hot Gooey",
+    "dishForm": "Yakitori"
+  }
+}

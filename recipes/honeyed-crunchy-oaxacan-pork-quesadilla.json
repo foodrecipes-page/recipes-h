@@ -1,0 +1,104 @@
+{
+  "title": "Honeyed Crunchy Oaxacan Pork Quesadilla",
+  "description": "A savory pork quesadilla glazed with honey and spicy Oaxacan seasonings, finished with a crunchy puffed rice topping for a sweet and salty date‑night treat.",
+  "cuisine": "mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "400g"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "2"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "puffed rice",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Trim fat from pork shoulder and cut into 1-inch cubes.",
+    "In a bowl mix honey, dried apricots, cumin, smoked paprika, salt, and pepper.",
+    "Add pork cubes to the bowl, toss to coat, and set aside to marinate for 10 minutes.",
+    "Heat a skillet over medium heat and sauté minced garlic and diced onion until translucent.",
+    "Add the marinated pork to the skillet and cook until browned on all sides, about 8 minutes.",
+    "Transfer pork to a baking dish and bake at 180°C for 25 minutes, or until tender.",
+    "While pork bakes, shred the cheddar cheese and set aside.",
+    "Heat a second skillet over medium heat, add a tortilla, sprinkle half the shredded cheese, and place another tortilla on top.",
+    "Cook until the bottom tortilla is golden, then flip and add the cooked pork, remaining cheese, and spoonfuls of puffed rice on top.",
+    "Serve each quesadilla on a talavera plate, garnish with a drizzle of honey and a squeeze of lime if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "dinner"
+  ],
+  "slug": "honeyed-crunchy-oaxacan-pork-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-crunchy-oaxacan-pork-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:42:52Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "sugars",
+    "diet": "diabetic-friendly",
+    "region": "oaxacan",
+    "cuisineAdjective": "Oaxacan",
+    "mainIngredient": "Pork",
+    "descriptor": "Honeyed Crunchy",
+    "dishForm": "Quesadilla"
+  }
+}

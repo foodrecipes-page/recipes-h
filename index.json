@@ -3796,6 +3796,17 @@
     "shard": "h"
   },
   {
+    "slug": "honeyed-crunchy-oaxacan-pork-quesadilla",
+    "title": "Honeyed Crunchy Oaxacan Pork Quesadilla",
+    "tags": [
+      "mexican",
+      "dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "honeyed-filipino-jam-custard",
     "title": "Honeyed Filipino Jam Custard",
     "tags": [
@@ -3994,6 +4005,21 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-gooey-japanese-rocket-yakitori",
+    "title": "Hot Gooey Japanese Rocket Yakitori",
+    "tags": [
+      "fermented-food",
+      "gluten-free",
+      "grilled-vegetables",
+      "japanese-cuisine",
+      "kyushu-specialty",
+      "romantic-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 130,
     "shard": "h"
   },
   {
