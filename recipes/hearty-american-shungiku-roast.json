@@ -1,0 +1,114 @@
+{
+  "title": "Hearty American Shungiku Roast",
+  "description": "A savory roast featuring tender pork shoulder, the earthy flavor of shungiku leaves, and a crisp paleo puff pastry crust, baked in a terracotta dish for a rustic finish.",
+  "cuisine": "American",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "2500 g"
+    },
+    {
+      "name": "fresh shungiku leaves",
+      "amount": "200 g",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "200 ml",
+      "notes": "for coating"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sliced onions",
+      "amount": "150 g",
+      "notes": "1 cup"
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "120 g",
+      "notes": "1 cup"
+    },
+    {
+      "name": "paleo puff pastry sheet",
+      "amount": "200 g",
+      "notes": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C) and line a terracotta dish with parchment paper.",
+    "In a small bowl, mix sea salt, smoked paprika, garlic powder, onion powder, thyme, and rosemary to create a dry rub.",
+    "Pat the pork shoulder dry with paper towels and coat it generously with coconut oil, then rub the seasoning mix all over the meat.",
+    "Place the sliced onions, carrots, and shungiku leaves at the bottom of the terracotta dish to form a bed for the roast.",
+    "Position the seasoned pork shoulder on top of the vegetable bed, fat side up, and pour 200 ml of water into the dish.",
+    "Cover the pork shoulder with a sheet of paleo puff pastry, sealing the edges by pressing them together to lock in moisture.",
+    "Roast the covered pork shoulder in the preheated oven for 1 hour, then remove the pastry cover and continue roasting for another 30 minutes until the pastry turns golden brown and the internal temperature reaches 145°F (63°C) for pork.",
+    "Remove the dish from the oven and let the roast rest for 15 minutes before slicing.",
+    "Slice the pork shoulder into thick, juicy pieces, and arrange them on a serving platter.",
+    "Serve the roast hot, garnished with a few fresh shungiku leaves and a drizzle of cooked broth from the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "one-pan",
+    "paleo-friendly",
+    "roast",
+    "shungiku",
+    "terracotta"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 50,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "hearty-american-shungiku-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-shungiku-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:06:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shungiku",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "shungiku",
+    "descriptor": "Hearty",
+    "dishForm": "Roast"
+  }
+}

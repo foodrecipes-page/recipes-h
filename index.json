@@ -368,6 +368,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-shungiku-roast",
+    "title": "Hearty American Shungiku Roast",
+    "tags": [
+      "hearty",
+      "one-pan",
+      "paleo-friendly",
+      "roast",
+      "shungiku",
+      "terracotta"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 110,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-arabian-lamb-tagine",
     "title": "Hearty Arabian Lamb Tagine",
     "tags": [],
