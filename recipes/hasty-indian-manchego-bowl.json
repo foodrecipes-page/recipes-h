@@ -1,0 +1,108 @@
+{
+  "title": "Hasty Indian Manchego Bowl",
+  "description": "A quick, creamy Indian bowl that fuses traditional lassi with crumbly Manchego, steamed vegetables, and aromatic spices.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plain low‑fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "roasted cumin powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Manchego cheese, grated",
+      "amount": "50 g"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mixed veggies (carrot, broccoli, shiitake), sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "optional, for extra moisture"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Whisk the yogurt until smooth.",
+    "Add grated cucumber, roasted cumin powder, lemon juice, sugar, salt, and black pepper; mix thoroughly.",
+    "Fold in grated Manchego cheese and chopped mint, stirring until cheese is evenly distributed.",
+    "Set aside the yogurt mixture; cover and refrigerate for 5 minutes to chill.",
+    "While the yogurt chills, steam the mixed veggies until just tender, about 5 minutes.",
+    "Drain the veggies and let them cool slightly, then chop into bite‑sized pieces.",
+    "Arrange the steamed veggies in the bottom of a serving bowl.",
+    "Spoon the chilled yogurt‑cheese mixture over the veggies, creating a layered effect.",
+    "Garnish with chopped cilantro if using, and drizzle a small amount of olive oil for extra moisture.",
+    "Serve immediately, optionally with a side of whole‑grain roti or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "cheese",
+    "easy",
+    "indian",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 14,
+    "carbs": 11,
+    "fat": 17
+  },
+  "slug": "hasty-indian-manchego-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hasty-indian-manchego-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:18:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "manchego",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Manchego",
+    "descriptor": "Hasty",
+    "dishForm": "Bowl"
+  }
+}

@@ -352,6 +352,21 @@
     "shard": "h"
   },
   {
+    "slug": "hasty-indian-manchego-bowl",
+    "title": "Hasty Indian Manchego Bowl",
+    "tags": [
+      "buddhist-friendly",
+      "cheese",
+      "easy",
+      "indian",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
     "slug": "hasty-irish-swede-stew",
     "title": "Hasty Irish Swede Stew",
     "tags": [
