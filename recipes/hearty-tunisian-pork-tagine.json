@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Tunisian Pork Tagine",
+  "description": "A fresh and juicy Tunisian dish featuring pork in a soffritto base, also suitable for vegan adaptation by substituting the pork, this recipe is full of energizing flavors.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork cubes and cook until they are browned on all sides.",
+    "Add the chopped carrots and potatoes, tomato paste, cumin, paprika, salt, and black pepper.",
+    "Stir well to combine, then add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 1 1/2 hours.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Let it rest for 10 minutes before serving.",
+    "Serve with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "north-african",
+    "one-pot",
+    "pork-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-tunisian-pork-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tunisian-pork-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:20:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pork",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pork",
+    "descriptor": "hearty",
+    "dishForm": "Tagine"
+  }
+}

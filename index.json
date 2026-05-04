@@ -2353,6 +2353,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-tunisian-pork-tagine",
+    "title": "Hearty Tunisian Pork Tagine",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "north-african",
+      "one-pot",
+      "pork-recipe"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 120,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-tunisian-veal-wrap",
     "title": "Hearty Tunisian Veal Wrap",
     "tags": [
