@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Egyptian Chickpeas Stew",
+  "description": "A savory, one-pot Egyptian chickpea stew infused with orange juice and a fragrant bhuna of spices, cooked on a cedar plank for a subtle smoky aroma.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "2"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "dry roasted"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper, to taste",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Soak a cedar plank in warm water for 30 minutes to prevent burning.",
+    "Heat the olive oil in a heavy skillet over medium heat and add the cumin seeds, coriander, and turmeric; toast until fragrant, about 1 minute (bhuna).",
+    "Add the diced onion and garlic to the skillet and sauté until translucent, about 3 minutes. ",
+    "Stir in the diced carrots and tomatoes and cook until the vegetables begin to soften, about 4 minutes.",
+    "Pour in the vegetable broth and orange juice, and bring the mixture to a gentle simmer.",
+    "Add the cooked chickpeas, salt and pepper to taste, and stir well.",
+    "Place the cedar plank in the skillet and pour the stew over it, covering the plank with a lid to trap steam. ",
+    "Simmer the stew on low heat until thickened and flavors meld, about 30 minutes, stirring occasionally. ",
+    "Remove the cedar plank carefully, then transfer the stew to a serving bowl. ",
+    "Garnish with fresh parsley if desired, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "low-fat",
+    "mediterranean",
+    "one-pot",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "hearty-egyptian-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-egyptian-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:09:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "orange juice",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

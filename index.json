@@ -537,6 +537,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-egyptian-chickpeas-stew",
+    "title": "Hearty Egyptian Chickpeas Stew",
+    "tags": [
+      "hearty",
+      "low-fat",
+      "mediterranean",
+      "one-pot",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-egyptian-couscous-pilaf",
     "title": "Hearty Egyptian Couscous Pilaf",
     "tags": [
