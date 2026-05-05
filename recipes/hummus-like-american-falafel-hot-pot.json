@@ -1,0 +1,123 @@
+{
+  "title": "Hummus-Like American Falafel Hot-Pot",
+  "description": "A savory, comforting take on the classic Middle Eastern street food, featuring crispy falafel, rich and creamy sauce, and an exciting twist on traditional falafel hot-pot.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor spice mix",
+      "amount": "2 tbsp",
+      "notes": "Make sure to adjust to taste."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Dairy-free alternative available."
+    },
+    {
+      "name": "Garlic mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Optional."
+    },
+    {
+      "name": "Sliced red bell pepper",
+      "amount": "1 cup",
+      "notes": "Optional."
+    },
+    {
+      "name": "Crushed paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "Optional: crumbled feta cheese",
+      "amount": "",
+      "notes": "For a non-low-carb version."
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor spice mix in a large skillet over medium-high heat for 2 minutes, stirring constantly.",
+    "Cook the falafel mix according to package instructions and set aside.",
+    "In a blender or food processor, combine the Greek yogurt, garlic mayonnaise, and sesame oil. Blend until smooth.",
+    "Add the cooked falafel to the blender and blend until well combined.",
+    "Transfer the mixture to the skillet with the tandoor spice mix and stir until heated through.",
+    "Add the chopped parsley, scallions, and red bell pepper to the skillet if using. Stir to combine.",
+    "Taste and adjust the seasoning with salt as needed.",
+    "Bring the mixture to a simmer and cook for an additional 2-3 minutes, stirring occasionally.",
+    "If using, sprinkle crumbled feta cheese over the top and serve immediately.",
+    "Stir in water as needed to achieve the desired consistency.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "hummus-like-american-falafel-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hummus-like-american-falafel-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "falafel",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Falafel",
+    "descriptor": "Hummus-Like",
+    "dishForm": "Hot-Pot"
+  }
+}

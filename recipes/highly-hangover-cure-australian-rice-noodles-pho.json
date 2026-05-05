@@ -1,0 +1,139 @@
+{
+  "title": "Australian Hangover Cure Pho with Rice Noodles",
+  "description": "A bitter, creamy, and savory Australian-inspired take on traditional Vietnamese Pho, featuring high-protein rice noodles and a pasta-water emulsion to help cure hangovers.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Beef Bone Broth",
+      "amount": "1L",
+      "notes": "Use store-bought or homemade broth."
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2Tbsp",
+      "notes": "Adds umami flavor and creaminess."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for better flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate for added depth."
+    },
+    {
+      "name": "Pasta Water",
+      "amount": "50ml",
+      "notes": "Helps emulsify the dish."
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "2 stalks",
+      "notes": "Garnish for added texture."
+    },
+    {
+      "name": "Pickled Ginger",
+      "amount": "20 slices",
+      "notes": "Optional, for added tanginess."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For added nutty flavor."
+    },
+    {
+      "name": "Beef Strips",
+      "amount": "200g",
+      "notes": "Use thin strips for quick cooking."
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "2",
+      "notes": "Temper for creamy emulsion."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "20ml",
+      "notes": "Add brightness to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the beef bone broth to a boil in a large saucepan.",
+    "Reduce heat to a simmer and add the beef strips, cooking until browned and cooked through.",
+    "While the beef cooks, prepare the pasta water emulsion by mixing the egg yolks and sesame oil in a small bowl.",
+    "Temper the egg yolks by slowly pouring the pasta water into the bowl, whisking continuously.",
+    "Add the miso paste, soy sauce, fish sauce, brown sugar, garlic, and ginger to the bowl, whisking until smooth.",
+    "Strain the beef broth through a fine-mesh sieve into a large serving bowl.",
+    "Add the rice noodles to the bowl and cook for 2-3 minutes, or until tender.",
+    "Add the tempered egg yolk mixture to the bowl, whisking continuously to create a creamy emulsion.",
+    "Add the cooked beef strips, chopped scallions, pickled ginger, and lime juice to the bowl, mixing gently to combine.",
+    "Season with salt to taste, then serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "highly-hangover-cure-australian-rice-noodles-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/highly-hangover-cure-australian-rice-noodles-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "rice noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "highly hangover-cure",
+    "dishForm": "Pho"
+  }
+}

@@ -5932,6 +5932,19 @@
     "shard": "h"
   },
   {
+    "slug": "highly-hangover-cure-australian-rice-noodles-pho",
+    "title": "Australian Hangover Cure Pho with Rice Noodles",
+    "tags": [
+      "hangover-cure",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hip-american-cornmeal-fritters",
     "title": "Hip American Cornmeal Fritters",
     "tags": [
@@ -6771,6 +6784,21 @@
       "stew"
     ],
     "cuisine": "algerian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hummus-like-american-falafel-hot-pot",
+    "title": "Hummus-Like American Falafel Hot-Pot",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "American",
     "totalTimeMin": 35,
     "shard": "h"
   },
