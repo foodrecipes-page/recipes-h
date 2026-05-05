@@ -826,6 +826,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-aerated-syrian-rice-tagine",
+    "title": "Hearty Aerated Syrian Rice Tagine",
+    "tags": [
+      "comforting",
+      "low-sodium",
+      "one-pan",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-algerian-fenugreek-skillet",
     "title": "Hearty Algerian Fenugreek Skillet",
     "tags": [
@@ -3015,6 +3029,20 @@
       "vegan-friendly"
     ],
     "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-silky-venezuelan-myeolchi-anchovies-pilaf",
+    "title": "Hearty Silky Venezuelan Myeolchi-Anchovies Pilaf",
+    "tags": [
+      "easy-to-make",
+      "high-protein",
+      "one-pot",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
     "totalTimeMin": 35,
     "shard": "h"
   },

@@ -1,0 +1,117 @@
+{
+  "title": "Hearty Silky Venezuelan Myeolchi-Anchovies Pilaf",
+  "description": "Salty, silky, one-pot venezuelan dish featuring myeolchi-anchovies, rest, no-onion-no-garlic-friendly, vessel=scallop-shell. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallop shell",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "myeolchi-anchovies",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried cumin",
+      "amount": "1 tsp",
+      "notes": "ground in spice grinder."
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "ground in spice grinder."
+    },
+    {
+      "name": "dried cilantro",
+      "amount": "1 tsp",
+      "notes": "ground in spice grinder."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried chopped scallions",
+      "amount": "1 tsp",
+      "notes": "ground in spice grinder."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil over medium heat in a large scallop shell.",
+    "Add 1 tsp of ground cumin, 1 tsp of ground oregano, and 1 tsp of ground cilantro and saut\tuntil fragrant, about 1 minute.",
+    "Add 1/2 cup of myeolchi-anchovies and stir to combine.",
+    "Add 1 cup of rice and stir to combine.",
+    "Add 2 cups of water, 2 tablespoons of tomato paste, 1 tsp of salt, and 1/4 tsp of black pepper.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Garnish with dried chopped scallions, if desired.",
+    "Serve hot and enjoy!",
+    "Transfer any leftovers to an airtight container and refrigerate for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "one-pot",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-silky-venezuelan-myeolchi-anchovies-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-venezuelan-myeolchi-anchovies-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "myeolchi-anchovies",
+    "descriptor": "Hearty Silky",
+    "dishForm": "Pilaf"
+  }
+}

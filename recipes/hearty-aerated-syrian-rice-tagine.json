@@ -1,0 +1,132 @@
+{
+  "title": "Hearty Aerated Syrian Rice Tagine",
+  "description": "A comforting Syrian dish featuring a soffritto base, vanilla pod, and a touch of wine.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "Low-sodium option: use lean beef."
+    },
+    {
+      "name": "Rice",
+      "amount": "1 1/2 cups",
+      "notes": "Short-grain rice (e.g. Calrose or Japanese mochigome) recommended."
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth recommended."
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "Dry white wine, such as Sauvignon Blanc."
+    },
+    {
+      "name": "Vanilla pod",
+      "amount": "1/2",
+      "notes": "Scrape seeds, use pod as well."
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Use to taste; adjust for low-sodium broth."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Use to taste."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish."
+    },
+    {
+      "name": "Donabe or Dutch oven",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ghee, onion, and garlic in donabe or Dutch oven over medium heat, stirring occasionally, until softened, about 8 minutes.",
+    "Add ground beef, breaking it up with a spoon or spatula, until browned, about 5 minutes.",
+    "Add rice, chicken broth, wine, vanilla pod, allspice, cumin, salt, and black pepper. Stir to combine.",
+    "Cover and bring to a boil over high heat.",
+    "Reduce heat to low and simmer, covered, until liquid is mostly absorbed and rice is tender, about 25-30 minutes.",
+    "Fluff with a fork, then remove vanilla pod and discard.",
+    "Check seasoning and adjust as needed.",
+    "Serve hot, garnished with fresh cilantro if desired.",
+    "Let tagine rest for 10 minutes before serving for best flavor and texture.",
+    "Transfer leftovers to an airtight container and refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "low-sodium",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-aerated-syrian-rice-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-aerated-syrian-rice-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "vanilla pod",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "rice",
+    "descriptor": "hearty aerated",
+    "dishForm": "Tagine"
+  }
+}
