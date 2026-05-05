@@ -1,0 +1,122 @@
+{
+  "title": "Hearty Wood-Fired Kenyan Seafood Bake",
+  "description": "A rich, velvety, festive Kenyan dish perfect for special occasions, featuring a frozen seafood mix cooked in a wood-fired kazan. This recipe is sugar-free friendly and can be served as a main course or special treat.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Seafood Mix",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Freshly squeezed Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil for best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince or crush for best flavor."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Grate for best flavor."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat coconut milk for best flavor and texture."
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste for desired level of heat."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet paprika for added depth."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing kazan."
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired kazan to 400\u00066 F (200\u00066 C).",
+    "Prepare the seafood mix according to package instructions, or thaw and rinse under cold water if frozen.",
+    "In a large bowl, mix together the lemon juice, olive oil, garlic, ginger, curry powder, paprika, salt, and pepper.",
+    "Add the thawed seafood mix to the bowl and toss to coat with the marinade.",
+    "Transfer the seafood mix to the preheated kazan and pour in the coconut milk.",
+    "Brush the sides of the kazan with coconut oil to prevent sticking.",
+    "Cover the kazan with a lid or foil and bake for 12 minutes, or until the seafood is cooked through and the sauce is bubbly.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Let the kazan cool slightly before serving, as it will be extremely hot.",
+    "Serve hot and enjoy!",
+    "Consider serving with a side of rice, naan, or roti for a filling meal.",
+    "Feel free to adjust the spice level to your liking by adding more or less curry powder.",
+    "This recipe makes 4-6 servings and can be prepared in about 20 minutes.",
+    "Total cooking time, including prep, is approximately 45 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "seafood",
+    "special-occasion",
+    "sugar-free",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "hearty-wood-fired-kenyan-seafood-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-wood-fired-kenyan-seafood-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "seafood",
+    "descriptor": "hearty wood-fired",
+    "dishForm": "Bake"
+  }
+}
