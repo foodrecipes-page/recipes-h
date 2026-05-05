@@ -1,0 +1,69 @@
+{
+  "title": "Hwholeasy Oozyo Porcini Bake",
+  "description": "A kid-friendly filipino dish featuring raw-friendly porcini mushrooms baked in a clay pot. This recipe is fatty and bouncy-qq.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Porcini Mushrooms",
+      "amount": 200,
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": 500
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": 100
+    },
+    {
+      "name": "Garnish (for serving)",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "Preheat your clay pot to 200°C.",
+    "Mix chicken broth and cream cheese until smooth.",
+    "Add porcini mushrooms and mix well with the cream sauce.",
+    "Pour the mixture into the preheated clay pot.",
+    "Bake at 180°C for 35 minutes, or until golden brown and bubbly.",
+    "Serve hot with your choice of garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "fatty",
+    "kid-friendly",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "hwholeasy-oozyo-porcini-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hwholeasy-oozyo-porcini-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:23:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "porcini",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Porcini",
+    "descriptor": "Wholesome Oozy",
+    "dishForm": "Bake"
+  }
+}
