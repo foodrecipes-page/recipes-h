@@ -1,0 +1,95 @@
+{
+  "title": "Honeyed Ukrainian Grapes Agemono-Deep-Fry",
+  "description": "Earthy, light Ukrainian dish featuring grapes and agemono-deep-fry, perfect for brunch, and FODMAP-friendly",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 pint",
+      "notes": "any variety, but firmer grapes work best"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup",
+      "notes": "helps create crispy exterior"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for coating"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together cornstarch and flour to create a uniform coating mixture.",
+    "In a separate bowl, whisk together egg and a pinch of salt.",
+    "Add the grapes to the egg mixture and toss to coat.",
+    "Roll the grape clusters in the cornstarch mixture to coat evenly.",
+    "Heat the vegetable oil in a deep frying pan or a deep fryer to 325°F (165°C).",
+    "Carefully place the coated grape clusters into the hot oil, a few at a time, to avoid overcrowding.",
+    "Fry the grapes for 2-3 minutes or until they turn golden brown.",
+    "Remove the fried grapes from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the honey over the fried grapes and toss to coat evenly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "deep-fried",
+    "fodmap-friendly",
+    "gluten-free",
+    "snack",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "honeyed-ukrainian-grapes-agemono-deep-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-ukrainian-grapes-agemono-deep-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "grapes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Grapes",
+    "descriptor": "Honeyed",
+    "dishForm": "Agemono-Deep-Fry"
+  }
+}
