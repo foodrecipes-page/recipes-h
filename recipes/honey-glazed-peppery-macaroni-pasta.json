@@ -1,0 +1,106 @@
+{
+  "title": "Honey Glazed Peppery Macaroni Pasta",
+  "description": "A silky and peppery Jamaican dish featuring macaroni, roasted vegetables, sugar-free-friendly. Perfect for a sick-day meal.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": 4
+    },
+    {
+      "name": "peppers",
+      "amount": "1 large"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "carrots",
+      "amount": "2"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": 1
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "honey",
+      "amount": 3
+    },
+    {
+      "name": "sugar-free sweetener (optional)",
+      "amount": 2
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Cook macaroni according to package directions. Drain and set aside.",
+    "Prepare vegetables by chopping peppers, onions, carrots, and zucchini into bite-sized pieces.",
+    "In a large skillet, sauté garlic in olive oil until fragrant.",
+    "Add chopped vegetables to the skillet and cook for 5 minutes or until they start to soften.",
+    "Stir in salt, pepper, honey, and sugar-free sweetener (if using).",
+    "Pour vegetable broth into the skillet with vegetables. Bring mixture to a boil.",
+    "Reduce heat to low and simmer for about 10 minutes, stirring occasionally.",
+    "Fold cooked macaroni into vegetable mixture and stir well to combine.",
+    "Transfer the dish to an oven-safe baking dish and bake for 20-25 minutes or until cheese is golden brown and bubbly.",
+    "Serve hot as a hearty dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "macaroni",
+    "no-baking-dishes",
+    "peppery",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 14,
+    "carbs": 47,
+    "fat": 8
+  },
+  "slug": "honey-glazed-peppery-macaroni-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-peppery-macaroni-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:46:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "macaroni",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peppery",
+    "mainIngredient": "Macaroni",
+    "descriptor": "Honey Glazed",
+    "dishForm": "Pasta"
+  }
+}
