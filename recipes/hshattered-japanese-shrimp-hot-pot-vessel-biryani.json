@@ -1,0 +1,95 @@
+{
+  "title": "HShattered Japanese shrimp Hot-Pot-Vessel Biryani",
+  "description": "A solo-dinner dish featuring a grassy, shattering flavor profile with Cajun and tadka spices in a hot-pot-vessel setting, suitable for those no-onion-no-garlic-friendly diners.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": 200
+    },
+    {
+      "name": "Rice",
+      "amount": 500
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Onion",
+      "amount": null,
+      "notes": "Not used in this recipe."
+    },
+    {
+      "name": "Garlic",
+      "amount": null,
+      "notes": "Not used in this recipe."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": 200
+    },
+    {
+      "name": "Cajun Spice Mix",
+      "amount": 1
+    },
+    {
+      "name": "Tadka Powder Blend",
+      "amount": 1
+    },
+    {
+      "name": "Paprika",
+      "amount": null,
+      "notes": "Not used in this recipe."
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a hot-pot-vessel.",
+    "Add Cajun spice mix and tadka powder blend to the broth.",
+    "Add sliced tomatoes to the broth.",
+    "Gently add the shrimp to the broth, ensuring they are evenly distributed.",
+    "Cover the vessel and cook for 20 minutes on medium heat.",
+    "In a separate pan, toast rice as per preferred cooking instructions.",
+    "After 20 minutes, carefully transfer the rice onto the hot-pot-vessel contents using tongs or a slotted spoon to prevent spilling.",
+    "Serve hot with additional garnishes like fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cayenne-spice",
+    "japanese-style",
+    "no-onion-no-garlic",
+    "shrimp-hot-pot",
+    "tadka-biryani",
+    "vessel-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 26,
+    "carbs": 41,
+    "fat": 8
+  },
+  "slug": "hshattered-japanese-shrimp-hot-pot-vessel-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hshattered-japanese-shrimp-hot-pot-vessel-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T12:24:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "cajun",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "shrimp",
+    "descriptor": "HShattered",
+    "dishForm": "Hot-Pot-Vessel Biryani"
+  }
+}
