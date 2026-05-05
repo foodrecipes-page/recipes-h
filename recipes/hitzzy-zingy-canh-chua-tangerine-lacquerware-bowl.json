@@ -1,0 +1,84 @@
+{
+  "title": "Hitzzy Zingy Canh Chua Tangerine Lacquerware Bowl",
+  "description": "A tangy and light Vietnamese dish featuring a crowd-pleasing curry powder base, perfect for the lacquerware bowl.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canh chua base",
+      "amount": "1"
+    },
+    {
+      "name": "tangerine juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "ginger slices",
+      "amount": "2"
+    },
+    {
+      "name": "lime leaves",
+      "amount": "6-8"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "glutinous rice flour vermicelli noodles",
+      "amount": "150g"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a lacquerware bowl, add canh chua base and tangerine juice.",
+    "Add minced garlic cloves and ginger slices to the mixture.",
+    "Stir in fish sauce until it thickens slightly.",
+    "Garnish with lime leaves and chili flakes if desired.",
+    "Cook glutinous rice flour vermicelli noodles in boiling water for 3-5 minutes, then drain.",
+    "Serve canh chua hot over cooked noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canh-chua",
+    "gluten-free",
+    "lacquerware-bowl",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "hitzzy-zingy-canh-chua-tangerine-lacquerware-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hitzzy-zingy-canh-chua-tangerine-lacquerware-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T11:29:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "curry powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tangerine",
+    "descriptor": "Zestful",
+    "dishForm": "Canh Chua Tangerine"
+  }
+}
