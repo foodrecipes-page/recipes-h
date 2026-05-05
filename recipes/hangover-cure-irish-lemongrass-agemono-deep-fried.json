@@ -1,0 +1,110 @@
+{
+  "title": "Hangover-Cure Irish Lemongrass Agemono-Deep-Fried",
+  "description": "A roasted Irish dish featuring lemongrass, pulled cheese, and hungover remedy elements, deep-fried in a crispy agemono coating, suitable for low-glycemic diets.",
+  "cuisine": "irish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corned beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Irish potatoes",
+      "amount": "2",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "4 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "150g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Flour",
+      "amount": "100g",
+      "notes": "all purpose"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Agemono batter mix",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Trim the lemongrass stalks, using a vegetable peeler to remove the tough outer layers.",
+    "Chop the onion and garlic, then sauté in butter until softened.",
+    "Boil the Irish potatoes in salted water for 15 minutes, or until tender when pierced with a fork.",
+    "Shred the cheddar cheese.",
+    "Mix the flour and egg to make a paste, then add the agemono batter mix and stir until combined.",
+    "Cut the corned beef into small pieces, then toss with the lemongrass, onion, and garlic mixture.",
+    "Dip the corned beef mixture into the agemono batter, then coat in shredded cheddar cheese.",
+    "Heat about 5cm of vegetable oil in a deep frying pan to 180°C (350°F).",
+    "Deep-fry the agemono-coated corned beef for 4-5 minutes, or until golden brown and crispy.",
+    "Drain the fried agemono on paper towels, then serve hot with roasted Irish potatoes and shredded cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "irish",
+    "low-glycemic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "hangover-cure-irish-lemongrass-agemono-deep-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-irish-lemongrass-agemono-deep-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:11Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lemongrass",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Hangover-Cure",
+    "dishForm": "Agemono-Deep-Fried"
+  }
+}
