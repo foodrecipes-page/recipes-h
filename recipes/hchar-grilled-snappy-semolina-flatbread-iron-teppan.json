@@ -1,0 +1,76 @@
+{
+  "title": "HChar-Grilled Snappy Semolina Flatbread Iron-Teppan",
+  "description": "A funky, snappy, cozy Slovakian dish featuring semolina flour, char-grill-yang and jain-friendly. Vessel: iron-teppan.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": 120
+    },
+    {
+      "name": "yeast",
+      "amount": 5
+    },
+    {
+      "name": "salt",
+      "amount": 3
+    },
+    {
+      "name": "olive oil",
+      "amount": 40
+    },
+    {
+      "name": "water",
+      "amount": 60
+    }
+  ],
+  "instructions": [
+    "Mix together yeast and water in a large bowl.",
+    "Add semolina flour, salt, and olive oil to the mixture.",
+    "Knead dough for about 10 minutes until smooth and elastic.",
+    "Cover and let rise at room temperature for 45 minutes.",
+    "Preheat your iron-teppan on medium-high heat.",
+    "On a floured surface, roll out dough into a thin round shape.",
+    "Place the dough directly onto the hot teppan without rolling again.",
+    "Cook for about 2-3 minutes or until golden brown and crispy.",
+    "Serve immediately with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "char-grill-yang",
+    "cozy-dish",
+    "iron-teppan",
+    "jain-friendly",
+    "snappy-slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "hchar-grilled-snappy-semolina-flatbread-iron-teppan",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hchar-grilled-snappy-semolina-flatbread-iron-teppan",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:50:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "semolina flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Semolina",
+    "descriptor": "Snappy Char-Grilled",
+    "dishForm": "Flatbread"
+  }
+}

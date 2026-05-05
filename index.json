@@ -538,6 +538,20 @@
     "shard": "h"
   },
   {
+    "slug": "hchar-grilled-snappy-semolina-flatbread-iron-teppan",
+    "title": "HChar-Grilled Snappy Semolina Flatbread Iron-Teppan",
+    "tags": [
+      "char-grill-yang",
+      "cozy-dish",
+      "iron-teppan",
+      "jain-friendly",
+      "snappy-slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
     "slug": "hcrispy-wholesome-salt-cod-pilaf",
     "title": "HCrispy Wholesome SaltCod Pilaf",
     "tags": [
