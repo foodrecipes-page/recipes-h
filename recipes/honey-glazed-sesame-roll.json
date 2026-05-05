@@ -1,0 +1,86 @@
+{
+  "title": "Honey Glazed Sesame Roll",
+  "description": "Resinous and flaky, this whole30-friendly dish showcases a show-off polish with shiso-leaf, binchotan-charcoal, and honey glaze.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 whole shiso leaf",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 tbsp binchotan charcoal dust",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 tbsp honey",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "4 sheets of nori seaweed",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup sesame seeds",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Wrap shiso leaf around nori sheets.",
+    "Sprinkle with sesame seeds and a pinch of sea salt.",
+    "Apply honey glaze to the outside of wrapped rolls.",
+    "Grill or bake at 200°C for about 15 minutes.",
+    "Serve warm as an after-dinner treat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "after-dinner-treat",
+    "binchotan-charcoal",
+    "dessert",
+    "glazed",
+    "shiso-leaf",
+    "show-off-polish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "honey-glazed-sesame-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-sesame-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T14:58:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sesame",
+    "descriptor": "Honey Glazed",
+    "dishForm": "Roll"
+  }
+}
