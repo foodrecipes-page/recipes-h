@@ -1,0 +1,140 @@
+{
+  "title": "Honey-Glazed Moroccan Minari Robata-Grilled Chebakia",
+  "description": "A sweet and snappy Moroccan dish featuring minari, perfect for a weeknight dinner. Minari adds a delicious crunch to traditional chebakia.",
+  "cuisine": "moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, yeast, and salt. ",
+    "Mix the dough until it comes together in a ball. ",
+    "Knead the dough for 5 minutes. ",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour. ",
+    "Preheat the robata grill to medium-high heat. ",
+    "Cut the minari into 1-inch pieces. ",
+    "On a lightly floured surface, roll out the dough to a thickness of 1/4 inch. ",
+    "Cut the dough into diamond shapes. ",
+    "Place a few pieces of minari on each diamond shape, leaving a 1/2 inch border around the edges. ",
+    "Drizzle the dough with honey, and sprinkle with rose water, ginger, and cinnamon. ",
+    "Brush the edges of the dough with water. ",
+    "Fold the dough over the minari, pressing the edges to seal. ",
+    "Place the chebakia on the preheated robata grill and cook for 2-3 minutes on each side, or until golden brown. ",
+    "Brush with ghee or vegetable oil. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar. ",
+    "Repeat with the remaining dough and minari. ",
+    "Serve warm, dust with powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "homemade",
+    "moroccan",
+    "snappy",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "honey-glazed-moroccan-minari-robata-grilled-chebakia",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-moroccan-minari-robata-grilled-chebakia",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "minari",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Minari",
+    "descriptor": "Honey-Glazed",
+    "dishForm": "Robata-Grilled Chebakia"
+  }
+}
