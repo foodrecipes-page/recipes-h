@@ -1,0 +1,86 @@
+{
+  "title": "HCrispy Wholesome SaltCod Pilaf",
+  "description": "A nutty, crisp Irish dish featuring sous-vide cooked salt cod, ideal for a sick-day meal. This anti-inflammatory-friendly recipe combines the richness of salt cod with wholesome ingredients like brown rice and sunflower seeds.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt Cod",
+      "amount": 1,
+      "notes": "Sous-vide cooked"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chopped Celery",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Soak the salt cod overnight in cold water.",
+    "Rinse brown rice and sunflower seeds. Chop garlic finely.",
+    "Combine salt cod, brown rice, sunflower seeds, chopped celery, Worcestershire sauce, and enough water to cover all ingredients.",
+    "Bring to a boil, then reduce heat to low and simmer for 45 minutes or until the rice is tender.",
+    "Add red pepper flakes if desired. Stir well and serve hot.",
+    "Optional: To achieve a nuttier flavor, sauté sunflower seeds in a pan before adding them to the pilaf."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "nutritious",
+    "quick-cooking",
+    "sous-vide",
+    "wholesome"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 42,
+    "fat": 8
+  },
+  "slug": "hcrispy-wholesome-salt-cod-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hcrispy-wholesome-salt-cod-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T09:03:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "salt cod",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Salt Cod",
+    "descriptor": "Crispy",
+    "dishForm": "Pilaf"
+  }
+}
