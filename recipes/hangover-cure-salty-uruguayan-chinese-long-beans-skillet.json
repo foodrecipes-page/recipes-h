@@ -1,0 +1,97 @@
+{
+  "title": "Hangover-cure Salty Uruguayan Chinese Long Beans Skillet",
+  "description": "Uruguayan skillet dish featuring fermented Jang and Chinese long beans, to cure your hangover.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese Long Beans",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Jang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "a few grinds",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "Comal",
+      "amount": "",
+      "notes": "large, dry griddle"
+    }
+  ],
+  "instructions": [
+    "Rinse the Chinese long beans and chop them into 2-inch pieces.",
+    "Heat the comal over high heat until it reaches 400°F (200°C).",
+    "Add 1 tablespoon of fermented Jang to the comal and cook for 1 minute, stirring constantly.",
+    "Add the chopped garlic and ginger to the comal and cook for 2 minutes, stirring constantly.",
+    "Add the chopped Chinese long beans to the comal and cook for 4 minutes, stirring frequently.",
+    "Sprinkle the black pepper and salt over the long beans and cook for 1 minute.",
+    "Serve the hangover-cure long beans hot, garnished with additional fermented Jang if desired.",
+    "Discard any leftover long beans and comal grime.",
+    "Wash the comal thoroughly with soap and water, and dry it completely before storing it away.",
+    "Repeat the process for a second batch of long beans, if desired.",
+    "Store any leftover fermented Jang in an airtight container in the refrigerator for up to 1 week.",
+    "Reheat the leftover long beans in the comal or a pan over low heat, adding a pinch of salt and black pepper to taste.",
+    "Use leftover long beans as a topping for omelets, rice bowls, or salads."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "low-sodium",
+    "one-pan",
+    "spicy",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "chinese long beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beans",
+    "descriptor": "Hangover-cure Salty",
+    "dishForm": "Skillet"
+  }
+}
