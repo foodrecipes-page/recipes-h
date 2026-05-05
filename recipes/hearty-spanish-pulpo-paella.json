@@ -1,0 +1,70 @@
+{
+  "title": "Hearty Spanish Pulpo Paella",
+  "description": "A nutty, glassy-jelly Spanish dish featuring snow peas, perfect for a date night. This recipe is inspired by the pulpo a la gallega style from Galicia, Spain.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish Short Grain Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms (such as button or cremini)",
+      "amount": "8 oz",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of olive oil in a large skillet or paella pan over medium-high heat, cooking the onion until translucent.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the snow peas and chopped garlic and cook for 1-2 minutes until the peas are tender.",
+    "Add the Spanish short grain rice and stir to combine with the vegetables.",
+    "Add 2 cups of water and bring to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes until the rice is cooked and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "seafood-free",
+    "spanish",
+    "spicy",
+    "tapas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "hearty-spanish-pulpo-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-pulpo-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "snow peas",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pulpo",
+    "descriptor": "Hearty",
+    "dishForm": "Paella"
+  }
+}

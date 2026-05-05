@@ -1,0 +1,72 @@
+{
+  "title": "Hot Steamy Japanese Mussels Katsudon",
+  "description": "Sweet, juicy, pescatarian-friendly dish featuring mussels, steam, and katsudon form, served in a lotus-leaf wrap. Perfect for post-workout rejuvenation.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4-6 leaves",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Rinse the mussels under cold water and discard any broken shells.",
+    "Heat 2 tablespoons of sesame oil in a large pot over medium heat.",
+    "Add 2 cloves of minced garlic and sauté for 1 minute until fragrant.",
+    "Add the mussels to the pot and cook for 2-3 minutes until they start to open.",
+    "Add 2 tablespoons of soy sauce and 2 tablespoons of rice vinegar to the pot and stir to combine.",
+    "Transfer the mussels to a large steamer basket and steam for 4-6 minutes until they are cooked through.",
+    "Meanwhile, cook the Japanese short-grain rice according to package instructions.",
+    "Prepare the lotus leaves by washing and drying them thoroughly.",
+    "Assemble the katsudon by placing a scoop of cooked rice on the center of each lotus leaf, followed by a portion of steamed mussels, and finally a drizzle of soy sauce and rice vinegar.",
+    "Garnish with thinly sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "japanese",
+    "katsudon",
+    "low-carb",
+    "mussels",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hot-steamy-japanese-mussels-katsudon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-steamy-japanese-mussels-katsudon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "steam",
+    "primaryIngredient": "mussels",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mussels",
+    "descriptor": "hot steamy",
+    "dishForm": "Katsudon"
+  }
+}

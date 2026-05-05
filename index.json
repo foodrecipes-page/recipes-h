@@ -3554,6 +3554,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spanish-pulpo-paella",
+    "title": "Hearty Spanish Pulpo Paella",
+    "tags": [
+      "date-night",
+      "seafood-free",
+      "spanish",
+      "spicy",
+      "tapas",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spicy-greek-chickpeas-revithia",
     "title": "Hearty Spicy Greek Chickpeas Revithia",
     "tags": [
@@ -4136,6 +4151,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-fluffy-chinese-pork-jjigae-like-xiaolongbao",
+    "title": "Heavenly Fluffy Chinese Pork Jjigae-like Xiaolongbao",
+    "tags": [
+      "anti-inflammatory",
+      "chinese-five-spice-powder",
+      "one-pan",
+      "romantic",
+      "special-occasion",
+      "weeknight",
+      "xiaolongbao"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
@@ -6740,6 +6771,23 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-steamy-japanese-mussels-katsudon",
+    "title": "Hot Steamy Japanese Mussels Katsudon",
+    "tags": [
+      "healthy",
+      "japanese",
+      "katsudon",
+      "low-carb",
+      "mussels",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

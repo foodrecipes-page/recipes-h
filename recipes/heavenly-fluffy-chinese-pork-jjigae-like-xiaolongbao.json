@@ -1,0 +1,144 @@
+{
+  "title": "Heavenly Fluffy Chinese Pork Jjigae-like Xiaolongbao",
+  "description": "A pillowy and romantic Chinese dish featuring Chinese five spice powder, braised to perfection in a savory broth. This recipe is anti-inflammatory-friendly and perfect for a special occasion.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Wonton Wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "Fresh or frozen, round wonton wrappers work best for this dish."
+    },
+    {
+      "name": "Chinese Five Spice Powder",
+      "amount": "2 teaspoons",
+      "notes": "A blend of cinnamon, cloves, fennel seeds, star anise, and Szechuan pepper, Chinese five spice powder adds depth and warmth to the dish."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a low-sodium soy sauce to reduce salt intake."
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons",
+      "notes": "A sweet and savory sauce made from soybeans, fruits, and spices."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grate or slice the ginger thinly before using."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince or press the garlic before using."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Thinly slice the scallions for garnish."
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "1 can",
+      "notes": "Canned or fresh, sliced water chestnuts add a delightful crunch."
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "A common thickening agent, cornstarch helps to achieve the perfect texture."
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "2 eggs",
+      "notes": "Beat the egg whites lightly before using."
+    },
+    {
+      "name": "Pork Stock",
+      "amount": "4 cups",
+      "notes": "Use a low-sodium pork stock to reduce salt intake."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt or kosher salt for the best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "A small amount of sugar helps to balance the flavors."
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": "A Asian green, bok choy adds a delightful texture and flavor."
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the ground pork, five spice powder, soy sauce, hoisin sauce, ginger, garlic, sugar, salt, and black pepper. Mix well with your hands until the ingredients are evenly distributed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "In a small bowl, whisk together the cornstarch and egg whites until smooth. Set aside.",
+    "Bring the pork stock to a boil in a large saucepan over high heat.",
+    "Add the pork mixture to the boiling stock and stir constantly for 2-3 minutes, or until the mixture is cooked through and the liquid has thickened to your liking.",
+    "Wrap a wonton wrapper around a tablespoon of the pork mixture, moistening the edges with water. Place the wrapper on a clean surface and press the edges to seal the dumpling.",
+    "Repeat the process with the remaining wrappers and filling. You should end up with about 20-24 dumplings.",
+    "Bring the pork stock to a boil in a large saucepan over high heat. Add the sealed dumplings and cook for 8-10 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, heat a small amount of oil in a wok or large skillet over medium-high heat. Add the sliced water chestnuts and cook for 2-3 minutes, or until they are lightly browned.",
+    "Add the sliced scallions and cooked bok choy to the wok and stir-fry for 1-2 minutes, or until the greens are wilted.",
+    "Use a slotted spoon to transfer the cooked dumplings to a serving platter. Spoon the stir-fried vegetables and sauce over the top of the dumplings.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened to your liking.",
+    "Serve the heavenly fluffy Chinese pork Jjigae-like Xiaolongbao hot, garnished with additional scallions and bok choy if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "anti-inflammatory",
+    "chinese-five-spice-powder",
+    "one-pan",
+    "romantic",
+    "special-occasion",
+    "weeknight",
+    "xiaolongbao"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "heavenly-fluffy-chinese-pork-jjigae-like-xiaolongbao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-fluffy-chinese-pork-jjigae-like-xiaolongbao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "heavenly fluffy",
+    "dishForm": "Jjigae-like Xiaolongbao"
+  }
+}
