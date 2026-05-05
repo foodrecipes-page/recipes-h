@@ -1,0 +1,113 @@
+{
+  "title": "Gyeonggi Bao",
+  "description": "A Korean-inspired dish featuring a pillowy, umami-filled bao served with an orange-zest infused sauce and crispy kimchi slaw. Perfect for a low-key, date-night dinner.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bao Dough",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mung Bean Paste",
+      "amount": "1/2 cup",
+      "notes": "You can make your own or use store-bought"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for extra heat"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp",
+      "notes": "For brushing bao"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "1 tsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp",
+      "notes": "Low-glycemic"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Kimchi Slaw",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Kosher salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375F (190C).",
+    "Prepare bao dough according to package instructions or recipe.",
+    "Divide dough into 4-6 equal pieces, depending on desired size.",
+    "Roll out each piece into a thin circle.",
+    "Place a spoonful of mung bean paste onto one half of each circle.",
+    "Add a sprinkle of Korean chili flakes if using.",
+    "Fold dough over filling and press edges to seal.",
+    "Brush tops with sesame oil.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Meanwhile, mix soy sauce, brown sugar, and rice vinegar in a small bowl.",
+    "Add freshly grated orange zest and stir to combine.",
+    "Serve bao with dipping sauce and kimchi slaw on the side.",
+    "Optional: garnish with toasted sesame seeds or chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-to-make",
+    "korean",
+    "low-glycemic",
+    "one-pan",
+    "pillowy",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "handful-korean-dish-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/handful-korean-dish-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "orange zest",
+    "diet": "low-glycemic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dish",
+    "descriptor": "handful",
+    "dishForm": "Bao"
+  }
+}

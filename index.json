@@ -172,6 +172,22 @@
     "shard": "h"
   },
   {
+    "slug": "handful-korean-dish-bao",
+    "title": "Gyeonggi Bao",
+    "tags": [
+      "date-night",
+      "easy-to-make",
+      "korean",
+      "low-glycemic",
+      "one-pan",
+      "pillowy",
+      "umami"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hangover-cure-briny-jamaican-vine-leaves-bake",
     "title": "Hangover-Cure Briny Jamaican Vine Leaves Bake",
     "tags": [
@@ -5079,6 +5095,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-crumbly-algerian-potatoes-tagine",
+    "title": "Herbal Crumbly Algerian Potatoes Tagine",
+    "tags": [
+      "algerian",
+      "easy-dinner",
+      "kimchi",
+      "one-pan",
+      "potatoes",
+      "vegetarian"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
