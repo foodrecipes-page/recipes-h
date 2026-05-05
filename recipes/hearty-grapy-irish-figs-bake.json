@@ -1,0 +1,67 @@
+{
+  "title": "Hearty Grapy Irish Figs Bake",
+  "description": "Grassy, flaky, Irish dish featuring figs, double-rise-bread, and a touch of paleo-friendliness, all wrapped in a banana leaf.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Figs",
+      "amount": "12",
+      "notes": "fresh, preferably from local farmers market"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F. ",
+    "Bring 1 cup of almond milk to a simmer in a saucepan, add a pinch of salt, and let it reduce for 10 minutes. ",
+    "In a separate bowl, combine 1 cup of almond flour, 2 tbsp of sorghum syrup, and 1 tsp of baking soda. ",
+    "Gradually add the wet mixture to the dry mixture and fold until well combined. ",
+    "Add 12 fresh figs, cut in half, and mix until they're evenly distributed in the dough. ",
+    "Using 4 banana leaves, create small cups or molds and fill each one with the dough. ",
+    "Place the banana leaf cups on a baking sheet and bake for 25 minutes, or until golden brown.",
+    "While the figs are baking, melt 2 tbsp of coconut oil and 1 tbsp of butter in a saucepan over low heat.",
+    "Add 1 cup of grapes to the saucepan and let them simmer for 10 minutes, stirring occasionally.",
+    "Once the figs are done, remove them from the oven and let them cool for a few minutes.",
+    "Place a spoonful of the grape sauce on top of each fig, followed by a sprinkle of chopped kale.",
+    "Garnish with fresh grapes and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "double-rise-bread",
+    "gluten-free",
+    "grassy",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-grapy-irish-figs-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grapy-irish-figs-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "figs",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "figs",
+    "descriptor": "hearty grapy",
+    "dishForm": "Bake"
+  }
+}
