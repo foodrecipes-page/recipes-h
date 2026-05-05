@@ -1,0 +1,121 @@
+{
+  "title": "Hard-Boiled Jamaican Egg Frittata",
+  "description": "A funky, pillowy, cozy Jamaican dish featuring egg, pressure-cooked to perfection. Gluten-free-friendly and perfect for breakfast or brunch.",
+  "cuisine": "Jamaican",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mild Jamaican curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes, drained",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a large bowl and whisk them together with a fork until they're lightly beaten.",
+    "Add the shredded cheese, curry powder, garlic powder, salt, and black pepper to the bowl and stir until they're well combined.",
+    "Heat the butter in a large skillet over medium heat until it's melted and fragrant.",
+    "Add the diced tomatoes to the skillet and cook until they're heated through, about 2 minutes.",
+    "Pour the egg mixture over the tomatoes in the skillet and cook until the edges start to set, about 2 minutes.",
+    "Transfer the skillet to a pressure cooker and cook on high pressure for 5 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Remove the skillet from the pressure cooker and let it cool slightly.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata out of the skillet onto a serving plate and garnish with chopped scallions and cilantro.",
+    "Serve the frittata warm, sliced into wedges.",
+    "Garnish with additional chopped scallions and cilantro if desired.",
+    "Serve with toasted bread or a side salad for a complete meal.",
+    "Adjust the seasoning as needed and serve hot.",
+    "Let the frittata rest for 5 minutes before slicing and serving for a fluffier texture.",
+    "Cook the frittata to an internal temperature of 160°F (71°C) for food safety.",
+    "Let the frittata cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-dinner",
+    "eggs",
+    "gluten-free",
+    "jamaican",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "hard-boiled-jamaican-egg-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hard-boiled-jamaican-egg-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "egg",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "egg",
+    "descriptor": "hard-boiled",
+    "dishForm": "Frittata"
+  }
+}

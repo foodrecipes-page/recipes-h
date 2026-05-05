@@ -290,6 +290,22 @@
     "shard": "h"
   },
   {
+    "slug": "hard-boiled-jamaican-egg-frittata",
+    "title": "Hard-Boiled Jamaican Egg Frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy-dinner",
+      "eggs",
+      "gluten-free",
+      "jamaican",
+      "pressure-cooker"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hard-crunchy-kenyan-tomato-salad",
     "title": "Hard Crunchy Kenyan Tomato Salad",
     "tags": [
@@ -3825,6 +3841,23 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-vietnamese-pho-broth-bowl",
+    "title": "Hearty Vietnamese Pho Broth Bowl",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "noodle-soup",
+      "one-pan",
+      "pho",
+      "umami",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {

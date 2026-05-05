@@ -1,0 +1,265 @@
+{
+  "title": "Hearty Vietnamese Pho Broth Bowl",
+  "description": "A savory, umami-rich Vietnamese noodle soup featuring a rich bouquet garni and a smooth, emulsified broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "egg-free",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "clove",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "grilled pork or beef",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "beef slices",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chicken wings",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pork or beef stock",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "mushroom",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cloves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fennel",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cassia bark",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "licorice root",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine beef bones, onion, ginger, star anise, cinnamon stick, and cloves. ",
+    "Add water to the stockpot and bring to a boil over high heat. ",
+    "Reduce heat to low and simmer for 1 hour. ",
+    "Strain the broth through a fine-mesh sieve into a clean pot and discard the solids. ",
+    "In a small bowl, whisk together fish sauce, soy sauce, and sugar. ",
+    "Add the mixture to the broth and stir to combine. ",
+    "Bring the broth to a simmer and cook for 5 minutes. ",
+    "Cook rice noodles according to package instructions and set aside. ",
+    "To assemble the Pho, place a portion of noodles in a bowl, add sliced beef or pork and a sprinkle of bean sprouts, and pour the hot broth over the top. ",
+    "Serve with lime wedges, fresh cilantro, and your choice of sriracha, hoisin sauce, and chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 80,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "noodle-soup",
+    "one-pan",
+    "pho",
+    "umami",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-vietnamese-pho-broth-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-vietnamese-pho-broth-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "emulsify",
+    "primaryIngredient": "bouquet garni",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Pho broth",
+    "descriptor": "Hearty",
+    "dishForm": "Bowl"
+  }
+}
