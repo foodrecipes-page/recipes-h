@@ -1,0 +1,136 @@
+{
+  "title": "Hangover Cure Tunisian Brie Bowl",
+  "description": "Umami, snappy, and vegetarian-friendly, this dish features melted brie and tender vegetables in a flavorful Tunisian-inspired sauce, served in a rustic Korean brass bowl.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brie cheese",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Harissa",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Sauté the garlic and red onion in olive oil until softened, about 5 minutes.",
+    "Add the red and yellow bell peppers and zucchini, sautéing for another 5 minutes.",
+    "Stir in the paprika, harissa, salt, and black pepper.",
+    "Add the chickpeas and cook for 2 minutes.",
+    "Transfer the mixture to a 12-inch oven-safe skillet or cast-iron pan.",
+    "Top with brie cheese and bake for 10-12 minutes, or until melted and bubbly.",
+    "While the cheese is baking, warm the pomegranate molasses in a small saucepan over low heat.",
+    "To assemble the bowls, place a portion of the vegetable mixture in the bottom of each Korean brass bowl, followed by a spoonful of warm pomegranate molasses, and finally the melted brie cheese.",
+    "Garnish with fresh parsley and cilantro, and serve immediately.",
+    "Refrigerate any leftovers for up to 3 days or freeze for up to 2 months.",
+    "Thaw frozen bowls in the refrigerator overnight or at room temperature for 2-3 hours before reheating in the oven at 350°F (180°C) for 10-12 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 62,
+    "fat": 28
+  },
+  "slug": "hangover-cure-tunisian-brie-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-tunisian-brie-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "brie",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "brie",
+    "descriptor": "hangover-cure",
+    "dishForm": "bowl"
+  }
+}
