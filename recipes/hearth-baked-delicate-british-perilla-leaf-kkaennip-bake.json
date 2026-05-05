@@ -1,0 +1,106 @@
+{
+  "title": "hearth-baked delicate British perilla-leaf-kkaennip Bake",
+  "description": "a crumbly, cozy dish featuring fermented perilla-leaf-kkaennip baked in a ceramic vessel",
+  "cuisine": "British",
+  "diet": [
+    "macrobiotic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "perilla-leaf-kkaennip",
+      "amount": "1 cup",
+      "notes": "fermented for 2 days, drained and chopped"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "cassava flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 300\u000232f (150\u000232c) with binchotan charcoal",
+    "mix perilla-leaf-kkaennip, cassava flour, and seaweed in a large bowl",
+    "add coconut oil, apple cider vinegar, and black sesame seeds, mixing until combined",
+    "transfer the mixture to a ceramic vessel and shape into a round",
+    "drizzle water over the top and sprinkle with sea salt",
+    "cover the vessel with a lid or foil and bake for 2 hours",
+    "remove the lid or foil and bake for an additional 30 minutes",
+    "let the bake cool completely before serving",
+    "slice into wedges and serve"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "comfort-food",
+    "gluten-free",
+    "macrobiotic",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 9,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearth-baked-delicate-british-perilla-leaf-kkaennip-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearth-baked-delicate-british-perilla-leaf-kkaennip-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "perilla-leaf-kkaennip",
+    "descriptor": "hearth-baked delicate",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "High-Protein Chinese Chicken Kung Pao",
+  "description": "A sweet and savory Chinese dish that's a crowd-pleaser. Made with high-protein ingredients and a special ingredient of Genmaicha tea to add a unique twist.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "1 tablespoon",
+      "notes": "loose-leaf or tea leaves"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "pure, raw"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the peanuts and cook, stirring frequently, until they're fragrant and lightly browned, about 2 minutes.",
+    "Add the chicken to the wok and cook until browned and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and set aside."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "crockpot",
+    "high-protein",
+    "kung-pao",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "high-protein-chinese-chicken-kung-pao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/high-protein-chinese-chicken-kung-pao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "genmaicha",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "High-Protein",
+    "dishForm": "Kung Pao"
+  }
+}

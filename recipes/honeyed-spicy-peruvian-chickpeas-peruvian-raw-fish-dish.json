@@ -1,0 +1,109 @@
+{
+  "title": "Honeyed Spicy Peruvian Chickpea Tiradito",
+  "description": "A meal-prep Peruvian dish featuring chickpeas, a fusion of sweet and spicy flavors, served as a low-glycemic-friendly breakfast or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-glycemic",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 15-ounce can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeds removed and thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine aji amarillo peppers, garlic, lime juice, and 1/2 teaspoon salt; blend until smooth.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the blended aji amarillo mixture and cook for 2 minutes, stirring constantly.",
+    "Stir in chickpeas, honey, and 1/2 teaspoon black pepper; cook for an additional 2 minutes, stirring frequently.",
+    "Toss in thinly sliced red onion and cook for 1 minute, until slightly caramelized.",
+    "Season with additional salt and black pepper to taste.",
+    "Chill the mixture in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Divide the chilled mixture among 4-6 serving containers, depending on serving size.",
+    "Cover and refrigerate for up to 3 days or freeze for up to 2 months.",
+    "To serve, divide the chilled mixture among bowls and garnish with additional lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "chickpea",
+    "high-protein",
+    "low-glycemic",
+    "meal-prep",
+    "peruvian",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "honeyed-spicy-peruvian-chickpeas-peruvian-raw-fish-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-spicy-peruvian-chickpeas-peruvian-raw-fish-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "chickpeas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Honeyed Spicy",
+    "dishForm": "Peruvian Raw Fish Dish"
+  }
+}
