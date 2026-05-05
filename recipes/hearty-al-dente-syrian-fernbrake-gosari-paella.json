@@ -1,0 +1,111 @@
+{
+  "title": "Hearty, Al-dente Syrian Fernbrake-gosari Paella",
+  "description": "Bitter, tender, one-pot Syrian dish featuring fernbrake-gosari, al-dente-finish, lacto-vegetarian-friendly, vessel=tandoor-clay-pot.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fernbrake-gosari",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Long grain rice",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tandoor-clay-pot over medium heat.",
+    "Add onion, garlic, and ginger and cook, stirring occasionally, until onion is translucent, about 5 minutes.",
+    "Add red bell pepper and cook for 2 minutes, stirring occasionally.",
+    "Add fernbrake-gosari, rice, tomato paste, lemon juice, salt, and black pepper. Stir to combine.",
+    "Add 1.2 liters of water and bring to a boil.",
+    "Reduce heat to low, cover, and cook, undisturbed, for 25 minutes.",
+    "Turn off the heat and let rest, covered, for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "al-dente",
+    "fernbrake-gosari",
+    "one-pot",
+    "syrian",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 20
+  },
+  "slug": "hearty-al-dente-syrian-fernbrake-gosari-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-al-dente-syrian-fernbrake-gosari-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Fernbrake-gosari",
+    "descriptor": "Hearty, Al-dente",
+    "dishForm": "Paella"
+  }
+}

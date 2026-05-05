@@ -1,0 +1,136 @@
+{
+  "title": "Hearty Beef Tunisian Beef Stew",
+  "description": "A rich, cheese-pull stew originating from Tunisia, featuring tender beef, a blend of spices, and a hint of citrus. Perfect for a hangover cure or a comforting meal after a long day.",
+  "cuisine": "North African",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless beef chuck roast",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "harissa",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a 3-quart terracotta dish over medium-high heat.",
+    "Sear the beef until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the onion, carrot, and red bell pepper to the terracotta dish and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, cumin, coriander, cinnamon, cayenne pepper, salt, and black pepper to the terracotta dish and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and harissa to the terracotta dish and stir to combine.",
+    "Return the beef to the terracotta dish and bring the mixture to a boil.",
+    "Transfer the terracotta dish to the oven and cook for 2 1/2 hours, or until the beef is tender and the sauce has thickened.",
+    "Remove the terracotta dish from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired.",
+    "Let the stew rest for 10-15 minutes before serving to allow the cheese to pull.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "If desired, serve with crusty bread or over couscous for a filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "stew",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "hearty-beef-tunisian-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-beef-tunisian-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:22Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "beef",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Beef",
+    "dishForm": "Stew"
+  }
+}

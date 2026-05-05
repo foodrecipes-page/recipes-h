@@ -871,6 +871,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-al-dente-syrian-fernbrake-gosari-paella",
+    "title": "Hearty, Al-dente Syrian Fernbrake-gosari Paella",
+    "tags": [
+      "al-dente",
+      "fernbrake-gosari",
+      "one-pot",
+      "syrian",
+      "tender"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-algerian-fenugreek-skillet",
     "title": "Hearty Algerian Fenugreek Skillet",
     "tags": [
@@ -1011,6 +1025,22 @@
     ],
     "cuisine": "Spanish Basque",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-beef-tunisian-beef-stew",
+    "title": "Hearty Beef Tunisian Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "hearty",
+      "one-pan",
+      "stew",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 195,
     "shard": "h"
   },
   {
@@ -2110,6 +2140,19 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-herb-crusted-basque-french-french-lentils-gratin",
+    "title": "Hearty Herb-Crusted Basque-French French Lentils Gratin",
+    "tags": [
+      "high-protein",
+      "lentils",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Basque-French",
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
