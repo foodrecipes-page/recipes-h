@@ -1,0 +1,98 @@
+{
+  "title": "HShaggy Zesty Almond Tagine",
+  "description": "A tangy and shaggy one-pot Portuguese dish featuring ground almonds, a score-fat blend with low-fat-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": 100
+    },
+    {
+      "name": "olive oil",
+      "amount": 50
+    },
+    {
+      "name": "turkey sausage",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": 1,
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "bell pepper",
+      "amount": 1,
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 3
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive tapenade",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Heat olive oil in a large skillet over medium heat. Add sliced onions and sauté until translucent.",
+    "Add diced bell peppers, garlic cloves, thyme, salt, and pepper. Sauté for about 2 minutes.",
+    "Increase heat to high, add ground almonds and stir well. Cook for 2-3 minutes or until fragrant.",
+    "Stir in olive tapenade and lemon juice. Mix thoroughly to combine all ingredients.",
+    "Transfer the mixture into a baking dish. Bake for 15 minutes.",
+    "Add turkey sausage pieces evenly distributed over the almond mix. Continue baking for another 10-12 minutes or until the sausage is fully cooked and the almonds are golden brown.",
+    "Remove from heat, let it sit for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-tagine",
+    "low-fat-friendly",
+    "one-pot-meal",
+    "tangy-portuguese"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "hshaggy-zesty-almond-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hshaggy-zesty-almond-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:37:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "score-fat",
+    "primaryIngredient": "ground almonds",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Almonds",
+    "descriptor": "Shaggy",
+    "dishForm": "Tagine"
+  }
+}
