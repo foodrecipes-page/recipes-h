@@ -1,0 +1,77 @@
+{
+  "title": "Hazy Flaky French Almond Macaron",
+  "description": "A comforting and flaky vegan macaron featuring mirin, steamed with mushimono technique, providing a touch of smokiness for added depth.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Macaron Base Powder",
+      "amount": 75
+    },
+    {
+      "name": "Sugar",
+      "amount": 100
+    },
+    {
+      "name": "Flaky Almond Paste",
+      "amount": 50
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": 25
+    },
+    {
+      "name": "Mirin",
+      "amount": 15
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Combine Macaron Base Powder and Sugar in a mixing bowl.",
+    "Add Flaky Almond Paste, Coconut Cream, Mirin, and Vanilla Extract to the sugar mixture.",
+    "Mix until well combined and smooth.",
+    "Transfer mixture into piping bags.",
+    "Pipe macarons onto a baking sheet lined with parchment paper.",
+    "Steam for 15 minutes at 170°F (80°C).",
+    "Cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "hazy",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "hazy-flaky-french-almond-macaron",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-flaky-french-almond-macaron",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:15:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "mirin",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Almond",
+    "descriptor": "Hazy Flaky",
+    "dishForm": "Macaron"
+  }
+}
