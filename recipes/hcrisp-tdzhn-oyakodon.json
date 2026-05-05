@@ -1,0 +1,90 @@
+{
+  "title": "Hcrisp Tdzhn Oyakodon",
+  "description": "This Japanese dish features a crunchy and yeasty base with shelled hazelnuts in a simple yet crowd-pleasing stir-fry over rice.",
+  "cuisine": "Japanese (Kanto)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups sushi rice",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup shelled hazelnuts",
+      "amount": ""
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon mirin (rice wine)",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": ""
+    },
+    {
+      "name": "Oil for frying",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse and soak sushi rice in water overnight.",
+    "Cook rice according to package instructions, adding lemon juice after the first few minutes of cooking.",
+    "Toast hazelnuts in a dry pan until golden brown.",
+    "In a wok or large skillet, heat oil over medium-high heat. Add garlic and cook for 30 seconds.",
+    "Add toasted hazelnuts, stir-fry for about 2 minutes.",
+    "Mix in soy sauce, mirin, and sugar. Stir well to combine.",
+    "Divide cooked rice into two portions, place one portion on a Tagliere-style plate with the nut mixture in between.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "crisp",
+    "crowd-pleaser",
+    "form-tagliere",
+    "japanese",
+    "kanto",
+    "oyakodon",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "hcrisp-tdzhn-oyakodon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hcrisp-tdzhn-oyakodon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:57:15Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "buddhist-temple",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Wholesome Crisp",
+    "dishForm": "Tagliere Oyakodon"
+  }
+}
