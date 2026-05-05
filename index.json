@@ -466,6 +466,20 @@
     "shard": "h"
   },
   {
+    "slug": "hazelnut-crusted-chinese-coconut-stir-fry",
+    "title": "Hazelnut-Crusted Chinese Coconut Stir-Fry",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hazily-steamed-russian-barramundi-pilaf",
     "title": "Hazily Steamed Russian Barramundi Pilaf",
     "tags": [
@@ -940,6 +954,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-american-mushroom-bake",
+    "title": "Hearty American Mushroom Bake",
+    "tags": [
+      "american-classic",
+      "casserole",
+      "comfort-food",
+      "mushroom-lovers",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -3253,6 +3281,22 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-german-beans-stew",
+    "title": "Hearty Smoked German Beans Stew",
+    "tags": [
+      "german",
+      "high-fiber",
+      "low-carb",
+      "one-pan",
+      "plant-based",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -6551,6 +6595,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-jamaican-callaloo-pepper-pot",
+    "title": "Hot Smoked Jamaican Callaloo Pepper Pot",
+    "tags": [
+      "comfort-food",
+      "jamaican",
+      "one-pan",
+      "sick-day",
+      "vegetarian"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {

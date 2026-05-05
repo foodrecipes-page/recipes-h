@@ -1,0 +1,113 @@
+{
+  "title": "Hearty American Mushroom Bake",
+  "description": "A comforting, shojin-friendly casserole featuring mitsuba and katsuramuki-cut mushrooms, perfect for a sick day.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "katsuramuki-cut mushrooms",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the mushrooms and onion into bite-sized pieces.",
+    "Sauté the mushrooms and onion in butter until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in flour to make a roux, then gradually add milk, whisking continuously.",
+    "Bring the mixture to a simmer and cook until thickened.",
+    "Stir in shredded cheddar cheese until melted.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and garnish with katsuramuki-cut mushrooms.",
+    "Bake for 25 minutes, or until golden brown and set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "casserole",
+    "comfort-food",
+    "mushroom-lovers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "hearty-american-mushroom-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-mushroom-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mitsuba",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Hearty",
+    "dishForm": "Bake"
+  }
+}

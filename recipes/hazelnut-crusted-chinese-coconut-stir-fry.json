@@ -1,0 +1,115 @@
+{
+  "title": "Hazelnut-Crusted Chinese Coconut Stir-Fry",
+  "description": "A snappy, adventurous Chinese dish featuring dry sherry, coconut cream, and a crunchy hazelnut crust. Fodmap-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dry sherry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the ginger paste and cook for 1 minute, until fragrant.",
+    "Add the snow peas and red bell pepper, and cook for 3 minutes, until tender.",
+    "In a small bowl, mix together the hazelnuts and brown sugar.",
+    "Add the soy sauce and dry sherry to the skillet, and cook for 1 minute, until the sauce thickens.",
+    "Add the coconut cream to the skillet, and cook for 1 minute, until heated through.",
+    "Sprinkle the hazelnut mixture over the top of the stir-fry, and cook for 1 minute, until crispy.",
+    "Season with garlic and scallions to taste.",
+    "Serve hot, garnished with additional hazelnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 44
+  },
+  "slug": "hazelnut-crusted-chinese-coconut-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazelnut-crusted-chinese-coconut-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "dry sherry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "coconut",
+    "descriptor": "hazelnut-crusted",
+    "dishForm": "Stir-fry"
+  }
+}

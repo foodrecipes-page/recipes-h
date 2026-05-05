@@ -1,0 +1,103 @@
+{
+  "title": "Hot Smoked Jamaican Callaloo Pepper Pot",
+  "description": "A hearty, savory Jamaican stew made with hot smoked paprika and ice-bath-shocked callaloo. This tamasic-friendly dish is perfect for a sick day.",
+  "cuisine": "jamaican",
+  "diet": [
+    null,
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 large bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tsp",
+      "notes": "smoked in-house or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": " Scotch bonnet peppers",
+      "amount": "2-3",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u0016e"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté chopped onion and minced garlic until softened.",
+    "Add chopped callaloo, seared in a separate pan, and stir to combine.",
+    "Add smoked paprika, allspice, thyme, and black pepper. Stir to combine.",
+    "Add Scotch bonnet peppers and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Remove from heat and let cool slightly before transferring to an ice bath to shock the callaloo.",
+    "Drain and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jamaican",
+    "one-pan",
+    "sick-day",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hot-smoked-jamaican-callaloo-pepper-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-jamaican-callaloo-pepper-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "callaloo",
+    "descriptor": "Hot Smoked",
+    "dishForm": "Pepper Pot"
+  }
+}
