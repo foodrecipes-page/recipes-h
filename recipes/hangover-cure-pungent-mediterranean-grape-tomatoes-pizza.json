@@ -1,0 +1,117 @@
+{
+  "title": "Hangover-Cure Pungent Mediterranean Grape Tomatoes Pizza",
+  "description": "A hearty, plant-based pizza to cure your hangover, loaded with pungent flavors and gooey cheese.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pizza Dough (Gluten-Free)",
+      "amount": "1 1/2 cups",
+      "notes": "Use a store-bought gluten-free pizza dough or make your own using a mix of rice flour, almond flour, and water."
+    },
+    {
+      "name": "Pizza Sauce",
+      "amount": "1/2 cup",
+      "notes": "Make your own sauce using crushed tomatoes, olive oil, garlic, and oregano, or use a store-bought variety."
+    },
+    {
+      "name": "Grape Tomatoes",
+      "amount": "1 pint",
+      "notes": "Halve or quarter the tomatoes depending on their size."
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "Drained and chopped."
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic and mix with olive oil."
+    },
+    {
+      "name": "Goat Cheese",
+      "amount": "1/2 cup",
+      "notes": "Softened."
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for extra heat."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the crust."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C).",
+    "Roll out the pizza dough to a thickness of 1/4 inch (6 mm).",
+    "Transfer the dough to a piece of parchment paper or a lightly floured pizza peel, if you have one.",
+    "Spread the pizza sauce evenly over the dough, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Arrange the grape tomatoes, artichoke hearts, roasted garlic, and goat cheese on top of the sauce.",
+    "Drizzle the olive oil over the toppings and sprinkle with salt, black pepper, and red pepper flakes, if using.",
+    "Slide the parchment paper or pizza peel onto the air fryer basket and cook for 10-12 minutes, or until the crust is golden brown and the cheese is melted and gooey.",
+    "Remove the pizza from the air fryer and let it cool for a few minutes before slicing and serving.",
+    "Garnish with fresh basil leaves, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "low-carb",
+    "mediterranean",
+    "plant-based",
+    "pungent"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hangover-cure-pungent-mediterranean-grape-tomatoes-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-pungent-mediterranean-grape-tomatoes-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "hangover-cure pungent",
+    "dishForm": "Pizza"
+  }
+}

@@ -272,6 +272,21 @@
     "shard": "h"
   },
   {
+    "slug": "hangover-cure-pungent-mediterranean-grape-tomatoes-pizza",
+    "title": "Hangover-Cure Pungent Mediterranean Grape Tomatoes Pizza",
+    "tags": [
+      "gluten-free",
+      "hangover-cure",
+      "low-carb",
+      "mediterranean",
+      "plant-based",
+      "pungent"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 42,
+    "shard": "h"
+  },
+  {
     "slug": "hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
     "title": "Hangover-cure Salty Uruguayan Chinese Long Beans Skillet",
     "tags": [
@@ -6875,6 +6890,22 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hummus-hued-turkish-lamb-kidney-kebabs",
+    "title": "Hummus Hued Turkish Lamb Kidney Kebabs",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "kebabs",
+      "lamb",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
