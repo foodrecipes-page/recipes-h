@@ -1339,6 +1339,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crusty-slovakian-bread-gratin",
+    "title": "Hearty Crusty Slovakian Bread Gratin",
+    "tags": [
+      "bread",
+      "european",
+      "gratin",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-deep-fried-canadian-steak-burger",
     "title": "Hearty Deep-Fried Canadian Steak Burger",
     "tags": [
@@ -1621,6 +1636,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-fluffy-irish-custard-gratin",
+    "title": "Hearty Fluffy Irish Custard Gratin",
+    "tags": [
+      "comfort-food",
+      "custard",
+      "dessert",
+      "egg-based",
+      "gratin",
+      "irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {

@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Crusty Slovakian Bread Gratin",
+  "description": "A rich and savory Slovakian bread gratin featuring stale bread, mustard, and a blend of cheeses. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "slovakian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "1 loaf (about 1 pound) cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "+ softened for ease of spreading"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gruy\u00139re cheese",
+      "amount": "1 cup shredded",
+      "notes": "+ high-quality, please"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup grated",
+      "notes": "+ high-quality, please"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "+ for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "+ beaten for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "+ use finely ground, please"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": "+ freshly ground, please"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375u00b0F (190u00b0C).",
+    "In a small saucepan, melt 2 tablespoons of butter over low heat. ",
+    "In a separate saucepan, whisk together eggs, flour, salt, and black pepper. ",
+    "In a greased 6-cup ramekin, arrange a layer of stale bread cubes.",
+    "Spread a layer of Dijon mustard over the bread cubes.",
+    "Sprinkle with 1/2 cup of shredded Gruy\u00139re cheese and 1/4 cup of grated Parmesan cheese.",
+    "Repeat the layering process two more times, finishing with a layer of cheese on top.",
+    "Dust the top layer of cheese with a pinch of flour.",
+    "Beat the remaining 2 tablespoons of butter until smooth and brush evenly over the top layer of cheese.",
+    "Cover the ramekin with parchment paper and bake for 25 minutes.",
+    "Remove the parchment paper and continue baking for an additional 10-15 minutes or until the top layer is golden brown and the casserole is heated through.",
+    "Remove from the oven and let cool for 5-7 minutes before serving.",
+    "Slice and serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "european",
+    "gratin",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-crusty-slovakian-bread-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crusty-slovakian-bread-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "stale bread",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Bread",
+    "descriptor": "Hearty Crusty",
+    "dishForm": "Gratin"
+  }
+}

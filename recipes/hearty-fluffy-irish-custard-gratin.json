@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Fluffy Irish Custard Gratin",
+  "description": "A comforting dessert featuring vanilla custard topped with a crunchy nutty streusel and baked in a traditional earthenware vessel.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "optional, use to taste"
+    },
+    {
+      "name": "2% milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped hazelnuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware vessel to 375°F (190°C).",
+    "Mix the egg yolks, vanilla extract, and granulated sugar in a bowl until light and fluffy.",
+    "Add the milk to the egg yolk mixture and whisk until smooth.",
+    "Pour the custard mixture into the preheated vessel, filling it about 3/4 of the way full.",
+    "In a small bowl, combine the flour and softened butter to form a crumbly streusel topping.",
+    "Sprinkle the streusel topping evenly over the custard, leaving a 1-inch border around the edges.",
+    "Dot the top of the streusel with the chopped hazelnuts.",
+    "Cover the vessel with a lid and bake for 25 minutes.",
+    "Remove the lid and continue baking for an additional 15-20 minutes, or until the streusel is golden brown and the custard is set.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with additional chopped hazelnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "custard",
+    "dessert",
+    "egg-based",
+    "gratin",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "hearty-fluffy-irish-custard-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fluffy-irish-custard-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "vanilla custard",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "vanilla custard",
+    "descriptor": "hearty fluffy",
+    "dishForm": "Gratin"
+  }
+}
