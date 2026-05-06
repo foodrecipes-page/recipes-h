@@ -1,0 +1,90 @@
+{
+  "title": "HPeppery Gochugaru Tagine",
+  "description": "A peppery mediterranean dish featuring gochugaru, lardons-rendered, lacto-vegetarian-friendly and perfect for a crowd-pleasing dinner.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gochugaru",
+      "amount": 2
+    },
+    {
+      "name": "lardons",
+      "amount": 100
+    },
+    {
+      "name": "onions",
+      "amount": 2
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "olive oil",
+      "amount": 50
+    },
+    {
+      "name": "thyme leaves",
+      "amount": 3
+    },
+    {
+      "name": "red bell peppers",
+      "amount": 1
+    },
+    {
+      "name": "zucchini",
+      "amount": 2
+    },
+    {
+      "name": "basil",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Slice onions and mince garlic. Mince gochugaru.",
+    "Heat olive oil in a tagine pot. Add lardons, cook until golden.",
+    "Add minced garlic and gochugaru, stir for 2 minutes.",
+    "Stir in sliced onions and thyme leaves. Cook until slightly translucent.",
+    "Core red bell peppers and zucchini, add to the mix. Cover with a lid and reduce heat to 160°C (320°F).",
+    "Bake for about 45 minutes or until vegetables are tender.",
+    "Sprinkle basil on top before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gochugaru-tagine",
+    "lardons",
+    "mediterranean-dish",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "hpeppery-gochugaru-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hpeppery-gochugaru-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:04:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "gochugaru",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Gochugaru",
+    "descriptor": "Peppery",
+    "dishForm": "Tagine"
+  }
+}

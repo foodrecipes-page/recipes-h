@@ -6867,6 +6867,19 @@
     "shard": "h"
   },
   {
+    "slug": "hpeppery-gochugaru-tagine",
+    "title": "HPeppery Gochugaru Tagine",
+    "tags": [
+      "gochugaru-tagine",
+      "lardons",
+      "mediterranean-dish",
+      "peppery"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
     "slug": "hshaggy-zesty-almond-tagine",
     "title": "HShaggy Zesty Almond Tagine",
     "tags": [
