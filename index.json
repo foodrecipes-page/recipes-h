@@ -1873,6 +1873,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-beef-stew",
+    "title": "Hearty French Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "hearty",
+      "one-pan",
+      "stew",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 200,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-french-parsnip-confit",
     "title": "hearty french parsnip confit",
     "tags": [
@@ -6107,6 +6123,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "herby-show-off-fried-german-pistachio-fritters",
+    "title": "Herby Show-Off Fried German Pistachio Fritters",
+    "tags": [
+      "fritters",
+      "german",
+      "herby",
+      "keto",
+      "snack"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

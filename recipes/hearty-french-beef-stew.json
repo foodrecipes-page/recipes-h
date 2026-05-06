@@ -1,0 +1,94 @@
+{
+  "title": "Hearty French Beef Stew",
+  "description": "A rich and comforting beef stew made with tender chunks of beef, flavorful vegetables, and a hint of pickle juice.",
+  "cuisine": "French",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Whole30-friendly brand"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add 2 tablespoons of oil and sear the beef until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine to the pot and cook until the liquid has reduced by half, about 2 minutes.",
+    "Add the pickle juice, beef broth, thyme, bay leaves, salt, and pepper to the pot. Stir to combine.",
+    "Return the beef to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Remove the bay leaves and let the stew cool slightly.",
+    "Serve the stew hot, garnished with chopped parsley.",
+    "Strain the stew through a fine-mesh sieve before serving for a clear broth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "stew",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "hearty-french-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "beef stock",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

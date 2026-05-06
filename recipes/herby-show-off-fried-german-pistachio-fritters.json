@@ -1,0 +1,108 @@
+{
+  "title": "Herby Show-Off Fried German Pistachio Fritters",
+  "description": "Tender and flavorful German-inspired fritters infused with yuzu and fresh herbs, served in a banana leaf vessel.",
+  "cuisine": "German",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup pistachio meal",
+      "amount": "1",
+      "notes": "unsweetened and finely ground"
+    },
+    {
+      "name": "1 cup almond flour",
+      "amount": "1",
+      "notes": "finely ground and unsweetened"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup coconut oil, melted",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup yuzu-cured pistachio paste",
+      "amount": "1/4",
+      "notes": "see yuzu-curing instructions below"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried rosemary",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh parsley",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh chives",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together pistachio meal, almond flour, and dried thyme.",
+    "Add melted coconut oil, yuzu-cured pistachio paste, salt, black pepper, parsley, and chives to the bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "german",
+    "herby",
+    "keto",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "herby-show-off-fried-german-pistachio-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herby-show-off-fried-german-pistachio-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "pistachio",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "pistachio",
+    "descriptor": "Herby Show-Off Fried",
+    "dishForm": "fritters"
+  }
+}
