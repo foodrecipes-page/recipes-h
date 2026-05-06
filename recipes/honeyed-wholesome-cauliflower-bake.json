@@ -1,0 +1,86 @@
+{
+  "title": "Honeyed Wholesome Cauliflower Bake",
+  "description": "A chewy and flavorful Canadian dish featuring roasted cauliflower with a hint of sherry vinegar, perfect for a solo dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned whole peeled tomatoes",
+      "amount": 1
+    },
+    {
+      "name": "honey",
+      "amount": 2
+    },
+    {
+      "name": "fresh parsley",
+      "amount": 4
+    },
+    {
+      "name": "salt",
+      "amount": 8
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": 5
+    },
+    {
+      "name": "olive oil",
+      "amount": 30
+    },
+    {
+      "name": "ground cumin",
+      "amount": 2
+    },
+    {
+      "name": "coarse sea salt",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 degrees F.",
+    "Cut cauliflower into florets and mix with olive oil, ground cumin, salt, and honey. Season lightly with coarse sea salt.",
+    "Layer tomatoes in a baking dish, arrange cauliflower on top, drizzle sherry vinegar over everything.",
+    "Roast for 30 minutes or until tender and golden brown.",
+    "Stir parsley into sauce before serving.",
+    "Serve warm as a meal.",
+    "Enjoy your healthy, flavorful, Canadian-inspired side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-vegetarian",
+    "ayurvedic-tamasic-friendly",
+    "no-gluten",
+    "oil-free",
+    "whole-foods-based"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "honeyed-wholesome-cauliflower-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-wholesome-cauliflower-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:34:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Honeyed",
+    "dishForm": "Bake"
+  }
+}
