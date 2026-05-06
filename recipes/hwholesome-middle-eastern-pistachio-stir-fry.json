@@ -1,0 +1,89 @@
+{
+  "title": "HWholesome Middle Eastern Pistachio Stir-fry",
+  "description": "A charred, shaggy Ukrainian dish featuring unsalted pistachio and halal-friendly ingredients that is a crowd-pleaser.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted pistachios",
+      "amount": 100
+    },
+    {
+      "name": "chicken breast",
+      "amount": 250
+    },
+    {
+      "name": "bell peppers",
+      "amount": 4
+    },
+    {
+      "name": "onions",
+      "amount": 2
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 6
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": 50
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat.",
+    "Add garlic and sauté until fragrant, about 1 minute.",
+    "Add onion and bell peppers, stirring occasionally, for 4 minutes.",
+    "Push vegetables to one side of the wok, add pistachios to the other side.",
+    "Shake wok vigorously after adding pistachios. Remove from heat immediately once charred.",
+    "Stir in tomato paste and salt, mix well.",
+    "Slice chicken breast into strips and add to the wok, stir-fry for 5 minutes or until fully cooked.",
+    "Serve hot over rice or with pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "halal-friendly",
+    "middle-eastern",
+    "pistachio",
+    "shaggy",
+    "stir-fry",
+    "ukrainian-dish"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hwholesome-middle-eastern-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hwholesome-middle-eastern-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:41:23Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pistachio",
+    "descriptor": "Wholesome",
+    "dishForm": "Stir-fry"
+  }
+}
