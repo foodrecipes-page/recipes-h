@@ -1,0 +1,83 @@
+{
+  "title": "Hindol Roti Radish",
+  "description": "A low-glycemic-friendly Croatian dish featuring roasted radishes and cured ingredients in a stone bowl.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "radishes",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30"
+    },
+    {
+      "name": "curry powder",
+      "amount": "15"
+    },
+    {
+      "name": "salt",
+      "amount": "10"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "5"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "20ml"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "5"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "5"
+    }
+  ],
+  "instructions": [
+    "Preheat your stone bowl (dolsot) to at least 275°C.",
+    "Slice the radishes thinly and place them in the preheated dolsot.",
+    "Mix olive oil, curry powder, salt, cumin seeds, coconut milk, and turmeric powder into a paste and brush it over the radishes.",
+    "Roast until lightly caramelized, about 15-20 minutes.",
+    "Gently sprinkle coriander seeds on top just before serving to release their aroma."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "low-glycemic",
+    "snack",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "hindol-roti-radish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hindol-roti-radish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:40:36Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "radish",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Radish",
+    "descriptor": "Indulgent Roasted",
+    "dishForm": "Bowl"
+  }
+}
