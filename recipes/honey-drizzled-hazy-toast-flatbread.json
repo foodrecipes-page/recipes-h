@@ -1,0 +1,79 @@
+{
+  "title": "Honey Drizzled Hazy Toast Flatbread",
+  "description": "A funky, snappy Mediterranean dish featuring a gluten-free flatbread with ground nutmeg and drizzled honey.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten-free flour",
+      "amount": 150
+    },
+    {
+      "name": "water",
+      "amount": 180
+    },
+    {
+      "name": "olive oil",
+      "amount": 20
+    },
+    {
+      "name": "salt",
+      "amount": 3
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": 1
+    },
+    {
+      "name": "honey",
+      "amount": 25
+    },
+    {
+      "name": "fresh herbs (optional)",
+      "notes": "like parsley or mint for garnish"
+    }
+  ],
+  "instructions": [
+    "Mix gluten-free flour, water, olive oil, salt, and ground nutmeg in a bowl.",
+    "Knead dough until smooth. Cover and let rest for 10 minutes.",
+    "Divide dough into equal parts and roll out each part to about 1/4 inch thickness.",
+    "Preheat oven to 250C (475F). Bake flatbread on a baking sheet lined with parchment paper for 3-5 minutes or until lightly golden brown.",
+    "Drizzle honey over warm flatbread while still warm, garnish with fresh herbs if using."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "honey-ingredient",
+    "light-mediterranean",
+    "snack-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 68,
+    "fat": 15
+  },
+  "slug": "honey-drizzled-hazy-toast-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-drizzled-hazy-toast-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T11:01:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Toast",
+    "descriptor": "Honey Drizzled",
+    "dishForm": "Flatbread"
+  }
+}
