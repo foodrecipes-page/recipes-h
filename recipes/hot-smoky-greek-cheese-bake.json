@@ -1,0 +1,101 @@
+{
+  "title": "Hot Smoky Greek Cheese Bake",
+  "description": "A smoky, crispy cheese bake that's perfect for brunch or dinner. This diabetic-friendly recipe features hot chilli powder and a great cheese pull.",
+  "cuisine": "greek",
+  "diet": [
+    "diabetic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Phyllo pastry",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 block (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Kefalograviera cheese",
+      "amount": "1 block (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Hot chilli powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Unroll phyllo pastry and cut into 4 equal pieces.",
+    "In a large bowl, mix feta cheese, kefalograviera cheese, hot chilli powder, garlic, salt, and black pepper.",
+    "Brush olive oil on the phyllo pieces and place a cheeseful on each piece.",
+    "Roll up each piece and place seam-side down in a baking dish.",
+    "Bake for 20 minutes or until golden brown and crispy.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "hot-smoky-greek-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoky-greek-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:47:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "hot smoky",
+    "dishForm": "Bake"
+  }
+}

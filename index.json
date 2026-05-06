@@ -6843,6 +6843,20 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoky-greek-cheese-bake",
+    "title": "Hot Smoky Greek Cheese Bake",
+    "tags": [
+      "diabetic-friendly",
+      "greek",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "greek",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoky-spanish-kombu-pisto-manchego",
     "title": "Hot Smoky Spanish Kombu Pisto Manchego",
     "tags": [
