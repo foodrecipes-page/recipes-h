@@ -2405,6 +2405,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-beef-stew",
+    "title": "Hearty Irish Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "hearty",
+      "irish",
+      "one-pot",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 170,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-cabbage-stew",
     "title": "Hearty Irish Cabbage Stew",
     "tags": [],
