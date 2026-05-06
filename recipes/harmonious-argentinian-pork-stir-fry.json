@@ -1,0 +1,88 @@
+{
+  "title": "Harmonious Argentinian Pork Stir-fry",
+  "description": "A resinous and snappy solo-dinner dish from Argentina featuring orange zest in a mushimono-steamed preparation with no onion or garlic.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "amount": 200,
+      "notes": "boneless and cut into small cubes"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "as needed",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Water",
+      "amount": 500,
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": 40,
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": 20,
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": 15,
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": 10,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a wok or frying pan over medium-high heat.",
+    "Add pork cubes and sear until golden brown on all sides.",
+    "Remove pork from the pan and set aside.",
+    "In the same pan, add orange zest and cook for about 1 minute.",
+    "Pour in water, soy sauce, brown sugar, salt, and pepper. Stir to combine.",
+    "Return pork to the pan, cover, and simmer for 5 minutes or until juices run clear.",
+    "Serve hot as a solo-dinner dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinean",
+    "no-onion-no-garlic-friendly",
+    "resinous",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "harmonious-argentinian-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/harmonious-argentinian-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T07:42:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "orange zest",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pork",
+    "descriptor": "Harmonious",
+    "dishForm": "Stir-fry"
+  }
+}
