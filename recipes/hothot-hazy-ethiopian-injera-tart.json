@@ -1,0 +1,83 @@
+{
+  "title": "Hothot Hazy Ethiopian Injera Tart",
+  "description": "A light and flavorful gluten-free dish featuring roasted unsalted pistachios in a soffritto base, served as an injera tart for a unique breakfast or snack option.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Injera dough",
+      "amount": 1
+    },
+    {
+      "name": "Safflower oil",
+      "amount": 20
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Unsalted pistachios",
+      "amount": 80
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": 1
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": 2
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix injera dough with oil, salt and a pinch of red pepper flakes in a bowl until smooth.",
+    "Transfer dough to a baking dish. Bake for 25 minutes or until golden brown.",
+    "In a pan, sauté chopped onion and garlic over medium heat until softened.",
+    "Add unsalted pistachios and cumin seeds to the pan and cook for an additional 3-4 minutes until fragrant.",
+    "Serve injera tart with soffritto base on top or alongside as desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easily-made",
+    "gluten-free",
+    "no-baking-dairy-free"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 5
+  },
+  "slug": "hothot-hazy-ethiopian-injera-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hothot-hazy-ethiopian-injera-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:48:22Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "soffritto-base",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Hothot Hazy",
+    "dishForm": "Injera Tart"
+  }
+}
