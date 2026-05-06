@@ -1,0 +1,80 @@
+{
+  "title": "Huge Briny Densely Kenyan Sausages Bowl",
+  "description": "A hearty, no-frills dish from Kenya featuring Italian fennel sausages, perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Kamiti salt",
+      "amount": "2 tbsp",
+      "notes": "Kenyan sea salt, finely ground"
+    },
+    {
+      "name": "Dried sorrel",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of Kamiti salt in a large skillet over medium-high heat.",
+    "Add the Italian fennel sausages and cook until nicely browned, about 5 minutes per side.",
+    "Remove the sausages from the skillet and set aside to rest.",
+    "In the same skillet, cook the chopped onion and minced garlic until the onion is translucent."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 38,
+    "carbs": 60,
+    "fat": 32
+  },
+  "slug": "huge-briny-densely-kenyan-sausages-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/huge-briny-densely-kenyan-sausages-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sausages",
+    "descriptor": "Huge Briny Densely",
+    "dishForm": "Bowl"
+  }
+}
