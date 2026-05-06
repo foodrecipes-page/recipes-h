@@ -2458,6 +2458,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-grill-grill",
+    "title": "Hearty Irish Grill Grill",
+    "tags": [
+      "cheese-pull",
+      "comfort-food",
+      "irish",
+      "jammy-filling",
+      "lamb"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 195,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-potato-stew",
     "title": "Hearty Irish Potato Stew",
     "tags": [
@@ -3054,6 +3068,20 @@
       "weeknight"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-rich-moroccan-bamboo-shoot-tagine",
+    "title": "Hearty Rich Moroccan Bamboo Shoot Tagine",
+    "tags": [
+      "ayurvedic-sattvic",
+      "moroccan",
+      "one-pan",
+      "vegan-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Moroccan",
     "totalTimeMin": 50,
     "shard": "h"
   },

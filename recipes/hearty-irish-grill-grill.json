@@ -1,0 +1,76 @@
+{
+  "title": "Hearty Irish Grill Grill",
+  "description": "A comforting and flavorful Irish dish featuring a jammy filling, gooey cheese, and a hint of fines herbes. Serve with a side of coleslaw or pickles for added crunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp lamb fat or oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "1",
+      "notes": "about 2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season lamb shoulder with salt, pepper, and thyme.",
+    "Sear lamb in a hot skillet until browned on all sides, about 5 minutes.",
+    "Transfer lamb to a baking dish and add diced onion, lamb fat or oil, and pickling spice.",
+    "Cover dish with foil and bake for 2 1/2 hours, or until lamb is tender.",
+    "While lamb cooks, mix together fines herbes, sour cream, and cheddar cheese in a bowl.",
+    "After 2 hours, remove lamb from oven and top with herby cheese mixture.",
+    "Return lamb to oven and bake for an additional 30 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let rest for 10-15 minutes before slicing and serving.",
+    "Serve with a side of coleslaw or pickles for added crunch.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "irish",
+    "jammy-filling",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "hearty-irish-grill-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-grill-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "fines-herbes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "grill",
+    "descriptor": "hearty",
+    "dishForm": "grill"
+  }
+}
