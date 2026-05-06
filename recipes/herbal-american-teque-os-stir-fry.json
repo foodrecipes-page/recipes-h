@@ -1,0 +1,107 @@
+{
+  "title": "Herbal American Teque Os Stir-fry",
+  "description": "Crisp and flavorful, this dish is perfect for a date night in. Teque os are paired with an herbal stir-fry for a truly unique American meal.",
+  "cuisine": "American",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Teque os",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and saut\u00054 until fragrant.",
+    "Add the teque os and cook until browned, about 3 minutes.",
+    "Add the spinach, basil, and mint and cook until the greens are wilted.",
+    "Season with salt, pepper, and lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "americana",
+    "date-night",
+    "herbal",
+    "one-pan",
+    "vegetarian",
+    "weekday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "herbal-american-teque-os-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-american-teque-os-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:10:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Teque os",
+    "descriptor": "Herbal Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
