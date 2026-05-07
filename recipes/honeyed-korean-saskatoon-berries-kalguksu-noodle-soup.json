@@ -1,0 +1,102 @@
+{
+  "title": "Honeyed Korean Saskatoon Berries Kalguksu Noodle Soup",
+  "description": "Fatty and pillowy Korean noodle soup featuring sweet saskatoon berries, perfect for a festive occasion. Kalguksu noodles are boiled and served in a savory broth with honeyed berries.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kalguksu Noodles",
+      "amount": "200 grams",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Saskatoon Berries",
+      "amount": "250 grams",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "400 grams",
+      "notes": "Cured and sliced"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "2 teaspoons",
+      "notes": "Crushed and toasted"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Raw or refined"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced and peeled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and crushed"
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "Cold-pressed and filtered"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Toasted and crushed"
+    }
+  ],
+  "instructions": [
+    "Boil 4 liters of water in a large pot over high heat.",
+    "Add 2 tablespoons of toasted sesame oil and crushed garlic.",
+    "Add sliced ginger and bruised pork belly, cooking for 10 minutes.",
+    "Add Korean chili flakes, brown sugar, and honey, stirring to combine.",
+    "Add fresh or frozen saskatoon berries and boil for 5 minutes.",
+    "Add homemade or store-bought Kalguksu noodles, cooking until al dente.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with toasted sesame seeds and honey.",
+    "Serve immediately, enjoying the pillowy texture and savory flavors of the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "festive",
+    "high-fat",
+    "korean",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 60,
+    "carbs": 200,
+    "fat": 90
+  },
+  "slug": "honeyed-korean-saskatoon-berries-kalguksu-noodle-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-korean-saskatoon-berries-kalguksu-noodle-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:33:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "honeyed",
+    "dishForm": "Kalguksu Noodle Soup"
+  }
+}
