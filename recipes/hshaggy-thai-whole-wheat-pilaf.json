@@ -1,0 +1,87 @@
+{
+  "title": "HShaggy Thai Whole Wheat Pilaf",
+  "description": "A dehydrated and reconstituted whole wheat pilaf dish with a salty and shaggy texture suitable for a solo dinner in the style of Southern Thai cuisine.",
+  "cuisine": "Thai (Southern)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Pasta",
+      "amount": 1
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": 250
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": 3
+    },
+    {
+      "name": "Paprika",
+      "amount": 1
+    },
+    {
+      "name": "Salt",
+      "amount": 4
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": 1
+    },
+    {
+      "name": "Curry Paste (optional)",
+      "notes": "Thai Red Curry or Green Curry can be used, but optional as the dish is already rich in spices."
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": 2,
+      "notes": "Dehydrated and reconstituted if needed."
+    }
+  ],
+  "instructions": [
+    "Boil whole wheat pasta according to package instructions.",
+    "In a separate pan, warm chicken broth until slightly thickened.",
+    "Mix in sesame seeds, paprika, salt, garlic powder, and optional curry paste with the hot broth.",
+    "Add dehydrated red bell pepper if using, mix well into the stew.",
+    "Simmer for about 10 minutes to let flavors meld together.",
+    "Serve hot as a solo-dinner dish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salty",
+    "shaggy",
+    "solo-dinner",
+    "southern-thai",
+    "thai",
+    "whole-wheat"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 75,
+    "fat": 15
+  },
+  "slug": "hshaggy-thai-whole-wheat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hshaggy-thai-whole-wheat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T14:59:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "whole wheat",
+    "diet": "dash",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Whole Wheat",
+    "descriptor": "Shaggy",
+    "dishForm": "Pilaf"
+  }
+}

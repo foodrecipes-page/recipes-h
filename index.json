@@ -7078,6 +7078,21 @@
     "shard": "h"
   },
   {
+    "slug": "hshaggy-thai-whole-wheat-pilaf",
+    "title": "HShaggy Thai Whole Wheat Pilaf",
+    "tags": [
+      "salty",
+      "shaggy",
+      "solo-dinner",
+      "southern-thai",
+      "thai",
+      "whole-wheat"
+    ],
+    "cuisine": "Thai (Southern)",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hshaggy-zesty-almond-tagine",
     "title": "HShaggy Zesty Almond Tagine",
     "tags": [
