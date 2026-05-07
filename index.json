@@ -4146,6 +4146,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-venezuelan-beets-hash",
+    "title": "Hearty Venezuelan Beets Hash",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "latin-american",
+      "one-pot",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-venezuelan-green-bean-stew",
     "title": "Hearty Venezuelan Green Bean Stew",
     "tags": [
