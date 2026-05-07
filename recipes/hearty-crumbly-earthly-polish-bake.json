@@ -1,0 +1,114 @@
+{
+  "title": "Hearty Crumbly Earthly Polish Bake",
+  "description": "A warm, comforting dish perfect for post-workout nourishment, featuring the earthy flavors of ground nut oil and double-rise bread, all in a traditional Polish-style earthy crust.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "plant-based",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "adds earthy flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 tablespoon",
+      "notes": "helps bind crust"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": "balances flavors"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water to mix dough"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "for crust topping"
+    }
+  ],
+  "instructions": [
+    "Preheat your kazán-cauldron to 375°F (190°C).",
+    "In a large bowl, crumble the double-rise bread into small pieces.",
+    "In a separate bowl, mix together the ground nut oil, caraway seeds, onion, garlic, potato starch, and apple cider vinegar until well combined.",
+    "Add the dry ingredients to the bread pieces and stir until a sticky dough forms.",
+    "Gradually add the warm water to the dough, mixing until a smooth, pliable dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes, until it becomes elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Prep a 9-inch (23cm) round baking dish or kazán-cauldron with parchment paper and a small amount of cooking oil.",
+    "Punch down the dough and transfer it to the prepared baking dish.",
+    "Dust the top of the dough with oats for a crunchy topping.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the internal temperature reaches 190°F (88°C).",
+    "Remove from the oven and let cool for 10-15 minutes before slicing and serving.",
+    "Serve warm, garnished with chopped fresh herbs if desired.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days.",
+    "Reheat in the oven at 350°F (180°C) for 5-10 minutes, or until warmed through.",
+    "Serve as a comforting dessert or snack after a workout, perfect for replenishing energy and satisfying hunger."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "comfort-food",
+    "crumbly",
+    "dessert",
+    "earthly",
+    "polish",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "hearty-crumbly-earthly-polish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crumbly-earthly-polish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:22:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "ground nut oil",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "polish",
+    "descriptor": "hearty crumbly",
+    "dishForm": "bake"
+  }
+}
