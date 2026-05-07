@@ -2543,6 +2543,25 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-jamaican-pak-koi-stew",
+    "title": "hearty jamaican pak koi stew",
+    "tags": [
+      "briny",
+      "cheese-pull",
+      "festive",
+      "fish",
+      "fodmap-friendly",
+      "jamaican",
+      "one-pan",
+      "pak-koi",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-jamaican-rice-stew",
     "title": "Hearty Jamaican Rice Stew",
     "tags": [

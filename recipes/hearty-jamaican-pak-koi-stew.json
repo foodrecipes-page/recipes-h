@@ -1,0 +1,110 @@
+{
+  "title": "hearty jamaican pak koi stew",
+  "description": "a briny, cheese-pull, festive jamaican dish featuring baby pak koi, poached in a flavorful broth.",
+  "cuisine": "jamaican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1.5 pounds",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 medium bulb, sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "fresh allspice",
+      "amount": "2 teaspoons, ground",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 teaspoon, dried",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can, full-fat",
+      "notes": ""
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups, warmed",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "8 ounces, shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "poach the pak koi in the fish stock for 8-10 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "cheese-pull",
+    "festive",
+    "fish",
+    "fodmap-friendly",
+    "jamaican",
+    "one-pan",
+    "pak-koi",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "hearty-jamaican-pak-koi-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-jamaican-pak-koi-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:15:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "baby pak koi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "pak koi",
+    "descriptor": "hearty",
+    "dishForm": "stew"
+  }
+}
