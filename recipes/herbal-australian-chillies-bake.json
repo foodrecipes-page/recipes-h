@@ -1,0 +1,115 @@
+{
+  "title": "Herbal Australian Chilli Bake",
+  "description": "A crunchy, egg-free brunch dish featuring Birds Eye chillies and herbs. Perfect for a fresh morning meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Birds Eye Chillies",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2",
+      "notes": "melted"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Leavening Powder",
+      "amount": "1",
+      "notes": "for gluten-free option"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1",
+      "notes": "to balance chilli heat"
+    },
+    {
+      "name": "Tortilla Chips",
+      "amount": "1",
+      "notes": "crushed for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u000042C (350\u000042F).",
+    "Mix the sliced chillies, chopped basil, and chopped parsley in a bowl.",
+    "In a separate pan, melt the butter over medium heat and add the minced garlic. Cook for 1 minute.",
+    "Combine the leavening powder with the gluten-free flour (if using).",
+    "Add the sliced onion to the pan with the garlic and cook for 2 minutes.",
+    "Mix the cooked onion and garlic with the chilli and herb mixture.",
+    "Pour the olive oil into the pan and stir to combine.",
+    "Transfer the mixture to a baking dish and top with crushed tortilla chips.",
+    "Drizzle with a little extra olive oil and sprinkle with salt and sugar to taste.",
+    "Bake in the preheated oven for 15 minutes or until the top is golden and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "herbal-australian-chillies-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-australian-chillies-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "brine-wet",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "chillies",
+    "descriptor": "herbal",
+    "dishForm": "bake"
+  }
+}
