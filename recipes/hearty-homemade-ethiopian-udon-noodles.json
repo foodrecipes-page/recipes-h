@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Homemade Ethiopian Udon Noodles",
+  "description": "A sweet and chewy Ethiopian dish featuring udon noodles, deep-fry-tod, and ayurvedic-tamasic-friendly ingredients, this hearty homemade recipe is perfect for a cozy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "tamari",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the udon noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional 2 minutes.",
+    "Stir in the berbere spice and cook for 1 minute, until fragrant.",
+    "Add the crushed deep-fry-tod to the skillet and cook for 2 minutes, until lightly toasted.",
+    "In a small bowl, whisk together the tamari, maple syrup, and salt.",
+    "Add the cooked udon noodles to the skillet and toss with the deep-fry-tod mixture and tamari sauce.",
+    "Serve the noodles hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-carb",
+    "homemade",
+    "international",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-homemade-ethiopian-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-ethiopian-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:45:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "udon noodles",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "udon noodles",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Noodles"
+  }
+}
