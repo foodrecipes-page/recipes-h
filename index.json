@@ -3637,6 +3637,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mediterranean-couscous-pilaf",
+    "title": "Hearty Mediterranean Couscous Pilaf",
+    "tags": [
+      "diabetic-friendly",
+      "healthy-eating",
+      "mediterranean-diet",
+      "one-pot",
+      "weeknight-meal"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-middle-eastern-chickpeas-falafel",
     "title": "Hearty Middle Eastern Chickpeas Falafel",
     "tags": [

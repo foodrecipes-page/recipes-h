@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Mediterranean Couscous Pilaf",
+  "description": "A peppery and crisp Mediterranean dish featuring couscous, perfect for a hangover cure, and diabetic-friendly. This pilaf is made with brine-wet ingredients for added flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pepperoncini",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large saucepan.",
+    "Add the couscous to the boiling broth, cover, and turn off the heat.",
+    "Let the couscous sit for 5 minutes, then fluff with a fork.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red onion to the skillet and cook until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the kalamata olives, artichoke hearts, and pepperoncini.",
+    "Combine the cooked couscous, olive mixture, and crumbly feta cheese in a large bowl.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "healthy-eating",
+    "mediterranean-diet",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-mediterranean-couscous-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mediterranean-couscous-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:59:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "couscous",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "couscous",
+    "descriptor": "Hearty",
+    "dishForm": "Pilaf"
+  }
+}
