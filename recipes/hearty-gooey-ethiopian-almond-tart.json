@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Gooey Ethiopian Almond Tart",
+  "description": "This Ethiopian-inspired tart features almond flour and is free from refined sugars, making it a great option for those looking for a sweet treat without the guilt. It's earthy, gooey, and energizing, perfect for a dessert or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "mixed berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the almond flour, melted coconut oil, and raw honey, stirring until well combined.",
+    "Add the eggs one at a time, stirring well after each addition, followed by the vanilla extract and salt.",
+    "Press the mixture into a 9-inch tart pan with a removable bottom.",
+    "Arrange the mixed berries on top of the tart mixture, leaving a 1-inch border around the edges.",
+    "If using sesame seeds, sprinkle them over the berries.",
+    "Bake the tart for 40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the tart from the oven and let it cool completely on a wire rack.",
+    "Once cooled, refrigerate the tart for at least 2 hours to allow it to set before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "berry-filled",
+    "ethiopian-inspired",
+    "gluten-free",
+    "high-protein",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "hearty-gooey-ethiopian-almond-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-gooey-ethiopian-almond-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "almond flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "almonds",
+    "descriptor": "Hearty Gooey",
+    "dishForm": "Tart"
+  }
+}
