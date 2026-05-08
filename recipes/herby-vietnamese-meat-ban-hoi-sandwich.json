@@ -1,0 +1,271 @@
+{
+  "title": "Herby Vietnamese Meat Ban Hoi Sandwich",
+  "description": "A flavorful Vietnamese sandwich featuring grilled pork, pickled vegetables, and herbs, perfect for a quick meal prep.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Daikon",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crusty baguette",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chilies",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced jalapeños",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sliced cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced pork",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced pork (additional)",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced chicken",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced beef",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced lamb",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced pork shoulder",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced pork belly",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced pork loin",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Sliced turkey breast",
+      "amount": "4 ounces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, fish sauce, soy sauce, rice vinegar, chili flakes, garlic, and 1 tablespoon of sugar. Mix well until just combined. Let the mixture sit at room temperature for 30 minutes.",
+    "Add the yeast, warm water, salt, and black pepper to the bowl and mix well until a sticky dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic. Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1-2 hours, or until it has doubled in size.",
+    "Preheat a grill or grill pan to medium-high heat. Divide the dough into 4 equal pieces and shape each piece into a ball. Flatten each ball into a disk shape and place it on the grill. Cook for 2-3 minutes per side, or until the bread is golden brown and crispy.",
+    "While the bread is cooking, prepare the pickled carrots and daikon by slicing them thinly and mixing them with 1/4 cup of fish sauce, 1/4 cup of sugar, and 1/4 cup of rice vinegar. Let the mixture sit at room temperature for at least 30 minutes.",
+    "Once the bread is cooked, let it cool for a few minutes before slicing it in half lengthwise. Spread 1 tablespoon of mayonnaise on the bottom half of the bread, followed by 1/4 cup of pickled carrots and daikon, 1/4 cup of sliced pork, 1/4 cup of fresh cilantro, and 1/4 cup of fresh mint. Top with the top half of the bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "grilled",
+    "high-protein",
+    "meatball",
+    "one-pan",
+    "sandwich",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "herby-vietnamese-meat-ban-hoi-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herby-vietnamese-meat-ban-hoi-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "yeast",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "meat",
+    "descriptor": "Herby",
+    "dishForm": "Ban Hoi Sandwich"
+  }
+}
