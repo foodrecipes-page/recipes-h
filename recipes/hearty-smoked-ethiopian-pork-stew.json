@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Smoked Ethiopian Pork Stew",
+  "description": "A fresh and dense Ethiopian dish featuring pork, with a smoky flavor and anti-inflammatory friendly ingredients, evoking nostalgic feelings of traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the smoked paprika and berbere spice and cook for 1 minute.",
+    "Add the pork cubes and cook until they are browned on all sides.",
+    "Add the chopped red bell pepper and cook until it is tender.",
+    "Add the chicken broth, tomato paste, and browned pork cubes to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "pork",
+    "smoky",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hearty-smoked-ethiopian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-ethiopian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "pork",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Smoked",
+    "dishForm": "Stew"
+  }
+}

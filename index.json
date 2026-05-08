@@ -5388,6 +5388,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoked-ethiopian-pork-stew",
+    "title": "Hearty Smoked Ethiopian Pork Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian",
+      "pork",
+      "smoky",
+      "spicy",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoked-german-beans-stew",
     "title": "Hearty Smoked German Beans Stew",
     "tags": [
