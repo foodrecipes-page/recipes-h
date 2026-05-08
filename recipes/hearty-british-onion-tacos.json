@@ -1,0 +1,96 @@
+{
+  "title": "Hearty British Onion Tacos",
+  "description": "Spicy, flaky, comforting British dish featuring corn tortillas, agemono-deep-fry, and a twist of Yorkshire flavors",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "Beef Dripping or Lard",
+      "amount": "200g"
+    },
+    {
+      "name": "Onions, thinly sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Yorkshire Ale",
+      "amount": "120ml"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine sliced onions and minced garlic.",
+    "Heat the beef dripping or lard in a deep frying pan over medium-high heat.",
+    "Add the onions and garlic to the pan and cook until caramelized, stirring occasionally.",
+    "Add the Yorkshire Ale, smoked paprika, salt, and black pepper to the pan, stirring to combine.",
+    "Reduce the heat to medium-low and simmer the onion mixture for 10-15 minutes.",
+    "Heat a non-stick pan or griddle over medium-high heat.",
+    "Cook the corn tortillas for 30-45 seconds on each side, until slightly charred and pliable.",
+    "Assemble the tacos by spooning the onion mixture onto a tortilla, followed by a spoonful of beef dripping or lard.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "deep-fry",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 52
+  },
+  "slug": "hearty-british-onion-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-british-onion-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:29:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "corn tortillas",
+    "diet": "whole30",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "onion",
+    "descriptor": "Hearty",
+    "dishForm": "Tacos"
+  }
+}

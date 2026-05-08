@@ -1353,6 +1353,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-british-onion-tacos",
+    "title": "Hearty British Onion Tacos",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "deep-fry",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-burgundy-french-beef-skillet",
     "title": "Hearty Burgundy French Beef Skillet",
     "tags": [
