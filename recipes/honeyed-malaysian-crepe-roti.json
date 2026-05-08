@@ -1,0 +1,99 @@
+{
+  "title": "Honeyed Malaysian Crepe Roti",
+  "description": "A buttery, pillowy Malaysian crepe dessert filled with clotted cream, tempered chocolate, and a touch of honey.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and salt in a large mixing bowl.",
+    "In a separate bowl, whisk together egg, milk, and vegetable oil.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Heat a non-stick pan over medium heat and brush with butter.",
+    "Pour 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes or until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for another minute or until the other side is lightly browned.",
+    "Repeat with the remaining batter to make 8-10 crepes.",
+    "To assemble, spread a tablespoon of clotted cream on one half of each crepe, followed by a few dark chocolate chips.",
+    "Fold the crepe in half to enclose the filling and drizzle with honey.",
+    "Serve warm with additional clotted cream and chocolate chips if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "honeyed-malaysian-crepe-roti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-malaysian-crepe-roti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T12:14:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "crepe",
+    "descriptor": "Honeyed",
+    "dishForm": "Roti"
+  }
+}

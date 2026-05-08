@@ -7843,6 +7843,20 @@
     "shard": "h"
   },
   {
+    "slug": "honeyed-malaysian-crepe-roti",
+    "title": "Honeyed Malaysian Crepe Roti",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "malaysian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "honeyed-moroccan-fish-tagine",
     "title": "Honeyed Moroccan Fish Tagine",
     "tags": [
