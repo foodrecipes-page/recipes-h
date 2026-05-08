@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Creamy Kenyan Dum Skillet",
+  "description": "A comforting and flavorful Kenyan-inspired dish featuring dum, pineapple juice, and a rich creamy sauce, perfect for a sick day or a cozy evening in. This plant-based friendly recipe is made in a cast-iron skillet for a satisfying and filling meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "Kenyan dum, also known as mandazi, can be found in African markets or online"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Kenyan-style curry powder or substitute with a similar blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium heat and add the chopped onion, cooking until softened and translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the dum to the skillet, stirring to coat with the onion and garlic mixture.",
+    "Pour in the pineapple juice, coconut milk, tomato paste, curry powder, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the dum is cooked through and the sauce has thickened.",
+    "Stir occasionally to prevent scorching and add more pineapple juice or coconut milk if the sauce becomes too thick.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped fresh cilantro and serve hot over rice or with naan bread.",
+    "Serve immediately and enjoy.",
+    "Leftovers can be refrigerated for up to 3 days and reheated as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy-dinner",
+    "kenyan-cuisine",
+    "one-pan",
+    "plant-based",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "hearty-creamy-kenyan-dum-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-creamy-kenyan-dum-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:32:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "pineapple juice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dum",
+    "descriptor": "hearty creamy",
+    "dishForm": "Skillet"
+  }
+}
