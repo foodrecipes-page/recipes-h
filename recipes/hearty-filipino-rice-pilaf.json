@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Filipino Rice Pilaf",
+  "description": "A comforting Filipino dish featuring Thai bird chili and tempering chocolate, served on a hot stone plate. This low-fat friendly pilaf is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "2 pieces",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Low-fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grass-fed beef",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium heat and add the diced grass-fed beef.",
+    "Cook the beef until browned, then set aside.",
+    "In the same saucepan, add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped Thai bird chili and cook for another minute.",
+    "Add the uncooked white rice and stir to combine with the onion and garlic mixture.",
+    "Add the water, low-fat coconut milk, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed.",
+    "Fluff the rice pilaf with a fork and stir in the tempering chocolate.",
+    "Serve the Hearty Filipino Rice Pilaf on a hot stone plate and top with the cooked grass-fed beef."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-cuisine",
+    "hot-stone-plate",
+    "low-fat",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-filipino-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-filipino-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice",
+    "descriptor": "hearty comforting",
+    "dishForm": "Pilaf"
+  }
+}

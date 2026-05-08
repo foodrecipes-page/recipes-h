@@ -2310,6 +2310,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-filipino-rice-pilaf",
+    "title": "Hearty Filipino Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "filipino-cuisine",
+      "hot-stone-plate",
+      "low-fat",
+      "one-pot",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-flaky-irish-chicken-pie",
     "title": "Hearty Flaky Irish Chicken Pie",
     "tags": [
