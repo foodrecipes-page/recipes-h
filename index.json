@@ -4128,6 +4128,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-molten-jamaican-black-pudding-hash",
+    "title": "Hearty Molten Jamaican Black Pudding Hash",
+    "tags": [
+      "black-pudding",
+      "hearty-breakfast",
+      "jamaican-cuisine",
+      "kosher-friendly",
+      "winey-dishes"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-molten-mexican-chickpeas-huaraches",
     "title": "Hearty Molten Mexican Chickpeas Huaraches",
     "tags": [
@@ -6745,6 +6759,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "herb-crusted-australian-lamb-skewers",
+    "title": "Herb Crusted Australian Lamb Skewers",
+    "tags": [
+      "australian",
+      "grilled",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

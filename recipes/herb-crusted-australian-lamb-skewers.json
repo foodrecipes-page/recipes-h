@@ -1,0 +1,100 @@
+{
+  "title": "Herb Crusted Australian Lamb Skewers",
+  "description": "Savory and crisp lamb skewers with a delicious herb crust, perfect for a crowd, featuring instant yeast and shio-koji-cure for a unique flavor, and FODMAP-friendly ingredients for all to enjoy.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together yeast, shio-koji-cure, and 1 tablespoon of olive oil to form a paste.",
+    "Add the paste to the lamb cubes and toss to coat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with garlic-infused oil and season with salt, black pepper, rosemary, and thyme.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Garnish with additional rosemary and thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "herb-crusted-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-crusted-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:20:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "instant yeast",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Herb Crusted",
+    "dishForm": "Skewers"
+  }
+}
