@@ -5637,6 +5637,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-savory-mexican-pork-carnitas",
+    "title": "Hearty Savory Mexican Pork Carnitas",
+    "tags": [
+      "complex-recipe",
+      "dairy-free",
+      "food-science",
+      "gluten-free",
+      "mexican-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-savory-slovakian-shrimp-skewers",
     "title": "Hearty Savory Slovakian Shrimp Skewers",
     "tags": [

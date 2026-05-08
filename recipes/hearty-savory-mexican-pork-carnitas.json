@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Savory Mexican Pork Carnitas",
+  "description": "A savory and pillowy Mexican dish featuring pork carnitas, meringue nests, and spherified elements, served on a tagliere board, dairy-free-friendly and inspired by Yucatecan cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, combine pork shoulder, orange juice, lime juice, garlic, oregano, cumin, salt, and black pepper.",
+    "Cover the pot and transfer it to the preheated oven, cooking for 2 1/2 hours or until the pork is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Using two forks, shred the pork into bite-sized pieces.",
+    "Strain the cooking liquid and discard the solids.",
+    "Add the strained liquid back to the pot and bring it to a simmer over medium heat.",
+    "Reduce the liquid by half, stirring occasionally.",
+    "To spherify the liquid, mix 1 tablespoon of sodium alginate with 1 cup of water and add it to the reduced liquid.",
+    "Drop the spherified liquid into a bath of cold water to set the spheres.",
+    "To assemble the dish, place a meringue nest on each plate, followed by a spoonful of the pork carnitas and a few spherified spheres."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "complex-recipe",
+    "dairy-free",
+    "food-science",
+    "gluten-free",
+    "mexican-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "hearty-savory-mexican-pork-carnitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-savory-mexican-pork-carnitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:00:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "meringue nests",
+    "diet": "dairy-free",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Savory",
+    "dishForm": "Carnitas"
+  }
+}
