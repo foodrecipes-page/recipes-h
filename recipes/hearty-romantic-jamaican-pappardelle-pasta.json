@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Romantic Jamaican Pappardelle Pasta",
+  "description": "A grassy, fluffy, romantic Jamaican dish featuring pappardelle pasta, candy, and halal-friendly ingredients, perfect for a special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "wide, flat noodles"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup",
+      "notes": "colorful, sweet"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the jerk seasoning to the skillet and stir for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Stir in the chopped scallions and candy pieces.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the sauce.",
+    "Season with salt to taste.",
+    "Serve the pasta hot, garnished with additional scallions and candy pieces if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-inspired",
+    "colorful-dish",
+    "date-night",
+    "halal-friendly",
+    "jamaican-cuisine",
+    "one-pot",
+    "pasta-lovers",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-romantic-jamaican-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-romantic-jamaican-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:52:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pappardelle",
+    "descriptor": "Hearty Romantic",
+    "dishForm": "Pasta"
+  }
+}

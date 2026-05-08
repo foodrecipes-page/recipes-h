@@ -1,0 +1,96 @@
+{
+  "title": "Turkish Hangover-healing Cheese Pilaf",
+  "description": "A citrusy, cheese-pull Turkish dish featuring confit tomato, almond extract, and iron teppan cooking for a hangover cure.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Confited Tomato",
+      "amount": "4 large tomatoes",
+      "notes": "confited for 4 hours"
+    },
+    {
+      "name": "Turkish Cheese",
+      "amount": "120g, crumbled"
+    },
+    {
+      "name": "Almond Extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "40ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "20g, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in an iron teppan at 180°C.",
+    "Add the chopped onion and sauté for 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the confited tomato, salt, and black pepper. Stir well.",
+    "Create 4 wells in the mixture and break an egg into each well. Cook for 2 minutes.",
+    "Add the crumbled Turkish cheese and stir until melted.",
+    "Add the almond extract and stir well.",
+    "Garnish with chopped fresh parsley.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Use a spatula to create a cheese pull in the center of the dish.",
+    "Serve immediately and enjoy the cheesy goodness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "hangover-cure",
+    "iron-teppan",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 36
+  },
+  "slug": "hangover-healing-turkish-cheese-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-healing-turkish-cheese-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:52:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "confit-tomato",
+    "primaryIngredient": "almond extract",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Hangover-healing",
+    "dishForm": "Pilaf"
+  }
+}

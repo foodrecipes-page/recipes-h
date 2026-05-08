@@ -379,6 +379,21 @@
     "shard": "h"
   },
   {
+    "slug": "hangover-healing-turkish-cheese-pilaf",
+    "title": "Turkish Hangover-healing Cheese Pilaf",
+    "tags": [
+      "cheese-pull",
+      "hangover-cure",
+      "iron-teppan",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hard-boiled-jamaican-egg-frittata",
     "title": "Hard-Boiled Jamaican Egg Frittata",
     "tags": [
@@ -3445,6 +3460,23 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-romantic-jamaican-pappardelle-pasta",
+    "title": "Hearty Romantic Jamaican Pappardelle Pasta",
+    "tags": [
+      "caribbean-inspired",
+      "colorful-dish",
+      "date-night",
+      "halal-friendly",
+      "jamaican-cuisine",
+      "one-pot",
+      "pasta-lovers",
+      "special-occasion"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
