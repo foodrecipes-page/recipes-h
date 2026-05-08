@@ -1,0 +1,97 @@
+{
+  "title": "Healthy Velvety Ethiopian Shrimp Dulet",
+  "description": "A fresh and velvety Ethiopian dish featuring shrimp paste and yuzu-cure, perfect for a post-workout meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a paella pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the shrimp paste and cook, stirring constantly, until fragrant, about 2 minutes.",
+    "Add the yuzu juice and cook for 1 minute, stirring constantly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "healthy-velvety-ethiopian-shrimp-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-velvety-ethiopian-shrimp-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:45:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "shrimp paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "shrimp",
+    "descriptor": "healthy velvety",
+    "dishForm": "Dulet"
+  }
+}
