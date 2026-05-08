@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Tender Moroccan Broad Beans Zaalouk",
+  "description": "A traditional Moroccan dish featuring tender broad beans in a rich and flavorful tomato sauce, perfect for a cozy dinner. This satvik-friendly recipe is fermented to bring out the best flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried broad beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the broad beans, then transfer them to a large pot with enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat to medium-low and simmer for 30 minutes or until the broad beans are tender.",
+    "Heat the olive oil in a large skillet over medium heat, then add the chopped onion and cook until it is softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the smoked paprika, salt, and black pepper, then cook for 1 minute.",
+    "Add the canned tomatoes, lemon juice, and cooked broad beans to the skillet, then stir to combine.",
+    "Reduce the heat to low and simmer the zaalouk for 20 minutes, stirring occasionally, until the flavors have melded together and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fermented",
+    "moroccan",
+    "one-pot",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-tender-moroccan-broad-beans-zaalouk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tender-moroccan-broad-beans-zaalouk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "broad beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "broad beans",
+    "descriptor": "hearty tender",
+    "dishForm": "Zaalouk"
+  }
+}
