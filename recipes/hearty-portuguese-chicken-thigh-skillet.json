@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Portuguese Chicken Thigh Skillet",
+  "description": "A malty and savory Portuguese dish featuring chicken thighs, perfect for meal prep, with a glassy-jelly sauce, made in a mason jar. This ayurvedic-rajasic-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4-6",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chicken thighs to the skillet, skin side down, and cook for 5 minutes.",
+    "Flip the chicken thighs over and cook for an additional 5 minutes.",
+    "Add the malt vinegar, chicken broth, paprika, salt, black pepper, and bay leaves to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the bay leaves and serve the chicken thighs with the glassy-jelly sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "dairy-free",
+    "gluten-free",
+    "meal-prep",
+    "one-pan-meals",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-portuguese-chicken-thigh-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-portuguese-chicken-thigh-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:25:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "chicken thighs",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "hearty saute",
+    "dishForm": "Skillet"
+  }
+}
