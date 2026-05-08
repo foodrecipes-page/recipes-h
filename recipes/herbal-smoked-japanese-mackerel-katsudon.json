@@ -1,0 +1,106 @@
+{
+  "title": "Herbal Smoked Japanese Mackerel Katsudon",
+  "description": "A low-sodium Japanese dish featuring smoked mackerel, binchotan-charcoal, and herbal flavors, served in a crispy katsudon form. This monsoon-inspired dish is perfect for a hearty lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "4 fillets",
+      "notes": "Japanese mackerel preferred"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain preferred"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "1/2 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Start by rehydrating the dried shiitake mushrooms in hot water for 10 minutes.",
+    "Prepare the Japanese rice according to the package instructions.",
+    "Smoke the mackerel fillets using binchotan charcoal for 5 minutes on each side.",
+    "In a large bowl, whisk together low-sodium soy sauce, rice vinegar, and sesame oil.",
+    "Add the rehydrated mushrooms, green onions, and chopped cilantro to the bowl and mix well.",
+    "Cut the smoked mackerel into small pieces and add to the bowl, mixing gently.",
+    "In a separate bowl, mix together panko breadcrumbs and a pinch of salt.",
+    "Dip each mackerel piece into the breadcrumb mixture, coating evenly.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat and fry the breaded mackerel until golden brown and crispy.",
+    "To assemble the katsudon, place a scoop of Japanese rice in a bowl, add a few pieces of the fried mackerel, and spoon some of the mushroom and herb mixture over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-flavors",
+    "japanese-cuisine",
+    "katsudon",
+    "low-sodium",
+    "monsoon-inspired",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "herbal-smoked-japanese-mackerel-katsudon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-smoked-japanese-mackerel-katsudon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:50:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "mackerel",
+    "descriptor": "Herbal Smoked",
+    "dishForm": "Katsudon"
+  }
+}
