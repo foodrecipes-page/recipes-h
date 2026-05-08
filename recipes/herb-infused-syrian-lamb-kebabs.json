@@ -1,0 +1,102 @@
+{
+  "title": "Herb Infused Syrian Lamb Kebabs",
+  "description": "A traditional Syrian dish featuring lamb infused with herbs and spices, served with a side of tangy mustard sauce. This recipe is inspired by Ayurvedic and tamasic principles.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "chopped chive",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers in the preheated tandoor or oven and cook for 15 minutes, turning occasionally.",
+    "While the lamb is cooking, mix the chopped chive with a tablespoon of mustard to make a tangy sauce.",
+    "Serve the lamb kebabs hot with the chive mustard sauce spooned over the top.",
+    "Garnish with additional chopped chive and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "herb-infused",
+    "lamb-recipes",
+    "syrian-cuisine",
+    "tamasic-diet",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "herb-infused-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:16:59Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "chopped chive",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "herb infused",
+    "dishForm": "Kebabs"
+  }
+}
