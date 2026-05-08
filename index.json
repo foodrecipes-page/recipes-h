@@ -4806,6 +4806,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-portuguese-lamb-stew",
+    "title": "Hearty Portuguese Lamb Stew",
+    "tags": [
+      "cold-weather",
+      "comfort-food",
+      "hearty-stew",
+      "lamb-based",
+      "one-pot",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-portuguese-poppy-seeds-casserole",
     "title": "Hearty Portuguese Poppy Seeds Casserole",
     "tags": [
