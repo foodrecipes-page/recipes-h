@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Spanish Vegetable Gazpacho",
+  "description": "A fermented and crumbly Spanish dish featuring red chilli and tadka, made in a ceramic tagine, this gazpacho is a satvik-friendly and adventurous meal option. It combines the flavors of Spain with the warmth of Indian spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red chilli",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a ceramic tagine, combine the diced red bell pepper, red chilli, cucumber, tomato, and red onion.",
+    "Drizzle the olive oil over the vegetables and sprinkle the tadka spice blend evenly.",
+    "Roast the vegetables in the preheated oven for 30 minutes, or until they are tender.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Use an immersion blender to puree the roasted vegetables until they are coarsely chopped.",
+    "Stir in the minced garlic and apple cider vinegar, if using.",
+    "Season the gazpacho with salt to taste.",
+    "Cover the tagine and refrigerate the gazpacho for at least 2 hours to allow the flavors to meld.",
+    "Serve the gazpacho chilled, garnished with chopped fresh herbs or a dollop of yogurt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "fermented-food",
+    "gluten-free",
+    "spanish-cuisine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "hearty-spanish-vegetable-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-vegetable-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:56:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "red chilli",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Hearty Harmonious",
+    "dishForm": "Gazpacho"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Argentinian Fish Empanadas",
+  "description": "A traditional Argentinian dish featuring whole wheat empanadas filled with poached fish, perfect for a kid-friendly meal. This pescatarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for poaching fish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Make empanada dough by combining whole wheat flour, salt, and pepper in a bowl.",
+    "Gradually add water to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Poach fish fillets in water until cooked through.",
+    "Chop cooked fish into small pieces and mix with chopped onion and minced garlic.",
+    "Place a spoonful of the fish mixture onto the center of each empanada disk.",
+    "Fold the empanada disk in half and press edges together to seal.",
+    "Brush the tops of the empanadas with egg wash.",
+    "Bake empanadas in the preheated oven for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "kid-friendly",
+    "latin-american",
+    "one-dish",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "hearty-argentinian-fish-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-argentinian-fish-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:56:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "whole wheat",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "hearty wholesome",
+    "dishForm": "Empanadas"
+  }
+}

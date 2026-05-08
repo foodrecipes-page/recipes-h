@@ -1367,6 +1367,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-argentinian-fish-empanadas",
+    "title": "Hearty Argentinian Fish Empanadas",
+    "tags": [
+      "fish-based",
+      "kid-friendly",
+      "latin-american",
+      "one-dish",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-australian-lamb-skewers",
     "title": "Hearty Australian Lamb Skewers",
     "tags": [
@@ -5705,6 +5720,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spanish-vegetable-gazpacho",
+    "title": "Hearty Spanish Vegetable Gazpacho",
+    "tags": [
+      "crunchy-texture",
+      "fermented-food",
+      "gluten-free",
+      "spanish-cuisine",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
