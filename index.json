@@ -1283,6 +1283,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-porcini-paella",
+    "title": "Hearty American Porcini Paella",
+    "tags": [
+      "american-cuisine",
+      "dinner-party",
+      "flexitarian",
+      "mushroom-lovers",
+      "one-pan",
+      "special-occasion"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-shungiku-roast",
     "title": "Hearty American Shungiku Roast",
     "tags": [

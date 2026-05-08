@@ -1,0 +1,104 @@
+{
+  "title": "Hearty American Porcini Paella",
+  "description": "A sweet and light American twist on the classic paella dish, featuring marinated porcini mushrooms and a blend of flexitarian-friendly ingredients, cooked to perfection in a large paella pan. This show-stopping dish is sure to impress your guests.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh or dried, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless, cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, smoked paprika, salt, and pepper to create a marinade.",
+    "Add the sliced porcini mushrooms to the marinade and toss to coat, letting it sit for at least 30 minutes.",
+    "Heat the paella pan over medium-high heat and add the marinated mushrooms, cooking until they release their liquid and start to brown.",
+    "Add the chicken breast to the paella pan and cook until browned on all sides, about 5-7 minutes.",
+    "Add the artichoke hearts, vegetable broth, saffron threads, and lemon juice to the paella pan, stirring to combine.",
+    "Bring the mixture to a simmer and let cook for 10-12 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Remove the paella pan from the heat and let it rest for 5 minutes before serving.",
+    "Serve the Hearty American Porcini Paella hot, garnished with fresh herbs and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "dinner-party",
+    "flexitarian",
+    "mushroom-lovers",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-american-porcini-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-porcini-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:58:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "porcini",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "porcini",
+    "descriptor": "hearty",
+    "dishForm": "Paella"
+  }
+}
