@@ -3537,6 +3537,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-indian-cod-curry",
+    "title": "Hearty Indian Cod Curry",
+    "tags": [
+      "curry",
+      "high-protein",
+      "indian-cuisine",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-indian-rice-stick-noodles",
     "title": "Hearty Indian Rice Stick Noodles",
     "tags": [
