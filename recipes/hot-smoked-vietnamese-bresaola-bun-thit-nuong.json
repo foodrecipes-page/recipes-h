@@ -1,0 +1,91 @@
+{
+  "title": "Hot Smoked Vietnamese Bresaola Bun Thit Nuong",
+  "description": "A garlicky and dense Vietnamese dish featuring bresaola, served in a ti leaf wrap, this romantic meal is perfect for special occasions. It is a satvik friendly and smoke hot dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "1 pound",
+      "notes": "air dried beef"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225 degrees Fahrenheit.",
+    "In a small bowl, mix together garlic, fish sauce, lime juice, brown sugar, and black pepper.",
+    "Add the mixture to the bresaola and marinate for at least 2 hours.",
+    "Remove the bresaola from the marinade and place it in the smoker.",
+    "Smoke the bresaola for 4 hours or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "While the bresaola is smoking, prepare the ti leaves by washing and drying them.",
+    "Once the bresaola is done, slice it thinly against the grain.",
+    "To assemble the dish, place a few slices of the bresaola onto a ti leaf, drizzle with vegetable oil, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "romantic-dinner",
+    "satvik-friendly",
+    "smoked-meat",
+    "special-occasion",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "hot-smoked-vietnamese-bresaola-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-vietnamese-bresaola-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "bresaola",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bresaola",
+    "descriptor": "hot smoked",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
