@@ -1,0 +1,97 @@
+{
+  "title": "Healthy Creamy Korean Chicken Tagine",
+  "description": "A fresh and creamy Korean dish featuring cream cheese and tagine-cooked chicken, perfect for a post-workout meal, this recipe is low in fat and rich in flavor, made with healthy ingredients and a unique blend of Korean spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and add the chicken to cook until browned on all sides.",
+    "Add the Korean chili flakes, soy sauce, brown sugar, garlic, and ginger to the pot and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 20 minutes or until the chicken is cooked through.",
+    "Stir in the softened cream cheese until melted and smooth.",
+    "Continue to simmer the tagine for an additional 10 minutes or until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped green onions and serve hot over rice or noodles.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Serve with additional Korean chili flakes on the side for added heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "healthy",
+    "korean",
+    "low-fat",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "healthy-creamy-korean-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-creamy-korean-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:13:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "tagine-cook",
+    "primaryIngredient": "cream cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "healthy creamy",
+    "dishForm": "Tagine"
+  }
+}
