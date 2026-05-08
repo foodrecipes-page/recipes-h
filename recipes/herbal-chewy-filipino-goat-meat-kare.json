@@ -1,0 +1,115 @@
+{
+  "title": "Herbal Chewy Filipino Goat Meat Kare",
+  "description": "A hearty and comforting Filipino dish made with tender goat meat, a blend of herbal spices, and served in a rich and creamy peanut sauce, all while being mindful of fodmap-friendly ingredients",
+  "cuisine": "filipino",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound goat meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup herbal oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "mince the garlic for best flavor"
+    },
+    {
+      "name": "1 tablespoon grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "grate the ginger to avoid lumps"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground coriander",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, potatoes, and green beans"
+    },
+    {
+      "name": "1 cup peanut sauce",
+      "amount": "1 cup",
+      "notes": "see below for peanut sauce recipe"
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Brown the goat meat in a hot pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the herbal oil, peanut butter, garlic, ginger, salt, black pepper, cumin, and coriander to the pan and stir until the oil is fragrant and the peanut butter is melted.",
+    "Add the mixed vegetables to the pan and cook until they are tender, about 10 minutes.",
+    "Pour in the peanut sauce and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and cook for 10-15 minutes, or until the goat meat is tender and the sauce has thickened.",
+    "Serve the goat meat and vegetables in individual portions, garnished with chopped cilantro.",
+    "To make the peanut sauce, combine 1 cup of peanut butter, 1/2 cup of coconut milk, and 2 tablespoons of soy sauce in a blender or food processor and blend until smooth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "herbal-chewy-filipino-goat-meat-kare",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-chewy-filipino-goat-meat-kare",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "infuse-oil",
+    "primaryIngredient": "goat meat",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "goat meat",
+    "descriptor": "Herbal Chewy",
+    "dishForm": "Kare"
+  }
+}
