@@ -1,0 +1,95 @@
+{
+  "title": "Hot Spicy Malaysian Chicken Satay",
+  "description": "A fresh and springy Malaysian dish featuring chicken satay, served on a hot stone plate, perfect for a solo dinner, with a unique tempering chocolate twist, this low sodium friendly dish is a must try, the peppercorns add a nice spicy kick",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce",
+      "notes": "for tempering"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a hot stone plate to 400 degrees Fahrenheit.",
+    "In a blender, combine coconut milk, garlic, ginger, and cayenne pepper, and blend until smooth.",
+    "In a large bowl, whisk together the blended mixture and chicken breast strips, and let marinate for 30 minutes.",
+    "Thread the marinated chicken strips onto skewers.",
+    "Brush the hot stone plate with vegetable oil.",
+    "Place the skewers on the hot stone plate and cook for 5 minutes per side.",
+    "Melt the dark chocolate in a double boiler.",
+    "Temper the chocolate by cooling it to 82 degrees Fahrenheit.",
+    "Serve the chicken satay on the hot stone plate, garnished with peppercorns and a drizzle of tempered chocolate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lover",
+    "low-sodium",
+    "malaysian-cuisine",
+    "one-pan",
+    "quick-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hot-spicy-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:24:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "peppercorns",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "hot spicy",
+    "dishForm": "Satay"
+  }
+}
