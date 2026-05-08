@@ -1,0 +1,90 @@
+{
+  "title": "Homestyle German Vanilla Puff Pastry Cake",
+  "description": "A classic German dessert featuring layers of puff pastry, vanilla sugar, and a light creamy filling, perfect for any occasion.",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together the vanilla sugar and melted butter until well combined.",
+    "Spread the vanilla sugar mixture evenly over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the tops of the pastry with the beaten eggs and cut a few slits in the top to allow steam to escape.",
+    "Bake the pastry for 25-30 minutes, or until golden brown.",
+    "Allow the pastry to cool completely before serving.",
+    "Whip the heavy cream until stiff peaks form and mix in the vanilla extract and confectioners sugar.",
+    "Serve the pastry with the whipped cream and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "german-desserts",
+    "homestyle-baking",
+    "puff-pastry",
+    "sugar-free-friendly",
+    "vanilla-sugar"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "homestyle-german-vanilla-puff-pastry-cake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/homestyle-german-vanilla-puff-pastry-cake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:18:12Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "puff pastry",
+    "descriptor": "Homestyle",
+    "dishForm": "Pudding"
+  }
+}
