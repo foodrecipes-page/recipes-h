@@ -3588,6 +3588,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-lamb-stew",
+    "title": "Hearty Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "lamb-based",
+      "low-carb",
+      "one-pot"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-potato-stew",
     "title": "Hearty Irish Potato Stew",
     "tags": [
