@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Venezuelan Beef Skewers",
+  "description": "A yeasty and shaggy Venezuelan dish featuring mixed beef cuts, this recipe is perfect for a buddhist temple friendly meal, it is broiled to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Thread the beef, onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together the garlic, olive oil, salt, black pepper, and yeast.",
+    "Brush the garlic yeast mixture onto the skewers.",
+    "Broil the skewers for 10 minutes per side, or until the beef is cooked to 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, with a squeeze of lemon juice.",
+    " Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "broiled",
+    "high-protein",
+    "one-pan",
+    "skewers",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-venezuelan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-venezuelan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:47:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty",
+    "dishForm": "Skewers"
+  }
+}

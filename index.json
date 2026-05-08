@@ -4410,6 +4410,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-venezuelan-beef-skewers",
+    "title": "Hearty Venezuelan Beef Skewers",
+    "tags": [
+      "beef",
+      "broiled",
+      "high-protein",
+      "one-pan",
+      "skewers",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-venezuelan-beets-hash",
     "title": "Hearty Venezuelan Beets Hash",
     "tags": [
