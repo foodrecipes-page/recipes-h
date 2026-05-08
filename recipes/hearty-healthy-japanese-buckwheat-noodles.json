@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Healthy Japanese Buckwheat Noodles",
+  "description": "A sweet and flaky Japanese dish featuring buckwheat noodles, perfect for a sick day, made with a tandoor and vegetarian friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "8 oz",
+      "notes": "Japanese soba noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the buckwheat noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Stir in the tandoor spice blend and cook for 1 minute.",
+    "In a small bowl, whisk together the soy sauce and sesame oil, and pour the sauce over the mushroom mixture.",
+    "Add the cooked noodles to the skillet and toss to combine with the mushroom mixture.",
+    "Season with salt to taste, and garnish with chopped green onions.",
+    "Serve hot and enjoy.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "japanese",
+    "noodle-dish",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-healthy-japanese-buckwheat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-healthy-japanese-buckwheat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "buckwheat",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Hearty Healthy",
+    "dishForm": "Noodles"
+  }
+}
