@@ -1,0 +1,100 @@
+{
+  "title": "Uruguayan Bread Sandwich",
+  "description": "A hearty and romantic Uruguayan dish featuring a white bread mix, perfect for a comforting meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "4 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Butter one side of each bread slice.",
+    "Place one slice of bread, buttered side down, in the pan.",
+    "Top with a slice of ham, a slice of cheese, a dollop of mayonnaise, some lettuce, and some tomato.",
+    "Place another slice of bread, buttered side up, on top of the filling.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining ingredients to make three more sandwiches.",
+    "Serve immediately and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-meal",
+    "hearty-meal",
+    "lunch-ideas",
+    "sandwich",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hearty-uruguayan-bread-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-bread-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:19:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "white bread mix",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bread",
+    "descriptor": "hearty bouncy",
+    "dishForm": "Sandwich"
+  }
+}

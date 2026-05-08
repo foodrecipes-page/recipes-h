@@ -4492,6 +4492,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-uruguayan-bread-sandwich",
+    "title": "Uruguayan Bread Sandwich",
+    "tags": [
+      "comfort-food",
+      "easy-meal",
+      "hearty-meal",
+      "lunch-ideas",
+      "sandwich",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-vegetarian-tofu-wraps",
     "title": "Hearty Vegetarian Tofu Wraps",
     "tags": [
