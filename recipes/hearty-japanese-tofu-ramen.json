@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Japanese Tofu Ramen",
+  "description": "A buttery and creamy vegan ramen dish featuring lemon zest and coconut cream, inspired by the romantic Japanese Tohoku region.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the ramen noodles to the pot and cook according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat and saute the mushrooms until they are tender.",
+    "Add the cubed tofu to the pan and cook until it is golden brown.",
+    "In a small bowl, whisk together the coconut cream and lemon zest.",
+    "Add the coconut cream mixture to the pot with the noodles and broth, and stir to combine.",
+    "Add the sauteed mushrooms and tofu to the pot, and stir to combine.",
+    "Stir in the vegan butter until it is melted and the soup is creamy.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the ramen hot, topped with green onions and vegan cheese shreds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy-soup",
+    "japanese-inspired",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-japanese-tofu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-japanese-tofu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:54:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lemon zest",
+    "diet": "vegan",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "hearty buttery",
+    "dishForm": "Ramen"
+  }
+}
