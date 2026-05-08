@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Middle Eastern Chickpeas Falafel",
+  "description": "Rich and creamy Middle Eastern dish featuring ground coriander and served in a copper mug, perfect for a crowd, this halal-friendly falafel is a true delight. It is made with chickpeas and spices, then flambeed to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a food processor, combine chickpeas, ground coriander, ground cumin, paprika, garlic powder, salt, and black pepper, and process until well combined.",
+    "Add the flour and process until the mixture is smooth and holds together.",
+    "Using your hands, shape the mixture into small falafel patties.",
+    "Heat the olive oil in a large skillet over medium-high heat and flambe the falafel patties until golden brown on both sides.",
+    "Transfer the falafel to a baking sheet and bake for 15 minutes.",
+    "While the falafel is baking, prepare the tahini sauce by mixing the lemon juice and olive oil in a small bowl.",
+    "To serve, place a few falafel patties in a copper mug and drizzle with the tahini sauce.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "crowd-pleaser",
+    "flambe",
+    "halal",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-middle-eastern-chickpeas-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-middle-eastern-chickpeas-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:10:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "flambe",
+    "primaryIngredient": "ground coriander",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Hearty Halal",
+    "dishForm": "Falafel"
+  }
+}
