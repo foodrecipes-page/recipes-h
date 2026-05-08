@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Spicy Brazilian Chicken Pasta",
+  "description": "A spicy and romantic Brazilian dish featuring chicken, pasta, and wholegrain bread, perfect for a low-carb friendly dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "wholegrain pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spicy Brazilian sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wholegrain bread",
+      "amount": "1 loaf",
+      "notes": "cut into slices"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the chicken until browned and cooked through",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent",
+    "Stir in the diced tomatoes, coconut milk, and spicy Brazilian sauce, and bring the mixture to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally",
+    "Stir in the cooked pasta and cooked chicken, and season with salt and pepper to taste",
+    "Slice the wholegrain bread and toast until lightly browned",
+    "Serve the pasta and chicken mixture in bowls, topped with toasted wholegrain bread and chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "low-carb",
+    "one-pan",
+    "romantic",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-spicy-brazilian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-brazilian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:04:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty spicy",
+    "dishForm": "Pasta"
+  }
+}
