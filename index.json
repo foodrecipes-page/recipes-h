@@ -6687,6 +6687,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spring-canadian-beef-stew",
+    "title": "Hearty Spring Canadian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "canadian-cuisine",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spring-ukrainian-scallion-fritters",
     "title": "Hearty Spring Ukrainian Scallion Fritters",
     "tags": [
@@ -10780,6 +10794,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-flaked-mexican-salmon-street-corn",
+    "title": "Hot Smoked Flaked Mexican Salmon Street Corn",
+    "tags": [
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "street-food",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {

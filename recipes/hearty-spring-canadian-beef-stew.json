@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Spring Canadian Beef Stew",
+  "description": "A show-off Canadian dish featuring caramelized onions, tender beef, and a hint of umami from mushroom duxelles. This hearty stew is perfect for a spring evening, with a focus on low-sodium ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt Block Beef Short Ribs",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushroom Duxelles",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "dried out to 1/4 cup"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "use salt block to reduce sodium content"
+    }
+  ],
+  "instructions": [
+    "Heat the salt block over medium-high heat, then sear the short ribs until browned on all sides. Remove the ribs from the block and set them aside."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "canadian-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 65,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-spring-canadian-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spring-canadian-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "chopped onion",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Beef",
+    "descriptor": "Hearty Spring",
+    "dishForm": "Stew"
+  }
+}

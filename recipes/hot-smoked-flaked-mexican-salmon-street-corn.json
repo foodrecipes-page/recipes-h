@@ -1,0 +1,108 @@
+{
+  "title": "Hot Smoked Flaked Mexican Salmon Street Corn",
+  "description": "A buttery, crunchy, comforting Mexican dish featuring hot smoked flaked salmon, perfect for a dinner with friends or family. Inspired by the flavors of elote, this recipe is vegetarian-friendly and easy to make.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stone bowl dolsot",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "hot smoked flaked salmon",
+      "amount": "6 ounces",
+      "notes": "look for smoked salmon with a firm texture and a rich flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted butter adds a rich and creamy flavor to the dish"
+    },
+    {
+      "name": "grilled corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh corn is best, but frozen or canned works too"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped cilantro adds a fresh and herbaceous flavor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh lime juice adds a bright and citrusy flavor"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin adds a warm and earthy flavor"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher salt enhances the flavors of the dish"
+    },
+    {
+      "name": "coarse black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "coarse black pepper adds a nice texture and flavor"
+    },
+    {
+      "name": "queso fresco crumbles",
+      "amount": "1/2 cup",
+      "notes": "crumbled queso fresco adds a salty and creamy flavor"
+    },
+    {
+      "name": "crushed tortilla chips",
+      "amount": "1/4 cup",
+      "notes": "crushed tortilla chips adds a crunchy texture to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone bowl dolsot over high heat for 5 minutes. ",
+    "Add the hot smoked flaked salmon to the dolsot and cook for 1-2 minutes, until lightly browned.",
+    "Add the unsalted butter to the dolsot and cook until melted, stirring constantly.",
+    "Add the grilled corn kernels, fresh cilantro, lime juice, ground cumin, kosher salt, and coarse black pepper to the dolsot and stir to combine.",
+    "Top the salmon mixture with queso fresco crumbles and crushed tortilla chips.",
+    "Serve the hot smoked flaked Mexican salmon street corn immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "street-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hot-smoked-flaked-mexican-salmon-street-corn",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-flaked-mexican-salmon-street-corn",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:35Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "salmon",
+    "descriptor": "hot smoked flaked",
+    "dishForm": "Street Corn"
+  }
+}
