@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Uruguayan Vialone Nano Rice Pilaf",
+  "description": "A briny and shaggy Uruguayan dish featuring Vialone Nano rice, cooked to perfection using sous vide method, this low carb friendly pilaf is a must try, the monsoon season calls for a hearty meal like this",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone Nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, combine the rinsed Vialone Nano rice, chicken broth, olive oil, smoked paprika, salt, and black pepper, and mix well.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "Add the peeled and deveined shrimp to the bowl and stir gently to combine.",
+    "Transfer the rice mixture to a sous vide bag and seal the bag.",
+    "Place the sealed bag in the preheated sous vide machine and cook for 45 minutes.",
+    "Remove the bag from the machine and let it cool for a few minutes.",
+    "Stir in the chopped parsley and serve the pilaf hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "seafood",
+    "sous-vide",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-uruguayan-vialone-nano-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-vialone-nano-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:40:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "vialone-nano",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "vialone nano rice",
+    "descriptor": "hearty low carb",
+    "dishForm": "Pilaf"
+  }
+}
