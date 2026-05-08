@@ -1,0 +1,91 @@
+{
+  "title": "Herbal Egyptian Raspberries Tart",
+  "description": "A sweet and tangy tart featuring fresh raspberries, lemon, and herbal notes from Egyptian mint and thyme. This dessert is perfect for warm days when a quick and refreshing treat is needed.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "raspberries",
+      "amount": "2 cups fresh",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egyptian mint",
+      "amount": "1 tsp dried",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Roll out the pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a tart pan with a removable bottom and press it into the corners.",
+    "Prick the bottom of the dough with a fork to prevent it from bubbling up during baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "herbal",
+    "lemon",
+    "plant-based",
+    "raspberries",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "herbal-egyptian-raspberries-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-egyptian-raspberries-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "raspberries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "raspberries",
+    "descriptor": "herbal",
+    "dishForm": "Tart"
+  }
+}
