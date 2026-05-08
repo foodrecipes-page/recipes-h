@@ -3661,6 +3661,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-japanese-genmaicha-noodles",
+    "title": "Hearty Japanese Genmaicha Noodles",
+    "tags": [
+      "japanese-cuisine",
+      "noodle-dish",
+      "one-pot",
+      "plant-based",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-japanese-parma-ham-dorayaki",
     "title": "Hearty Japanese Parma Ham Dorayaki",
     "tags": [
