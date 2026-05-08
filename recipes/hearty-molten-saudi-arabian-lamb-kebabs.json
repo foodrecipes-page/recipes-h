@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Molten Saudi Arabian Lamb Kebabs",
+  "description": "A sweet and nostalgic Saudi Arabian dish featuring lamb, fines herbes, and a molten center, served on a hot stone plate. This recipe combines the flavors of the Middle East with a unique cooking method.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, fines herbes, garlic, ginger, pomegranate molasses, salt, black pepper, and sumac.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a hot stone plate or in the tandoor and cook for 15 minutes, turning occasionally.",
+    "Reduce the heat to 350 degrees Fahrenheit and continue cooking for an additional 10 minutes, or until the lamb is cooked through and the center is molten.",
+    "Serve the lamb kebabs on the hot stone plate, garnished with additional fines herbes and sumac if desired.",
+    "Caution: the hot stone plate will be extremely hot, so use tongs or a towel to handle it."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fines-herbes",
+    "hot-stone-plate",
+    "lamb-recipes",
+    "middle-eastern",
+    "molten-center",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-molten-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:27:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "tandoor",
+    "primaryIngredient": "fines-herbes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty molten",
+    "dishForm": "Kebabs"
+  }
+}
