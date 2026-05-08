@@ -1,0 +1,102 @@
+{
+  "title": "hearty midnight pulled argentinian duck legs empanadas",
+  "description": "rich, cheese-pull, midnight-craving argentinian dish featuring duck legs, rest-meat, diabetic-friendly-friendly, vessel=scallop-shell",
+  "cuisine": "argentinian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "12"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F (190 C).",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the duck legs to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the oven and bake for 20-25 minutes, or until the duck is cooked through.",
+    "While the duck is cooking, mix the chimichurri sauce and shredded cheese in a small bowl.",
+    "Once the duck is done, let it rest for 5 minutes before shredding it with two forks.",
+    "Add the shredded duck to the bowl with the chimichurri sauce and cheese, and mix well.",
+    "In a large bowl, combine the flour, egg, salt, and black pepper.",
+    "Gradually add the shredded duck mixture to the flour mixture, mixing until a dough forms.",
+    "Wrap each scallop shell with the dough, making sure to seal the edges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheese-pull",
+    "diabetic-friendly",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-midnight-pulled-argentinian-duck-legs-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-midnight-pulled-argentinian-duck-legs-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T15:12:13Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "duck legs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Duck legs",
+    "descriptor": "Hearty Midnight Pulled",
+    "dishForm": "Empanadas"
+  }
+}
