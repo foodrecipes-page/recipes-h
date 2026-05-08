@@ -7653,6 +7653,21 @@
     "shard": "h"
   },
   {
+    "slug": "herb-infused-turkish-shrimp-wrap",
+    "title": "Herb Infused Turkish Shrimp Wrap",
+    "tags": [
+      "healthy",
+      "herb-infused",
+      "kid-friendly",
+      "lacto-vegetarian",
+      "seafood",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "herb-infused-ukrainian-carrot-biryani",
     "title": "Herb Infused Ukrainian Carrot Biryani",
     "tags": [

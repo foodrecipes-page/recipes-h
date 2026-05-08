@@ -1,0 +1,94 @@
+{
+  "title": "Herb Infused Turkish Shrimp Wrap",
+  "description": "A lacto-vegetarian friendly Turkish dish featuring shrimp paste, leaf wrap steam, and a blend of herbs, perfect for kids and adults alike.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large lettuce leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the shrimp paste, yogurt, parsley, dill, lemon juice, and olive oil until well combined.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Lay a large lettuce leaf flat on a clean surface and spoon about 1/4 cup of the shrimp mixture onto the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining lettuce leaves and filling.",
+    "Place the wraps in a steamer basket and steam over boiling water for 8-10 minutes, or until the shrimp is cooked through.",
+    "Serve the wraps hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "herb-infused",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "seafood",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "herb-infused-turkish-shrimp-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-turkish-shrimp-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "shrimp paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "shrimp",
+    "descriptor": "herb infused",
+    "dishForm": "Wrap"
+  }
+}
