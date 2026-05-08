@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Malaysian Shrimp Biryani",
+  "description": "Savory and aromatic Malaysian dish featuring shrimp and Arabic rice, perfect for adventurous eaters",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat",
+    "Add onion and cook until softened, about 5 minutes",
+    "Add garlic and ginger and cook for 1 minute",
+    "Add cumin powder, coriander powder, and turmeric powder and cook for 1 minute",
+    "Add shrimp and cook until pink, about 2-3 minutes per side",
+    "Add basmati rice and stir to combine with spices and shrimp",
+    "Add 4 cups of water and bring to a boil",
+    "Reduce heat to low, cover, and simmer for 15 minutes",
+    "Turn off heat and let sit for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic-rice",
+    "malaysian-cuisine",
+    "one-pot-meals",
+    "shrimp-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-malaysian-shrimp-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malaysian-shrimp-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:28:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "arabic rice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Hearty",
+    "dishForm": "Biryani"
+  }
+}
