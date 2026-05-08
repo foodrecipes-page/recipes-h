@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Springy Algerian Lentil Tagine",
+  "description": "A traditional Algerian dish featuring lentils, molasses, and nuka-pickle, this tagine is a bitter, springy, and nostalgic meal, satvik-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the cumin, paprika, salt, and black pepper and cook for 1 minute.",
+    "Add the rinsed lentils, molasses, and chopped nuka-pickle, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-based",
+    "north-african",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-springy-algerian-lentil-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-springy-algerian-lentil-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:11:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "molasses",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lentils",
+    "descriptor": "hearty springy",
+    "dishForm": "Tagine"
+  }
+}
