@@ -1,0 +1,100 @@
+{
+  "title": "Hawaiian-Style Jamaican Beef Hash",
+  "description": "A unique fusion of Jamaican and Hawaiian flavors, this dish features tender feather blade beef, smoky spices, and a hint of tropical sweetness.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your salt-block to 400°F (200°C).",
+    "Season the beef with tandoor spice blend, salt, and allspice.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Sear the beef until browned, about 3-4 minutes per side.",
+    "Transfer the beef to a plate and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent, about 5 minutes.",
+    "Add the toasted coconut flakes and cook for an additional 1-2 minutes.",
+    "Return the beef to the skillet and stir in the pineapple chunks, coconut milk, and chopped cilantro.",
+    "Continue cooking for an additional 2-3 minutes, until the beef is coated in the flavorful sauce.",
+    "Serve the beef hash hot, garnished with additional toasted coconut flakes if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "jamaican",
+    "one-pan",
+    "paleo-friendly",
+    "weekend-brunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "hawaiian-style-jamaican-beef-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hawaiian-style-jamaican-beef-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:50:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "feather blade beef",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Beef",
+    "descriptor": "Hawaiian-Style",
+    "dishForm": "Hash"
+  }
+}
