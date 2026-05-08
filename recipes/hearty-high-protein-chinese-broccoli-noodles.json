@@ -1,0 +1,107 @@
+{
+  "title": "Hearty High-Protein Chinese Broccoli Noodles",
+  "description": "A fermented and aerated Chinese dish featuring purple-sprouting-broccoli, caramelized to perfection and packed with high-protein ingredients, perfect for a satisfying brunch",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "purple-sprouting-broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice-based or soba"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat and caramelize the broccoli florets for 5 minutes",
+    "Add the minced garlic and grated ginger to the skillet and stir-fry for 1 minute",
+    "Add the cubed tofu to the skillet and stir-fry until golden brown",
+    "In a small bowl, whisk together the soy sauce and fermented bean paste",
+    "Pour the soy sauce mixture over the tofu and broccoli in the skillet and stir-fry for 2 minutes",
+    "Add the cooked noodles to the skillet and stir-fry for 1 minute",
+    "Season with salt and pepper to taste",
+    "Garnish with chopped green onions and sesame seeds",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chinese-food",
+    "fermented-foods",
+    "high-protein",
+    "noodle-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-high-protein-chinese-broccoli-noodles",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-high-protein-chinese-broccoli-noodles",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "broccoli",
+    "descriptor": "Hearty High-Protein",
+    "dishForm": "Noodles"
+  }
+}
