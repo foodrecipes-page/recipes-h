@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Homemade Tunisian Beef Tagine",
+  "description": "A buttery and light Tunisian dish featuring beef stock concentrate and double fry method, perfect for a cozy dinner.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 cups water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef cubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef cubes and cook until they are browned on all sides.",
+    "Add the dissolved beef stock concentrate, potatoes, carrots, tomato paste, paprika, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Double fry the beef cubes by removing them from the pot and frying them in hot oil until crispy, then return them to the pot.",
+    "Simmer the tagine for an additional 30 minutes.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "hearty",
+    "homemade",
+    "tagine",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-homemade-tunisian-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-tunisian-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Tagine"
+  }
+}

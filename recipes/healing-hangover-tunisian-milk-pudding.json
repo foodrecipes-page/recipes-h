@@ -1,0 +1,93 @@
+{
+  "title": "Healing Hangover Tunisian Milk Pudding",
+  "description": "A rich and aerated Tunisian dessert featuring condensed milk to help cure hangovers, this pudding is a Buddhist-temple-friendly treat that is easy to make and fun to eat. It is a delicious and soothing dessert that can be enjoyed at any time of day.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "condensed milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "whole milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the whole milk, sugar, and cornstarch, and whisk until the cornstarch is dissolved.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the mixture has thickened.",
+    "Remove the saucepan from the heat and stir in the condensed milk, rose water, orange blossom water, and vanilla extract.",
+    "Let the mixture cool to room temperature.",
+    "Cover the saucepan with plastic wrap and refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, whip the pudding with an electric mixer until it is light and airy.",
+    "Spoon the pudding into individual serving cups and serve chilled.",
+    "Garnish with a sprinkle of cinnamon or a few sliced almonds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "hangover-cure",
+    "soothing-dessert",
+    "tunisian-dessert",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "healing-hangover-tunisian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-hangover-tunisian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "condensed milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "milk",
+    "descriptor": "healing hangover",
+    "dishForm": "Pudding"
+  }
+}
