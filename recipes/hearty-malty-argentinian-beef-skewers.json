@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Malty Argentinian Beef Skewers",
+  "description": "A malty and crisp Argentinian dish featuring shio-koji, perfect for a festive dinner, this recipe is low-fat-friendly and full of flavor. The combination of beef, malty flavors, and Argentinian spices creates a unique taste experience.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together shio-koji, malt syrup, olive oil, garlic, parsley, red pepper flakes, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the beef cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the beef is cooked to an internal temperature of 130 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Temper the skewers by letting them sit at room temperature for 30 minutes before grilling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "festive",
+    "grilled",
+    "low-fat",
+    "malty",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "hearty-malty-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malty-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "shio-koji",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Malty",
+    "dishForm": "Skewers"
+  }
+}
