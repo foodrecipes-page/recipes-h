@@ -1,0 +1,114 @@
+{
+  "title": "Hangover-cure Pungent Peruvian Potatoes Stew",
+  "description": "A hearty Peruvian stew made with potatoes, sesame seeds, and ají amarillo peppers to help cure hangovers. This dish is a staple in Peruvian cuisine, often served with rice and avocado.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2-3",
+      "notes": "diced, including seeds"
+    },
+    {
+      "name": "Russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it's translucent and starting to caramelize, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced aji amarillo peppers and cook for 2-3 minutes, until they start to soften.",
+    "Add the cubed potatoes, ground cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, until the potatoes are tender.",
+    "Stir in the sesame seeds and heavy cream. Cook for an additional 5 minutes, until the sauce has thickened.",
+    "Serve the stew hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "emulsified",
+    "gluten-free",
+    "hangover-cure",
+    "kosher-friendly",
+    "one-pan",
+    "peruvian",
+    "sesame-seed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "hangover-cure-pungent-peruvian-potatoes-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-pungent-peruvian-potatoes-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:09:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "emulsify",
+    "primaryIngredient": "sesame seed",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Hangover-cure Pungent",
+    "dishForm": "Stew"
+  }
+}

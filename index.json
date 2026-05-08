@@ -333,6 +333,23 @@
     "shard": "h"
   },
   {
+    "slug": "hangover-cure-pungent-peruvian-potatoes-stew",
+    "title": "Hangover-cure Pungent Peruvian Potatoes Stew",
+    "tags": [
+      "emulsified",
+      "gluten-free",
+      "hangover-cure",
+      "kosher-friendly",
+      "one-pan",
+      "peruvian",
+      "sesame-seed",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
     "title": "Hangover-cure Salty Uruguayan Chinese Long Beans Skillet",
     "tags": [
@@ -4902,6 +4919,23 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "heavily-sugared-portuguese-duck-pate",
+    "title": "Heavily Sugared Portuguese Duck Pate",
+    "tags": [
+      "buddhist-friendly",
+      "date-night",
+      "duck",
+      "fondue",
+      "pate",
+      "portuguese",
+      "romantic",
+      "vegan-friendly"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {

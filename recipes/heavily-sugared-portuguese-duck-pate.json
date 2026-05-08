@@ -1,0 +1,106 @@
+{
+  "title": "Heavily Sugared Portuguese Duck Pate",
+  "description": "A rich, creamy, and sweet duck pate served in a fondue pot, perfect for a romantic dinner.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mallard duck liver",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "mashed"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Black treacle",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Bourbon whiskey",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Date syrup",
+      "amount": "60g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375F (190C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch (3mm).",
+    "Cut the pastry into a rectangle, about 1/4 inch (6mm) larger on each side than the fondue pot.",
+    "Place the pastry rectangle in the fondue pot, pressing it into the corners.",
+    "In a blender or food processor, puree the duck liver, garlic, chicken stock, whiskey, salt, and pepper until smooth.",
+    "Pour the pureed mixture into the pastry-lined fondue pot.",
+    "Brush the edges of the pastry with a little water, then roll the pastry over to seal the pot.",
+    "Bake the pate for 25 minutes.",
+    "Remove the pate from the oven and brush the top with date syrup.",
+    "Return the pate to the oven and bake for an additional 5 minutes.",
+    "Remove the pate from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "buddhist-friendly",
+    "date-night",
+    "duck",
+    "fondue",
+    "pate",
+    "portuguese",
+    "romantic",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "heavily-sugared-portuguese-duck-pate",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavily-sugared-portuguese-duck-pate",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:09:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "lamination-puff",
+    "primaryIngredient": "black treacle",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "duck",
+    "descriptor": "Heavily Sugared",
+    "dishForm": "Pâté"
+  }
+}
