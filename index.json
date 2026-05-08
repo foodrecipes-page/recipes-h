@@ -2132,6 +2132,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-filipino-chicken-stew",
+    "title": "Hearty Filipino Chicken Stew",
+    "tags": [
+      "chicken-recipes",
+      "coconut-milk",
+      "diabetic-friendly",
+      "filipino-cuisine",
+      "gluten-free",
+      "one-pot"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-flaky-irish-chicken-pie",
     "title": "Hearty Flaky Irish Chicken Pie",
     "tags": [

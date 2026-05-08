@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Filipino Chicken Stew",
+  "description": "A traditional Filipino dish made with chicken, vegetables, and unsweetened coconut milk, cooked in a salt-block vessel to perfection, this recipe is diabetic-friendly and features earthy flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt-block vessel over medium heat for 10 minutes.",
+    "Add the chopped onions to the preheated vessel and cook until they are translucent.",
+    "Add the minced garlic and sliced ginger to the vessel and cook for 1 minute, stirring constantly.",
+    "Add the chicken thighs to the vessel and cook until they are browned on all sides.",
+    "Add the unsweetened coconut milk, fish sauce, salt, and black pepper to the vessel, stirring to combine.",
+    "Add the cubed potatoes and sliced carrots to the vessel, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "coconut-milk",
+    "diabetic-friendly",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-filipino-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-filipino-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:16:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty earthy",
+    "dishForm": "Stew"
+  }
+}
