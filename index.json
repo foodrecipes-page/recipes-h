@@ -2935,6 +2935,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-german-sausage-skillet",
+    "title": "Hearty German Sausage Skillet",
+    "tags": [
+      "german-cuisine",
+      "gluten-free",
+      "kid-friendly",
+      "meat-based",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-german-sun-dried-tomato-stew",
     "title": "Hearty German Sun Dried Tomato Stew",
     "tags": [
