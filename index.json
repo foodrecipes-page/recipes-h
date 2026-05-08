@@ -1424,6 +1424,23 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-chewy-norwegian-yeast-lefse",
+    "title": "Hearty Chewy Norwegian Yeast Lefse",
+    "tags": [
+      "ayurvedic-sattvic",
+      "gluten-free",
+      "high-fiber",
+      "one-pan",
+      "snack",
+      "tradional-norwegian",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 28,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-chewy-tunisian-citrusy-chicken-grill",
     "title": "Hearty Chewy Tunisian Citrusy Chicken Grill",
     "tags": [
@@ -2599,6 +2616,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-homestyle-malaysian-fiordilatte-curry",
+    "title": "Hearty Homestyle Malaysian Fiordilatte Curry",
+    "tags": [
+      "comfort-food",
+      "curry-recipe",
+      "dairy-free",
+      "malaysian-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

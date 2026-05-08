@@ -1,0 +1,89 @@
+{
+  "title": "Hearty Chewy Norwegian Yeast Lefse",
+  "description": "A traditional Norwegian yeast lefse recipe with a chewy texture and a unique twist using a tandoor oven. This recipe is ayurvedic-sattvic-friendly and perfect for a snack or dessert.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the warm milk and yeast. Let it sit for 5 minutes until the yeast is activated.",
+    "Add the flour, coconut oil, honey, and salt to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the tandoor oven to 425°F (220°C).",
+    "Divide the dough into 6-8 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the lefse disks in the tandoor oven and cook for 2-3 minutes on each side until they are golden brown.",
+    "Brush the lefse with ghee and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "snack",
+    "tradional-norwegian",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "hearty-chewy-norwegian-yeast-lefse",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chewy-norwegian-yeast-lefse",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:12:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "flour tortilla",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "yeast",
+    "descriptor": "Hearty Chewy",
+    "dishForm": "Lefse"
+  }
+}
