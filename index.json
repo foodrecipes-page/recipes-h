@@ -1299,6 +1299,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-chicken-stir-fry",
+    "title": "Hearty American Chicken Stir Fry",
+    "tags": [
+      "american-cuisine",
+      "chicken-recipe",
+      "lazy-sunday",
+      "low-carb",
+      "stir-fry",
+      "wooden-board"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-fregola-hash",
     "title": "American Fregola Hash",
     "tags": [

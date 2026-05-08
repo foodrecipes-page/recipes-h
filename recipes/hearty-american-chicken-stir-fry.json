@@ -1,0 +1,100 @@
+{
+  "title": "Hearty American Chicken Stir Fry",
+  "description": "A low-carb, lazy Sunday American dish featuring chicken stir-fry served with white bread on a wooden board, with a bitter and aerated twist.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Add the butter to the skillet and let it melt.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the onion, bell pepper, and mushrooms to the skillet and cook until the vegetables are tender.",
+    "In a small bowl, whisk together the chicken broth, dijon mustard, salt, and black pepper.",
+    "Pour the broth mixture over the chicken and vegetables in the skillet.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve the chicken and vegetable mixture over sliced white bread on a wooden board.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "chicken-recipe",
+    "lazy-sunday",
+    "low-carb",
+    "stir-fry",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "hearty-american-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:42:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "white bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty low carb",
+    "dishForm": "Stir-fry"
+  }
+}
