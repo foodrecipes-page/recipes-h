@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Crispy Polish Milk Tagine",
+  "description": "A traditional Polish dish featuring crispy milk and hearty flavors, cooked in a ceramic tagine, onion and garlic free, perfect for a cold monsoon day.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large ceramic tagine, heat the olive oil over medium heat.",
+    "Add the diced potatoes, sliced carrots, and diced celery, and cook until they start to brown.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "In a small bowl, mix the tomato paste with a little water to thin it out.",
+    "Add the tomato paste mixture to the tagine and stir to combine.",
+    "Pour in the milk and bring the mixture to a simmer.",
+    "Transfer the tagine to the preheated oven and bake for 30 minutes.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "polish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-crispy-polish-milk-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-polish-milk-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:05:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "milk",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "milk",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Tagine"
+  }
+}

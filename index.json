@@ -1196,6 +1196,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-algerian-chicken-tagine",
+    "title": "Hearty Algerian Chicken Tagine",
+    "tags": [
+      "chicken-dinner",
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-algerian-fenugreek-skillet",
     "title": "Hearty Algerian Fenugreek Skillet",
     "tags": [
@@ -1975,6 +1990,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-crispy-polish-milk-tagine",
+    "title": "Hearty Crispy Polish Milk Tagine",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "polish-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
