@@ -4982,6 +4982,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roasted-malaysian-vegetable-satay",
+    "title": "Hearty Roasted Malaysian Vegetable Satay",
+    "tags": [
+      "kosher-friendly",
+      "malaysian-food",
+      "midnight-cravings",
+      "roasted-vegetables",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-robata-grilled-russian-potato-salad",
     "title": "Hearty Robata-Grilled Russian Potato Salad",
     "tags": [
@@ -6016,6 +6030,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-syrian-lamb-kebabs",
+    "title": "Hearty Spicy Syrian Lamb Kebabs",
+    "tags": [
+      "high-protein",
+      "kebabs",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {

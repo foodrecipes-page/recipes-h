@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Roasted Malaysian Vegetable Satay",
+  "description": "A pungent and snappy Malaysian dish featuring roasted vegetables, perfect for midnight cravings, this kosher-friendly recipe is a twist on traditional satay.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Cut the bell peppers, onions, mushrooms, and zucchini into bite-sized pieces.",
+    "In a large bowl, whisk together the coconut milk, peanut oil, curry powder, salt, and black pepper.",
+    "Add the cut vegetables and garlic to the bowl and toss to coat with the curry mixture.",
+    "Spread the vegetables in a single layer on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 25 minutes, or until tender and lightly browned.",
+    "Remove the vegetables from the oven and let cool slightly.",
+    "Thread the roasted vegetables onto skewers, if desired.",
+    "Serve the vegetable satay hot, garnished with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "malaysian-food",
+    "midnight-cravings",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "hearty-roasted-malaysian-vegetable-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-malaysian-vegetable-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:35:35Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Satay"
+  }
+}
