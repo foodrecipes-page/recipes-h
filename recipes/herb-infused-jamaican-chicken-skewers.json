@@ -1,0 +1,94 @@
+{
+  "title": "Herb Infused Jamaican Chicken Skewers",
+  "description": "A flavorful and juicy solo dinner dish featuring lime juice and smoky cold flavors, perfect for those who dislike onion and garlic.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the chopped thyme and rosemary to the bowl and stir to combine.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "jamaican-cuisine",
+    "low-carb",
+    "quick-dinner",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "herb-infused-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "smoke-cold",
+    "primaryIngredient": "lime juice",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "herb infused",
+    "dishForm": "Skewers"
+  }
+}
