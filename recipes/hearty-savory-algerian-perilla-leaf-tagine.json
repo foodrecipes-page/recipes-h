@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Savory Algerian Perilla Leaf Tagine",
+  "description": "A savory and adventurous Algerian dish featuring perilla leaves, this tagine is made with a variety of spices and pressure-cooked to perfection, creating a glassy-jelly texture that is both unique and delicious.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "perilla leaves",
+      "amount": "1 bunch",
+      "notes": "also known as kkaennip"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the cumin, coriander, turmeric, salt, and black pepper and cook for 1 minute.",
+    "Add the perilla leaves and stir to combine.",
+    "Add 2 cups of water to the pressure cooker and bring to a boil.",
+    "Close the lid and cook for 20 minutes.",
+    "Let the pressure release naturally.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "exotic",
+    "one-pot",
+    "pressure-cooker",
+    "savory",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-savory-algerian-perilla-leaf-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-savory-algerian-perilla-leaf-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Hearty Savory",
+    "dishForm": "Tagine"
+  }
+}
