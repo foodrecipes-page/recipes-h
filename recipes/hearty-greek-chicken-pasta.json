@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Greek Chicken Pasta",
+  "description": "A winey and gooey light polish dish featuring dried oregano, poached chicken and pasta, this recipe is perfect for a weeknight dinner",
+  "cuisine": "Greek",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and cook the garlic until fragrant.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside to poach in the chicken broth.",
+    "Add the white wine to the skillet and cook until reduced by half.",
+    "Stir in the dried oregano and cook for 1 minute.",
+    "Add the cooked pasta to the skillet and toss to combine with the wine and oregano mixture.",
+    "Slice the poached chicken and add to the pasta, tossing to combine.",
+    "Stir in the feta cheese until melted and well combined.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hearty-greek-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-greek-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:09:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "dried oregano",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty",
+    "dishForm": "Pasta"
+  }
+}

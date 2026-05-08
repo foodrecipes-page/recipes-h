@@ -2549,6 +2549,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-greek-chicken-pasta",
+    "title": "Hearty Greek Chicken Pasta",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-greek-mozzarella-fritters",
     "title": "Hearty Greek Mozzarella Fritters",
     "tags": [
