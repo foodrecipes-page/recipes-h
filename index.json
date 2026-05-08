@@ -1513,6 +1513,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-croatian-tortilla-quesadilla",
+    "title": "Hearty Croatian Tortilla Quesadilla",
+    "tags": [
+      "easy-dinner",
+      "gluten-free",
+      "mediterranean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-croatian-uni-bake",
     "title": "Hearty Croatian Uni Bake",
     "tags": [

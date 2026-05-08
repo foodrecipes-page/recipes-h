@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Croatian Tortilla Quesadilla",
+  "description": "A Mediterranean-inspired dish featuring tortillas, pickle, and Croatian flavors, perfect for a weeknight dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "4 large",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat",
+    "In a bowl, mix together feta cheese, spinach, and chopped pickle",
+    "Add olive oil to the skillet and saute the garlic for 1 minute",
+    "Place a tortilla in the skillet and sprinkle the feta mixture on half of the tortilla",
+    "Fold the tortilla in half to enclose the filling",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted",
+    "Flip the quesadilla and cook for an additional 2-3 minutes",
+    "Repeat with remaining tortillas and filling",
+    "Serve hot and sprinkle with paprika and salt"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-croatian-tortilla-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-croatian-tortilla-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:06:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "tortillas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tortillas",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Quesadilla"
+  }
+}
