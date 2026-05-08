@@ -2245,6 +2245,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crunchy-indian-cox-apple-palak-paneer",
+    "title": "Hearty Crunchy Indian Cox Apple Palak Paneer",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "indian-food",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crunchy-jamaican-cauliflower-roast",
     "title": "Hearty Crunchy Jamaican Cauliflower Roast",
     "tags": [
