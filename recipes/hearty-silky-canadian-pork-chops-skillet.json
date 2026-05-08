@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Silky Canadian Pork Chops Skillet",
+  "description": "A jammy and silky Canadian dish featuring pork chops and vegan-friendly ingredients, perfect for a show-off dinner party. This recipe combines the richness of pork with the sweetness of maple syrup and the earthiness of mushrooms.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the pork chops and cook for 5 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the pork chops from the skillet and set them aside to rest.",
+    "Add the sliced mushrooms and chopped onions to the skillet and cook until they are tender and lightly browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "In a small bowl, whisk together the maple syrup, salt, and black pepper.",
+    "Pour the maple syrup mixture over the mushrooms and onions in the skillet and stir to combine.",
+    "Return the pork chops to the skillet and spoon some of the maple syrup mixture over the top of each chop.",
+    "Sprinkle the chopped fresh thyme over the top of the pork chops and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "high-protein",
+    "maple-syrup",
+    "one-pan",
+    "pork-chops",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-silky-canadian-pork-chops-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-canadian-pork-chops-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:39:22Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "pork chops",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork chops",
+    "descriptor": "hearty silky",
+    "dishForm": "Skillet"
+  }
+}
