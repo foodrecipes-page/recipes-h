@@ -1,0 +1,99 @@
+{
+  "title": "Healthy Herbed Dutch Chicken Skewers",
+  "description": "A low-calorie Dutch dish featuring chicken skewers with herbed mother sauce, served with rice paper sheets, perfect for a healthy dinner option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together mother sauce, lemon juice, olive oil, salt, and pepper.",
+    "Add the chopped parsley and dill to the bowl and stir to combine.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with the herbed mother sauce mixture.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Meanwhile, prepare the rice paper sheets by soaking them in water for 30 seconds.",
+    "Serve the grilled chicken skewers with the rice paper sheets and additional herbed mother sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "gluten-free",
+    "grilled-chicken",
+    "healthy",
+    "herbed-sauce",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "healthy-herbed-dutch-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-herbed-dutch-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:49:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Healthy Herbed",
+    "dishForm": "Skewers"
+  }
+}
