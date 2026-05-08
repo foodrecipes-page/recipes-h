@@ -1,0 +1,96 @@
+{
+  "title": "Hearty American Beef Burger",
+  "description": "A classic American dish featuring a juicy beef patty, topped with a tangy mustard sauce and served with digestive biscuits and bonito flakes.",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "digestive biscuits",
+      "amount": "4 biscuits"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced tomato",
+      "amount": "2 tomatoes"
+    },
+    {
+      "name": "sliced onion",
+      "amount": "1 onion"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ground beef and a pinch of salt and pepper, and mix until just combined.",
+    "Form the beef mixture into 4 patties.",
+    "Grill the patties for 5 minutes per side, or until they reach an internal temperature of 160 degrees Fahrenheit.",
+    "Meanwhile, toast the digestive biscuits by baking them in the oven at 350 degrees Fahrenheit for 5 minutes.",
+    "In a small bowl, whisk together the yellow mustard and mayonnaise.",
+    "Assemble the burgers by spreading a layer of the mustard sauce on the bottom bun, followed by a cooked patty, a few slices of lettuce, a tomato slice, a slice of onion, and a few slices of pickle.",
+    "Top with the toasted digestive biscuits and sprinkle with bonito flakes.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classics",
+    "beef-recipes",
+    "easy-dinners",
+    "family-friendly",
+    "grilled-meats",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "hearty-american-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:03:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "hearty tender",
+    "dishForm": "Burger"
+  }
+}

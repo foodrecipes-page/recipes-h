@@ -1225,6 +1225,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-beef-burger",
+    "title": "Hearty American Beef Burger",
+    "tags": [
+      "american-classics",
+      "beef-recipes",
+      "easy-dinners",
+      "family-friendly",
+      "grilled-meats",
+      "kid-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-fregola-hash",
     "title": "American Fregola Hash",
     "tags": [
@@ -5548,6 +5563,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 120,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-tunisian-split-peas-pilaf",
+    "title": "Hearty Tunisian Split Peas Pilaf",
+    "tags": [
+      "jain-friendly",
+      "lazy-sunday",
+      "one-pot",
+      "split-peas",
+      "tunisian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
