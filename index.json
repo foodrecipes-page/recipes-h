@@ -2948,6 +2948,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-grassy-middle-eastern-lentils-mujadara",
+    "title": "Hearty Grassy Middle Eastern Lentils Mujadara",
+    "tags": [
+      "gluten-free",
+      "lentil-recipe",
+      "middle-eastern",
+      "vegetarian-dinner",
+      "wooden-board-presentation"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-grassy-moroccan-lamb-mechoui",
     "title": "Hearty Grassy Moroccan Lamb Mechoui",
     "tags": [
@@ -6743,6 +6757,22 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "heavily-charred-kenyan-cheese-tagine",
+    "title": "Heavily Charred Kenyan Cheese Tagine",
+    "tags": [
+      "barbeque",
+      "cheesy",
+      "comfort-food",
+      "high-calorie",
+      "one-pan",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {

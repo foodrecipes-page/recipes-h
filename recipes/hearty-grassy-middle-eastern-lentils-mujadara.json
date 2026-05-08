@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Grassy Middle Eastern Lentils Mujadara",
+  "description": "A flavorful and nutritious Middle Eastern dish featuring little gem lettuce and lardons, served in a traditional mujadara style on a wooden board.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the rinsed lentils and enough water to cover them, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the lentils for 20-25 minutes, or until they are tender.",
+    "While the lentils are cooking, render the lardons in a pan over medium heat until they are crispy.",
+    "Chop the little gem lettuce and set it aside.",
+    "To serve, place a portion of the cooked lentils on a wooden board, then top with chopped lettuce, crispy lardons, and a drizzle of olive oil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lentil-recipe",
+    "middle-eastern",
+    "vegetarian-dinner",
+    "wooden-board-presentation"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-grassy-middle-eastern-lentils-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grassy-middle-eastern-lentils-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:35:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Hearty Grassy",
+    "dishForm": "Mujadara"
+  }
+}

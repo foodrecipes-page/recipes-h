@@ -1,0 +1,121 @@
+{
+  "title": "Heavily Charred Kenyan Cheese Tagine",
+  "description": "A deliciously charred, cheesy Kenyan dish perfect for a sick day, featuring barbeque sauce and easily served in a hot pot vessel.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "12 oz",
+      "notes": "A mix of cheddar and mozzarella works well."
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1/2 cup",
+      "notes": "You can use more or less depending on your preference."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Caramelized for added sweetness."
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced for depth of flavor."
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Diced for added crunch."
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Canned or fresh, diced."
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium for a healthier option."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For a rich and savory flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": "For added smokiness."
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "For serving, toasted or grilled."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large hot pot over medium-high heat.",
+    "Add the onion and cook until caramelized, about 10 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the red bell pepper and cook until tender, about 5 minutes.",
+    "Add the tomato, paprika, salt, and black pepper. Cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Stir in the barbeque sauce and cheese until melted and well combined.",
+    "Serve hot, garnished with toasted bread and a side of your favorite greens.",
+    "For an added twist, top with grilled meats or vegetables.",
+    "This dish is perfect for a sick day, as the cheese and barbeque sauce provide a comforting and indulgent treat.",
+    "Feel free to customize with your favorite ingredients and spices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque",
+    "cheesy",
+    "comfort-food",
+    "high-calorie",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "heavily-charred-kenyan-cheese-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavily-charred-kenyan-cheese-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T17:35:57Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "emulsify",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Heavily Charred",
+    "dishForm": "Tagine"
+  }
+}
