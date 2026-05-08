@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Uruguayan Chicken Wrap",
+  "description": "A rich and crowd-pleasing Uruguayan dish featuring chicken, shio-cure, and macrobiotic-friendly ingredients, all wrapped in a lotus leaf. This dish is a perfect blend of flavors and textures.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken, chicken stock cube, shio-cure, and olive oil.",
+    "Add the chopped onion and minced garlic to the bowl and mix well.",
+    "Cook the brown rice according to package instructions.",
+    "Lay a lotus leaf flat on a work surface and spoon some cooked rice onto the center of the leaf.",
+    "Add the chicken mixture on top of the rice and fold the leaf over the filling to form a wrap.",
+    "Repeat with the remaining ingredients to make 3 more wraps.",
+    "Bake the wraps in the preheated oven for 20 minutes.",
+    "Serve the wraps hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "healthy-meals",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-uruguayan-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:24:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty shattering",
+    "dishForm": "Wrap"
+  }
+}

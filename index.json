@@ -1996,6 +1996,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crunchy-australian-broccoli-skillet",
+    "title": "Hearty Crunchy Australian Broccoli Skillet",
+    "tags": [
+      "crunchy",
+      "healthy",
+      "one-pan",
+      "tangy",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crunchy-jamaican-cauliflower-roast",
     "title": "Hearty Crunchy Jamaican Cauliflower Roast",
     "tags": [
@@ -5966,6 +5980,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-uruguayan-chicken-wrap",
+    "title": "Hearty Uruguayan Chicken Wrap",
+    "tags": [
+      "chicken-dishes",
+      "healthy-meals",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {

@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Crunchy Australian Broccoli Skillet",
+  "description": "A tangy and crunchy Australian dish featuring broccoli and tandoor spices, perfect for a sick day. This kosher-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1/2 cup",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the broccoli to the skillet and cook until tender, about 5 minutes.",
+    "Sprinkle the tandoor spice mix over the broccoli and stir to combine.",
+    "Squeeze the lemon juice over the broccoli and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the broccoli mixture to a serving dish and top with crushed crackers.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "healthy",
+    "one-pan",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-crunchy-australian-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-australian-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:24:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "broccoli",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "broccoli",
+    "descriptor": "hearty crunchy",
+    "dishForm": "Skillet"
+  }
+}
