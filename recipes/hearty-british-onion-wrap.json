@@ -1,0 +1,93 @@
+{
+  "title": "Hearty British Onion Wrap",
+  "description": "A charred and crumbly British dish featuring caramelized onions, wrapped in a corn husk wrap, perfect for a comforting meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large skillet, caramelize the onions over medium heat for 20 minutes.",
+    "In a separate saucepan, make a mother sauce by whisking together the flour and butter, then slowly adding the vegetable broth.",
+    "Bring the sauce to a simmer and cook until thickened, stirring constantly.",
+    "Stir in the shredded gruyere cheese until melted and smooth.",
+    "To assemble the wraps, lay a corn husk flat and spoon some of the onion mixture onto the center of the husk.",
+    "Drizzle the mother sauce over the onions and season with salt and pepper.",
+    "Fold the sides of the husk over the filling and roll up the wrap to enclose.",
+    "Place the wraps on a baking sheet and bake for 15 minutes, or until the husks are lightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-british-onion-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-british-onion-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:37:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "onion",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "onion",
+    "descriptor": "hearty comforting",
+    "dishForm": "Wrap"
+  }
+}

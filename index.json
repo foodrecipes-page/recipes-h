@@ -1458,6 +1458,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-british-onion-wrap",
+    "title": "Hearty British Onion Wrap",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-british-red-bean-paste-bake",
     "title": "Hearty British Red Bean Paste Bake",
     "tags": [
@@ -3017,6 +3031,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-herbed-croatian-lamb-skewers",
+    "title": "Hearty Herbed Croatian Lamb Skewers",
+    "tags": [
+      "grilled-meats",
+      "herby-flavors",
+      "macrobiotic-friendly",
+      "mediterranean-inspired",
+      "one-pan"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -8951,6 +8979,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-spicy-korean-tamarind-skewers",
+    "title": "Hot Spicy Korean Tamarind Skewers",
+    "tags": [
+      "asian-inspired",
+      "easy-entertaining",
+      "korean-street-food",
+      "spicy-snacks",
+      "vegetarian-appetizers"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
