@@ -1,0 +1,122 @@
+{
+  "title": "Smoky Ethiopian Mitsuba Azifa",
+  "description": "A lacto-vegetarian-friendly Ethiopian azifa dish featuring mitsuba, smoked spices, and gooey cheese, perfect for hangover cures.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian",
+    "veggie-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mitsuba",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "injera",
+      "amount": "6-8 pieces",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400F (200C).",
+    "In a blender or food processor, puree the onion, ginger, garlic, and smoked paprika until you get a smooth paste.",
+    "Heat the olive oil in a pan over medium heat and sauté the pureed mixture for 5-7 minutes.",
+    "Add the mitsuba to the pan and cook until it's wilted, then stir in the cottage cheese and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with chopped cilantro and a drizzle of lemon juice.",
+    "Cover the dish with aluminum foil and bake for 20-25 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve the azifa hot with injera on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian-cuisine",
+    "hangover-cure",
+    "lacto-vegetarian",
+    "mitsuba",
+    "one-pan",
+    "smoky-spices",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hangover-cure-smoky-ethiopian-mitsuba-azifa",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-smoky-ethiopian-mitsuba-azifa",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:53:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "mitsuba",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mitsuba",
+    "descriptor": "Hangover-Cure Smoky",
+    "dishForm": "Azifa"
+  }
+}
