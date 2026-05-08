@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Spanish Seafood Bowl",
+  "description": "A savory and flavorful Spanish inspired seafood bowl featuring confit tomato and elderflower, served in an earthenware bowl.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large earthenware bowl over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the mussels and clams and cook for 2 minutes until they start to open.",
+    "Add the shrimp and cook for 2 minutes until they turn pink.",
+    "Add the confit tomato, elderflower syrup, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for an additional 2 minutes until the seafood is cooked through and the sauce has thickened.",
+    "Serve the seafood bowl hot, garnished with fresh parsley or elderflower.",
+    "Serve with crusty bread or over rice to soak up the flavorful sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "healthy",
+    "one-pot",
+    "pescatarian",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-spanish-seafood-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-seafood-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:04:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "confit-tomato",
+    "primaryIngredient": "elderflower",
+    "diet": "pescatarian",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "hearty savory",
+    "dishForm": "Bowl"
+  }
+}

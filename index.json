@@ -4587,6 +4587,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spanish-seafood-bowl",
+    "title": "Hearty Spanish Seafood Bowl",
+    "tags": [
+      "flavorful",
+      "healthy",
+      "one-pot",
+      "pescatarian",
+      "seafood",
+      "spanish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spicy-brazilian-chicken-pasta",
     "title": "Hearty Spicy Brazilian Chicken Pasta",
     "tags": [
