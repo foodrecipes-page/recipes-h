@@ -1,0 +1,95 @@
+{
+  "title": "Healthy Norwegian Lamb Kebabs",
+  "description": "A kid-friendly Norwegian dish featuring lamb shanks, this recipe is a fresh and silky take on traditional kebabs, with an ayurvedic sattvic-friendly twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the kebabs in the preheated oven for 20 minutes, flipping halfway through.",
+    "While the kebabs are baking, heat a non-stick skillet over medium-high heat.",
+    "Remove the kebabs from the oven and carefully place them in the skillet.",
+    "Cook the kebabs for an additional 2-3 minutes on each side, or until nicely browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-dinner",
+    "kebab-recipes",
+    "kid-friendly",
+    "lamb-recipes",
+    "norwegian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "healthy-norwegian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-norwegian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:27:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lamb shanks",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Healthy",
+    "dishForm": "Kebabs"
+  }
+}
