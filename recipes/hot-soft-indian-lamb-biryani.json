@@ -1,0 +1,115 @@
+{
+  "title": "Hot & Soft Indian Lamb Biryani",
+  "description": "A malty, pillowy, festive Bengali dish featuring red chilli powder, perfect for special occasions.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1kg",
+      "notes": "Soaked for 30 minutes"
+    },
+    {
+      "name": "Red chilli powder",
+      "amount": "20g"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "Small onion",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "20g"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "10g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large saucepan over medium heat.",
+    "Add sliced onion and cook until lightly browned.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add ginger paste and cook for 1 minute.",
+    "Add red chilli powder and cook for 1 minute.",
+    "Add lamb and cook until browned.",
+    "Add yogurt, salt, and black pepper. Mix well.",
+    "Add soaked basmati rice and mix well.",
+    "Add 400ml water and bring to a boil.",
+    "Reduce heat to low, cover, and cook for 20 minutes.",
+    "Meanwhile, preheat air fryer to 200°C.",
+    "Add star anise and cook for 5 minutes.",
+    "Serve hot, garnished with cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "biryani",
+    "dinner",
+    "halal",
+    "indian",
+    "lamb",
+    "special-occasion",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "hot-soft-indian-lamb-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-soft-indian-lamb-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:38:11Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "red chilli powder",
+    "diet": "halal",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hot & Soft",
+    "dishForm": "Biryani"
+  }
+}
