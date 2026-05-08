@@ -1,0 +1,92 @@
+{
+  "title": "Hearty Kenyan Beef Skillet",
+  "description": "A flavorful and fresh Kenyan dish featuring shiso leaf and tender beef, perfect for a weeknight dinner. This recipe is FODMAP friendly and serves 4 people.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "FODMAP friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rest meat"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic free seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the chopped shiso leaves, garlic free seasoning, tomato paste, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium low and simmer, covered, for 10 minutes.",
+    "Serve hot, garnished with additional shiso leaves if desired.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-kenyan-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-kenyan-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:36:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "hearty",
+    "dishForm": "Skillet"
+  }
+}
