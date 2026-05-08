@@ -1261,6 +1261,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-briny-algerian-lamb-wrap",
+    "title": "Hearty Briny Algerian Lamb Wrap",
+    "tags": [
+      "algerian-cuisine",
+      "gluten-free",
+      "kid-friendly",
+      "lamb-recipes",
+      "weeknight-dinner",
+      "whole30-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-british-almond-flour-fritters",
     "title": "Hearty British Almond Flour Fritters",
     "tags": [

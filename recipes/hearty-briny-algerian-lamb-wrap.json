@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Briny Algerian Lamb Wrap",
+  "description": "A kid-friendly Algerian dish featuring fresh thyme and miso-marinated lamb, wrapped in a corn husk wrap, perfect for a weeknight dinner. This Whole30-friendly recipe is dense and full of flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into thin strips"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb strips to the bowl and toss to coat with the miso marinade.",
+    "Let the lamb marinate for at least 30 minutes.",
+    "Wrap each lamb strip in a corn husk, leaving a small overlap at the seam.",
+    "Place the wrapped lamb strips on a baking sheet lined with parchment paper.",
+    "Bake the lamb for 20-25 minutes, or until cooked through.",
+    "Sprinkle chopped fresh thyme over the lamb before serving.",
+    "Serve the lamb wraps hot, with additional thyme and lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "kid-friendly",
+    "lamb-recipes",
+    "weeknight-dinner",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-briny-algerian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-briny-algerian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:27:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "miso-marinate",
+    "primaryIngredient": "fresh thyme",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Briny",
+    "dishForm": "Wrap"
+  }
+}
