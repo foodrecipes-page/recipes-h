@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Molten Uruguayan Beef Stew",
+  "description": "A rich and flavorful stew featuring caramelized sugar sauce and tender beef, inspired by the earthy flavors of Uruguay",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium high heat",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes",
+    "Remove the beef from the pot and set aside",
+    "Add the onion to the pot and cook until caramelized, about 10 minutes",
+    "Add the garlic to the pot and cook for 1 minute",
+    "Add the brown sugar to the pot and cook for 1 minute, stirring constantly",
+    "Add the beef broth, red wine, tomato paste, oregano, salt, and pepper to the pot",
+    "Return the beef to the pot and bring to a boil",
+    "Cover the pot and transfer to the oven, cooking at 300 degrees for 2 1/2 hours",
+    "Remove the pot from the oven and let cool slightly before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "hearty-stew",
+    "one-pot-meal",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-molten-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:27:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Molten",
+    "dishForm": "Stew"
+  }
+}

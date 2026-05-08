@@ -3787,6 +3787,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-molten-uruguayan-beef-stew",
+    "title": "Hearty Molten Uruguayan Beef Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "hearty-stew",
+      "one-pot-meal",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-monsoon-dutch-gruy-3re-stew",
     "title": "Hearty Monsoon Dutch Gruy\u00132re Stew",
     "tags": [
@@ -4818,6 +4832,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-venezuelan-fish-skewers",
+    "title": "Hearty Smoky Venezuelan Fish Skewers",
+    "tags": [
+      "grilled",
+      "nutty",
+      "pescatarian",
+      "seafood",
+      "smoky",
+      "south-american"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
