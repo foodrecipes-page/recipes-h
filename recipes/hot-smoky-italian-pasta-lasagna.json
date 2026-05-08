@@ -1,0 +1,102 @@
+{
+  "title": "Hot Smoky Italian Pasta Lasagna",
+  "description": "A smoky and fluffy Italian dish featuring hot sauce and yuzu cure, perfect for a crowd, this satvik friendly recipe is a must try. It combines the flavors of Italy with a smoky twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "yuzu cure",
+      "amount": "2 tbsp",
+      "notes": "or substitute with lemon zest"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large bowl, combine the ricotta cheese, hot sauce, yuzu cure, and smoked paprika, and mix well.",
+    "In a separate bowl, combine the marinara sauce and spinach, and mix well.",
+    "In a 9x13 inch baking dish, create a thin layer of the marinara sauce mixture.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the mozzarella cheese.",
+    "Repeat the layers, starting with the marinara sauce mixture, then the noodles, the ricotta cheese mixture, and finally the mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "italian-food",
+    "one-pan",
+    "smoky",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hot-smoky-italian-pasta-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoky-italian-pasta-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:49:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "hotsauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Hot Smoky",
+    "dishForm": "Lasagna"
+  }
+}

@@ -9236,6 +9236,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoky-italian-pasta-lasagna",
+    "title": "Hot Smoky Italian Pasta Lasagna",
+    "tags": [
+      "crowd-pleaser",
+      "italian-food",
+      "one-pan",
+      "smoky",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoky-spanish-kombu-pisto-manchego",
     "title": "Hot Smoky Spanish Kombu Pisto Manchego",
     "tags": [
