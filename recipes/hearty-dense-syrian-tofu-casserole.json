@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Dense Syrian Tofu Casserole",
+  "description": "A rich and flavorful plant-based casserole inspired by Syrian cuisine, featuring fajita seasoning and a crispy en-croute crust. This dish is perfect for a solo dinner or a special occasion.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "torn into pieces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the onion and garlic until softened.",
+    "Add the fajita seasoning to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cubed tofu to the skillet and cook until browned on all sides.",
+    "In a large bowl, combine the cooked tofu mixture, pita bread pieces, vegetable broth, nutritional yeast, salt, and black pepper, and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dense",
+    "fatty",
+    "one-dish",
+    "plant-based",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 70
+  },
+  "slug": "hearty-dense-syrian-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-syrian-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:36:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "en-croute",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tofu",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Casserole"
+  }
+}
