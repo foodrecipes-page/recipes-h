@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Smoky Southern Thai Salt Cod Kao Mun Gai",
+  "description": "A smoky and flavorful Southern Thai dish featuring salt cod and a mirepoix base, perfect for a lazy Sunday. This halal-friendly recipe is a variation of the traditional Kao Mun Gai.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion, carrot, and celery until they are softened.",
+    "Add the garlic and smoked paprika to the pan and cook for 1 minute.",
+    "Add the flaked salt cod to the pan and stir to combine with the mirepoix base.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes.",
+    "Stir in the fish sauce and lime juice.",
+    "Serve the salt cod mixture over the cooked jasmine rice.",
+    "Garnish with chopped cilantro and a wedge of lime."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "halal-friendly",
+    "lazy-sunday",
+    "one-pot",
+    "salt-cod",
+    "smoky",
+    "southern-thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-smoky-southern-thai-salt-cod-kao-mun-gai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-southern-thai-salt-cod-kao-mun-gai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:01:16Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "salt cod",
+    "diet": "halal",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "salt cod",
+    "descriptor": "hearty smoky",
+    "dishForm": "Kao Mun Gai"
+  }
+}
