@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Peruvian Chicken Wrap",
+  "description": "A fresh and chewy Peruvian dish featuring milk chocolate and dashi extract, wrapped in a corn husk, this crowd-pleaser is high in protein and perfect for any meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "milk chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and onions"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together dashi extract, milk chocolate chips, and a pinch of salt.",
+    "Add the chicken to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook in a skillet over medium-high heat until cooked through.",
+    "Warm the corn husks by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning cooked quinoa, roasted vegetables, and chicken onto a corn husk, and topping with feta cheese and cilantro.",
+    "Serve immediately and enjoy.",
+    "Optional: drizzle with additional dashi extract and sprinkle with milk chocolate shavings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "gluten-free",
+    "high-protein",
+    "peruvian-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-peruvian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-peruvian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:27:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "dashi-extract",
+    "primaryIngredient": "milk chocolate",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "high protein",
+    "dishForm": "Wrap"
+  }
+}

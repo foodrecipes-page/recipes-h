@@ -4278,6 +4278,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-peruvian-chicken-wrap",
+    "title": "Hearty Peruvian Chicken Wrap",
+    "tags": [
+      "corn-husk-wrap",
+      "gluten-free",
+      "high-protein",
+      "peruvian-cuisine",
+      "weeknight-meal"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-peruvian-spaghetti-grill",
     "title": "Hearty Peruvian Spaghetti Grill",
     "tags": [
