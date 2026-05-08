@@ -1,0 +1,94 @@
+{
+  "title": "Hot Smoked Norwegian Sea Bass Skewers",
+  "description": "A peppery and tender Norwegian dish featuring sea bass fillets, perfect for a sick day, this recipe is sugar-free friendly and packed with flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "sugar-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian sea bass fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, black pepper, salt, lemon juice, olive oil, and garlic powder.",
+    "Add the sea bass pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated sea bass pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the smoker, close the lid, and smoke for 30 minutes.",
+    "Add the wood chips to the smoker and continue to smoke for an additional 10 minutes.",
+    "Remove the skewers from the smoker and let them rest for 5 minutes.",
+    "Serve the hot smoked sea bass skewers immediately, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "norwegian-cuisine",
+    "pescatarian",
+    "seafood",
+    "smoked",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "hot-smoked-norwegian-sea-bass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-norwegian-sea-bass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:23:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "sea bass",
+    "descriptor": "hot smoked",
+    "dishForm": "Skewers"
+  }
+}

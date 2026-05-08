@@ -1,0 +1,97 @@
+{
+  "title": "Herbal Crumbly Filipino Oysters Bistek",
+  "description": "A flavorful and aromatic Filipino dish featuring oysters, caramelized onions, and a blend of herbal spices, made FODMAP-friendly and crumbly in a bistek form.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 large",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crumbly pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, caramelize the onions over medium heat for 20 minutes.",
+    "Add the garlic-infused oil, lemongrass, thyme, salt, and pepper to the pan and stir for 1 minute.",
+    "Arrange the oysters on a baking sheet lined with parchment paper.",
+    "Spoon the caramelized onion mixture over the oysters.",
+    "Roll out the crumbly pastry dough to a thickness of 1/8 inch.",
+    "Place the pastry dough over the oysters and onion mixture, crimping the edges to seal.",
+    "Bake the bistek in the preheated oven for 15 minutes, or until the pastry is golden brown.",
+    "Remove the bistek from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bistek-style",
+    "crumbly-pastry",
+    "filipino-cuisine",
+    "fodmap-friendly",
+    "herbal-flavors",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "herbal-crumbly-filipino-oysters-bistek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-crumbly-filipino-oysters-bistek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:23:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "oysters",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "oysters",
+    "descriptor": "Herbal Crumbly",
+    "dishForm": "Bistek"
+  }
+}

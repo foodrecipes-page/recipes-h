@@ -7361,6 +7361,21 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-crumbly-filipino-oysters-bistek",
+    "title": "Herbal Crumbly Filipino Oysters Bistek",
+    "tags": [
+      "bistek-style",
+      "crumbly-pastry",
+      "filipino-cuisine",
+      "fodmap-friendly",
+      "herbal-flavors",
+      "seafood-lovers"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-crumbly-indian-prunes-crumble",
     "title": "Herbal Crumbly Indian Prunes Crumble",
     "tags": [],
@@ -9264,6 +9279,21 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-norwegian-sea-bass-skewers",
+    "title": "Hot Smoked Norwegian Sea Bass Skewers",
+    "tags": [
+      "low-carb",
+      "norwegian-cuisine",
+      "pescatarian",
+      "seafood",
+      "smoked",
+      "sugar-free"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
