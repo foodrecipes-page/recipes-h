@@ -3455,6 +3455,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-malaysian-chicken-noodles",
+    "title": "Hearty Malaysian Chicken Noodles",
+    "tags": [
+      "high-protein",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-malaysian-frankfurter-dumplings",
     "title": "Hearty Malaysian Frankfurter Dumplings",
     "tags": [
