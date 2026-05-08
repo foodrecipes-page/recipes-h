@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Springy Argentinian Apple Tagine",
+  "description": "A resinous and springy Argentinian dish featuring apple juice, cooked in a tagine, perfect for a lacto-vegetarian friendly meal. This nostalgic recipe brings together the flavors of Argentina and the warmth of a tagine cook.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "2 cups",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "quince paste",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the cubed butternut squash and cook for 5 minutes, stirring occasionally, until it starts to soften.",
+    "Add the chopped red bell pepper and cook for an additional 2 minutes, stirring occasionally.",
+    "Add the apple juice, quince paste, salt, and black pepper, and stir to combine.",
+    "Add the vegetable broth and bring the mixture to a simmer.",
+    "Cover the tagine and cook over low heat for 20 minutes, or until the squash is tender.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "lacto-vegetarian",
+    "one-pot",
+    "spring-recipes",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-springy-argentinian-apple-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-springy-argentinian-apple-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:02:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "apple juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "apples",
+    "descriptor": "Hearty Springy",
+    "dishForm": "Tagine"
+  }
+}
