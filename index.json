@@ -3050,6 +3050,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-harmonious-syrian-seafood-bisque",
+    "title": "Hearty Harmonious Syrian Seafood Bisque",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "pescatarian",
+      "seafood-lovers",
+      "spicy-food",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-harvest-greek-vegetable-wrap",
     "title": "Hearty Harvest Greek Vegetable Wrap",
     "tags": [
@@ -3673,6 +3688,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-kenyan-sweet-potato-biryani",
+    "title": "Hearty Kenyan Sweet Potato Biryani",
+    "tags": [
+      "gluten-free",
+      "kenyan-cuisine",
+      "one-pan",
+      "paleo-friendly",
+      "sweet-potato",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {

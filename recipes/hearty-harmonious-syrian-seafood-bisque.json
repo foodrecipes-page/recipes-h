@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Harmonious Syrian Seafood Bisque",
+  "description": "A sweet and silky Syrian seafood dish featuring seafood stock and ferment-kimchi, made with ayurvedic-tamasic-friendly ingredients. This bisque is an adventurous and flavorful twist on traditional Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seafood stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and saute until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the cumin and coriander and stir to combine.",
+    "Add the seafood stock, ferment-kimchi, shrimp, and cod fillets to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Use an immersion blender to puree the bisque until smooth.",
+    "Season the bisque with salt and pepper to taste.",
+    "Serve the bisque hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pot",
+    "pescatarian",
+    "seafood-lovers",
+    "spicy-food",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-harmonious-syrian-seafood-bisque",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-harmonious-syrian-seafood-bisque",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:14:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "seafood stock",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "seafood",
+    "descriptor": "Hearty Harmonious",
+    "dishForm": "Bisque"
+  }
+}
