@@ -1,0 +1,100 @@
+{
+  "title": "Honeyed Turkish Lamb Mince Kunafe",
+  "description": "Rich, molten, and romantic Turkish dish featuring lamb mince, a bain-marie, and the crispy goodness of kunefe pastry.",
+  "cuisine": "turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Low-fat feta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "Honey",
+      "amount": "60g"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "100g"
+    },
+    {
+      "name": "Kunefe pastry",
+      "amount": "250g"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "20g"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "0.5g",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25g"
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (400 °F).",
+    "In a large pan, cook the lamb mince until it is browned, breaking it up with a spoon as it cooks.",
+    "Add the honey, walnuts, cardamom powder, salt, and black pepper to the pan and stir to combine.",
+    "Place a sheet of kunefe pastry on a flat surface and brush it with clarified butter.",
+    "Spoon the lamb mixture onto one half of the pastry, leaving a 1 cm border around the edges.",
+    "Sprinkle the feta cheese and pistachios over the lamb mixture.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Brush the top of the pastry with more clarified butter and cut the kunefe into diamond-shaped pieces.",
+    "Place the kunefe on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the kunefe from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "honeyed-turkish-lamb-mince-kunafe",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-turkish-lamb-mince-kunafe",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:05:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "lamb mince",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb Mince",
+    "descriptor": "Honeyed",
+    "dishForm": "Kunafe"
+  }
+}

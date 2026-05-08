@@ -2089,6 +2089,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-flaky-irish-chicken-pie",
+    "title": "Hearty Flaky Irish Chicken Pie",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "high-protein",
+      "irish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-flaky-syrian-orange-flatbread",
     "title": "Hearty Flaky Syrian Orange Flatbread",
     "tags": [
@@ -7465,6 +7479,22 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-turkish-lamb-mince-kunafe",
+    "title": "Honeyed Turkish Lamb Mince Kunafe",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
