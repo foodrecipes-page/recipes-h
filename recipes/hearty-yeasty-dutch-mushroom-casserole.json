@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Yeasty Dutch Mushroom Casserole",
+  "description": "A low-calorie, yeasty Dutch dish featuring dried chillies and shio-cure, perfect for a weeknight dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried mushrooms",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "low-fat cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rehydrate the dried mushrooms by soaking them in hot water for 30 minutes.",
+    "Sauté the chopped onion and minced garlic in a pan until softened.",
+    "Add the crushed dried chillies and shio-cure to the pan and cook for 1 minute.",
+    "Combine the cooked onion mixture, rehydrated mushrooms, yeast extract, and whole wheat pasta in a large bowl.",
+    "In a separate bowl, mix the low-fat cheese, beaten egg whites, salt, and black pepper.",
+    "Add the cheese mixture to the pasta mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "low-calorie",
+    "mushroom-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "hearty-yeasty-dutch-mushroom-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-yeasty-dutch-mushroom-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "shio-cure",
+    "primaryIngredient": "dried chillies",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mushrooms",
+    "descriptor": "hearty yeasty",
+    "dishForm": "Casserole"
+  }
+}
