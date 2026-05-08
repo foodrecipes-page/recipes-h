@@ -1,0 +1,102 @@
+{
+  "title": "Herbal Thai Chicken Skewers",
+  "description": "Rich and snappy Thai dish featuring lime juice and ayurvedic-sattvic-friendly ingredients, perfect for a crowd-pleasing dinner",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "fresh galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine lemongrass, galangal, lime juice, coconut milk, fish sauce, brown sugar, salt, and black pepper, and blend until smooth.",
+    "Place the chicken pieces in a large bowl and pour the marinade over them, tossing to coat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with fresh cilantro or basil.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "summer-recipe",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "herbal-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "lime juice",
+    "diet": "ayurvedic-sattvic",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Herbal",
+    "dishForm": "Skewers"
+  }
+}
