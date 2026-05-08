@@ -1624,6 +1624,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crisp-mexican-chicken-tagine",
+    "title": "Hearty Crisp Mexican Chicken Tagine",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "gluten-free",
+      "mexican-cuisine",
+      "one-pot",
+      "sous-vide"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crisp-portuguese-casabe-paella",
     "title": "Hearty Crisp Portuguese Casabe Paella",
     "tags": [
@@ -3676,6 +3691,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-roasted-jamaican-chicken-roast",
+    "title": "Hearty Roasted Jamaican Chicken Roast",
+    "tags": [
+      "anti-inflammatory",
+      "dairy-free",
+      "gluten-free",
+      "jamaican-cuisine",
+      "roasted-chicken",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {

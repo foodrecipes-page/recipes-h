@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Crisp Mexican Chicken Tagine",
+  "description": "A savory and crisp Mexican dish featuring chicken, Italian seasoning, and a blend of Sonoran flavors, cooked to perfection in a tagine pot using sous-vide techniques, suitable for flexitarian diets.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 165 degrees Fahrenheit.",
+    "Season the chicken pieces with Italian seasoning, cumin, paprika, salt, and black pepper.",
+    "Heat the olive oil in the tagine pot over medium-high heat and sear the chicken until browned on all sides.",
+    "Add the chopped onion and minced garlic to the tagine pot and cook until the onion is translucent.",
+    "Add the diced tomatoes and chicken broth to the tagine pot and stir to combine.",
+    "Place the tagine pot in the sous-vide machine and cook for 2 hours.",
+    "Remove the tagine pot from the sous-vide machine and let it cool slightly.",
+    "Crisp the top of the dish under the broiler for 5 minutes.",
+    "Serve the Hearty Crisp Mexican Chicken Tagine hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "gluten-free",
+    "mexican-cuisine",
+    "one-pot",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hearty-crisp-mexican-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crisp-mexican-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:23:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "italian seasoning",
+    "diet": "flexitarian",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Crisp",
+    "dishForm": "Tagine"
+  }
+}
