@@ -1994,6 +1994,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-croatian-mascarpone-pilaf",
+    "title": "Hearty Croatian Mascarpone Pilaf",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "mascarpone",
+      "one-pot",
+      "spherification",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-croatian-meat-stew",
     "title": "Hearty Croatian Meat Stew",
     "tags": [
@@ -3327,6 +3342,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-herbal-portuguese-rainbow-trout-stew",
+    "title": "Hearty Herbal Portuguese Rainbow Trout Stew",
+    "tags": [
+      "comfort-food",
+      "fish-based",
+      "gluten-free",
+      "herbal",
+      "one-pot",
+      "portuguese-inspired"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
