@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Syrian Lamb Pie",
+  "description": "A traditional Syrian dish featuring shortcrust pastry and flavorful lamb, this pie is a hearty and adventurous meal option. It is also FODMAP-friendly and made with temper to enhance the flavor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and diced"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "temper",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and cook the onion until it is translucent.",
+    "Add the garlic, cumin, paprika, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the lamb to the pan and cook until it is browned on all sides.",
+    "Roll out the shortcrust pastry and place it in a pie dish.",
+    "Fill the pastry with the lamb mixture and brush the edges with temper.",
+    "Roll out the remaining pastry and use it to cover the pie, crimping the edges to seal.",
+    "Cut a few slits in the top of the pie to allow steam to escape.",
+    "Bake the pie in the preheated oven for 45 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "hearty-meal",
+    "lamb-based",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "hearty-syrian-lamb-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-syrian-lamb-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:52:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty pillowy",
+    "dishForm": "Pie"
+  }
+}

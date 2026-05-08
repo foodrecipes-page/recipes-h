@@ -4534,6 +4534,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-syrian-lamb-pie",
+    "title": "Hearty Syrian Lamb Pie",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "hearty-meal",
+      "lamb-based",
+      "middle-eastern"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-syrian-semolina-pilaf",
     "title": "Hearty Syrian Semolina Pilaf",
     "tags": [
