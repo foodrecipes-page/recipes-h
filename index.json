@@ -1254,6 +1254,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-algerian-fish-tagine",
+    "title": "Hearty Algerian Fish Tagine",
+    "tags": [
+      "fish-based",
+      "gluten-free",
+      "low-carb",
+      "north-african",
+      "one-pan"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-algerian-lemongrass-tagine",
     "title": "Hearty Algerian Lemongrass Tagine",
     "tags": [
