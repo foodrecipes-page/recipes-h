@@ -4895,6 +4895,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-uruguayan-chickpea-stew",
+    "title": "Hearty Uruguayan Chickpea Stew",
+    "tags": [
+      "high-protein",
+      "kosher",
+      "one-pot",
+      "uruguayan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-vegetarian-tofu-wraps",
     "title": "Hearty Vegetarian Tofu Wraps",
     "tags": [
