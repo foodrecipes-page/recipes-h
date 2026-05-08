@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Egyptian Lamb Skillet",
+  "description": "A flavorful Egyptian dish featuring lamb, digestive biscuits, and a blend of spices, perfect for a brunch gathering, with a grassy and cheese-pull twist, and a low-carb friendly option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "digestive biscuits",
+      "amount": "6 biscuits",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin, coriander, and red pepper flakes and cook for 1 minute.",
+    "Add the tomato paste and cook for 2 minutes, stirring constantly.",
+    "Add 1/4 cup of water to the skillet and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the crushed digestive biscuits and cook for an additional 2 minutes.",
+    "Top the lamb mixture with crumbly feta cheese and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cheese-pull",
+    "lamb-recipes",
+    "low-carb",
+    "middle-eastern",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "hearty-egyptian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-egyptian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:16:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Skillet"
+  }
+}
