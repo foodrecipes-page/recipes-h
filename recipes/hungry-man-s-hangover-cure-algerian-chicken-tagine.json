@@ -1,0 +1,124 @@
+{
+  "title": "Hungry Man's Hangover Cure Algerian Chicken Tagine",
+  "description": "A hearty, spicy Algerian stew made with chicken, preserved lemons, and aromatic spices to cure even the worst hangover. This dish is smoky, creamy, and utterly delicious.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "1 medium",
+      "notes": "juice and zest"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the cumin, coriander, cayenne pepper, and smoked paprika and cook for 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chopped preserved lemon, chicken broth, and heavy cream to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake the tagine in the preheated oven for 25-30 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Remove the pot from the oven and stir in the chopped unwaxed lime zest and juice.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cream-based",
+    "hangover-cure",
+    "high-protein",
+    "one-pot",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 52
+  },
+  "slug": "hungry-man-s-hangover-cure-algerian-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hungry-man-s-hangover-cure-algerian-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:34:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Hungry Man's Hangover Cure",
+    "dishForm": "Tagine"
+  }
+}
