@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Fermented Venezuelan Mushroom Empanadas",
+  "description": "A savory fusion of funky fermented dough and a rich mushroom sofrito base that adheres to sattvic principles without onions or garlic.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "Vegetarian",
+    "Sattvic",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pre-cooked corn meal",
+      "amount": "2 cups",
+      "notes": "Masarepa brand"
+    },
+    {
+      "name": "Probiotic yogurt whey",
+      "amount": "0.5 cup",
+      "notes": "Used to initiate dough fermentation"
+    },
+    {
+      "name": "King Oyster mushrooms",
+      "amount": "1 lb",
+      "notes": "Finely diced for a meaty texture"
+    },
+    {
+      "name": "Ghee",
+      "amount": "3 tbsp",
+      "notes": "For sautéing and flavor"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "2 tbsp",
+      "notes": "Sattvic-friendly mother sauce base"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "Grated finely"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": "For color and anti-inflammatory benefits"
+    },
+    {
+      "name": "Himalayan salt",
+      "amount": "1.5 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "For shallow frying"
+    }
+  ],
+  "instructions": [
+    "Combine corn meal, whey, salt, and warm water in a large bowl to form a soft dough.",
+    "Cover the dough and let it ferment at room temperature for six hours to develop a funky tang.",
+    "Heat ghee in a skillet and sauté the mushrooms with ginger and turmeric until browned.",
+    "Stir in the coconut aminos to create a rich glaze and simmer until the liquid evaporates.",
+    "Divide the fermented dough into ten equal balls and flatten them into thin circles on plastic wrap.",
+    "Place a spoonful of the mushroom mixture in the center of each dough circle.",
+    "Fold the dough over the filling and seal the edges firmly using a fork or a bowl edge.",
+    "Heat the vegetable oil in a deep pan to three hundred fifty degrees Fahrenheit.",
+    "Fry the empanadas for four minutes per side until they are golden brown and crispy.",
+    "Drain the empanadas on paper towels and serve warm for the best chewy texture."
+  ],
+  "prepTimeMin": 380,
+  "cookTimeMin": 20,
+  "totalTimeMin": 400,
+  "servings": 5,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "festive-dish",
+    "gluten-free",
+    "mushrooms",
+    "sattvic",
+    "venezuelan-style"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 52,
+    "fat": 22
+  },
+  "slug": "hearty-fermented-venezuelan-mushroom-empanadas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fermented-venezuelan-mushroom-empanadas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T08:49:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "mushroom",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Hearty Fermented",
+    "dishForm": "Empanadas"
+  }
+}
