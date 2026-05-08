@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Russian Beef Pilaf",
+  "description": "A cultured and silky post-workout Russian dish featuring ground pistachios, this ayurvedic-sattvic-friendly pilaf is cooked to perfection in an iron teppan, utilizing mushimono-steam for a moist and flavorful result.",
+  "cuisine": "Russian",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "long grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat and add the ground beef, cooking until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion, grated carrots, and minced garlic to the teppan and cook until the vegetables are tender.",
+    "Stir in the ground pistachios, salt, and black pepper, and cook for 1 minute.",
+    "Add the long grain rice to the teppan, stirring to combine with the beef and vegetable mixture, and cook for 2 minutes.",
+    "Add the beef broth to the teppan, bringing the mixture to a boil.",
+    "Reduce the heat to low, cover the teppan, and steam the pilaf using the mushimono-steam method for 20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Remove the teppan from the heat and let the pilaf rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "russian-cuisine",
+    "sattvic-diet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ground pistachios",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "healthy hearty",
+    "dishForm": "Pilaf"
+  }
+}
