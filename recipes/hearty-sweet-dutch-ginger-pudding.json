@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Sweet Dutch Ginger Pudding",
+  "description": "A sweet and light Dutch dessert featuring ginger paste, cooked in a copper pot with binchotan charcoal for a unique flavor, low sodium friendly",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "low fat"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "freshly made"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking flavor"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "In a copper pot, combine milk, ginger paste, and sugar, and heat over medium heat, stirring until sugar dissolves",
+    "In a separate bowl, whisk together eggs and cornstarch",
+    "Gradually add the egg mixture to the milk mixture, whisking constantly",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes",
+    "Remove the pot from the heat and stir in melted butter and vanilla extract",
+    "Let the pudding cool to room temperature",
+    "Cover the pudding with plastic wrap, pressing the wrap directly onto the surface",
+    "Refrigerate the pudding for at least 2 hours",
+    "Just before serving, place the binchotan charcoal on a heatproof surface and light it, then place the copper pot over the charcoal to infuse the pudding with a smoky flavor"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "copper-pot",
+    "dutch-dessert",
+    "ginger-paste",
+    "low-sodium",
+    "smoky-flavor",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "hearty-sweet-dutch-ginger-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sweet-dutch-ginger-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "ginger paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "ginger",
+    "descriptor": "hearty sweet",
+    "dishForm": "Pudding"
+  }
+}
