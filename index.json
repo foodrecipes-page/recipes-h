@@ -1635,6 +1635,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-british-sausages-toad-in-the-hole",
+    "title": "Hearty British Sausages Toad In The Hole",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-burgundy-french-beef-skillet",
     "title": "Hearty Burgundy French Beef Skillet",
     "tags": [
