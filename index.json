@@ -4821,6 +4821,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-sour-syrian-leek-wrap",
+    "title": "Hearty Sour Syrian Leek Wrap",
+    "tags": [
+      "lacto-vegetarian",
+      "lazy-sunday",
+      "leek-recipes",
+      "middle-eastern",
+      "syrian-cuisine",
+      "wrap-recipes"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-south-chickpea-flour-dhal",
     "title": "Hearty South Chickpea Flour Dhal",
     "tags": [
@@ -4922,6 +4937,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-brazilian-chicken-wrap",
+    "title": "Hearty Spicy Brazilian Chicken Wrap",
+    "tags": [
+      "brazilian-inspired",
+      "cajun-spiced",
+      "gluten-free",
+      "low-carb",
+      "lunch-box",
+      "meal-prep"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

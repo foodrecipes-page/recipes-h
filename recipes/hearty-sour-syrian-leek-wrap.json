@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Sour Syrian Leek Wrap",
+  "description": "A sour and aerated Syrian dish featuring leek, perfect for a lazy Sunday, this lacto-vegetarian friendly wrap is a delicious and satisfying meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "2 medium",
+      "notes": "cleaned and chopped"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped leeks, sumac, and olive oil.",
+    "Spread the leek mixture on a baking sheet and roast for 20 minutes.",
+    "In a small bowl, mix together the minced garlic and yogurt.",
+    "Warm the pita bread in the oven for 2 minutes.",
+    "Assemble the wraps by spreading the garlic yogurt on each piece of pita bread, then topping with roasted leeks, sliced cucumber, and chopped mint.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional sumac and mint if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "leek-recipes",
+    "middle-eastern",
+    "syrian-cuisine",
+    "wrap-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-sour-syrian-leek-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sour-syrian-leek-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:10:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "leek",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "leek",
+    "descriptor": "hearty sour",
+    "dishForm": "Wrap"
+  }
+}

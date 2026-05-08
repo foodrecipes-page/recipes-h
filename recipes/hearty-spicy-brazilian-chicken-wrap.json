@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Spicy Brazilian Chicken Wrap",
+  "description": "A funky and velvety meal prep Brazilian dish featuring Cajun spices and low carb friendly ingredients, inspired by ssam wraps.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Cajun seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "low carb tortilla",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together chicken breast, Cajun seasoning, and olive oil.",
+    "Spread the chicken mixture on a baking sheet and bake for 20 minutes.",
+    "While the chicken is cooking, heat a large skillet over medium high heat and saute the sliced red bell pepper and onion until tender.",
+    "Warm the low carb tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by slicing the cooked chicken and adding it to the tortilla along with the sauteed pepper and onion, shredded cheese, sour cream, and chopped cilantro.",
+    "Serve immediately and store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Reheat the wraps in the microwave for 30 seconds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "cajun-spiced",
+    "gluten-free",
+    "low-carb",
+    "lunch-box",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-spicy-brazilian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-brazilian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:10:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "cajun",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty spicy",
+    "dishForm": "Wrap"
+  }
+}
