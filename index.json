@@ -4074,6 +4074,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-kenyan-couscous-pilaf",
+    "title": "Hearty Kenyan Couscous Pilaf",
+    "tags": [
+      "african-cuisine",
+      "flexitarian",
+      "healthy",
+      "mason-jar",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-kenyan-flaxseed-bake",
     "title": "Hearty Kenyan Flaxseed Bake",
     "tags": [

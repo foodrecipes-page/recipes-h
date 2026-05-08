@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Kenyan Couscous Pilaf",
+  "description": "A traditional Kenyan dish with a twist, this pilaf is made with couscous, poached vegetables, and a hint of bitter flavor, served in a mason jar, it is a nostalgic and flexitarian-friendly meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil and add the couscous, covering the pot with a lid and reducing the heat to low.",
+    "Let the couscous cook for 10 minutes, then fluff it with a fork and set it aside.",
+    "In a separate pot, bring the vegetable broth to a boil and add the chopped carrots, zucchini, red bell pepper, and onion.",
+    "Reduce the heat to medium and let the vegetables poach for 10 minutes, or until they are tender.",
+    "Add the minced garlic, chopped bitter melon, salt, and black pepper to the pot with the vegetables and stir to combine.",
+    "To assemble the pilaf, add a layer of couscous to the bottom of a mason jar, followed by a layer of the poached vegetables and their broth.",
+    "Repeat the layers one more time, ending with a layer of couscous on top.",
+    "Cover the mason jar with a lid and let the pilaf cool to room temperature.",
+    "Refrigerate the pilaf for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "flexitarian",
+    "healthy",
+    "mason-jar",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-kenyan-couscous-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-kenyan-couscous-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:49:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "couscous",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "couscous",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Pilaf"
+  }
+}
