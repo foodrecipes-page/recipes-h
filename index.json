@@ -2859,6 +2859,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-grassy-ukrainian-shrimp-fritters",
+    "title": "Hearty Grassy Ukrainian Shrimp Fritters",
+    "tags": [
+      "appetizer",
+      "deep-fried",
+      "gluten-free",
+      "seafood",
+      "snack",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-greek-celeriac-skillet",
     "title": "Hearty Greek Celeriac Skillet",
     "tags": [
@@ -2988,6 +3003,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-harmonious-brazilian-orange-pasta",
+    "title": "Hearty Harmonious Brazilian Orange Pasta",
+    "tags": [
+      "brazilian-cuisine",
+      "easy-dinner",
+      "gluten-free",
+      "healthy-meal",
+      "orange-sauce",
+      "pasta-dish"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Grassy Ukrainian Shrimp Fritters",
+  "description": "A traditional Ukrainian dish featuring saeujeot shrimp paste, these fritters are deep fried to a crispy golden brown and served as a snack or appetizer. The grassy flavor comes from the addition of fresh parsley and dill.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "saeujeot shrimp paste",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented shrimp paste"
+    },
+    {
+      "name": "gluten-free all purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the gluten-free flour, eggs, saeujeot shrimp paste, salt, and black pepper until well combined.",
+    "Add the chopped parsley, dill, onion, and garlic to the bowl and stir until the mixture is evenly distributed.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place the patties in the hot oil and deep fry for 3-4 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy.",
+    "Garnish with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "deep-fried",
+    "gluten-free",
+    "seafood",
+    "snack",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "hearty-grassy-ukrainian-shrimp-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grassy-ukrainian-shrimp-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Hearty Grassy",
+    "dishForm": "Fritters"
+  }
+}

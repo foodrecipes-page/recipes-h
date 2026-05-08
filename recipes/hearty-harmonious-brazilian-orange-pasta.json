@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Harmonious Brazilian Orange Pasta",
+  "description": "A pungent and flaky Brazilian dish featuring orange, pasta water emulsion, and gluten free friendly ingredients, this recipe is perfect for a energizing dinner",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten free pasta",
+      "amount": "8 oz",
+      "notes": "such as brown rice pasta or quinoa pasta"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the gluten free pasta according to package instructions",
+    "In a blender or food processor, combine orange juice, olive oil, garlic, and ginger, and blend until smooth",
+    "In a large skillet, heat the blended orange mixture over medium heat",
+    "Add the cooked pasta to the skillet and toss to combine with the orange sauce",
+    "Season with salt and black pepper to taste",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese and chopped fresh cilantro",
+    "Serve immediately and enjoy",
+    "Garnish with additional cilantro if desired",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-dinner",
+    "gluten-free",
+    "healthy-meal",
+    "orange-sauce",
+    "pasta-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-harmonious-brazilian-orange-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-harmonious-brazilian-orange-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:06:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "orange",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "orange",
+    "descriptor": "Hearty Harmonious",
+    "dishForm": "Pasta"
+  }
+}
