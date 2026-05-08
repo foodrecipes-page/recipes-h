@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Spicy Jamaican Chicken Fried Rice",
+  "description": "A peppery and silky Jamaican dish featuring sunflower oil, perfect for a midnight craving, this low-carb-friendly recipe is a twist on traditional fried rice, incorporating Jamaican spices and flavors.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sunflower oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped scotch bonnet pepper and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the jamaican seasoning, salt, and black pepper, and cook for 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "fried-rice",
+    "jamaican-cuisine",
+    "low-carb",
+    "one-pan-meal",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-spicy-jamaican-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-jamaican-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:37:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sunflower oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty spicy",
+    "dishForm": "Fried-Rice"
+  }
+}

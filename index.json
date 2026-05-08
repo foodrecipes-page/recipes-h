@@ -4572,6 +4572,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spicy-jamaican-chicken-fried-rice",
+    "title": "Hearty Spicy Jamaican Chicken Fried Rice",
+    "tags": [
+      "chicken-recipes",
+      "fried-rice",
+      "jamaican-cuisine",
+      "low-carb",
+      "one-pan-meal",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spicy-middle-eastern-bread-fattoush",
     "title": "Hearty Spicy Middle Eastern Bread Fattoush",
     "tags": [
