@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Bitter Irish Lamb Skillet",
+  "description": "A low-carb friendly Irish dish featuring lamb, chives, and bitter flavors, perfect for a dinner show-off, this recipe is sure to shatter expectations with its rich flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter ale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the bitter ale, salt, and black pepper, and stir to combine.",
+    "Transfer the skillet to the preheated broiler and cook for 10 minutes, or until the lamb is cooked to desired doneness.",
+    "Remove the skillet from the oven and stir in the chopped chives.",
+    "Serve the lamb and sauce hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "hearty-meals",
+    "irish-food",
+    "lamb-recipes",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-bitter-irish-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-bitter-irish-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:47:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "chives",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Bitter",
+    "dishForm": "Skillet"
+  }
+}
