@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Canadian Chicken Skewers",
+  "description": "A malty and juicy Canadian dish featuring coriander seeds and a sweet glaze, perfect for a monsoon evening, this recipe is gluten-free friendly and serves as a great dinner option.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coriander seeds, honey, apple cider vinegar, malt syrup, garlic powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the chicken skewers for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "While the chicken is cooking, prepare the glaze by whisking together malt syrup and honey in a small bowl.",
+    "During the last 2 minutes of cooking, brush the glaze over the chicken skewers.",
+    "Remove the skewers from the grill and let them rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "grilled-chicken",
+    "malty-flavors",
+    "monsoon-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "hearty-canadian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-canadian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:52:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "coriander seeds",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty",
+    "dishForm": "Skewers"
+  }
+}

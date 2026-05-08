@@ -1486,6 +1486,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-canadian-chicken-skewers",
+    "title": "Hearty Canadian Chicken Skewers",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "grilled-chicken",
+      "malty-flavors",
+      "monsoon-recipes"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-canadian-lentils-lasagna",
     "title": "Hearty Canadian Lentil Lasagna",
     "tags": [
@@ -3714,6 +3728,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-mustardy-polish-sirloin-steak-kebabs",
+    "title": "Hearty Mustardy Polish Sirloin Steak Kebabs",
+    "tags": [
+      "high-protein",
+      "macrobiotic-friendly",
+      "one-pan",
+      "romantic-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {

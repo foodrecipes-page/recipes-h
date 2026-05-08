@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Mustardy Polish Sirloin Steak Kebabs",
+  "description": "A romantic Polish dish featuring sirloin steak tips, this recipe combines the richness of mustard with the chewiness of sirloin, perfect for a special dinner, and is macrobiotic-friendly as it focuses on whole, natural ingredients and avoids processed foods.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, ensuring it reaches a safe temperature of at least 165 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mustard, olive oil, garlic, salt, and black pepper to create a marinade.",
+    "Add the sirloin steak tips to the marinade and toss to coat, letting it sit for at least 10 minutes to allow the flavors to penetrate the meat.",
+    "Thread the marinated steak tips onto skewers, leaving a small space between each piece to ensure even cooking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they reach an internal temperature of 145 degrees Fahrenheit for medium-rare.",
+    "Let the kebabs rest for 5 minutes before serving to allow the juices to redistribute and the meat to retain its tenderness.",
+    "Serve the kebabs over cooked brown rice, garnished with chopped fresh parsley for a pop of color and freshness.",
+    "Boil 2 cups of water and blanch the kebabs for 30 seconds to add moisture and tenderness to the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "romantic-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-mustardy-polish-sirloin-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mustardy-polish-sirloin-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "hearty mustardy",
+    "dishForm": "Kebabs"
+  }
+}
