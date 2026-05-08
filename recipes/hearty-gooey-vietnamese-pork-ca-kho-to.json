@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Gooey Vietnamese Pork Ca Kho To",
+  "description": "A peppery and comforting Vietnamese dish featuring pork, wood-fired-baked to perfection, with anti-inflammatory properties.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, coconut sugar, black pepper, garlic, and ginger.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the pork from the marinade and place it in a single layer on a baking sheet.",
+    "Smoke the pork in the wood-fired oven for 2 hours, using the wood chips for flavor.",
+    "After 2 hours, increase the oven temperature to 400 degrees Fahrenheit and bake for an additional 30 minutes.",
+    "Remove the pork from the oven and let it rest for 10 minutes before serving.",
+    "Serve the pork hot, garnished with chopped fresh herbs and steamed vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "pork-recipes",
+    "vietnamese-cuisine",
+    "wood-fired-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "hearty-gooey-vietnamese-pork-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-gooey-vietnamese-pork-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pork",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "hearty gooey",
+    "dishForm": "Ca Kho To"
+  }
+}
