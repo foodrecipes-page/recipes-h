@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Rich Turkish Beans Kuru Fasulye",
+  "description": "A rich and comforting Turkish dish featuring beans in a flavorful sauce, perfect for a hangover cure or a hearty meal. This version is nut-free and uses almond essence for added depth.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "such as cannellini or navy beans"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot with 4 cups of water.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the beans for 45 minutes, or until they are tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until it is softened and translucent.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes, until fragrant.",
+    "Stir in the tomato paste and cook for 1-2 minutes, until it is darkened and fragrant.",
+    "Add the cooked beans, almond essence, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10-15 minutes, until the flavors have melded together and the sauce has thickened.",
+    "Serve the Turkish beans hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "one-pot",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-rich-turkish-beans-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-rich-turkish-beans-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:28:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "almond essence",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "hearty rich",
+    "dishForm": "Kuru Fasulye"
+  }
+}
