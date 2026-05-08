@@ -1,0 +1,98 @@
+{
+  "title": "Hot Crispy Spanish Chicken Croquettes",
+  "description": "A festive Spanish dish featuring crispy fried chicken and jammy brown sugar flavors, perfect for a low-carb friendly snack or appetizer. This double-fry method ensures a crunchy exterior and juicy interior.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together diced chicken, brown sugar, paprika, garlic powder, salt, and black pepper.",
+    "In a separate bowl, mix together almond flour and a pinch of salt.",
+    "Dip each chicken piece into the beaten eggs and then coat in the almond flour mixture.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat to 350 degrees.",
+    "Fry the chicken pieces in batches until golden brown, about 3-4 minutes per side.",
+    "Using a slotted spoon, remove the fried chicken from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Increase the oil temperature to 375 degrees and fry the chicken pieces again in batches until crispy and golden brown, about 2-3 minutes per side.",
+    "Remove the croquettes from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the hot crispy Spanish chicken croquettes immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizers",
+    "chicken-recipes",
+    "gluten-free",
+    "low-carb",
+    "snacks",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "hot-crispy-spanish-chicken-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-crispy-spanish-chicken-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:17:49Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "brown sugar",
+    "diet": "low-carb",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "hot crispy",
+    "dishForm": "Croquettes"
+  }
+}
