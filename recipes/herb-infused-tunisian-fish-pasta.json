@@ -1,0 +1,94 @@
+{
+  "title": "Herb Infused Tunisian Fish Pasta",
+  "description": "A charred and shattering Tunisian dish featuring sashimi-cut fish, tagliatelle, and a blend of herbs, all paleo-friendly and served in a banana leaf vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sashimi-cut fish",
+      "amount": "1 lb",
+      "notes": "such as tuna or salmon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a blender, combine parsley, cilantro, garlic, lemon juice, and olive oil to make the herb infusion.",
+    "Season the sashimi-cut fish with salt and pepper, then brush with the herb infusion.",
+    "Grill the fish for 2-3 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Cook the tagliatelle according to the package instructions, then set aside.",
+    "To assemble the dish, place a portion of tagliatelle on a banana leaf, then top with a piece of grilled fish.",
+    "Drizzle the remaining herb infusion over the top of the fish and pasta.",
+    "Serve immediately, garnished with additional parsley and cilantro if desired.",
+    "To add a charred and shattering element, grill the banana leaf for an additional 30 seconds to 1 minute, or until it is slightly charred and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf-recipes",
+    "fish-recipes",
+    "grilled-fish",
+    "herb-infused",
+    "paleo-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "herb-infused-tunisian-fish-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-tunisian-fish-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "tagliatelle",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "herb infused",
+    "dishForm": "Pasta"
+  }
+}
