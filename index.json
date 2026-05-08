@@ -5103,6 +5103,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-russian-beef-stew",
+    "title": "Hearty Russian Beef Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-russian-sweet-potato-parfait",
     "title": "Hearty Russian Sweet Potato Parfait",
     "tags": [

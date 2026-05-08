@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Russian Beef Stew",
+  "description": "A traditional Russian dish featuring feather blade beef, perfect for a lazy Sunday, with a bitter and aerated flavor profile, cooked in a kazan cauldron.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1.5 pounds",
+      "notes": "brine-dried"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kazan cauldron over medium heat.",
+    "Add chopped onions and cook until they are softened.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the brine-dried feather blade beef and cook until it is browned on all sides.",
+    "Add chopped carrots and potatoes, beef broth, black pepper, and dried thyme.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2.5 hours.",
+    "Season the stew with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 29
+  },
+  "slug": "hearty-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:12:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "feather blade beef",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "hearty braised",
+    "dishForm": "Stew"
+  }
+}
