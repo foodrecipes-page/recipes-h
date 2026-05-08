@@ -3059,6 +3059,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-korean-deodeok-root-wrap",
+    "title": "Hearty Korean Deodeok Root Wrap",
+    "tags": [
+      "dairy-free",
+      "easy-lunch",
+      "healthy-snack",
+      "korean-cuisine",
+      "meal-prep",
+      "vegan-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-korean-rice-fried-rice",
     "title": "Hearty Korean Rice Fried Rice",
     "tags": [
@@ -4024,6 +4039,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 16,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-tunisian-sausages-skillet",
+    "title": "Hearty Smoky Tunisian Sausages Skillet",
+    "tags": [
+      "dairy-free",
+      "one-pan",
+      "sausages",
+      "smoky",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

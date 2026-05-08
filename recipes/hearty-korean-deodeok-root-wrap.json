@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Korean Deodeok Root Wrap",
+  "description": "A fermented and cheesy meal prep dish featuring deodeok root and ssam wrap, friendly to dairy free diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "vegan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochujang, soy sauce, and rice vinegar.",
+    "Add the sliced deodeok root to the bowl and toss to coat with the sauce.",
+    "Spread the ssam wrap sheets on a flat surface.",
+    "Divide the marinated deodeok root among the ssam wrap sheets, leaving a 1 inch border around the edges.",
+    "Sprinkle shredded vegan cheese over the deodeok root.",
+    "Drizzle sesame oil over the cheese and sprinkle with toasted sesame seeds.",
+    "Top with chopped scallions.",
+    "Fold the bottom edge of the ssam wrap over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Place the wraps on a baking sheet and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-lunch",
+    "healthy-snack",
+    "korean-cuisine",
+    "meal-prep",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-korean-deodeok-root-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-korean-deodeok-root-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "deodeok-root",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Hearty",
+    "dishForm": "Wrap"
+  }
+}
