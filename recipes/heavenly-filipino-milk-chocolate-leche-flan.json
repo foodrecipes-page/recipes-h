@@ -1,0 +1,95 @@
+{
+  "title": "Heavenly Filipino Milk Chocolate Leche Flan",
+  "description": "A light and romantic Filipino dessert featuring milk chocolate and a hint of umami from nuka-pickle, made plant-based-friendly, in the form of a creamy leche flan.",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "1 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "nuka-pickle brine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine the coconut cream, maple syrup, vanilla extract, and salt in a blender and blend until smooth.",
+    "Melt the milk chocolate in a double boiler and whisk until smooth.",
+    "Add the nuka-pickle brine and melted milk chocolate to the coconut cream mixture and blend until well combined.",
+    "Add the agar agar powder to the mixture and blend until dissolved.",
+    "Pour the mixture into 6 ramekins or small cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 45 minutes or until set.",
+    "Remove from the oven and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "filipino-dessert",
+    "leche-flan",
+    "milk-chocolate",
+    "nuka-pickle",
+    "plant-based",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "heavenly-filipino-milk-chocolate-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-filipino-milk-chocolate-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:20:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "milk chocolate",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "Heavenly",
+    "dishForm": "Leche Flan"
+  }
+}
