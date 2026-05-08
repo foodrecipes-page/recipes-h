@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Charred French Asparagus Gratin",
+  "description": "A charred, shaggy, romantic French dish featuring asparagus and bonito shave, perfect for a dairy-free friendly meal.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh, trimmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried, shaved"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "dairy-free cheese substitute"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the asparagus with olive oil, salt, and black pepper until the asparagus is evenly coated.",
+    "Spread the asparagus out in a single layer on a baking sheet and roast for 12 minutes, or until slightly charred.",
+    "While the asparagus is roasting, combine the bonito flakes, garlic, and lemon juice in a small bowl.",
+    "After the asparagus has roasted for 12 minutes, remove it from the oven and sprinkle the bonito flake mixture evenly over the top.",
+    "Return the asparagus to the oven and continue roasting for an additional 2 minutes, or until the bonito flakes are crispy and fragrant.",
+    "Remove the asparagus from the oven and sprinkle with nutritional yeast and chopped parsley.",
+    "Serve the asparagus hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "bonito-flakes",
+    "dairy-free",
+    "french-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "hearty-charred-french-asparagus-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-charred-french-asparagus-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "asparagus",
+    "diet": "dairy-free",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "asparagus",
+    "descriptor": "hearty charred",
+    "dishForm": "Gratin"
+  }
+}
