@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Rich Greek Lamb Stew",
+  "description": "A rich and tender one-pot Greek dish featuring lamb, rich flavors, and a hearty serving of comfort food, made with lard for added depth and fold in fresh herbs for a dash of freshness.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it is lightly browned, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Stir in the dried oregano, tomato paste, red wine, and chicken broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the browned lamb to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2 hours, or until the lamb is tender.",
+    "Stir in the chopped parsley, salt, and black pepper.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "hearty-stews",
+    "lamb-recipes",
+    "one-pot",
+    "rich-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "hearty-rich-greek-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-rich-greek-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:46:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "lard",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Rich",
+    "dishForm": "Stew"
+  }
+}
