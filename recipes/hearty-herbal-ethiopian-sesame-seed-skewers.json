@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Herbal Ethiopian Sesame Seed Skewers",
+  "description": "A flavorful and visually stunning Ethiopian dish featuring sesame seeds, perfect for special occasions, this recipe combines floral and herbal notes with a sweet and tangy glassy jelly, all on a gluten-free friendly skewer.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "1 cup",
+      "notes": "black or white seeds work well"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "rose petals",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "for drying"
+    },
+    {
+      "name": "jelly",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together sesame seeds, lemongrass, rose petals, garlic, and ginger.",
+    "Thread the mixture onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until lightly toasted.",
+    "While the skewers are baking, heat the jelly in a small saucepan over low heat until melted and smooth.",
+    "Remove the skewers from the oven and let cool for a few minutes.",
+    "Dip each skewer into the melted jelly, coating completely, then place on a wire rack to set.",
+    "Once the jelly is set, serve the skewers immediately, garnished with additional rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "floral",
+    "glassy-jelly",
+    "gluten-free",
+    "herbal",
+    "sesame-seed",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-herbal-ethiopian-sesame-seed-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-ethiopian-sesame-seed-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:16:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "sesame seed",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sesame seed",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Skewers"
+  }
+}
