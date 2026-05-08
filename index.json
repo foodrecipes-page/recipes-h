@@ -2785,6 +2785,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-hot-irish-beef-stew",
+    "title": "Hearty Hot Irish Beef Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "irish-cuisine",
+      "low-sodium",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 120,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-hungover-tunisian-goose-tagine",
     "title": "Hearty Hungover Tunisian Goose Tagine",
     "tags": [
