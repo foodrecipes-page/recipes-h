@@ -2616,6 +2616,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-ethiopian-chicken-wot-with-egg",
+    "title": "hearty ethiopian chicken wot with egg",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-ethiopian-clams-bisque",
     "title": "Hearty Ethiopian Clams Bisque",
     "tags": [
@@ -7950,6 +7964,22 @@
       "wrap"
     ],
     "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "herbaceous-grassy-indian-paneer-paneer-tikka",
+    "title": "Herbaceous Grassy Indian Paneer Tikka",
+    "tags": [
+      "bain-marie",
+      "crunchy",
+      "gluten-free",
+      "grassy",
+      "indian-cuisine",
+      "keto-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 40,
     "shard": "h"
   },

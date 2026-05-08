@@ -1,0 +1,106 @@
+{
+  "title": "Herbaceous Grassy Indian Paneer Tikka",
+  "description": "A keto-friendly Indian dish featuring paneer tikka with a grassy and crunchy texture, infused with the richness of black treacle, and served in a unique lazy-susan-spinner vessel using a bain-marie cooking method.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into bite-sized cubes"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit using a bain-marie cooking method to ensure even heating.",
+    "In a large bowl, whisk together ghee, lemon juice, garam masala, cumin powder, coriander powder, and salt.",
+    "Add the paneer cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated paneer cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the paneer is baking, mix together black treacle, chopped cilantro, and chopped mint in a small bowl.",
+    "After 15 minutes, brush the black treacle mixture evenly onto the paneer cubes.",
+    "Return the paneer to the oven and bake for an additional 5 minutes, or until the cubes are lightly browned.",
+    "Remove the paneer from the oven and let it cool for a few minutes.",
+    "Serve the herbaceous grassy Indian paneer tikka in a lazy-susan-spinner vessel, garnished with additional cilantro and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "crunchy",
+    "gluten-free",
+    "grassy",
+    "indian-cuisine",
+    "keto-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "herbaceous-grassy-indian-paneer-paneer-tikka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-grassy-indian-paneer-paneer-tikka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "black treacle",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Herbaceous Grassy",
+    "dishForm": "Paneer Tikka"
+  }
+}
