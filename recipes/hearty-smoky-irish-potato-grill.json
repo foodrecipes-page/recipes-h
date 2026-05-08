@@ -1,0 +1,90 @@
+{
+  "title": "Hearty Smoky Irish Potato Grill",
+  "description": "A winey and glassy-jelly Irish dish featuring gherkin relish and tempering-chocolate, perfect for a post-workout meal",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Gherkin relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit",
+    "In a large bowl, toss the sliced potatoes with olive oil, salt, and pepper until they are evenly coated",
+    "Grill the potatoes for 10 minutes on each side, or until they are tender and lightly charred",
+    "In a small saucepan, heat the red wine over low heat until it is reduced by half",
+    "Stir in the gherkin relish and tempering chocolate until the chocolate is melted and the mixture is smooth",
+    "Brush the potato slices with the wine and gherkin relish mixture during the last 2 minutes of grilling",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "irish-cuisine",
+    "lacto-vegetarian",
+    "post-workout",
+    "wine-based-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-smoky-irish-potato-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-irish-potato-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "gherkin relish",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Grill"
+  }
+}

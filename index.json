@@ -5673,6 +5673,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-irish-potato-grill",
+    "title": "Hearty Smoky Irish Potato Grill",
+    "tags": [
+      "grilled-vegetables",
+      "irish-cuisine",
+      "lacto-vegetarian",
+      "post-workout",
+      "wine-based-sauce"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-italian-white-yam-panettone",
     "title": "Hearty Smoky Italian White Yam Panettone",
     "tags": [
