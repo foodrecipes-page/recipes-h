@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Buttery Portuguese Spaghetti Pasta",
+  "description": "A rich and satisfying vegetarian dish featuring spaghetti, kombu cold extract, and a blend of buttery flavors, perfect for a solo dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and saute the garlic and onion until softened.",
+    "Add the kombu cold extract to the skillet and stir to combine.",
+    "Add the shredded cheese to the skillet and stir until melted and gooey.",
+    "Drain the cooked spaghetti and add it to the skillet, tossing to combine with the cheese sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with additional butter if desired.",
+    "Garnish with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "hearty-buttery-portuguese-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-buttery-portuguese-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:13:06Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "spaghetti",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Hearty Buttery",
+    "dishForm": "Pasta"
+  }
+}

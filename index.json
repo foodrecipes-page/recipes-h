@@ -1276,6 +1276,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-buttery-portuguese-spaghetti-pasta",
+    "title": "Hearty Buttery Portuguese Spaghetti Pasta",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "portuguese",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-canadian-beef-stew",
     "title": "Hearty Canadian Beef Stew",
     "tags": [
