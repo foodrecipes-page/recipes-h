@@ -1912,6 +1912,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-moroccan-lamb-tagine",
+    "title": "Hearty Dense Moroccan Lamb Tagine",
+    "tags": [
+      "gluten-free",
+      "lamb",
+      "moroccan",
+      "one-pot",
+      "wine-braised"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-spanish-kale-arroz-negro",
     "title": "Hearty Dense Spanish Kale Arroz Negro",
     "tags": [
@@ -2128,6 +2142,21 @@
       "weeknight"
     ],
     "cuisine": "australian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-fermented-spanish-porcini-cocido-madrileno",
+    "title": "Hearty Fermented Spanish Porcini Cocido Madrileno",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "mushroom-based",
+      "one-pot",
+      "spanish-food",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
     "totalTimeMin": 50,
     "shard": "h"
   },
