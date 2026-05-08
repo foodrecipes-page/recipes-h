@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Indulgent American Mung Bean Sprout Casserole",
+  "description": "A rich and savory casserole featuring mung bean sprouts, perfect for a comforting dinner, this dish is ayurvedic tamasic friendly and avoids overly stimulating ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, sauté the chopped onion and minced garlic in olive oil until the onion is translucent.",
+    "Add the mung bean sprouts to the skillet and cook until they are slightly tender.",
+    "In a large bowl, whisk together the ground mustard, egg, salt, and black pepper.",
+    "Add the cooked mung bean sprout mixture, shredded cheddar cheese, and whole wheat breadcrumbs to the bowl and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "casserole",
+    "comfort-food",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-indulgent-american-mung-bean-sprout-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indulgent-american-mung-bean-sprout-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:35:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Hearty Indulgent",
+    "dishForm": "Casserole"
+  }
+}
