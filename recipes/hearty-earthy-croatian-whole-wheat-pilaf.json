@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Earthy Croatian Whole Wheat Pilaf",
+  "description": "This earthy Croatian whole wheat pilaf is a light and pillowy dish featuring whole wheat, cooked to perfection in a fondue pot using the bain-marie method, making it a great option for a shojin-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the whole wheat in a fine mesh strainer under cold running water, then drain well.",
+    "In the fondue pot, heat the olive oil over medium heat using the bain-marie method.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and translucent.",
+    "Add the sliced mushrooms and cook, stirring occasionally, until they release their liquid and start to brown.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Add the whole wheat, vegetable broth, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the liquid is absorbed and the whole wheat is tender.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "mushroom-based",
+    "one-pot",
+    "vegetarian-friendly",
+    "whole-grain"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-earthy-croatian-whole-wheat-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-earthy-croatian-whole-wheat-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:56:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "whole wheat",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "whole wheat",
+    "descriptor": "hearty earthy",
+    "dishForm": "Pilaf"
+  }
+}

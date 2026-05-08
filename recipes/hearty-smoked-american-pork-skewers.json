@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Smoked American Pork Skewers",
+  "description": "A rich and savory dish featuring smoked pork, grapefruit juice, and a hint of ayurvedic tamasic-friendly spices, perfect for a comforting dinner. The score-fat adds a creamy and indulgent touch to the skewers.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together grapefruit juice, score-fat, smoked paprika, brown sugar, salt, black pepper, garlic powder, and onion powder.",
+    "Add the pork cubes to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the robata-grill and cook for 20 minutes, turning occasionally.",
+    "After 20 minutes, reduce the heat to 300 degrees Fahrenheit and continue cooking for an additional 10 minutes, or until the pork reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Remove the skewers from the grill and let rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "grilled-pork",
+    "smoked-meat",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "hearty-smoked-american-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-american-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:56:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pork",
+    "descriptor": "hearty smoked",
+    "dishForm": "Skewers"
+  }
+}

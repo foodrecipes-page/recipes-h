@@ -2000,6 +2000,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-earthy-croatian-whole-wheat-pilaf",
+    "title": "Hearty Earthy Croatian Whole Wheat Pilaf",
+    "tags": [
+      "croatian-cuisine",
+      "mushroom-based",
+      "one-pot",
+      "vegetarian-friendly",
+      "whole-grain"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-egyptian-chicken-broth",
     "title": "Hearty Egyptian Chicken Broth",
     "tags": [
@@ -4066,6 +4080,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-american-pork-skewers",
+    "title": "Hearty Smoked American Pork Skewers",
+    "tags": [
+      "american-comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "grilled-pork",
+      "smoked-meat",
+      "weeknight-dinner"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
