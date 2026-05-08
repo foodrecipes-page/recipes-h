@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Smoked Canadian Paneer Casserole",
+  "description": "A nostalgic Canadian dish featuring smoked paneer, herbs, and a crumbly crust, perfect for a comforting dinner. This satvik-friendly recipe is free from animal products and by-products.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked paneer",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic, dried thyme, and dried rosemary to the skillet and cook for 1 minute.",
+    "In a large bowl, combine the crumbled smoked paneer, cooked onion mixture, and whole wheat breadcrumbs.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "casserole",
+    "comfort-food",
+    "hearty",
+    "smoked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-smoked-canadian-paneer-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-canadian-paneer-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:52:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "paneer",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "paneer",
+    "descriptor": "hearty smoked",
+    "dishForm": "Casserole"
+  }
+}

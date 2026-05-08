@@ -5817,6 +5817,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoked-canadian-paneer-casserole",
+    "title": "Hearty Smoked Canadian Paneer Casserole",
+    "tags": [
+      "canadian",
+      "casserole",
+      "comfort-food",
+      "hearty",
+      "smoked",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoked-egyptian-bread-flatbread",
     "title": "Hearty Smoked Egyptian Bread Flatbread",
     "tags": [
