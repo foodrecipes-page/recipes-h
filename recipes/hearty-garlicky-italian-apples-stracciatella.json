@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Garlicky Italian Apples Stracciatella",
+  "description": "A creamy and garlicky Italian dish featuring braeburn apples and double-fry KFC style chicken, served in a comal, perfect for a solo dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a comal over medium heat.",
+    "Dredge the chicken pieces in the flour, shaking off excess.",
+    "Double fry the chicken by first frying at 325 degrees for 5 minutes, then increasing the heat to 375 degrees and frying for an additional 2 minutes.",
+    "Remove the chicken from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In the same comal, add the sliced apples and cook for 3 minutes on each side, or until they start to caramelize.",
+    "Add the garlic powder, Italian seasoning, salt, and black pepper to the comal and stir to combine.",
+    "Pour in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 2 minutes.",
+    "Add the shaved Grana padano cheese to the comal and stir until melted and well combined.",
+    "Add the cooked chicken back into the comal and stir to combine with the apple and cheese sauce.",
+    "Serve the stracciatella hot, garnished with additional grated cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "fruit-and-cheese",
+    "italian-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 60
+  },
+  "slug": "hearty-garlicky-italian-apples-stracciatella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-garlicky-italian-apples-stracciatella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:30:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "braeburn apples",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "apples",
+    "descriptor": "Hearty Garlicky",
+    "dishForm": "Stracciatella"
+  }
+}
