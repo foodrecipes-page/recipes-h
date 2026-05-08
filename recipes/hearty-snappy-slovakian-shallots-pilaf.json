@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Snappy Slovakian Shallots Pilaf",
+  "description": "A buttery and snappy Slovakian dish featuring shallots, perfect for a lazy Sunday, with a Mediterranean twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the chopped shallots for 3 minutes.",
+    "Drain the shallots and set them aside.",
+    "In a large skillet, melt the butter and heat the olive oil over medium heat.",
+    "Add the blanched shallots to the skillet and cook for 2 minutes, until they start to caramelize.",
+    "Add the rice to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, salt, black pepper, and paprika to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "mediterranean-inspired",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-snappy-slovakian-shallots-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-snappy-slovakian-shallots-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:11:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "shallots",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "shallots",
+    "descriptor": "hearty snappy",
+    "dishForm": "Pilaf"
+  }
+}
