@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Crispy Argentinian Pork Tenderloin Skewers",
+  "description": "Buttery and crispy pork tenderloin skewers with a crowd-pleasing flavor, featuring plant-based friendly options and score-fat for added richness, this dish is a perfect representation of Argentinian cuisine with a twist",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "scored with fat for crispiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "plant-based butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Cut the pork tenderloin into 1-inch pieces and thread onto skewers",
+    "In a bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and black pepper",
+    "Brush the mixture onto the pork tenderloin pieces",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Dot the top of each skewer with plant-based butter",
+    "Bake for 20 minutes or until the pork reaches an internal temperature of 145 degrees Fahrenheit",
+    "Increase the oven to broil and cook for an additional 2-3 minutes or until crispy",
+    "Remove from the oven and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-crispy-argentinian-pork-tenderloin-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-argentinian-pork-tenderloin-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:37:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "score-fat",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Skewers"
+  }
+}
