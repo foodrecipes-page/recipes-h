@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Slow Cooked Venezuelan Beef Stew",
+  "description": "A rich and flavorful stew featuring Jamaican curry powder, perfect for a hangover cure or a comforting meal. This dairy-free friendly dish is slow cooked to perfection.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium high heat and brown the beef pieces on all sides.",
+    "Transfer the browned beef to a slow cooker and add the chopped onion.",
+    "Add the minced garlic to the slow cooker and cook for 1 minute.",
+    "Add the Jamaican curry powder to the slow cooker and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the slow cooker.",
+    "Add the dried oregano, salt, and black pepper to the slow cooker and stir to combine.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 8 hours or overnight.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 480,
+  "totalTimeMin": 510,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "hearty-stew",
+    "jamaican-curry",
+    "slow-cooked",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-slow-cooked-venezuelan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slow-cooked-venezuelan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:09:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beef",
+    "descriptor": "hearty slow cooked",
+    "dishForm": "Stew"
+  }
+}
