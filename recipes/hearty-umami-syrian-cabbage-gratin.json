@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Umami Syrian Cabbage Gratin",
+  "description": "A comforting and flavorful ovo-vegetarian Syrian dish featuring hispi sweetheart cabbage, beurre-monte, and rich umami flavors, perfect for a sick day",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "1 large head",
+      "notes": "cored and shredded"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened",
+    "Add the minced garlic and cook for an additional minute",
+    "In a large bowl, combine the shredded cabbage, cooked onion and garlic, allspice, sumac, salt, and black pepper",
+    "In a separate saucepan, melt the beurre-monte over low heat",
+    "Grease a 9x13 inch baking dish with the melted beurre-monte",
+    "Add the cabbage mixture to the prepared baking dish and top with crumbled feta cheese",
+    "Cover the dish with aluminum foil and bake for 30 minutes",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "ovo-vegetarian",
+    "syrian-cuisine",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-umami-syrian-cabbage-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-umami-syrian-cabbage-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:38:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "beurre-monte",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Hearty Umami",
+    "dishForm": "Gratin"
+  }
+}
