@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Juicy Korean Nduja Gimbap",
+  "description": "A Korean-inspired gimbap dish featuring nduja and bhuna, served on a hot stone plate, perfect for a brunch mood. This ayurvedic-tamasic-friendly dish combines bitter and juicy flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1/2 cup",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "bhuna",
+      "amount": "1/4 cup",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried seaweed sheets",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the hot stone plate by heating it in the oven at 400 degrees for 10 minutes.",
+    "Mix the nduja and bhuna in a small bowl.",
+    "Spread a thin layer of the nduja-bhuna mixture onto a dried seaweed sheet.",
+    "Add a layer of cooked white rice on top of the nduja-bhuna mixture.",
+    "Add the pickled ginger, cucumber, carrots, and green onions on top of the rice.",
+    "Roll the gimbap tightly using a bamboo sushi mat.",
+    "Slice the gimbap into 8 equal pieces.",
+    "Serve the gimbap on the hot stone plate.",
+    "Garnish with additional green onions and pickled ginger if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "korean-food",
+    "one-pan",
+    "spicy-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-juicy-korean-nduja-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-korean-nduja-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:21:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "nduja",
+    "diet": "ayurvedic-tamasic",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "nduja",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Gimbap"
+  }
+}
