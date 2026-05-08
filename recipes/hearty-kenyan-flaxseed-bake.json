@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Kenyan Flaxseed Bake",
+  "description": "A traditional Kenyan dish made with flaxseed, yeast, and a touch of beurre-monte, perfect for a festive gathering.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F and grease a 9x13 inch baking dish.",
+    "Mix the flaxseed and coconut milk in a bowl until well combined.",
+    "Add the flour, yeast, sugar, and salt to the bowl and mix until a sticky dough forms.",
+    "Gradually add the coconut oil and vanilla extract, stirring until the dough is smooth.",
+    "Transfer the dough to the prepared baking dish and smooth out the top.",
+    "Cover the dish with a clean towel and let the dough rise in a warm place for 1 hour.",
+    "Bake the dough for 25 minutes or until it's golden brown.",
+    "While the dough is baking, prepare the beurre-monte by whipping heavy cream until it forms stiff peaks.",
+    "Add the sugar and vanilla extract to the whipped cream and mix until combined.",
+    "Remove the baked dough from the oven and let it cool for 10 minutes.",
+    "Spread the beurre-monte over the top of the dough and return it to the oven for an additional 5 minutes.",
+    "Remove the bake from the oven and let it cool completely before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free-friendly",
+    "high-fiber",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "hearty-kenyan-flaxseed-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-kenyan-flaxseed-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:06:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "flaxseed",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Hearty",
+    "dishForm": "Bake"
+  }
+}
