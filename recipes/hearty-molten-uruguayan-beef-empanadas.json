@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Molten Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring shredded beef and fried pastry, perfect for a romantic dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent",
+    "Season the beef mixture with salt and black pepper to taste",
+    "Roll out the empanada dough to a thickness of about 1/8 inch",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle",
+    "Brush the edges of the dough with the beaten egg",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada",
+    "Fry the empanadas in the hot oil until they are golden brown, about 2-3 minutes per side",
+    "Drain the empanadas on paper towels and serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-based",
+    "fried-foods",
+    "latin-american",
+    "meat-pies",
+    "romantic-dinner",
+    "savory-pastry",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-molten-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:04:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "shredded meat",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "hearty molten",
+    "dishForm": "Empanadas"
+  }
+}

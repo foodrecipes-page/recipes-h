@@ -4806,6 +4806,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-molten-uruguayan-beef-empanadas",
+    "title": "Hearty Molten Uruguayan Beef Empanadas",
+    "tags": [
+      "beef-based",
+      "fried-foods",
+      "latin-american",
+      "meat-pies",
+      "romantic-dinner",
+      "savory-pastry",
+      "south-american"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-molten-uruguayan-beef-stew",
     "title": "Hearty Molten Uruguayan Beef Stew",
     "tags": [
