@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Nutty Italian Yukon Gold Potatoes Focaccia",
+  "description": "A creamy and nutty Italian dish featuring Yukon gold potatoes in a focaccia form, perfect for a weeknight dinner. This halal-friendly recipe is a delicious and satisfying meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "focaccia dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Boil the cubed potatoes in salted water until they are tender, then immediately transfer them to an ice bath to stop the cooking process.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the toasted pine nuts to the skillet and cook for 1 minute, stirring constantly.",
+    "Roll out the thawed focaccia dough to a thickness of 1/2 inch and place it on a baking sheet.",
+    "Top the focaccia dough with the cooled potatoes, shaved grana padano cheese, salt, and black pepper.",
+    "Drizzle the garlic and pine nut mixture over the top of the focaccia.",
+    "Bake the focaccia in the preheated oven for 25 minutes, or until it is golden brown.",
+    "Remove the focaccia from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "focaccia",
+    "italian",
+    "nutty",
+    "potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "hearty-nutty-italian-yukon-gold-potatoes-focaccia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-nutty-italian-yukon-gold-potatoes-focaccia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Yukon Gold Potatoes",
+    "descriptor": "Hearty Nutty",
+    "dishForm": "Focaccia"
+  }
+}

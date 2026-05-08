@@ -516,6 +516,21 @@
     "shard": "h"
   },
   {
+    "slug": "harmonious-crisp-italian-tofu-pasta",
+    "title": "Harmonious Crisp Italian Tofu Pasta",
+    "tags": [
+      "ayurvedic-friendly",
+      "date-night",
+      "high-protein",
+      "italian-food",
+      "one-pot",
+      "vegan-pasta"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "harmonious-crisp-mediterranean-chickpeas-skewers",
     "title": "Harmonious Crisp Mediterranean Chickpeas Skewers",
     "tags": [
@@ -4052,6 +4067,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-nutty-italian-yukon-gold-potatoes-focaccia",
+    "title": "Hearty Nutty Italian Yukon Gold Potatoes Focaccia",
+    "tags": [
+      "comfort-food",
+      "focaccia",
+      "italian",
+      "nutty",
+      "potatoes",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-nutty-vietnamese-yoghurt-bake",
     "title": "Hearty Nutty Vietnamese Yoghurt Bake",
     "tags": [
@@ -4271,6 +4301,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 85,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-roasted-brazilian-swede-roast",
+    "title": "Hearty Roasted Brazilian Swede Roast",
+    "tags": [
+      "brazilian-cuisine",
+      "kosher-friendly",
+      "midnight-cravings",
+      "roasted-vegetables",
+      "wooden-board-presentation"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -5273,6 +5317,22 @@
       "tagine-cooking"
     ],
     "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-steamed-filipino-pork-wrap",
+    "title": "Hearty Steamed Filipino Pork Wrap",
+    "tags": [
+      "filipino-cuisine",
+      "garlicky",
+      "juicy",
+      "lazy-sunday",
+      "low-sodium",
+      "pork-recipes",
+      "steamed-dishes"
+    ],
+    "cuisine": "Filipino",
     "totalTimeMin": 50,
     "shard": "h"
   },

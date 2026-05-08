@@ -1,0 +1,101 @@
+{
+  "title": "Harmonious Crisp Italian Tofu Pasta",
+  "description": "A jammy and crisp Italian dish featuring silken tofu, perfect for a date night, and following ayurvedic-sattvic friendly principles.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1-2 minutes until fragrant.",
+    "Add the canned tomatoes to the skillet, stirring to combine with the garlic and oil, and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally, until the sauce has thickened and reduced slightly.",
+    "While the sauce is simmering, prepare the silken tofu by wrapping it in a clean kitchen towel and poaching it in boiling water for 5-7 minutes until crispy on the outside and creamy on the inside.",
+    "Remove the tofu from the water and cut it into small cubes, then add it to the skillet with the tomato sauce, stirring to combine.",
+    "Stir in the chopped basil, salt, and pepper, and cook for an additional 1-2 minutes until the basil is wilted.",
+    "Serve the pasta hot, topped with the tomato sauce and silken tofu, and sprinkled with nutritional yeast if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "date-night",
+    "high-protein",
+    "italian-food",
+    "one-pot",
+    "vegan-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "harmonious-crisp-italian-tofu-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/harmonious-crisp-italian-tofu-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "silken tofu",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tofu",
+    "descriptor": "harmonious crisp",
+    "dishForm": "Pasta"
+  }
+}

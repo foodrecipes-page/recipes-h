@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Steamed Filipino Pork Wrap",
+  "description": "A garlicky and juicy Filipino dish featuring turmeric, wrapped in leaves and steamed to perfection, perfect for a lazy Sunday",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine pork chunks, turmeric, garlic, black pepper, and salt-free seasoning blend, and mix well.",
+    "Lay a banana leaf flat on a work surface and brush with a little water.",
+    "Place about 1/4 cup of the pork mixture in the center of the leaf.",
+    "Drizzle with a little fish sauce and lime juice.",
+    "Fold the leaf over the filling to form a tight packet, and repeat with the remaining ingredients.",
+    "Place the packets in a Korean brass bowl or a large steamer basket.",
+    "Steam the packets over boiling water for 30 minutes.",
+    "Serve the packets hot, with steamed rice or vegetables on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "garlicky",
+    "juicy",
+    "lazy-sunday",
+    "low-sodium",
+    "pork-recipes",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-steamed-filipino-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-steamed-filipino-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:59:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "turmeric",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "hearty steamed",
+    "dishForm": "Wrap"
+  }
+}
