@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Smoky Italian White Yam Panettone",
+  "description": "A smoky and comforting Italian dish featuring white yam, robata-grilled to perfection and formed into a panettone shape, perfect for a cold winter evening.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white yams",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the cubed white yams with olive oil, smoked paprika, garlic, italian seasoning, salt, and black pepper until they are evenly coated.",
+    "Grill the white yams for 20-25 minutes, or until they are tender and lightly charred.",
+    "In a large mixing bowl, combine the grilled white yams, grana padano cheese, and chopped parsley.",
+    "Mix the ingredients together until they are well combined.",
+    "Transfer the mixture to a panettone mold and shape it into a panettone form.",
+    "Let the mixture cool and set for at least 30 minutes before slicing and serving.",
+    "Slice the panettone into thick slices and serve warm.",
+    "Garnish with additional parsley and grana padano cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "italian",
+    "smoky",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-smoky-italian-white-yam-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-italian-white-yam-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:24:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "white yam",
+    "diet": "nut-free",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "white yam",
+    "descriptor": "hearty smoky",
+    "dishForm": "Panettone"
+  }
+}

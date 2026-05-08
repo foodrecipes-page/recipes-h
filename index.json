@@ -4570,6 +4570,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-italian-white-yam-panettone",
+    "title": "Hearty Smoky Italian White Yam Panettone",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "italian",
+      "smoky",
+      "vegetarian",
+      "winter-dish"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-mediterranean-lamb-kebabs",
     "title": "Hearty Smoky Mediterranean Lamb Kebabs",
     "tags": [
