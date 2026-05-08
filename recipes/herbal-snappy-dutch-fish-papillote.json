@@ -1,0 +1,97 @@
+{
+  "title": "Herbal Snappy Dutch Fish Papillote",
+  "description": "A weeknight Dutch dish featuring fish cooked in a papillote with herbal flavors, perfect for a quick and healthy dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "Place a cod fillet in the center of each parchment paper sheet.",
+    "Drizzle the lemon juice and olive oil over the cod fillets.",
+    "Sprinkle the chopped parsley, dill, garlic powder, salt, and pepper over the cod fillets.",
+    "Fold the parchment paper over the cod fillets to create a papillote, making sure to seal the edges tightly.",
+    "Place the papillotes on the prepared baking sheet.",
+    "Bake the papillotes in the preheated oven for 12 minutes.",
+    "Remove the papillotes from the oven and let them rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "herbal-snappy-dutch-fish-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-snappy-dutch-fish-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:14:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "fish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "herbal snappy",
+    "dishForm": "Papillote"
+  }
+}
