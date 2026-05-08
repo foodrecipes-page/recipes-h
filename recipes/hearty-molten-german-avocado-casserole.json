@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Molten German Avocado Casserole",
+  "description": "A flexitarian-friendly German dish featuring avocado, baked in a wood-fired Dutch oven to create a jammy, molten meal-prep casserole.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "3 medium",
+      "notes": "ripe"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired Dutch oven to 375 degrees Fahrenheit.",
+    "Brown the ground beef in the Dutch oven over medium-high heat.",
+    "Add the chopped onion to the Dutch oven and cook until it is translucent.",
+    "Add the diced potato and carrot to the Dutch oven and cook for 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the beef broth, salt, and black pepper to the Dutch oven and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Mash the ripe avocado and spread it over the top of the casserole.",
+    "Sprinkle the shredded cheese over the top of the avocado.",
+    "Bake the casserole in the wood-fired Dutch oven for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven",
+    "flexitarian-friendly",
+    "german-cuisine",
+    "meal-prep",
+    "one-pan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-molten-german-avocado-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-german-avocado-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "avocado",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "avocado",
+    "descriptor": "Hearty Molten",
+    "dishForm": "Casserole"
+  }
+}
