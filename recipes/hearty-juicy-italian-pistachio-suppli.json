@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Juicy Italian Pistachio Suppli",
+  "description": "A jammy and juicy Italian dish featuring pistachio, tempered chocolate, and no onion or garlic, formed into suppli and cooked in a tagine pot.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the pistachio meal, parmesan cheese, and a pinch of salt and pepper.",
+    "Add the melted tempered chocolate to the bowl and mix until well combined.",
+    "Add the tomato sauce to the bowl and mix until a thick paste forms.",
+    "Add the beaten eggs to the bowl and mix until the mixture is smooth and sticky.",
+    "Add the breadcrumbs to the bowl and mix until the mixture is well coated.",
+    "Using your hands, shape the mixture into small suppli shapes.",
+    "Place the suppli in a tagine pot and drizzle with olive oil.",
+    "Cover the tagine pot with a lid and bake for 25 minutes.",
+    "Remove the lid and bake for an additional 10 minutes, or until the suppli are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "no-onion-no-garlic",
+    "pistachio-recipes",
+    "suppli-recipes",
+    "tagine-pot",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "hearty-juicy-italian-pistachio-suppli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-italian-pistachio-suppli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pistachio",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pistachio",
+    "descriptor": "hearty juicy",
+    "dishForm": "Suppli"
+  }
+}
