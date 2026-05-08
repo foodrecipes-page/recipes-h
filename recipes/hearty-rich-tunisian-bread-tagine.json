@@ -1,0 +1,92 @@
+{
+  "title": "Hearty Rich Tunisian Bread Tagine",
+  "description": "A resinous and creamy one-pot Tunisian dish featuring bread, perfect for a low-carb friendly meal option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Cut the bread into 1-inch cubes and toast until lightly browned.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "Stir in the cumin and paprika and cook for 1 minute.",
+    "Add the toasted bread and chicken broth to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 25 minutes or until the bread is tender and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "low-carb",
+    "one-pot",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-rich-tunisian-bread-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-rich-tunisian-bread-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:40:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread",
+    "descriptor": "hearty rich",
+    "dishForm": "Tagine"
+  }
+}
