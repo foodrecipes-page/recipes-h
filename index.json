@@ -1429,6 +1429,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-british-red-bean-paste-bake",
+    "title": "Hearty British Red Bean Paste Bake",
+    "tags": [
+      "brass-bowl",
+      "british-dessert",
+      "flower-infused",
+      "gluten-free",
+      "hearty-dessert",
+      "red-bean-paste"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-burgundy-french-beef-skillet",
     "title": "Hearty Burgundy French Beef Skillet",
     "tags": [

@@ -1,0 +1,93 @@
+{
+  "title": "Hearty British Red Bean Paste Bake",
+  "description": "A floral and pillowy British dessert featuring anko red bean paste, baked to perfection in a Korean brass bowl, and is gluten-free friendly.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1 cup",
+      "notes": "anko style"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the almond flour, sugar, and salt.",
+    "In a separate bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the red bean paste to the wet ingredients and mix until well combined.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Fold in the dried rose petals.",
+    "Pour the batter into a Korean brass bowl and smooth the top.",
+    "Bake for 40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brass-bowl",
+    "british-dessert",
+    "flower-infused",
+    "gluten-free",
+    "hearty-dessert",
+    "red-bean-paste"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "hearty-british-red-bean-paste-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-british-red-bean-paste-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "red bean paste",
+    "descriptor": "hearty indulgent",
+    "dishForm": "Bake"
+  }
+}
