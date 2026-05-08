@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Smoky American Bacon Skillet",
+  "description": "A charred, tender, show-off American dish featuring bacon lardon, bain-marie, high-protein-friendly ingredients, perfect for a hearty breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "thick-cut bacon",
+      "amount": "12 slices",
+      "notes": "cut into lardon"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "large bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the bacon into lardon and cook in a large skillet over medium heat until crispy.",
+    "Remove the cooked bacon from the skillet and set aside on a paper towel-lined plate.",
+    "Add the diced onion and bell pepper to the skillet and cook until they start to soften.",
+    "Add the diced potatoes to the skillet and continue to cook until they are tender.",
+    "Create 6 wells in the skillet and crack an egg into each well.",
+    "Sprinkle shredded cheddar cheese over the eggs and potatoes.",
+    "Season with salt, black pepper, and smoked paprika to taste.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked to desired doneness.",
+    "Remove the skillet from the oven and top with the cooked bacon lardon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "brunch-ideas",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-smoky-american-bacon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-american-bacon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:53:01Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "bacon lardon",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bacon",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Skillet"
+  }
+}
