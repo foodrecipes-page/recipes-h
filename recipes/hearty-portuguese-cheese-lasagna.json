@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Portuguese Cheese Lasagna",
+  "description": "A yeasty, cheese-pull, nostalgic Portuguese dish featuring green cardamom pods and dashi-extract, made low-sodium-friendly. This lasagna is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "green cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the crushed green cardamom pods and cook for an additional minute.",
+    "In a large bowl, combine the cooked noodles, shredded cheese, dashi-extract, and sauteed onion mixture.",
+    "In a separate bowl, combine the chopped spinach and a pinch of salt and pepper.",
+    "In a 9x13 inch baking dish, create a thin layer of the cheese mixture and top with a layer of noodles.",
+    "Repeat the layers two more times, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "comfort-food",
+    "hearty",
+    "low-sodium",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-portuguese-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-portuguese-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:24:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "hearty",
+    "dishForm": "Lasagna"
+  }
+}

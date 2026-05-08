@@ -4055,6 +4055,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-portuguese-cheese-lasagna",
+    "title": "Hearty Portuguese Cheese Lasagna",
+    "tags": [
+      "baked",
+      "cheesy",
+      "comfort-food",
+      "hearty",
+      "low-sodium",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-portuguese-chicken-stew",
     "title": "Hearty Portuguese Chicken Stew",
     "tags": [
