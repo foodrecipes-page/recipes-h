@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Malaysian Frankfurter Dumplings",
+  "description": "Rich and savory Malaysian dish featuring frankfurter and dumplings, perfect for a lazy Sunday, vegan-friendly and served on a talavera plate.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "8",
+      "notes": "vegan frankfurter"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20",
+      "notes": "round and thin"
+    },
+    {
+      "name": "Vegan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Malaysian curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the Malaysian curry powder and cook for 1 minute.",
+    "Add the coconut milk and bring to a simmer.",
+    "Add the vegan frankfurter and cook until heated through.",
+    "In a separate pot, boil water and cook the dumpling wrappers for 5 minutes.",
+    "Assemble the dumplings by placing a frankfurter in the center of each wrapper and topping with shredded vegan cheese.",
+    "Place the dumplings in the talavera plate and spoon the curry sauce over the top.",
+    "Season with soy sauce and salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lazy-sunday",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-malaysian-frankfurter-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malaysian-frankfurter-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:14:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "frankfurter",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "frankfurter",
+    "descriptor": "hearty cheesy",
+    "dishForm": "Dumplings"
+  }
+}
