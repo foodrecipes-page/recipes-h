@@ -1,0 +1,108 @@
+{
+  "title": "Hot Smoky Greek Crustaceans Paella",
+  "description": "A garlicky, cheese-pull, indulgent Greek dish featuring crustaceans, with a smoky flavor, garlic-free and onion-free, cooked in a Dutch oven.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "crab meat",
+      "amount": "1/2 pound",
+      "notes": "jumbo lump"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in the Dutch oven over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add the mussels and crab meat, and cook until the mussels open, about 3-4 minutes.",
+    "Stir in the smoked paprika, lemon juice, chicken broth, saffron threads, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook for 2 minutes.",
+    "Stir in the feta cheese until melted and well combined.",
+    "Transfer the Dutch oven to the preheated oven and bake for 10 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "greek",
+    "indulgent",
+    "one-pan",
+    "seafood",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hot-smoky-greek-crustaceans-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoky-greek-crustaceans-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:36:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "smoke-hot",
+    "primaryIngredient": "crustaceans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Hot Smoky",
+    "dishForm": "Paella"
+  }
+}

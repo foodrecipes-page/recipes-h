@@ -10112,6 +10112,22 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoky-greek-crustaceans-paella",
+    "title": "Hot Smoky Greek Crustaceans Paella",
+    "tags": [
+      "cheesy",
+      "greek",
+      "indulgent",
+      "one-pan",
+      "seafood",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoky-italian-pasta-lasagna",
     "title": "Hot Smoky Italian Pasta Lasagna",
     "tags": [
