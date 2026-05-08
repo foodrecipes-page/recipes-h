@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Ukrainian Seitan Wrap",
+  "description": "A fatty and chewy post-workout Ukrainian dish featuring flax eggs and stir-fry, wrapped in a pandan leaf wrap. This dish is ayurvedic-rajasic-friendly and perfect for a snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 4 tablespoons water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the seitan pieces and cook until they are browned on all sides.",
+    "Stir in the flax eggs and cook until they are set.",
+    "Season with salt to taste.",
+    "Warm the pandan leaves by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by placing a portion of the seitan mixture onto a pandan leaf and folding the leaf to enclose."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "post-workout",
+    "snack",
+    "ukrainian",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-ukrainian-seitan-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ukrainian-seitan-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:27:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "flax eggs",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "seitan",
+    "descriptor": "hearty chewy",
+    "dishForm": "Wrap"
+  }
+}

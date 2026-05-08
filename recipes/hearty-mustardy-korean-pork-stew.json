@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Mustardy Korean Pork Stew",
+  "description": "A tender and flavorful Korean stew featuring pork, mustard, and cider, made with ayurvedic-sattvic-friendly ingredients. This dish is perfect for a monsoon day.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "apple cider",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven over medium heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the Gochujang, brown mustard, and soy sauce, and stir to combine.",
+    "Add the apple cider and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "korean-stew",
+    "monsoon-food",
+    "pork-recipe"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "hearty-mustardy-korean-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mustardy-korean-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:26:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "cider",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "hearty mustardy",
+    "dishForm": "Stew"
+  }
+}

@@ -3556,6 +3556,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mustardy-korean-pork-stew",
+    "title": "Hearty Mustardy Korean Pork Stew",
+    "tags": [
+      "ayurvedic-friendly",
+      "comfort-food",
+      "korean-stew",
+      "monsoon-food",
+      "pork-recipe"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-norwegian-cheese-casserole",
     "title": "Hearty Norwegian Cheese Casserole",
     "tags": [
@@ -4876,6 +4890,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-ukrainian-seitan-wrap",
+    "title": "Hearty Ukrainian Seitan Wrap",
+    "tags": [
+      "high-protein",
+      "post-workout",
+      "snack",
+      "ukrainian",
+      "vegan",
+      "wrap"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
