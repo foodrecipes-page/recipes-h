@@ -1,0 +1,106 @@
+{
+  "title": "Hearty French Spaghetti Pasta",
+  "description": "A vegetarian friendly French inspired spaghetti dish featuring double fried vegetables and a rich Normandy sauce.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a large skillet heat the vegetable oil over medium high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the sliced mushrooms and zucchini to the skillet and cook until they are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the tomato paste to the skillet and cook for 1 minute.",
+    "Add the white wine and vegetable broth to the skillet and bring to a boil.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes.",
+    "Stir in the shredded gruyere cheese until it is melted and well combined.",
+    "Serve the spaghetti hot topped with the Normandy sauce and double fried vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "normandy",
+    "one-pan",
+    "pasta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-french-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:14:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "spaghetti",
+    "diet": "vegetarian",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Hearty",
+    "dishForm": "Pasta"
+  }
+}

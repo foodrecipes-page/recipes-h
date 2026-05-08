@@ -2492,6 +2492,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-spaghetti-pasta",
+    "title": "Hearty French Spaghetti Pasta",
+    "tags": [
+      "french",
+      "normandy",
+      "one-pan",
+      "pasta",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-fried-malaysian-chicken-fried-rice",
     "title": "Hearty Fried Malaysian Chicken Fried-Rice",
     "tags": [
