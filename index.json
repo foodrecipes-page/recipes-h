@@ -5434,6 +5434,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoked-egyptian-bread-flatbread",
+    "title": "Hearty Smoked Egyptian Bread Flatbread",
+    "tags": [
+      "crusty",
+      "egyptian",
+      "flatbread",
+      "fodmap-friendly",
+      "smoked",
+      "snack"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoked-ethiopian-pork-stew",
     "title": "Hearty Smoked Ethiopian Pork Stew",
     "tags": [

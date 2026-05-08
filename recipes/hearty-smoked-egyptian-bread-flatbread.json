@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Smoked Egyptian Bread Flatbread",
+  "description": "A salty, crumbly, and energizing Egyptian dish featuring crusty bread, this smoked flatbread is perfect for a snack or light meal, and is FODMAP-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fodmap",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "smoked salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, smoked salt, yeast, and smoked paprika.",
+    "Gradually add the olive oil and water to the dry ingredients, mixing until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 4-6 equal pieces, depending on desired flatbread size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Brush the tops with a little water, then sprinkle with sesame seeds and poppy seeds.",
+    "Cook the flatbreads for 1-2 minutes on each side, until they are golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crusty",
+    "egyptian",
+    "flatbread",
+    "fodmap-friendly",
+    "smoked",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "hearty-smoked-egyptian-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-egyptian-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "smoke-cold",
+    "primaryIngredient": "crusty bread",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bread",
+    "descriptor": "hearty smoked",
+    "dishForm": "Flatbread"
+  }
+}
