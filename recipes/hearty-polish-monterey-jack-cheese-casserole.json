@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Polish Monterey Jack Cheese Casserole",
+  "description": "A nutty, flaky, and indulgent Polish dish featuring shredded Monterey Jack cheese, this casserole is perfect for a weeknight dinner and can be made dairy-free friendly, served on a beautiful Talavera plate.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "2 cups shredded",
+      "notes": "dairy-free alternative available"
+    },
+    {
+      "name": "pierogi dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sauteed onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sauteed mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pierogi dough to a thickness of about 1/8 inch.",
+    "In a large skillet, saute the onions and mushrooms in olive oil until they are softened.",
+    "In a large bowl, combine the sauteed onions and mushrooms, shredded cheese, parsley, salt, and pepper.",
+    "Place the dough in a 9x13 inch baking dish and fill with the cheese and onion mixture.",
+    "Fold the dough over the filling to form a crust and brush with a little bit of olive oil.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the crust is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-polish-monterey-jack-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-polish-monterey-jack-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "monterey jack cheese",
+    "descriptor": "hearty indulgent",
+    "dishForm": "Casserole"
+  }
+}
