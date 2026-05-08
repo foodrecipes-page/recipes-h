@@ -6826,6 +6826,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-uruguayan-yeast-bao",
+    "title": "Hearty Uruguayan Yeast Bao",
+    "tags": [
+      "family-meal",
+      "kid-friendly",
+      "nut-free",
+      "raclette-grill",
+      "uruguayan-cuisine",
+      "yeast-bread"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-vegetarian-tofu-wraps",
     "title": "Hearty Vegetarian Tofu Wraps",
     "tags": [

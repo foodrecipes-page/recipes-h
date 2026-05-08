@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Uruguayan Yeast Bao",
+  "description": "A kid-friendly Uruguayan dish featuring yeasty and fluffy buns, this recipe is perfect for a fun family meal. It is nut-free and made with kombu-cold-extract for added flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "In a separate bowl, whisk together the kombu-cold-extract, sugar, egg, and milk.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the raclette-grill to 375 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place the buns on the raclette-grill and cook for 12-15 minutes, or until golden brown.",
+    "Brush the buns with melted butter and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "family-meal",
+    "kid-friendly",
+    "nut-free",
+    "raclette-grill",
+    "uruguayan-cuisine",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "hearty-uruguayan-yeast-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-yeast-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:30:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "buns",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "buns",
+    "descriptor": "hearty fluffy",
+    "dishForm": "Bao"
+  }
+}
