@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Flaky Syrian Lamb Pilaf",
+  "description": "A traditional Syrian dish featuring lamb, dill, and a flaky crust, perfect for a hearty dinner, this recipe is also FODMAP friendly and incorporates a bain-marie for even cooking.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed, drained"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the olive oil over medium heat and cook the lamb until browned, about 5 minutes.",
+    "Add the chopped dill, salt, and black pepper to the saucepan and cook for an additional minute.",
+    "In a separate saucepan, bring 4 cups of water to a boil, then add the basmati rice and reduce heat to low, covering the saucepan with a tight-fitting lid.",
+    "In a small bowl, whisk together the lemon juice and 1 tablespoon of water, then brush the mixture onto the phyllo dough.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with the lemon juice mixture.",
+    "Add the cooked lamb and rice mixture to the baking dish, then top with additional phyllo dough layers.",
+    "Place the baking dish into a larger dish and add hot water to come halfway up the sides, creating a bain-marie.",
+    "Bake the pilaf for 30 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the pilaf from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-flaky-syrian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-flaky-syrian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:00:31Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "bain-marie",
+    "primaryIngredient": "dill",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Flaky",
+    "dishForm": "Pilaf"
+  }
+}
