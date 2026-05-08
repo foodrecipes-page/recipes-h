@@ -157,6 +157,21 @@
     "shard": "h"
   },
   {
+    "slug": "hand-harvested-lemon-glazed-german-sausage-braise",
+    "title": "Hand-harvested Lemon-glazed German Sausage Braise",
+    "tags": [
+      "adventurous",
+      "citrusy",
+      "donabe",
+      "german",
+      "one-pan",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine",
     "title": "Hand Shattered Shio Koji Australian Fennel Sausage Tagine",
     "tags": [
@@ -1377,6 +1392,22 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 135,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-canadian-lentils-lasagna",
+    "title": "Hearty Canadian Lentil Lasagna",
+    "tags": [
+      "canadian",
+      "high-protein",
+      "lasagna",
+      "lentil",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {

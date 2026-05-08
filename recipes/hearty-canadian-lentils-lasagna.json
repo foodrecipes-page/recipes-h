@@ -1,0 +1,115 @@
+{
+  "title": "Hearty Canadian Lentil Lasagna",
+  "description": "A hearty, flaky, weeknight Canadian dish featuring lentils, en-croute, and low-fat-friendly options.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils, brown",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "Dried"
+    },
+    {
+      "name": "Mushrooms, button",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion, yellow",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots, peeled",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Canned"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "28 ounces",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra-virgin"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the chopped onion and grated carrots to the skillet and cook until the vegetables are tender.",
+    "Add the tomato paste, crushed diced tomatoes, and vegetable broth to the skillet.",
+    "Stir in the rinsed and drained lentils.",
+    "Season the lentil mixture with salt and pepper to taste.",
+    "In a large baking dish, spread a thin layer of the lentil mixture on the bottom.",
+    "Arrange 4 lasagna noodles on top of the lentil mixture.",
+    "Spread half of the remaining lentil mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the remaining lentil mixture.",
+    "Top the lasagna with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "lasagna",
+    "lentil",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-canadian-lentils-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-canadian-lentils-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:23:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "lentils",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "hearty",
+    "dishForm": "lasagna"
+  }
+}
