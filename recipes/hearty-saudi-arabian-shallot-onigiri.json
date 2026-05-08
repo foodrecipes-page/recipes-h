@@ -1,0 +1,92 @@
+{
+  "title": "Hearty Saudi Arabian Shallot Onigiri",
+  "description": "A vegan-friendly, kid-friendly Saudi Arabian dish featuring shallots and shaped like nigiri, with a mustardy and fluffy texture.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "short-grain"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese rice thoroughly and cook it according to the package instructions.",
+    "In a pan, heat the sesame oil over medium heat and saute the chopped shallots until they are softened.",
+    "In a large bowl, mix together the cooked rice, sauteed shallots, vegan mayonnaise, whole wheat flour, apple cider vinegar, Dijon mustard, and salt.",
+    "Using wet hands, shape the rice mixture into small triangular or oval shapes, similar to nigiri.",
+    "Serve the onigiri immediately, or store them in an airtight container in the refrigerator for up to a day.",
+    "To serve, garnish with additional chopped shallots and a drizzle of sesame oil if desired.",
+    "These onigiri can be enjoyed at room temperature or slightly warmed in the microwave.",
+    "Experiment with different seasonings and fillings to create unique variations of this dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "kid-friendly",
+    "rice-based",
+    "saudi-arabian",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "hearty-saudi-arabian-shallot-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-saudi-arabian-shallot-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:57:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "shallots",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "shallots",
+    "descriptor": "hearty fluffy",
+    "dishForm": "Onigiri"
+  }
+}
