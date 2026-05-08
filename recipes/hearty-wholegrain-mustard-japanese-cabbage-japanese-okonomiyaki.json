@@ -1,0 +1,118 @@
+{
+  "title": "Hearty Wholegrain Mustard Japanese Cabbage Okonomiyaki",
+  "description": "A pungent and chewy Japanese-style okonomiyaki dish featuring wholegrain mustard, poached cabbage, and a variety of savory flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan-options"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup wholegrain mustard",
+      "amount": "1/4 cup wholegrain mustard",
+      "notes": ""
+    },
+    {
+      "name": "2 cups shredded cabbage",
+      "amount": "2 cups",
+      "notes": "Japanese-style cabbage"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "neutral-tasting oil"
+    },
+    {
+      "name": "1/4 cup chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, water, soy sauce, sake, rice vinegar, sugar, salt, and black pepper to make the batter.",
+    "Add the shredded cabbage to the bowl and toss to coat with the batter.",
+    "Heat a 10-inch non-stick skillet or okonomiyaki pan over medium heat.",
+    "Brush the skillet with cooking oil and add the batter and cabbage mixture.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Loosen the edges of the okonomiyaki with a spatula and flip it over.",
+    "Cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Transfer the okonomiyaki to a serving plate and brush with wholegrain mustard.",
+    "Top with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "one-pan",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-wholegrain-mustard-japanese-cabbage-japanese-okonomiyaki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-wholegrain-mustard-japanese-cabbage-japanese-okonomiyaki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Hearty Wholegrain Mustard",
+    "dishForm": "Japanese Okonomiyaki"
+  }
+}
