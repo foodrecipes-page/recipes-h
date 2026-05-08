@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Juicy Venezuelan Chicken Skewers",
+  "description": "Indulge in the rich flavors of Venezuela with these nutty and juicy chicken skewers, perfect for a diabetic-friendly dinner option. The binchotan-charcoal adds a smoky depth to the dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 piece",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, using the binchotan-charcoal for a smoky flavor.",
+    "In a large bowl, whisk together olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with your choice of sides, such as grilled vegetables or quinoa.",
+    "Refrigerate any leftovers and consume within a day or two."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "grilled-chicken",
+    "smoky-flavors",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "hearty-juicy-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:05:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "garlic clove",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Skewers"
+  }
+}
