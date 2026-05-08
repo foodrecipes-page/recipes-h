@@ -2280,6 +2280,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-irish-beef-stew",
+    "title": "Hearty Dense Irish Beef Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "irish-cuisine",
+      "one-pot",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-korean-cherry-banchan",
     "title": "Hearty Dense Korean Cherry Banchan",
     "tags": [

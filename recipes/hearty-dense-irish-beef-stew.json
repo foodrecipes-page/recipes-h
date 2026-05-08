@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Dense Irish Beef Stew",
+  "description": "A tangy and indulgent Irish dish featuring coriander and a rich glaze, this stew is perfect for a cold winter's night. It is nut-free-friendly and made with tender beef and fresh vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "packed"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar works too"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set it aside.",
+    "Add the chopped onions to the pot and cook until they are softened and lightly browned, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Stir in the ground coriander, beef broth, tomato paste, brown sugar, and red wine vinegar.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "one-pot",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "hearty-dense-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "coriander",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Stew"
+  }
+}
