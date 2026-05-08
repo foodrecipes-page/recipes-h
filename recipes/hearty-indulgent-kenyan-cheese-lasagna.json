@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Indulgent Kenyan Cheese Lasagna",
+  "description": "A rich and flavorful Kenyan dish featuring layers of cheese, pasta, and chimichurri sauce, finished with a tempering chocolate drizzle.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "kenyan tea leaves",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, and parmesan cheese.",
+    "Spread a layer of chimichurri sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the chimichurri sauce.",
+    "Spread half of the cheese mixture on top of the noodles.",
+    "Repeat the layers, starting with the noodles, then the chimichurri sauce, and finally the remaining cheese mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes.",
+    "Melt the tempering chocolate and drizzle over the top of the lasagna.",
+    "Sprinkle the kenyan tea leaves and salt to taste over the top of the lasagna."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "indulgent",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-indulgent-kenyan-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indulgent-kenyan-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:16:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Hearty Indulgent",
+    "dishForm": "Lasagna"
+  }
+}
