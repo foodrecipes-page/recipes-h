@@ -1,0 +1,91 @@
+{
+  "title": "Heavy Dense Filipino Bread Ginataang Bilo Bilo",
+  "description": "A funky dense Filipino dish featuring tomato ketchup and double rise bread, this ayurvedic rajasic friendly form of ginataang bilo bilo is a unique treat. It combines the richness of coconut milk with the sweetness of bread and ketchup.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Cut the bread into small cubes and toast until lightly browned.",
+    "In a large pot, combine the coconut milk, tomato ketchup, sugar, water, and salt, and bring to a boil.",
+    "Reduce the heat to medium low and add the toasted bread, tapioca pearls, and jackfruit to the pot.",
+    "Simmer the mixture for 10 minutes or until the tapioca pearls are cooked.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the ginataang bilo bilo warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-recipes",
+    "filipino-food",
+    "jackfruit-recipes",
+    "tapioca-pearls",
+    "unique-desserts",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "heavy-dense-filipino-bread-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavy-dense-filipino-bread-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:18:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bread",
+    "descriptor": "heavy dense",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
