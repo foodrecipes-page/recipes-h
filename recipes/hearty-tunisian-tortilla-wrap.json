@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Tunisian Tortilla Wrap",
+  "description": "A mustardy and tender Tunisian dish featuring flour tortilla, beurre-monte, and raw-friendly ingredients, perfect for a satisfying lunch or snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "In a small bowl, whisk together beurre-monte and Dijon mustard until smooth.",
+    "Spread a tablespoon of the beurre-monte mixture onto each tortilla.",
+    "Top each tortilla with a quarter cup of hummus, leaving a small border around the edges.",
+    "Arrange chopped cucumber, bell pepper, and parsley on top of the hummus.",
+    "Season with salt and black pepper to taste.",
+    "Fold the bottom edge of each tortilla up over the filling, then fold in the sides and roll up to form a tight wrap.",
+    "Place the wraps in the skillet, seam-side down, and cook for 2-3 minutes or until lightly browned.",
+    "Flip the wraps over and cook for an additional 2 minutes or until crispy and golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "lunch-ideas",
+    "raw-friendly",
+    "snack-ideas",
+    "tunisian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-tunisian-tortilla-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tunisian-tortilla-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:05:56Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "beurre-monte",
+    "primaryIngredient": "flour tortilla",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tortilla",
+    "descriptor": "Hearty Indulgent",
+    "dishForm": "Wrap"
+  }
+}
