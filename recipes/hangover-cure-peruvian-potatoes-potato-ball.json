@@ -1,0 +1,108 @@
+{
+  "title": "Hangover Cure Peruvian Potato Ball (Papa Rellena)",
+  "description": "A creamy, smoky, and comforting Peruvian dish that's perfect for a hangover cure.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ancho chilies",
+      "amount": "2",
+      "notes": "roasted"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the ancho chilies in the oven for 10-12 minutes, or until charred.",
+    "Peel the roasted chilies and chop them into 1-inch pieces.",
+    "In a pan, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Add the chopped potatoes, soy sauce, and lime juice to the pan. Cook for 5 minutes, until the potatoes are slightly tender.",
+    "Using a spoon, scoop out some of the potato mixture to make a well in the center.",
+    "Add the chopped cilantro, vegan mayonnaise, and roasted ancho chilies to the well.",
+    "Mix the potato mixture to seal the filling inside.",
+    "Form the potato mixture into 6-8 balls.",
+    "Place the potato balls on a baking sheet lined with parchment paper.",
+    "Drizzle with a little olive oil and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "papa-rellena",
+    "peruvian",
+    "smoky",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "hangover-cure-peruvian-potatoes-potato-ball",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-peruvian-potatoes-potato-ball",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:45:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ancho chillies",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Hangover Cure",
+    "dishForm": "Potato Ball"
+  }
+}

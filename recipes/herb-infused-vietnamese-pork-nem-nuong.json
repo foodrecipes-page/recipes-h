@@ -1,0 +1,93 @@
+{
+  "title": "Herb Infused Vietnamese Pork Nem Nuong",
+  "description": "Savory and light, this Vietnamese dish features red onions and render fat, making it a great low sodium option. It is a show off dish that is sure to impress.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, combine the ground pork, fish sauce, lime juice, brown sugar, grated ginger, garlic, and black pepper.",
+    "Mix everything together until just combined, being careful not to overmix.",
+    "Add the sliced red onion to the bowl and mix until the onion is evenly distributed.",
+    "Using your hands, shape the mixture into small cylinders, about 1 inch in diameter and 2 inches long.",
+    "Place the nem nuong on the grill and cook for 5 minutes on each side, or until cooked through.",
+    "While the nem nuong is cooking, prepare the render fat by heating it in a small saucepan over low heat.",
+    "Once the nem nuong is cooked, brush it with the render fat and serve immediately.",
+    "Serve the nem nuong with your favorite dipping sauce and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "grilled-meat",
+    "herb-infused",
+    "low-sodium",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "herb-infused-vietnamese-pork-nem-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-vietnamese-pork-nem-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:45:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "red onions",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Herb Infused",
+    "dishForm": "Nem Nuong"
+  }
+}

@@ -288,6 +288,21 @@
     "shard": "h"
   },
   {
+    "slug": "hangover-cure-peruvian-potatoes-potato-ball",
+    "title": "Hangover Cure Peruvian Potato Ball (Papa Rellena)",
+    "tags": [
+      "comfort-food",
+      "hangover-cure",
+      "papa-rellena",
+      "peruvian",
+      "smoky",
+      "vegan-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hangover-cure-peruvian-rest-meat-paella",
     "title": "Hangover Cure Peruvian Rest-Meat Paella",
     "tags": [
@@ -4868,6 +4883,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "herb-infused-vietnamese-pork-nem-nuong",
+    "title": "Herb Infused Vietnamese Pork Nem Nuong",
+    "tags": [
+      "asian-inspired",
+      "grilled-meat",
+      "herb-infused",
+      "low-sodium",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
