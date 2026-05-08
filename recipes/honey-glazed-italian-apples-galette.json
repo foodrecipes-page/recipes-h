@@ -1,0 +1,100 @@
+{
+  "title": "Honey-Glazed Italian Apples Galette",
+  "description": "A sweet and tangy Italian-inspired dessert featuring crispy Braeburn apples, miso-marinated for an added depth of flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "3",
+      "notes": "about 3 cups sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1/2 tablespoon",
+      "notes": "white miso"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "raw honey"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "finely ground almonds"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cold, cut into small pieces"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, whisk together miso paste and honey until smooth.",
+    "In a large bowl, combine sliced apples and miso-honey mixture; let it sit for 15-20 minutes.",
+    "On a lightly floured surface, roll out almond flour to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Arrange the marinated apple slices in a spiral pattern, leaving a 1-inch border around the edges.",
+    "Dot the top of the apples with unsalted butter pieces.",
+    "Fold the edges of the almond flour dough over the apples, pressing gently to seal.",
+    "Brush the egg wash over the dough to give it a golden glaze.",
+    "Sprinkle with salt and garnish with a sprig of fresh thyme.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let the galette cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "honey-glazed-italian-apples-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-italian-apples-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:33:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "braeburn apples",
+    "diet": "kosher",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "apples",
+    "descriptor": "honey-glazed",
+    "dishForm": "Galette"
+  }
+}
