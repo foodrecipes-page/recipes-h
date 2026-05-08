@@ -1,0 +1,94 @@
+{
+  "title": "Healing Herbal Kenyan Chicken Wrap",
+  "description": "A savory and shattering Kenyan dish featuring chicken, herbs, and blue food coloring, wrapped in leaves and steamed to perfection, perfect for post-workout meals with anti-inflammatory benefits.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "In a large bowl, mix together chicken, blue food coloring, turmeric, ginger, garlic, and salt.",
+    "Brush the coconut oil onto the banana leaves.",
+    "Place a quarter of the chicken mixture onto the center of each banana leaf.",
+    "Fold the leaves over the filling to form a tight package.",
+    "Place the packages in the steamer basket.",
+    "Cover the steamer and steam for 20 minutes.",
+    "Remove the packages from the steamer and let cool for a few minutes.",
+    "Serve the chicken wraps hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "herbal-remedies",
+    "kenyan-cuisine",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "healing-herbal-kenyan-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-herbal-kenyan-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:24:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "blue food colouring",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "healing herbal",
+    "dishForm": "Wrap"
+  }
+}
