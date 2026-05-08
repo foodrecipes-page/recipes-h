@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Dense French Pork Stew",
+  "description": "A rich and flavorful Normandy-style stew featuring pork, cardamom, and a flambe technique, all in one pot and without onions or garlic.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "calvados",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium heat until melted.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the crushed cardamom pods and cook for 1 minute, stirring constantly.",
+    "Sprinkle the flour over the pork and cook for 1 minute, stirring constantly.",
+    "Add the calvados and ignite the mixture, letting it flambe for 2 minutes.",
+    "Add the chicken broth, carrots, potatoes, salt, and pepper, and bring to a boil.",
+    "Cover the pot, transfer it to the oven, and cook at 300 degrees for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "pork-recipes",
+    "special-occasion",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "hearty-dense-french-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-french-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:41:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "cardamom",
+    "diet": "no-onion-no-garlic",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Stew"
+  }
+}

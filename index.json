@@ -2382,6 +2382,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-french-pork-stew",
+    "title": "Hearty Dense French Pork Stew",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "one-pot",
+      "pork-recipes",
+      "special-occasion",
+      "winter-meals"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-irish-beef-stew",
     "title": "Hearty Dense Irish Beef Stew",
     "tags": [
