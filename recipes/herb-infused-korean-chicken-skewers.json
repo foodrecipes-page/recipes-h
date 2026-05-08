@@ -1,0 +1,105 @@
+{
+  "title": "Herb Infused Korean Chicken Skewers",
+  "description": "Grassy and snappy Korean dish featuring tamarind paste, this recipe is a perfect blend of adventurous flavors, served on a slate tile vessel and is FODMAP friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tamarind paste, soy sauce, brown sugar, garlic-infused oil, ginger, sesame oil, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the chicken is cooking, mix the chopped scallions and cilantro in a small bowl.",
+    "After 15 minutes, remove the chicken from the oven and increase the oven temperature to broil.",
+    "Broil the chicken for an additional 2-3 minutes, or until slightly charred.",
+    "Remove the chicken from the oven and garnish with the scallion and cilantro mixture.",
+    "Serve the herb infused Korean chicken skewers on a slate tile vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "chicken-recipes",
+    "dinner-ideas",
+    "gluten-free",
+    "korean-food",
+    "low-fodmap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "herb-infused-korean-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-korean-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:52:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "tamarind paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "herb infused",
+    "dishForm": "Skewers"
+  }
+}

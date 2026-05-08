@@ -5991,6 +5991,21 @@
     "shard": "h"
   },
   {
+    "slug": "herb-infused-korean-chicken-skewers",
+    "title": "Herb Infused Korean Chicken Skewers",
+    "tags": [
+      "asian-cuisine",
+      "chicken-recipes",
+      "dinner-ideas",
+      "gluten-free",
+      "korean-food",
+      "low-fodmap"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 38,
+    "shard": "h"
+  },
+  {
     "slug": "herb-infused-syrian-lamb-kebabs",
     "title": "Herb Infused Syrian Lamb Kebabs",
     "tags": [
@@ -8507,6 +8522,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 130,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-grilled-thai-chicken-skewers",
+    "title": "Hot Grilled Thai Chicken Skewers",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "raw-friendly",
+      "spicy-food",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {

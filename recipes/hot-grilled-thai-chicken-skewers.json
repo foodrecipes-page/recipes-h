@@ -1,0 +1,99 @@
+{
+  "title": "Hot Grilled Thai Chicken Skewers",
+  "description": "A salty, molten, and indulgent Thai dish featuring pineapple juice, perfect for a raw-friendly meal, originating from the Isaan region of Thailand, this recipe combines the sweetness of pineapple with the spiciness of Thai chilies.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together pineapple juice, fish sauce, lime juice, brown sugar, grated ginger, Thai red chili peppers, and garlic.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with sliced pineapple and fresh cilantro.",
+    "Offer steamed jasmine rice or noodles on the side to complete the meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "raw-friendly",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "hot-grilled-thai-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-grilled-thai-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:52:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "pineapple juice",
+    "diet": "raw",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Hot Grilled",
+    "dishForm": "Skewers"
+  }
+}
