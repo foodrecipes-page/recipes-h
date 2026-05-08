@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Russian White Bean Wrap",
+  "description": "A dense and flavorful Russian dish featuring dried white beans, wrapped in a ti leaf, perfect for a satisfying lunch. This vegan-friendly wrap is a show-off dish that is sure to impress.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked white beans and cook them in a large pot of boiling water until they are tender.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion, garlic, carrot, and mushroom until the vegetables are tender.",
+    "Add the cooked white beans to the skillet and stir to combine with the vegetables.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Lay a ti leaf flat on a work surface and spoon about 1/2 cup of the bean and vegetable mixture onto the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve the wraps hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "lunch",
+    "russian",
+    "ti-leaf",
+    "vegan",
+    "white-beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-russian-white-bean-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-russian-white-bean-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:51:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "dried white beans",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "white beans",
+    "descriptor": "hearty dense",
+    "dishForm": "Wrap"
+  }
+}
