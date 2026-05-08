@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Venezuelan Plantains Grill",
+  "description": "A flavorful and comforting dish featuring sweet plantains, nutella, and the rich char of a robata grill.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4"
+    },
+    {
+      "name": "nutella",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Peel the plantains and slice them into 1-inch thick rounds.",
+    "In a small bowl, mix together the cumin, garlic powder, salt, and black pepper.",
+    "Brush the coconut oil onto both sides of the plantain slices, then sprinkle with the spice mixture.",
+    "Place the plantain slices on the grill and cook for 3-4 minutes per side, or until they develop a nice char.",
+    "While the plantains are cooking, melt the nutella in a small saucepan over low heat.",
+    "Once the plantains are done, serve them hot with the melted nutella drizzled over the top and garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin",
+    "one-pan",
+    "sattvic",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "hearty-venezuelan-plantains-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-venezuelan-plantains-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:38:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "nutella",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Plantains",
+    "descriptor": "Hearty",
+    "dishForm": "Grill"
+  }
+}
