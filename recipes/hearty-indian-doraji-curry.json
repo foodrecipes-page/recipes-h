@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Indian Doraji Curry",
+  "description": "A winey and creamy Indian dish featuring bellflower root doraji, perfect for meal prep, this macrobiotic friendly curry is a delight to the taste buds.",
+  "cuisine": "Indian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "doraji",
+      "amount": "2 cups",
+      "notes": "bellflower root"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for another minute.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add doraji and cook for 5 minutes, stirring occasionally.",
+    "Add coconut milk, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add red wine and stir to combine.",
+    "Continue to simmer for another 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "macrobiotic",
+    "meal-prep",
+    "one-pot",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-indian-doraji-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indian-doraji-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:04Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "doraji",
+    "descriptor": "Hearty",
+    "dishForm": "Curry"
+  }
+}

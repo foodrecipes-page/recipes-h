@@ -3744,6 +3744,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-indian-doraji-curry",
+    "title": "Hearty Indian Doraji Curry",
+    "tags": [
+      "indian-cuisine",
+      "macrobiotic",
+      "meal-prep",
+      "one-pot",
+      "vegetarian",
+      "wine-based"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-indian-rice-stick-noodles",
     "title": "Hearty Indian Rice Stick Noodles",
     "tags": [
