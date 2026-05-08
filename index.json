@@ -5703,6 +5703,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-argentinian-fish-skewers",
+    "title": "Hearty Smoky Argentinian Fish Skewers",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "grilled",
+      "pescatarian",
+      "seafood",
+      "smoky"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-greek-vegetable-dolmades",
     "title": "Hearty Smoky Greek Vegetable Dolmades",
     "tags": [

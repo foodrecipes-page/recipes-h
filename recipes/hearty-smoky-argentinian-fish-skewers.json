@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Smoky Argentinian Fish Skewers",
+  "description": "A smoky and comforting Argentinian dish featuring light rum and bonito flakes, perfect for a dinner gathering.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish steaks",
+      "amount": "1 pound",
+      "notes": "such as mahi-mahi or tilapia"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together light rum, lemon juice, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the fish steaks to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated fish onto skewers, leaving a small space between each piece.",
+    "Sprinkle bonito flakes over the fish skewers.",
+    "Grill the fish skewers for 8-10 minutes, flipping occasionally, until cooked through.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "grilled",
+    "pescatarian",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "hearty-smoky-argentinian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-argentinian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:46:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "light rum",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "hearty smoky",
+    "dishForm": "Skewers"
+  }
+}
