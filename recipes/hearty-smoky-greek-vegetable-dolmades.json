@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Smoky Greek Vegetable Dolmades",
+  "description": "A smoky and crunchy Greek dish featuring roasted vegetables and doubanjiang, perfect for a lazy Sunday, this lacto-vegetarian friendly recipe is formed into delicious dolmades.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, salt, and black pepper.",
+    "Add the diced eggplant, zucchini, red bell pepper, and onion to the bowl and toss to coat with the marinade.",
+    "Spread the marinated vegetables on a baking sheet and roast for 30 minutes.",
+    "In a small bowl, mix together doubanjiang and 1 tablespoon of water.",
+    "Add the roasted vegetables, crumbly feta cheese, and doubanjiang mixture to a food processor and pulse until coarsely chopped.",
+    "Lay a grape leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1 tablespoon of the vegetable mixture in the center of the grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the dolma into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Serve the dolmades warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dolmades",
+    "greek-cuisine",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "roasted-vegetables",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-smoky-greek-vegetable-dolmades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-greek-vegetable-dolmades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:57:18Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "doubanjiang",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vegetables",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Dolmades"
+  }
+}

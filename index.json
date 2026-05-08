@@ -4220,6 +4220,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-greek-vegetable-dolmades",
+    "title": "Hearty Smoky Greek Vegetable Dolmades",
+    "tags": [
+      "dolmades",
+      "greek-cuisine",
+      "lacto-vegetarian",
+      "lazy-sunday",
+      "roasted-vegetables",
+      "smoky-flavors"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-mediterranean-lamb-kebabs",
     "title": "Hearty Smoky Mediterranean Lamb Kebabs",
     "tags": [
