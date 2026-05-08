@@ -3938,6 +3938,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-polish-mushroom-tagine",
+    "title": "Hearty Polish Mushroom Tagine",
+    "tags": [
+      "dairy-free",
+      "mushroom-based",
+      "one-pot",
+      "polish-cuisine",
+      "tagine-cooked",
+      "vegetarian"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-polish-pork-hash",
     "title": "Hearty Polish Pork Hash",
     "tags": [
