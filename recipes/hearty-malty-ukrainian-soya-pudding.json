@@ -1,0 +1,86 @@
+{
+  "title": "Hearty Malty Ukrainian Soya Pudding",
+  "description": "A malty, pillowy, festive Ukrainian dish featuring soya milk, lamination-puff, and ayurvedic-sattvic-friendly ingredients, served in a ramekin.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1 1/2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out small squares of pastry, about 3 inches per side.",
+    "In a small bowl, whisk together the soya milk, malt syrup, maple syrup, vanilla extract, and sea salt.",
+    "Spoon a small amount of the soya milk mixture onto one half of each pastry square, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry square over the filling, pressing the edges to seal.",
+    "Place the filled pastry squares in a ramekin, leaving about 1 inch of space between each square.",
+    "Bake the pudding for 25 minutes, or until the pastry is golden brown.",
+    "Remove the pudding from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "malt-syrup",
+    "puff-pastry",
+    "soya-milk",
+    "ukrainian-dish",
+    "vegan-friendly",
+    "vegetarian-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "hearty-malty-ukrainian-soya-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malty-ukrainian-soya-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:47:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "lamination-puff",
+    "primaryIngredient": "soya milk",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "soya",
+    "descriptor": "hearty malty",
+    "dishForm": "Pudding"
+  }
+}
