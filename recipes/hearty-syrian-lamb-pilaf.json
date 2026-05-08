@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Syrian Lamb Pilaf",
+  "description": "A pungent and festive Syrian dish featuring lamb, sherry, and a blend of spices, resulting in a pillowy and flavorful pilaf.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sherry wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sherry wine, cumin, paprika, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the uncooked white rice to the saucepan and stir to combine with the lamb and spice mixture.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pot",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-syrian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-syrian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:13:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "cure",
+    "primaryIngredient": "sherry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Pilaf"
+  }
+}
