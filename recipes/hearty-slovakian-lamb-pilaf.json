@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Slovakian Lamb Pilaf",
+  "description": "A traditional Slovakian dish featuring lamb, garlic, and dried mint, cooked to perfection in one pot. This recipe yields a garlicky, fluffy pilaf that is sure to become a favorite.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the dried mint, salt, and black pepper, and stir to combine.",
+    "Add the uncooked white rice and stir to coat the rice in the oil and mix with the lamb and spices.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "garlicky",
+    "gluten-free",
+    "lamb-based",
+    "one-pot",
+    "raw-friendly",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-slovakian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:17:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "dried mint",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty garlicky",
+    "dishForm": "Pilaf"
+  }
+}
