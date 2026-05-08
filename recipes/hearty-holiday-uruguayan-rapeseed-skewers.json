@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Holiday Uruguayan Rapeseed Skewers",
+  "description": "A festive Uruguayan dish featuring rapeseed oil and ferment-jang, served on a wooden board. This macrobiotic-friendly recipe is perfect for the holidays.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": "1/2 cup",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together rapeseed oil, ferment-jang, and minced garlic.",
+    "Add sliced red onion, red bell pepper, and zucchini to the bowl and toss to coat.",
+    "Thread the vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Brush the skewers with the remaining rapeseed oil mixture during the last 2 minutes of grilling.",
+    "Serve the skewers on a wooden board, garnished with cherry tomatoes and chopped fresh parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "holiday-recipe",
+    "macrobiotic-friendly",
+    "uruguayan-cuisine",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-holiday-uruguayan-rapeseed-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-holiday-uruguayan-rapeseed-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:21:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rapeseed",
+    "descriptor": "hearty holiday",
+    "dishForm": "Skewers"
+  }
+}
