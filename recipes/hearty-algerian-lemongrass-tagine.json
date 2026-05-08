@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Algerian Lemongrass Tagine",
+  "description": "A salty and indulgent Algerian dish featuring lemongrass, this tagine is low in fat and perfect for a special occasion, it is cooked in a donabe vessel and finished on a yakimono grill.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemongrass",
+      "amount": "4 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "In a donabe vessel, heat the olive oil over medium heat.",
+    "Add the chopped onion to the donabe and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the donabe and cook for 1 minute.",
+    "Add the bruised lemongrass, cumin, paprika, salt, and black pepper to the donabe and cook for 1 minute.",
+    "Add the chicken breast to the donabe and cook until it is browned on all sides.",
+    "Add 2 cups of water to the donabe and bring to a boil.",
+    "Reduce the heat to low and simmer the tagine for 20 minutes.",
+    "Finish the tagine on the yakimono grill for 5 minutes.",
+    "Serve the tagine hot, garnished with fresh lemongrass and parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "donabe-recipe",
+    "grilled",
+    "low-fat",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "hearty-algerian-lemongrass-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-algerian-lemongrass-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:03:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "lemongrass",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lemongrass",
+    "descriptor": "hearty indulgent",
+    "dishForm": "Tagine"
+  }
+}

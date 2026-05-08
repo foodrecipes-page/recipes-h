@@ -1151,6 +1151,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-algerian-lemongrass-tagine",
+    "title": "Hearty Algerian Lemongrass Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "donabe-recipe",
+      "grilled",
+      "low-fat",
+      "special-occasion"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-avocado-bowl",
     "title": "Hearty American Avocado Bowl",
     "tags": [
