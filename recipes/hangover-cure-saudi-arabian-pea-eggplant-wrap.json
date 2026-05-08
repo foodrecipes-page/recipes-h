@@ -1,0 +1,117 @@
+{
+  "title": "Hangover-cure Saudi-Arabian Pea-eggplant Wrap",
+  "description": "Soothe your hangover with our peppery and aerated Saudi-Arabian dish featuring pea-eggplant, carefully wrapped in a gluten-free-friendly ti-leaf wrap.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pea-eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free ti-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "0.125 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Mash garlic and mix with ghee, then set aside.",
+    "Heat a non-stick skillet over medium heat.",
+    "Add pea-eggplant and cook until it reaches an internal temperature of 185°F (85°C).",
+    "Add black pepper, Middle Eastern spices, and salt to the pea-eggplant and mix well.",
+    "Warm the gluten-free ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wrap by placing the cooked pea-eggplant mixture onto the center of the warm ti-leaf wrap, leaving a 1-inch border around the edges.",
+    "Drizzle Greek yogurt sauce over the pea-eggplant mixture, followed by a sprinkle of parsley, cilantro, and red pepper flakes (if using).",
+    "Fold the bottom edge of the ti-leaf wrap up over the filling, then fold in the sides and roll up the wrap to create a neat cylinder shape.",
+    "Slice the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "hangover-cure",
+    "pea-eggplant",
+    "saudi-arabian",
+    "ti-leaf-wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "hangover-cure-saudi-arabian-pea-eggplant-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-saudi-arabian-pea-eggplant-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "pea-eggplant",
+    "descriptor": "Hangover-cure",
+    "dishForm": "Wrap"
+  }
+}
