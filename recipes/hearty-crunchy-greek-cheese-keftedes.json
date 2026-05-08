@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Crunchy Greek Cheese Keftedes",
+  "description": "A crowd-pleasing Greek dish featuring cheese and crunchy double-rise bread, these garlicky keftedes are egg-free friendly and perfect for any occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grated kefalograviera cheese",
+      "amount": "1 cup",
+      "notes": "or other sharp Greek cheese"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "2 cups",
+      "notes": "cubed and toasted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the toasted bread, grated cheese, minced garlic, salt, and black pepper.",
+    "Mix well until the bread is evenly coated with the cheese and garlic mixture.",
+    "Add the olive oil, chopped parsley, and lemon zest to the bowl and mix until a dough forms.",
+    "Use your hands to shape the dough into small keftedes, about 1 1/2 inches in diameter.",
+    "Place the keftedes on a baking sheet lined with parchment paper.",
+    "Bake the keftedes in the preheated oven for 20 minutes, or until they are golden brown and crispy.",
+    "Remove the keftedes from the oven and let them cool on a wire rack for 5 minutes.",
+    "Serve the keftedes warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "crunchy",
+    "easy-to-make",
+    "greek-cuisine",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "hearty-crunchy-greek-cheese-keftedes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-greek-cheese-keftedes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:03:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheese",
+    "descriptor": "hearty crunchy",
+    "dishForm": "Keftedes"
+  }
+}

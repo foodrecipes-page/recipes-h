@@ -2245,6 +2245,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crunchy-greek-cheese-keftedes",
+    "title": "Hearty Crunchy Greek Cheese Keftedes",
+    "tags": [
+      "cheese-lovers",
+      "crunchy",
+      "easy-to-make",
+      "greek-cuisine",
+      "snack-time",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crunchy-indian-cox-apple-palak-paneer",
     "title": "Hearty Crunchy Indian Cox Apple Palak Paneer",
     "tags": [
