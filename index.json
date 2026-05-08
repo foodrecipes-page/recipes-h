@@ -2651,6 +2651,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-homemade-greek-beef-stifado",
+    "title": "Hearty Homemade Greek Beef Stifado",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "greek-cuisine",
+      "hearty",
+      "one-pot",
+      "winter-nights"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 110,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-homemade-venezuelan-sauerkraut-empanadas",
     "title": "Hearty Homemade Venezuelan Sauerkraut Empanadas",
     "tags": [
