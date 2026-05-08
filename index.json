@@ -1003,6 +1003,21 @@
     "shard": "h"
   },
   {
+    "slug": "healthy-asian-lime-leaves-bowl",
+    "title": "Healthy Asian Lime Leaves Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "raw-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "healthy-chinese-tofu-bao",
     "title": "Healthy Chinese Tofu Bao",
     "tags": [
@@ -3822,6 +3837,20 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-jamaican-pork-bake",
+    "title": "Hearty Jamaican Pork Bake",
+    "tags": [
+      "caribbean-dishes",
+      "halal-friendly",
+      "jamaican-cuisine",
+      "pork-recipes",
+      "wood-fired-oven"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 70,
     "shard": "h"
   },
   {
@@ -8967,6 +8996,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "herby-silky-middle-eastern-yogurt-labneh",
+    "title": "Herby Silky Middle Eastern Yogurt Labneh",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "mediterranean",
+      "middle-eastern",
+      "vegetarian",
+      "yogurt-based"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {

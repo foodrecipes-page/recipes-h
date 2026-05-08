@@ -1,0 +1,108 @@
+{
+  "title": "Healthy Asian Lime Leaves Bowl",
+  "description": "A resinous and molten meal prep dish featuring lime leaves and a mirepoix base, perfect for a raw friendly meal option.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lime leaves",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, whisk together soy sauce, sesame oil, salt, and pepper.",
+    "Add the diced onions, carrots, and celery to the bowl and toss to combine.",
+    "Spread the mixture on a baking sheet and roast for 20 minutes.",
+    "In a separate pan, heat a couple of tablespoons of sesame oil over medium heat.",
+    "Add the cubed tofu to the pan and cook until golden brown.",
+    "Add the cooked brown rice to the pan and stir to combine with the tofu.",
+    "Stir in the roasted mirepoix mixture and cook for an additional 2 minutes.",
+    "Add the fresh or dried lime leaves to the pan and stir to combine.",
+    "Serve the mixture in a bowl and garnish with additional lime leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "healthy-asian-lime-leaves-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-asian-lime-leaves-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:14:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "lime leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "lime leaves",
+    "descriptor": "Healthy",
+    "dishForm": "Bowl"
+  }
+}

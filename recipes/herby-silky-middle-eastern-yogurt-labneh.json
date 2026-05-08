@@ -1,0 +1,95 @@
+{
+  "title": "Herby Silky Middle Eastern Yogurt Labneh",
+  "description": "A savory and silky Middle Eastern dish featuring genmaicha and char-grill-yang flavors, perfect for a date night, made with labneh, a type of yogurt cheese, and a blend of Mediterranean herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "labneh",
+      "amount": "1 cup",
+      "notes": "or Greek yogurt"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "1/4 cup",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "char-grill-yang seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mediterranean herb mix",
+      "amount": "1 tablespoon",
+      "notes": "including parsley, dill, and mint"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the labneh, genmaicha tea, char-grill-yang seasoning, and Mediterranean herb mix until smooth.",
+    "Add the lemon juice, garlic, and salt, and whisk until well combined.",
+    "With the bowl placed over an ice bath, slowly pour in the olive oil while continuously whisking the mixture until it thickens and emulsifies.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Just before serving, give the labneh a good stir and spoon it into individual serving cups or a large serving dish.",
+    "Garnish with additional Mediterranean herbs, if desired.",
+    "Serve chilled, garnished with a sprinkle of sumac or paprika, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "mediterranean",
+    "middle-eastern",
+    "vegetarian",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "herby-silky-middle-eastern-yogurt-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herby-silky-middle-eastern-yogurt-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:14:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "genmaicha",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "yogurt",
+    "descriptor": "Herby Silky",
+    "dishForm": "Labneh"
+  }
+}
