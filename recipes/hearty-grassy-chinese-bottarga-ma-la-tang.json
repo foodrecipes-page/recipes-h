@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Grassy Chinese Bottarga Ma La Tang",
+  "description": "A midnight-craving Chinese dish featuring bottarga, glaze, and Sichuan flavors, served in a tagliere vessel. This kosher-friendly recipe combines grassy and shaggy textures with bold flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bottarga",
+      "amount": "6 oz",
+      "notes": "dried and grated"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "2 tsp",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grassy herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley or cilantro"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Toast the Sichuan peppercorns in a dry pan over medium heat until fragrant.",
+    "Grind the toasted peppercorns into a fine powder using a spice grinder.",
+    "Combine the soy sauce, rice vinegar, and honey in a small bowl to make the glaze.",
+    "Add the grated bottarga to the glaze and stir until well combined.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the grassy herbs and scallions to the skillet and stir-fry until wilted.",
+    "Add the bottarga glaze to the skillet and stir-fry for an additional 2 minutes.",
+    "Serve the ma la tang in a tagliere vessel, garnished with additional grassy herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "high-protein",
+    "kosher-friendly",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-grassy-chinese-bottarga-ma-la-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grassy-chinese-bottarga-ma-la-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:58:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "bottarga",
+    "diet": "kosher",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "bottarga",
+    "descriptor": "Hearty Grassy",
+    "dishForm": "Ma La Tang"
+  }
+}
