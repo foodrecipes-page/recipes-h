@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Bitter Spanish Mushrooms Pulpo A La Gallega",
+  "description": "A bitter and crumbly Spanish dish featuring fresh thyme, perfect for a date night, this vegetarian friendly recipe is a twist on the traditional pulpo a la gallega, served in a stone bowl dolsot.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "mix of cremini and shiitake"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the mushrooms and cook for 5 minutes until they release their liquid and start to brown.",
+    "Add the thyme, smoked paprika, salt, black pepper, and red pepper flakes, and cook for 1 minute.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the mushroom mixture to a stone bowl dolsot.",
+    "Serve immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "mushroom-recipes",
+    "spanish-cuisine",
+    "stone-bowl-recipes",
+    "thyme-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-bitter-spanish-mushrooms-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-bitter-spanish-mushrooms-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "fresh thyme",
+    "diet": "vegetarian",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Hearty Bitter",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
