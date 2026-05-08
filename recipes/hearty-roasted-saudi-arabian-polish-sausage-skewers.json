@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Roasted Saudi Arabian Polish Sausage Skewers",
+  "description": "A flavorful and crunchy dish featuring Polish sausage, inspired by Saudi Arabian cuisine, with a unique nigiri-shaping technique, perfect for adventurous eaters, and friendly to those with egg allergies.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the sliced Polish sausage, onion, and bell pepper to the bowl and toss to coat with the marinade.",
+    "Thread the marinated ingredients onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 20 minutes, or until the sausage is browned and the vegetables are tender.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "roasted-vegetables",
+    "sausage-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "hearty-roasted-saudi-arabian-polish-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-saudi-arabian-polish-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "polish sausage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Polish sausage",
+    "descriptor": "Hearty roasted",
+    "dishForm": "Skewers"
+  }
+}

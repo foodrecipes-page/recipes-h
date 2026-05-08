@@ -5100,6 +5100,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roasted-saudi-arabian-polish-sausage-skewers",
+    "title": "Hearty Roasted Saudi Arabian Polish Sausage Skewers",
+    "tags": [
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "roasted-vegetables",
+      "sausage-recipes",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-robata-grilled-russian-potato-salad",
     "title": "Hearty Robata-Grilled Russian Potato Salad",
     "tags": [
@@ -10622,6 +10637,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hungover-healing-greek-lamb-kleftiko",
+    "title": "Hungover Healing Greek Lamb Kleftiko",
+    "tags": [
+      "comfort-food",
+      "greek-food",
+      "hangover-cure",
+      "one-pot",
+      "whole30"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {

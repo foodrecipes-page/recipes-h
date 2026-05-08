@@ -1,0 +1,102 @@
+{
+  "title": "Hungover Healing Greek Lamb Kleftiko",
+  "description": "A traditional Greek dish featuring slow-cooked lamb in a rich beurre noisette sauce, served in a copper mug to help cure hangovers.",
+  "cuisine": "Greek",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "beurre noisette",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes, then remove from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the beurre noisette, lemon juice, dried oregano, salt, black pepper, and bay leaves to the pot, stirring to combine.",
+    "Return the lamb to the pot and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven, cooking for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly before serving the lamb in copper mugs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-food",
+    "hangover-cure",
+    "one-pot",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hungover-healing-greek-lamb-kleftiko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hungover-healing-greek-lamb-kleftiko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Hungover Healing",
+    "dishForm": "Kleftiko"
+  }
+}
