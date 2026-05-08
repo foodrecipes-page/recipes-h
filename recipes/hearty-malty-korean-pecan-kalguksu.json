@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Malty Korean Pecan Kalguksu",
+  "description": "A malty, shattering, weeknight Korean dish featuring pecan nuts and pasta-water-emulsion, this kosher-friendly kalguksu is perfect for a quick dinner",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kalguksu noodles",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the kalguksu noodles according to the package instructions",
+    "In a blender or food processor, blend the chopped pecan nuts, malted milk powder, and 1/4 cup of water until a smooth emulsion forms",
+    "In a large skillet, heat the sesame oil over medium heat and saute the minced garlic and grated ginger until fragrant",
+    "Add the cooked noodles to the skillet and stir to combine with the garlic and ginger",
+    "Add the soy sauce and pecan emulsion to the skillet and stir to combine",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened slightly",
+    "Stir in the chopped green onions and cook for an additional minute",
+    "Serve the kalguksu hot, garnished with additional chopped pecans and green onions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "kosher-friendly",
+    "malty",
+    "nutty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "hearty-malty-korean-pecan-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malty-korean-pecan-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:38:03Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "pecan nuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pecans",
+    "descriptor": "Hearty Malty",
+    "dishForm": "Kalguksu"
+  }
+}

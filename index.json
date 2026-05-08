@@ -4485,6 +4485,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-malty-korean-pecan-kalguksu",
+    "title": "Hearty Malty Korean Pecan Kalguksu",
+    "tags": [
+      "korean-cuisine",
+      "kosher-friendly",
+      "malty",
+      "nutty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-malty-turkish-celeriac-menemen",
     "title": "Hearty Malty Turkish Celeriac Menemen",
     "tags": [
