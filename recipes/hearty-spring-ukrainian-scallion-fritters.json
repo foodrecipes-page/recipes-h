@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Spring Ukrainian Scallion Fritters",
+  "description": "A delicious and savory Ukrainian dish featuring scallions, perfect for a spring brunch, these fritters are vegetarian-friendly and packed with umami flavor. They are deep-fried to a golden crisp, making them a satisfying treat.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, salt, and pepper.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the chopped scallions to the egg mixture and stir to combine.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the scallion mixture into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the fritters for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "deep-fried",
+    "spring-recipes",
+    "ukrainian-cuisine",
+    "umami-rich",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "hearty-spring-ukrainian-scallion-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spring-ukrainian-scallion-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:43:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "scallions",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "scallions",
+    "descriptor": "Hearty Spring",
+    "dishForm": "Fritters"
+  }
+}
