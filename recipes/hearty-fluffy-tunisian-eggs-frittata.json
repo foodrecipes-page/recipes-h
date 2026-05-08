@@ -1,0 +1,123 @@
+{
+  "title": "hearty fluffy tunisian eggs frittata",
+  "description": "a rich and savory frittata filled with the flavors of tunisia, featuring a tangy mustard sauce and a hint of vinegar, perfect for a weekend brunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 pound",
+      "notes": "lean, 90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "add the onion and red bell pepper to the skillet and cook until they are softened.",
+    "stir in the garlic, mustard seeds, and vinegar, and cook for 1 minute.",
+    "in a large bowl, whisk together the eggs, salt, and a pinch of black pepper.",
+    "add the cooked beef and vegetable mixture to the bowl and stir to combine.",
+    "heat a 9-inch oven-safe skillet over medium heat.",
+    "add the remaining 1 tablespoon of oil to the skillet and tilt it to coat the bottom.",
+    "pour the egg mixture into the skillet and cook for 2-3 minutes, until the edges start to set.",
+    "transfer the skillet to the preheated oven and bake for 15-20 minutes, until the frittata is set and golden brown.",
+    "remove the skillet from the oven and let it cool for 1-2 minutes.",
+    "use a spatula to loosen the frittata from the skillet and transfer it to a plate or cutting board."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "hearty-fluffy-tunisian-eggs-frittata",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fluffy-tunisian-eggs-frittata",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:07:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "stir-fry",
+    "primaryIngredient": "vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "eggs",
+    "descriptor": "Hearty Fluffy",
+    "dishForm": "Frittata"
+  }
+}

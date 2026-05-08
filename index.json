@@ -2164,6 +2164,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-fluffy-tunisian-eggs-frittata",
+    "title": "hearty fluffy tunisian eggs frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-fluffy-tunisian-tofu-tagine",
     "title": "Hearty Fluffy Tunisian Tofu Tagine",
     "tags": [
@@ -7669,6 +7684,21 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": null,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-crunchy-filipino-shrimp-skewers",
+    "title": "Hot Crunchy Filipino Shrimp Skewers",
+    "tags": [
+      "dairy-free",
+      "filipino-food",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 32,
     "shard": "h"
   },
   {
