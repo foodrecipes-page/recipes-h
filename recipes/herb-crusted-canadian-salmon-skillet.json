@@ -1,0 +1,101 @@
+{
+  "title": "Herb Crusted Canadian Salmon Skillet",
+  "description": "A citrusy and flavorful solo dinner dish featuring Canadian salmon, herbs, and a beurre-monte sauce, perfect for a low-fat friendly meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "6 oz",
+      "notes": "fresh Canadian salmon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "beurre-monte sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together parsley, dill, garlic powder, salt, and black pepper.",
+    "Place the salmon fillet in a skillet and brush with olive oil.",
+    "Sprinkle the herb mixture evenly over the salmon fillet.",
+    "Squeeze lemon juice over the salmon and sprinkle with lemon zest.",
+    "Place the skillet in the oven and bake for 12 minutes.",
+    "While the salmon is baking, prepare the beurre-monte sauce by whisking it in a small saucepan over low heat.",
+    "Remove the skillet from the oven and brush the beurre-monte sauce over the salmon.",
+    "Return the skillet to the oven and bake for an additional 2 minutes.",
+    "Remove the skillet from the oven and let it rest for 1 minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "citrusy",
+    "herb-crusted",
+    "low-fat",
+    "one-pan",
+    "salmon-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "herb-crusted-canadian-salmon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-crusted-canadian-salmon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:31:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "seasoning",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "Herb Crusted",
+    "dishForm": "Skillet"
+  }
+}

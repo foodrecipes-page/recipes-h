@@ -1,0 +1,104 @@
+{
+  "title": "hunger-quenching norwegian kjottbjor-soaked-flatbread",
+  "description": "tangy, pillowy flatbread soaked in a savory mixture of kjottbjor and white wine, perfect for satisfying your midnight cravings. this recipe is egg-free friendly and a delicious twist on traditional norwegian cuisine",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for a more tender crumb"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "use a dry white wine for the best flavor"
+    },
+    {
+      "name": "kjottbjor",
+      "amount": "1 cup",
+      "notes": "kjottbjor is a norwegian meat and vegetable stew"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley adds a bright, fresh flavor"
+    }
+  ],
+  "instructions": [
+    "combine water, flour, yeast, sugar, and salt in a large mixing bowl to create a shaggy dough",
+    "knead the dough for 10 minutes until it becomes smooth and elastic",
+    "place the dough in a greased bowl, cover it with plastic wrap, and let it rest in a warm place for 1 hour",
+    "punch down the dough and divide it into 4 equal pieces",
+    "roll out each piece into a thin circle",
+    "heat a large non-stick skillet over medium-high heat and cook each flatbread for 1-2 minutes on each side, until it is golden brown",
+    "place the cooked flatbreads on a wire rack to cool",
+    "in a separate pan, combine the white wine, kjottbjor, and butter and cook over medium heat until the liquid has reduced slightly",
+    "soak each flatbread in the kjottbjor mixture for 1-2 minutes on each side",
+    "serve the flatbreads hot, garnished with chopped fresh parsley"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "kjottbjor",
+    "norwegian",
+    "one-pan",
+    "snack",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hunger-quenching-norwegian-kjott-bjor-soaked-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hunger-quenching-norwegian-kjott-bjor-soaked-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "white wine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Kjott",
+    "descriptor": "Hunger-Quenching",
+    "dishForm": "Bjor-Soaked-Flatbread"
+  }
+}

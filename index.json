@@ -7919,6 +7919,21 @@
     "shard": "h"
   },
   {
+    "slug": "herb-crusted-canadian-salmon-skillet",
+    "title": "Herb Crusted Canadian Salmon Skillet",
+    "tags": [
+      "canadian-cuisine",
+      "citrusy",
+      "herb-crusted",
+      "low-fat",
+      "one-pan",
+      "salmon-recipe"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 24,
+    "shard": "h"
+  },
+  {
     "slug": "herb-crusted-venezuelan-tofu-empanadas",
     "title": "Herb Crusted Venezuelan Tofu Empanadas",
     "tags": [
@@ -11203,6 +11218,22 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hunger-quenching-norwegian-kjott-bjor-soaked-flatbread",
+    "title": "hunger-quenching norwegian kjottbjor-soaked-flatbread",
+    "tags": [
+      "flatbread",
+      "kjottbjor",
+      "norwegian",
+      "one-pan",
+      "snack",
+      "weekend",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
