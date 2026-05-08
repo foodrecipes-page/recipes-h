@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Juicy Saudi Arabian Gouda Tagine",
+  "description": "A resinous and juicy Saudi Arabian dish featuring Gouda cheese, perfect for a date night, this low-calorie-friendly tagine is a unique blend of flavors and textures, with the sweetness of dates and candies balanced by the savory cheese.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup shredded",
+      "notes": "low-fat"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup pitted",
+      "notes": "chopped"
+    },
+    {
+      "name": "candies",
+      "amount": "1/2 cup crushed",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the ground cumin, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Stir in the chopped dates and crushed candies.",
+    "Add the shredded Gouda cheese and stir until melted and well combined.",
+    "Transfer the Dutch oven to the preheated oven and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "date-night",
+    "low-calorie",
+    "one-pot",
+    "saudi-arabian",
+    "sweet-and-savory",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "hearty-juicy-saudi-arabian-gouda-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-saudi-arabian-gouda-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:41:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "candy",
+    "primaryIngredient": "gouda cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Gouda",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Tagine"
+  }
+}
