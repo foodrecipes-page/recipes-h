@@ -1,0 +1,102 @@
+{
+  "title": "Harmonious Crispy Italian Veal Ossobuco",
+  "description": "A fresh and crispy Italian dish featuring veal ossobuco with fermented black beans, finished to an al-dente texture, suitable for Jain-friendly diets. This romantic dish is perfect for special occasions.",
+  "cuisine": "Italian",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4 pieces",
+      "notes": "about 1 1/2 pounds total"
+    },
+    {
+      "name": "fermented black beans",
+      "amount": "1/2 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the veal shanks with salt and pepper.",
+    "Dredge the veal shanks in flour, shaking off excess.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the veal shanks from the pot and set them aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the white wine, vegetable broth, and tomato paste to the pot, stirring to combine.",
+    "Return the veal shanks to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the veal shanks for 1 1/2 hours, or until the meat is tender and falling off the bone."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised-meats",
+    "italian-food",
+    "jain-friendly",
+    "special-occasion",
+    "veal-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "harmonious-crispy-italian-veal-ossobuco",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/harmonious-crispy-italian-veal-ossobuco",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:02:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "fermented black beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Harmonious Crispy",
+    "dishForm": "Ossobuco"
+  }
+}
