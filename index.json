@@ -4522,6 +4522,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mexican-broad-beans-tacos",
+    "title": "Hearty Mexican Broad Beans Tacos",
+    "tags": [
+      "broad-beans",
+      "mexican-food",
+      "plant-based",
+      "tacos",
+      "yeasty-shells"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-middle-eastern-chickpeas-falafel",
     "title": "Hearty Middle Eastern Chickpeas Falafel",
     "tags": [

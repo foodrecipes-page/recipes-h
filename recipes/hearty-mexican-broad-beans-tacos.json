@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Mexican Broad Beans Tacos",
+  "description": "A plant-based Mexican dish featuring broad beans in a miso marinade, served in a yeasty and pillowy taco shell. This adventurous recipe is perfect for those looking to try something new.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "yeasty and pillowy"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine miso paste, lime juice, and olive oil to make the marinade.",
+    "Add the broad beans to the marinade and mix well.",
+    "Let the broad beans marinate for at least 30 minutes.",
+    "Heat a large skillet over medium heat and add the diced onion and minced garlic.",
+    "Cook the onion and garlic until they are softened and fragrant.",
+    "Add the marinated broad beans to the skillet and cook for an additional 5 minutes.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos by filling the shells with the broad bean mixture and topping with chopped cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broad-beans",
+    "mexican-food",
+    "plant-based",
+    "tacos",
+    "yeasty-shells"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-mexican-broad-beans-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mexican-broad-beans-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:31:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "broad beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "broad beans",
+    "descriptor": "hearty pillowy",
+    "dishForm": "Tacos"
+  }
+}
