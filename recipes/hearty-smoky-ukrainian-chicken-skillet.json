@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Smoky Ukrainian Chicken Skillet",
+  "description": "This Ukrainian-inspired skillet dish features charred and springy chicken, infused with the smoky flavors of sazon and bonito flakes, making it a perfect weeknight meal that is low-fat-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until they are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the sazon seasoning and bonito flakes and cook for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and simmer until the liquid has reduced slightly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "low-fat",
+    "one-pan",
+    "smoky-flavor",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "hearty-smoky-ukrainian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-ukrainian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sazon",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Skillet"
+  }
+}
