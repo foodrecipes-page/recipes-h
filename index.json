@@ -2531,6 +2531,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-flaky-croatian-lamb-skillet",
+    "title": "Hearty Flaky Croatian Lamb Skillet",
+    "tags": [
+      "cast-iron-skillet",
+      "croatian-cuisine",
+      "hearty-meals",
+      "lamb-recipes",
+      "low-glycemic",
+      "one-pot"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-flaky-dutch-kielbasa-pastry",
     "title": "Hearty Flaky Dutch Kielbasa Pastry",
     "tags": [
@@ -10058,6 +10073,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hungover-healing-mexican-milk-chiles-rellenos",
+    "title": "Hungover Healing Mexican Milk Chiles Rellenos",
+    "tags": [
+      "citrusy",
+      "hangover-cure",
+      "mexican-breakfast",
+      "satvik-friendly",
+      "vegetarian",
+      "yucatecan"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {

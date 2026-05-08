@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Flaky Croatian Lamb Skillet",
+  "description": "A pungent and flaky one-pot Croatian dish featuring canned tomatoes and lamb, made in a cast-iron skillet. This recipe is low-glycemic-friendly and perfect for a cold evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the katsuramuki-cut lamb shoulder to the skillet and cook until browned on all sides.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the canned tomatoes, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Return the lamb to the skillet and bring the mixture to a simmer.",
+    "Roll out the phyllo dough and use it to cover the skillet, brushing with a little water to seal.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron-skillet",
+    "croatian-cuisine",
+    "hearty-meals",
+    "lamb-recipes",
+    "low-glycemic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hearty-flaky-croatian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-flaky-croatian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:39:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Flaky",
+    "dishForm": "Skillet"
+  }
+}

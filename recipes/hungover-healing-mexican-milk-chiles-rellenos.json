@@ -1,0 +1,99 @@
+{
+  "title": "Hungover Healing Mexican Milk Chiles Rellenos",
+  "description": "A citrusy and refreshing Yucatecan dish featuring semi-skimmed milk and fermented ingredients to help cure hangovers, this satvik-friendly recipe is a unique twist on traditional chiles rellenos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": " Anaheim peppers",
+      "amount": "4 large",
+      "notes": "roasted and peeled"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roast the Anaheim peppers in the oven for 20 minutes, then peel off the skin and remove the seeds.",
+    "In a blender, combine the chilled semi-skimmed milk, lime juice, plain yogurt, honey, salt, and black pepper, and blend until smooth.",
+    "Stuff each roasted pepper with the milk mixture and place on a baking dish.",
+    "Bake the stuffed peppers in the oven for 15 minutes, or until the filling is set.",
+    "Garnish with chopped fresh cilantro and serve warm.",
+    "Let the dish cool to room temperature before refrigerating or freezing.",
+    "Reheat the dish gently before serving, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "hangover-cure",
+    "mexican-breakfast",
+    "satvik-friendly",
+    "vegetarian",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hungover-healing-mexican-milk-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hungover-healing-mexican-milk-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:39:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "satvik",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "milk",
+    "descriptor": "Hungover Healing",
+    "dishForm": "Chiles Rellenos"
+  }
+}
