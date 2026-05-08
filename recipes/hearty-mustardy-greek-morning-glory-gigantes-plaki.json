@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Mustardy Greek Morning Glory Gigantes Plaki",
+  "description": "A quick-fix Greek dish featuring morning-glory-pak-bung in a mustardy lacquer glaze, perfect for a satisfying meal. This ovo-vegetarian friendly recipe is a twist on traditional gigantes plaki.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morning glory",
+      "amount": "1 pound",
+      "notes": "also known as pak bung or water spinach"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Rinse the morning glory and cut it into 2-inch pieces.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the morning glory and cook until wilted, about 3 minutes.",
+    "In a small bowl, whisk together the mustard, lemon juice, salt, and black pepper.",
+    "Pour the mustard mixture over the morning glory and stir to combine.",
+    "Add the tomato paste and vegetable broth, and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the sauce has thickened, about 10 minutes.",
+    "Crack in the eggs and stir gently to combine.",
+    "Cook until the eggs are set, about 2 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick-fix",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "hearty-mustardy-greek-morning-glory-gigantes-plaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mustardy-greek-morning-glory-gigantes-plaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:43:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "morning glory",
+    "descriptor": "hearty mustardy",
+    "dishForm": "Gigantes Plaki"
+  }
+}
