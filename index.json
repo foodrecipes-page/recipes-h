@@ -2248,6 +2248,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-algerian-lamb-tagine",
+    "title": "Hearty Dense Algerian Lamb Tagine",
+    "tags": [
+      "flexitarian",
+      "hearty",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-dutch-tofu-stew",
     "title": "Hearty Dense Dutch Tofu Stew",
     "tags": [
