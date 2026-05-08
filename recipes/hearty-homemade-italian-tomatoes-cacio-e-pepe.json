@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Homemade Italian Tomatoes Cacio E Pepe",
+  "description": "A dairy-free friendly Italian dish featuring tinned tomatoes and a cheesy pull, perfect for midnight cravings. This jammy and satisfying meal is a twist on the classic cacio e pepe.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tinned tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "vegan parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "to replicate cheesy flavor"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the crushed tinned tomatoes to the skillet and stir to combine with the garlic and oil.",
+    "Reduce heat to low and let the tomato mixture simmer for 10 minutes, stirring occasionally.",
+    "Stir in the shredded vegan parmesan cheese and let it melt into the tomato sauce.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the tomato sauce and cheese.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional nutritional yeast if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "italian-food",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-homemade-italian-tomatoes-cacio-e-pepe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-italian-tomatoes-cacio-e-pepe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:35:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Cacio E Pepe"
+  }
+}
