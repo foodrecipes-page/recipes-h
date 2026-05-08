@@ -4896,6 +4896,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spicy-jamaican-chicken-stew",
+    "title": "Hearty Spicy Jamaican Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "jamaican-cuisine",
+      "kosher-friendly",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spicy-middle-eastern-bread-fattoush",
     "title": "Hearty Spicy Middle Eastern Bread Fattoush",
     "tags": [
