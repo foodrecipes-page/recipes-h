@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Smoked Peruvian Smoked Mackerel Ceviche",
+  "description": "A salty and velvety Peruvian dish featuring smoked mackerel, this recipe is perfect for those looking for a festive and flavorful meal. It is also ayurvedic-rajasic-friendly, making it a great option for those following this diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ají amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Poach the smoked mackerel in water at 180 degrees Fahrenheit for 10 minutes.",
+    "Drain the water and let the mackerel cool.",
+    "In a large bowl, combine the cooled mackerel, lime juice, mixed greens, red onion, ají amarillo pepper, and coriander.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the ceviche chilled, garnished with additional coriander if desired.",
+    "Consider serving with corn or sweet potato for a more filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "high-protein",
+    "peruvian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-smoked-peruvian-smoked-mackerel-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-peruvian-smoked-mackerel-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:52:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "hearty smoked",
+    "dishForm": "Ceviche"
+  }
+}
