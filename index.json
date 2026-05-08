@@ -1739,6 +1739,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dutch-vegetables-braise",
+    "title": "Hearty Dutch Vegetables Braise",
+    "tags": [
+      "comfort-food",
+      "low-sodium",
+      "one-pan",
+      "spring",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-egyptian-chicken-broth",
     "title": "Hearty Egyptian Chicken Broth",
     "tags": [
@@ -4454,6 +4469,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-indian-tuna-rajma-jhol",
+    "title": "Heavenly Indian Tuna Rajma Jhol",
+    "tags": [
+      "fish",
+      "gluten-free",
+      "indian",
+      "low-carb",
+      "one-pan",
+      "quick-cooking",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
