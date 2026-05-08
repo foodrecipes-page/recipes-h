@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Smoky Tunisian Bread Flatbread",
+  "description": "A smoky and crunchy Tunisian dish featuring marinated bread, perfect for a monsoon day, with ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups",
+      "notes": "preferably stone ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the whole wheat flour, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, mix the olive oil, minced garlic, and active dry yeast.",
+    "Add the warm water to the yeast mixture and stir to combine.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Punch down the dough and divide it into 4-6 equal pieces.",
+    "Roll out each piece into a thin circle and cook for 2-3 minutes on each side, until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "crunchy",
+    "flatbread",
+    "monsoon",
+    "smoky",
+    "tamasic",
+    "tunisian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-smoky-tunisian-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-tunisian-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:32:45Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "marinate",
+    "primaryIngredient": "bread",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread",
+    "descriptor": "hearty smoky",
+    "dishForm": "Flatbread"
+  }
+}
