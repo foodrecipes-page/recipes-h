@@ -4370,6 +4370,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-korean-bun-noodles",
+    "title": "Hearty Korean Bun Noodles",
+    "tags": [
+      "diabetic-friendly",
+      "korean-food",
+      "low-carb",
+      "noodle-dish",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-korean-callaloo-stew",
     "title": "korean callaloo stew",
     "tags": [

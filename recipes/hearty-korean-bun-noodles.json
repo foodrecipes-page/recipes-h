@@ -1,0 +1,92 @@
+{
+  "title": "Hearty Korean Bun Noodles",
+  "description": "A rich and silky Korean noodle dish featuring bun, perfect for a solo dinner, made in a cataplana vessel and suitable for diabetic-friendly diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bun noodles",
+      "amount": "200g",
+      "notes": "preferably low-carb"
+    },
+    {
+      "name": "pork broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the cataplana vessel over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the gochujang and cook, stirring constantly, for 1 minute.",
+    "Pour in the pork broth and bring the mixture to a boil.",
+    "Add the bun noodles and cook, stirring occasionally, until they are slightly tender, about 5 minutes.",
+    "Stir in the soy sauce and cook for an additional 2 minutes.",
+    "Season with ground black pepper to taste.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "korean-food",
+    "low-carb",
+    "noodle-dish",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-korean-bun-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-korean-bun-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:49:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "bun",
+    "diet": "diabetic-friendly",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bun",
+    "descriptor": "healthy hearty",
+    "dishForm": "Noodles"
+  }
+}
