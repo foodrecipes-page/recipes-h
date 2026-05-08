@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Charred Moroccan Potato Amlou",
+  "description": "A charred, crunchy, festive Moroccan dish featuring russet potato, namul-blanch-season, jain-friendly, formed into amlou.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the potato cubes with olive oil, smoked paprika, cumin, salt, and black pepper until they are evenly coated.",
+    "Spread the potato mixture on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are roasting, toast the chopped almonds in a dry skillet over medium heat, stirring frequently, until they are lightly browned.",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium-high heat, then add the roasted potatoes and cook, stirring occasionally, until they are charred and crispy.",
+    "Stir in the chopped parsley, toasted almonds, honey, and lemon juice, and cook for an additional 2 minutes, or until the potatoes are well coated.",
+    "Transfer the potato mixture to a serving platter and shape into amlou, or a decorative mound.",
+    "Serve the Hearty Charred Moroccan Potato Amlou hot, garnished with additional parsley and almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-recipe",
+    "honey-recipe",
+    "jain-friendly",
+    "moroccan-cuisine",
+    "potato-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-charred-moroccan-potato-amlou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-charred-moroccan-potato-amlou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:16:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "russet potato",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "potato",
+    "descriptor": "Hearty Charred",
+    "dishForm": "Amlou"
+  }
+}
