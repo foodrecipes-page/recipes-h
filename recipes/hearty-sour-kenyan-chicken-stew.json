@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Sour Kenyan Chicken Stew",
+  "description": "A sour and silky Kenyan stew featuring vanilla sugar, perfect for meal prep, made with low sodium ingredients and cooked to perfection using sous vide.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 160 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, vanilla sugar, and chicken broth.",
+    "Add the chicken, onion, garlic, and ginger to the bowl and toss to coat.",
+    "Seal the mixture in a sous vide bag and cook for 2 hours.",
+    "After 2 hours, remove the bag from the water bath and let it cool.",
+    "Add the diced tomatoes to the bag and seal it again.",
+    "Return the bag to the water bath and cook for an additional 30 minutes.",
+    "Remove the bag from the water bath and serve the stew hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "kenyan-cuisine",
+    "low-sodium",
+    "meal-prep",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "hearty-sour-kenyan-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sour-kenyan-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:14:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty sour",
+    "dishForm": "Stew"
+  }
+}

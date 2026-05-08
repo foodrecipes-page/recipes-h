@@ -3781,6 +3781,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-sour-kenyan-chicken-stew",
+    "title": "Hearty Sour Kenyan Chicken Stew",
+    "tags": [
+      "hearty-stew",
+      "kenyan-cuisine",
+      "low-sodium",
+      "meal-prep",
+      "sous-vide"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-sour-norwegian-rhubarb-bake",
     "title": "Hearty Sour Norwegian Rhubarb Bake",
     "tags": [
