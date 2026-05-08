@@ -2,9 +2,7 @@
   "title": "Hearty Jamaican Pork Bake",
   "description": "A rich and juicy Jamaican dish featuring minced pork, baked to perfection in a wood-fired oven, halal-friendly and served in a lazy-susan-spinner vessel.",
   "cuisine": "Jamaican",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "hearty wood fired",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

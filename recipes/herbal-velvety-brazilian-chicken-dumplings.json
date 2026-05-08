@@ -3,8 +3,7 @@
   "description": "A Whole30-friendly Brazilian dish featuring herbal flavors and velvety texture, perfect for satisfying midnight cravings. Made with sesame seed oil and wholesome ingredients.",
   "cuisine": "Brazilian",
   "diet": [
-    "Whole30",
-    "Gluten-free"
+    "Whole30"
   ],
   "meal": "snack",
   "ingredients": [
@@ -65,7 +64,8 @@
     "Add 4-5 dumplings to the skillet and cook for 3-4 minutes on each side, until golden brown.",
     "Repeat with the remaining dumplings.",
     "Serve hot and enjoy!",
-    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -75,7 +75,6 @@
   "tags": [
     "brazilian-cuisine",
     "whole30",
-    "gluten-free",
     "dumplings",
     "chicken"
   ],
@@ -102,5 +101,10 @@
     "mainIngredient": "chicken",
     "descriptor": "herbal velvety",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

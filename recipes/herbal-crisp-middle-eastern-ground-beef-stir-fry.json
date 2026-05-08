@@ -57,7 +57,8 @@
     "Mix in fresh dill and cilantro. Let the mixture cook for an additional minute to allow flavors to meld together.",
     "Add finely chopped spinach leaves. Cover the pan and let the heat soften the leaves, stirring occasionally, approximately 5-7 minutes.",
     "Taste the stir-fry at this point, adjust seasoning with salt and pepper as needed. Mix in lemon juice and sesame seeds last, serving immediately.",
-    "Serve hot."
+    "Serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "Ground Beef",
     "descriptor": "Herbal Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

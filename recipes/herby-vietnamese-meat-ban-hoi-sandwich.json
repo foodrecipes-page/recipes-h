@@ -3,7 +3,6 @@
   "description": "A flavorful Vietnamese sandwich featuring grilled pork, pickled vegetables, and herbs, perfect for a quick meal prep.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "low-carb",
     "paleo"
   ],
@@ -227,7 +226,9 @@
     "Preheat a grill or grill pan to medium-high heat. Divide the dough into 4 equal pieces and shape each piece into a ball. Flatten each ball into a disk shape and place it on the grill. Cook for 2-3 minutes per side, or until the bread is golden brown and crispy.",
     "While the bread is cooking, prepare the pickled carrots and daikon by slicing them thinly and mixing them with 1/4 cup of fish sauce, 1/4 cup of sugar, and 1/4 cup of rice vinegar. Let the mixture sit at room temperature for at least 30 minutes.",
     "Once the bread is cooked, let it cool for a few minutes before slicing it in half lengthwise. Spread 1 tablespoon of mayonnaise on the bottom half of the bread, followed by 1/4 cup of pickled carrots and daikon, 1/4 cup of sliced pork, 1/4 cup of fresh cilantro, and 1/4 cup of fresh mint. Top with the top half of the bread.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -267,5 +268,11 @@
     "mainIngredient": "meat",
     "descriptor": "Herby",
     "dishForm": "Ban Hoi Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

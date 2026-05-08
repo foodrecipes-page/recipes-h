@@ -3,8 +3,7 @@
   "description": "A sweet and dense Ukrainian dish featuring beets and soy sauce, perfect for a quick fix, made on a salt block for added flavor.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "one-pan",
     "root-vegetables",
     "vegetarian",
@@ -84,11 +82,16 @@
     "mood": "quick-fix",
     "technique": "brine-dry",
     "primaryIngredient": "soy sauce",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "beets",
     "descriptor": "Hearty Dense",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

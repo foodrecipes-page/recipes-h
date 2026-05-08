@@ -2,9 +2,7 @@
   "title": "Herbal Gooey Algerian Vine Leaves Bake",
   "description": "A comforting, vegan-friendly baked dish featuring tender vine leaves, chickpeas, and a gooey blend of tomato and herbs.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
   "servings": 1,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "algerian",
     "vine-leaves",
     "bake",
@@ -107,5 +104,9 @@
     "mainIngredient": "Vine Leaves",
     "descriptor": "Herbal Gooey",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

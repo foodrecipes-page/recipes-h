@@ -3,7 +3,6 @@
   "description": "A fusion Filipino dish featuring burrata, nuka-pickled vegetables and flavorful Filipino spices, served with steamed rice.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
     "dairy-free-friendly"
   ],
   "meal": "snack",
@@ -45,7 +44,8 @@
     "Cut burrata cheese into small pieces and add to the pan. Cook for 2 minutes.",
     "Serve the Filipino Burrata Bisik with steamed jasmine rice.",
     "Garnish with additional Thai chilies, if desired.",
-    "Season to taste with salt and pepper."
+    "Season to taste with salt and pepper.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -79,11 +79,17 @@
     "mood": "sick-day",
     "technique": "nuka-pickle",
     "primaryIngredient": "burrata",
-    "diet": "dairy-free",
+    "diet": "dairy-free-friendly",
     "region": null,
     "cuisineAdjective": "Filipino",
     "mainIngredient": "Burrata",
     "descriptor": "Hearty Aerated",
     "dishForm": "Bisik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid",
+    "aligned-axes-diet"
+  ]
 }

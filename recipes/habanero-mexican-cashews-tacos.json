@@ -2,9 +2,7 @@
   "title": "Habanero Mexican Cashews Tacos",
   "description": "Salty, spicy cashew tacos with a dairy‑free cheese pull, perfect for a date night.",
   "cuisine": "Mexican",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "cashew",
-    "dairy-free",
     "date-night",
     "mexican",
     "spicy",
@@ -95,5 +92,9 @@
     "mainIngredient": "cashews",
     "descriptor": "Habanero",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

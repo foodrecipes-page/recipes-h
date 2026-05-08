@@ -81,7 +81,8 @@
     "Fold in cauliflower rice to combine and season with salt and pepper.",
     "Transfer the mixture to a greased baking dish and top evenly with shredded Parmigiano‑Reggiano.",
     "Bake in the preheated oven for 20 minutes until the cheese forms a golden crumbly crust.",
-    "Remove from oven and let rest for 5 minutes before serving."
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -115,5 +116,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Hearty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

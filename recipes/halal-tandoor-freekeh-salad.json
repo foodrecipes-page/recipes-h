@@ -41,14 +41,15 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "Roast the garlic cloves for about 20 minutes until golden brown and slightly caramelized.",
     "Mix freekeh with a pinch of salt, tossing until evenly coated. Spread on baking sheet lined with parchment paper.",
     "Spread roasted garlic over the freekeh and drizzle with pomegranate molasses. Toss gently to combine.",
     "Combine tandoori spices in a small bowl with 1/2 teaspoon salt. Mix into the freekeh mixture, dividing evenly among four plates.",
     "Chop red onion finely and add it on top of each serving.",
     "Finish with fresh mint leaves and preserved lemon zest on each plate.",
-    "Serve immediately as an appetizer or snack."
+    "Serve immediately as an appetizer or snack.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -81,5 +82,9 @@
     "primaryIngredient": "freekeh",
     "diet": "halal",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

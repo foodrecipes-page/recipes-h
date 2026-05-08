@@ -53,7 +53,8 @@
     "Cover the vessel and cook for 20 minutes on medium heat.",
     "In a separate pan, toast rice as per preferred cooking instructions.",
     "After 20 minutes, carefully transfer the rice onto the hot-pot-vessel contents using tongs or a slotted spoon to prevent spilling.",
-    "Serve hot with additional garnishes like fresh herbs if desired."
+    "Serve hot with additional garnishes like fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "HShattered",
     "dishForm": "Hot-Pot-Vessel Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

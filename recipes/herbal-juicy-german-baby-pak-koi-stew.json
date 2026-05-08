@@ -64,7 +64,8 @@
     "After 1 hour, remove the pak koi from the sous-vide machine and stir in the sliced onion.",
     "Season with salt and black pepper to taste.",
     "Serve the stew hot, garnished with additional parsley if desired.",
-    "Store any leftovers in the refrigerator for up to 3 days."
+    "Store any leftovers in the refrigerator for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -102,5 +103,9 @@
     "mainIngredient": "baby pak koi",
     "descriptor": "herbal juicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

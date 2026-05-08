@@ -3,7 +3,6 @@
   "description": "A comforting and flavorful Irish dish featuring a jammy filling, gooey cheese, and a hint of fines herbes. Serve with a side of coleslaw or pickles for added crunch.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
     "dairy"
   ],
   "meal": "dinner",
@@ -35,7 +34,8 @@
     "Return lamb to oven and bake for an additional 30 minutes, or until cheese is melted and bubbly.",
     "Remove from oven and let rest for 10-15 minutes before slicing and serving.",
     "Serve with a side of coleslaw or pickles for added crunch.",
-    "Garnish with chopped fresh herbs, if desired."
+    "Garnish with chopped fresh herbs, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 165,
@@ -72,5 +72,10 @@
     "mainIngredient": "grill",
     "descriptor": "hearty",
     "dishForm": "grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

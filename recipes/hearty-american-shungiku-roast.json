@@ -3,8 +3,7 @@
   "description": "A savory roast featuring tender pork shoulder, the earthy flavor of shungiku leaves, and a crisp paleo puff pastry crust, baked in a terracotta dish for a rustic finish.",
   "cuisine": "American",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -110,5 +109,9 @@
     "mainIngredient": "shungiku",
     "descriptor": "Hearty",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

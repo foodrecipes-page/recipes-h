@@ -3,10 +3,7 @@
   "description": "Grassy, flaky, romantic Mexican (Norteño) dish featuring cherry tomatoes, simmer, shojin-friendly.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free",
-    "pescatarian",
     "meat",
     "dairy-free",
     "shojin"
@@ -69,7 +66,8 @@
     "Stir to combine and cook for an additional 2 minutes.",
     "Return the chicken breast to the skillet and stir to combine with the vegetable mixture.",
     "Reduce heat to low and simmer, covered, for 10 minutes.",
-    "Serve the chicken and vegetable mixture hot, garnished with fresh cilantro if desired."
+    "Serve the chicken and vegetable mixture hot, garnished with fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -108,5 +106,12 @@
     "mainIngredient": "chicken",
     "descriptor": "heavenly flaky",
     "dishForm": "Sizzling Fajita Sizzle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

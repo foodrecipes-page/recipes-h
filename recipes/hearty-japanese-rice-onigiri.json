@@ -3,8 +3,7 @@
   "description": "A creamy, umami-packed onigiri made with gelatin-infused rice, wrapped in nori and grilled to a golden finish.",
   "cuisine": "Japanese",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "rice",
     "descriptor": "Hearty",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

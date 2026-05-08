@@ -2,9 +2,7 @@
   "title": "Hearty Harmonious Brazilian Orange Pasta",
   "description": "A pungent and flaky Brazilian dish featuring orange, pasta water emulsion, and gluten free friendly ingredients, this recipe is perfect for a energizing dinner",
   "cuisine": "brazilian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "tags": [
     "brazilian-cuisine",
     "easy-dinner",
-    "gluten-free",
     "healthy-meal",
     "orange-sauce",
     "pasta-dish"
@@ -92,5 +89,9 @@
     "mainIngredient": "orange",
     "descriptor": "Hearty Harmonious",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

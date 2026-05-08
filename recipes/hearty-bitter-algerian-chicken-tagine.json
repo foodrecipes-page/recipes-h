@@ -70,7 +70,8 @@
     "Cover and simmer for 25 minutes until the chicken is tender and the flavors meld.",
     "Stir in chopped pickled olives, chopped cilantro, and lemon juice, seasoning with salt to taste if needed.",
     "Cook uncovered for another 5 minutes to let the sauce thicken slightly.",
-    "Serve the tagine hot, garnished with extra cilantro, directly from the tagliere."
+    "Serve the tagine hot, garnished with extra cilantro, directly from the tagliere.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -107,5 +108,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Hearty Bitter",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

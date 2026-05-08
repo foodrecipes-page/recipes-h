@@ -2,10 +2,7 @@
   "title": "Herb Silk Fish",
   "description": "A silky and herbal brunch-mood Australian dish featuring fish fillet with a dash-friendly touch.",
   "cuisine": "Australian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -40,10 +37,10 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C). Pat the fish fillets dry with paper towels.",
+    "Preheat your oven to 350°F (175°C). Pat the fish fillets dry with paper towels.",
     "In a mixing bowl, combine chopped fresh herbs, melted vegan butter or olive oil, lemon juice, and salt and pepper. Mix well until evenly distributed.",
     "Coat both sides of the fish fillets generously with the herb mixture. Place them in an oven-safe dish lined with baking parchment.",
-    "Bake for 10-12 minutes at 350\u00b0F (175\u00b0C) or until the fish flakes easily when tested with a fork.",
+    "Bake for 10-12 minutes at 350°F (175°C) or until the fish flakes easily when tested with a fork.",
     "While the fish is cooking, prepare the avocado mash by mashing an avocado with salt and pepper. Set aside as a garnish.",
     "Once done, serve the herb-silk-fish fillets on plates with the avocado mash for extra texture and flavor."
   ],
@@ -76,5 +73,10 @@
     "primaryIngredient": "fish fillet",
     "diet": "dash",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

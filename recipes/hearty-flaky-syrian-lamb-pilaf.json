@@ -3,7 +3,6 @@
   "description": "A traditional Syrian dish featuring lamb, dill, and a flaky crust, perfect for a hearty dinner, this recipe is also FODMAP friendly and incorporates a bain-marie for even cooking.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -97,5 +96,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Hearty Flaky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

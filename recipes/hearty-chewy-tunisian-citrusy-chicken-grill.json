@@ -71,7 +71,8 @@
     "Remove the chicken from the grill and let it rest for a few minutes. In a separate bowl, mix together preserved lemon, cultured creme fraiche, parsley, mint, lemon zest, and Tunisian chili flakes. ",
     "Brush the grill with olive oil to prevent sticking. ",
     "Add the chicken back to the grill and cook for an additional 2-3 minutes, or until it's nicely charred and slightly crispy on the edges.",
-    "Transfer the chicken to a serving platter and spoon the preserved lemon-creme fraiche mixture over the top. Serve immediately, garnished with additional parsley and mint if desired."
+    "Transfer the chicken to a serving platter and spoon the preserved lemon-creme fraiche mixture over the top. Serve immediately, garnished with additional parsley and mint if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -109,5 +110,9 @@
     "mainIngredient": "Citrusy Chicken",
     "descriptor": "Hearty Chewy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

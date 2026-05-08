@@ -52,7 +52,8 @@
     "Add the fenugreek leaves, salt, black pepper, and paprika, and stir to combine.",
     "Reduce heat to low and simmer, covered, for 10 minutes.",
     "Remove the lid and continue to simmer for an additional 5 minutes, stirring occasionally.",
-    "Serve hot, garnished with fresh parsley or cilantro if desired."
+    "Serve hot, garnished with fresh parsley or cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "fenugreek",
     "descriptor": "hearty low carb",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A unique fusion of Norwegian and Mediterranean flavors featuring tender kabanos in a rich miso marinade, slow-cooked to perfection in a ceramic tagine.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -111,5 +110,9 @@
     "mainIngredient": "kabanos",
     "descriptor": "hearty midnight cravings",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -54,7 +54,8 @@
     "If using red wine, add it to the griddle and stir to combine, cooking for an additional 2-3 minutes, until the liquid has been absorbed.",
     "Use a spatula to shape the hash into a flat, round shape, and cook for an additional 2-3 minutes, until the bottom is crispy and golden brown.",
     "Flip the hash over and cook for an additional 2-3 minutes, until the other side is also crispy and golden brown.",
-    "Remove the hash from the griddle and serve hot, garnished with chopped fresh herbs if desired."
+    "Remove the hash from the griddle and serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "hearty winey",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

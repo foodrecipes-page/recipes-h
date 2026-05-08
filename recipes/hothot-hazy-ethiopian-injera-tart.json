@@ -48,7 +48,7 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 25,
-  "totalTimeMin": 25,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -79,5 +79,9 @@
     "mainIngredient": "Pistachio",
     "descriptor": "Hothot Hazy",
     "dishForm": "Injera Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

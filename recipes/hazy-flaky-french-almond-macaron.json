@@ -41,14 +41,13 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
-  "totalTimeMin": 60,
+  "totalTimeMin": 80,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
     "flaky",
     "hazy",
-    "smoky",
-    "vegan"
+    "smoky"
   ],
   "nutrition": {
     "calories": 185,
@@ -73,5 +72,10 @@
     "mainIngredient": "Almond",
     "descriptor": "Hazy Flaky",
     "dishForm": "Macaron"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

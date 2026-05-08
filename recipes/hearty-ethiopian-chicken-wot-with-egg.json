@@ -3,7 +3,6 @@
   "description": "a rich, spicy, and comforting ethiopian dish made with char-grilled chicken, flavorful onions, and creamy fromage frais. perfect for a romantic dinner.",
   "cuisine": "ethiopian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -107,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Hearty",
     "dishForm": "Wot with Egg"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

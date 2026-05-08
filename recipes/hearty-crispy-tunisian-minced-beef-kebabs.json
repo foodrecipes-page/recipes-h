@@ -55,7 +55,8 @@
     "Brush the yakimono grill with olive oil to prevent sticking.",
     "Grill the patties for 4-5 minutes per side, or until they are cooked through and crispy on the outside.",
     "Serve the kebabs hot with your favorite sides.",
-    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute."
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "minced beef",
     "descriptor": "Hearty Crispy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

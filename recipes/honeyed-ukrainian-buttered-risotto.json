@@ -72,7 +72,8 @@
     "Stir in the heavy cream and cook for 2-3 minutes, until the risotto is coated and creamy.",
     "Season with salt and black pepper to taste.",
     "Transfer the risotto to a salt block or a serving dish and top with fresh dill and parsley.",
-    "Serve with a side of tangy salsa."
+    "Serve with a side of tangy salsa.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -109,5 +110,9 @@
     "mainIngredient": "buttered",
     "descriptor": "honeyed",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

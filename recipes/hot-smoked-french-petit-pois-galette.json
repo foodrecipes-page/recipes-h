@@ -3,8 +3,7 @@
   "description": "A spicy and chewy French dish featuring petit pois, smoked to perfection, suitable for diabetics. This galette is a great meal prep option for a quick and easy lunch.",
   "cuisine": "French",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -60,7 +59,6 @@
   "tags": [
     "diabetic-friendly",
     "french-cuisine",
-    "gluten-free",
     "meal-prep",
     "smoked-food",
     "vegetarian"
@@ -88,5 +86,9 @@
     "mainIngredient": "petit pois",
     "descriptor": "Hot Smoked",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

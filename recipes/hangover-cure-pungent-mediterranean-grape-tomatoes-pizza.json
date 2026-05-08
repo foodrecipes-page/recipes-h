@@ -4,7 +4,6 @@
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "low-carb"
   ],
   "meal": "breakfast",
@@ -83,7 +82,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "hangover-cure",
     "low-carb",
     "mediterranean",
@@ -113,5 +111,9 @@
     "mainIngredient": "grape tomatoes",
     "descriptor": "hangover-cure pungent",
     "dishForm": "Pizza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -9,41 +9,41 @@
   "ingredients": [
     {
       "name": "fresh parsley, chopped",
-      "amount": "1\u202fTbsp (5\u202fg)",
+      "amount": "1 Tbsp (5 g)",
       "notes": ""
     },
     {
       "name": "fresh dill, chopped",
-      "amount": "1\u202fTbsp (5\u202fg)",
+      "amount": "1 Tbsp (5 g)",
       "notes": ""
     },
     {
       "name": "dried oregano",
-      "amount": "1\u202ftsp (1\u202fg)",
+      "amount": "1 tsp (1 g)",
       "notes": ""
     },
     {
       "name": "sea salt",
-      "amount": "1\u202ftsp (5\u202fg)",
+      "amount": "1 tsp (5 g)",
       "notes": ""
     },
     {
       "name": "black pepper, freshly ground",
-      "amount": "\u00bd\u202ftsp (1\u202fg)",
+      "amount": "½ tsp (1 g)",
       "notes": ""
     },
     {
       "name": "roasted chickpeas",
-      "amount": "\u00bd\u202fcup (80\u202fg)",
-      "notes": "Toss with olive oil, salt, pepper and roast at 200\u202f\u00b0C (400\u202f\u00b0F) for 20\u202fmin until crisp"
+      "amount": "½ cup (80 g)",
+      "notes": "Toss with olive oil, salt, pepper and roast at 200 °C (400 °F) for 20 min until crisp"
     }
   ],
   "instructions": [
-    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F). Toss the \u00bd\u202fcup chickpeas with 1\u202fTbsp olive oil, \u00bd\u202ftsp salt and \u00bd\u202ftsp pepper. Spread on a baking sheet and roast for 20\u202fmin, stirring halfway, until golden and crispy. Remove and set aside to cool.",
-    "In a large bowl, whisk together Greek yogurt, mayonnaise, Dijon mustard, lemon juice, honey, \u00bd\u202ftsp salt, and \u00bd\u202ftsp pepper until smooth.",
+    "Preheat oven to 200 °C (400 °F). Toss the ½ cup chickpeas with 1 Tbsp olive oil, ½ tsp salt and ½ tsp pepper. Spread on a baking sheet and roast for 20 min, stirring halfway, until golden and crispy. Remove and set aside to cool.",
+    "In a large bowl, whisk together Greek yogurt, mayonnaise, Dijon mustard, lemon juice, honey, ½ tsp salt, and ½ tsp pepper until smooth.",
     "Fold in the cooked corn kernels, diced pickled cucumbers, chopped parsley, dill, and oregano.",
     "Gently stir in the cooled roasted chickpeas, reserving a handful for topping.",
-    "Cover the bowl and refrigerate for at least 30\u202fmin to allow flavors to meld.",
+    "Cover the bowl and refrigerate for at least 30 min to allow flavors to meld.",
     "Just before serving, sprinkle the reserved chickpeas over the top for extra crunch.",
     "Serve chilled as a satisfying lunch or side dish."
   ],
@@ -58,7 +58,7 @@
     "mood": "meal-prep",
     "technique": "pickle",
     "primaryIngredient": "creamed corn",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "corn",
@@ -79,5 +79,9 @@
   "tags": [
     "mediterranean",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

@@ -2,9 +2,7 @@
   "title": "Hearty Fragrant Saudi Arabian Lamb Kebabs",
   "description": "A fatty and crumbly Saudi Arabian dish featuring ginger paste and dum, perfect for festive occasions",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "lamb",
     "descriptor": "hearty fragrant",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

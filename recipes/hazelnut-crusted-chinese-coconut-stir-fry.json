@@ -3,7 +3,6 @@
   "description": "A snappy, adventurous Chinese dish featuring dry sherry, coconut cream, and a crunchy hazelnut crust. Fodmap-friendly and perfect for a weeknight dinner.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -111,5 +109,9 @@
     "mainIngredient": "coconut",
     "descriptor": "hazelnut-crusted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,11 +2,7 @@
   "title": "Hearty Korean Deodeok Root Wrap",
   "description": "A fermented and cheesy meal prep dish featuring deodeok root and ssam wrap, friendly to dairy free diets.",
   "cuisine": "Korean",
-  "diet": [
-    "dairy-free",
-    "gluten-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -67,7 +63,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "easy-lunch",
     "healthy-snack",
     "korean-cuisine",
@@ -97,5 +92,11 @@
     "mainIngredient": "deodeok root",
     "descriptor": "Hearty",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

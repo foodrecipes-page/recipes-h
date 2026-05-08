@@ -2,10 +2,7 @@
   "title": "Hot Crunchy Filipino Shrimp Skewers",
   "description": "A funky and crunchy Filipino dish perfect for a date night, featuring garlic powder and yuzu-cure, and is dairy-free friendly. This dish is a unique and delicious twist on traditional Filipino cuisine.",
   "cuisine": "Filipino",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "filipino-food",
     "high-protein",
     "one-pan",
@@ -93,5 +89,10 @@
     "mainIngredient": "shrimp",
     "descriptor": "hot crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A charred and crumbly British dish featuring caramelized onions, wrapped in a corn husk wrap, perfect for a comforting meal.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "british-cuisine",
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "vegetarian"
   ],
@@ -89,5 +87,9 @@
     "mainIngredient": "onion",
     "descriptor": "hearty comforting",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

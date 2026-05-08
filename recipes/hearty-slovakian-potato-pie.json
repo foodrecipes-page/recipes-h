@@ -93,11 +93,15 @@
     "mood": "cozy",
     "technique": "knead",
     "primaryIngredient": "charlotte potatoes",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "Slovakian",
     "mainIngredient": "potato",
     "descriptor": "Hearty",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

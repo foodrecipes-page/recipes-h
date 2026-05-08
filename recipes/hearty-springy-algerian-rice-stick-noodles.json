@@ -95,11 +95,15 @@
     "mood": "cozy",
     "technique": "kombu-cold-extract",
     "primaryIngredient": "rice stick noodles",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "rice stick noodles",
     "descriptor": "Hearty Springy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

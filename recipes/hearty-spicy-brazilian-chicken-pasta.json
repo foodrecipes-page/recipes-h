@@ -3,8 +3,7 @@
   "description": "A spicy and romantic Brazilian dish featuring chicken, pasta, and wholegrain bread, perfect for a low-carb friendly dinner",
   "cuisine": "Brazilian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "hearty spicy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

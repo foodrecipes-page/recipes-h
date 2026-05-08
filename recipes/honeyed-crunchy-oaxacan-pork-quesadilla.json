@@ -66,7 +66,8 @@
     "While pork bakes, shred the cheddar cheese and set aside.",
     "Heat a second skillet over medium heat, add a tortilla, sprinkle half the shredded cheese, and place another tortilla on top.",
     "Cook until the bottom tortilla is golden, then flip and add the cooked pork, remaining cheese, and spoonfuls of puffed rice on top.",
-    "Serve each quesadilla on a talavera plate, garnish with a drizzle of honey and a squeeze of lime if desired."
+    "Serve each quesadilla on a talavera plate, garnish with a drizzle of honey and a squeeze of lime if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -100,5 +101,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Honeyed Crunchy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

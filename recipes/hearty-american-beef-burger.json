@@ -54,7 +54,8 @@
     "In a small bowl, whisk together the yellow mustard and mayonnaise.",
     "Assemble the burgers by spreading a layer of the mustard sauce on the bottom bun, followed by a cooked patty, a few slices of lettuce, a tomato slice, a slice of onion, and a few slices of pickle.",
     "Top with the toasted digestive biscuits and sprinkle with bonito flakes.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -92,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "hearty tender",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

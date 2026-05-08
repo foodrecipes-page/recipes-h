@@ -60,7 +60,8 @@
     "Brush the edges of the dough with the beaten egg",
     "Fold the dough in half over the filling and press the edges together to seal the empanada",
     "Fry the empanadas in the hot oil until they are golden brown, about 2-3 minutes per side",
-    "Drain the empanadas on paper towels and serve hot"
+    "Drain the empanadas on paper towels and serve hot",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "beef",
     "descriptor": "hearty molten",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

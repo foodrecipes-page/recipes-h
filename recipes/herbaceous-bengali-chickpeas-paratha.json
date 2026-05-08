@@ -58,7 +58,8 @@
     "Heat a non-stick skillet over medium heat, adding the remaining tablespoon of oil.",
     "Place the paratha on the skillet, cooking for 2 minutes on each side, until golden brown and puffed.",
     "Remove from skillet and place on a paper towel to drain excess oil.",
-    "Serve hot with a side of yogurt or pickles."
+    "Serve hot with a side of yogurt or pickles.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -95,5 +96,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Herbaceous",
     "dishForm": "Paratha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

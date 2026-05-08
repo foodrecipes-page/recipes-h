@@ -3,9 +3,7 @@
   "description": "A plant-based Dutch dish featuring crispy tofu skewers infused with herbal flavors, perfect for a solo dinner. This recipe uses unflavored gelatin and a tandoor for a unique twist.",
   "cuisine": "Dutch",
   "diet": [
-    "plant-based",
-    "vegetarian",
-    "vegan"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +98,10 @@
     "mainIngredient": "tofu",
     "descriptor": "herbal crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

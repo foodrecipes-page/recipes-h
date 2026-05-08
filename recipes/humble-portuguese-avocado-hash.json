@@ -64,7 +64,8 @@
     "Add chopped parsley, salt, and black pepper to the pressure cooker.",
     "Place pressure cooker basket in the pressure cooker and cook on high pressure for 5 minutes.",
     "Quick-release the pressure and remove the basket from the pressure cooker.",
-    "Serve with a squeeze of fresh lemon juice, chopped cilantro, and chive."
+    "Serve with a squeeze of fresh lemon juice, chopped cilantro, and chive.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -103,5 +104,9 @@
     "mainIngredient": "Avocado",
     "descriptor": "Humble",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -62,7 +62,8 @@
     "Add the mustard, chicken broth, salt, and black pepper to the skillet and stir to combine.",
     "Return the sausage to the skillet and simmer until the liquid has thickened, about 5 minutes.",
     "Serve hot and enjoy.",
-    "Garnish with chopped fresh parsley or thyme, if desired."
+    "Garnish with chopped fresh parsley or thyme, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Hearty",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

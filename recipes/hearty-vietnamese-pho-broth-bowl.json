@@ -3,9 +3,7 @@
   "description": "A savory, umami-rich Vietnamese noodle soup featuring a rich bouquet garni and a smooth, emulsified broth.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
     "egg-free",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -221,7 +219,8 @@
     "Bring the broth to a simmer and cook for 5 minutes. ",
     "Cook rice noodles according to package instructions and set aside. ",
     "To assemble the Pho, place a portion of noodles in a bowl, add sliced beef or pork and a sprinkle of bean sprouts, and pour the hot broth over the top. ",
-    "Serve with lime wedges, fresh cilantro, and your choice of sriracha, hoisin sauce, and chopped scallions."
+    "Serve with lime wedges, fresh cilantro, and your choice of sriracha, hoisin sauce, and chopped scallions.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 80,
@@ -261,5 +260,11 @@
     "mainIngredient": "Pho broth",
     "descriptor": "Hearty",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

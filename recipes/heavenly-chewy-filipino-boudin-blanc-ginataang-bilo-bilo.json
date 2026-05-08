@@ -86,11 +86,15 @@
     "mood": "crowd-pleaser",
     "technique": "blanch",
     "primaryIngredient": "boudin-blanc",
-    "diet": "low-carb",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Filipino",
     "mainIngredient": "Boudin-Blanc",
     "descriptor": "Heavenly Chewy",
     "dishForm": "Ginataang-Bilo-Bilo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -70,7 +70,8 @@
     "Add the couscous to the pot and cook for 8-10 minutes, or until it is tender and fluffy.",
     "Fluff the cooked couscous with a fork and stir in the chopped parsley.",
     "To serve, place a scoop of the couscous mixture onto a plate, then top with the cooked couscous.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "couscous",
     "descriptor": "Hearty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

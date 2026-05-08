@@ -2,9 +2,7 @@
   "title": "Hearty Irish Fish Tagine",
   "description": "A flavorful and comforting pescatarian dish featuring melted butter and a variety of spices, perfect for a lazy Sunday afternoon. This recipe is cooked in a tagine vessel, also known as a tagliere.",
   "cuisine": "irish",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "comfort-food",
     "irish-cuisine",
     "lazy-sunday",
-    "one-pot",
-    "pescatarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +101,9 @@
     "mainIngredient": "fish",
     "descriptor": "hearty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

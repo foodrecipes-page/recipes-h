@@ -91,11 +91,15 @@
     "mood": "romantic",
     "technique": "glaze",
     "primaryIngredient": "tofu",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "tofu",
     "descriptor": "hearty fluffy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

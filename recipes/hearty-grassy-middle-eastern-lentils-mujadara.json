@@ -3,7 +3,6 @@
   "description": "A flavorful and nutritious Middle Eastern dish featuring little gem lettuce and lardons, served in a traditional mujadara style on a wooden board.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -106,5 +105,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Hearty Grassy",
     "dishForm": "Mujadara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -62,7 +62,8 @@
     "Stir in herbs (dried or fresh) according to taste. Mix well until fragrant.",
     "Pour in tomato paste and stir continuously for 1-2 minutes, allowing it to slightly thicken.",
     "Gradually add water while stirring constantly to prevent clumping of ground beef. Let the mixture simmer gently for about 5 minutes.",
-    "Garnish with sliced red bell pepper if using, and serve hot."
+    "Garnish with sliced red bell pepper if using, and serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "Ground Beef",
     "descriptor": "Herbal Silky Comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

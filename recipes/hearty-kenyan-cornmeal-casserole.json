@@ -55,7 +55,8 @@
     "In a large bowl, combine the cooked onion and tomato mixture, chicken breast, white masarepa, salt, and black pepper.",
     "Mix well to combine.",
     "Transfer the mixture to a copper mug.",
-    "Bake for 30 minutes or until the casserole is golden brown and set."
+    "Bake for 30 minutes or until the casserole is golden brown and set.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -92,5 +93,9 @@
     "mainIngredient": "cornmeal",
     "descriptor": "hearty homestyle",
     "dishForm": "Casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

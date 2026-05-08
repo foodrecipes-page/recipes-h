@@ -58,7 +58,8 @@
     "Pour the broth mixture over the chicken and vegetables in the skillet.",
     "Reduce heat to low and simmer for 5 minutes.",
     "Serve the chicken and vegetable mixture over sliced white bread on a wooden board.",
-    "Let it cool for a few minutes before serving."
+    "Let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "hearty low carb",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

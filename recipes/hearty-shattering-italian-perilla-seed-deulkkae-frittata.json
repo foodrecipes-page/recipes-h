@@ -3,7 +3,6 @@
   "description": "A yeasty, shattering Italian dish featuring perilla-seed-deulkkae, perfect for adventurous eaters. This frittata is fodmap-friendly and cooked in a cataplana vessel.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "breakfast",
@@ -119,5 +118,9 @@
     "mainIngredient": "perilla-seed-deulkkae",
     "descriptor": "Hearty Shattering",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

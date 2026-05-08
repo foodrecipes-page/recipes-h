@@ -2,10 +2,7 @@
   "title": "Hearty Kenyan Flaxseed Bake",
   "description": "A traditional Kenyan dish made with flaxseed, yeast, and a touch of beurre-monte, perfect for a festive gathering.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -96,5 +93,10 @@
     "mainIngredient": "flaxseed",
     "descriptor": "Hearty",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

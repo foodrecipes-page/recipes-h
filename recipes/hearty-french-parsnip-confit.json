@@ -92,11 +92,15 @@
     "mood": "nostalgic",
     "technique": "katsuramuki-cut",
     "primaryIngredient": "parmesan",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": "alsace",
     "cuisineAdjective": "French",
     "mainIngredient": "Parsnip",
     "descriptor": "Hearty",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

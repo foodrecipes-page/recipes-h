@@ -2,15 +2,13 @@
   "title": "Herbal Syrian Lamb Stew",
   "description": "A fragrant onepot stew featuring tender lamb, caramelized onions, and a hint of English mustard, finished with fresh herbs for a truly aromatic Syrian experience.",
   "cuisine": "Syrian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "lamb shoulder, boneless",
       "amount": "1 kg",
-      "notes": "cut into 2\u2011inch pieces"
+      "notes": "cut into 2‑inch pieces"
     },
     {
       "name": "olive oil",
@@ -71,7 +69,7 @@
     },
     {
       "name": "fresh parsley",
-      "amount": "\u00bc cup chopped"
+      "amount": "¼ cup chopped"
     },
     {
       "name": "salt",
@@ -83,11 +81,11 @@
     }
   ],
   "instructions": [
-    "Heat 2 tbsp of olive oil in a large Dutch oven over medium heat. Add lamb pieces and brown on all sides, about 5\u20137 minutes. Transfer to a plate and set aside.",
-    "In the same pot, add the remaining tablespoon of olive oil. Saut\u00e9 the sliced onion until translucent and lightly caramelized, about 8 minutes. Add minced garlic and cook for 1 minute.",
+    "Heat 2 tbsp of olive oil in a large Dutch oven over medium heat. Add lamb pieces and brown on all sides, about 5–7 minutes. Transfer to a plate and set aside.",
+    "In the same pot, add the remaining tablespoon of olive oil. Sauté the sliced onion until translucent and lightly caramelized, about 8 minutes. Add minced garlic and cook for 1 minute.",
     "Stir in the tomato paste and cook for 2 minutes, then pour in white wine to deglaze, scraping up any browned bits from the bottom of the pot.",
     "Return the lamb to the pot. Add carrots, bell pepper, bay leaves, thyme, rosemary bundle, and enough water to cover the ingredients. Stir in the English mustard powder, lemon juice, salt, and pepper.",
-    "Bring the mixture to a gentle boil, then reduce heat to low, cover, and simmer for 1 hour 15 minutes, or until the lamb is fall\u2011apart tender.",
+    "Bring the mixture to a gentle boil, then reduce heat to low, cover, and simmer for 1 hour 15 minutes, or until the lamb is fall‑apart tender.",
     "Remove the rosemary bundle and bay leaves. Stir in chopped parsley and adjust seasoning if needed.",
     "Serve hot over steamed rice or warm flatbread, garnished with extra parsley if desired."
   ],
@@ -126,5 +124,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Herbal",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

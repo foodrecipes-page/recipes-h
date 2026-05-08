@@ -2,9 +2,7 @@
   "title": "Hearty Canadian Chicken Skewers",
   "description": "A malty and juicy Canadian dish featuring coriander seeds and a sweet glaze, perfect for a monsoon evening, this recipe is gluten-free friendly and serves as a great dinner option.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "canadian-cuisine",
-    "gluten-free",
     "grilled-chicken",
     "malty-flavors",
     "monsoon-recipes"
@@ -91,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Hearty",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

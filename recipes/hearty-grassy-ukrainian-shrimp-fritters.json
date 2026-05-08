@@ -2,9 +2,7 @@
   "title": "Hearty Grassy Ukrainian Shrimp Fritters",
   "description": "A traditional Ukrainian dish featuring saeujeot shrimp paste, these fritters are deep fried to a crispy golden brown and served as a snack or appetizer. The grassy flavor comes from the addition of fresh parsley and dill.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -72,7 +70,6 @@
   "tags": [
     "appetizer",
     "deep-fried",
-    "gluten-free",
     "seafood",
     "snack",
     "ukrainian-cuisine"
@@ -100,5 +97,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Hearty Grassy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

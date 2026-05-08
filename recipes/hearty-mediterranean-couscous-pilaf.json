@@ -3,8 +3,7 @@
   "description": "A peppery and crisp Mediterranean dish featuring couscous, perfect for a hangover cure, and diabetic-friendly. This pilaf is made with brine-wet ingredients for added flavor.",
   "cuisine": "Mediterranean",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +67,8 @@
     "Stir in the kalamata olives, artichoke hearts, and pepperoncini.",
     "Combine the cooked couscous, olive mixture, and crumbly feta cheese in a large bowl.",
     "Season with salt and pepper to taste.",
-    "Garnish with chopped fresh parsley and serve hot."
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -105,5 +105,10 @@
     "mainIngredient": "couscous",
     "descriptor": "Hearty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

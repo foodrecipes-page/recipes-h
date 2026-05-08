@@ -3,8 +3,7 @@
   "description": "A funky and velvety meal prep Brazilian dish featuring Cajun spices and low carb friendly ingredients, inspired by ssam wraps.",
   "cuisine": "Brazilian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -56,7 +55,8 @@
     "Warm the low carb tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
     "Assemble the wraps by slicing the cooked chicken and adding it to the tortilla along with the sauteed pepper and onion, shredded cheese, sour cream, and chopped cilantro.",
     "Serve immediately and store any leftovers in an airtight container in the refrigerator for up to 3 days.",
-    "Reheat the wraps in the microwave for 30 seconds before serving."
+    "Reheat the wraps in the microwave for 30 seconds before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -66,7 +66,6 @@
   "tags": [
     "brazilian-inspired",
     "cajun-spiced",
-    "gluten-free",
     "low-carb",
     "lunch-box",
     "meal-prep"
@@ -94,5 +93,10 @@
     "mainIngredient": "chicken",
     "descriptor": "hearty spicy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

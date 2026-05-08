@@ -3,14 +3,13 @@
   "description": "A crisp, dairyfree soup featuring fresh celery, aromatic herbs and a gentle splash of oat milk for a silky finish, perfect for a romantic date night.",
   "cuisine": "German",
   "diet": [
-    "vegan",
-    "dairy\u2011free"
+    "dairy‑free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "celery stalks",
-      "amount": "1\u202fkg",
+      "amount": "1 kg",
       "notes": "thinly sliced"
     },
     {
@@ -25,11 +24,11 @@
     },
     {
       "name": "vegetable broth",
-      "amount": "1\u00bd\u202fliters"
+      "amount": "1½ liters"
     },
     {
       "name": "water",
-      "amount": "\u00bd\u202fliter"
+      "amount": "½ liter"
     },
     {
       "name": "bay leaf",
@@ -37,12 +36,12 @@
     },
     {
       "name": "fresh dill",
-      "amount": "2\u202ftablespoons",
+      "amount": "2 tablespoons",
       "notes": "chopped"
     },
     {
       "name": "fresh parsley",
-      "amount": "2\u202ftablespoons",
+      "amount": "2 tablespoons",
       "notes": "chopped"
     },
     {
@@ -55,17 +54,17 @@
     },
     {
       "name": "oat milk",
-      "amount": "\u2153\u202fliter",
+      "amount": "⅓ liter",
       "notes": "unsweetened"
     }
   ],
   "instructions": [
     "In a large pot, combine vegetable broth, water, and bay leaf; bring to a boil over medium heat.",
-    "Add diced onion and minced garlic; simmer for 5\u202fminutes until aromatics soften.",
-    "Stir in sliced celery and continue boiling for 15\u202fminutes until the celery is tender.",
+    "Add diced onion and minced garlic; simmer for 5 minutes until aromatics soften.",
+    "Stir in sliced celery and continue boiling for 15 minutes until the celery is tender.",
     "Remove the pot from heat, discard the bay leaf, and whisk in oat milk until smooth.",
     "Season with salt and black pepper to taste.",
-    "Return the soup to low heat and warm gently for 2\u202fminutes (do not boil).",
+    "Return the soup to low heat and warm gently for 2 minutes (do not boil).",
     "Turn off the heat and stir in chopped dill and parsley.",
     "Serve hot, optionally garnished with a drizzle of extra dill or a sprinkle of chopped parsley."
   ],
@@ -76,8 +75,6 @@
   "difficulty": "easy",
   "tags": [
     "herbal",
-    "vegan",
-    "dairy-free",
     "light",
     "german"
   ],
@@ -104,5 +101,10 @@
     "mainIngredient": "celery",
     "descriptor": "Herbal Light",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

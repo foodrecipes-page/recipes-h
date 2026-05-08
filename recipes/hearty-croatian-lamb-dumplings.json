@@ -3,7 +3,6 @@
   "description": "Tangy and pillowy Croatian dish featuring lamb and instant yeast, simmered in a nimono-style broth for a comforting meal",
   "cuisine": "Croatian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -63,7 +62,8 @@
     "Reduce the heat to a simmer, and add the dumplings to the pot, cooking for 20 minutes, or until they float to the surface.",
     "Serve the dumplings hot, garnished with chopped fresh parsley.",
     "Let the dumplings cool, then refrigerate or freeze for up to 3 days.",
-    "Reheat the dumplings in the simmering broth before serving."
+    "Reheat the dumplings in the simmering broth before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -72,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "lamb-based",
     "meal-prep",
     "nimono-style",
@@ -101,5 +100,10 @@
     "mainIngredient": "lamb",
     "descriptor": "hearty pillowy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

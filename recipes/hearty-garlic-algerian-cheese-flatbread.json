@@ -2,9 +2,7 @@
   "title": "Hearty Garlic Algerian Cheese Flatbread",
   "description": "A garlicky, cheese‑pull flatbread with an Algerian twist, perfect for a date night.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Hearty Garlic",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

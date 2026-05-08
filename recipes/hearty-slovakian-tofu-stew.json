@@ -2,9 +2,7 @@
   "title": "Hearty Slovakian Tofu Stew",
   "description": "A creamy, comforting tofu stew infused with earthy paprika and a bright lime finish, capturing the spirit of Slovakian cuisine in a vegan-friendly dish.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,8 +83,7 @@
     "one-pot",
     "sauerkraut",
     "slovakian",
-    "tofu",
-    "vegan"
+    "tofu"
   ],
   "nutrition": {
     "calories": 270,
@@ -111,5 +108,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

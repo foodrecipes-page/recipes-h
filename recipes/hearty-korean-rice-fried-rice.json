@@ -3,7 +3,6 @@
   "description": "A sour, tender, and indulgent Korean dish featuring rice, fry, and nut-free friendly ingredients, perfect for a weeknight dinner. This recipe is a delicious and easy way to use up leftover rice and vegetables.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "rice",
     "descriptor": "Hearty",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

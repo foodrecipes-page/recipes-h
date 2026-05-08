@@ -67,7 +67,8 @@
     "Reduce the heat to low, cover, and simmer for 1 1/2 hours.",
     "Serve the tagine hot, garnished with fresh parsley or cilantro.",
     "Let it rest for 10 minutes before serving.",
-    "Serve with crusty bread or over couscous."
+    "Serve with crusty bread or over couscous.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -98,11 +99,16 @@
     "mood": "energizing",
     "technique": "soffritto-base",
     "primaryIngredient": "pork",
-    "diet": "vegan",
+    "diet": "meat",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "pork",
     "descriptor": "hearty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

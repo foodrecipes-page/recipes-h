@@ -63,7 +63,8 @@
     "Punch down risen dough, divide into 12 equal pieces, roll each into a circle about 12cm in diameter.",
     "Spoon a tablespoon of filling onto the center of each dough circle, fold over, and seal edges by pressing with a fork.",
     "Place assembled empanadas on a parchment-lined baking sheet and bake at 200°C for 25 minutes until golden brown.",
-    "Let empanadas cool for 5 minutes before serving."
+    "Let empanadas cool for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Herbaceous",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

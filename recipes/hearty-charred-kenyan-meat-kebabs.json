@@ -3,8 +3,7 @@
   "description": "A crowd-pleasing Kenyan dish featuring charred meat and a hint of Appleton rum, served with a side of lamination-puff, this recipe is a low-calorie-friendly option for any meal.",
   "cuisine": "Kenyan",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "meat",
     "descriptor": "hearty charred",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -59,7 +59,8 @@
     "Add the warmed chicken broth, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
     "Stir in the softened mascarpone cheese, smoked paprika, salt, and black pepper.",
     "Using a syringe, drop small amounts of the mascarpone mixture into a bath of water with sodium alginate to create spheres.",
-    "Serve the pilaf in the Korean brass bowl, topped with the mascarpone spheres."
+    "Serve the pilaf in the Korean brass bowl, topped with the mascarpone spheres.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "mascarpone",
     "descriptor": "hearty creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

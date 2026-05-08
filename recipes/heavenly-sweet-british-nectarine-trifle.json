@@ -3,8 +3,7 @@
   "description": "A sweet and crumbly British dessert featuring nectarines, perfect for midnight cravings, and friendly to all diets, including Buddhist temple standards, served in a beautiful lacquerware bowl.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "british-classics",
     "dessert",
-    "gluten-free",
     "midnight-cravings",
     "sweet-tooth",
     "vegetarian"
@@ -91,5 +89,9 @@
     "mainIngredient": "nectarines",
     "descriptor": "Heavenly Sweet",
     "dishForm": "Trifle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

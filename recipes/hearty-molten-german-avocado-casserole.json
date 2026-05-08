@@ -59,7 +59,8 @@
     "Reduce the heat to low and simmer for 20 minutes.",
     "Mash the ripe avocado and spread it over the top of the casserole.",
     "Sprinkle the shredded cheese over the top of the avocado.",
-    "Bake the casserole in the wood-fired Dutch oven for 25 minutes, or until the cheese is melted and bubbly."
+    "Bake the casserole in the wood-fired Dutch oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -97,5 +98,9 @@
     "mainIngredient": "avocado",
     "descriptor": "Hearty Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

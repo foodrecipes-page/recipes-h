@@ -60,7 +60,8 @@
     "Add the beef broth and tomato paste to the pot, and bring the mixture to a boil.",
     "Reduce the heat to low, cover the pot, and simmer the stew for 30 minutes, or until the vegetables are tender.",
     "Serve the stew hot, garnished with chopped fresh parsley or thyme, if desired.",
-    "Let the stew cool completely before refrigerating or freezing it for later use."
+    "Let the stew cool completely before refrigerating or freezing it for later use.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -98,5 +99,9 @@
     "mainIngredient": "meat",
     "descriptor": "hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

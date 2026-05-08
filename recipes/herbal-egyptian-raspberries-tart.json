@@ -4,7 +4,6 @@
   "cuisine": "Egyptian",
   "diet": [
     "plant-based",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dessert",
@@ -87,5 +86,9 @@
     "mainIngredient": "raspberries",
     "descriptor": "herbal",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

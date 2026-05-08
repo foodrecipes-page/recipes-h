@@ -99,7 +99,8 @@
     "Transfer the fried fish to a paper towel-lined plate to drain excess oil.",
     "Serve the korean fried chicken hot with green onions, toasted sesame seeds, and a side of crushed ice.",
     " Garnish with additional green onions and sesame seeds, if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -135,5 +136,9 @@
     "mainIngredient": "fish",
     "descriptor": "Heavily seasoned",
     "dishForm": "Korean Fried Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

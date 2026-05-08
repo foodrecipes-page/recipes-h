@@ -90,11 +90,15 @@
     "mood": "comforting",
     "technique": "robata-grill",
     "primaryIngredient": "white yam",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "tuscan",
     "cuisineAdjective": "Italian",
     "mainIngredient": "white yam",
     "descriptor": "hearty smoky",
     "dishForm": "Panettone"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

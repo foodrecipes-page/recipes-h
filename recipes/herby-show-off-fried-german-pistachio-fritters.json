@@ -4,7 +4,6 @@
   "cuisine": "German",
   "diet": [
     "keto",
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -104,5 +103,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "Herby Show-Off Fried",
     "dishForm": "fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

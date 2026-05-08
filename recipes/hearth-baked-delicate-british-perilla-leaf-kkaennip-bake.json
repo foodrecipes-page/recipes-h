@@ -4,8 +4,7 @@
   "cuisine": "British",
   "diet": [
     "macrobiotic",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -74,7 +73,6 @@
   "tags": [
     "bento-box",
     "comfort-food",
-    "gluten-free",
     "macrobiotic",
     "one-pan",
     "vegan"
@@ -102,5 +100,9 @@
     "mainIngredient": "perilla-leaf-kkaennip",
     "descriptor": "hearth-baked delicate",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

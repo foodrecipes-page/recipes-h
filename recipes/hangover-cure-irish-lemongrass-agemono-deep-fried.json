@@ -3,8 +3,7 @@
   "description": "A roasted Irish dish featuring lemongrass, pulled cheese, and hungover remedy elements, deep-fried in a crispy agemono coating, suitable for low-glycemic diets.",
   "cuisine": "irish",
   "diet": [
-    "low-glycemic",
-    "vegetarian"
+    "low-glycemic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -80,7 +79,6 @@
     "deep-fried",
     "irish",
     "low-glycemic",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -106,5 +104,9 @@
     "mainIngredient": "Lemongrass",
     "descriptor": "Hangover-Cure",
     "dishForm": "Agemono-Deep-Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

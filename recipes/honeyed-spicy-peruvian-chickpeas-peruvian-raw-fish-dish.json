@@ -4,8 +4,7 @@
   "cuisine": "Peruvian",
   "diet": [
     "gluten-free",
-    "low-glycemic",
-    "vegan"
+    "low-glycemic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -79,8 +78,7 @@
     "low-glycemic",
     "meal-prep",
     "peruvian",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 220,
@@ -105,5 +103,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Honeyed Spicy",
     "dishForm": "Peruvian Raw Fish Dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

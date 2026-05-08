@@ -2,10 +2,7 @@
   "title": "Hangover Cure Peruvian Potato Ball (Papa Rellena)",
   "description": "A creamy, smoky, and comforting Peruvian dish that's perfect for a hangover cure.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -104,5 +101,10 @@
     "mainIngredient": "potatoes",
     "descriptor": "Hangover Cure",
     "dishForm": "Potato Ball"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

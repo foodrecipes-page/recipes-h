@@ -3,8 +3,7 @@
   "description": "A hearty Peruvian stew made with potatoes, sesame seeds, and ají amarillo peppers to help cure hangovers. This dish is a staple in Peruvian cuisine, often served with rice and avocado.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
-    "kosher"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -70,7 +69,8 @@
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 20-25 minutes, until the potatoes are tender.",
     "Stir in the sesame seeds and heavy cream. Cook for an additional 5 minutes, until the sauce has thickened.",
-    "Serve the stew hot, garnished with chopped cilantro or scallions if desired."
+    "Serve the stew hot, garnished with chopped cilantro or scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -110,5 +110,10 @@
     "mainIngredient": "potatoes",
     "descriptor": "Hangover-cure Pungent",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

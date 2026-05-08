@@ -57,7 +57,8 @@
     "Add the cooked noodles to the skillet and toss to coat with the sauce.",
     "Transfer the noodle mixture to a donabe or large serving bowl.",
     "Sprinkle the toasted sesame seeds and chopped scallions over the top of the noodles.",
-    "Serve immediately, with additional chili oil and soy sauce on the side if desired."
+    "Serve immediately, with additional chili oil and soy sauce on the side if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -95,5 +96,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Hearty",
     "dishForm": "Dan Dan Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

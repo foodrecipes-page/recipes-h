@@ -10,7 +10,7 @@
     {
       "name": "Lamb shoulder",
       "amount": "1.5 kg",
-      "notes": "cut into 2\u2011inch cubes"
+      "notes": "cut into 2‑inch cubes"
     },
     {
       "name": "Olive oil",
@@ -32,7 +32,7 @@
       "notes": "sliced"
     },
     {
-      "name": "Low\u2011sodium chicken broth",
+      "name": "Low‑sodium chicken broth",
       "amount": "1 cup"
     },
     {
@@ -57,16 +57,17 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 160\u202f\u00b0C (325\u202f\u00b0F). Place tagine or Dutch oven on stove.",
-    "Heat olive oil over medium\u2011high, sear lamb cubes until browned on all sides, about 5\u20137\u202fmin. Transfer to a plate.",
-    "In the same pot, add diced onion and cook until translucent, about 4\u202fmin.",
-    "Stir in minced garlic and cook 1\u202fmin until fragrant.",
-    "Add sliced carrots and saut\u00e9 3\u202fmin.",
+    "Preheat oven to 160 °C (325 °F). Place tagine or Dutch oven on stove.",
+    "Heat olive oil over medium‑high, sear lamb cubes until browned on all sides, about 5–7 min. Transfer to a plate.",
+    "In the same pot, add diced onion and cook until translucent, about 4 min.",
+    "Stir in minced garlic and cook 1 min until fragrant.",
+    "Add sliced carrots and sauté 3 min.",
     "Return lamb to the pot, pour in red wine, stir to deglaze, scraping up brown bits.",
     "Add broth, herb blend, spice mix, lemon zest, and apricots. Stir well.",
-    "Bring to a gentle simmer, cover, and transfer to the oven for 1\u202fh\u202f45\u202fmin or until lamb is fork\u2011tender.",
-    "If needed, cook 15\u202fmin more to reach desired tenderness.",
-    "Remove from heat, let rest 10\u202fmin, then garnish with fresh parsley and cilantro before serving."
+    "Bring to a gentle simmer, cover, and transfer to the oven for 1 h 45 min or until lamb is fork‑tender.",
+    "If needed, cook 15 min more to reach desired tenderness.",
+    "Remove from heat, let rest 10 min, then garnish with fresh parsley and cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 105,
@@ -105,5 +106,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Herbaceous",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

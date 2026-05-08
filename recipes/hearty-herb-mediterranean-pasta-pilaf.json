@@ -2,9 +2,7 @@
   "title": "Hearty Herb Mediterranean Pasta Pilaf",
   "description": "A grassy and pillowy Mediterranean dish featuring prosciutto and yuzu-cure, perfect for a hangover cure, this kosher-friendly recipe is a hearty and satisfying meal. It combines the flavors of the Mediterranean with a unique twist of yuzu-cure.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Hearty Herb",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

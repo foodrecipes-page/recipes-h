@@ -51,7 +51,8 @@
     "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
     "Remove the bay leaves and let the stew cool slightly.",
     "Serve the stew hot, garnished with chopped parsley.",
-    "Strain the stew through a fine-mesh sieve before serving for a clear broth."
+    "Strain the stew through a fine-mesh sieve before serving for a clear broth.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 180,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

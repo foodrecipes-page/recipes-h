@@ -3,7 +3,6 @@
   "description": "A flavorful and aromatic Moroccan dish made with chicken breasts, a blend of herbs, and a rich, silky sauce.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -140,5 +139,9 @@
     "mainIngredient": "chicken",
     "descriptor": "herbal silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

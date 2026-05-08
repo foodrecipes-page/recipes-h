@@ -67,7 +67,8 @@
     "add the long-beans and chicken broth, and bring to a boil.",
     "reduce the heat to low and simmer, covered, for 20 minutes, or until the long-beans are tender.",
     "season with salt and pepper to taste.",
-    "serve hot."
+    "serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "long-bean",
     "descriptor": "hummus-like",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

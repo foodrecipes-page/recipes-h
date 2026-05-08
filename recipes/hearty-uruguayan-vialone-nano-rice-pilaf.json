@@ -62,7 +62,8 @@
     "Transfer the rice mixture to a sous vide bag and seal the bag.",
     "Place the sealed bag in the preheated sous vide machine and cook for 45 minutes.",
     "Remove the bag from the machine and let it cool for a few minutes.",
-    "Stir in the chopped parsley and serve the pilaf hot."
+    "Stir in the chopped parsley and serve the pilaf hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -100,5 +101,9 @@
     "mainIngredient": "vialone nano rice",
     "descriptor": "hearty low carb",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

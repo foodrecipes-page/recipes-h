@@ -3,7 +3,6 @@
   "description": "A rich and velvety Egyptian dish featuring roasted dates, cocoa, and toast, perfect for a date night, and is dairy-free friendly, served in a bento box.",
   "cuisine": "Egyptian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -60,7 +59,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "date-night",
     "egyptian-cuisine",
     "healthy-dessert",
@@ -90,5 +88,9 @@
     "mainIngredient": "dates",
     "descriptor": "Heavenly roasted",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

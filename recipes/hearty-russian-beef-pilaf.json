@@ -57,7 +57,8 @@
     "Add the beef broth to the teppan, bringing the mixture to a boil.",
     "Reduce the heat to low, cover the teppan, and steam the pilaf using the mushimono-steam method for 20 minutes, or until the liquid is absorbed and the rice is tender.",
     "Remove the teppan from the heat and let the pilaf rest, covered, for 5 minutes.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "beef",
     "descriptor": "healthy hearty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

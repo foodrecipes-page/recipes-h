@@ -65,7 +65,8 @@
     "Reduce the heat to low, cover the clay pot, and let the stew cook for 45 minutes, stirring occasionally.",
     "After the chicken is tender, stir in 1/4 cup coconut milk and simmer uncovered for an additional 10 minutes until the sauce thickens and becomes gooey.",
     "Taste the stew and adjust the seasoning with extra salt or pepper if desired.",
-    "Serve the stew hot straight from the clay pot, ensuring each serving is generous with sauce."
+    "Serve the stew hot straight from the clay pot, ensuring each serving is generous with sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -103,5 +104,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

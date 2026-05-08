@@ -2,9 +2,7 @@
   "title": "Hangover Cure Kenyan Matooke Stew",
   "description": "A hearty, bitter, creamy stew featuring matooke, cranberry juice, and a hint of pickle to cure your hangover woes. Served with a side of warm chapati.",
   "cuisine": "Kenyan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -72,7 +70,8 @@
     "Reduce heat to low and let cook for 15-20 minutes, or until matooke is tender.",
     "Meanwhile, prepare chapati dough according to package instructions.",
     "Cook chapatis in a dry skillet over medium heat, about 2-3 minutes per side, until golden brown.",
-    "To serve, place a portion of matooke stew on a plate and serve with a few chapatis on the side."
+    "To serve, place a portion of matooke stew on a plate and serve with a few chapatis on the side.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -110,5 +109,10 @@
     "mainIngredient": "matooke",
     "descriptor": "bitter creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

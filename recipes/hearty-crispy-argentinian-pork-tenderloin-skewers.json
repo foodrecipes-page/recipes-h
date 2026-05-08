@@ -3,8 +3,7 @@
   "description": "Buttery and crispy pork tenderloin skewers with a crowd-pleasing flavor, featuring plant-based friendly options and score-fat for added richness, this dish is a perfect representation of Argentinian cuisine with a twist",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "pork tenderloin",
     "descriptor": "Hearty Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

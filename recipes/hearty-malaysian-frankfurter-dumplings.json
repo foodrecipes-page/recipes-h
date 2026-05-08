@@ -2,9 +2,7 @@
   "title": "Hearty Malaysian Frankfurter Dumplings",
   "description": "Rich and savory Malaysian dish featuring frankfurter and dumplings, perfect for a lazy Sunday, vegan-friendly and served on a talavera plate.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "frankfurter",
     "descriptor": "hearty cheesy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

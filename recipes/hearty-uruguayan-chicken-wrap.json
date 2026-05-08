@@ -52,7 +52,8 @@
     "Add the chicken mixture on top of the rice and fold the leaf over the filling to form a wrap.",
     "Repeat with the remaining ingredients to make 3 more wraps.",
     "Bake the wraps in the preheated oven for 20 minutes.",
-    "Serve the wraps hot and enjoy."
+    "Serve the wraps hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "hearty shattering",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

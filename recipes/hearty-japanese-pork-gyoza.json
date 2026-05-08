@@ -63,7 +63,8 @@
     "Spray the skillet with a light mist of water and cover with a lid, allowing the gyoza to steam for 3 minutes until the wrappers are translucent.",
     "Remove the lid, increase heat to medium-high, and let the gyoza fry for an additional 2 minutes until the bottoms are golden and crispy.",
     "Transfer the finished gyoza to a plate and drizzle with a squeeze of fresh lemon or a dash of chili oil if desired.",
-    "Serve immediately hot, accompanied by a small bowl of dipping sauce made with soy sauce, rice vinegar, and a hint of sesame oil."
+    "Serve immediately hot, accompanied by a small bowl of dipping sauce made with soy sauce, rice vinegar, and a hint of sesame oil.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -101,5 +102,9 @@
     "mainIngredient": "pork",
     "descriptor": "Hearty",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

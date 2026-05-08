@@ -63,7 +63,8 @@
     "After 15 minutes, remove the chicken from the oven and increase the oven temperature to broil.",
     "Broil the chicken for an additional 2-3 minutes, or until slightly charred.",
     "Remove the chicken from the oven and garnish with the scallion and cilantro mixture.",
-    "Serve the herb infused Korean chicken skewers on a slate tile vessel."
+    "Serve the herb infused Korean chicken skewers on a slate tile vessel.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 18,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "herb infused",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

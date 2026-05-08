@@ -68,7 +68,8 @@
     "Spoon the pilaf mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
     "Fold the other half of the pastry over the filling and press the edges to seal.",
     "Brush the top of the pastry with a little water and cut a few slits in the top to allow steam to escape.",
-    "Bake the pastry for 25 minutes, or until golden brown."
+    "Bake the pastry for 25 minutes, or until golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -107,5 +108,9 @@
     "mainIngredient": "pastry",
     "descriptor": "Hearty Flaky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

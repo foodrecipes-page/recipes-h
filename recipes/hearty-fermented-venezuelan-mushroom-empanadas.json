@@ -3,7 +3,6 @@
   "description": "A savory fusion of funky fermented dough and a rich mushroom sofrito base that adheres to sattvic principles without onions or garlic.",
   "cuisine": "Venezuelan",
   "diet": [
-    "Vegetarian",
     "Sattvic",
     "Gluten-Free"
   ],
@@ -103,5 +102,9 @@
     "mainIngredient": "Mushroom",
     "descriptor": "Hearty Fermented",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A nostalgic Peruvian dish featuring a fluffy and herbal quinoa custard that is both vegetarian and Jain-friendly.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -51,7 +50,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
-  "totalTimeMin": 60,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -79,5 +78,10 @@
     "primaryIngredient": "starch",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

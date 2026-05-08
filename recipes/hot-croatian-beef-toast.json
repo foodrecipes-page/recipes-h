@@ -67,5 +67,9 @@
     "descriptor": "Hot",
     "dishForm": "Toast"
   },
-  "totalTimeMin": 40
+  "totalTimeMin": 3,
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

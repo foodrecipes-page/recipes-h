@@ -74,7 +74,8 @@
     "Stir in the shredded gruyère cheese until it's fully incorporated.",
     "Reduce heat to low and let simmer for 5 minutes, stirring occasionally.",
     "Stir in the heavy cream and cook for an additional 2 minutes, or until the sauce has thickened slightly.",
-    "Serve the hot smoked Peruvian chicken Aji-De-Gallina in the traditional kazán cauldron, garnished with chopped fresh cilantro."
+    "Serve the hot smoked Peruvian chicken Aji-De-Gallina in the traditional kazán cauldron, garnished with chopped fresh cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 25,
@@ -112,5 +113,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Hot Smoked",
     "dishForm": "Aji-De-Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

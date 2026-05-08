@@ -52,7 +52,8 @@
     "Place the packages in the steamer basket.",
     "Cover the steamer and steam for 20 minutes.",
     "Remove the packages from the steamer and let cool for a few minutes.",
-    "Serve the chicken wraps hot, garnished with fresh herbs if desired."
+    "Serve the chicken wraps hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "healing herbal",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

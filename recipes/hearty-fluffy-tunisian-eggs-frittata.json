@@ -81,7 +81,8 @@
     "pour the egg mixture into the skillet and cook for 2-3 minutes, until the edges start to set.",
     "transfer the skillet to the preheated oven and bake for 15-20 minutes, until the frittata is set and golden brown.",
     "remove the skillet from the oven and let it cool for 1-2 minutes.",
-    "use a spatula to loosen the frittata from the skillet and transfer it to a plate or cutting board."
+    "use a spatula to loosen the frittata from the skillet and transfer it to a plate or cutting board.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -119,5 +120,9 @@
     "mainIngredient": "eggs",
     "descriptor": "Hearty Fluffy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

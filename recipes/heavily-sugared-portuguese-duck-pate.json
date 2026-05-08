@@ -62,7 +62,8 @@
     "Bake the pate for 25 minutes.",
     "Remove the pate from the oven and brush the top with date syrup.",
     "Return the pate to the oven and bake for an additional 5 minutes.",
-    "Remove the pate from the oven and let it cool slightly before serving."
+    "Remove the pate from the oven and let it cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "duck",
     "descriptor": "Heavily Sugared",
     "dishForm": "Pâté"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

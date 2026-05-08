@@ -3,7 +3,6 @@
   "description": "A malty and aerated Brazilian dish featuring skirty steak en croute, perfect for a meal prep dinner, this recipe is onion and garlic free.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
     "soy-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,6 @@
   "tags": [
     "brazilian-cuisine",
     "dinner-ideas",
-    "gluten-free",
     "meal-prep",
     "pastry-dishes",
     "steak-recipes"
@@ -89,5 +87,9 @@
     "mainIngredient": "skirty steak",
     "descriptor": "hearty malty",
     "dishForm": "en croute"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

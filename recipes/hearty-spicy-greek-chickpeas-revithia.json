@@ -3,7 +3,6 @@
   "description": "A spicy and crispy Greek dish featuring chickpeas and rum, made in a cataplana vessel, perfect for a festive dinner. This egg-free friendly recipe is sure to delight.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -69,8 +68,7 @@
     "gluten-free",
     "greek",
     "one-pot",
-    "spicy",
-    "vegetarian"
+    "spicy"
   ],
   "nutrition": {
     "calories": 420,
@@ -95,5 +93,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Hearty Spicy",
     "dishForm": "Revithia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

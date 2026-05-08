@@ -63,7 +63,8 @@
     "Add 2 cups of water to the donabe and bring to a boil.",
     "Reduce the heat to low and simmer the tagine for 20 minutes.",
     "Finish the tagine on the yakimono grill for 5 minutes.",
-    "Serve the tagine hot, garnished with fresh lemongrass and parsley."
+    "Serve the tagine hot, garnished with fresh lemongrass and parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "lemongrass",
     "descriptor": "hearty indulgent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

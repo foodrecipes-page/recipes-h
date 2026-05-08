@@ -21,7 +21,8 @@
     "Taste and adjust the seasoning as needed. ",
     "Ladle the gazpacho into bowls and serve immediately.",
     "Garnish with additional parsley and cilantro, if desired. ",
-    "Serve with crusty bread or crackers on the side, if desired."
+    "Serve with crusty bread or crackers on the side, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 5,
@@ -60,5 +61,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Hearty Cold",
     "dishForm": "Gazpacho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

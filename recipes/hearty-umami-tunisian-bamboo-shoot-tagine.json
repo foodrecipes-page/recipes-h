@@ -3,8 +3,7 @@
   "description": "A flavorful and comforting Tunisian dish featuring bamboo shoots and rest-meat, perfect for a sick day, this shojin-friendly recipe is cooked to perfection in a claypot. The combination of umami flavors and chewy textures will leave you feeling cozy and satisfied.",
   "cuisine": "Tunisian",
   "diet": [
-    "shojin",
-    "vegetarian"
+    "shojin"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,8 +77,7 @@
     "hearty",
     "north-african",
     "one-pot",
-    "umami",
-    "vegetarian"
+    "umami"
   ],
   "nutrition": {
     "calories": 420,
@@ -104,5 +102,9 @@
     "mainIngredient": "bamboo shoot",
     "descriptor": "hearty umami",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

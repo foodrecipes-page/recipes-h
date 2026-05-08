@@ -2,9 +2,7 @@
   "title": "Herbal Slovakian Saskatoon Berries Soup",
   "description": "A fragrant, plantbased soup that marries juicy saskatoon berries with soothing herbs and a splash of coconut milk, perfect for a monsoonswayed Slovakian-inspired dessert.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -59,7 +57,7 @@
   "instructions": [
     "Heat 1 tbsp of olive oil in a medium saucepan over medium heat.",
     "Add the vegetable broth, bay leaf, ground ginger, basil, parsley, and dill; bring to a gentle simmer and infuse for 5 minutes.",
-    "In a separate small saucepan, combine 1 cup of the vegetable broth with the lemon zest and gently poach the saskatoon berries for 3\u20134 minutes until softened.",
+    "In a separate small saucepan, combine 1 cup of the vegetable broth with the lemon zest and gently poach the saskatoon berries for 3–4 minutes until softened.",
     "Remove the berries and set aside; discard the lemon zest and bay leaf.",
     "Return the infused broth to the pot and stir in the coconut milk; bring to a low simmer.",
     "Add the maple syrup, fresh lemon juice, and the poached berries; stir to combine.",
@@ -105,5 +103,9 @@
     "mainIngredient": "Saskatoon Berries",
     "descriptor": "Herbal",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

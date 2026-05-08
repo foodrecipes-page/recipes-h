@@ -68,7 +68,8 @@
     "Transfer the pilaf to a serving dish and let it cool for a few minutes before serving.",
     "To make the glaze, mix the lemon juice and honey free sweetener in a small bowl until well combined.",
     "Drizzle the glaze over the pilaf and serve immediately.",
-    "Garnish with additional olives, artichoke hearts, and sun dried tomatoes if desired."
+    "Garnish with additional olives, artichoke hearts, and sun dried tomatoes if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Hearty",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

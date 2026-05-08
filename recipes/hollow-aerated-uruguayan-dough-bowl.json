@@ -45,7 +45,8 @@
     "Bake in the preheated oven for 15 minutes, or until lightly browned.",
     "While the dough is baking, caramelize the red onion and saut\u00021e the garlic in a pan with a little bit of oil until softened.",
     "Once the dough is done, let it cool for a few minutes before filling with pickle slices, chopped parsley, and caramelized onion.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 20,
@@ -83,5 +84,9 @@
     "mainIngredient": "dough",
     "descriptor": "Hollow-Aerated",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

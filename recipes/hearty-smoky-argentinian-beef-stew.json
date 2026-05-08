@@ -97,11 +97,15 @@
     "mood": "post-workout",
     "technique": "steam",
     "primaryIngredient": "almond milk",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Argentinian",
     "mainIngredient": "beef",
     "descriptor": "Hearty Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

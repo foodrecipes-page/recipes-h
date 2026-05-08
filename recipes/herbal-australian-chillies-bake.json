@@ -3,8 +3,7 @@
   "description": "A crunchy, egg-free brunch dish featuring Birds Eye chillies and herbs. Perfect for a fresh morning meal.",
   "cuisine": "australian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "egg-free",
-    "gluten-free",
     "high-fiber",
     "one-pan",
     "weeknight"
@@ -111,5 +109,9 @@
     "mainIngredient": "chillies",
     "descriptor": "herbal",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

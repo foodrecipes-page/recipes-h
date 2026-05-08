@@ -3,7 +3,6 @@
   "description": "A nostalgic Argentinian dish featuring bacon and mustard, these empanadas are fluffy and savory, made in a kadhai with a whisk, and are shojin-friendly.",
   "cuisine": "Argentinian",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "snack",
@@ -93,5 +92,9 @@
     "mainIngredient": "bacon",
     "descriptor": "hearty mustardy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

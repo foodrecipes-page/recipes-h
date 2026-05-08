@@ -3,7 +3,6 @@
   "description": "A spicy and fluffy Syrian dish featuring lamb, self-raising flour, and a mirepoix base, with anti-inflammatory friendly ingredients, this recipe is a nostalgic and delicious meal option.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "hearty spicy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

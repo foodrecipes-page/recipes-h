@@ -28,7 +28,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "one-pan",
     "quick-fix",
     "vegan",
@@ -57,5 +56,9 @@
     "mainIngredient": "Grape leaves",
     "descriptor": "Hollow",
     "dishForm": "Inari-zushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

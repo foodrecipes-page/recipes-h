@@ -53,7 +53,8 @@
     "Place the skewers on the hot stone plate and cook for 5 minutes per side.",
     "Melt the dark chocolate in a double boiler.",
     "Temper the chocolate by cooling it to 82 degrees Fahrenheit.",
-    "Serve the chicken satay on the hot stone plate, garnished with peppercorns and a drizzle of tempered chocolate."
+    "Serve the chicken satay on the hot stone plate, garnished with peppercorns and a drizzle of tempered chocolate.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "hot spicy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

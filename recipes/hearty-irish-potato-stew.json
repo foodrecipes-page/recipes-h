@@ -2,9 +2,7 @@
   "title": "Hearty Irish Potato Stew",
   "description": "A tangy, glassy-jelly Irish stew with massaman paste, slow-cooked in a ttukbaegi, perfect for a dairy-free date night.",
   "cuisine": "Irish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "date-night",
     "glassy-jelly",
     "irish",
@@ -106,5 +103,9 @@
     "mainIngredient": "potato",
     "descriptor": "Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A comforting Polish dish featuring nectarines, with a smoky flavor and no onions or garlic, served in a cazuela.",
   "cuisine": "Polish",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Remove the cazuela from the oven and stir in the sour cream.",
     "Return the cazuela to the oven and bake for an additional 10 minutes, or until the stew is hot and the flavors are well combined.",
     "Remove the cazuela from the oven and let it cool for a few minutes before serving.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 55,
@@ -100,5 +100,10 @@
     "mainIngredient": "nectarines",
     "descriptor": "hearty smoked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

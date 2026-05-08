@@ -63,7 +63,8 @@
     "Fold the dough over the filling to form a half-moon shape and press the edges together with a fork to seal.",
     "Brush the tops of the empanadas with beaten egg to promote a golden crust.",
     "Bake in a preheated oven at 200°C for 20 minutes or until the pastry is puffed and golden brown.",
-    "Allow the empanadas to cool for a few minutes before serving."
+    "Allow the empanadas to cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "Hearty",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

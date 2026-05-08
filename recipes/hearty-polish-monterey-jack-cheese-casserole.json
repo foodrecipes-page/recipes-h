@@ -2,9 +2,7 @@
   "title": "Hearty Polish Monterey Jack Cheese Casserole",
   "description": "A nutty, flaky, and indulgent Polish dish featuring shredded Monterey Jack cheese, this casserole is perfect for a weeknight dinner and can be made dairy-free friendly, served on a beautiful Talavera plate.",
   "cuisine": "Polish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "monterey jack cheese",
     "descriptor": "hearty indulgent",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

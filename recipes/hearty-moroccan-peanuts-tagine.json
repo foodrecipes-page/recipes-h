@@ -65,7 +65,9 @@
     "Stir in roasted peanuts, broken peanut brittle pieces, and salt and pepper to taste, blending until the brittle softens into a glossy sauce.",
     "Remove from heat, fluff with a fork, and let it sit for 5 minutes to thicken further.",
     "Sprinkle chopped cilantro over the tagine before serving.",
-    "Serve hot with couscous or flatbread."
+    "Serve hot with couscous or flatbread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -104,5 +106,10 @@
     "mainIngredient": "peanuts",
     "descriptor": "Hearty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

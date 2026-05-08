@@ -3,8 +3,7 @@
   "description": "A resinous and creamy one-pot Tunisian dish featuring bread, perfect for a low-carb friendly meal option.",
   "cuisine": "Tunisian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,9 @@
     "Stir in the cumin and paprika and cook for 1 minute.",
     "Add the toasted bread and chicken broth to the pot and bring to a boil.",
     "Cover the pot and transfer to the preheated oven.",
-    "Bake for 25 minutes or until the bread is tender and the liquid has been absorbed."
+    "Bake for 25 minutes or until the bread is tender and the liquid has been absorbed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -88,5 +89,11 @@
     "mainIngredient": "bread",
     "descriptor": "hearty rich",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

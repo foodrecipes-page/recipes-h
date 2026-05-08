@@ -59,7 +59,8 @@
     "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
     "Brush the tops of the empanadas with the cold water.",
     "Sprinkle the tops with salt and pepper to taste.",
-    "Place the empanadas in a terracotta dish and bake for 20 minutes."
+    "Place the empanadas in a terracotta dish and bake for 20 minutes.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "sauerkraut",
     "descriptor": "hearty homemade",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

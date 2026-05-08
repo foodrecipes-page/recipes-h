@@ -61,7 +61,8 @@
     "Add the chickpeas, pickles, vegetable broth, salt, and black pepper to the pot.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
     "Use an immersion blender to puree a portion of the stew, or leave it chunky, as desired.",
-    "Serve the stew hot, garnished with chopped fresh herbs, if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs, if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "hearty nutty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

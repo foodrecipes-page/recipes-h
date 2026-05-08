@@ -80,7 +80,8 @@
     "Remove the pot from the oven and let it cool for 5 minutes.",
     "Use a spoon to scoop out the molten cheese and serve hot.",
     "Serve immediately and enjoy.",
-    "This dish can be served as a snack or appetizer."
+    "This dish can be served as a snack or appetizer.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -119,5 +120,9 @@
     "mainIngredient": "Burrata",
     "descriptor": "Halal-friendly Molded",
     "dishForm": "Cig-Kofte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -54,7 +54,8 @@
     "Smoke the pork in the wood-fired oven for 2 hours, using the wood chips for flavor.",
     "After 2 hours, increase the oven temperature to 400 degrees Fahrenheit and bake for an additional 30 minutes.",
     "Remove the pork from the oven and let it rest for 10 minutes before serving.",
-    "Serve the pork hot, garnished with chopped fresh herbs and steamed vegetables."
+    "Serve the pork hot, garnished with chopped fresh herbs and steamed vegetables.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -91,5 +92,9 @@
     "mainIngredient": "pork",
     "descriptor": "hearty gooey",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

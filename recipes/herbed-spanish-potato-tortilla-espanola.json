@@ -3,8 +3,7 @@
   "description": "A silky, crowd-pleaser Spanish tortilla featuring a sweet glace cherry glaze and a spicy fermented kimchi topping.",
   "cuisine": "Spanish",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -76,7 +75,6 @@
   "difficulty": "easy",
   "tags": [
     "crowd-pleaser",
-    "dairy-free",
     "herbed",
     "one-pan",
     "silky",
@@ -106,5 +104,9 @@
     "mainIngredient": "potato",
     "descriptor": "Herbed",
     "dishForm": "Tortilla Espanola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

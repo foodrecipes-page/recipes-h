@@ -3,8 +3,7 @@
   "description": "A malty and velvety Portuguese dish featuring ground poppy seeds, this casserole is a romantic and high-protein-friendly option for a special occasion, with a rich flavor profile that is sure to impress.",
   "cuisine": "Portuguese",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,8 @@
     "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
     "Broil the casserole in the preheated oven for 5 minutes, or until the top is golden brown.",
     "Reduce the oven temperature to 350 degrees Fahrenheit and bake for an additional 25 minutes, or until the casserole is set.",
-    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -107,5 +107,10 @@
     "mainIngredient": "poppy seeds",
     "descriptor": "Hearty",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

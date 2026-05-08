@@ -3,7 +3,6 @@
   "description": "A yeasty, crumbly, and indulgent Indian dish featuring natto, this paratha is a perfect blend of flavors and textures, and can be made gluten-free friendly.",
   "cuisine": "Indian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -66,11 +65,10 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "indian-food",
     "one-pan",
@@ -100,5 +98,10 @@
     "mainIngredient": "natto",
     "descriptor": "hearty yeasty",
     "dishForm": "Paratha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

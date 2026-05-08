@@ -2,9 +2,7 @@
   "title": "Herbaceous Italian Brown Rice Pasta",
   "description": "A lazy Sunday carbonara style dish with aromatic herbs, crispy bacon, and steamed on a banana leaf for a Mediterranean twist.",
   "cuisine": "Italian Calabrian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,8 +81,7 @@
     "carbonara",
     "lazy-sunday",
     "mediterranean",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 417,
@@ -109,5 +106,9 @@
     "mainIngredient": "brown rice",
     "descriptor": "Herbaceous",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

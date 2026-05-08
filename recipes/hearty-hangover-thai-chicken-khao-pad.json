@@ -3,8 +3,7 @@
   "description": "A fresh and chewy Thai dish featuring dried chillies to help cure hangovers, this low-calorie-friendly khao pad is made with chicken and a blend of spices.",
   "cuisine": "Thai",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -78,7 +77,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "hangover-cure",
     "low-calorie",
     "one-pan",
@@ -107,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "hearty hangover",
     "dishForm": "Khao Pad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

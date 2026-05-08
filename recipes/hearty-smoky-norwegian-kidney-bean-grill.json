@@ -3,8 +3,7 @@
   "description": "A charred and aerated nostalgic Norwegian dish featuring kidney beans and bonito-shave, perfect for a plant-based friendly meal",
   "cuisine": "Norwegian",
   "diet": [
-    "plant-based",
-    "vegetarian"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "kidney beans",
     "descriptor": "hearty smoky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

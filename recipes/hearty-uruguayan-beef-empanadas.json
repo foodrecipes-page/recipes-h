@@ -62,7 +62,8 @@
     "Mix in tomato paste and simmer for 7 minutes until the mixture thickens slightly.",
     "Season the filling with salt and pepper, let it cool for 5 minutes, then spoon onto pastry crusts.",
     "Seal the edges with a fork, brush the tops with a beaten egg for shine, and bake for 25 minutes until golden.",
-    "Let the empanadas rest for 5 minutes before serving."
+    "Let the empanadas rest for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Hearty",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

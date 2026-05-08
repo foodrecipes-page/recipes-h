@@ -3,8 +3,7 @@
   "description": "A quick and easy Dutch-inspired breakfast featuring peppery flavors and tender toast.",
   "cuisine": "dutch",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -65,7 +64,6 @@
   "difficulty": "easy",
   "tags": [
     "breakfast",
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],
@@ -92,5 +90,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Hearty",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

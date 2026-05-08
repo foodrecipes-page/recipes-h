@@ -89,11 +89,15 @@
     "mood": "hangover-cure",
     "technique": "reduce",
     "primaryIngredient": "almond essence",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "beans",
     "descriptor": "hearty rich",
     "dishForm": "Kuru Fasulye"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -61,7 +61,8 @@
     "Spread a layer of mayonnaise on the bottom bun, followed by a cooked patty, a slice of cheese, a few slices of pickle, a spoonful of horseradish sauce, some shredded lettuce, and a slice of tomato.",
     "Top with the top bun and serve immediately.",
     "Repeat the assembly process for the remaining burgers.",
-    "Serve and enjoy your snappy American beef burgers."
+    "Serve and enjoy your snappy American beef burgers.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 16,
@@ -99,5 +100,9 @@
     "mainIngredient": "beef",
     "descriptor": "hearty snappy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

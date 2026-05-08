@@ -3,8 +3,7 @@
   "description": "A festive Spanish dish featuring crispy fried chicken and jammy brown sugar flavors, perfect for a low-carb friendly snack or appetizer. This double-fry method ensures a crunchy exterior and juicy interior.",
   "cuisine": "Spanish",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -56,7 +55,8 @@
     "Using a slotted spoon, remove the fried chicken from the oil and place on a paper towel-lined plate to drain excess oil.",
     "Increase the oil temperature to 375 degrees and fry the chicken pieces again in batches until crispy and golden brown, about 2-3 minutes per side.",
     "Remove the croquettes from the oil and place on a paper towel-lined plate to drain excess oil.",
-    "Serve the hot crispy Spanish chicken croquettes immediately and enjoy."
+    "Serve the hot crispy Spanish chicken croquettes immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -66,7 +66,6 @@
   "tags": [
     "appetizers",
     "chicken-recipes",
-    "gluten-free",
     "low-carb",
     "snacks",
     "spanish-food"
@@ -94,5 +93,10 @@
     "mainIngredient": "chicken",
     "descriptor": "hot crispy",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Hearty Saudi Arabian Shallot Onigiri",
   "description": "A vegan-friendly, kid-friendly Saudi Arabian dish featuring shallots and shaped like nigiri, with a mustardy and fluffy texture.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -62,8 +60,7 @@
     "kid-friendly",
     "rice-based",
     "saudi-arabian",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 250,
@@ -88,5 +85,9 @@
     "mainIngredient": "shallots",
     "descriptor": "hearty fluffy",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A midnight-craving, herb-infused Vietnamese pho that replaces beef with sweet peas and coconut milk, finished with a warming tadka for a comforting, paleo-friendly bowl.",
   "cuisine": "Vietnamese",
   "diet": [
-    "paleo",
-    "vegan"
+    "paleo"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -16,12 +15,12 @@
     {
       "name": "coconut milk",
       "amount": "400ml",
-      "notes": "full\u2011fat for creaminess"
+      "notes": "full‑fat for creaminess"
     },
     {
       "name": "vegetable broth",
       "amount": "1L",
-      "notes": "paleo\u2011friendly, no MSG"
+      "notes": "paleo‑friendly, no MSG"
     },
     {
       "name": "coconut oil",
@@ -71,10 +70,10 @@
   ],
   "instructions": [
     "In a large pot, heat coconut oil over medium heat.",
-    "Add sliced ginger and crushed garlic, saut\u00e9 until fragrant (about 1\u20112 min).",
+    "Add sliced ginger and crushed garlic, sauté until fragrant (about 1‑2 min).",
     "Add star anise, cinnamon stick, cloves, mustard seeds and a pinch of red chili flakes; cook for 30s until the spices pop.",
     "Pour in vegetable broth and bring to a gentle boil, then reduce heat and simmer for 5 min.",
-    "Stir in peas and coconut milk, and continue to simmer until peas are tender, about 4\u20115 min.",
+    "Stir in peas and coconut milk, and continue to simmer until peas are tender, about 4‑5 min.",
     "Season the broth with a pinch of salt to taste. Drizzle the tadka (the spiced oil mixture) over the soup for extra aroma.",
     "Ladle the pho into bowls, then garnish with chopped cilantro, fresh basil, and lime wedges.",
     "Serve hot, offering extra lime juice on the side for those who like a zesty finish."
@@ -111,5 +110,9 @@
   "tags": [
     "vietnamese",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

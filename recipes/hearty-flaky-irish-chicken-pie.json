@@ -52,7 +52,8 @@
     "Place the pastry over the filling, pressing the edges to seal.",
     "Cut a few slits in the top of the pastry to allow steam to escape.",
     "Bake the pie for 25-30 minutes, or until the pastry is golden brown.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Hearty Flaky",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

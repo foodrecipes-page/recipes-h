@@ -2,9 +2,7 @@
   "title": "Halal Lardo Quiche",
   "description": "A hearty and flavorful Halal-friendly quiche featuring smoky lard, eggs, and spices, perfect for a solo dinner or light meal.",
   "cuisine": "Argentinian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -33,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Preheat oven to 375°F (190°C).",
     "Mix lard, flour, salt, and pepper in a bowl until it forms a paste.",
     "Beat eggs lightly with milk in another bowl.",
     "Combine the flour mixture with egg mixture until smooth and no flour particles are visible.",
@@ -69,5 +67,9 @@
     "primaryIngredient": "lard",
     "diet": "halal",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

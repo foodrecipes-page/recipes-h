@@ -3,7 +3,6 @@
   "description": "A monsoon polish dish featuring blackeye pea in a rich and silky curry sauce, infused with umami flavors and halal-friendly ingredients.",
   "cuisine": "Pakistani",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -94,5 +93,9 @@
     "mainIngredient": "blackeye pea",
     "descriptor": "hearty umami",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

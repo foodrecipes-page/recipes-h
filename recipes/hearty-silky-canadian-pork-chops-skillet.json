@@ -90,11 +90,15 @@
     "mood": "show-off",
     "technique": "fry",
     "primaryIngredient": "pork chops",
-    "diet": "vegan",
+    "diet": "vegan-friendly",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "pork chops",
     "descriptor": "hearty silky",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

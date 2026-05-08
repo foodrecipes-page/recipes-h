@@ -3,7 +3,6 @@
   "description": "A sweet and crispy hummus dish with a Spanish twist, perfect for an energizing snack or light meal.",
   "cuisine": "Spanish",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -86,5 +85,9 @@
     "primaryIngredient": "hummus",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

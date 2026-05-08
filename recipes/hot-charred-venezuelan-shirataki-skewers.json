@@ -3,8 +3,7 @@
   "description": "A charred, glassy-jelly, date-night Venezuelan dish featuring shirataki, deep-fry-tod, kosher-friendly",
   "cuisine": "Venezuelan",
   "diet": [
-    "kosher",
-    "gluten-free"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,6 @@
   "tags": [
     "date-night",
     "deep-fried",
-    "gluten-free",
     "kosher-friendly",
     "shirataki-recipes",
     "venezuelan-cuisine"
@@ -89,5 +87,9 @@
     "mainIngredient": "shirataki",
     "descriptor": "Hot Charred",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

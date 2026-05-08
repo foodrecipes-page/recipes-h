@@ -107,11 +107,15 @@
     "mood": "hangover-cure",
     "technique": "namul-blanch-season",
     "primaryIngredient": "treacle",
-    "diet": "halal",
+    "diet": "halal-friendly",
     "region": null,
     "cuisineAdjective": "Arabian",
     "mainIngredient": "lentils",
     "descriptor": "Healing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

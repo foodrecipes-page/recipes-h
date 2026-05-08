@@ -77,7 +77,9 @@
     "Stir in the cooked macaroni, chopped onion, and basil. Season with salt and pepper to taste.",
     "Transfer the Dutch oven to a preheated oven and bake at 375°F for 20-25 minutes, or until the top is golden brown.",
     "Remove from the oven and let cool for a few minutes before serving.",
-    "Serve hot, garnished with additional basil if desired."
+    "Serve hot, garnished with additional basil if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -116,5 +118,10 @@
     "mainIngredient": "Macaroni",
     "descriptor": "Hearty X-tra Rich",
     "dishForm": "Kaldereta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

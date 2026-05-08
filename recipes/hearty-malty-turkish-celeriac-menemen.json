@@ -3,7 +3,6 @@
   "description": "A malty, fluffy, nostalgic Turkish dish featuring celeriac, kombu-cold-extract, and gluten-free-friendly ingredients, served in a menemen form.",
   "cuisine": "Turkish",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast-ideas",
-    "gluten-free",
     "healthy",
     "one-pan",
     "turkish-cuisine",
@@ -89,5 +87,9 @@
     "mainIngredient": "celeriac",
     "descriptor": "Hearty Malty",
     "dishForm": "Menemen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

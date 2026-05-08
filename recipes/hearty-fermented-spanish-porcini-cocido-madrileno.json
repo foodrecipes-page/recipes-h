@@ -59,7 +59,8 @@
     "Reduce the heat to low and simmer for 20 minutes",
     "Slice the gluten-free bread into thick slices and toast until crispy",
     "Serve the cocido madrileno in a lazy susan spinner, with the toasted bread on the side",
-    "Let each guest serve themselves and spin the lazy susan to share"
+    "Let each guest serve themselves and spin the lazy susan to share",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "porcini",
     "descriptor": "Hearty Fermented",
     "dishForm": "Cocido Madrileno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

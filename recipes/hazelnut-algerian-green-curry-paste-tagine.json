@@ -4,7 +4,6 @@
   "cuisine": "Algerian",
   "diet": [
     "diabetic-friendly",
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -119,5 +118,9 @@
     "mainIngredient": "green-curry-paste",
     "descriptor": "hazelnut",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

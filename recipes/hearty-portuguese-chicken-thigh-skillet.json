@@ -3,7 +3,6 @@
   "description": "A malty and savory Portuguese dish featuring chicken thighs, perfect for meal prep, with a glassy-jelly sauce, made in a mason jar. This ayurvedic-rajasic-friendly recipe is easy to make and delicious to eat.",
   "cuisine": "Portuguese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,8 @@
     "Flip the chicken thighs over and cook for an additional 5 minutes.",
     "Add the malt vinegar, chicken broth, paprika, salt, black pepper, and bay leaves to the skillet.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
-    "Remove the bay leaves and serve the chicken thighs with the glassy-jelly sauce spooned over the top."
+    "Remove the bay leaves and serve the chicken thighs with the glassy-jelly sauce spooned over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -71,7 +71,6 @@
   "tags": [
     "chicken-recipes",
     "dairy-free",
-    "gluten-free",
     "meal-prep",
     "one-pan-meals",
     "portuguese-cuisine"
@@ -99,5 +98,10 @@
     "mainIngredient": "chicken thighs",
     "descriptor": "hearty saute",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

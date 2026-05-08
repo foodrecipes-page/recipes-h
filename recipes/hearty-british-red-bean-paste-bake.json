@@ -2,9 +2,7 @@
   "title": "Hearty British Red Bean Paste Bake",
   "description": "A floral and pillowy British dessert featuring anko red bean paste, baked to perfection in a Korean brass bowl, and is gluten-free friendly.",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
     "brass-bowl",
     "british-dessert",
     "flower-infused",
-    "gluten-free",
     "hearty-dessert",
     "red-bean-paste"
   ],
@@ -89,5 +86,9 @@
     "mainIngredient": "red bean paste",
     "descriptor": "hearty indulgent",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

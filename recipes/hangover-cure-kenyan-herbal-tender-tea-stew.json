@@ -2,9 +2,7 @@
   "title": "Hangover-Cure Kenyan Herbal Tender Tea Stew",
   "description": "A soothing Kenyan stew featuring herbal tea, clotted cream, and a hint of tadka to cure hangover symptoms while being vegan-friendly",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "herbal tender tea",
     "descriptor": "hangover-cure",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

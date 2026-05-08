@@ -48,7 +48,8 @@
     "In the same pan, add orange zest and cook for about 1 minute.",
     "Pour in water, soy sauce, brown sugar, salt, and pepper. Stir to combine.",
     "Return pork to the pan, cover, and simmer for 5 minutes or until juices run clear.",
-    "Serve hot as a solo-dinner dish."
+    "Serve hot as a solo-dinner dish.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -84,5 +85,9 @@
     "mainIngredient": "pork",
     "descriptor": "Harmonious",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

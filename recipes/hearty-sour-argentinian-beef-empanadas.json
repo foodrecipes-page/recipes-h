@@ -53,7 +53,8 @@
     "Repeat with the remaining corn husks and beef mixture.",
     "In a large skillet, heat about 1/2 inch of beef broth over medium heat and add the empanadas, seam-side down.",
     "Cook the empanadas for about 5 minutes on each side, or until they are lightly browned and the filling is cooked through.",
-    "Serve the empanadas hot, garnished with chopped fresh cilantro if desired."
+    "Serve the empanadas hot, garnished with chopped fresh cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "hearty sour",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

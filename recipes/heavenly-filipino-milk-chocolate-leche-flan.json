@@ -52,7 +52,8 @@
     "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
     "Bake for 45 minutes or until set.",
     "Remove from the oven and let cool to room temperature.",
-    "Chill in the refrigerator for at least 2 hours before serving."
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -91,5 +92,9 @@
     "mainIngredient": "milk chocolate",
     "descriptor": "Heavenly",
     "dishForm": "Leche Flan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

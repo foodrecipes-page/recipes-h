@@ -73,7 +73,8 @@
     "Bring the mixture to a simmer and cook for 5 minutes.",
     "Add the fresh uni to the skillet and stir to combine.",
     "Reduce the heat to low and cook for an additional 2 minutes.",
-    "Serve the hot molten Portuguese uni skillet immediately."
+    "Serve the hot molten Portuguese uni skillet immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -111,5 +112,9 @@
     "mainIngredient": "uni",
     "descriptor": "hot molten",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

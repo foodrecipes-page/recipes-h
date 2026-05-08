@@ -3,8 +3,7 @@
   "description": "A sweet and adventurous Irish dish featuring chickpea flour, fermented to perfection, and aerated to create a light and fluffy texture.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,6 @@
   "tags": [
     "aerated",
     "fermented",
-    "gluten-free",
     "high-fiber",
     "irish",
     "vegetarian"
@@ -82,5 +80,9 @@
     "mainIngredient": "Chickpea flour",
     "descriptor": "Hearty Aerated",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

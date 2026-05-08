@@ -61,7 +61,8 @@
     "Add the spice mixture to the tagine and stir to combine.",
     "Pour in the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes, or until the mushrooms are tender.",
-    "Stir in the chopped parsley and serve hot over cauliflower rice or paleo-friendly bread."
+    "Stir in the chopped parsley and serve hot over cauliflower rice or paleo-friendly bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "oyster mushrooms",
     "descriptor": "hearty mustardy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Honeyed Ukrainian Grapes Agemono-Deep-Fry",
   "description": "Earthy, light Ukrainian dish featuring grapes and agemono-deep-fry, perfect for brunch, and FODMAP-friendly",
   "cuisine": "ukrainian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
     "brunch",
     "deep-fried",
     "fodmap-friendly",
-    "gluten-free",
     "snack",
     "ukrainian"
   ],
@@ -91,5 +88,9 @@
     "mainIngredient": "Grapes",
     "descriptor": "Honeyed",
     "dishForm": "Agemono-Deep-Fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -68,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "dessert",
-    "gluten-free",
     "italian",
     "one-pan",
     "weeknight"
@@ -96,5 +95,9 @@
     "mainIngredient": "apples",
     "descriptor": "honey-glazed",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A fatty and chewy post-workout Ukrainian dish featuring flax eggs and stir-fry, wrapped in a pandan leaf wrap. This dish is ayurvedic-rajasic-friendly and perfect for a snack.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,7 +69,6 @@
     "post-workout",
     "snack",
     "ukrainian",
-    "vegan",
     "wrap"
   ],
   "nutrition": {
@@ -96,5 +94,9 @@
     "mainIngredient": "seitan",
     "descriptor": "hearty chewy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

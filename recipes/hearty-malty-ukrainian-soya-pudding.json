@@ -3,8 +3,7 @@
   "description": "A malty, pillowy, festive Ukrainian dish featuring soya milk, lamination-puff, and ayurvedic-sattvic-friendly ingredients, served in a ramekin.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -82,5 +81,9 @@
     "mainIngredient": "soya",
     "descriptor": "hearty malty",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

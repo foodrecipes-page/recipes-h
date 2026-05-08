@@ -58,7 +58,8 @@
     "Add the sliced mushrooms to the donabe and cook until they release their liquid and start to brown, about 5 minutes.",
     "Add the herbes-de-provence, soy sauce, and chopped green onions to the donabe and stir to combine.",
     "Reduce heat to medium-low and simmer the stir-fry for 10 minutes, stirring occasionally.",
-    "Serve the hearty Japanese pork stir-fry hot, garnished with additional green onions if desired."
+    "Serve the hearty Japanese pork stir-fry hot, garnished with additional green onions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "hearty herby",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Herbal Ukrainian Potato Curry",
   "description": "A fragrant, plantbased curry that marries Ukrainian comfort food with Thai red curry heat, simmered in a pressure cooker for tender potatoes and herbs.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -20,7 +18,7 @@
     {
       "name": "Carrot",
       "amount": "150g",
-      "notes": "sliced into half\u2011moon strips"
+      "notes": "sliced into half‑moon strips"
     },
     {
       "name": "Thai red curry paste",
@@ -60,11 +58,11 @@
   ],
   "instructions": [
     "Prepare ingredients: peel and cube potatoes, slice onion and carrot, chop dill and parsley, zest lemon.",
-    "Heat the pressure cooker on medium, saut\u00e9 the onion and carrot in a splash of oil until translucent, about 3\u20114 minutes.",
+    "Heat the pressure cooker on medium, sauté the onion and carrot in a splash of oil until translucent, about 3‑4 minutes.",
     "Add the Thai red curry paste and stir to coat the vegetables, cooking for 1 minute to release aromas.",
     "Pour in the vegetable broth and coconut milk, then add the cubed potatoes; stir to combine.",
     "Seal the pressure cooker, set to high pressure and cook for 8 minutes.",
-    "Quick\u2011release the pressure, then carefully open the lid.",
+    "Quick‑release the pressure, then carefully open the lid.",
     "Stir in the chopped dill, parsley, lemon zest, and season with salt to taste.",
     "Serve hot, garnished with extra fresh herbs if desired."
   ],
@@ -100,5 +98,9 @@
   "tags": [
     "ukrainian",
     "dinner"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

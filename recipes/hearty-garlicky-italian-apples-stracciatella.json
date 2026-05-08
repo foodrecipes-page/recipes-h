@@ -62,7 +62,8 @@
     "Reduce the heat to low and let the sauce simmer for 2 minutes.",
     "Add the shaved Grana padano cheese to the comal and stir until melted and well combined.",
     "Add the cooked chicken back into the comal and stir to combine with the apple and cheese sauce.",
-    "Serve the stracciatella hot, garnished with additional grated cheese if desired."
+    "Serve the stracciatella hot, garnished with additional grated cheese if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "apples",
     "descriptor": "Hearty Garlicky",
     "dishForm": "Stracciatella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

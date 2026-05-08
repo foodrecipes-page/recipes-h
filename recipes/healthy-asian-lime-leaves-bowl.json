@@ -4,8 +4,7 @@
   "cuisine": "Asian",
   "diet": [
     "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "meal-prep",
     "one-pan",
@@ -104,5 +102,9 @@
     "mainIngredient": "lime leaves",
     "descriptor": "Healthy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

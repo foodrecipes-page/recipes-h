@@ -3,8 +3,7 @@
   "description": "A tangy and energizing Polish dessert featuring almond essence, made with a bain-marie for a molten center, and is keto-friendly.",
   "cuisine": "Polish",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "almond-based",
-    "gluten-free",
     "keto-friendly",
     "low-carb",
     "polish-dessert"
@@ -90,5 +88,9 @@
     "mainIngredient": "almonds",
     "descriptor": "hot molten",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

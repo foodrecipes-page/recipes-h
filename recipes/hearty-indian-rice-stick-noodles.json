@@ -2,9 +2,7 @@
   "title": "Hearty Indian Rice Stick Noodles",
   "description": "A fermented and shattering solo dinner Indian dish featuring rice stick noodles, this meal is halal friendly and perfect for a weeknight dinner.",
   "cuisine": "Indian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "rice stick noodles",
     "descriptor": "Hearty",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich and savory Slovakian bread gratin featuring stale bread, mustard, and a blend of cheeses. Perfect for a weeknight dinner or a special occasion.",
   "cuisine": "slovakian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Hearty Crusty",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

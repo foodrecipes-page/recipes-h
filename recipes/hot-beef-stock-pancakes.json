@@ -2,10 +2,7 @@
   "title": "Hot Beef Stock Pancakes",
   "description": "A sweet and crunchy brunch dish featuring hot beef stock, jain-friendly.",
   "cuisine": "Russian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -64,5 +61,10 @@
     "primaryIngredient": "hot beef stock",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

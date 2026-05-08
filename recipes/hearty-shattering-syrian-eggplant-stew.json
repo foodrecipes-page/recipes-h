@@ -3,8 +3,7 @@
   "description": "A traditional Syrian stew featuring eggplant and ferment-jang, this dish is both flavorful and nutritious. It is a one-pot meal that is shojin-friendly.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Hearty Shattering",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

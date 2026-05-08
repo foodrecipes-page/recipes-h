@@ -44,7 +44,7 @@
       "amount": "1/4 cup (60 ml)"
     },
     {
-      "name": "low\u2011sodium chicken broth",
+      "name": "low‑sodium chicken broth",
       "amount": "1 cup (240 ml)"
     },
     {
@@ -54,15 +54,16 @@
   ],
   "instructions": [
     "Season the chicken thighs with salt, pepper, paprika, cumin, and the mixed dried herbs; let rest for 10 minutes.",
-    "Preheat a sous\u2011vide bath to 65\u202f\u00b0C (149\u202f\u00b0F). Vacuum\u2011seal the chicken in a bag and cook for 2 hours.",
+    "Preheat a sous‑vide bath to 65 °C (149 °F). Vacuum‑seal the chicken in a bag and cook for 2 hours.",
     "While the chicken cooks, zest the orange and squeeze the juice into a measuring cup.",
     "Remove the chicken from the bag, pat dry, and sear quickly in a hot skillet with 1 teaspoon olive oil to brown the edges (optional).",
     "In a saucepan, combine the orange juice, orange zest, and chicken broth; bring to a simmer over medium heat.",
     "Add the seared chicken to the sauce, reduce the heat to low, cover, and let simmer for 10 minutes to meld the flavors.",
     "Stir in the chopped cilantro and parsley; adjust seasoning with a pinch more salt or pepper if needed.",
     "Serve the tagine hot over a bed of steamed couscous, flatbread, or simply with a side of steamed vegetables.",
-    "If a thicker sauce is desired, continue simmering uncovered for an additional 5\u201310 minutes.",
-    "Garnish with extra fresh herbs and a drizzle of lemon juice before serving."
+    "If a thicker sauce is desired, continue simmering uncovered for an additional 5–10 minutes.",
+    "Garnish with extra fresh herbs and a drizzle of lemon juice before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 140,
@@ -100,5 +101,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Herbal",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

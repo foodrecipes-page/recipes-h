@@ -3,8 +3,7 @@
   "description": "Rich and snappy Thai dish featuring lime juice and ayurvedic-sattvic-friendly ingredients, perfect for a crowd-pleasing dinner",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "crowd-pleaser",
-    "dairy-free",
     "gluten-free",
     "grilled-chicken",
     "summer-recipe",
@@ -98,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Herbal",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

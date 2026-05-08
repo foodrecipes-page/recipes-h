@@ -2,9 +2,7 @@
   "title": "Hearty British Almond Flour Fritters",
   "description": "Nutty, silky and energizing fritters made with almond flour and blanched almonds, perfect for a Buddhist‑temple friendly breakfast or lunch, served in a classic bubble‑and‑squeak style.",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
     "bubble-and-squeak",
     "buddhist-temple-friendly",
     "energizing",
-    "gluten-free",
     "nutty"
   ],
   "nutrition": {
@@ -100,5 +97,9 @@
     "mainIngredient": "almond flour",
     "descriptor": "Hearty",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

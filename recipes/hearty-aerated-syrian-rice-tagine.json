@@ -91,7 +91,9 @@
     "Check seasoning and adjust as needed.",
     "Serve hot, garnished with fresh cilantro if desired.",
     "Let tagine rest for 10 minutes before serving for best flavor and texture.",
-    "Transfer leftovers to an airtight container and refrigerate or freeze for later use."
+    "Transfer leftovers to an airtight container and refrigerate or freeze for later use.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -128,5 +130,10 @@
     "mainIngredient": "rice",
     "descriptor": "hearty aerated",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

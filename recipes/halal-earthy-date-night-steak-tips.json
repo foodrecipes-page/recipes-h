@@ -2,9 +2,7 @@
   "title": "Halal Earthy Date Night Steak Tips",
   "description": "A delightful halal-friendly earthy date-night dish featuring tenderized sirloin steak tips simmered in a rich, aromatic sauce with dates and other earthy ingredients.",
   "cuisine": "Russian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -59,7 +57,8 @@
     "In the same skillet, add chopped fresh rosemary, chicken broth, red wine, date syrup, and freshly grated Parmesan cheese. Stir well to combine.",
     "Add seared steak tips back into the skillet with the sauce mixture. Cover with a lid or foil and simmer for about 20 minutes until tender.",
     "Sprinkle thyme leaves on top of the steak before serving.",
-    "Serve hot with crusty bread if desired."
+    "Serve hot with crusty bread if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -69,8 +68,7 @@
   "tags": [
     "steak",
     "date-night",
-    "earthy",
-    "halal"
+    "earthy"
   ],
   "nutrition": {
     "calories": 461,
@@ -91,5 +89,10 @@
     "primaryIngredient": "sirloin steak tips",
     "diet": "halal",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

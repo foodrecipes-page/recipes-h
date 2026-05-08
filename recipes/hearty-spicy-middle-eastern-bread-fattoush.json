@@ -3,8 +3,7 @@
   "description": "A tangy and pillowy Middle Eastern dish featuring cayenne pepper and flambe, perfect for a brunch mood, with anti-inflammatory friendly ingredients.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -79,7 +78,6 @@
   "tags": [
     "brunch",
     "fattoush",
-    "gluten-free",
     "middle-eastern",
     "spicy",
     "vegetarian"
@@ -107,5 +105,9 @@
     "mainIngredient": "bread",
     "descriptor": "Hearty Spicy",
     "dishForm": "Fattoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

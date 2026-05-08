@@ -59,7 +59,8 @@
     "Stir in the heavy cream, if using, and cook for an additional 2-3 minutes.",
     "Add the freshly squeezed lemon juice and cook for 1 minute, stirring constantly.",
     "Season the sauce with salt and pepper to taste.",
-    "Serve the sausages and sauce hot, garnished with chopped fresh parsley or chives, if desired."
+    "Serve the sausages and sauce hot, garnished with chopped fresh parsley or chives, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "Sausage",
     "descriptor": "Hand-harvested Lemon-glazed",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

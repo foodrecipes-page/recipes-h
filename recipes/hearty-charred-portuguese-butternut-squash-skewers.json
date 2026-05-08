@@ -84,11 +84,15 @@
     "mood": "kid-friendly",
     "technique": "tempering-chocolate",
     "primaryIngredient": "butternut squash",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "butternut squash",
     "descriptor": "Hearty Charred",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Hearty Crisp Kenyan Lamb Kebabs",
   "description": "A peppery and crisp solo dinner dish featuring lamb, inspired by Kenyan cuisine, using lardons render for a rich flavor, and is kosher friendly.",
   "cuisine": "Kenyan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "lamb",
     "descriptor": "hearty crisp",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

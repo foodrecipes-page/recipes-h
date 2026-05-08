@@ -2,9 +2,7 @@
   "title": "Herbal Crumbly Indian Prunes Crumble",
   "description": "A vibrant, dairyfree crumble that blends sweet prunes with warm Indian spices for an energizing dessert.",
   "cuisine": "Indian (South)",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -29,7 +27,7 @@
     },
     {
       "name": "Ground ginger",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Whole wheat flour",
@@ -50,12 +48,12 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 180\u202f\u00b0C (350\u202f\u00b0F).",
+    "Preheat the oven to 180 °C (350 °F).",
     "In a medium bowl, combine the chopped prunes, coconut milk, brown sugar, cardamom, cinnamon, and ginger; stir until the prunes are evenly coated and let sit for 5 minutes to release their juices.",
     "In a separate bowl, whisk together the whole wheat flour, rolled oats, and melted coconut oil until a crumbly mixture forms; add the pistachios if using.",
-    "Layer the prune mixture into a 20\u202f\u00d7\u202f20\u202fcm baking dish, smoothing the surface with a spatula.",
+    "Layer the prune mixture into a 20 × 20 cm baking dish, smoothing the surface with a spatula.",
     "Evenly sprinkle the crumb mixture over the prunes.",
-    "Bake for 18\u201320 minutes, or until the top is golden brown and the prunes are bubbling.",
+    "Bake for 18–20 minutes, or until the top is golden brown and the prunes are bubbling.",
     "Remove from oven and let cool for 5 minutes before serving.",
     "Serve warm, optionally drizzled with a splash of coconut milk or a dusting of powdered sugar if desired."
   ],
@@ -91,5 +89,9 @@
   "tags": [
     "indian-south",
     "dessert"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

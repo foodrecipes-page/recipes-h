@@ -2,9 +2,7 @@
   "title": "Hushed Flaky British Salmon Trifle",
   "description": "A savory trifle featuring flaky poached salmon, tangy pomegranate molasses, and a creamy sauce, ideal for a hearty British meal-prep.",
   "cuisine": "British",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "Salmon",
     "descriptor": "Hushed Flaky",
     "dishForm": "Trifle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

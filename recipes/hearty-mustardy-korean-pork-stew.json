@@ -3,7 +3,6 @@
   "description": "A tender and flavorful Korean stew featuring pork, mustard, and cider, made with ayurvedic-sattvic-friendly ingredients. This dish is perfect for a monsoon day.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -52,7 +51,8 @@
     "Add the apple cider and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 2 hours.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped green onions and toasted sesame seeds."
+    "Serve hot, garnished with chopped green onions and toasted sesame seeds.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -89,5 +89,10 @@
     "mainIngredient": "pork",
     "descriptor": "hearty mustardy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

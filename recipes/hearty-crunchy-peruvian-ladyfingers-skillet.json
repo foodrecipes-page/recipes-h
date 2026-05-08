@@ -55,7 +55,8 @@
     "Add the dried ladyfingers to the skillet and stir to combine with the beef and vegetable mixture.",
     "Pour the melted chocolate over the ladyfingers and stir to combine.",
     "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
-    "Serve the skillet hot, garnished with chopped fresh parsley or cilantro if desired."
+    "Serve the skillet hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "ladyfingers",
     "descriptor": "Hearty Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

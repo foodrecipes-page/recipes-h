@@ -45,7 +45,8 @@
     "Mix in sesame seeds, paprika, salt, garlic powder, and optional curry paste with the hot broth.",
     "Add dehydrated red bell pepper if using, mix well into the stew.",
     "Simmer for about 10 minutes to let flavors meld together.",
-    "Serve hot as a solo-dinner dish."
+    "Serve hot as a solo-dinner dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 20,
@@ -83,5 +84,9 @@
     "mainIngredient": "Whole Wheat",
     "descriptor": "Shaggy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

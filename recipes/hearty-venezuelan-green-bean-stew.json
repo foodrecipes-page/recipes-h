@@ -56,7 +56,8 @@
     "Add the green beans, tomato paste, beef broth, salt, and black pepper to the kazan-cauldron.",
     "Stir everything together, then bring the mixture to a boil.",
     "Reduce the heat to low and simmer the stew for 20 minutes, or until the green beans are tender.",
-    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired."
+    "Serve the stew hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -93,5 +94,9 @@
     "mainIngredient": "green beans",
     "descriptor": "hearty brine dry",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

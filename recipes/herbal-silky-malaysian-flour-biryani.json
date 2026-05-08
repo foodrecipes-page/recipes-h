@@ -61,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "fodmap-friendly",
-    "gluten-free",
     "herbal-notes",
     "malaysian-cuisine",
     "mushimono-steam",
@@ -90,5 +89,9 @@
     "mainIngredient": "flour",
     "descriptor": "herbal silky",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

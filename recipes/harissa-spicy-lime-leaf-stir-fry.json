@@ -56,7 +56,9 @@
     "Return cooked beef to the skillet along with any remaining juices. Stir in lime juice and carrots (if using).",
     "Cover the pan and simmer for another 5-7 minutes until vegetables are slightly tender.",
     "Stir in Thai basil leaves. Cover again and cook just a few more seconds to wilt the basil.",
-    "Remove from heat immediately, as overcooking will cause loss of vibrant color and flavor."
+    "Remove from heat immediately, as overcooking will cause loss of vibrant color and flavor.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -93,5 +95,10 @@
     "mainIngredient": "lime leaf",
     "descriptor": "Harissa Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

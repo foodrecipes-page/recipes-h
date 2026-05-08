@@ -71,7 +71,8 @@
     "Cover the tagine with its lid and seal the banana leaf around the edges.",
     "Cook for 70 minutes until the turkey is tender and the juices have thickened.",
     "Remove the tagine from heat, let it rest for five minutes, then carefully transfer the contents onto a serving platter.",
-    "Garnish with fresh parsley if desired and serve hot."
+    "Garnish with fresh parsley if desired and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 90,
@@ -109,5 +110,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Harsh",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

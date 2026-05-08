@@ -2,9 +2,7 @@
   "title": "Hot & Soft Indian Lamb Biryani",
   "description": "A malty, pillowy, festive Bengali dish featuring red chilli powder, perfect for special occasions.",
   "cuisine": "Indian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -82,7 +80,6 @@
   "tags": [
     "biryani",
     "dinner",
-    "halal",
     "indian",
     "lamb",
     "special-occasion",
@@ -111,5 +108,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Hot & Soft",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

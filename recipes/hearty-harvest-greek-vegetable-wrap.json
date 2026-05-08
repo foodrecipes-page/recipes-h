@@ -4,7 +4,6 @@
   "cuisine": "Greek",
   "diet": [
     "vegetarian",
-    "vegan",
     "plant-based"
   ],
   "meal": "lunch",
@@ -83,7 +82,6 @@
     "lunch-ideas",
     "plant-based",
     "roasted-vegetables",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -109,5 +107,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Hearty Harvest",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

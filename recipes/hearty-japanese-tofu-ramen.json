@@ -2,9 +2,7 @@
   "title": "Hearty Japanese Tofu Ramen",
   "description": "A buttery and creamy vegan ramen dish featuring lemon zest and coconut cream, inspired by the romantic Japanese Tohoku region.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -98,5 +96,9 @@
     "mainIngredient": "tofu",
     "descriptor": "hearty buttery",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

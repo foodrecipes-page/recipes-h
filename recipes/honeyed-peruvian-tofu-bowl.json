@@ -3,7 +3,6 @@
   "description": "A silky, monsoon-inspired bowl of air‑fried tofu, quinoa, and crisp veggies glazed in honey and Peruvian spices, Jain-friendly and vegan.",
   "cuisine": "peruvian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "lunch",
@@ -80,8 +79,7 @@
     "high-protein",
     "low-fat",
     "monsoon",
-    "peruvian",
-    "vegan"
+    "peruvian"
   ],
   "nutrition": {
     "calories": 650,
@@ -106,5 +104,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Honeyed",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

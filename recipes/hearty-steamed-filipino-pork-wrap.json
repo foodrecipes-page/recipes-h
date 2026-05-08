@@ -51,7 +51,8 @@
     "Fold the leaf over the filling to form a tight packet, and repeat with the remaining ingredients.",
     "Place the packets in a Korean brass bowl or a large steamer basket.",
     "Steam the packets over boiling water for 30 minutes.",
-    "Serve the packets hot, with steamed rice or vegetables on the side."
+    "Serve the packets hot, with steamed rice or vegetables on the side.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -90,5 +91,9 @@
     "mainIngredient": "pork",
     "descriptor": "hearty steamed",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

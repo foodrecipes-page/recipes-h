@@ -3,7 +3,6 @@
   "description": "A dairy-free friendly Italian dish featuring tinned tomatoes and a cheesy pull, perfect for midnight cravings. This jammy and satisfying meal is a twist on the classic cacio e pepe.",
   "cuisine": "Italian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "italian-food",
     "one-pot",
     "vegetarian",
@@ -96,5 +94,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Hearty Homemade",
     "dishForm": "Cacio E Pepe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

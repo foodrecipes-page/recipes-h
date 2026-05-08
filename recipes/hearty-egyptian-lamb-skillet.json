@@ -3,8 +3,7 @@
   "description": "A flavorful Egyptian dish featuring lamb, digestive biscuits, and a blend of spices, perfect for a brunch gathering, with a grassy and cheese-pull twist, and a low-carb friendly option.",
   "cuisine": "Egyptian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Hearty",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

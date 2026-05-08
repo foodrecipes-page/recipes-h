@@ -51,7 +51,8 @@
     "Add the cooked white rice and stir to combine with the vegetables.",
     "Add the duck sauce, dried dill, salt, and black pepper. Stir to combine.",
     "Transfer the mixture to a serving dish and garnish with fresh parsley.",
-    "Drizzle with lemon juice and serve hot."
+    "Drizzle with lemon juice and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "duck",
     "descriptor": "Hearty Shattering",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

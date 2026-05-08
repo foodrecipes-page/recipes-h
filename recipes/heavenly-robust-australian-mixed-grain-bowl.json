@@ -4,8 +4,7 @@
   "cuisine": "australian",
   "diet": [
     "kosher",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -93,7 +92,6 @@
   "difficulty": "medium",
   "tags": [
     "australian",
-    "gluten-free",
     "meal-prep",
     "quinoa",
     "vegan"
@@ -121,5 +119,9 @@
     "mainIngredient": "mixed grain",
     "descriptor": "heavenly robust",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

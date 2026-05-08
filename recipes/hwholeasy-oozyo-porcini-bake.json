@@ -29,7 +29,8 @@
     "Add porcini mushrooms and mix well with the cream sauce.",
     "Pour the mixture into the preheated clay pot.",
     "Bake at 180°C for 35 minutes, or until golden brown and bubbly.",
-    "Serve hot with your choice of garnish."
+    "Serve hot with your choice of garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -65,5 +66,9 @@
     "mainIngredient": "Porcini",
     "descriptor": "Wholesome Oozy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Hearty Charred French Asparagus Gratin",
   "description": "A charred, shaggy, romantic French dish featuring asparagus and bonito shave, perfect for a dairy-free friendly meal.",
   "cuisine": "French",
-  "diet": [
-    "dairy-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,9 +65,7 @@
   "tags": [
     "asparagus",
     "bonito-flakes",
-    "dairy-free",
     "french-cuisine",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -96,5 +91,10 @@
     "mainIngredient": "asparagus",
     "descriptor": "hearty charred",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

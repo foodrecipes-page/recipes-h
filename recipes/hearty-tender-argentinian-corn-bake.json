@@ -3,8 +3,7 @@
   "description": "A delicious and kid-friendly argentinian dish featuring creamed corn, salty shio-cure, and a hint of floral flavor baked in a claypot.",
   "cuisine": "argentinian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "corn",
     "descriptor": "Hearty Tender",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

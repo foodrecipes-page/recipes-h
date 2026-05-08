@@ -2,10 +2,7 @@
   "title": "Hearty Crispy Malaysian Pastry Tart",
   "description": "A festive, dairy‑free tart featuring a ready‑rolled shortcrust pastry shell filled with a spicy curry‑saiway namul vegetable mixture and tofu, served crisp on a tagliere.",
   "cuisine": "Malaysian",
-  "diet": [
-    "vegan",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -92,7 +89,6 @@
   "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "easy",
     "festive",
     "shortcrust",
@@ -122,5 +118,10 @@
     "mainIngredient": "Pastry",
     "descriptor": "Hearty Crispy",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

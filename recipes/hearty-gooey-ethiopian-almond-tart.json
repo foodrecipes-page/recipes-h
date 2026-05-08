@@ -3,8 +3,7 @@
   "description": "This Ethiopian-inspired tart features almond flour and is free from refined sugars, making it a great option for those looking for a sweet treat without the guilt. It's earthy, gooey, and energizing, perfect for a dessert or snack.",
   "cuisine": "Ethiopian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -69,7 +68,6 @@
     "almond-flour",
     "berry-filled",
     "ethiopian-inspired",
-    "gluten-free",
     "high-protein",
     "sugar-free"
   ],
@@ -96,5 +94,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Hearty Gooey",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

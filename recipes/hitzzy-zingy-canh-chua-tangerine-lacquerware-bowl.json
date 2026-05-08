@@ -53,7 +53,6 @@
   "difficulty": "medium",
   "tags": [
     "canh-chua",
-    "gluten-free",
     "lacquerware-bowl",
     "tangy"
   ],
@@ -80,5 +79,9 @@
     "mainIngredient": "tangerine",
     "descriptor": "Zestful",
     "dishForm": "Canh Chua Tangerine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

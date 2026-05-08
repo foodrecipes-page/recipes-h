@@ -75,7 +75,8 @@
     "Deep-fry the patties for 3-4 minutes per side or until golden brown and cooked through.",
     "Meanwhile, prepare the slaw by combining mayonnaise, apple cider vinegar, and salt in a bowl.",
     "Serve the deep-fried patties on a banana leaf with a side of tangy slaw and your choice of toppings.",
-    "Assemble the burgers by placing a cooked patty on the leaf, followed by onion, lettuce, tomato, and pickle slices."
+    "Assemble the burgers by placing a cooked patty on the leaf, followed by onion, lettuce, tomato, and pickle slices.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -114,5 +115,9 @@
     "mainIngredient": "steak",
     "descriptor": "hearty deep-fried",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

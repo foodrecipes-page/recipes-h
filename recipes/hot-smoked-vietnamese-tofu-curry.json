@@ -3,8 +3,7 @@
   "description": "A smoky and chewy Vietnamese dish featuring glace cherry and served in individual mini cocottes, perfect for a brunch mood, this satvik friendly curry is a delicious twist on traditional Vietnamese cuisine.",
   "cuisine": "Vietnamese",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -75,7 +74,6 @@
     "curry",
     "smoky",
     "tofu",
-    "vegan",
     "vegetarian",
     "vietnamese"
   ],
@@ -102,5 +100,9 @@
     "mainIngredient": "tofu",
     "descriptor": "hot smoked",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

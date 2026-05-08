@@ -4,7 +4,6 @@
   "cuisine": "Thai",
   "diet": [
     "gluten-free",
-    "pescatarian",
     "vegan-friendly"
   ],
   "meal": "dinner",
@@ -107,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "herbal crumbly",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

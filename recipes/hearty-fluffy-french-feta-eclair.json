@@ -3,7 +3,6 @@
   "description": "A peppery and fluffy French dish featuring cubed feta cheese, perfect for a date night, served on a talavera plate.",
   "cuisine": "French",
   "diet": [
-    "gluten-free",
     "anti-inflammatory"
   ],
   "meal": "dinner",
@@ -94,5 +93,9 @@
     "mainIngredient": "feta cheese",
     "descriptor": "Hearty Fluffy",
     "dishForm": "Eclair"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

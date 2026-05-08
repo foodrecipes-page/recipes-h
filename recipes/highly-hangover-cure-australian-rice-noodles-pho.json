@@ -3,7 +3,6 @@
   "description": "A bitter, creamy, and savory Australian-inspired take on traditional Vietnamese Pho, featuring high-protein rice noodles and a pasta-water emulsion to help cure hangovers.",
   "cuisine": "Australian",
   "diet": [
-    "vegetarian",
     "high-protein"
   ],
   "meal": "breakfast",
@@ -135,5 +134,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "highly hangover-cure",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }
