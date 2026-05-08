@@ -1691,6 +1691,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-charred-kenyan-meat-kebabs",
+    "title": "Hearty Charred Kenyan Meat Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kenyan-cuisine",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-charred-moroccan-potato-amlou",
     "title": "Hearty Charred Moroccan Potato Amlou",
     "tags": [
