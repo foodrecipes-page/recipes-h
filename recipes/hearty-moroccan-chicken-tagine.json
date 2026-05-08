@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Moroccan Chicken Tagine",
+  "description": "A fatty and pillowy Moroccan dish featuring chicken cooked in a flavorful sauce with sherry vinegar, perfect for a kid-friendly dinner",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kid-friendly",
+    "buddhist-temple-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken into 1 1/2 inch pieces and season with salt, black pepper, cumin, and paprika",
+    "Heat the olive oil in a large skillet over medium-high heat and brown the chicken on all sides",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute",
+    "Add the sherry vinegar, chicken broth, and browned chicken to the skillet and bring to a boil",
+    "Reduce the heat to low and simmer the tagine for 25 minutes or until the chicken is cooked through",
+    "Prepare a bamboo steamer by lining it with large leaves such as cabbage or collard greens",
+    "Place the cooked tagine in the bamboo steamer and steam for 10 minutes or until the sauce has thickened and the chicken is very tender",
+    "Serve the tagine hot, garnished with chopped fresh herbs such as parsley or cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kid-friendly",
+    "moroccan",
+    "one-pot",
+    "steam-cooked",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hearty-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:25:28Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty pillowy",
+    "dishForm": "Tagine"
+  }
+}

@@ -3567,6 +3567,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-moroccan-chicken-tagine",
+    "title": "Hearty Moroccan Chicken Tagine",
+    "tags": [
+      "chicken",
+      "kid-friendly",
+      "moroccan",
+      "one-pot",
+      "steam-cooked",
+      "stew"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-moroccan-chickpeas-tagine",
     "title": "Hearty Moroccan Chickpeas Tagine",
     "tags": [
