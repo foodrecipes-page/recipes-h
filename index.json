@@ -10857,6 +10857,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoked-french-petit-pois-galette",
+    "title": "Hot Smoked French Petit Pois Galette",
+    "tags": [
+      "diabetic-friendly",
+      "french-cuisine",
+      "gluten-free",
+      "meal-prep",
+      "smoked-food",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoked-irish-paneer-skillet",
     "title": "Hot Smoked Irish Paneer Skillet",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Hot Smoked French Petit Pois Galette",
+  "description": "A spicy and chewy French dish featuring petit pois, smoked to perfection, suitable for diabetics. This galette is a great meal prep option for a quick and easy lunch.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the petit pois to the bowl and stir until they are evenly coated with the spice mixture.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt.",
+    "Add the egg mixture to the bowl with the petit pois and stir until everything is well combined.",
+    "Pour the mixture into a greased 9-inch tart pan with a removable bottom.",
+    "Bake the galette for 35 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the galette from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "french-cuisine",
+    "gluten-free",
+    "meal-prep",
+    "smoked-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "hot-smoked-french-petit-pois-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-french-petit-pois-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:52:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "smoke-hot",
+    "primaryIngredient": "petit pois",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "petit pois",
+    "descriptor": "Hot Smoked",
+    "dishForm": "Galette"
+  }
+}
