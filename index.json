@@ -2794,6 +2794,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-flaky-croatian-pastry-pilaf",
+    "title": "Hearty Flaky Croatian Pastry Pilaf",
+    "tags": [
+      "croatian",
+      "flaky",
+      "flambe",
+      "hearty",
+      "indulgent",
+      "low-glycemic",
+      "pilaf"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-flaky-dutch-kielbasa-pastry",
     "title": "Hearty Flaky Dutch Kielbasa Pastry",
     "tags": [
@@ -8849,6 +8865,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-gooey-kenyan-prawns-roast",
+    "title": "Herbal Gooey Kenyan Prawns Roast",
+    "tags": [
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "seafood",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {

@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Flaky Croatian Pastry Pilaf",
+  "description": "A rich and savory Croatian dish featuring flaky pastry and a flavorful pilaf, perfect for a special occasion, this recipe is low in glycemic index and features a flambe technique for added depth of flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "In a large skillet, heat the olive oil over medium high heat and cook the chicken until browned, about 5 minutes.",
+    "Add the sliced mushrooms, chopped onion, and minced garlic to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the tomato paste, chicken broth, paprika, salt, and pepper, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "To flambe the pilaf, add 1 tablespoon of brandy to the skillet and ignite the mixture, cooking for 1 minute.",
+    "Spoon the pilaf mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Brush the top of the pastry with a little water and cut a few slits in the top to allow steam to escape.",
+    "Bake the pastry for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "flaky",
+    "flambe",
+    "hearty",
+    "indulgent",
+    "low-glycemic",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-flaky-croatian-pastry-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-flaky-croatian-pastry-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "flambe",
+    "primaryIngredient": "restaurant",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pastry",
+    "descriptor": "Hearty Flaky",
+    "dishForm": "Pilaf"
+  }
+}
