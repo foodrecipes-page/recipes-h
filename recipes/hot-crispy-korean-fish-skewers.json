@@ -1,0 +1,93 @@
+{
+  "title": "Hot Crispy Korean Fish Skewers",
+  "description": "A pungent and crispy dish featuring fish sauce and aekjeot, perfect as a hangover cure, this low-carb friendly Mediterranean inspired dish is sure to delight.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Aekjeot",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, aekjeot, gochujang, brown sugar, garlic, and ginger.",
+    "Add the cod fish pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated fish pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with vegetable oil.",
+    "Bake the skewers in the preheated oven for 12 minutes, or until cooked through and crispy.",
+    "Remove the skewers from the oven and serve hot.",
+    "Garnish with chopped green onions and toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-food",
+    "fish-recipes",
+    "korean-inspired",
+    "low-carb",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "hot-crispy-korean-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-crispy-korean-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:51:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "Hot Crispy",
+    "dishForm": "Skewers"
+  }
+}

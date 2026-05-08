@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Velvety British Tofu Full English Bake",
+  "description": "A shojin-friendly, full English breakfast-inspired bake featuring charred, velvety tofu in a cast-iron skillet, perfect for a light and satisfying meal. This dish is made with mayonnaise and baked to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": " cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large cast-iron skillet, heat the vegetable oil over medium heat.",
+    "Add the sliced mushrooms, bell peppers, and onions to the skillet and cook until they are charred and tender.",
+    "In a separate bowl, whisk together the mayonnaise and a pinch of salt and pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the mayonnaise mixture.",
+    "Add the tofu to the skillet and cook for an additional 2 minutes.",
+    "In a separate bowl, toss the cubed bread with a pinch of salt and pepper.",
+    "Add the bread to the skillet and cook for an additional 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and top with diced tomatoes.",
+    "Return the skillet to the oven and bake for an additional 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cast-iron",
+    "full-english",
+    "one-pan",
+    "shojin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-velvety-british-tofu-full-english-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-british-tofu-full-english-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:50:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "mayonnaise",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "hearty velvety",
+    "dishForm": "Full English Bake"
+  }
+}

@@ -4304,6 +4304,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roasted-indian-lentil-dal",
+    "title": "Hearty Roasted Indian Lentil Dal",
+    "tags": [
+      "comfort-food",
+      "indian-cuisine",
+      "lentil-recipes",
+      "one-pot-meals",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-roasted-indian-peanut-biryani",
     "title": "Hearty Roasted Indian Peanut Biryani",
     "tags": [
@@ -5678,6 +5692,22 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-velvety-british-tofu-full-english-bake",
+    "title": "Hearty Velvety British Tofu Full English Bake",
+    "tags": [
+      "baked",
+      "cast-iron",
+      "full-english",
+      "one-pan",
+      "shojin",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -8724,6 +8754,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-crispy-korean-fish-skewers",
+    "title": "Hot Crispy Korean Fish Skewers",
+    "tags": [
+      "crispy-food",
+      "fish-recipes",
+      "korean-inspired",
+      "low-carb",
+      "snack-ideas"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
