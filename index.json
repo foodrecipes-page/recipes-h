@@ -1647,6 +1647,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-charred-croatian-shrimp-skewers",
+    "title": "Hearty Charred Croatian Shrimp Skewers",
+    "tags": [
+      "croatian",
+      "grilled",
+      "low-carb",
+      "romantic",
+      "seafood"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-charred-french-asparagus-gratin",
     "title": "Hearty Charred French Asparagus Gratin",
     "tags": [
@@ -2081,6 +2095,21 @@
       "peruvian-cuisine"
     ],
     "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-crunchy-portuguese-dum-stew",
+    "title": "Hearty Crunchy Portuguese Dum Stew",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "portuguese",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
     "totalTimeMin": 40,
     "shard": "h"
   },
