@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Roasted Brazilian Pumpkin Tart",
+  "description": "A roasted and velvety Brazilian dish featuring pumpkin in a flaky crust, perfect for a low-sodium friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the pumpkin cubes with olive oil, chopped onion, minced garlic, salt-free seasoning, and black pepper until they are evenly coated.",
+    "Spread the pumpkin mixture on a baking sheet and roast in the oven for 30 minutes, or until the pumpkin is tender.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "In a large bowl, whisk together the eggs and shredded cheese.",
+    "Add the roasted pumpkin mixture to the egg mixture and stir until well combined.",
+    "Pour the pumpkin and egg mixture into the pie crust.",
+    "Bake the tart in the preheated oven for 35 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the tart from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "low-sodium",
+    "pumpkin-recipes",
+    "roasted-vegetables",
+    "tart-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "hearty-roasted-brazilian-pumpkin-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-brazilian-pumpkin-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:21:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "pumpkin",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Tart"
+  }
+}
