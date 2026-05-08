@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Slovakian Noodle Pilaf",
+  "description": "A nutty and silky Slovakian dish featuring baking powder and binchotan-charcoal, perfect for a crowd, this lacto-vegetarian-friendly meal is made in a kadhai.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "binchotan-charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a kadhai over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the noodles, baking powder, salt, and black pepper, and stir to combine.",
+    "Add the sour cream and shredded cheddar cheese, and stir until the cheese is melted and the mixture is smooth.",
+    "Place the binchotan-charcoal piece on top of the noodle mixture and cover the kadhai with a lid.",
+    "Let it smoke for 5 minutes, then remove the charcoal and serve hot.",
+    "Stir the noodle mixture well before serving.",
+    "Serve the Hearty Slovakian Noodle Pilaf hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "lacto-vegetarian",
+    "one-pan",
+    "slovakian-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-slovakian-noodle-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-noodle-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:52:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "baking powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "noodles",
+    "descriptor": "hearty homemade",
+    "dishForm": "Pilaf"
+  }
+}
