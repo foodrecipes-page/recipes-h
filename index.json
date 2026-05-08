@@ -1816,6 +1816,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-croatian-gorgonzola-pasta",
+    "title": "Hearty Croatian Gorgonzola Pasta",
+    "tags": [
+      "croatian",
+      "flexitarian",
+      "gorgonzola",
+      "kid-friendly",
+      "one-pot",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-croatian-lamb-dumplings",
     "title": "Hearty Croatian Lamb Dumplings",
     "tags": [
@@ -2026,6 +2042,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-dense-tunisian-lamb-tagine",
+    "title": "Hearty Dense Tunisian Lamb Tagine",
+    "tags": [
+      "dinner-idea",
+      "garlicky",
+      "hearty",
+      "lamb-based",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {

@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Croatian Gorgonzola Pasta",
+  "description": "A kid-friendly Croatian dish featuring gorgonzola-dolce and bonito-shave, this flexitarian-friendly recipe is perfect for a weeknight dinner. It combines resinous and glassy-jelly textures for a unique taste experience.",
+  "cuisine": "Croatian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the cherry tomatoes to the skillet and cook until they start to release their juices.",
+    "Stir in the gorgonzola-dolce and cook until it starts to melt and combine with the tomatoes.",
+    "Add the bonito flakes to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the gorgonzola and tomato mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "flexitarian",
+    "gorgonzola",
+    "kid-friendly",
+    "one-pot",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-croatian-gorgonzola-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-croatian-gorgonzola-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:19:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "gorgonzola",
+    "descriptor": "hearty homogeneous",
+    "dishForm": "Pasta"
+  }
+}
