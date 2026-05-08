@@ -1409,6 +1409,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crisp-australian-sausage-toast",
+    "title": "Hearty Crisp Australian Sausage Toast",
+    "tags": [
+      "australian-cuisine",
+      "crispy-food",
+      "easy-snack",
+      "low-fat",
+      "midnight-craving",
+      "savory-dish"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crisp-kenyan-lamb-kebabs",
     "title": "Hearty Crisp Kenyan Lamb Kebabs",
     "tags": [
