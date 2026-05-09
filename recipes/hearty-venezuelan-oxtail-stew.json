@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Venezuelan Oxtail Stew",
+  "description": "A rich and flavorful stew featuring oxtail, served with a side of crusty bread or over rice, this dish is a showstopper at any gathering, with a yeasty and glassy jelly like texture, it is a must try for any food enthusiast, and can be made plant based friendly by substituting the traditional beef broth with a plant based alternative.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large dutch oven over medium high heat.",
+    "Add the oxtail pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned oxtail from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the tomato paste, red wine, beef broth, brown sugar, and smoked paprika to the pot, stirring to combine.",
+    "Return the browned oxtail to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the oxtail is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "oxtail-recipes",
+    "plant-based-options",
+    "slow-cooker",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "hearty-venezuelan-oxtail-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-venezuelan-oxtail-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:06:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "oxtail",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "oxtail",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}
