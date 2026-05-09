@@ -2590,6 +2590,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-mexican-pork-rajas-con-crema",
+    "title": "Hearty Dense Mexican Pork Rajas Con Crema",
+    "tags": [
+      "comfort-food",
+      "mexican-inspired",
+      "one-pot",
+      "pork-based",
+      "rich-and-creamy"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-moroccan-lamb-tagine",
     "title": "Hearty Dense Moroccan Lamb Tagine",
     "tags": [

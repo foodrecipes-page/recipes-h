@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Dense Mexican Pork Rajas Con Crema",
+  "description": "A rich and indulgent Mexican dish featuring pork, Thai green curry paste, and a yuzu cure, served in a mason jar as rajas con crema.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "fatty cut preferred"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender, combine Thai green curry paste, yuzu juice, and a pinch of salt, blending until smooth.",
+    "Rub the curry paste mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat a large Dutch oven over medium-high heat, searing the pork shoulder until browned on all sides.",
+    "Transfer the pork to the oven, braising for 2 hours, or until tender and easily shredded.",
+    "While the pork is cooking, saute the diced onion and bell pepper in a pan until softened.",
+    "Once the pork is done, shred it with two forks and stir in the sauteed onion and bell pepper mixture.",
+    "In a separate saucepan, heat the heavy cream over low heat until warmed through.",
+    "Stir in the shredded monterey jack cheese until melted and smooth.",
+    "To assemble the rajas con crema, place a layer of the pork mixture in the bottom of a mason jar, followed by a spoonful of the cream sauce.",
+    "Repeat this process until the jar is full, finishing with a layer of cream sauce on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "mexican-inspired",
+    "one-pot",
+    "pork-based",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "hearty-dense-mexican-pork-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-mexican-pork-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:52:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Rajas Con Crema"
+  }
+}
