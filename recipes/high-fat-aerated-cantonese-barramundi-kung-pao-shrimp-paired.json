@@ -1,0 +1,104 @@
+{
+  "title": "Nutty Aerated Cantonese Barramundi Kung-Pao Shrimp Paired",
+  "description": "A post-workout Chinese dish featuring barramundi, knead, and nut-free-friendly ingredients, all combined in a Kung-Pao style.",
+  "cuisine": "cantonese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4"
+    },
+    {
+      "name": "corn oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kung pao sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, knead the barramundi fillets for 5 minutes until tender.",
+    "Heat the corn oil in a wok over high heat.",
+    "Add the garlic and ginger and stir-fry for 30 seconds.",
+    "Add the scallions and stir-fry for another 30 seconds.",
+    "Add the shrimp and stir-fry until pink, about 2-3 minutes.",
+    "Add the kung pao sauce and honey and stir-fry for 1 minute.",
+    "Add the water chestnuts and sesame seeds and stir-fry for another 30 seconds.",
+    "Add the kneaded barramundi fillets and stir-fry until cooked through, about 2-3 minutes.",
+    "Serve immediately and garnish with additional scallions if desired.",
+    "Pair with a side of steamed broccoli for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barramundi",
+    "cantonese",
+    "high-protein",
+    "kung-pao",
+    "one-pan",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "high-fat-aerated-cantonese-barramundi-kung-pao-shrimp-paired",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/high-fat-aerated-cantonese-barramundi-kung-pao-shrimp-paired",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T05:54:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "barramundi",
+    "diet": "nut-free",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Barramundi",
+    "descriptor": "High-Fat Aerated",
+    "dishForm": "Kung-Pao Shrimp Paired"
+  }
+}
