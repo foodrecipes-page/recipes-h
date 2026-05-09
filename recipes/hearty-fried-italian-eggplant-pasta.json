@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Fried Italian Eggplant Pasta",
+  "description": "A cultured and pillowy date-night Italian dish featuring cayenne pepper, this shojin-friendly recipe is sure to impress, with a delightful combination of fried eggplant and pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced eggplant to the skillet and fry until golden brown and crispy, about 3-4 minutes per side.",
+    "Remove the eggplant from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "Add the tomato sauce to the skillet and stir to combine with any remaining oil and eggplant bits.",
+    "Add the cayenne pepper, salt, and black pepper to the tomato sauce and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet with the tomato sauce, tossing to combine.",
+    "Add the fried eggplant to the pasta and sauce, and toss to combine.",
+    "Transfer the pasta and eggplant to a serving dish and top with mozzarella and parmesan cheese.",
+    "Garnish with chopped fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fried-eggplant",
+    "italian-food",
+    "pasta-dishes",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "hearty-fried-italian-eggplant-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fried-italian-eggplant-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:41:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Hearty Fried",
+    "dishForm": "Pasta"
+  }
+}
