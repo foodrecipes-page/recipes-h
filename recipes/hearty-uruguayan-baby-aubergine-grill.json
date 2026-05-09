@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Uruguayan Baby Aubergine Grill",
+  "description": "A plant-based Uruguayan dish featuring tender baby aubergines, this recipe is perfect for a summer evening, with the grilled aubergines showcasing a smoky and slightly sweet flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby aubergines",
+      "amount": "12",
+      "notes": "small to medium size"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the baby aubergines to the bowl and toss to coat with the marinade.",
+    "Grill the aubergines for 3-4 minutes per side, or until tender and lightly charred.",
+    "While the aubergines are grilling, prepare the chimichurri sauce according to package instructions.",
+    "Once the aubergines are done, brush them with chimichurri sauce.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with additional chimichurri sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "grilled-vegetables",
+    "plant-based",
+    "south-american",
+    "summer-dinner",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "hearty-uruguayan-baby-aubergine-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-baby-aubergine-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:57:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "baby aubergine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "hearty tender",
+    "dishForm": "Grill"
+  }
+}
