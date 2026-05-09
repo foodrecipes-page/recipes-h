@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Flaky Norwegian Mushroom Onigiri",
+  "description": "A rich and flaky Norwegian dish featuring mushrooms, shaped into nigiri, and suitable for a keto-friendly diet",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the mushrooms in coconut oil until they are tender.",
+    "In a large bowl, combine the almond flour, egg, cream cheese, cheddar cheese, salt, and black pepper, and mix well.",
+    "Add the sauteed mushrooms to the bowl and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape each piece into a nigiri shape.",
+    "Place the shaped onigiri on a baking sheet lined with parchment paper.",
+    "Bake the onigiri in the preheated oven for 20 minutes, or until they are golden brown.",
+    "Remove the onigiri from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "mushroom-recipes",
+    "norwegian-cuisine",
+    "onigiri-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "hearty-flaky-norwegian-mushroom-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-flaky-norwegian-mushroom-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:45:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "mushrooms",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Hearty Flaky",
+    "dishForm": "Onigiri"
+  }
+}
