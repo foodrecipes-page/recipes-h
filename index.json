@@ -2667,6 +2667,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dense-greek-lamb-gyro",
+    "title": "Hearty Dense Greek Lamb Gyro",
+    "tags": [
+      "fermented-foods",
+      "greek-food",
+      "gyro-recipes",
+      "lamb-recipes",
+      "lime-recipes",
+      "mediterranean-diet"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dense-irish-beef-stew",
     "title": "Hearty Dense Irish Beef Stew",
     "tags": [
