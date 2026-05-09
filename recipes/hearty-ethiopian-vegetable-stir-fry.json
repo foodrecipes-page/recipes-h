@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Ethiopian Vegetable Stir Fry",
+  "description": "A salty, cheese-pull, nostalgic Ethiopian dish featuring tamarind-paste-makham, stir-fry, vegetarian-friendly, this recipe brings the flavors of Ethiopia to your table",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "makham"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat",
+    "Add the onions and cook until they are translucent",
+    "Add the garlic and cook for 1 minute",
+    "Add the carrots and potatoes and cook until they are tender",
+    "Stir in the tamarind paste and cook for 2 minutes",
+    "Season with salt and pepper to taste",
+    "Add the shredded cheese and stir until melted and well combined",
+    "Serve hot over rice or injera"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "ethiopian-cuisine",
+    "nostalgic-dish",
+    "stir-fry",
+    "tamarind-paste",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-ethiopian-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ethiopian-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:29:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Hearty",
+    "dishForm": "Stir-fry"
+  }
+}
