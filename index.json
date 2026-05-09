@@ -12139,6 +12139,20 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoky-ethiopian-lamb-ye-beg-alichia",
+    "title": "Hot Smoky Ethiopian Lamb Ye Beg Alichia",
+    "tags": [
+      "ethiopian-cuisine",
+      "gluten-free",
+      "lamb-recipes",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 110,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoky-greek-cheese-bake",
     "title": "Hot Smoky Greek Cheese Bake",
     "tags": [
@@ -12500,6 +12514,21 @@
       "whole30"
     ],
     "cuisine": "Italian",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hummus-y-korean-kale-namul",
+    "title": "Hummus-y Korean Kale Namul",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
     "totalTimeMin": 15,
     "shard": "h"
   },

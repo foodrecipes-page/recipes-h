@@ -1,0 +1,96 @@
+{
+  "title": "Hot Smoky Ethiopian Lamb Ye Beg Alichia",
+  "description": "A sweet and juicy Ethiopian dish featuring hot smoked paprika, cooked in a traditional ttukbaegi earthenware pot, perfect for special occasions.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "Add the vegetable oil and swirl it around to coat the bottom of the pot.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the hot smoked paprika, berbere spice, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth, bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the lemon juice and chopped cilantro.",
+    "Serve the lamb hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hot-smoky-ethiopian-lamb-ye-beg-alichia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoky-ethiopian-lamb-ye-beg-alichia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:13:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hot Smoky",
+    "dishForm": "Ye Beg Alichia"
+  }
+}
