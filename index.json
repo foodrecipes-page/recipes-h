@@ -1848,6 +1848,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-brazilian-potato-wrap",
+    "title": "Hearty Brazilian Potato Wrap",
+    "tags": [
+      "brazilian",
+      "gluten-free",
+      "healthy",
+      "lotus-leaf",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-brazilian-skirty-steak-en-croute",
     "title": "Hearty Brazilian Skirty Steak En Croute",
     "tags": [
@@ -3291,6 +3306,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-earthy-vietnamese-red-snapper-bun-bo-hue",
+    "title": "Hearty Earthy Vietnamese Red Snapper Bun Bo Hue",
+    "tags": [
+      "easy-dinner",
+      "gluten-free",
+      "one-pot",
+      "seafood",
+      "vietnamese",
+      "whole30"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
