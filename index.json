@@ -12054,6 +12054,20 @@
     "shard": "h"
   },
   {
+    "slug": "hot-crispy-mexican-corn-tacos",
+    "title": "Hot Crispy Mexican Corn Tacos",
+    "tags": [
+      "comfort-food",
+      "mexican-food",
+      "one-pan",
+      "quick-dinner",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hot-crispy-spanish-chicken-croquettes",
     "title": "Hot Crispy Spanish Chicken Croquettes",
     "tags": [
