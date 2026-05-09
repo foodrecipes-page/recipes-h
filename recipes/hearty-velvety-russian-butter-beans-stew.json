@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Velvety Russian Butter Beans Stew",
+  "description": "A rich and indulgent Russian dish featuring butter beans in a velvety stew, served in a stone bowl or mason jar.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Saute the chopped onion, minced garlic, chopped carrot, and chopped celery in olive oil until the vegetables are tender.",
+    "Add the soaked and drained butter beans, vegetable broth, dried thyme, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes or until the beans are tender.",
+    "Use an immersion blender to puree the stew to a velvety consistency, or allow it to cool and puree it in a blender.",
+    "Return the stew to the pot and simmer for an additional 10 minutes to heat it through.",
+    "Serve the stew hot in a stone bowl or mason jar, garnished with chopped fresh herbs if desired.",
+    "Allow the stew to cool completely before refrigerating or freezing it for later use.",
+    "Reheat the stew gently over low heat, whisking constantly, until it is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mason-jar",
+    "one-pot",
+    "stone-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-velvety-russian-butter-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-russian-butter-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:15:32Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "butter beans",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "butter beans",
+    "descriptor": "hearty velvety",
+    "dishForm": "Stew"
+  }
+}
