@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Savory Mediterranean Beef Kebabs",
+  "description": "Savory and indulgent Mediterranean dish featuring lean minced beef and confit tomato, perfect for a weeknight dinner. This dish combines the flavors of the Mediterranean with the convenience of kebabs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the minced beef, chopped onion, minced garlic, dried oregano, salt, and pepper, and mix well with your hands until just combined.",
+    "Thread the beef mixture onto skewers, leaving a small space between each piece.",
+    "Brush the confit tomato with olive oil and season with salt and pepper.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the beef is cooked through.",
+    "Brush the kebabs with lemon juice during the last minute of cooking.",
+    "Serve the kebabs hot, garnished with additional oregano and lemon wedges if desired.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve with your choice of sides, such as roasted vegetables or quinoa.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-savory-mediterranean-beef-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-savory-mediterranean-beef-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:45:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "confit-tomato",
+    "primaryIngredient": "lean minced beef",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Savory",
+    "dishForm": "Kebabs"
+  }
+}

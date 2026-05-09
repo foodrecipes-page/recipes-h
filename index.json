@@ -6026,6 +6026,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-savory-mediterranean-beef-kebabs",
+    "title": "Hearty Savory Mediterranean Beef Kebabs",
+    "tags": [
+      "beef",
+      "grilled",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-savory-mexican-pork-carnitas",
     "title": "Hearty Savory Mexican Pork Carnitas",
     "tags": [
