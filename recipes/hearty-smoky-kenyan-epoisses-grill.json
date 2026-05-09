@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Smoky Kenyan Epoisses Grill",
+  "description": "A funky and velvety Kenyan dish featuring epoisses cheese, double-rise bread, and a smoky flavor from the binchotan grill, perfect for a lazy Sunday",
+  "cuisine": "Kenyan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "8 oz",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Double-rise bread",
+      "amount": "1 loaf",
+      "notes": "sliced into 1-inch thick pieces"
+    },
+    {
+      "name": "Kenyan chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 bag",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit",
+    "Grill the sliced bread for 2-3 minutes per side, until toasted",
+    "In a small bowl, mix together the diced chili peppers, minced garlic, smoked paprika, salt, and black pepper",
+    "Spread a layer of the chili pepper mixture onto each toasted bread slice",
+    "Top each bread slice with a slice of epoisses cheese",
+    "Grill the cheese-topped bread slices for an additional 2-3 minutes, until the cheese is melted and bubbly",
+    "Serve immediately and enjoy",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "funky",
+    "grilled",
+    "kenyan",
+    "lazy-sunday",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-smoky-kenyan-epoisses-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-kenyan-epoisses-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:22:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "epoisses",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Grill"
+  }
+}

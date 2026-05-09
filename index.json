@@ -6954,6 +6954,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-kenyan-epoisses-grill",
+    "title": "Hearty Smoky Kenyan Epoisses Grill",
+    "tags": [
+      "cheesy",
+      "funky",
+      "grilled",
+      "kenyan",
+      "lazy-sunday",
+      "smoky"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-mediterranean-lamb-kebabs",
     "title": "Hearty Smoky Mediterranean Lamb Kebabs",
     "tags": [
