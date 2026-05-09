@@ -1,0 +1,92 @@
+{
+  "title": "Healthy Hearty Japanese Cabbage Agedashi",
+  "description": "A low-calorie, umami-rich Japanese dish from Okinawa, featuring cabbage leaves and a sweet twist, served in a hot dolsot stone bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "4 large leaves",
+      "notes": "use firm, fresh leaves"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candy tuile",
+      "amount": "1/4 cup",
+      "notes": "crushed, low-sugar"
+    }
+  ],
+  "instructions": [
+    "Rinse the cabbage leaves and blanch them in boiling water for 30 seconds to make them pliable.",
+    "In a large bowl, whisk together the dashi broth, mirin, and soy sauce.",
+    "Add the grated daikon to the bowl and stir to combine.",
+    "Heat the sesame oil in a small saucepan over medium heat.",
+    "Add the crushed candy tuile to the saucepan and stir until melted and smooth.",
+    "To assemble the agedashi, place a cabbage leaf in the bottom of a hot dolsot stone bowl.",
+    "Spoon some of the dashi broth mixture over the cabbage leaf.",
+    "Drizzle the melted candy tuile over the top of the cabbage.",
+    "Repeat the layers two more times, ending with a layer of cabbage on top.",
+    "Serve immediately, garnished with additional grated daikon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "japanese-cuisine",
+    "low-calorie",
+    "okinawan",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "healthy-hearty-japanese-cabbage-agedashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-hearty-japanese-cabbage-agedashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:27:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "candy",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "low-calorie",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cabbage",
+    "descriptor": "healthy hearty",
+    "dishForm": "Agedashi"
+  }
+}
