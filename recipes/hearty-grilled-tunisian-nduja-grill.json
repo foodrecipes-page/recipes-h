@@ -1,0 +1,121 @@
+{
+  "title": "Hearty Grilled Tunisian Nduja Grill",
+  "description": "A briny, fluffy post-workout Tunisian dish featuring nduja and grilled to perfection, ideal for a bento box lunch. This egg-free friendly dish is perfect for a weeknight meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "2 oz",
+      "notes": ""
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "grilled red onion",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Spread nduja on four slices of pita bread, leaving a 1/2 inch border around the edges.",
+    "Top with capers, parsley, garlic, olive oil, lemon juice, salt, black pepper, and red pepper flakes.",
+    "Grill the sandwiches for 2-3 minutes per side, or until the bread is toasted and the filling is heated through.",
+    "Meanwhile, grill the zucchini and red onion slices for 2-3 minutes per side, or until tender.",
+    "Cut the grilled zucchini and red onion into strips.",
+    "Assemble the sandwiches by placing a few strips of grilled zucchini and red onion on top of the filling.",
+    "Divide the sandwiches among four bento boxes and serve immediately.",
+    "Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "egg-free",
+    "grilled",
+    "nduja",
+    "one-pan",
+    "quick",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "hearty-grilled-tunisian-nduja-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-grilled-tunisian-nduja-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:17:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "nduja",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "nduja",
+    "descriptor": "hearty grilled",
+    "dishForm": "Grill"
+  }
+}
