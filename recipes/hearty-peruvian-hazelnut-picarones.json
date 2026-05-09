@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Peruvian Hazelnut Picarones",
+  "description": "A traditional Peruvian dish with a twist, featuring shelled hazelnuts and a crispy exterior, perfect for a lazy Sunday, this recipe is made in a tajine clay vessel and utilizes sous vide cooking for added convenience.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, combine the mashed sweet potato, chopped hazelnuts, anise seeds, cinnamon, and sugar.",
+    "In a separate bowl, whisk together the eggs and flour.",
+    "Add the egg mixture to the sweet potato mixture and stir until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and place in the tajine clay vessel.",
+    "Pour the water into the vessel and cover with a lid.",
+    "Place the vessel in the sous vide machine and cook for 2 hours.",
+    "Remove the picarones from the vessel and char on a grill or in a skillet for 2 minutes on each side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "clay-vessel",
+    "gluten-free",
+    "hazelnut",
+    "peruvian-cuisine",
+    "sous-vide",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "hearty-peruvian-hazelnut-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-peruvian-hazelnut-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:56:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Hearty Hazelnut",
+    "dishForm": "Picarones"
+  }
+}

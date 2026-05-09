@@ -4941,6 +4941,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-homemade-canadian-tempeh-hash",
+    "title": "Hearty Homemade Canadian Tempeh Hash",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "flexitarian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-homemade-dutch-onion-hash",
     "title": "Hearty Homemade Dutch Onion Hash",
     "tags": [
@@ -6748,6 +6763,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-peruvian-hazelnut-picarones",
+    "title": "Hearty Peruvian Hazelnut Picarones",
+    "tags": [
+      "clay-vessel",
+      "gluten-free",
+      "hazelnut",
+      "peruvian-cuisine",
+      "sous-vide",
+      "sweet-potato",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 150,
     "shard": "h"
   },
   {
