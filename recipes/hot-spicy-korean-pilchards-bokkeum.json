@@ -1,0 +1,107 @@
+{
+  "title": "Hot Spicy Korean Pilchards Bokkeum",
+  "description": "A spicy and crumbly Korean dish featuring pilchards, perfect for a solo dinner, with anti-inflammatory properties. This bokkeum recipe is easy to make and packed with flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the gochujang, soy sauce, and brown sugar, and cook for 1 minute, until the sauce is bubbly.",
+    "Add the pilchards and cook for 2 minutes, until they are coated in the sauce.",
+    "Add the scallions, crushed red pepper, salt, and black pepper, and cook for 1 minute, until the scallions are wilted.",
+    "Reduce the heat to medium-low and simmer the bokkeum for 5 minutes, until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the bokkeum hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "korean-food",
+    "quick-dinner",
+    "seafood",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hot-spicy-korean-pilchards-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-korean-pilchards-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:16:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "pilchards",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pilchards",
+    "descriptor": "Hot Spicy",
+    "dishForm": "Bokkeum"
+  }
+}
