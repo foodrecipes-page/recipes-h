@@ -633,6 +633,21 @@
     "shard": "h"
   },
   {
+    "slug": "harshly-spanish-fish-bisque",
+    "title": "harshly spanish fish bisque",
+    "tags": [
+      "fish-stew",
+      "gluten-free",
+      "low-glycemic",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hasty-indian-manchego-bowl",
     "title": "Hasty Indian Manchego Bowl",
     "tags": [

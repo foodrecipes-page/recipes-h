@@ -1,0 +1,112 @@
+{
+  "title": "harshly spanish fish bisque",
+  "description": "a tangy, low-glycemic-friendly spanish fish soup featuring a homemade gherkin relish and fermented fish sauce.",
+  "cuisine": "spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh sole fillets",
+      "amount": "4",
+      "notes": "sustainably sourced"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/4 cup",
+      "notes": "see below for homemade gherkin relish recipe"
+    },
+    {
+      "name": "fermented fish sauce",
+      "amount": "2 tsp",
+      "notes": "store-bought or see below for homemade recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "high-quality, extra-virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp",
+      "notes": "brown or black"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt or kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat.",
+    "add the chopped onion and sauté until translucent, about 5 minutes.",
+    "add the minced garlic and cook for an additional minute, stirring constantly.",
+    "add the mustard seeds and smoked paprika (if using) and cook for 1-2 minutes, until fragrant.",
+    "add the chopped sole fillets and cook until they start to flake apart, about 3-4 minutes.",
+    "add the gherkin relish, fermented fish sauce, salt, and black pepper, and stir to combine.",
+    "add 2 cups of fish stock and bring the mixture to a simmer.",
+    "reduce the heat to low and let the bisque simmer for 10-15 minutes, or until the flavors have melded together and the fish is cooked through.",
+    "use an immersion blender to puree the bisque until smooth.",
+    "strain the bisque through a fine-mesh sieve into a clean saucepan, pressing on the solids to extract as much liquid as possible.",
+    "serve the bisque hot, garnished with chopped fresh herbs or a dollop of sour cream (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish-stew",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "harshly-spanish-fish-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/harshly-spanish-fish-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:04:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "Harshly",
+    "dishForm": "Bisque"
+  }
+}
