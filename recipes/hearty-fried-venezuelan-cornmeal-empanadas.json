@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Fried Venezuelan Cornmeal Empanadas",
+  "description": "A romantic Venezuelan dish featuring cornmeal and deep-fried to a shattering crisp, with a hint of mustard, perfect for a Mediterranean-inspired meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cornmeal, flour, salt, black pepper, and sugar.",
+    "In a separate bowl, proof the yeast by adding it to the warm water and letting it sit for 5 minutes.",
+    "Add the yeast mixture to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of Dijon mustard in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Fry the empanadas for 2-3 minutes on each side until they are golden brown.",
+    "Drain the empanadas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal-based",
+    "deep-fried",
+    "fried-foods",
+    "latin-american",
+    "mustard-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "hearty-fried-venezuelan-cornmeal-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fried-venezuelan-cornmeal-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:53:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "cornmeal",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Hearty Fried",
+    "dishForm": "Empanadas"
+  }
+}
