@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Smoky German Anchovy Fillet Puff Pastry",
+  "description": "A smoky and nostalgic German dish featuring anchovy fillet in a flaky puff pastry, perfect for a satisfying snack or light meal, and made halal-friendly by using vegetarian alternatives to traditional ingredients.",
+  "cuisine": "German",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "12",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together the smoked paprika, olive oil, chopped onion, minced garlic, salt, and black pepper.",
+    "Arrange the anchovy fillets on one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with a little water, then spoon the smoked paprika mixture over the anchovy fillets.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the pastry on a baking sheet lined with parchment paper and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy",
+    "german",
+    "halal-friendly",
+    "puff-pastry",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "hearty-smoky-german-anchovy-fillet-puff-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-german-anchovy-fillet-puff-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:43:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "anchovy fillet",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Puff Pastry"
+  }
+}
