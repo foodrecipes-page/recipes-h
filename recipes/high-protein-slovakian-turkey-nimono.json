@@ -1,0 +1,95 @@
+{
+  "title": "High Protein Slovakian Turkey Nimono",
+  "description": "A fermented, crisp, and light Slovakian dish featuring turkey, nimono-simmer, high in protein, this recipe is perfect for a healthy dinner option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless turkey breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together caraway seeds, black pepper, and paprika.",
+    "Add the turkey strips to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the turkey strips to the skillet and cook until browned, about 5 minutes.",
+    "Add the sauerkraut, chicken broth, and apple cider vinegar to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the skillet from the heat and let it cool to room temperature.",
+    "Cover the skillet with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Before serving, remove the skillet from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Serve the turkey and sauerkraut mixture hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "healthy-dinner",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "high-protein-slovakian-turkey-nimono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/high-protein-slovakian-turkey-nimono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:43:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "turkey",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "turkey",
+    "descriptor": "high protein",
+    "dishForm": "Nimono"
+  }
+}
