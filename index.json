@@ -1594,6 +1594,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-australian-ovolimushroom-bake",
+    "title": "Hearty Australian Ovolimushroom Bake",
+    "tags": [
+      "australian-cuisine",
+      "flaky-pastry",
+      "meal-prep",
+      "mushroom-recipes",
+      "vegetarian-options",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-basque-cheese-stew",
     "title": "Hearty Basque Cheese Stew",
     "tags": [
