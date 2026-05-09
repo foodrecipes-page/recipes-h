@@ -1,0 +1,80 @@
+{
+  "title": "Hazelnut-Flavored Wrapped Turkish Dried Cherries Tagine",
+  "description": "A unique and exotic Turkish dish featuring hazelnut-flavored dough wrapped around dried cherries, steamed to perfection in a ceramic tagine vessel.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground hazelnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Turkish cherries",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water to activate yeast. Let it sit for 5 minutes, until frothy.",
+    "Add flour, mix until a shaggy dough forms. Knead for 5 minutes, until smooth.",
+    "Add ground hazelnuts and continue kneading for another 2 minutes.",
+    "Cover the dough with plastic wrap and let it rise for 1 hour, until doubled in size.",
+    "Divide the dough into 4 equal pieces. Roll each piece into a ball and flatten into a disk shape.",
+    "Place a tablespoon of chopped dried cherries in the center of each disk. Fold the dough over the cherries, forming a triangle or a square shape.",
+    "Place the wrapped cherries in a preheated ceramic tagine vessel, seam-side down.",
+    "Cover the tagine with a lid and steam for 20 minutes, until the dough is cooked through and fluffy.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "exotic",
+    "steamed",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "hazelnut-flavored-wrapped-turkish-dried-cherries-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazelnut-flavored-wrapped-turkish-dried-cherries-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dried cherries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "turkish",
+    "mainIngredient": "dried cherries",
+    "descriptor": "hazelnut-flavored wrapped",
+    "dishForm": "tagine"
+  }
+}
