@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Ice-Bathed Saudi Arabian Rice Pilaf",
+  "description": "A dense, earthy, lacto-vegetarian-friendly rice pilaf originating from Saudi Arabia, cooked in a single vessel and then shocked in an ice bath.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice (saudi arabian jasmine)",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tablespoons",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in the lacquerware bowl over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the chopped carrot and sauté for an additional 2 minutes.",
+    "Add the cumin, coriander, salt, and black pepper. Sauté for 1 minute.",
+    "Add the rice and stir to combine with the spices.",
+    "Add the red wine and stir to combine with the rice.",
+    "Add 2 cups of water to the bowl and bring to a boil.",
+    "Reduce heat to low, cover the bowl with a tight-fitting lid, and simmer for 18 minutes.",
+    "Remove the bowl from the heat and let cool slightly.",
+    "Transfer the bowl to an ice bath and let cool completely.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "ice-bath",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "one-pan",
+    "rice-pilaf",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-ice-bathed-saudi-arabian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ice-bathed-saudi-arabian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:50:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "rice wine",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "rice",
+    "descriptor": "Hearty Ice-Bathed",
+    "dishForm": "Pilaf"
+  }
+}
