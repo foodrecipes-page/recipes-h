@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Crunchy Polish Potato Hash",
+  "description": "A salty, crunchy, and cozy Polish dish featuring baby new potatoes, perfect for a low-glycemic diet. This recipe uses spherification to add a unique texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and chopped into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped potatoes with 1 tablespoon of olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are roasting, cook the chopped bacon in a large skillet over medium heat until it is crispy.",
+    "Remove the bacon from the skillet with a slotted spoon and set it aside on a paper towel-lined plate.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and saute the chopped onion and minced garlic until they are softened.",
+    "In a small bowl, mix the sodium alginate with 1 cup of water to create a spherification bath.",
+    "Once the potatoes are done roasting, let them cool slightly, then add them to the spherification bath and let them sit for 10 minutes.",
+    "After the potatoes have sat in the spherification bath, remove them with a slotted spoon and add them to the skillet with the onion and garlic.",
+    "Stir in the cooked bacon and chopped parsley, and serve the hash hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crunchy",
+    "gluten-free",
+    "low-glycemic",
+    "polish-cuisine",
+    "satisfying"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "hearty-crunchy-polish-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-polish-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:20:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "spherify",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Hearty Crunchy",
+    "dishForm": "Hash"
+  }
+}

@@ -2393,6 +2393,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crunchy-polish-potato-hash",
+    "title": "Hearty Crunchy Polish Potato Hash",
+    "tags": [
+      "comfort-food",
+      "crunchy",
+      "gluten-free",
+      "low-glycemic",
+      "polish-cuisine",
+      "satisfying"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crunchy-portuguese-dum-stew",
     "title": "Hearty Crunchy Portuguese Dum Stew",
     "tags": [
