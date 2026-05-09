@@ -5629,6 +5629,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-juicy-french-chicken-tarte-tatin",
+    "title": "Hearty Juicy French Chicken Tarte Tatin",
+    "tags": [
+      "chicken-recipes",
+      "french-cuisine",
+      "low-fat",
+      "one-pan",
+      "tarte-tatin",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-juicy-french-seitan-terrine",
     "title": "Hearty Juicy French Seitan Terrine",
     "tags": [

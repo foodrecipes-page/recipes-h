@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Juicy French Chicken Tarte Tatin",
+  "description": "A classic French dish with a twist, featuring chicken, vin-santo, and a hint of mustard, all in a low-fat friendly tarte tatin format",
+  "cuisine": "French",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "vin-santo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Roll out the pastry dough to a thickness of about 1/8 inch",
+    "In a large bowl, whisk together the vin-santo, mustard, honey, thyme, and garlic",
+    "Add the chicken to the bowl and toss to coat with the vin-santo mixture",
+    "Arrange the chicken in a single layer on the pastry dough, leaving a 1 inch border around the edges",
+    "Fold the edges of the pastry up over the chicken, pressing gently to seal",
+    "Brush the pastry with the olive oil",
+    "Bake the tarte tatin for 35 minutes, or until the pastry is golden brown and the chicken is cooked through"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "french-cuisine",
+    "low-fat",
+    "one-pan",
+    "tarte-tatin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-juicy-french-chicken-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-french-chicken-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:30:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "vin-santo",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Tarte Tatin"
+  }
+}
