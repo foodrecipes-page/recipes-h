@@ -4445,6 +4445,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-italian-pasta-risotto",
+    "title": "Hearty Italian Pasta Risotto",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "lacto-vegetarian",
+      "one-pot",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-jamaican-pak-koi-stew",
     "title": "hearty jamaican pak koi stew",
     "tags": [
