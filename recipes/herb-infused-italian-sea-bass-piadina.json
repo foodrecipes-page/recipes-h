@@ -1,0 +1,100 @@
+{
+  "title": "Herb Infused Italian Sea Bass Piadina",
+  "description": "A cultured and fluffy Italian dish featuring unwaxed lemon and sashimi-cut sea bass, served in a paella pan. This macrobiotic-friendly meal is perfect for a post-workout lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian sea bass",
+      "amount": "4 fillets",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "piadina bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the paella pan over medium heat with olive oil.",
+    "Add the minced garlic and saute for 1 minute until fragrant.",
+    "Add the chopped parsley and basil and cook for another minute.",
+    "Place the sashimi-cut sea bass fillets in the pan and cook for 3 minutes per side.",
+    "Warm the piadina bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the piadina by placing a sea bass fillet on each piece of bread.",
+    "Drizzle the unwaxed lemon juice over the sea bass and sprinkle with salt and pepper to taste.",
+    "Serve the herb infused Italian sea bass piadina immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-lunch",
+    "high-protein",
+    "italian-cuisine",
+    "one-pan",
+    "post-workout",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "herb-infused-italian-sea-bass-piadina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-italian-sea-bass-piadina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:44:50Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "macrobiotic",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "sea bass",
+    "descriptor": "herb infused",
+    "dishForm": "Piadina"
+  }
+}
