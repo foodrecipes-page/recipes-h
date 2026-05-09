@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Smoky Saudi Arabian Chicken Kebabs",
+  "description": "A quick and flavorful Saudi Arabian dish featuring smoky paprika and a mirepoix base, perfect for a low calorie friendly meal. This recipe is a floral and fluffy twist on traditional kebabs.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoky paprika, salt, and black pepper.",
+    "Add the chopped onion, bell pepper, and carrot to the bowl and stir to combine.",
+    "Add the chicken to the bowl and stir to coat with the spice mixture.",
+    "Thread the chicken and vegetables onto skewers.",
+    "Brush the skewers with olive oil.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot, garnished with minced garlic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "fluffy",
+    "gluten-free",
+    "low-calorie",
+    "quick-fix",
+    "saudi-arabian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "hearty-smoky-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:28:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Kebabs"
+  }
+}
