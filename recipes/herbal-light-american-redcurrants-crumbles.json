@@ -1,0 +1,101 @@
+{
+  "title": "Herbal Light American Redcurrant Crumbles",
+  "description": "A refreshing, herbal twist on the classic crumble featuring redcurrants and a satvik-friendly bain-marie technique.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Redcurrants",
+      "amount": "2 cups fresh",
+      "notes": "Rinse and pat dry before using"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Softened for easier mixing"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup chopped",
+      "notes": "For added herbal flavor"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the almond flour, coconut sugar, and salt. Mix until well combined.",
+    "Add the softened butter to the dry ingredients and mix until a crumbly mixture forms.",
+    "Gently fold in the chopped fresh mint leaves.",
+    "Pour the crumble mixture over the redcurrants in a 9x9 inch baking dish.",
+    "Bake for 35 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and sprinkle with lemon zest.",
+    "Let cool for a few minutes before serving, if desired.",
+    "Serve warm or at room temperature, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "berry-crumbles",
+    "crumble-recipe",
+    "dessert",
+    "fruit-baked-goods",
+    "healthy-baking",
+    "high-fiber",
+    "redcurrant",
+    "spring-sweets"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "herbal-light-american-redcurrants-crumbles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-light-american-redcurrants-crumbles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "redcurrants",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "redcurrants",
+    "descriptor": "herbal light",
+    "dishForm": "Crumbles"
+  }
+}
