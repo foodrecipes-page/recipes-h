@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Midnight Cravings French Sausages Tagine",
+  "description": "A rich, roasted French dish featuring Italian fennel sausages, served in a traditional clay tajine vessel.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Fennel Sausages",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Dried Figs",
+      "amount": "6",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fennel Seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the sausages with salt and pepper, and brown in a large skillet over medium-high heat.",
+    "Transfer the browned sausages to the clay tajine vessel, reserving the juices.",
+    "In the same skillet, sauté the chopped onion and minced garlic until softened.",
+    "Add the chopped parsley, olive oil, coconut milk, chicken broth, chopped dried figs, and fennel seeds (if using) to the skillet.",
+    "Stir the mixture to combine, then pour it over the browned sausages in the tajine vessel.",
+    "Cover the tajine vessel with a lid, and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the sausages are cooked through and the sauce has thickened.",
+    "Remove the tajine vessel from the oven, and let it cool slightly before serving.",
+    "Serve the Hearty Midnight Cravings French Sausages Tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "moroccan",
+    "north-african",
+    "one-pan",
+    "sausage-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 36,
+    "fat": 34
+  },
+  "slug": "hearty-midnight-cravings-french-sausages-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-midnight-cravings-french-sausages-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:58:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "sausages",
+    "descriptor": "Hearty Midnight Cravings",
+    "dishForm": "Tagine"
+  }
+}
