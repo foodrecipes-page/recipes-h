@@ -7971,6 +7971,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spring-german-white-beans-casseroles",
+    "title": "Hearty Spring German White Beans Casserole",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "meal-prep",
+      "one-pan",
+      "spring-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 80,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spring-ukrainian-scallion-fritters",
     "title": "Hearty Spring Ukrainian Scallion Fritters",
     "tags": [
@@ -8685,6 +8700,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-uruguayan-pear-stew",
+    "title": "Hearty Uruguayan Pear Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot-meal",
+      "pear-recipes",
+      "south-american",
+      "vegetarian-options"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {

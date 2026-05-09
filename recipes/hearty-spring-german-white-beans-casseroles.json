@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Spring German White Beans Casserole",
+  "description": "A garlicky and springy German dish featuring dried white beans, perfect for meal prep and vegetarian diets. This casserole is a delicious and satisfying option for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, bring the vegetable broth to a boil and add the dried white beans, then reduce the heat and let simmer for 45 minutes or until the beans are tender.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic, cooking for 1 minute until fragrant.",
+    "Add the chopped onion, carrot, and celery to the skillet and cook for 5 minutes until the vegetables are tender.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "In a large bowl, combine the cooked white beans, vegetable mixture, salt, and black pepper, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "meal-prep",
+    "one-pan",
+    "spring-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-spring-german-white-beans-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spring-german-white-beans-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:19:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "dried white beans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "white beans",
+    "descriptor": "Hearty Spring",
+    "dishForm": "Casseroles"
+  }
+}
