@@ -1,0 +1,92 @@
+{
+  "title": "croatian flatbread pizza",
+  "description": "salty and energizing croatian dish featuring cilantro leaves and no eggs, perfect for a quick and easy snack",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "",
+      "notes": "about 1 1/2 cups or enough to form a dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "mix flour and salt in a bowl, then gradually add in warm water to form a dough",
+    "knead the dough for about 10 minutes until smooth and elastic",
+    "divide the dough into 4-6 equal pieces, depending on desired pizza size",
+    "roll out each piece into a thin circle, about 1/4 inch thick",
+    "heat a tagine pot or skillet over medium-high heat, then brush with olive oil",
+    "cook each pizza for 2-3 minutes on each side, until crispy and golden brown",
+    "top each pizza with chopped cilantro, cumin seeds, and coriander seeds"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "easy",
+    "snack",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "hazy-and-energizing-croatian-croatian-flatbread-dish-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazy-and-energizing-croatian-croatian-flatbread-dish-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "dehydrate",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "croatian flatbread dish",
+    "descriptor": "Hazy and energizing",
+    "dishForm": "Pizza"
+  }
+}
