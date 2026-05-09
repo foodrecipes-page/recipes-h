@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Venezuelan Pasta",
+  "description": "A quick and flavorful Venezuelan dish featuring pomegranate molasses and a unique pasta water emulsion, this kosher friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz",
+      "notes": "wide flat noodles"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium high heat.",
+    "Add the diced onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the cumin and cook for one minute.",
+    "Stir in the pomegranate molasses and cook for an additional minute.",
+    "Reserve one cup of pasta water before draining the pappardelle.",
+    "Add the cooked pasta to the skillet, tossing to combine with the beef and onion mixture.",
+    "Add the reserved pasta water to the skillet in small increments, tossing to create a creamy emulsion.",
+    "Season with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "one-pan",
+    "pasta-dish",
+    "quick-fix",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-venezuelan-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-venezuelan-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:18:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pasta",
+    "descriptor": "Hearty",
+    "dishForm": "Pasta"
+  }
+}

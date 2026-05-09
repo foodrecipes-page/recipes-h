@@ -10041,6 +10041,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-venezuelan-pasta",
+    "title": "Hearty Venezuelan Pasta",
+    "tags": [
+      "kosher-friendly",
+      "one-pan",
+      "pasta-dish",
+      "quick-fix",
+      "venezuelan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-venezuelan-plantain-curry",
     "title": "Hearty Venezuelan Plantain Curry",
     "tags": [
