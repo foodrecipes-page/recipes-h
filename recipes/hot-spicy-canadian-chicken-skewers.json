@@ -1,0 +1,101 @@
+{
+  "title": "Hot Spicy Canadian Chicken Skewers",
+  "description": "A spicy and light Canadian dish featuring miso-marinated chicken, peanut cookies, and paleo-friendly ingredients, grilled to perfection on a robata grill.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut cookies",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, whisk together miso paste, soy sauce, honey, sriracha sauce, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with coconut oil and sprinkle with crushed peanut cookies.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with additional peanut cookies and sriracha sauce if desired.",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "grilled-chicken",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "hot-spicy-canadian-chicken-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-canadian-chicken-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:09:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "peanut cookies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hot Spicy",
+    "dishForm": "Skewers"
+  }
+}
