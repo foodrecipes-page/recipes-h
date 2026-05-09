@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Silky Vietnamese Duck Bun Cha",
+  "description": "A jammy and silky Vietnamese dish featuring duck fat and bhuna, perfect for a lazy Sunday, this Buddhist-temple-friendly recipe is served in a Dutch oven as a bun cha form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven over medium heat.",
+    "Add the duck fat and let it melt.",
+    "Add the duck breast and cook until browned on all sides.",
+    "Add the bhuna spice blend and cook for 1 minute.",
+    "Add the fish sauce, lime juice, and brown sugar, and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Cook the rice noodles according to package instructions.",
+    "Assemble the bun cha by placing the noodles in a bowl, topping with the duck and sauce, and garnishing with bean sprouts, mint leaves, and basil leaves.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "duck-recipes",
+    "lazy-sunday",
+    "one-pot-meals",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-silky-vietnamese-duck-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-vietnamese-duck-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:28:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "duck fat",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "duck",
+    "descriptor": "hearty silky",
+    "dishForm": "Bun Cha"
+  }
+}
