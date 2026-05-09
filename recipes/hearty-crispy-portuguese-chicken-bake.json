@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Crispy Portuguese Chicken Bake",
+  "description": "A savory and crispy Portuguese dish featuring poppy seeds, perfect for a sick day, with anti-inflammatory friendly ingredients. This wood-fired bake is a hearty and comforting meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, turmeric, paprika, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the chicken thighs on it.",
+    "Sprinkle the poppy seeds over the chicken thighs.",
+    "Slice the onion and potatoes, and arrange them around the chicken thighs on the baking sheet.",
+    "Bake the chicken and vegetables in the preheated oven for 45 minutes.",
+    "Increase the oven temperature to 475 degrees Fahrenheit and continue baking for an additional 20 minutes, or until the chicken is crispy and golden brown.",
+    "Remove the baking sheet from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-chicken",
+    "hearty-meal",
+    "one-pan",
+    "portuguese-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-crispy-portuguese-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-portuguese-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:44:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "poppy seeds",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Bake"
+  }
+}
