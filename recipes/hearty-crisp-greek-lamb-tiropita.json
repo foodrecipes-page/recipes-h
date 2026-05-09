@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Crisp Greek Lamb Tiropita",
+  "description": "A sweet and crisp Greek dish featuring lamb shoulder, perfect for a sick day, made with lamination puff pastry and served on a cedar plank, also vegetarian friendly by substituting lamb with portobello mushrooms",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "or 1 cup portobello mushrooms for vegetarian option"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit",
+    "Roll out puff pastry to a large rectangle",
+    "In a bowl mix together lamb shoulder, feta cheese, kalamata olives, artichoke hearts, sun dried tomatoes, and fresh parsley",
+    "Place the mixture onto one half of the pastry rectangle",
+    "Fold the other half of the pastry over the filling to form a triangle",
+    "Brush the pastry with a little bit of water and sprinkle with sesame seeds",
+    "Place the tiropita on a cedar plank and bake for 25 minutes",
+    "Increase oven temperature to broil and cook for an additional 5 minutes or until golden brown",
+    "Let cool for a few minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "comfort-food",
+    "greek-food",
+    "lamb-recipes",
+    "pastry-dishes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-crisp-greek-lamb-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crisp-greek-lamb-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:05:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Crisp",
+    "dishForm": "Tiropita"
+  }
+}

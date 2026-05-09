@@ -1,0 +1,91 @@
+{
+  "title": "Hearty German Pear Bowl",
+  "description": "A traditional German dish featuring pears, served in a copper mug, perfect for a post-workout meal",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pears",
+      "amount": "2",
+      "notes": "any variety, diced"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the heavy cream over medium heat until warm",
+    "In a copper mug, combine the diced pears, rolled oats, almond butter, honey, cinnamon, and vanilla extract",
+    "Pour the warm heavy cream over the pear mixture in the copper mug",
+    "Top with chopped walnuts",
+    "Serve immediately",
+    "Let it cool for a few minutes before eating",
+    "You can adjust the amount of honey to your taste",
+    "Consider using a stone bowl or dolsot for a more traditional experience"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "diabetic-friendly",
+    "german-cuisine",
+    "healthy-snack",
+    "post-workout",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-german-pear-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-german-pear-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:05:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pears",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pears",
+    "descriptor": "Hearty Chewy",
+    "dishForm": "Bowl"
+  }
+}

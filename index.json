@@ -2021,6 +2021,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crisp-greek-lamb-tiropita",
+    "title": "Hearty Crisp Greek Lamb Tiropita",
+    "tags": [
+      "cedar-plank",
+      "comfort-food",
+      "greek-food",
+      "lamb-recipes",
+      "pastry-dishes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crisp-kenyan-lamb-kebabs",
     "title": "Hearty Crisp Kenyan Lamb Kebabs",
     "tags": [
@@ -3226,6 +3241,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-german-pear-bowl",
+    "title": "Hearty German Pear Bowl",
+    "tags": [
+      "copper-mug",
+      "diabetic-friendly",
+      "german-cuisine",
+      "healthy-snack",
+      "post-workout",
+      "stone-bowl"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
