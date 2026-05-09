@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Velvety Vietnamese Pork Bun Bo Hue",
+  "description": "A resinous and velvety Vietnamese dish featuring pork, made with plain flour and mortar-pestle-pounded ingredients, perfect for a sick day, and gluten-free-friendly in form of bun bo hue.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork bone",
+      "amount": "2 pounds",
+      "notes": "you can use pork neck bones or rib bones"
+    },
+    {
+      "name": "plain flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "shallots",
+      "amount": "2"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pork blood",
+      "amount": "1/4 cup",
+      "notes": "optional, but traditional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine pork bone, fish sauce, lime juice, and 4 cups of water, and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour, or until the pork is tender.",
+    "Using a mortar and pestle, pound garlic, shallots, and lemongrass into a smooth paste.",
+    "Add the paste to the pot and continue to simmer for another 30 minutes.",
+    "Stir in chili flakes and cook for 5 minutes.",
+    "If using pork blood, stir it in and cook for an additional 10 minutes.",
+    "Combine plain flour and 1 cup of water to make a slurry, and stir it into the pot.",
+    "Cook for 10 minutes, or until the soup has thickened.",
+    "Serve the bun bo hue hot, garnished with lime wedges and fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "pork-based",
+    "soups",
+    "spicy",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-velvety-vietnamese-pork-bun-bo-hue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-vietnamese-pork-bun-bo-hue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:48:01Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "plain flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Velvety",
+    "dishForm": "Bun Bo Hue"
+  }
+}
