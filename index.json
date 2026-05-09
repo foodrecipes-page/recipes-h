@@ -1298,6 +1298,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-algerian-lardons-lasagna",
+    "title": "Hearty Algerian Lardons Lasagna",
+    "tags": [
+      "algerian-cuisine",
+      "comfort-food",
+      "date-night",
+      "lardons",
+      "lasagna",
+      "low-calorie",
+      "rich-dish"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-algerian-lemongrass-tagine",
     "title": "Hearty Algerian Lemongrass Tagine",
     "tags": [

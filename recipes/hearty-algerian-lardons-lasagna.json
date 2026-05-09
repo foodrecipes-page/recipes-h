@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Algerian Lardons Lasagna",
+  "description": "A rich and flavorful Algerian dish featuring lasagna sheets and lardons, perfect for a special date night, this recipe is a low-calorie friendly version of the classic dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna sheets according to the package instructions.",
+    "In a large skillet, saute the chopped onion and minced garlic until softened.",
+    "Add the rendered lardons to the skillet and cook until crispy.",
+    "In a large bowl, combine the tomato sauce, ricotta cheese, and chopped parsley.",
+    "In a 9x13 inch baking dish, create a layer of tomato sauce.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the lasagna sheets.",
+    "Sprinkle with half of the shredded mozzarella cheese and half of the crispy lardons.",
+    "Repeat the layers, starting with the tomato sauce, then the lasagna sheets, the remaining ricotta cheese mixture, the remaining mozzarella cheese, and finally the remaining lardons.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "comfort-food",
+    "date-night",
+    "lardons",
+    "lasagna",
+    "low-calorie",
+    "rich-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-algerian-lardons-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-algerian-lardons-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:13:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lardons",
+    "descriptor": "Hearty",
+    "dishForm": "Lasagna"
+  }
+}
