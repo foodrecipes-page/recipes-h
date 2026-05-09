@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Herbal Egyptian Fish Papillote",
+  "description": "A sour and shattering festive Egyptian dish featuring gorgonzola-dolce, this pescatarian-friendly recipe is perfect for special occasions, with a unique blend of herbs and spices that will leave your taste buds wanting more.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "gorgonzola-dolce cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together lemon juice, olive oil, garlic powder, parsley, and dill.",
+    "Place a tilapia fillet in the center of each papillote paper sheet.",
+    "Brush the lemon juice mixture evenly over both sides of the tilapia fillets.",
+    "Crumble gorgonzola-dolce cheese over the top of each tilapia fillet.",
+    "Fold the papillote paper over the fish, creating a tight seal.",
+    "Place the papillote packets on a baking sheet lined with parchment paper.",
+    "Bake for 12 minutes or until the fish is cooked through and the papillote paper is puffed and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "fish-recipe",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "hearty-herbal-egyptian-fish-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-egyptian-fish-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:01:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Papillote"
+  }
+}
