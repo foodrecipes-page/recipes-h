@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Roasted Portuguese Cheese Casserole",
+  "description": "A rich and flavorful Portuguese-inspired casserole featuring roasted vegetables, melted cheese, and a hint of lime juice, made with macrobiotic-friendly ingredients and pressure-cooked for added convenience.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "roasted sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the cooked brown rice, black beans, roasted sweet potatoes, and shredded cheese.",
+    "In a small bowl, whisk together the lime juice and olive oil.",
+    "Add the chopped onion and minced garlic to the bowl with the lime juice mixture and stir to combine.",
+    "Add the wet ingredients to the dry ingredients and stir until everything is well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "While the casserole is baking, heat a pressure cooker with a little bit of oil over medium heat.",
+    "Once the casserole is done, remove it from the oven and let it cool for a few minutes.",
+    "Use the pressure cooker to add a crispy crust to the top of the casserole.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "macrobiotic-friendly",
+    "one-pan",
+    "portuguese-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-roasted-portuguese-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-portuguese-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:44:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lime juice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cheese",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Casserole"
+  }
+}
