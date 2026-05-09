@@ -1,0 +1,90 @@
+{
+  "title": "Hearty Chewy Kenyan Pak Choi Stir-fry",
+  "description": "A peppery, chewy Kenyan dish featuring pak choi, yuzu-cure, and high-protein-friendly ingredients. Perfect for post-workout sustenance.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "yuzu-cured salmon fillet",
+      "amount": "1 fillet"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok over medium-high heat.",
+    "Add crushed peanuts and toast for 2 minutes.",
+    "Add yuzu-cured salmon fillet and cook for 2 minutes per side.",
+    "Add pak choi, yuzu juice, ginger powder, and garlic powder.",
+    "Stir-fry for 4 minutes, or until pak choi is tender-crisp.",
+    "Season with black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hearty-chewy-kenyan-pak-choi-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chewy-kenyan-pak-choi-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:24:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "pak choi",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Pak Choi",
+    "descriptor": "Hearty Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
