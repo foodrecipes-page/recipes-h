@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Crispy Chinese Millet Wonton Soup",
+  "description": "A savory and filling Chinese-inspired soup featuring crispy millet wontons, served in a flavorful broth. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet flour",
+      "amount": "2 cups",
+      "notes": "fine texture"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "In a separate bowl, whisk together the millet flour and a pinch of salt.",
+    "Gradually add in the sesame oil and mix until the dough comes together.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small balls and flatten each one into a thin circle.",
+    "Place a small spoonful of the cooked pork mixture in the center of each circle and fold the dough over to form a wonton.",
+    "Add the wontons to the wok and cook until crispy and golden brown.",
+    "Add the chicken broth and soy sauce to the wok and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-inspired",
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-crispy-chinese-millet-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-chinese-millet-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:32:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "millet",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "millet",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Wonton Soup"
+  }
+}
