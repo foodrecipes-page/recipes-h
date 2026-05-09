@@ -1,0 +1,127 @@
+{
+  "title": "Herbaceous Norwegian Curry Paste Wrap",
+  "description": "A light, umami-rich Norwegian dish featuring panang curry paste in a spherified ti-leaf wrap. This lacto-vegetarian-friendly recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "spherified tapioca pearls",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4-6",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "sliced red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "zesty lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the panang curry paste in a small saucepan over low heat, stirring constantly, for 2 minutes.",
+    "Add the spherified tapioca pearls and cook for an additional 1-2 minutes, stirring constantly, until they start to pop.",
+    "In a large bowl, whisk together the grated ginger, zesty lime juice, and kosher salt.",
+    "Add the sliced cucumber and red bell pepper to the bowl and toss to combine with the dressing.",
+    "Warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the cucumber mixture onto the center of each wrap, followed by a few spherified tapioca pearls and a sprinkle of crumbled feta cheese.",
+    "Drizzle the panang curry paste mixture over the top of each wrap and sprinkle with chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Repeat the process for the remaining wraps.",
+    "Optional: add a pinch of sugar to the panang curry paste mixture for a touch of sweetness.",
+    "Don't overcrowd the wraps, as this can cause the spherified tapioca pearls to become dislodged from the panang curry paste mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "gluten-free",
+    "lacto-vegetarian",
+    "norwegian",
+    "spherification",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "herbaceous-norwegian-curry-paste-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-norwegian-curry-paste-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "panang curry paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "curry paste",
+    "descriptor": "Herbaceous",
+    "dishForm": "Wrap"
+  }
+}
