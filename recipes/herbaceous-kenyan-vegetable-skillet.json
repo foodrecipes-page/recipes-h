@@ -1,0 +1,101 @@
+{
+  "title": "Herbaceous Kenyan Vegetable Skillet",
+  "description": "A light and crunchy Kenyan dish featuring a blend of herbaceous vegetables and a hint of apple cider vinegar, cooked to perfection in a donabe vessel.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "Add the olive oil and saute the diced sweet potatoes until they are slightly tender.",
+    "Add the grated carrots and cook for an additional 3 minutes.",
+    "Add the trimmed green beans and cook until they are tender but still crisp.",
+    "In a small bowl, whisk together the apple cider vinegar, salt, and black pepper.",
+    "Pour the vinegar mixture over the vegetables and stir to combine.",
+    "In a separate bowl, mix the sodium alginate with the water to create a spherification bath.",
+    "Using a syringe or spoon, drop small amounts of the vegetable mixture into the spherification bath to create bite-sized spheres.",
+    "Let the spheres sit in the bath for 2-3 minutes to set.",
+    "Remove the spheres from the bath with a slotted spoon and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "healthy",
+    "kenyan-cuisine",
+    "one-pan",
+    "spherification",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "herbaceous-kenyan-vegetable-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbaceous-kenyan-vegetable-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:38:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "herbaceous crunchy",
+    "dishForm": "Skillet"
+  }
+}
