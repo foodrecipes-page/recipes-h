@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Venezuelan Plantain Curry",
+  "description": "A funky and comforting Venezuelan dish featuring ginger garlic paste and plantains, cooked in a banana leaf vessel",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4 large",
+      "notes": "green or unripe"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Cut a slit down one side of each plantain and peel",
+    "In a blender or food processor, combine ginger garlic paste, onion, tandoor spice blend, salt, and black pepper, and blend until smooth",
+    "In a large bowl, combine the blended spice mixture and coconut milk, and stir until well combined",
+    "Add the plantains to the bowl and toss until they are evenly coated with the spice mixture",
+    "Spoon the plantain mixture onto the center of each banana leaf",
+    "Fold the banana leaves over the filling to form a packet, and secure with toothpicks if needed",
+    "Place the packets in a single layer on a baking sheet and bake for 30 minutes",
+    "Serve the plantains hot, garnished with chopped fresh cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "plant-based",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-venezuelan-plantain-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-venezuelan-plantain-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:02:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantain",
+    "descriptor": "hearty velvety",
+    "dishForm": "Curry"
+  }
+}
