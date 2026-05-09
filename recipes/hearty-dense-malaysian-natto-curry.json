@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Dense Malaysian Natto Curry",
+  "description": "A comforting and flavorful Malaysian curry featuring natto, caramelized onions, and pescatarian-friendly ingredients, perfect for a cold winter night. This dish is jammy, dense, and packed with nutrients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "onions",
+      "amount": "2 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and caramelize the onions for 20 minutes.",
+    "Add the garlic and ginger to the pan and cook for 2 minutes.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Add the natto, coconut milk, shrimp, fish sauce, and brown sugar to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 15 minutes or until the shrimp are pink and cooked through.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot over rice or noodles.",
+    "Garnish with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-dense-malaysian-natto-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-malaysian-natto-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:16:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "natto",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "natto",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Curry"
+  }
+}
