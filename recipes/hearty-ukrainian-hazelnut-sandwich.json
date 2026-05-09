@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Ukrainian Hazelnut Sandwich",
+  "description": "A post-workout Ukrainian dish featuring shelled hazelnuts and double-rise-bread, this sandwich is low-fat-friendly and packed with nutrients to help with recovery. It has a grassy and chewy texture from the fresh herbs and whole grain bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "whole grain"
+    },
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-fat cream cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 375 degrees Fahrenheit.",
+    "Lay out the slices of double-rise-bread on a clean surface.",
+    "Spread one tablespoon of low-fat cream cheese on each slice of bread.",
+    "Top the cream cheese with chopped shelled hazelnuts, sliced cucumber, chopped fresh dill, and shredded lettuce.",
+    "Season with salt and black pepper to taste.",
+    "Place the slices of bread in the panini press and cook for 4 minutes.",
+    "Remove the sandwiches from the press and let them cool for 2 minutes.",
+    "Serve the sandwiches warm and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "low-fat",
+    "nutritious",
+    "post-workout",
+    "ukrainian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hearty-ukrainian-hazelnut-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ukrainian-hazelnut-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:19:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "hearty chewy",
+    "dishForm": "Sandwich"
+  }
+}
