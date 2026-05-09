@@ -1,0 +1,91 @@
+{
+  "title": "Hearty British Rye Crumble",
+  "description": "A buttery and crisp festive British dish featuring rye, perfect for a cold winter's day, made in a mason jar.",
+  "cuisine": "British",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "1 1/2 cups",
+      "notes": "preferably from Yorkshire"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the rye flour, all purpose flour, and granulated sugar.",
+    "Add the cold unsalted butter to the bowl and use a pastry blender to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the dried fruit and spices to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the flour mixture and stir until just combined.",
+    "Spoon the mixture into a mason jar.",
+    "Top the mixture with additional crumbs made from the remaining flour and butter.",
+    "Bake the crumble in the preheated oven for 35 minutes, or until the topping is golden brown and the filling is set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "comfort-food",
+    "festive-food",
+    "mason-jar-recipe",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-british-rye-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-british-rye-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:37:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "rye",
+    "diet": "ovo-vegetarian",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "rye",
+    "descriptor": "hearty buttery",
+    "dishForm": "Crumble"
+  }
+}
