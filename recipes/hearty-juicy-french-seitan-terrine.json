@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Juicy French Seitan Terrine",
+  "description": "A vegan-friendly French dish featuring seitan, black olives, and rest-meat, packed with umami flavor and juicy texture, all in one pot.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 pound",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, saute the onion and garlic until the onion is translucent.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the seitan, black olives, tomato paste, vegetable broth, nutritional yeast, thyme, and bay leaves to the pot.",
+    "Stir well to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Transfer the pot to the preheated oven and bake for 20 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the mixture through a cheesecloth or fine-mesh sieve into a terrine mold.",
+    "Refrigerate the terrine for at least 2 hours to set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "hearty-dish",
+    "one-pot",
+    "special-occasion",
+    "umami-rich",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-juicy-french-seitan-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-french-seitan-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:28:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "black olives",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "seitan",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Terrine"
+  }
+}
