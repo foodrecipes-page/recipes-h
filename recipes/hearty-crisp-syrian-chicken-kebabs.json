@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Crisp Syrian Chicken Kebabs",
+  "description": "A sour and crisp Syrian dish featuring chicken bouillon powder and char-grill flavors, perfect for a comforting meal. This Mediterranean-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chicken bouillon powder, olive oil, lemon juice, garlic, paprika, salt, black pepper, and sumac.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Let the kebabs rest for a few minutes before serving.",
+    "Serve the kebabs hot, garnished with additional sumac and lemon wedges if desired.",
+    "Refrigerate or freeze any leftovers for later use.",
+    "To reheat, simply grill or bake the kebabs until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "grilled",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "hearty-crisp-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crisp-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:48:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Crisp",
+    "dishForm": "Kebabs"
+  }
+}
