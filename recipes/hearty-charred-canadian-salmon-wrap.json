@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Charred Canadian Salmon Wrap",
+  "description": "A Whole30-friendly, date-night Canadian dish featuring charred salmon, turmeric, and a lotus leaf wrap, perfect for a romantic dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "Whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 6-oz",
+      "notes": "wild-caught Canadian"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a small bowl, mix together turmeric powder, salt, and black pepper",
+    "Rub the spice mixture evenly over both sides of the salmon fillets",
+    "Heat the coconut oil in a large skillet over medium-high heat",
+    "Sear the salmon fillets for 2-3 minutes on each side, then transfer to a baking sheet",
+    "Bake the salmon in the preheated oven for 12-15 minutes, or until cooked through",
+    "While the salmon is cooking, poach the dates in a saucepan of boiling water for 5 minutes, then drain and set aside",
+    "To assemble the wraps, lay a lotus leaf flat on a work surface and place a cooked salmon fillet in the center",
+    "Top the salmon with a poached date, a sprinkle of chopped parsley, and a squeeze of lemon juice",
+    "Fold the lotus leaf over the filling to form a wrap, and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "date-night",
+    "gluten-free",
+    "healthy",
+    "paleo",
+    "seafood",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-charred-canadian-salmon-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-charred-canadian-salmon-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:25:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "turmeric",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "salmon",
+    "descriptor": "hearty charred",
+    "dishForm": "Wrap"
+  }
+}
