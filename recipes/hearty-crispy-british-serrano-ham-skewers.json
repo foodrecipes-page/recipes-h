@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Crispy British Serrano Ham Skewers",
+  "description": "A peppery, crispy, and savory British dish featuring serrano ham, miso-marinate, and Mediterranean-friendly flavors, grilled to perfection on a robata-grill.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together miso paste, honey, and olive oil to make the miso-marinate.",
+    "Add the minced garlic and black pepper to the miso-marinate and whisk until well combined.",
+    "Thread the serrano ham, pineapple chunks, and cherry tomatoes onto skewers, leaving a small space between each piece.",
+    "Brush the miso-marinate onto both sides of the serrano ham and vegetables on the skewers.",
+    "Grill the skewers on the robata-grill for 10-12 minutes, or until the serrano ham is crispy and the vegetables are tender.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve with additional miso-marinate on the side for dipping, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "grilled",
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-crispy-british-serrano-ham-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-british-serrano-ham-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:51:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "serrano ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "serrano ham",
+    "descriptor": "hearty crispy",
+    "dishForm": "Skewers"
+  }
+}

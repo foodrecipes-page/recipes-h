@@ -2275,6 +2275,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crispy-british-serrano-ham-skewers",
+    "title": "Hearty Crispy British Serrano Ham Skewers",
+    "tags": [
+      "british-cuisine",
+      "grilled",
+      "high-protein",
+      "mediterranean-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crispy-ethiopian-squid-stew",
     "title": "Hearty Crispy Ethiopian Squid Stew",
     "tags": [
