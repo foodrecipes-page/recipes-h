@@ -1,0 +1,110 @@
+{
+  "title": "Hearty Hangover Jamaican Cheese Casserole",
+  "description": "A flexitarian-friendly Jamaican dish featuring garlic sauce and wood-fired bake, perfect for hangover cure, with a cultured and cheese-pull twist.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for thickening sauce"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "wood-fired baked beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, melt the butter over medium heat and saute the scotch bonnet peppers and garlic until softened.",
+    "Add the flour to the saucepan and stir to combine, cooking for 1 minute.",
+    "Slowly pour in the coconut milk, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, stirring occasionally.",
+    "Stir in the shredded cheese until melted and smooth.",
+    "Add the wood-fired baked beans, thyme, salt, and black pepper to the cheese sauce and stir to combine.",
+    "Transfer the mixture to a baking dish and bake in the preheated wood-fired oven for 25 minutes, or until golden brown and set.",
+    "Remove the casserole from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "cheesy",
+    "flexitarian-friendly",
+    "hangover-cure",
+    "jamaican-cuisine",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hearty-hangover-jamaican-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-hangover-jamaican-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:53:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "garlic sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cheese",
+    "descriptor": "Hearty Hangover",
+    "dishForm": "Casserole"
+  }
+}
