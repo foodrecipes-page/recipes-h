@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Chewy Ukrainian Pilaf",
+  "description": "A romantic and flavorful Ukrainian dish made with chopped onion and a hint of wok-hei.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "flaxseed oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wok hei seasoning",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of flaxseed oil in a large scallop-shell over medium-high heat.",
+    "Add 1 cup of chopped onion to the shell and saut\u000133 until translucent.",
+    "Add 1 pound of boneless and skinless chicken breast to the shell and cook until browned.",
+    "Add 2 cups of low sodium vegetable broth, 1 cup of uncooked white rice, 1 teaspoon of ground caraway seeds, and 1 teaspoon of wok hei seasoning to the shell.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover the shell with a tight-fitting lid.",
+    "Simmer the pilaf for 20 minutes or until the liquid has been absorbed and the rice is tender.",
+    "Stir in 1 tablespoon of chopped fresh parsley and 1 tablespoon of chopped dried dill weed.",
+    "Season the pilaf with salt and pepper to taste.",
+    "Serve the Hearty Chewy Ukrainian Pilaf hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "hearty-chewy-ukrainian-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chewy-ukrainian-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:12:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "chopped onion",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Floral Dish",
+    "descriptor": "Hearty Chewy Dish",
+    "dishForm": "Pilaf"
+  }
+}

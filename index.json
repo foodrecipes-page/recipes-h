@@ -1696,6 +1696,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-braised-turkish-cabbage-su-boregi",
+    "title": "Hearty Braised Turkish Cabbage Su Boregi",
+    "tags": [
+      "low-glycemic",
+      "one-pan",
+      "turkish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-brazilian-beef-stew",
     "title": "Hearty Brazilian Beef Stew",
     "tags": [
@@ -2093,6 +2107,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-chewy-ukrainian-pilaf",
+    "title": "Hearty Chewy Ukrainian Pilaf",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
