@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Reduced Ukrainian Cranberry Stew",
+  "description": "A pungent and shattering solo dinner dish featuring cranberry, this Ukrainian stew is macrobiotic friendly and cooked in a kazan cauldron. It is a perfect meal for a cold winter evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cranberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sugar"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the chopped onion.",
+    "Saute the onion until it is translucent and starting to caramelize.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cranberries, carrots, and potatoes, and stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the tomato paste and continue to simmer for another 10 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "macrobiotic",
+    "one-pot",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-reduced-ukrainian-cranberry-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-reduced-ukrainian-cranberry-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:05:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "cranberry",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cranberry",
+    "descriptor": "hearty reduced",
+    "dishForm": "Stew"
+  }
+}
