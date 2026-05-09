@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Smoky Slovakian Bass En-croute",
+  "description": "A smoky, molten Slovakian dish featuring sea bass fillets wrapped in puff pastry, perfect for a quick and satisfying weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea bass fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the sea bass fillets on a flat surface and season with salt, black pepper, and smoked paprika.",
+    "Roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "Place the pastry on top of the sea bass fillets, pressing the edges to seal.",
+    "Brush the pastry with olive oil and cut a few slits in the top to allow steam to escape.",
+    "Bake for 15 minutes or until the pastry is golden brown.",
+    "While the pastry is baking, melt the butter and mix with garlic and lemon juice in a small saucepan.",
+    "Remove the pastry from the oven and brush the garlic-lemon butter mixture on top.",
+    "Return the pastry to the oven and bake for an additional 5-7 minutes or until the butter is melted and bubbly.",
+    "Remove from the oven and sprinkle with parsley and feta cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hearty-smoky-slovakian-bass-en-croute",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-slovakian-bass-en-croute",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:45:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Bass",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "En-croute"
+  }
+}

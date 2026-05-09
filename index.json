@@ -7119,6 +7119,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-saudi-arabian-shallots-tagine",
+    "title": "Hearty Saudi Arabian Shallots Tagine",
+    "tags": [
+      "ayurvedic",
+      "gluten-free",
+      "herbal",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-savory-algerian-perilla-leaf-tagine",
     "title": "Hearty Savory Algerian Perilla Leaf Tagine",
     "tags": [
@@ -8027,6 +8042,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-slovakian-bass-en-croute",
+    "title": "Hearty Smoky Slovakian Bass En-croute",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
