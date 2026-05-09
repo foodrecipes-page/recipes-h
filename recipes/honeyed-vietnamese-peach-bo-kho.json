@@ -1,0 +1,102 @@
+{
+  "title": "honeyed vietnamese peach bo kho",
+  "description": "a soothing, buttery stew featuring juicy peaches and fragrant spices in a rich beef broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 slices"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large pot over medium heat.",
+    "add slices of ginger and cook for 1 minute.",
+    "add minced garlic and onion, cook until fragrant.",
+    "add beef broth, fish sauce, soy sauce, lime juice and bring to a boil.",
+    "add peaches and cook until tender, 10-12 minutes.",
+    "stir in honey and lemongrass, cook for 2 minutes.",
+    "season with sugar to taste.",
+    "serve hot, garnished with fresh herbs if desired.",
+    "serve over steamed jasmine rice or noodles if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bo-kho",
+    "comfort-food",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "honeyed-vietnamese-peach-bo-kho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-vietnamese-peach-bo-kho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:28:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "peaches",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "peach",
+    "descriptor": "honeyed",
+    "dishForm": "Bo Kho"
+  }
+}
