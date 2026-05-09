@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Mediterranean Lamb Kebabs",
+  "description": "A peppery and shattering lazy-sunday Mediterranean dish featuring bay leaves, tandoor, and ayurvedic-rajasic-friendly ingredients, cooked to perfection on an iron teppan",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, black pepper, and salt",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes, bay leaves, and red onion pieces onto skewers",
+    "Place the skewers on the preheated teppan and cook for 10 minutes per side",
+    "After 10 minutes, reduce the heat to 350 degrees Fahrenheit and continue cooking for an additional 10 minutes",
+    "Remove the skewers from the teppan and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:59:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "bay leaves",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Spicy",
+    "dishForm": "Kebabs"
+  }
+}
