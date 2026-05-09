@@ -1,0 +1,104 @@
+{
+  "title": "Hot Creamy Peruvian Navy Beans Aji De Gallina",
+  "description": "A mustardy, creamy, crowd-pleaser Peruvian dish featuring dried white navy beans, smoke-hot, and flexitarian-friendly, served in a dolsot-stone-bowl.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the dried white navy beans in water overnight, then drain and set aside.",
+    "In a large pot, saute the chopped onion and minced garlic in a little bit of oil until softened.",
+    "Add the chopped aji amarillo peppers to the pot and cook for an additional 2 minutes.",
+    "Add the soaked and drained navy beans, heavy cream, grated cheddar cheese, dijon mustard, smoked paprika, salt, and black pepper to the pot.",
+    "Stir well to combine, then bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 20 minutes, or until the beans are tender.",
+    "Use an immersion blender to puree the mixture to the desired consistency.",
+    "Taste and adjust the seasoning as needed.",
+    "Ladle the hot creamy navy beans into dolsot-stone-bowls and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dolsot-stone-bowl",
+    "flexitarian-friendly",
+    "navy-beans",
+    "peruvian-cuisine",
+    "smoke-hot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hot-creamy-peruvian-navy-beans-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-creamy-peruvian-navy-beans-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:00:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "navy beans",
+    "descriptor": "hot creamy",
+    "dishForm": "Aji De Gallina"
+  }
+}
