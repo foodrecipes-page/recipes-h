@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Mexican Sweet Red Pepper Stew",
+  "description": "A one-pot Mexican dish featuring sweet red peppers and earthy flavors, served with toast for a satisfying meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "4 large",
+      "notes": "any color bell pepper can be used"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "yellow or white"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread"
+    }
+  ],
+  "instructions": [
+    "Heat a large cazuela over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the cumin and chili powder to the pot and cook for 1 minute.",
+    "Add the sweet red peppers to the pot and cook until they start to soften.",
+    "Add the tomato paste and beef broth to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Slice the whole wheat bread into 1-inch thick slices and toast until crispy.",
+    "Serve the stew hot, topped with toasted bread and any desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "hearty",
+    "low-glycemic",
+    "mexican",
+    "one-pot",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-mexican-sweet-red-pepper-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mexican-sweet-red-pepper-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:23:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "hearty earthy",
+    "dishForm": "Stew"
+  }
+}

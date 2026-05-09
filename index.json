@@ -5790,6 +5790,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mexican-sweet-red-pepper-stew",
+    "title": "Hearty Mexican Sweet Red Pepper Stew",
+    "tags": [
+      "beef",
+      "hearty",
+      "low-glycemic",
+      "mexican",
+      "one-pot",
+      "stew"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-middle-eastern-chickpeas-falafel",
     "title": "Hearty Middle Eastern Chickpeas Falafel",
     "tags": [
