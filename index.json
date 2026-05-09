@@ -7178,6 +7178,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-slovakian-vegetable-stew",
+    "title": "Hearty Slovakian Vegetable Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot-meal",
+      "vegetarian-option",
+      "winter-night"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-slow-cooked-venezuelan-beef-stew",
     "title": "Hearty Slow Cooked Venezuelan Beef Stew",
     "tags": [
