@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Peppery Turkish Lamb Kebabs",
+  "description": "A classic Turkish dish featuring tender lamb, crunchy poppy seeds, and a hint of peppery flavor, all grilled to perfection over binchotan charcoal",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, garlic, salt, paprika, turmeric, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the marinade",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece",
+    "Sprinkle the poppy seeds over the lamb kebabs, pressing gently to adhere",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kebabs",
+    "lamb",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "hearty-peppery-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-peppery-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:24:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "poppy seeds",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty peppery",
+    "dishForm": "Kebabs"
+  }
+}

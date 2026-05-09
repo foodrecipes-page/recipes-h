@@ -6929,6 +6929,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-peppery-turkish-lamb-kebabs",
+    "title": "Hearty Peppery Turkish Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kebabs",
+      "lamb",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-peruvian-chicken-wrap",
     "title": "Hearty Peruvian Chicken Wrap",
     "tags": [
