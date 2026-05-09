@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Silky Korean Mediterranean Chwinamul Pilaf",
+  "description": "A rich and savory pilaf dish featuring chwinamul, score-fat, and Mediterranean-friendly ingredients, perfect for a satisfying brunch.",
+  "cuisine": "Korean Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "Korean aster plant"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with olive oil"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a large skillet over medium heat.",
+    "Add the chwinamul and cook until wilted, about 3 minutes.",
+    "Add the Arborio rice and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, one cup at a time, stirring continuously and allowing each cup to absorb before adding the next.",
+    "After 20 minutes of cooking, stir in the feta cheese, Kalamata olives, and sun-dried tomatoes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pilaf to a serving platter and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Reheat the pilaf in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "korean-mediterranean",
+    "one-pot",
+    "silky-texture",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-silky-korean-mediterranean-chwinamul-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-korean-mediterranean-chwinamul-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:32:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "score-fat",
+    "primaryIngredient": "chwinamul",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean Mediterranean",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Hearty Silky",
+    "dishForm": "Pilaf"
+  }
+}
