@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Herbal Italian Ladyfingers Tiramisu",
+  "description": "A satvik-friendly Italian dessert featuring red wine vinegar and ladyfingers, with a peppery and springy twist, perfect for festive occasions.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ladyfingers",
+      "amount": "12",
+      "notes": "dried"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "1 cup",
+      "notes": "brewed"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Start by brewing a cup of herbal tea and letting it cool to room temperature.",
+    "In a large bowl, combine the cooled herbal tea, red wine vinegar, and ground peppercorns, stirring to combine.",
+    "Dip each ladyfinger into the tea mixture for about 3-5 seconds on each side, then set aside on a wire rack.",
+    "In a separate bowl, whip the mascarpone cheese until smooth, then add the confectioners sugar, egg yolks, and vanilla extract, whipping until stiff peaks form.",
+    "To assemble the tiramisu, start with a layer of ladyfingers, followed by a layer of the mascarpone mixture, and repeat until all ingredients are used, finishing with a layer of mascarpone on top.",
+    "Cover the dish with plastic wrap and refrigerate for at least 3 hours to allow the flavors to meld.",
+    "Just before serving, sprinkle the top of the tiramisu with additional confectioners sugar and a few grindings of peppercorns.",
+    "Slice the tiramisu into individual servings and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-tea",
+    "italian-dessert",
+    "ladyfingers",
+    "red-wine-vinegar",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "hearty-herbal-italian-ladyfingers-tiramisu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-italian-ladyfingers-tiramisu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:28:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "lamination-puff",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Tiramisu"
+  }
+}
