@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Juicy Saudi Arabian Lamb Kebabs",
+  "description": "A kid-friendly Saudi Arabian dish featuring lamb, rye bread, and ayurvedic-sattvic-friendly ingredients, grilled to perfection on a robata grill.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rye bread",
+      "amount": "4 slices",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb skewers for 10-12 minutes, turning occasionally, until cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Meanwhile, toast the rye bread cubes on the grill for 2-3 minutes, until lightly browned.",
+    "Serve the lamb skewers with toasted rye bread and your choice of sides.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-meats",
+    "kid-friendly",
+    "lamb-recipes",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-juicy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:16:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "robata-grill",
+    "primaryIngredient": "rye bread",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Kebabs"
+  }
+}
