@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Roasted Canadian Pork Chops Roast",
+  "description": "A roasted Canadian dish featuring pork chops, roasted to perfection in a papillote with dairy-free friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 chops",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, salt, black pepper, and garlic powder.",
+    "Place the pork chops in a large bowl and brush the oil mixture on both sides of the chops.",
+    "Add the chopped onion, carrots, and potatoes to the bowl and toss to coat with the oil mixture.",
+    "Cut a large piece of parchment paper into a rectangle, about 2 inches larger than the pork chops on all sides.",
+    "Place the pork chops in the center of the parchment paper and arrange the vegetables around the chops.",
+    "Fold the parchment paper over the pork chops and vegetables, creating a papillote, and secure with kitchen twine.",
+    "Place the papillote on a baking sheet and roast in the preheated oven for 30 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes before slicing the pork chops and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "dairy-free",
+    "one-pan",
+    "pork-chops",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-roasted-canadian-pork-chops-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roasted-canadian-pork-chops-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:14:24Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "pork chops",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork chops",
+    "descriptor": "Hearty Roasted",
+    "dishForm": "Roast"
+  }
+}
