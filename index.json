@@ -4644,6 +4644,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-herbal-uruguayan-kabanos-sausages-skewers",
+    "title": "Hearty Herbal Uruguayan Kabanos Sausages Skewers",
+    "tags": [
+      "gluten-free",
+      "herbal",
+      "kabanos",
+      "no-onion-no-garlic",
+      "sausages",
+      "skewers",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-herbed-croatian-lamb-skewers",
     "title": "Hearty Herbed Croatian Lamb Skewers",
     "tags": [
@@ -8178,6 +8194,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spanish-pineapple-skewers",
+    "title": "Hearty Spanish Pineapple Skewers",
+    "tags": [
+      "grilled-chicken",
+      "keto-friendly",
+      "low-carb",
+      "quick-snack",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Spanish Pineapple Skewers",
+  "description": "A quick and easy Spanish dish featuring pineapple juice and ferment-jang, perfect for a keto-friendly snack. This malty and glassy-jelly treat is served on a slate-tile vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together pineapple juice, ferment-jang, and olive oil.",
+    "Add the chicken breast, red onion, and red bell pepper to the bowl and toss to coat.",
+    "Thread the chicken and vegetables onto skewers.",
+    "Season with garlic and paprika.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers on a slate-tile vessel.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-chicken",
+    "keto-friendly",
+    "low-carb",
+    "quick-snack",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "hearty-spanish-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:13:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "ferment-jang",
+    "primaryIngredient": "pineapple juice",
+    "diet": "keto",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pineapple",
+    "descriptor": "hearty quick",
+    "dishForm": "Skewers"
+  }
+}

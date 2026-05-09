@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Herbal Uruguayan Kabanos Sausages Skewers",
+  "description": "A floral and chewy Uruguayan dish featuring kabanos sausages, perfect for a energizing meal, this recipe is onion and garlic free.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "12",
+      "notes": "shio-koji-cure"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and black pepper.",
+    "Add the chopped parsley and rosemary to the bowl and mix well.",
+    "Thread a kabanos sausage onto each wooden skewer.",
+    "Brush the sausages with the herbal mixture.",
+    "Grill the skewers for 5 minutes per side, or until the sausages are cooked through.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with additional parsley and rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herbal",
+    "kabanos",
+    "no-onion-no-garlic",
+    "sausages",
+    "skewers",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-herbal-uruguayan-kabanos-sausages-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-uruguayan-kabanos-sausages-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:14:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kabanos sausages",
+    "descriptor": "hearty herbal",
+    "dishForm": "Skewers"
+  }
+}
