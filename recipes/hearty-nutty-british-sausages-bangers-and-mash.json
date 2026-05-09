@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Nutty British Sausages Bangers And Mash",
+  "description": "A classic British dish featuring nutty sausages, creamy mash, and a hint of tabasco sauce, made jain-friendly by using vegetable-based ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetarian sausages",
+      "amount": "4",
+      "notes": "nutty flavor"
+    },
+    {
+      "name": "lardons",
+      "amount": "6",
+      "notes": "rendered from vegetable fat"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Render the lardons in a pan over medium heat until crispy.",
+    "Remove the lardons from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until softened.",
+    "Add the vegetarian sausages to the pan and cook until browned.",
+    "Add the vegetable broth, tabasco sauce, salt, and black pepper to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Meanwhile, boil the chopped potatoes in a large pot of salted water until tender.",
+    "Drain the potatoes and mash with butter and a splash of vegetable broth.",
+    "Serve the sausages and lardons over the mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "hearty",
+    "jain-friendly",
+    "nutty",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-nutty-british-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-nutty-british-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:08:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "hearty nutty",
+    "dishForm": "Bangers And Mash"
+  }
+}

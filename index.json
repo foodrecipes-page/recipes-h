@@ -5870,6 +5870,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-nutty-british-sausages-bangers-and-mash",
+    "title": "Hearty Nutty British Sausages Bangers And Mash",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "hearty",
+      "jain-friendly",
+      "nutty",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-nutty-french-prawns-mille-feuille",
     "title": "Hearty Nutty French Prawns Mille Feuille",
     "tags": [
