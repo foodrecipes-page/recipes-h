@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Light Malaysian Speck Tagine",
+  "description": "A garlicky and romantic Malaysian dish featuring speck, made vegan-friendly by using plant-based speck alternatives, and cooked to perfection in a ceramic tagine",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plant-based speck",
+      "amount": "200g",
+      "notes": "use a vegan-friendly alternative to traditional speck"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ceramic tagine over medium heat and add the minced garlic, cooking for 1 minute until fragrant",
+    "Add the chopped onion and cook for 3 minutes until softened",
+    "Add the grated ginger and cook for 1 minute until fragrant",
+    "Add the plant-based speck and cook for 2 minutes until lightly browned",
+    "Add the coconut milk, vegetable broth, and brown rice to the tagine, stirring to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "Use a pressure cooker to cook the tagine for an additional 10 minutes, or until the rice is tender",
+    "Stir in the chopped fresh cilantro and serve hot",
+    "Garnish with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "malaysian",
+    "pressure-cooker",
+    "romantic-dinner",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-light-malaysian-speck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-light-malaysian-speck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:20:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "speck",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "speck",
+    "descriptor": "hearty light",
+    "dishForm": "Tagine"
+  }
+}
