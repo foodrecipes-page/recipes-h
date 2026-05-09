@@ -4533,6 +4533,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-kenyan-chicken-biryani",
+    "title": "Hearty Kenyan Chicken Biryani",
+    "tags": [
+      "bento-box",
+      "biryani-recipe",
+      "kenyan-cuisine",
+      "kosher-friendly",
+      "stir-fry"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-kenyan-cornmeal-casserole",
     "title": "Hearty Kenyan Cornmeal Casserole",
     "tags": [
