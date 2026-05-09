@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Braised Chinese Pork Bao",
+  "description": "A savory and mustardy Chinese dish featuring braised pork and sauerkraut, perfect for a brunch mood, this recipe is kosher-friendly and serves as a great option for those looking for a unique meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bao buns",
+      "amount": "8-10",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the vegetable oil over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the minced garlic and grated ginger to the pot and cook until fragrant, about 1 minute.",
+    "Add the sauerkraut, brown sugar, soy sauce, and rice vinegar to the pot, stirring to combine.",
+    "Return the pork to the pot and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven, braising the pork for 2 1/2 hours, or until tender.",
+    "While the pork is braising, toast the bao buns by baking them in the oven for 5 minutes, or until lightly browned.",
+    "Assemble the bao by slicing the braised pork and serving it in the toasted buns with a spoonful of the sauerkraut mixture and a dollop of mustard."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "braised-meat",
+    "brunch-ideas",
+    "chinese-food",
+    "kosher-friendly",
+    "pork-recipes",
+    "sauerkraut-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-braised-chinese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-braised-chinese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:22:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "sauerkraut",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "hearty braised",
+    "dishForm": "Bao"
+  }
+}

@@ -1620,6 +1620,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-braised-chinese-pork-bao",
+    "title": "Hearty Braised Chinese Pork Bao",
+    "tags": [
+      "braised-meat",
+      "brunch-ideas",
+      "chinese-food",
+      "kosher-friendly",
+      "pork-recipes",
+      "sauerkraut-recipes"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-brazilian-beef-stew",
     "title": "Hearty Brazilian Beef Stew",
     "tags": [
