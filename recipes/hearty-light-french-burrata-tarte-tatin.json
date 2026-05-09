@@ -1,0 +1,96 @@
+{
+  "title": "Hearty Light French Burrata Tarte Tatin",
+  "description": "A kid-friendly French dish featuring burrata, this tarte tatin is a twist on the classic recipe, made with a copper mug and FODMAP-friendly ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 ounces",
+      "notes": "fresh"
+    },
+    {
+      "name": "apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the sugar, cinnamon, and salt.",
+    "Add the sliced apples to the bowl and toss to coat with the sugar mixture.",
+    "In a copper mug, arrange a layer of apples.",
+    "Dot the top of the apples with butter.",
+    "Cut the burrata cheese into small pieces and layer on top of the apples.",
+    "In a small bowl, whisk together the eggs and cream.",
+    "Pour the egg mixture over the burrata cheese.",
+    "Repeat the layers one more time, ending with a layer of apples on top.",
+    "Bake the tarte tatin in the preheated oven for 25 minutes.",
+    "Remove the tarte tatin from the oven and let it cool for a few minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "copper-mug",
+    "fodmap-friendly",
+    "french-food",
+    "kid-friendly",
+    "tarte-tatin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "hearty-light-french-burrata-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-light-french-burrata-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:01:44Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "burrata",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "burrata",
+    "descriptor": "hearty light",
+    "dishForm": "Tarte Tatin"
+  }
+}
