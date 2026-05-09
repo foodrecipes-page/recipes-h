@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Sweet Russian Milk Pudding",
+  "description": "A resinous and glassy-jelly Russian dessert featuring sweetened condensed milk, perfect for a hangover cure, made in a raclette grill. This dish is onion and garlic free.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 envelope",
+      "notes": "0.25 oz"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of water and let it soften for 5 minutes.",
+    "In a medium saucepan, combine the sweetened condensed milk, heavy cream, and sugar, and heat over medium heat, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the sugar has dissolved.",
+    "Remove the saucepan from the heat and stir in the softened gelatin and vanilla extract.",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, whip the chilled coconut cream until stiff peaks form.",
+    "To assemble the pudding, spoon a layer of the chilled milk mixture into the raclette grill, followed by a layer of whipped coconut cream.",
+    "Repeat the layers one more time, ending with a layer of whipped coconut cream on top.",
+    "Sprinkle with shredded coconut, if using, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "no-bake",
+    "russian-dish",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "hearty-sweet-russian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sweet-russian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:30:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "milk",
+    "descriptor": "Hearty Sweet",
+    "dishForm": "Pudding"
+  }
+}
