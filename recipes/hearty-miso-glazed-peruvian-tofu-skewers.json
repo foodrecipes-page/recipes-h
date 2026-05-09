@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Miso Glazed Peruvian Tofu Skewers",
+  "description": "A midnight-craving Peruvian dish featuring silken tofu in a miso marinate, served in agave leaves with a mustardy and glassy-jelly glaze. This dish is perfect for a snack or dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender or food processor, combine miso paste, agave nectar, rice vinegar, Dijon mustard, smoked paprika, garlic powder, salt, and black pepper, and blend until smooth.",
+    "Add the cubed tofu to the miso marinate and mix until the tofu is well coated.",
+    "Thread the marinated tofu onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the tofu is baking, prepare the agave leaves by rinsing them with water and patting them dry with paper towels.",
+    "After the tofu has baked for 20 minutes, brush the skewers with the remaining miso marinate and return to the oven for an additional 5 minutes.",
+    "Remove the skewers from the oven and wrap each skewer in an agave leaf, serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian-inspired",
+    "tofu-recipes",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "hearty-miso-glazed-peruvian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-miso-glazed-peruvian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:11:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "silken tofu",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tofu",
+    "descriptor": "hearty miso glazed",
+    "dishForm": "Skewers"
+  }
+}
