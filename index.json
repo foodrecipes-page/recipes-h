@@ -3369,6 +3369,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-earthy-spanish-veal-fabada-asturiana",
+    "title": "Hearty Earthy Spanish Veal Fabada Asturiana",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-earthy-vietnamese-red-snapper-bun-bo-hue",
     "title": "Hearty Earthy Vietnamese Red Snapper Bun Bo Hue",
     "tags": [
@@ -11072,6 +11087,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-creamy-greek-egg-pilaf",
+    "title": "Herbal Creamy Greek Egg Pilaf",
+    "tags": [
+      "comfort-food",
+      "greek-food",
+      "herbal-delights",
+      "midnight-cravings",
+      "one-pan",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {

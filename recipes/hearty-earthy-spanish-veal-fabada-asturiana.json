@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Earthy Spanish Veal Fabada Asturiana",
+  "description": "A quick and earthy Spanish dish featuring veal, this recipe is a sattvic friendly version of the traditional Fabada Asturiana, adapted for the robata grill.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "In a large bowl, toss the veal pieces with smoked paprika, garlic, sea salt, and black pepper.",
+    "Add the olive oil to the preheated grill and swirl to coat.",
+    "Add the veal to the grill and cook for 5 minutes per side, or until browned.",
+    "Add the onion, carrots, and celery to the grill and cook until the vegetables are tender.",
+    "Add the chickpeas to the grill and stir to combine with the veal and vegetables.",
+    "Cook for an additional 2 minutes, or until the chickpeas are heated through.",
+    "Serve the veal and chickpea mixture hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-earthy-spanish-veal-fabada-asturiana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-earthy-spanish-veal-fabada-asturiana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:27:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "veal",
+    "diet": "ayurvedic-sattvic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "veal",
+    "descriptor": "Hearty Earthy",
+    "dishForm": "Fabada Asturiana"
+  }
+}

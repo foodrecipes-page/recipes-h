@@ -1,0 +1,109 @@
+{
+  "title": "Herbal Creamy Greek Egg Pilaf",
+  "description": "A creamy and savory Greek dish featuring summer savory and eggs, perfect for a midnight craving. This ovo-vegetarian friendly pilaf is infused with the aroma of wok-hei and the freshness of herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably long grain"
+    },
+    {
+      "name": "dried summer savory leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the dried summer savory leaves and cook for 1 minute, stirring constantly.",
+    "Add the uncooked rice to the skillet and cook for 2 minutes, stirring constantly, until the rice is coated in oil and slightly toasted.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15 minutes, or until the liquid is absorbed and the rice is tender.",
+    "While the rice is cooking, whisk together the eggs, heavy cream, salt, and black pepper in a bowl.",
+    "When the rice is cooked, fluff it with a fork and stir in the egg mixture.",
+    "Cook over low heat, stirring constantly, until the eggs are cooked through and the mixture is creamy.",
+    "Stir in the crumbly feta cheese and cook until it is melted and well combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-food",
+    "herbal-delights",
+    "midnight-cravings",
+    "one-pan",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "herbal-creamy-greek-egg-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-creamy-greek-egg-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:27:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "wok-hei",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "egg",
+    "descriptor": "herbal creamy",
+    "dishForm": "Pilaf"
+  }
+}
