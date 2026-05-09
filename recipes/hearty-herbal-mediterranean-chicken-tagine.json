@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Herbal Mediterranean Chicken Tagine",
+  "description": "A flavorful and aromatic Mediterranean dish featuring chicken, soy milk, and herbs, perfect for a date night, with a low-glycemic twist. This earthy and juicy tagine is cooked to perfection in a papillote.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy milk, olive oil, thyme, rosemary, garlic, salt, and pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it in a papillote pouch.",
+    "Add the dates and lemon juice to the pouch.",
+    "Seal the pouch and bake for 35 minutes.",
+    "Let the chicken rest for 10 minutes before slicing.",
+    "Serve the chicken with the sauce from the pouch.",
+    "Garnish with additional thyme and rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "date-night",
+    "gluten-free",
+    "herbal",
+    "low-glycemic",
+    "mediterranean",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hearty-herbal-mediterranean-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-mediterranean-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:57:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "soy milk",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Tagine"
+  }
+}
