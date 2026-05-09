@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Malty Mexican Chicken Tacos",
+  "description": "A malty, pillowy, post-workout Mexican dish featuring cumin and cure, served in a banana leaf vessel, this recipe is ayurvedic-sattvic-friendly and perfect for a dinner meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cure",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 tortillas"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together malt syrup, cumin powder, and cure.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Remove the chicken from the marinade and cook in the skillet until browned on all sides.",
+    "Transfer the chicken to a baking dish and bake in the oven for 20 minutes.",
+    "While the chicken is baking, slice the onion and mince the garlic.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by slicing the cooked chicken and placing it onto a tortilla, then topping with the cooked onion and garlic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "banana-leaf",
+    "mexican",
+    "post-workout",
+    "sattvic",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-malty-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malty-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:52:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "cumin",
+    "diet": "ayurvedic-sattvic",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty malty",
+    "dishForm": "Tacos"
+  }
+}
