@@ -1,0 +1,93 @@
+{
+  "title": "Heavy Honeyed Egyptian Date Cake",
+  "description": "A sweet and juicy Egyptian dessert featuring icing sugar and a unique ferment-kimchi twist, made vegan-friendly with plant-based ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "icing sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": "maple syrup for vegan"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, icing sugar, and baking powder.",
+    "In a separate bowl, mix together the dates, ferment kimchi, honey, and coconut oil.",
+    "Add the vanilla extract to the wet ingredients and stir well.",
+    "Combine the wet and dry ingredients and mix until a smooth batter forms.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Bake for 35 minutes or until a toothpick comes out clean.",
+    "Remove the cake from the oven and let it cool completely.",
+    "Once the cake is cool, slice it into squares and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "date-based",
+    "middle-eastern",
+    "sweet-treats",
+    "unique-desserts",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "heavy-honeyed-egyptian-date-cake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavy-honeyed-egyptian-date-cake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:28:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "icing sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dates",
+    "descriptor": "heavy honeyed",
+    "dishForm": "Cake"
+  }
+}
