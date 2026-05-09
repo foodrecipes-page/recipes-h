@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Smoky Canadian Gruyere Gratin",
+  "description": "A rich and creamy dish featuring smoky Canadian Gruyere cheese, this gratin is perfect for a cold winter night, and can be served with raw or lightly cooked ingredients to suit your taste.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "2 cups",
+      "notes": "smoked"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the potatoes for 5 minutes, or until they are slightly tender.",
+    "Drain the potatoes and set them aside to cool.",
+    "In a large skillet, saute the sliced onions and minced garlic over medium heat until they are softened and lightly browned.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, then a layer of the onion and garlic mixture, and finally a sprinkle of Gruyere cheese.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "In a small bowl, mix together the heavy cream, dried thyme, salt, and pepper, then pour the mixture over the top layer of cheese.",
+    "Dot the top of the gratin with the butter and cover the dish with aluminum foil.",
+    "Bake the gratin for 30 minutes, then remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "gratin",
+    "smoky",
+    "vegetarian",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-smoky-canadian-gruyere-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-canadian-gruyere-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:03:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "smoke-cold",
+    "primaryIngredient": "gruy re",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Gratin"
+  }
+}

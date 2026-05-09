@@ -7016,6 +7016,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-canadian-gruyere-gratin",
+    "title": "Hearty Smoky Canadian Gruyere Gratin",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "gratin",
+      "smoky",
+      "vegetarian",
+      "winter-dish"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 80,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-greek-vegetable-dolmades",
     "title": "Hearty Smoky Greek Vegetable Dolmades",
     "tags": [
