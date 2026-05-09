@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Croatian Goat Kebabs",
+  "description": "A salty and creamy Croatian dish featuring goat meat, perfect for a post-workout meal, made with a unique flambe technique and cooked on a salt block, egg-free friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flambe liquid",
+      "amount": "1/4 cup",
+      "notes": "such as cognac or rum"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees for 30 minutes.",
+    "Thread the goat meat cubes onto skewers.",
+    "Brush the skewers with olive oil and season with garlic, paprika, salt, and black pepper.",
+    "Place the skewers on the preheated salt block and cook for 10 minutes per side.",
+    "Meanwhile, mix the sour cream and chives in a bowl.",
+    "Remove the skewers from the salt block and flambe with the flambe liquid.",
+    "Serve the kebabs with the sour cream and chive sauce.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "goat-meat",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "salt-block",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "hearty-croatian-goat-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-croatian-goat-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:54:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "goat meat",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "goat meat",
+    "descriptor": "hearty flambeed",
+    "dishForm": "Kebabs"
+  }
+}

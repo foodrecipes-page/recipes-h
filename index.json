@@ -2214,6 +2214,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-croatian-goat-kebabs",
+    "title": "Hearty Croatian Goat Kebabs",
+    "tags": [
+      "croatian-cuisine",
+      "goat-meat",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "salt-block",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-croatian-gorgonzola-pasta",
     "title": "Hearty Croatian Gorgonzola Pasta",
     "tags": [
