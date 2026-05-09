@@ -1,0 +1,89 @@
+{
+  "title": "Hearty Silky Vietnamese Oat Porridge",
+  "description": "A jammy and silky Vietnamese dish featuring porridge oats and kombu cold extract, perfect for a comforting breakfast",
+  "cuisine": "vietnamese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "preferably old fashioned"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "peeled and sliced thinly"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil over high heat",
+    "Add the oats, kombu cold extract, and salt, then reduce the heat to low and simmer for 20 minutes",
+    "Stir in the coconut milk and cook for an additional 5 minutes",
+    "Add the sliced ginger and cook for 2 minutes",
+    "Use an immersion blender to puree the porridge until smooth",
+    "Alternatively, transfer the porridge to a blender and blend until smooth, then return it to the pot",
+    "Add the minced garlic and cook for 1 minute",
+    "Taste and adjust the seasoning as needed",
+    "Serve the porridge hot, garnished with chopped scallions or other desired toppings"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy-breakfast",
+    "one-pot",
+    "vietnamese-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "hearty-silky-vietnamese-oat-porridge",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-vietnamese-oat-porridge",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:52:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "porridge oats",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "oats",
+    "descriptor": "hearty silky",
+    "dishForm": "Porridge"
+  }
+}
