@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Scottish Puy Lentils Cottage Pie",
+  "description": "A nutty and molten Scottish dish featuring puy lentils, perfect for a post-workout meal, baked to perfection in a wood-fired oven and served in a lazy Susan spinner.",
+  "cuisine": "Scottish",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large pot, bring the puy lentils and 2 cups of water to a boil, then reduce the heat and simmer for 20 minutes.",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, carrots, and potatoes to the pan and cook until the vegetables are tender.",
+    "Stir in the tomato paste, olive oil, salt, and pepper.",
+    "In a large bowl, combine the cooked lentils and the meat and vegetable mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional chopped potatoes.",
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potatoes are golden brown.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving.",
+    "Serve the cottage pie hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "scottish",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-scottish-puy-lentils-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-scottish-puy-lentils-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:15:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "puy-lentils",
+    "diet": "high-protein",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "puy lentils",
+    "descriptor": "Hearty High Protein",
+    "dishForm": "Cottage Pie"
+  }
+}
