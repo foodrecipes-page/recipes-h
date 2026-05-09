@@ -1,0 +1,96 @@
+{
+  "title": "Hydrated Light Chinese Apple Tagine",
+  "description": "A fermented and springy Chinese dish from Zhejiang featuring apples, made in a ceramic tagine and dehydrated for a low-sodium friendly meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "4",
+      "notes": "Granny Smith or other firm variety"
+    },
+    {
+      "name": "Chinese fermented bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender or food processor, combine the fermented bean paste, ginger, and garlic, and blend until smooth.",
+    "In a large ceramic tagine, combine the blended paste, apples, green onions, rice vinegar, and sesame oil.",
+    "Add the water to the tagine and stir to combine.",
+    "Cover the tagine with a lid and bake for 2 hours.",
+    "Remove the tagine from the oven and let it cool to room temperature.",
+    "Once cooled, place the tagine in the refrigerator to chill for at least 2 hours.",
+    "Before serving, dehydrate the apple mixture in a low-temperature oven or dehydrator for 1 hour.",
+    "Serve the hydrated light Chinese apple tagine chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dehydrated",
+    "fermented",
+    "low-sodium",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "hydrated-light-chinese-apple-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hydrated-light-chinese-apple-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:34:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "dehydrate",
+    "primaryIngredient": "apples",
+    "diet": "low-sodium",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "apples",
+    "descriptor": "hydrated light",
+    "dishForm": "Tagine"
+  }
+}
