@@ -5722,6 +5722,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-malty-german-barley-pilaf",
+    "title": "Hearty Malty German Barley Pilaf",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "german-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-malty-korean-pecan-kalguksu",
     "title": "Hearty Malty Korean Pecan Kalguksu",
     "tags": [
