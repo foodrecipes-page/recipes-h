@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Crispy Italian Grape Tomatoes Pasta",
+  "description": "A comforting Italian dish featuring crispy grape tomatoes and pasta, pressure-cooked to perfection, with a sour and satisfying taste, kosher-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the halved grape tomatoes.",
+    "Cook the grape tomatoes for 5 minutes, stirring occasionally, until they start to release their juices and become tender.",
+    "Add the minced garlic, red pepper flakes, salt, and black pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Stir in the grated parmesan cheese and cook until melted and well combined.",
+    "Add the cooked pasta to the skillet, tossing to combine with the tomato mixture.",
+    "Squeeze the lemon juice over the pasta and toss to coat.",
+    "Season with additional salt and black pepper if needed.",
+    "Garnish with chopped fresh basil and serve immediately.",
+    "For an extra crispy top, place the pasta under the broiler for 2-3 minutes, watching carefully to avoid burning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-cuisine",
+    "kosher-friendly",
+    "one-pot",
+    "pasta-dishes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-crispy-italian-grape-tomatoes-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-italian-grape-tomatoes-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:56:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "kosher",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "Hearty Crispy",
+    "dishForm": "Pasta"
+  }
+}
