@@ -1374,6 +1374,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-american-epoisses-casserole",
+    "title": "Hearty American Epoisses Casserole",
+    "tags": [
+      "american-classic",
+      "casserole",
+      "cheesy",
+      "comfort-food",
+      "ground-beef",
+      "hearty",
+      "meal-prep"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-american-fregola-hash",
     "title": "American Fregola Hash",
     "tags": [

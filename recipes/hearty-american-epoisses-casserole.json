@@ -1,0 +1,104 @@
+{
+  "title": "Hearty American Epoisses Casserole",
+  "description": "A rich and satisfying American casserole featuring the bold flavors of epoisses cheese, crispy fried onions, and savory ground beef, perfect for a comforting meal prep dinner.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "epoisses cheese",
+      "amount": "8 ounces",
+      "notes": "crumbled"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fried onions",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the flour to the skillet and stir to combine, cooking for 1 minute.",
+    "Gradually stir in the beef broth and milk, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook, stirring occasionally, until it has thickened slightly.",
+    "Stir in the crumbled epoisses cheese until it is fully melted and the mixture is smooth.",
+    "Add the frozen peas and carrots, salt, and pepper to the skillet, stirring to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the fried onions.",
+    "Dot the top of the casserole with the unsalted butter.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "ground-beef",
+    "hearty",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-american-epoisses-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-american-epoisses-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:58:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "epoisses",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Hearty",
+    "dishForm": "Casserole"
+  }
+}
