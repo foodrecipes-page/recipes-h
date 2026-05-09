@@ -1,0 +1,114 @@
+{
+  "title": "Heavily Ginger Croatian Monsoon Stew",
+  "description": "A citrusy and bouncy-qq monsoon Croatian dish featuring ginger, perfect for a rainy day in Dalmatia. This vegan-friendly stew is best served in a claypot.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "3 inches",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Broth",
+      "amount": "4 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a claypot over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add carrots and potatoes and cook for 5 minutes, until slightly tender.",
+    "Add zucchini and cook for 3 minutes, until slightly tender.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Pour in broth and bring to a boil.",
+    "Stir in ginger, lemon juice, and kale. ",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "heavily-ginger-croatian-monsoon-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavily-ginger-croatian-monsoon-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "ginger",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "monsoon",
+    "descriptor": "heavily ginger",
+    "dishForm": "stew"
+  }
+}
