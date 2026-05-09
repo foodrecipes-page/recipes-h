@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Dense Syrian Lamb Kebabs",
+  "description": "A festive Syrian dish featuring ground annatto and tandoor, these lamb kebabs are winey, dense, and low-glycemic-friendly. Perfect for special occasions or gatherings.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground annatto, red wine, olive oil, garlic, onion, salt, and black pepper.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the tandoor or oven and cook for 15-20 minutes, or until the lamb is cooked through.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, these kebabs are served with a side of bulgur or rice.",
+    "You can also serve with a simple salad or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "lamb-recipes",
+    "low-glycemic",
+    "middle-eastern",
+    "syrian-cuisine",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-dense-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:19:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "tandoor",
+    "primaryIngredient": "ground annatto",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Kebabs"
+  }
+}
