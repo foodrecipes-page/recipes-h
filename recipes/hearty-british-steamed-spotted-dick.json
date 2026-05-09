@@ -1,0 +1,93 @@
+{
+  "title": "Hearty British Steamed Spotted Dick",
+  "description": "A traditional British dessert featuring ground ginger and steamed to perfection, this spotted dick is a cultured and snappy treat, wood-fired-baked and nut-free-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or vegetable suet"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried fruit",
+      "amount": "1 cup",
+      "notes": "currants and raisins"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 300 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the suet, brown sugar, ground ginger, and mixed spice.",
+    "Add the dried fruit, brandy, eggs, and milk to the bowl and mix until a dough forms.",
+    "Wrap the dough in parchment paper and steam for 2 hours.",
+    "Remove the spotted dick from the steamer and let it cool for 10 minutes.",
+    "Serve the spotted dick warm, sliced and topped with custard or cream.",
+    "If desired, bake the spotted dick in the wood-fired oven for an additional 10 minutes to give it a crispy crust.",
+    "Let the spotted dick cool completely before storing it in an airtight container."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "homemade",
+    "nut-free",
+    "steamed-dessert",
+    "traditional-british",
+    "vegetarian-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "hearty-british-steamed-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-british-steamed-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:46:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ground ginger",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "suited to ground ginger",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Spotted Dick"
+  }
+}
