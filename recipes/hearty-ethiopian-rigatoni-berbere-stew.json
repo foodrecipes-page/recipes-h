@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Ethiopian Rigatoni Berbere Stew",
+  "description": "A tangy and chewy Ethiopian dish featuring rigatoni in a rich berbere stew, perfect for a cold winter's night, this wood-fired-bake inspired stew is dairy-free-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "wood-fired-bake inspired"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the rigatoni according to package instructions and set aside.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Add the cooked rigatoni to the pot and stir to combine.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "ethiopian-cuisine",
+    "hearty-stew",
+    "one-pot",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-ethiopian-rigatoni-berbere-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ethiopian-rigatoni-berbere-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:17:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rigatoni",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Hearty",
+    "dishForm": "Berbere Stew"
+  }
+}
