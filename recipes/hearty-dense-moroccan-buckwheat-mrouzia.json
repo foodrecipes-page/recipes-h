@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Dense Moroccan Buckwheat Mrouzia",
+  "description": "A rich and savory Moroccan dish featuring buckwheat, slow cooked in a iron teppan, wrapped in a flaky crust, perfect for a cold winter night, this recipe is ayurvedic tamasic friendly and full of umami flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "2 cups",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "2 tablespoons",
+      "notes": "mrouzia blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the toasted buckwheat, chopped onion, sliced mushrooms, olive oil, mrouzia spices, salt, and black pepper.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the buckwheat mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the mrouzia in the preheated iron teppan and bake for 45 minutes.",
+    "Reduce the heat to 325 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the mrouzia from the teppan and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "gluten-free",
+    "moroccan",
+    "mrouzia",
+    "one-pan",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-dense-moroccan-buckwheat-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dense-moroccan-buckwheat-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:20:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "buckwheat",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Hearty Dense",
+    "dishForm": "Mrouzia"
+  }
+}
