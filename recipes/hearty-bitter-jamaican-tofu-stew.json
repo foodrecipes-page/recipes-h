@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Bitter Jamaican Tofu Stew",
+  "description": "A quick-fix Jamaican dish featuring tofu, bitter flavors, and chewy texture, cooked in a ttukbaegi earthenware pot on a lazy susan spinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the ttukbaegi earthenware pot over medium heat on the lazy susan spinner.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced bitter melon and cook until it starts to soften.",
+    "Add the chopped scotch bonnet peppers and cook for 1 minute.",
+    "Add the cubed tofu and cook until it is lightly browned on all sides.",
+    "Add the thyme, allspice, and vegetable broth to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-inspired",
+    "high-protein",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-bitter-jamaican-tofu-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-bitter-jamaican-tofu-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:35:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "tofu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "tofu",
+    "descriptor": "hearty bitter",
+    "dishForm": "Stew"
+  }
+}
