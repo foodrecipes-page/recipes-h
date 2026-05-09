@@ -1,0 +1,120 @@
+{
+  "title": "Honeyed Hot Mediterranean White Fish En-Croute",
+  "description": "A sweet and savory Mediterranean dish featuring white fish, en-croute, with a malty and cheesy flavor profile. This recipe is perfect for a dinner party or special occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400F (200C).",
+    "Thaw the puff pastry sheet according to the package instructions.",
+    "Cut the white fish fillets into 4 equal pieces.",
+    "In a small bowl, mix together honey, lemon juice, olive oil, garlic, oregano, salt, black pepper, and red pepper flakes.",
+    "Brush the mixture onto both sides of the fish pieces.",
+    "Place the fish pieces on one half of the puff pastry sheet, leaving a 1-inch border around the edges.",
+    "Sprinkle crumbled feta cheese over the fish pieces.",
+    "Fold the other half of the puff pastry sheet over the fish and press the edges to seal.",
+    "Cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the en-croute on a baking sheet lined with parchment paper and bake for 12-15 minutes, or until the pastry is golden brown and the fish is cooked through.",
+    "Remove the en-croute from the oven and sprinkle with chopped parsley.",
+    "Let the en-croute rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "main-course",
+    "mediterranean",
+    "pastry",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "honeyed-hot-mediterranean-white-fish-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-hot-mediterranean-white-fish-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "en-croute",
+    "primaryIngredient": "white fish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "White Fish",
+    "descriptor": "Honeyed Hot",
+    "dishForm": "En-Croute"
+  }
+}
