@@ -1,0 +1,99 @@
+{
+  "title": "Hot Crunchy Indian Cheese Pakora",
+  "description": "A bitter, molten, midnight-craving Indian dish featuring shredded Monterey Jack cheese, served in a bento box as a pakora.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "Ferment jang",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together chickpea flour, rice flour, salt, and baking soda.",
+    "Gradually add water to the bowl and mix until a smooth batter forms.",
+    "Add shredded cheese and ferment jang to the batter and mix well.",
+    "Heat vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small amounts of the cheese batter into the hot oil.",
+    "Fry the pakora until golden brown and crispy, about 3-4 minutes on each side.",
+    "Remove the pakora from the oil with a slotted spoon and drain on paper towels.",
+    "Garnish with chopped cilantro and serve hot in a bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "cheese-pakora",
+    "indian-snack",
+    "midnight-craving",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "hot-crunchy-indian-cheese-pakora",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-crunchy-indian-cheese-pakora",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:58:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "ferment-jang",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "shojin",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cheese",
+    "descriptor": "Hot Crunchy",
+    "dishForm": "Pakora"
+  }
+}

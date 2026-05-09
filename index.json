@@ -12526,6 +12526,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-crunchy-indian-cheese-pakora",
+    "title": "Hot Crunchy Indian Cheese Pakora",
+    "tags": [
+      "bento-box",
+      "cheese-pakora",
+      "indian-snack",
+      "midnight-craving",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hot-gooey-japanese-rocket-yakitori",
     "title": "Hot Gooey Japanese Rocket Yakitori",
     "tags": [
