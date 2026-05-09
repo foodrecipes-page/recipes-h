@@ -1,0 +1,107 @@
+{
+  "title": "Herb Crunchy Italian Chicken Pilaf",
+  "description": "A nutty and crunchy Italian dish featuring rice wine and dry-brined chicken, perfect for meal prep and anti-inflammatory diets, served on a slate tile vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rice wine, olive oil, thyme, rosemary, garlic powder, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat, then let it dry-brine for 30 minutes.",
+    "In a large saucepan, bring the chicken broth to a boil.",
+    "Add the uncooked rice to the saucepan, cover, reduce heat to low, and simmer for 18 minutes.",
+    "While the rice is cooking, spread the toasted pine nuts on a baking sheet and bake for 5 minutes.",
+    "Remove the chicken from the marinade and bake on a slate tile vessel in the oven for 20 minutes.",
+    "Fluff the cooked rice with a fork and stir in the toasted pine nuts.",
+    "Serve the chicken on top of the rice pilaf.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "high-protein",
+    "italian-food",
+    "one-pan",
+    "rice-bowls",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "herb-crunchy-italian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-crunchy-italian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:34:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "brine-dry",
+    "primaryIngredient": "rice wine",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "herb crunchy",
+    "dishForm": "Pilaf"
+  }
+}
