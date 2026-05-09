@@ -4232,6 +4232,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-german-potato-casserole",
+    "title": "Hearty German Potato Casserole",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "one-pan",
+      "potato-dish",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-german-sausage-skillet",
     "title": "Hearty German Sausage Skillet",
     "tags": [
