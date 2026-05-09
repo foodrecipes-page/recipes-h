@@ -1,0 +1,87 @@
+{
+  "title": "Hearty Brazilian Date Skewers",
+  "description": "Fatty and pillowy, these cozy Brazilian date skewers are a delicious kosher friendly treat, served on a lazy susan spinner for easy access.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "Cut the bacon slices in half and wrap each date with a piece of bacon, securing with a toothpick if needed.",
+    "In a small bowl, mix together the brown sugar, soy sauce, garlic powder, and black pepper.",
+    "Brush the mixture evenly onto the bacon wrapped dates.",
+    "Thread the dates onto skewers, leaving a small space between each date.",
+    "Brush the olive oil onto the grill to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the bacon is crispy and golden brown.",
+    "Serve the skewers on a lazy susan spinner and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "brazilian-cuisine",
+    "grilled",
+    "kosher-friendly",
+    "snack",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "hearty-brazilian-date-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-brazilian-date-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:15:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "stoned dates",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "dates",
+    "descriptor": "hearty pillowy",
+    "dishForm": "Skewers"
+  }
+}
