@@ -1,0 +1,97 @@
+{
+  "title": "Healthy Smoked Canadian Smoked Salmon Skewers",
+  "description": "A funky and tender crowd-pleaser featuring smoked salmon, this dish is perfect for any occasion, with a hint of yellow food colouring for added fun",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "1 pound",
+      "notes": "wild caught"
+    },
+    {
+      "name": "yellow food colouring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 225 degrees Fahrenheit",
+    "Cut the smoked salmon into 1 inch pieces and set aside",
+    "In a small bowl, mix together the lemon juice, olive oil, garlic powder, salt, and black pepper",
+    "Add the yellow food colouring to the bowl and mix until combined",
+    "Thread the salmon pieces onto skewers, leaving a small space between each piece",
+    "Brush the skewers with the lemon juice mixture",
+    "Place the skewers in the smoker and smoke for 30 minutes",
+    "Add the wood chips to the smoker and continue to smoke for an additional 10 minutes",
+    "Remove the skewers from the smoker and garnish with chopped parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "crowd-pleaser",
+    "healthy-snack",
+    "paleo-friendly",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "healthy-smoked-canadian-smoked-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-smoked-canadian-smoked-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:49:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "healthy smoked",
+    "dishForm": "Skewers"
+  }
+}
