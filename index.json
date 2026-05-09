@@ -1947,6 +1947,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-canadian-beef-wrap",
+    "title": "Hearty Canadian Beef Wrap",
+    "tags": [
+      "beef-recipes",
+      "canadian-cuisine",
+      "comfort-food",
+      "easy-dinner",
+      "fondue-pot",
+      "healthy-eating",
+      "low-calorie"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-canadian-chicken-skewers",
     "title": "Hearty Canadian Chicken Skewers",
     "tags": [

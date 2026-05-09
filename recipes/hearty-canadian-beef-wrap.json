@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Canadian Beef Wrap",
+  "description": "A comforting Canadian dish featuring beef, peach juice, and a unique twist on the traditional ssam-wrap, all served in a fondue pot. This low-calorie-friendly meal is perfect for a chilly evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ssam-wrap leaves",
+      "amount": "8-10"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "low-fat cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fondue broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue broth in the fondue pot to 180 degrees Fahrenheit.",
+    "Add the sliced mushrooms and onions to the fondue pot and cook until they are tender.",
+    "Add the beef strips to the fondue pot and cook until they are browned.",
+    "Add the garlic, peach juice, and low-fat cheese to the fondue pot and stir until the cheese is melted.",
+    "Prepare the ssam-wrap leaves by rinsing them in cold water and patting them dry.",
+    "Assemble the wraps by placing a portion of the beef mixture onto a ssam-wrap leaf and serving immediately.",
+    "Serve the wraps with additional fondue broth for dipping.",
+    "Garnish with chopped fresh herbs, such as parsley or chives."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "canadian-cuisine",
+    "comfort-food",
+    "easy-dinner",
+    "fondue-pot",
+    "healthy-eating",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-canadian-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-canadian-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:02:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "peach juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "hearty homemade",
+    "dishForm": "Wrap"
+  }
+}
