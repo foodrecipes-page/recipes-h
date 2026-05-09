@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Savory Japanese Chicken Tendon",
+  "description": "A savory Japanese dish from the Kansai region featuring chicken tendon, served in a cazuela with toast and a hint of dark chocolate, low in sodium and perfect for meal prep. This hearty meal is a unique twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken tendon",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large cazuela, heat the sesame oil over medium heat.",
+    "Add the chicken tendon to the cazuela and cook until browned on all sides.",
+    "Add the soy sauce, sake, and mirin to the cazuela and stir to combine.",
+    "Transfer the cazuela to the preheated oven and bake for 20 minutes.",
+    "While the chicken is cooking, toast the whole wheat bread until crispy.",
+    "Remove the cazuela from the oven and stir in the dark chocolate chips until melted.",
+    "Serve the chicken tendon hot, topped with toasted bread, green onions, and a drizzle of the savory sauce.",
+    "Garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "low-sodium",
+    "meal-prep",
+    "one-pan",
+    "savory",
+    "unique-twist"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-savory-japanese-chicken-tendon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-savory-japanese-chicken-tendon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:42:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "dark chocolate",
+    "diet": "low-sodium",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty savory",
+    "dishForm": "Tendon"
+  }
+}
