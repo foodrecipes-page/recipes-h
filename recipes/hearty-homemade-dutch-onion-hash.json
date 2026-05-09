@@ -1,0 +1,90 @@
+{
+  "title": "Hearty Homemade Dutch Onion Hash",
+  "description": "A rich and savory Dutch dish featuring caramelized onions and tempered chocolate, perfect for a lazy Sunday morning. This Whole30-friendly recipe is cooked to perfection in a scallop shell vessel.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "2 ounces",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, caramelize the onions over medium-low heat for 20 minutes, stirring occasionally.",
+    "In a double boiler, melt the dark chocolate, stirring occasionally.",
+    "Temper the chocolate by cooling it to around 82 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the caramelized onions, tempered chocolate, and chopped scallions to the bowl and stir to combine.",
+    "Spoon the mixture into 4 scallop shells.",
+    "Bake the hash for 15 minutes, or until the eggs are set.",
+    "Remove the hash from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipes",
+    "dutch-cuisine",
+    "gluten-free",
+    "lazy-sunday",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-homemade-dutch-onion-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-dutch-onion-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:17:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "onions",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "onions",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Hash"
+  }
+}
