@@ -5984,6 +5984,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-pungent-australian-lettuce-stew",
+    "title": "Hearty Pungent Australian Lettuce Stew",
+    "tags": [
+      "australian",
+      "buddhist-friendly",
+      "copper-pot",
+      "hearty-stew",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-rich-greek-lamb-stew",
     "title": "Hearty Rich Greek Lamb Stew",
     "tags": [

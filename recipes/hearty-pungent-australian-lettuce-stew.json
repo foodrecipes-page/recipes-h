@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Pungent Australian Lettuce Stew",
+  "description": "A pungent and chewy solo dinner dish from Australia featuring lettuce, cooked in a copper pot, inspired by Buddhist temple cuisine, and traditionally prepared in a ttukbaegi earthenware cook vessel.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "2 heads",
+      "notes": "preferably Australian crisphead lettuce"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a copper pot over medium heat.",
+    "Add the sliced onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the lettuce, vegetable broth, tomato paste, thyme, salt, and black pepper to the pot.",
+    "Stir well to combine, then bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lettuce is tender, about 20 minutes.",
+    "Serve the stew hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "buddhist-friendly",
+    "copper-pot",
+    "hearty-stew",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-pungent-australian-lettuce-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-pungent-australian-lettuce-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:46:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "lettuce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lettuce",
+    "descriptor": "hearty pungent",
+    "dishForm": "Stew"
+  }
+}
