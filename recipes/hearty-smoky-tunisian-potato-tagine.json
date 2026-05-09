@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Smoky Tunisian Potato Tagine",
+  "description": "A smoky and indulgent Tunisian dish featuring baby new potatoes, this recipe is perfect for a special occasion. It is low-carb-friendly and served in a lazy-susan-spinner vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes with 2 tablespoons of olive oil, smoked paprika, garlic, salt, and pepper until they are evenly coated.",
+    "Transfer the potatoes to a lazy-susan-spinner vessel and roast in the oven for 30 minutes.",
+    "In a small bowl, whisk together the chicken broth and diced tomatoes.",
+    "Pour the broth and tomato mixture over the potatoes and continue to roast for an additional 20 minutes.",
+    "Remove the vessel from the oven and let it cool for a few minutes.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro if desired.",
+    "Traditionally, namul-blanch-season is used to cook the potatoes, but roasting brings out their natural sweetness.",
+    "To blanch the potatoes, boil them in salted water for 5 minutes before roasting."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "potato",
+    "smoky",
+    "special-occasion",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hearty-smoky-tunisian-potato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-tunisian-potato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:54:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Tagine"
+  }
+}
