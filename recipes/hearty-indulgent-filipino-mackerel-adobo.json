@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Indulgent Filipino Mackerel Adobo",
+  "description": "A fresh and snappy Filipino dish featuring mackerel in a rich adobo sauce, made with lardons-render and vegan-friendly ingredients. This indulgent recipe is perfect for a special occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 piece",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the lardons in a large saucepan over medium heat until crispy.",
+    "Remove the crispy lardons from the saucepan and set aside.",
+    "Add the minced garlic and chopped onion to the saucepan and saute until fragrant.",
+    "Add the mackerel fillets to the saucepan and cook for 2 minutes on each side.",
+    "Add the soy sauce, vinegar, bay leaves, and black pepper to the saucepan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Return the crispy lardons to the saucepan and stir to combine.",
+    "Serve the mackerel adobo hot, garnished with chopped green onions and steamed rice on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adobo",
+    "filipino-cuisine",
+    "indulgent",
+    "seafood",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "hearty-indulgent-filipino-mackerel-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indulgent-filipino-mackerel-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:34:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "mackerel",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mackerel",
+    "descriptor": "Hearty Indulgent",
+    "dishForm": "Adobo"
+  }
+}
