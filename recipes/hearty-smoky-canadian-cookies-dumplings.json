@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Smoky Canadian Cookies Dumplings",
+  "description": "A smoky and silky Canadian dish featuring cookies and dumplings, perfect for a special occasion, and is halal-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chocolate chip cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, oats, baking soda, salt, and smoked paprika.",
+    "In a separate bowl, mix together the melted butter and brown sugar.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Fold in the crushed chocolate chip cookies.",
+    "Drop the dough by tablespoonfuls onto a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, or until the edges are lightly golden.",
+    "While the dumplings are baking, bring the water to a boil in a large saucepan.",
+    "Once the dumplings are done, carefully add them to the boiling water and cook for an additional 5 minutes.",
+    "Serve the dumplings warm, garnished with additional crushed cookies if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "dessert-ideas",
+    "halal-friendly",
+    "smoky-flavors",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "hearty-smoky-canadian-cookies-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-canadian-cookies-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:34:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "cookies",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cookies",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Cookies"
+  }
+}
