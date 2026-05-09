@@ -1,0 +1,94 @@
+{
+  "title": "Hearty French Semolina Gratin",
+  "description": "A comforting, malty French dish featuring semolina, perfect for a sick day. This gratin is brine-dry and free from onion and garlic.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups",
+      "notes": "rimacinata style"
+    },
+    {
+      "name": "milk",
+      "amount": "3 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, bring the milk to a boil.",
+    "Gradually whisk in the semolina and reduce heat to low.",
+    "Cook, stirring constantly, until the mixture thickens.",
+    "Remove from heat and stir in the butter until melted.",
+    "In a separate bowl, whisk together the egg and heavy cream.",
+    "Stir the egg mixture into the semolina mixture.",
+    "Transfer the mixture to a baking dish and top with gruyere cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "gratin",
+    "homestyle",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "hearty-french-semolina-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-semolina-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:35:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "semolina",
+    "descriptor": "Hearty",
+    "dishForm": "Gratin"
+  }
+}

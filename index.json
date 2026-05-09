@@ -3650,6 +3650,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-semolina-gratin",
+    "title": "Hearty French Semolina Gratin",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "gratin",
+      "homestyle",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-french-spaghetti-pasta",
     "title": "Hearty French Spaghetti Pasta",
     "tags": [
