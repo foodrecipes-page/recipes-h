@@ -1,0 +1,94 @@
+{
+  "title": "Hot Crispy Algerian Feta Kebabs",
+  "description": "A quick and crispy Algerian dish featuring cubed feta cheese, render fat, and a binchotan grill, perfect for a keto friendly snack.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "12 oz",
+      "notes": "cubed"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "Thread the cubed feta cheese onto skewers, leaving a small space between each cube.",
+    "Brush the render fat onto the feta cheese, making sure each cube is fully coated.",
+    "Sprinkle the paprika, garlic powder, salt, and black pepper onto the feta cheese.",
+    "Drizzle the lemon juice onto the feta cheese.",
+    "Place the skewers onto the preheated grill and cook for 5 minutes per side, or until crispy and golden brown.",
+    "Remove the skewers from the grill and garnish with chopped parsley, if desired.",
+    "Serve the hot crispy Algerian feta kebabs immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "grilled-cheese",
+    "keto-friendly",
+    "low-carb",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "hot-crispy-algerian-feta-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-crispy-algerian-feta-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:09:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Hot Crispy",
+    "dishForm": "Kebabs"
+  }
+}
