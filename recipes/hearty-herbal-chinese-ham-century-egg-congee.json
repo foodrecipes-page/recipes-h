@@ -1,0 +1,104 @@
+{
+  "title": "Hearty Herbal Chinese Ham Century Egg Congee",
+  "description": "A cultured and springy Chinese dish featuring ham and century eggs, perfect for a date night, this congee is made in a paella pan and is jain-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "Century eggs",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ferment jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a paella pan over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the diced Chinese ham and cook until browned.",
+    "Add the sliced century eggs and cook for 2 minutes.",
+    "Add the rice and stir to combine with the ham and eggs.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the ferment jang, sesame oil, and salt.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "comfort-food",
+    "date-night",
+    "hearty",
+    "jain-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-herbal-chinese-ham-century-egg-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-chinese-ham-century-egg-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:13:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "ham",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "ham",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Century Egg Congee"
+  }
+}
