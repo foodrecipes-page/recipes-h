@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Indulgent Jamaican Cheese Grill",
+  "description": "A fresh and indulgent Jamaican dish featuring melted cheese, pickles, and grilled goodness, suitable for shojin-friendly diets. This recipe combines the flavors of Jamaica with the comfort of a cheese grill.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "Jamaican jerk cheese",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, around 375 degrees Fahrenheit.",
+    "Butter one side of each bread slice with olive oil and sprinkle with salt and black pepper.",
+    "Place two bread slices, buttered side down, on the grill.",
+    "Top each bread slice with a slice of Jamaican jerk cheese, a few slices of dill pickle, some red onion, and a sprinkle of chopped cilantro.",
+    "Place the remaining bread slices, buttered side up, on top of the filling.",
+    "Grill for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Carefully flip the sandwiches over and grill for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Remove the sandwiches from the grill and sprinkle with Jamaican jerk seasoning.",
+    "Let the sandwiches cool for a minute or two before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cheese",
+    "indulgent-meals",
+    "jamaican-cuisine",
+    "lunch-ideas",
+    "shojin-friendly",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "hearty-indulgent-jamaican-cheese-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indulgent-jamaican-cheese-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:14:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "pickles",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cheese",
+    "descriptor": "Hearty Indulgent",
+    "dishForm": "Grill"
+  }
+}
