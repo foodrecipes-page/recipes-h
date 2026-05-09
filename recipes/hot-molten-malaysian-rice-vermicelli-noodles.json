@@ -1,0 +1,97 @@
+{
+  "title": "Malaysian Rice Vermicelli Noodles",
+  "description": "A light and flavorful Malaysian dish featuring rice vermicelli noodles in a jammy mother sauce, perfect for a low-carb friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice vermicelli noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the garlic and cook for another minute.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Add the coconut milk and stir to combine.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the soy sauce, salt, and pepper, and stir to combine.",
+    "Add the dried rice vermicelli noodles to the saucepan and cook for 3-5 minutes, or until they are soft and jammy.",
+    "Serve the noodles hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "one-pan",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hot-molten-malaysian-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-molten-malaysian-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:24:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "hot molten",
+    "dishForm": "Noodles"
+  }
+}
