@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Silky Korean Beef Bibimbap",
+  "description": "A rich and savory Korean dish featuring slow-cooked beef, kombu, and a variety of vegetables, served over a bed of rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the beef short ribs, kombu, soy sauce, Gochujang, brown sugar, garlic, and 2 cups of water, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Strain the cooking liquid and discard the kombu.",
+    "Add the sesame oil to the cooking liquid and stir to combine.",
+    "In a large skillet, heat 1 tablespoon of the sesame oil over medium-high heat.",
+    "Add the zucchini and shiitake mushrooms to the skillet and cook, stirring occasionally, until they are tender and lightly browned.",
+    "To assemble the bibimbap, place a scoop of cooked white rice in the bottom of a bowl.",
+    "Add a few pieces of the slow-cooked beef on top of the rice.",
+    "Arrange the zucchini and shiitake mushrooms on top of the beef.",
+    "Drizzle the sesame oil cooking liquid over the top of the dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "date-night",
+    "flexitarian",
+    "korean-food",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-silky-korean-beef-bibimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-silky-korean-beef-bibimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:55:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "kombu",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "hearty silky",
+    "dishForm": "Bibimbap"
+  }
+}
