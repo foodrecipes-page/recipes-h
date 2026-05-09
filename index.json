@@ -4898,6 +4898,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-high-protein-portuguese-lardons-hash",
+    "title": "Hearty High Protein Portuguese Lardons Hash",
+    "tags": [
+      "cedar-plank",
+      "comfort-food",
+      "high-protein",
+      "lardons",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-holiday-middle-eastern-pecan-nuts-knafeh",
     "title": "Hearty Holiday Middle Eastern Pecan Nuts Knafeh",
     "tags": [
@@ -8845,6 +8860,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-russian-knafeh-pilaf",
+    "title": "Hearty Spicy Russian Knafeh Pilaf",
+    "tags": [
+      "gluten-free",
+      "low-calorie",
+      "meal-prep",
+      "one-pan",
+      "russian-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {

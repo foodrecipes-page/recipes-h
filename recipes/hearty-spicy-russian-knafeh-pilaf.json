@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Spicy Russian Knafeh Pilaf",
+  "description": "A spicy and springy Russian dish featuring knafeh, perfect for meal prep, served on a talavera plate. This low-calorie-friendly meal is a twist on traditional Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "knafeh",
+      "amount": "1 cup",
+      "notes": "shredded phyllo dough"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "spicy sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1/2 cup",
+      "notes": "such as sauerkraut or kimchi"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the knafeh, brown rice, and smoked paprika.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat and cook the chicken breast until browned.",
+    "Add the sliced spicy sausage to the skillet and cook until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large talavera plate or baking dish, combine the cooked chicken, sausage, onion, and garlic mixture.",
+    "Add the fermented vegetables on top of the mixture.",
+    "Add the knafeh and brown rice mixture on top of the fermented vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 25 minutes or until the knafeh is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "meal-prep",
+    "one-pan",
+    "russian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-spicy-russian-knafeh-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-russian-knafeh-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:02:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "knafeh",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Knafeh",
+    "descriptor": "Hearty Spicy",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Hearty High Protein Portuguese Lardons Hash",
+  "description": "A comforting Portuguese dish featuring crispy lardons and chocolate chips, served on a cedar plank. This high-protein hash is perfect for a sick day or a weeknight meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "thick cut"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the lardons over medium heat until crispy, then set aside.",
+    "In the same skillet, add the diced onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onions and garlic, diced potatoes, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt.",
+    "Add the cooked lardons, chocolate chips, and whisked eggs to the bowl with the potatoes and onions, and stir until everything is well combined.",
+    "Spoon the mixture onto the soaked cedar planks, dividing it evenly among the four planks.",
+    "Bake the hashes in the preheated oven for 25 minutes, or until the eggs are set and the potatoes are tender.",
+    "Remove the hashes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "comfort-food",
+    "high-protein",
+    "lardons",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-high-protein-portuguese-lardons-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-high-protein-portuguese-lardons-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:02:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "chocolate chips",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lardons",
+    "descriptor": "Hearty High Protein",
+    "dishForm": "Hash"
+  }
+}
