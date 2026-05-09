@@ -1,0 +1,111 @@
+{
+  "title": "Hearty Spanish Parma Ham Paella",
+  "description": "A winey and adventurous Spanish dish featuring Parma ham, this keto-friendly paella is a twist on the traditional Valencian recipe, with a glassy-jelly texture from the reduction of white wine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Spanish sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "white wine",
+      "amount": "2 cups",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced Parma ham and cook until crispy, then remove from the pan and set aside.",
+    "Add the chicken breast to the pan and cook until browned on all sides, then remove from the pan and set aside with the ham.",
+    "Add the sliced Spanish sausage to the pan and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the white wine to the pan and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer the wine for 10 minutes, or until it has reduced by half and has a glassy-jelly texture.",
+    "Add the chicken broth, saffron threads, smoked paprika, salt, and black pepper to the pan, stirring to combine.",
+    "Add the cooked chicken breast and Parma ham back to the pan, stirring to combine with the sauce.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the liquid has been absorbed and the paella is hot and flavorful."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "spanish-cuisine",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-spanish-parma-ham-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-parma-ham-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:32:39Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "cure",
+    "primaryIngredient": "parma ham",
+    "diet": "keto",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "parma ham",
+    "descriptor": "hearty savory",
+    "dishForm": "Paella"
+  }
+}
