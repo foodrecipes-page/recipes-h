@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Citrusy Japanese Rice Gyoza",
+  "description": "A Japanese Tohoku dish featuring citrusy and creamy flavors, made with ready rolled shortcrust pastry and fry-grind-rice-khao-khua, perfect for meal prep. This dish is nut-free-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 package",
+      "notes": "ready rolled"
+    },
+    {
+      "name": "cooked Japanese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grind rice khao khuha",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the shortcrust pastry to a thickness of about 1/8 inch.",
+    "In a large bowl, mix together the cooked Japanese rice, grind rice khao khuha, orange marmalade, soy sauce, sesame oil, green onions, salt, and black pepper.",
+    "Place small spoonfuls of the rice mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges together to seal the gyoza.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the gyoza on a baking sheet lined with parchment paper and brush with a little bit of water.",
+    "Bake the gyoza in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve the gyoza hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-gyoza",
+    "citrusy-flavors",
+    "japanese-cuisine",
+    "lunch-ideas",
+    "meal-prep",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "hearty-citrusy-japanese-rice-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-citrusy-japanese-rice-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:45:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "nut-free",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Hearty Citrusy",
+    "dishForm": "Gyoza"
+  }
+}
