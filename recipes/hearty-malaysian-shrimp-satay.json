@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Malaysian Shrimp Satay",
+  "description": "A quick-fix Malaysian dish featuring jumbo shrimp, caramelized to perfection, with an earthy and velvety flavor profile, garlic and onion free.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together coconut milk, coriander powder, cumin powder, palm sugar, fish sauce, lemon juice, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, if using.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the shrimp for 2-3 minutes per side, or until caramelized and cooked through.",
+    "Serve the shrimp satay hot with your choice of sides, such as steamed rice or roasted vegetables.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Repeat with remaining shrimp and marinade."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pan",
+    "quick-fix",
+    "seafood",
+    "shellfish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "hearty-malaysian-shrimp-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malaysian-shrimp-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:16:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Hearty Caramelized",
+    "dishForm": "Satay"
+  }
+}
