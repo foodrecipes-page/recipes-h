@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Winey Italian Ikura Piadina",
+  "description": "A winey and gooey Italian dish featuring ikura and ferment kimchi, perfect for a lacto-vegetarian meal prep option, served in the form of a piadina.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "1 cup",
+      "notes": "Salmon roe"
+    },
+    {
+      "name": "Ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "Spicy fermented Korean cabbage"
+    },
+    {
+      "name": "Piadina dough",
+      "amount": "4 pieces",
+      "notes": "Italian flatbread"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "Shredded lacto-vegetarian cheese"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh basil"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin olive oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the piadina dough to a thickness of about 1/8 inch.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the mozzarella cheese over the dough, leaving a 1/2 inch border around the edges.",
+    "Top the cheese with ikura, ferment kimchi, and chopped fresh basil.",
+    "Drizzle the red wine over the filling, being careful not to overflow.",
+    "Season with salt and black pepper to taste.",
+    "Fold the edges of the dough over the filling to form a piadina.",
+    "Bake the piadina in the preheated oven for 15-20 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ikura",
+    "italian-food",
+    "lacto-vegetarian",
+    "meal-prep",
+    "piadina",
+    "wine-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-winey-italian-ikura-piadina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-winey-italian-ikura-piadina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:25:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "ikura",
+    "diet": "lacto-vegetarian",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ikura",
+    "descriptor": "hearty winey",
+    "dishForm": "Piadina"
+  }
+}
