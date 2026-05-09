@@ -1,0 +1,109 @@
+{
+  "title": "Hearty Indulgent Filipino Pork Bicol Express",
+  "description": "A nutty and springy Filipino dish featuring pork, chili peppers, and coconut milk, served with keto-friendly corn tortillas and fried rice",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "4-6",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6-8",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 head",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat",
+    "Add pork shoulder and cook until browned, about 5 minutes",
+    "Add sliced chili peppers, minced garlic, and chopped onion, and cook until the vegetables are tender",
+    "Pour in coconut milk and stir to combine, bringing the mixture to a simmer",
+    "Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally",
+    "While the sauce is simmering, prepare the cauliflower rice by grating it and frying it in a separate pan with a little coconut oil until crispy",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "Assemble the dish by placing a portion of the pork and sauce onto a tortilla, topping with fried cauliflower rice and serving immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "keto-diet",
+    "one-pan-meal",
+    "pork-recipes",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-indulgent-filipino-pork-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indulgent-filipino-pork-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:18:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "corn tortillas",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "hearty indulgent",
+    "dishForm": "Bicol Express"
+  }
+}
