@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Homemade Russian Cookies",
+  "description": "These garlicky, fluffy cookies are a nostalgic Russian dish featuring a mother-sauce-base, made with kosher-friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In another bowl, cream together the sugar and butter until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the garlic powder.",
+    "Gradually add the flour mixture to the wet ingredients and mix until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness and cut into desired shapes.",
+    "Place the cookies on a baking sheet lined with parchment paper and bake for 12-15 minutes.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "homemade",
+    "kosher",
+    "russian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "hearty-homemade-russian-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-russian-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:30:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cookies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cookies",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Cookies"
+  }
+}
