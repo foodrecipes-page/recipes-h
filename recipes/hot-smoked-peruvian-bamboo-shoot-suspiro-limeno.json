@@ -1,0 +1,94 @@
+{
+  "title": "Hot Smoked Peruvian Bamboo Shoot Suspiro Limeno",
+  "description": "A sour and springy Peruvian dish featuring bamboo shoot, this suspiro limeno is a quick fix for any meal, made with binchotan charcoal for a smoky flavor and is dairy free friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 pound",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the bamboo shoots, if using canned, drain and rinse, if using fresh, peel and slice into thin strips.",
+    "In a large bowl, whisk together lime juice, vegetable oil, minced garlic, grated ginger, smoked paprika, and salt.",
+    "Add the prepared bamboo shoots to the bowl and toss to coat with the marinade.",
+    "Let it marinate for at least 30 minutes to allow the flavors to penetrate.",
+    "Prepare the binchotan charcoal by lighting it and letting it burn until it is covered in a thin layer of ash.",
+    "Once the charcoal is ready, place the marinated bamboo shoots on a heatproof plate or tray and smoke for 10 minutes.",
+    "Remove the bamboo shoots from the smoke and serve immediately, garnished with chopped fresh cilantro if desired.",
+    "Traditionally, suspiro limeno is served in small glasses, so consider serving the bamboo shoots in this way for a more authentic presentation."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "peruvian-cuisine",
+    "quick-snack",
+    "smoked-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "hot-smoked-peruvian-bamboo-shoot-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-peruvian-bamboo-shoot-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:49:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "hot smoked",
+    "dishForm": "Suspiro Limeno"
+  }
+}
