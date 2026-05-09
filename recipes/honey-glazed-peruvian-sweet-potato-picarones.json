@@ -1,0 +1,111 @@
+{
+  "title": "honey-glazed peruvian sweet potato picarones",
+  "description": "sour, fluffy, ayurvedic-tamasic-friendly peruvian dish featuring capers and lardons, perfect for a post-workout snack or dessert",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dusting"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "for lardons-render"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for glaze"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "preheat the iron teppan to 375 \u00164\u00141\u00142\u00141\u00142\u00141\u00142\u00143°f (190°c) or the highest heat setting.",
+    "cut 2 large sweet potatoes into 1-inch pieces and boil in a saucepan until tender, about 15-20 minutes.",
+    "drain sweet potatoes and mash in a large bowl.",
+    "add 1 large egg, 1/4 cup honey, 2 tablespoons capers, 1 tablespoon sugar, 1/2 teaspoon salt, and 1/4 teaspoon black pepper to the bowl and mix until a dough forms.",
+    "dust the iron teppan with 2 cups all-purpose flour.",
+    "using a piping bag or a spoon, create small balls of the dough and drop them onto the preheated teppan.",
+    "fry the picarones until golden brown on the bottom, about 2-3 minutes.",
+    "flip the picarones and fry the other side until golden brown, about 2-3 minutes.",
+    "serve the picarones hot and drizzle with lardons-render and honey glaze.",
+    "using a spoon, drizzle the lardons-render over the picarones in a circular motion.",
+    "using a spoon, drizzle the honey glaze over the picarones in a circular motion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 6,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "dessert",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "honey-glazed-peruvian-sweet-potato-picarones",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-peruvian-sweet-potato-picarones",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "capers",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Honey-Glazed",
+    "dishForm": "Picarones"
+  }
+}

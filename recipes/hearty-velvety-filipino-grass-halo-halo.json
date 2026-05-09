@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Velvety Filipino Grass Halo Halo",
+  "description": "A show-off Filipino dessert featuring dried red chillies and a salt-bake crust, this paleo-friendly halo halo is a unique twist on a classic dish. The combination of grassy and velvety textures creates a truly one-of-a-kind dessert experience.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried red chillies",
+      "amount": "1/4 cup",
+      "notes": "crushed into flakes"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grass jelly",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit to prepare for salt-baking.",
+    "In a small bowl, mix together the crushed dried red chillies and salt.",
+    "Spread the chilli-salt mixture onto a baking sheet lined with parchment paper and bake for 5 minutes.",
+    "In a large bowl, combine the coconut milk, palm sugar, and lemon juice, and stir until the sugar is dissolved.",
+    "Add the diced grass jelly and jackfruit to the bowl and stir to combine.",
+    "In a separate bowl, whip the coconut cream until it forms stiff peaks.",
+    "Fold the whipped coconut cream into the grass jelly mixture until well combined.",
+    "Spoon the mixture into individual serving cups or a large serving dish.",
+    "Top each serving with a spoonful of the crushed ice and a sprinkle of sesame seeds.",
+    "Drizzle with a small amount of coconut milk, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-recipes",
+    "filipino-food",
+    "paleo-diet",
+    "tropical-ingredients",
+    "unique-textures"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-velvety-filipino-grass-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-filipino-grass-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:44:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "dried red chillies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "grass",
+    "descriptor": "hearty velvety",
+    "dishForm": "Halo Halo"
+  }
+}

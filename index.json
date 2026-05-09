@@ -9996,6 +9996,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-velvety-filipino-grass-halo-halo",
+    "title": "Hearty Velvety Filipino Grass Halo Halo",
+    "tags": [
+      "dessert-recipes",
+      "filipino-food",
+      "paleo-diet",
+      "tropical-ingredients",
+      "unique-textures"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-velvety-italian-egg-frittata",
     "title": "Hearty Velvety Italian Egg Frittata",
     "tags": [
@@ -13192,6 +13206,23 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "honey-glazed-peruvian-sweet-potato-picarones",
+    "title": "honey-glazed peruvian sweet potato picarones",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "dessert",
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "post-workout",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 26,
     "shard": "h"
   },
   {
