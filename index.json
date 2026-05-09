@@ -4284,6 +4284,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-herbal-canadian-chicken-stew",
+    "title": "Hearty Herbal Canadian Chicken Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-herbal-canadian-lamb-tagine",
     "title": "Hearty Herbal Canadian Lamb Tagine",
     "tags": [
