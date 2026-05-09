@@ -1,0 +1,106 @@
+{
+  "title": "Hearty Velvety Japanese Pork Tonkotsu Ramen",
+  "description": "A fatty and velvety Japanese ramen dish featuring raisins and pork, made in a cazuela vessel, this recipe is ayurvedic-rajasic-friendly and perfect for a cold winter night.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork bones",
+      "amount": "2 pounds",
+      "notes": "you can also use pork neck bones or rib bones"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tonkotsu ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large cazuela, heat the oil over medium heat and sear the pork bones until browned on all sides.",
+    "Add the sliced onion to the cazuela and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and sliced ginger to the cazuela and cook for 1 minute, until fragrant.",
+    "Add the pork shoulder to the cazuela and cook until it is browned on all sides.",
+    "Add the raisins, soy sauce, and sesame oil to the cazuela and stir to combine.",
+    "Pour in 4 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the mixture for 4 hours, or until the pork is tender and the broth is rich and creamy.",
+    "Cook the tonkotsu ramen noodles according to the package instructions and slice the cooked pork into thin strips.",
+    "To serve, place some noodles in a bowl, add slices of pork, and ladle the hot broth over the top.",
+    "Garnish with sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "one-pot-meal",
+    "pork-recipes",
+    "ramen-noodle-soup",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "hearty-velvety-japanese-pork-tonkotsu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-japanese-pork-tonkotsu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:48:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "marinate",
+    "primaryIngredient": "raisins",
+    "diet": "ayurvedic-rajasic",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Velvety",
+    "dishForm": "Tonkotsu Ramen"
+  }
+}
