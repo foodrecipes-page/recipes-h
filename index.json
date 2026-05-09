@@ -7823,6 +7823,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-sweet-american-ham-bake",
+    "title": "Hearty Sweet American Ham Bake",
+    "tags": [
+      "american-classics",
+      "holiday-meals",
+      "one-pan",
+      "special-occasions",
+      "sweet-and-savory"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 80,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-sweet-canadian-tomato-gratin",
     "title": "Hearty Sweet Canadian Tomato Gratin",
     "tags": [

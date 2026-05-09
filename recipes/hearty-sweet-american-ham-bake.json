@@ -1,0 +1,91 @@
+{
+  "title": "Hearty Sweet American Ham Bake",
+  "description": "A festive and juicy American dish featuring dark soft brown sugar, this hearty bake is perfect for special occasions, with a yeasty twist and a dash of friendly flavors.",
+  "cuisine": "American",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in ham",
+      "amount": "2 pounds",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pineapple rings",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "In a small bowl, mix together the dark brown sugar, honey, Dijon mustard, and black pepper.",
+    "Place the bone-in ham on a baking sheet lined with aluminum foil.",
+    "Brush the sugar and honey mixture evenly over the ham.",
+    "Arrange the pineapple rings and cherries around the ham.",
+    "Sprinkle the yeast over the top of the ham.",
+    "Bake the ham in the preheated oven for 15 minutes per pound.",
+    "Broil the ham for an additional 5 minutes to caramelize the sugar.",
+    "Let the ham rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "holiday-meals",
+    "one-pan",
+    "special-occasions",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-sweet-american-ham-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-sweet-american-ham-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:23:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "ham",
+    "descriptor": "hearty sweet",
+    "dishForm": "Bake"
+  }
+}
