@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Peppery Greek Lamb Keftedes",
+  "description": "A festive Greek dish featuring lamb keftedes with a peppery twist, served in a stone bowl with savoiardi ladyfingers on the side.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "oregano",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "savoiardi ladyfingers",
+      "amount": "12",
+      "notes": "for serving"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped onion, minced garlic, black pepper, salt, and dried oregano.",
+    "Mix the ingredients together with your hands until just combined.",
+    "Use your hands to shape the mixture into small keftedes, about 1 1/2 inches in diameter.",
+    "Place the keftedes on a baking sheet lined with parchment paper.",
+    "Bake the keftedes in the preheated oven for 18 minutes, or until cooked through.",
+    "While the keftedes are baking, prepare the stone bowl by heating it in the oven for 5 minutes.",
+    "Remove the keftedes from the oven and place them in the heated stone bowl.",
+    "Serve the keftedes hot, garnished with lemon wedges and accompanied by savoiardi ladyfingers on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "hearty-dinner",
+    "lamb-recipes",
+    "low-carb",
+    "peppery-flavor",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "hearty-peppery-greek-lamb-keftedes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-peppery-greek-lamb-keftedes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:38:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Hearty Peppery",
+    "dishForm": "Keftedes"
+  }
+}
