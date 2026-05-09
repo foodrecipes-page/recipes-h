@@ -1,0 +1,93 @@
+{
+  "title": "Hickory Honeyed Chinese Corned Beef Char Siu Bao",
+  "description": "A nostalgic twist on the classic Chinese char siu bao, featuring corned beef and a sweet hickory glaze.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yeast",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Hickory Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, sugar, and salt.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of corned beef in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the bao.",
+    "Place the bao on a baking sheet lined with parchment paper.",
+    "Brush the tops with hickory syrup and honey.",
+    "Bake for 15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "frozen-dinner-opposite",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 27,
+    "carbs": 50,
+    "fat": 18
+  },
+  "slug": "hickory-honeyed-chinese-corned-beef-char-siu-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hickory-honeyed-chinese-corned-beef-char-siu-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:38Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "corned beef",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "corned beef",
+    "descriptor": "Hickory Honeyed",
+    "dishForm": "Char Siu Bao"
+  }
+}
