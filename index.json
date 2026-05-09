@@ -7734,6 +7734,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-french-chicken-coq-au-vin",
+    "title": "Hearty Smoky French Chicken Coq Au Vin",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "french-cuisine",
+      "one-pot",
+      "smoky-flavors",
+      "special-occasion"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-german-anchovy-fillet-puff-pastry",
     "title": "Hearty Smoky German Anchovy Fillet Puff Pastry",
     "tags": [
