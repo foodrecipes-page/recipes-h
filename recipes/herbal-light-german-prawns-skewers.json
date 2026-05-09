@@ -1,0 +1,111 @@
+{
+  "title": "Herbal Light German Prawns Skewers",
+  "description": "A light and fluffy German dish featuring raw frozen prawns, cooked in a fondue pot with herbal flavors and deglaze fond, suitable for an ayurvedic rajasic friendly diet.",
+  "cuisine": "German",
+  "diet": [
+    "ayurvedic",
+    "rajasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fond",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Thread the prawns onto skewers, leaving a small space between each prawn.",
+    "Heat the olive oil in a fondue pot over medium heat.",
+    "Add the minced garlic and grated ginger to the fondue pot and cook for 1 minute.",
+    "Add the white wine to the fondue pot and bring to a simmer.",
+    "Add the fond to the fondue pot and stir to combine.",
+    "Add the prawn skewers to the fondue pot and cook for 2-3 minutes per side, or until the prawns are pink and cooked through.",
+    "Remove the prawn skewers from the fondue pot and place on a serving plate.",
+    "Stir in the lemon juice, salt, and black pepper into the fondue pot.",
+    "Serve the prawn skewers with the herbal sauce from the fondue pot spooned over the top.",
+    "Sprinkle the chopped parsley and dill over the top of the prawn skewers.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fondue",
+    "german-cuisine",
+    "herbal",
+    "light-meal",
+    "quick-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "herbal-light-german-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-light-german-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:21:41Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "prawns",
+    "descriptor": "herbal light",
+    "dishForm": "Skewers"
+  }
+}
