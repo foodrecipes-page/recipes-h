@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Tunisian Pork Belly Skillet",
+  "description": "A cultured and creamy Tunisian dish featuring pork belly slices, perfect for a crowd, and made in a cast-iron skillet. This jain-friendly recipe is a delicious and satisfying meal option.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1/2 inch thick pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sliced pork belly to the skillet and cook until it is browned on all sides.",
+    "Add the harissa to the skillet and stir to combine.",
+    "Pour the heavy cream into the skillet and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 10 minutes.",
+    "Add the bread cubes to the skillet and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Serve the skillet hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "comfort-food",
+    "jain-friendly",
+    "one-pan",
+    "pork-belly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "hearty-tunisian-pork-belly-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-tunisian-pork-belly-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:59:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "pork belly slices",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "pork belly",
+    "descriptor": "hearty creamy",
+    "dishForm": "Skillet"
+  }
+}
