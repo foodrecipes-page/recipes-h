@@ -4955,6 +4955,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-homemade-egyptian-chicken-stew",
+    "title": "Hearty Homemade Egyptian Chicken Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-homemade-ethiopian-udon-noodles",
     "title": "Hearty Homemade Ethiopian Udon Noodles",
     "tags": [

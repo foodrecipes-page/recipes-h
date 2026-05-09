@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Homemade Egyptian Chicken Stew",
+  "description": "A briny and gooey Egyptian stew featuring ketchup and glaze, perfect for a sick day, and Whole30-friendly. This dish is made with wholesome ingredients and is easy to make.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast pieces and cook until they are browned on all sides, about 5-7 minutes.",
+    "Add the ketchup, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25 minutes.",
+    "Stir in the pomegranate molasses to create a glaze.",
+    "Serve the stew hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "hearty-homemade-egyptian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-egyptian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:44:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "ketchup",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Stew"
+  }
+}
