@@ -1564,6 +1564,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-argentinian-chicken-empanadas",
+    "title": "Hearty Argentinian Chicken Empanadas",
+    "tags": [
+      "argentinian-cuisine",
+      "chicken-recipes",
+      "deep-fried",
+      "diabetic-friendly",
+      "empanadas",
+      "meal-prep"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-argentinian-fish-empanadas",
     "title": "Hearty Argentinian Fish Empanadas",
     "tags": [

@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Argentinian Chicken Empanadas",
+  "description": "Earthy and pillowy Argentinian dish featuring chicken breasts, deep-fry-tod, diabetic-friendly, vessel=comal",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal or a large skillet over medium heat.",
+    "Season the chicken breasts with salt, black pepper, and paprika.",
+    "Add the olive oil to the preheated comal and cook the chicken breasts until browned and cooked through.",
+    "Let the chicken breasts rest before chopping them into small pieces.",
+    "Add the chopped onion and minced garlic to the comal and cook until the onion is translucent.",
+    "Add the chopped chicken to the comal and stir to combine with the onion and garlic.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the chicken mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fry the empanadas in hot oil until golden brown and crispy.",
+    "Drain the empanadas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "chicken-recipes",
+    "deep-fried",
+    "diabetic-friendly",
+    "empanadas",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "hearty-argentinian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-argentinian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:41:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chicken breasts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "hearty pillowy",
+    "dishForm": "Empanadas"
+  }
+}
