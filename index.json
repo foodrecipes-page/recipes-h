@@ -6804,6 +6804,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-monsoon-french-vegetable-alsatian-tart",
+    "title": "Hearty Smoky Monsoon French Vegetable Alsatian Tart",
+    "tags": [
+      "alsatian",
+      "french",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-moroccan-lentil-harira",
     "title": "Hearty Smoky Moroccan Lentil Harira",
     "tags": [
@@ -6955,6 +6969,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-vietnamese-hind-shank-cha-gio",
+    "title": "Hearty Smoky Vietnamese Hind Shank Cha Gio",
+    "tags": [
+      "asian",
+      "comfort-food",
+      "fusion",
+      "steamed",
+      "vegan",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
