@@ -1,0 +1,104 @@
+{
+  "title": "Hot Spicy Malaysian Pistachio Satay",
+  "description": "A spicy and adventurous Malaysian dish featuring unsalted pistachio, this plant-based friendly satay is perfect for those looking for a springy texture and bold flavors. It is made with brine-dry and plant-based ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for at least 30 minutes before using.",
+    "In a blender or food processor, combine coconut milk, lime juice, olive oil, ginger, garlic, sambal oelek, salt, and black pepper, and blend until smooth.",
+    "Add the chopped pistachio to the blender and blend until well combined.",
+    "Thread the pistachio mixture onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the satay on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a grill or grill pan to medium-high heat and cook the satay for 5-7 minutes per side, or until lightly charred.",
+    "Serve the satay hot with your favorite dipping sauce.",
+    "Garnish with additional chopped pistachio and sliced lime, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hot-spicy-malaysian-pistachio-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-malaysian-pistachio-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:33:30Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Hot Spicy",
+    "dishForm": "Satay"
+  }
+}
