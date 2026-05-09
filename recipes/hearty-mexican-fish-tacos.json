@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Mexican Fish Tacos",
+  "description": "A dense and flavorful Mexican dish featuring chopped onion and deep-fry tofu, perfect for a brunch mood, with a pescatarian-friendly twist and a hint of mustardy flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the tofu cubes until golden brown and set aside.",
+    "In a separate pan, heat a couple of tablespoons of oil and saute the chopped onion until translucent.",
+    "Add the cod pieces to the pan and cook until they are opaque and flake easily with a fork.",
+    "In a small bowl, mix together the mustard, cumin, and paprika.",
+    "Add the mustard mixture to the cod and onion mixture and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the cod mixture onto a tortilla and topping with deep-fried tofu and any desired toppings.",
+    "Serve immediately and enjoy.",
+    "Garnish with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "deep-fried",
+    "mexican-inspired",
+    "pescatarian",
+    "seafood-friendly",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-mexican-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mexican-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:32:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chopped onion",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Hearty",
+    "dishForm": "Tacos"
+  }
+}

@@ -5450,6 +5450,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mexican-fish-tacos",
+    "title": "Hearty Mexican Fish Tacos",
+    "tags": [
+      "brunch-ideas",
+      "deep-fried",
+      "mexican-inspired",
+      "pescatarian",
+      "seafood-friendly",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-middle-eastern-chickpeas-falafel",
     "title": "Hearty Middle Eastern Chickpeas Falafel",
     "tags": [
@@ -10480,6 +10495,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-light-syrian-chicken-stir-fry",
+    "title": "Herbal Light Syrian Chicken Stir Fry",
+    "tags": [
+      "healthy-dinner",
+      "herbal",
+      "low-sodium",
+      "meal-prep",
+      "stir-fry",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

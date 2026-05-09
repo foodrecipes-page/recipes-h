@@ -1,0 +1,97 @@
+{
+  "title": "Herbal Light Syrian Chicken Stir Fry",
+  "description": "A light and herbal Syrian chicken stir fry featuring gochujang, perfect for a low-sodium meal prep option. This dish is made with fresh herbs and spices for a flavorful and healthy meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the gochujang and cook for an additional 1 minute.",
+    "Add the chopped parsley and mint to the skillet and cook until wilted.",
+    "Return the chicken to the skillet and stir to combine with the herbal mixture.",
+    "Season with salt-free seasoning blend to taste.",
+    "Serve hot over rice or with pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-dinner",
+    "herbal",
+    "low-sodium",
+    "meal-prep",
+    "stir-fry",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "herbal-light-syrian-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-light-syrian-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:32:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "gochujang",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Herbal Light",
+    "dishForm": "Stir-fry"
+  }
+}
