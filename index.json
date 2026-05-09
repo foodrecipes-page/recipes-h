@@ -13673,6 +13673,20 @@
     "shard": "h"
   },
   {
+    "slug": "hot-spicy-korean-beef-ssam",
+    "title": "Hot Spicy Korean Beef Ssam",
+    "tags": [
+      "asian-dishes",
+      "beef-recipes",
+      "korean-cuisine",
+      "spicy-food",
+      "weeknight-meals"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hot-spicy-korean-pilchards-bokkeum",
     "title": "Hot Spicy Korean Pilchards Bokkeum",
     "tags": [

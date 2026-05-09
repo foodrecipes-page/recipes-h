@@ -1,0 +1,99 @@
+{
+  "title": "Hot Spicy Korean Beef Ssam",
+  "description": "A garlicky and springy Korean dish featuring hot beef stock and wok-hei, perfect for a crowd, this sugar-free-friendly recipe is a must-try for those who love spicy food.",
+  "cuisine": "Korean",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beef stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "1 head"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large wok over high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the thinly sliced beef brisket and stir-fry until browned.",
+    "Add the gochujang and soy sauce and stir-fry for 1 minute.",
+    "Add the beef stock and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Prepare the lettuce leaves and chopped green onions for ssam.",
+    "Assemble the ssam by placing a few slices of the beef onto a lettuce leaf and topping with green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-dishes",
+    "beef-recipes",
+    "korean-cuisine",
+    "spicy-food",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hot-spicy-korean-beef-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-korean-beef-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:35:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "wok-hei",
+    "primaryIngredient": "hot beef stock",
+    "diet": "sugar-free",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "hot spicy",
+    "dishForm": "Ssam"
+  }
+}
