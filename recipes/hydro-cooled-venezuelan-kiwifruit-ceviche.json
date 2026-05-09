@@ -1,0 +1,93 @@
+{
+  "title": "Hydro Cooled Venezuelan Kiwifruit Ceviche",
+  "description": "A fermented and refreshing Venezuelan dish featuring kiwifruit, perfect for adventurous eaters, this recipe is fodmap friendly and served in a mason jar. The ice bath shock helps to preserve the bouncy texture of the kiwifruit.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten free",
+    "low lactose"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4 cups",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced kiwifruit, lime juice, salt, and black pepper, and mix well.",
+    "Let it sit at room temperature for 2 hours to allow fermentation.",
+    "Add the thinly sliced red onion and chopped cilantro to the bowl and mix gently.",
+    "Grate the ginger over the mixture and stir well.",
+    "Prepare an ice bath by filling a large container with ice and water.",
+    "Submerge a mason jar in the ice bath to cool it down.",
+    "Fill the cooled mason jar with the kiwifruit mixture and seal it.",
+    "Let it sit in the refrigerator for at least 2 hours to allow the flavors to meld.",
+    "Serve the hydro cooled Venezuelan kiwifruit ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-lactose",
+    "mason-jar",
+    "refreshing-snack",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 1
+  },
+  "slug": "hydro-cooled-venezuelan-kiwifruit-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hydro-cooled-venezuelan-kiwifruit-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:09:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "kiwifruit",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "hydro cooled",
+    "dishForm": "Ceviche"
+  }
+}
