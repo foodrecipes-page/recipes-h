@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Golden Korean Rice Hwajeon",
+  "description": "A comforting Korean dish featuring golden syrup and high-protein friendly ingredients, served in a kazan cauldron.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glutinous rice",
+      "amount": "2 cups",
+      "notes": "also known as sweet rice"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the glutinous rice thoroughly and soak it in water for 4 hours.",
+    "Drain the water and grind the rice into a fine powder using a blender or food processor.",
+    "In a large kazan cauldron, heat the sesame oil over medium heat.",
+    "Add the ground beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Add the soy sauce, golden syrup, salt, and black pepper to the cauldron and stir to combine.",
+    "Add the chopped green onions and toasted sesame seeds to the cauldron and stir to combine.",
+    "Gradually add the ground rice to the cauldron, stirring constantly to prevent lumps from forming.",
+    "Cook the mixture for 10 minutes, stirring frequently, until it is thick and syrupy.",
+    "Remove the cauldron from the heat and let it cool for a few minutes.",
+    "Serve the Hearty Golden Korean Rice Hwajeon hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "korean-food",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-golden-korean-rice-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-golden-korean-rice-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:13:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "golden syrup",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Hearty Golden",
+    "dishForm": "Hwajeon"
+  }
+}

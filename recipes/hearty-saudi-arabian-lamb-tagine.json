@@ -1,0 +1,113 @@
+{
+  "title": "Hearty Saudi Arabian Lamb Tagine",
+  "description": "A sour and tender Saudi Arabian dish featuring lamb, perfect for a lazy Sunday, made keto-friendly with careful ingredient selection, and served with a unique ice cream topping, all cooked to perfection in a traditional tagine pot with beurre-monte for added richness.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "keto ice cream",
+      "amount": "1 pint",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, beurre-monte, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat evenly with the marinade.",
+    "Transfer the lamb and marinade to a traditional tagine pot or a heavy Dutch oven with a tight-fitting lid.",
+    "Cover the pot and bring the mixture to a boil over high heat.",
+    "Once boiling, reduce the heat to low and simmer, covered, for 2.5 hours, or until the lamb is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the lamb hot, topped with a scoop of keto ice cream.",
+    "Garnish with fresh herbs, if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "low-carb",
+    "one-pot",
+    "saudi-arabian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "hearty-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:13:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ice cream",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty lazy",
+    "dishForm": "Tagine"
+  }
+}

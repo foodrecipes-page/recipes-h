@@ -3486,6 +3486,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-golden-korean-rice-hwajeon",
+    "title": "Hearty Golden Korean Rice Hwajeon",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "korean-food",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-gooey-ethiopian-almond-tart",
     "title": "Hearty Gooey Ethiopian Almond Tart",
     "tags": [
@@ -6040,6 +6054,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-saudi-arabian-lamb-tagine",
+    "title": "Hearty Saudi Arabian Lamb Tagine",
+    "tags": [
+      "keto",
+      "lamb",
+      "low-carb",
+      "one-pot",
+      "saudi-arabian",
+      "tagine"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
