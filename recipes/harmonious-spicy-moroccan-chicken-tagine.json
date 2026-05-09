@@ -1,0 +1,122 @@
+{
+  "title": "harmonious spicy moroccan chicken tagine",
+  "description": "a vibrant, fragrant dish featuring madras paste and binchotan charcoal, perfect for a crowd.",
+  "cuisine": "moroccan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tablespoons",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "plus more for serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of olive oil in a large clay or ceramic tagine over medium heat.",
+    "add the onion and cook, stirring occasionally, until softened and lightly caramelized, about 8 minutes.",
+    "add the garlic and cook for 1 minute, stirring constantly.",
+    "add the madras paste and cook, stirring constantly, for 1-2 minutes.",
+    "add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "add the chicken broth, green olives, preserved lemon, salt, and black pepper.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "stir in the chopped parsley and cook for an additional 2 minutes.",
+    "serve the tagine hot, garnished with additional parsley and a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "flexitarian-friendly",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "spicy",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "harmonious-spicy-moroccan-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/harmonious-spicy-moroccan-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:14:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "madras paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Harmonious Spicy",
+    "dishForm": "Tagine"
+  }
+}
