@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Light Portuguese Black Bean Stew",
+  "description": "A crowd-pleasing and light Portuguese dish featuring fermented black beans, this stew is a bitter and savory delight. It is prepared using a bain-marie and served in a bamboo tray, making it a perfect option for a Buddhist temple gathering.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat using a bain-marie.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly.",
+    "Add the fermented black beans, water, salt, black pepper, and bay leaves to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Remove the bay leaves and stir in the chopped parsley.",
+    "Serve the stew hot, garnished with additional parsley if desired, in a bamboo tray.",
+    "Let it cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "black-bean-recipes",
+    "buddhist-temple-friendly",
+    "gluten-free-options",
+    "portuguese-cuisine",
+    "vegetarian-stews"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-light-portuguese-black-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-light-portuguese-black-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:07:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "fermented black beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "black beans",
+    "descriptor": "hearty light",
+    "dishForm": "Stew"
+  }
+}
