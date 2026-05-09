@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Ethiopian Cherry Tomatoes Azifa",
+  "description": "A light and resinous Ethiopian dish featuring cherry tomatoes, served in a stone bowl, perfect for a shojin friendly meal. This azifa is a flavorful and nutritious option for any time of day.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large stone bowl, combine the halved cherry tomatoes, thinly sliced red onion, chopped parsley, and chopped cilantro.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, black pepper, and berbere spice.",
+    "Pour the dressing over the tomato mixture and toss to combine.",
+    "Sprinkle the minced garlic over the top of the azifa and toss again to combine.",
+    "Let the azifa sit at room temperature for at least 30 minutes to allow the flavors to meld.",
+    "Serve the azifa chilled or at room temperature, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "healthy",
+    "quick",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "hearty-ethiopian-cherry-tomatoes-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ethiopian-cherry-tomatoes-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:27:22Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Hearty",
+    "dishForm": "Azifa"
+  }
+}

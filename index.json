@@ -3486,6 +3486,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-ethiopian-cherry-tomatoes-azifa",
+    "title": "Hearty Ethiopian Cherry Tomatoes Azifa",
+    "tags": [
+      "ethiopian-cuisine",
+      "gluten-free",
+      "healthy",
+      "quick",
+      "shojin-friendly",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-ethiopian-chicken-wot-with-egg",
     "title": "hearty ethiopian chicken wot with egg",
     "tags": [
