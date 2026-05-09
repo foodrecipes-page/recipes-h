@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Velvety Cantonese Noodles Lo MeIN",
+  "description": "A kid-friendly Cantonese dish featuring lo-mein noodles in a savory sauce, served in a talavera plate. This recipe is a Mediterranean-friendly version of the classic dish.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "kid-friendly",
+    "mediterranean-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo-mein noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large ttukbaegi earthenware pot over medium heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the lo-mein noodles and stir-fry for 2 minutes.",
+    "Add the soy sauce, oyster sauce, and sugar, and stir-fry for 1 minute.",
+    "Add the sesame oil and stir-fry for 1 minute.",
+    "Transfer the noodles to a talavera plate.",
+    "Garnish with chopped scallions.",
+    "Serve immediately.",
+    "Cook the noodles according to the package instructions if using dried noodles.",
+    "Use tortillas as a substitute for lo-mein noodles if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "kid-friendly",
+    "mediterranean-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-velvety-cantonese-noodles-lo-me-in",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-velvety-cantonese-noodles-lo-me-in",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:26:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "tortillas",
+    "diet": "mediterranean",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "noodles",
+    "descriptor": "hearty velvety",
+    "dishForm": "Lo MeIN"
+  }
+}
