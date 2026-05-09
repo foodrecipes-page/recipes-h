@@ -4,7 +4,6 @@
   "cuisine": "Korean",
   "diet": [
     "paleo",
-    "gluten-free",
     "vegan"
   ],
   "meal": "snack",
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "paleo",

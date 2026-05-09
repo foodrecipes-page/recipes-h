@@ -3,8 +3,7 @@
   "description": "A weeknight Turkish dish featuring deep-fried flatbread, cabbage leaves, and a rich, earthy broth.",
   "cuisine": "Turkish",
   "diet": [
-    "low-glycemic",
-    "vegetarian"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,7 +84,8 @@
     "Meanwhile, deep-fry the flatbread pieces until crispy.",
     "Remove the flatbread from the oil with a slotted spoon and drain on paper towels.",
     "To serve, place a few pieces of flatbread in the bottom of a bowl, then spoon the braised cabbage and broth over the top.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -96,7 +96,6 @@
     "low-glycemic",
     "one-pan",
     "turkish",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

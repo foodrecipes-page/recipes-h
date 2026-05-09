@@ -3,8 +3,7 @@
   "description": "A classic British dish featuring nutty sausages, creamy mash, and a hint of tabasco sauce, made jain-friendly by using vegetable-based ingredients.",
   "cuisine": "British",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "hearty",
     "jain-friendly",
     "nutty",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

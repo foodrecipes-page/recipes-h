@@ -3,8 +3,7 @@
   "description": "A low-calorie, umami-rich Japanese dish from Okinawa, featuring cabbage leaves and a sweet twist, served in a hot dolsot stone bowl.",
   "cuisine": "Japanese",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,8 +61,7 @@
     "japanese-cuisine",
     "low-calorie",
     "okinawan",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 220,

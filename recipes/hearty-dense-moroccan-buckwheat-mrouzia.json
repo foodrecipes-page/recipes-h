@@ -3,8 +3,7 @@
   "description": "A rich and savory Moroccan dish featuring buckwheat, slow cooked in a iron teppan, wrapped in a flaky crust, perfect for a cold winter night, this recipe is ayurvedic tamasic friendly and full of umami flavors.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "buckwheat",
-    "gluten-free",
     "moroccan",
     "mrouzia",
     "one-pan",

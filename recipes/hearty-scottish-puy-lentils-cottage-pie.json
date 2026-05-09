@@ -3,8 +3,7 @@
   "description": "A nutty and molten Scottish dish featuring puy lentils, perfect for a post-workout meal, baked to perfection in a wood-fired oven and served in a lazy Susan spinner.",
   "cuisine": "Scottish",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Transfer the mixture to a 9x13 inch baking dish and top with additional chopped potatoes.",
     "Bake the cottage pie in the preheated oven for 25 minutes, or until the potatoes are golden brown.",
     "Remove the pie from the oven and let it cool for a few minutes before serving.",
-    "Serve the cottage pie hot, garnished with chopped fresh herbs if desired."
+    "Serve the cottage pie hot, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,

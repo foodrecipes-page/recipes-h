@@ -3,8 +3,7 @@
   "description": "A nutty and springy Filipino dish featuring pork, chili peppers, and coconut milk, served with keto-friendly corn tortillas and fried rice",
   "cuisine": "Filipino",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,8 @@
     "Reduce heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally",
     "While the sauce is simmering, prepare the cauliflower rice by grating it and frying it in a separate pan with a little coconut oil until crispy",
     "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
-    "Assemble the dish by placing a portion of the pork and sauce onto a tortilla, topping with fried cauliflower rice and serving immediately"
+    "Assemble the dish by placing a portion of the pork and sauce onto a tortilla, topping with fried cauliflower rice and serving immediately",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,

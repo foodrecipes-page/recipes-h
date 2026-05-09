@@ -2,9 +2,7 @@
   "title": "Hearty Braised Chinese Pork Bao",
   "description": "A savory and mustardy Chinese dish featuring braised pork and sauerkraut, perfect for a brunch mood, this recipe is kosher-friendly and serves as a great option for those looking for a unique meal.",
   "cuisine": "Chinese",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -63,7 +61,8 @@
     "Return the pork to the pot and bring the mixture to a simmer.",
     "Cover the pot and transfer it to the preheated oven, braising the pork for 2 1/2 hours, or until tender.",
     "While the pork is braising, toast the bao buns by baking them in the oven for 5 minutes, or until lightly browned.",
-    "Assemble the bao by slicing the braised pork and serving it in the toasted buns with a spoonful of the sauerkraut mixture and a dollop of mustard."
+    "Assemble the bao by slicing the braised pork and serving it in the toasted buns with a spoonful of the sauerkraut mixture and a dollop of mustard.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,

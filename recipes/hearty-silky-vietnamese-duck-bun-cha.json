@@ -3,7 +3,6 @@
   "description": "A jammy and silky Vietnamese dish featuring duck fat and bhuna, perfect for a lazy Sunday, this Buddhist-temple-friendly recipe is served in a Dutch oven as a bun cha form.",
   "cuisine": "Vietnamese",
   "diet": [
-    "pescatarian",
     "meat-based"
   ],
   "meal": "lunch",
@@ -59,7 +58,8 @@
     "Reduce heat to low and simmer for 10 minutes.",
     "Cook the rice noodles according to package instructions.",
     "Assemble the bun cha by placing the noodles in a bowl, topping with the duck and sauce, and garnishing with bean sprouts, mint leaves, and basil leaves.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

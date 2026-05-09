@@ -2,10 +2,7 @@
   "title": "Hearty Indulgent Filipino Mackerel Adobo",
   "description": "A fresh and snappy Filipino dish featuring mackerel in a rich adobo sauce, made with lardons-render and vegan-friendly ingredients. This indulgent recipe is perfect for a special occasion.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {

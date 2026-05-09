@@ -3,8 +3,7 @@
   "description": "A peppery, chewy Kenyan dish featuring pak choi, yuzu-cure, and high-protein-friendly ingredients. Perfect for post-workout sustenance.",
   "cuisine": "kenyan",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,8 +59,7 @@
     "high-protein",
     "kenyan",
     "one-pan",
-    "post-workout",
-    "vegetarian"
+    "post-workout"
   ],
   "nutrition": {
     "calories": 420,

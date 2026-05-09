@@ -3,7 +3,6 @@
   "description": "A sweet and crisp Greek dish featuring lamb shoulder, perfect for a sick day, made with lamination puff pastry and served on a cedar plank, also vegetarian friendly by substituting lamb with portobello mushrooms",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
     "meat"
   ],
   "meal": "dinner",
@@ -83,7 +82,7 @@
     "mood": "sick-day",
     "technique": "lamination-puff",
     "primaryIngredient": "lamb shoulder",
-    "diet": "vegetarian",
+    "diet": "meat",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "lamb",

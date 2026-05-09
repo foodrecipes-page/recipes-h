@@ -2,9 +2,7 @@
   "title": "Hearty Silky Korean Mediterranean Chwinamul Pilaf",
   "description": "A rich and savory pilaf dish featuring chwinamul, score-fat, and Mediterranean-friendly ingredients, perfect for a satisfying brunch.",
   "cuisine": "Korean Mediterranean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -55,7 +53,8 @@
     "Transfer the pilaf to a serving platter and garnish with chopped fresh parsley.",
     "Serve immediately and enjoy.",
     "Refrigerate any leftovers for up to 3 days.",
-    "Reheat the pilaf in the microwave or on the stovetop before serving."
+    "Reheat the pilaf in the microwave or on the stovetop before serving.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
