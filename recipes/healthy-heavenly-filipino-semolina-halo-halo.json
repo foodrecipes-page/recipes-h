@@ -1,0 +1,109 @@
+{
+  "title": "Healthy Heavenly Filipino Semolina Halo Halo",
+  "description": "A light and refreshing Filipino dessert featuring semolina, cooked in a tagine style and served in a terracotta dish, perfect for warm weather and diabetic friendly diets. This dish is a unique twist on the traditional halo halo, with a bitter and springy texture from the semolina.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "low fat"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar substitute",
+      "amount": "1/4 cup",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned in syrup"
+    },
+    {
+      "name": "kaong",
+      "amount": "1 cup",
+      "notes": "palm fruit in syrup"
+    },
+    {
+      "name": "ube halaya",
+      "amount": "1/2 cup",
+      "notes": "purple yam jam"
+    },
+    {
+      "name": "shaved ice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the semolina and 2 cups of water, whisking constantly to prevent lumps.",
+    "Cook over medium heat, stirring frequently, until the semolina is cooked and has a creamy consistency.",
+    "Add the coconut milk, pandan extract, and sugar substitute to the saucepan, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until the flavors have melded together.",
+    "In a small bowl, mix together the jackfruit, kaong, and ube halaya.",
+    "To assemble the halo halo, place a scoop of the semolina mixture into a terracotta dish.",
+    "Top the semolina with a spoonful of the jackfruit mixture, followed by a scoop of shaved ice.",
+    "Sprinkle the sesame seeds and salt over the top of the halo halo.",
+    "Serve immediately and enjoy.",
+    "Repeat the assembly process for the remaining ingredients.",
+    "Garnish with additional sesame seeds and a sprinkle of salt, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino-dessert",
+    "gluten-free",
+    "healthy",
+    "refreshing",
+    "semolina",
+    "summer-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "healthy-heavenly-filipino-semolina-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-heavenly-filipino-semolina-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:05:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "tagine-cook",
+    "primaryIngredient": "semolina",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "semolina",
+    "descriptor": "healthy heavenly",
+    "dishForm": "Halo Halo"
+  }
+}
