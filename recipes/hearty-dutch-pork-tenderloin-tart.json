@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Dutch Pork Tenderloin Tart",
+  "description": "A rich and silky Dutch dish featuring pork tenderloin in a flaky crust, served in a scallop shell vessel, perfect for a special occasion.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 1/2 pounds",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "In a large skillet, saute the onion and mushrooms in a little bit of oil until softened.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Season the pork tenderloin with salt and pepper.",
+    "Place the pork tenderloin in the center of the pastry rectangle.",
+    "Spoon the onion and mushroom mixture over the pork tenderloin.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Roll the pastry over the filling, starting with one long side.",
+    "Place the tart in a scallop shell vessel and brush the top with the remaining egg.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "flaky-crust",
+    "high-protein",
+    "pork-tenderloin",
+    "scallop-shell",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "hearty-dutch-pork-tenderloin-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-dutch-pork-tenderloin-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:27:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "en-croute",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "high protein",
+    "dishForm": "Tart"
+  }
+}

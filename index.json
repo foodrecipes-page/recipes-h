@@ -3308,6 +3308,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-dutch-pork-tenderloin-tart",
+    "title": "Hearty Dutch Pork Tenderloin Tart",
+    "tags": [
+      "dutch-cuisine",
+      "flaky-crust",
+      "high-protein",
+      "pork-tenderloin",
+      "scallop-shell",
+      "special-occasion"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-dutch-tempeh-casserole",
     "title": "Hearty Dutch Tempeh Casserole",
     "tags": [
