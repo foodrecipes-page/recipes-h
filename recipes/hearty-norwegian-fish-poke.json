@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Norwegian Fish Poke",
+  "description": "A briny and gooey Norwegian dish featuring oranges and pickle, perfect for pescatarians, this recipe is a quick fix for a delicious meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh and skinless"
+    },
+    {
+      "name": "oranges",
+      "amount": "2",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into small cubes and place them in a large bowl.",
+    "In a separate bowl, whisk together the lemon juice, olive oil, salt, and black pepper.",
+    "Pour the lemon juice mixture over the cod cubes and toss to coat.",
+    "Add the orange segments, pickle relish, red onion, and chopped fresh dill to the bowl with the cod.",
+    "Gently toss all the ingredients together until they are well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle the toasted almonds over the top of the fish mixture.",
+    "Serve the Hearty Norwegian Fish Poke chilled, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipe",
+    "healthy-snack",
+    "high-protein",
+    "norwegian-cuisine",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "hearty-norwegian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-norwegian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:23:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "oranges",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "hearty gooey",
+    "dishForm": "Poke"
+  }
+}
