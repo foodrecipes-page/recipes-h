@@ -8759,6 +8759,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spicy-polish-peanut-stew",
+    "title": "Hearty Spicy Polish Peanut Stew",
+    "tags": [
+      "lacto-vegetarian",
+      "one-pot",
+      "polish-cuisine",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spicy-saudi-arabian-lamb-kebabs",
     "title": "Hearty Spicy Saudi Arabian Lamb Kebabs",
     "tags": [
