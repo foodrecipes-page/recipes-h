@@ -1,0 +1,109 @@
+{
+  "title": "Hot Mustardy Thai Duck Yum Salad",
+  "description": "A spicy and savory Thai-inspired salad featuring duck, mustard, and a variety of fresh herbs, all mixed together in a zesty dressing. This dish is low in calories and rich in flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "brown mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the duck breast with salt and black pepper.",
+    "Heat the duck fat in a skillet over medium-high heat and sear the duck breast until browned on both sides.",
+    "Transfer the duck breast to the oven and roast for 15 minutes, or until cooked to an internal temperature of 165 degrees Fahrenheit.",
+    "Let the duck breast rest for 5 minutes before slicing it into thin strips.",
+    "In a large bowl, whisk together the mustard, fish sauce, and lime juice.",
+    "Add the sliced chili peppers, mint leaves, cilantro leaves, and scallions to the bowl and stir to combine.",
+    "Add the sliced duck breast to the bowl and toss to coat with the dressing.",
+    "Serve the salad immediately, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "herby",
+    "low-calorie",
+    "spicy",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hot-mustardy-thai-duck-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-mustardy-thai-duck-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:37:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "duck fat",
+    "diet": "low-calorie",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "duck",
+    "descriptor": "Hot Mustardy",
+    "dishForm": "Yum Salad"
+  }
+}
