@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Russian Beef Dumplings",
+  "description": "A traditional Russian dish featuring beef and vegetables wrapped in a paleo-friendly dough, perfect for a date-night dinner",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed ground beef",
+      "amount": "1 pound",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground beef, chopped onion, chopped carrot, and chopped celery, mixing well with your hands until just combined",
+    "In a separate bowl, whisk together the almond flour, baking powder, and salt",
+    "Add the egg to the dry ingredients and mix until a shaggy dough forms",
+    "Gradually add the dry ingredients to the beef mixture, mixing until a cohesive dough forms",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic",
+    "Divide the dough into 8 equal pieces and roll each into a ball",
+    "Flatten each ball into a disk and place a tablespoon of the beef mixture in the center of each disk",
+    "Fold the dough over the filling and press the edges together to seal the dumpling",
+    "Bring a large pot of salted water to a boil and gently add the dumplings, cooking for 10 minutes, or until they float to the surface"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "hearty-dish",
+    "homemade-dumplings",
+    "paleo-friendly",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-russian-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-russian-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:27:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "baking powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty",
+    "dishForm": "Dumplings"
+  }
+}
