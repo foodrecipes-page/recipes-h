@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Spicy Venezuelan Chicken Skewers",
+  "description": "A spicy and flavorful Venezuelan dish featuring chicken, galangal, and confit tomatoes, perfect for a post-workout meal. This recipe is raw-friendly and can be adjusted to suit individual tastes.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "spicy Venezuelan sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the galangal, confit tomatoes, spicy Venezuelan sauce, olive oil, salt, and black pepper.",
+    "Add the chicken, red onion, and red bell pepper to the bowl and toss to coat with the marinade.",
+    "Thread the chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh cilantro or scallions if desired.",
+    "Refrigerate or freeze any leftovers for up to 3 days.",
+    "Reheat the skewers in the microwave or oven until hot and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "spicy",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "hearty-spicy-venezuelan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-venezuelan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:39:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "galangal",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Spicy",
+    "dishForm": "Skewers"
+  }
+}
