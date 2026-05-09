@@ -2635,6 +2635,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crunchy-spanish-tomatoes-gazpacho",
+    "title": "Hearty Crunchy Spanish Tomatoes Gazpacho",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "raw-friendly",
+      "refreshing",
+      "spanish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crusty-slovakian-bread-gratin",
     "title": "Hearty Crusty Slovakian Bread Gratin",
     "tags": [
@@ -3424,6 +3439,21 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-french-potatoes-macaron",
+    "title": "Hearty French Potatoes Macaron",
+    "tags": [
+      "french-cuisine",
+      "gluten-free-option",
+      "potato-based",
+      "scallop-shell",
+      "special-occasion",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {

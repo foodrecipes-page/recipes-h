@@ -1,0 +1,95 @@
+{
+  "title": "Hearty French Potatoes Macaron",
+  "description": "A cultured and aerated French dish featuring floury potatoes in a macaron form, served in a scallop shell, perfect for a special occasion, this recipe is onion and garlic free.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced potatoes, flour, and melted butter, mix until the potatoes are well coated.",
+    "In a separate bowl, whip the egg whites until stiff peaks form.",
+    "Add the grated cheese, salt, and sugar to the egg whites, mix until well combined.",
+    "Gently fold the egg mixture into the potato mixture until just combined.",
+    "Spoon the mixture into a piping bag fitted with a large round tip.",
+    "Pipe the mixture into scallop shells, filling them about 3/4 of the way full.",
+    "Tap the shells gently to remove any air bubbles.",
+    "Place the shells on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "french-cuisine",
+    "gluten-free-option",
+    "potato-based",
+    "scallop-shell",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "hearty-french-potatoes-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-potatoes-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:57:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "floury potatoes",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "potatoes",
+    "descriptor": "Hearty Fermented",
+    "dishForm": "Macaron"
+  }
+}

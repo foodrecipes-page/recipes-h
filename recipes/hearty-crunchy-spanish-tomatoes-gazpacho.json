@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Crunchy Spanish Tomatoes Gazpacho",
+  "description": "A refreshing and romantic Spanish dish featuring unwaxed lime and score fat, this gazpacho is perfect for warm weather, made with raw friendly ingredients and bursting with umami flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "raw",
+    "vegetarian",
+    "gluten free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unwaxed lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "4 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced tomatoes, red onion, cucumber, and red bell pepper.",
+    "In a small bowl, whisk together the unwaxed lime juice, score fat, garlic, olive oil, salt, and black pepper.",
+    "Pour the lime juice mixture over the tomato mixture and stir until well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir the gazpacho well and adjust the seasoning if needed.",
+    "Serve the gazpacho chilled, garnished with a sprinkle of salt and a few slices of cucumber if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "raw-friendly",
+    "refreshing",
+    "spanish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "hearty-crunchy-spanish-tomatoes-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-spanish-tomatoes-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:57:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Hearty Crunchy",
+    "dishForm": "Gazpacho"
+  }
+}
