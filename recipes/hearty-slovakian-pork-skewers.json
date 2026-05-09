@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Slovakian Pork Skewers",
+  "description": "A nutty and springy Slovakian dish featuring mustard seeds and a showy flambe, this recipe is also ayurvedic-tamasic-friendly. It combines the flavors of pork, mustard, and spices for a delicious meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "rum",
+      "amount": "1/4 cup",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the pork pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through.",
+    "While the skewers are cooking, heat the rum in a small saucepan over low heat.",
+    "Once the skewers are done, brush the rum over the pork and ignite the rum for a flambe effect.",
+    "Sprinkle the mustard seeds over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "hearty-slovakian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:04:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "mustard seeds",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "hearty Hungarian style",
+    "dishForm": "Skewers"
+  }
+}

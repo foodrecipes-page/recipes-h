@@ -1,0 +1,94 @@
+{
+  "title": "Healing Korean Myeongnan Roe Pudding",
+  "description": "A sweet and glassy-jelly dessert featuring myeongnan-roe, a type of pollock roe, known for its hangover-curing properties in Korean culture, this lacto-vegetarian friendly dish is perfect for a snack or dessert",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/4 cup",
+      "notes": "made from sugar and water"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the myeongnan-roe in cold water and drain well.",
+    "In a medium saucepan, combine the water, sugar, and agar agar powder, and bring to a boil over high heat.",
+    "Reduce the heat to medium and simmer for 5 minutes, or until the agar agar is fully dissolved.",
+    "Remove the saucepan from the heat and stir in the vanilla extract and lemon juice.",
+    "Add the myeongnan-roe to the saucepan and stir gently to combine.",
+    "Pour the mixture into individual serving cups or a large mold.",
+    "Refrigerate for at least 3 hours, or until the pudding is set.",
+    "Drizzle the glaze over the pudding and serve chilled.",
+    "In a small bowl, whisk together the milk and a pinch of sugar until the sugar is dissolved.",
+    "Serve the pudding with the sweetened milk on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "hangover-cure",
+    "healthy-snack",
+    "korean-dish",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "healing-korean-myeongnan-roe-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healing-korean-myeongnan-roe-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:04:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "glaze",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "myeongnan roe",
+    "descriptor": "Healing",
+    "dishForm": "Pudding"
+  }
+}

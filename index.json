@@ -1002,6 +1002,21 @@
     "shard": "h"
   },
   {
+    "slug": "healing-korean-myeongnan-roe-pudding",
+    "title": "Healing Korean Myeongnan Roe Pudding",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "hangover-cure",
+      "healthy-snack",
+      "korean-dish",
+      "lacto-vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "healing-tender-tamil-lamb-curry",
     "title": "Healing Tender Tamil Lamb Curry",
     "tags": [
@@ -6066,6 +6081,20 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-slovakian-pork-skewers",
+    "title": "Hearty Slovakian Pork Skewers",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
