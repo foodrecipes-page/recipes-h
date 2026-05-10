@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Herbal Polish Chicken Skillet",
+  "description": "A mustardy and springy post-workout Polish dish featuring garlic powder and flambe, this recipe is perfect for a gluten-free friendly meal. It combines the flavors of chicken, herbs, and spices in a delicious skillet",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the garlic powder, thyme, parsley, mustard, chicken broth, salt, and pepper to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Use a match or lighter to flambe the skillet, being careful not to burn yourself.",
+    "Let the skillet cool for a few minutes before serving.",
+    "Serve the chicken and sauce over rice or noodles.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "hearty-herbal-polish-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-herbal-polish-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:37:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "garlic powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Hearty Herbal",
+    "dishForm": "Skillet"
+  }
+}
