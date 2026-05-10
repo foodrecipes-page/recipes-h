@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Chewy Jamaican Blueberries Bake",
+  "description": "A fermented, chewy, and keto-friendly Jamaican dish featuring blueberries and salt-bake, perfect for a brunch mood. This dish combines the sweetness of blueberries with the savory flavor of salt-bake.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt-bake",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, salt-bake, cinnamon powder, and nutmeg powder.",
+    "In a separate bowl, whisk together the melted coconut oil, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Gently fold in the blueberries.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "brunch-recipe",
+    "high-fiber",
+    "jamaican-cuisine",
+    "keto-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "hearty-chewy-jamaican-blueberries-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-chewy-jamaican-blueberries-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:03:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "salt-bake",
+    "primaryIngredient": "blueberries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "blueberries",
+    "descriptor": "Hearty Chewy",
+    "dishForm": "Bake"
+  }
+}
