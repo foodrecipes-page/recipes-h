@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Crunchy Venezuelan Peppers Skillet",
+  "description": "A sweet and crunchy one-pot Venezuelan dish featuring mixed peppers and lamination-puff, cooked to perfection on a raclette-grill.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "Slice the mixed bell peppers and onion into thin strips.",
+    "Roll out the lamination-puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut the pastry into small squares, about 2 inches per side.",
+    "In a large bowl, toss the sliced peppers and onion with olive oil, garlic, salt, and black pepper until they are evenly coated.",
+    "Arrange the pastry squares on the preheated raclette-grill, leaving a small space between each square.",
+    "Spoon the pepper and onion mixture onto one half of each pastry square.",
+    "Sprinkle shredded cheese over the top of the pepper mixture.",
+    "Fold the other half of the pastry square over the filling to form a triangle or square shape, pressing the edges to seal.",
+    "Cook the pastry pockets for 5-7 minutes on each side, until they are golden brown and crispy.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "one-pan",
+    "pastry",
+    "peppers",
+    "vegetarian",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "hearty-crunchy-venezuelan-peppers-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crunchy-venezuelan-peppers-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:45:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mixed peppers",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peppers",
+    "descriptor": "Hearty Crunchy",
+    "dishForm": "Skillet"
+  }
+}
