@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Crisp Russian Pork Pasta",
+  "description": "A citrusy and crisp Russian dish featuring pappardelle pasta and lardons, perfect for a midnight craving, this flexitarian-friendly recipe is sure to satisfy.",
+  "cuisine": "Russian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1 lb",
+      "notes": "cut into lardons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al dente.",
+    "Meanwhile, render the pork belly lardons in a large skillet over medium heat until crispy.",
+    "Remove the lardons from the skillet and set aside, leaving the rendered fat behind.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "Add the lemon juice, olive oil, dried dill, salt, and black pepper to the skillet and stir to combine.",
+    "Add the grated carrot to the skillet and cook for 2 minutes until slightly tender.",
+    "Add the cooked pappardelle pasta to the skillet, tossing to combine with the carrot and garlic mixture.",
+    "Return the crispy lardons to the skillet and toss to combine with the pasta.",
+    "Season with additional salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "one-pot",
+    "pasta-dish",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "hearty-crisp-russian-pork-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crisp-russian-pork-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:21:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "lardons-render",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Crisp",
+    "dishForm": "Pasta"
+  }
+}

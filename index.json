@@ -2708,6 +2708,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crisp-russian-pork-pasta",
+    "title": "Hearty Crisp Russian Pork Pasta",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "one-pot",
+      "pasta-dish",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crisp-syrian-chicken-kebabs",
     "title": "Hearty Crisp Syrian Chicken Kebabs",
     "tags": [
