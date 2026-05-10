@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Cheesy Ethiopian Beef Kitfo",
+  "description": "A tangy and show-off Ethiopian dish featuring matcha and tagine-cook, this fodmap-friendly kitfo is perfect for special occasions, with a cheese-pull that will impress your guests.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lactose-free cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or a large Dutch oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the matcha powder and tagine spice blend.",
+    "Add the spice mixture to the beef and mix until the beef is evenly coated.",
+    "Heat a couple of tablespoons of oil in the tagine or Dutch oven over medium-high heat.",
+    "Sear the beef until it is browned on all sides, then remove it from the pot and set it aside.",
+    "Add the sliced onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the pot and cook for another minute, stirring constantly to prevent burning.",
+    "Add the browned beef back to the pot, along with any accumulated juices, and stir to combine with the onion and garlic mixture.",
+    "Cover the pot and transfer it to the preheated oven, where it will cook for 2 hours, or until the beef is tender.",
+    "About 30 minutes before serving, stir in the shredded lactose-free cheese until it is fully melted and the kitfo has a creamy, cheesy sauce.",
+    "Season the kitfo with lemon juice and salt to taste, then garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "cheesy",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-cheesy-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-cheesy-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:51:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "tagine-cook",
+    "primaryIngredient": "matcha",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "hearty cheesy",
+    "dishForm": "Kitfo"
+  }
+}

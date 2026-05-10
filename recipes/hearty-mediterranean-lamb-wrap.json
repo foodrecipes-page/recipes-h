@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Mediterranean Lamb Wrap",
+  "description": "A pungent and comforting Mediterranean dish featuring lamb, wholegrain bread, and fermented ingredients, all wrapped in a lotus leaf.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "wholegrain pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and pepper.",
+    "Roast the lamb shoulder in the oven for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the lamb rest for 10 minutes before slicing it thinly.",
+    "Grill the wholegrain pita bread for 2 minutes per side, or until it is lightly toasted.",
+    "Spread a layer of feta cheese on each pita bread.",
+    "Top the feta cheese with sliced lamb, kalamata olives, artichoke hearts, and sun-dried tomatoes.",
+    "Garnish with fresh parsley and wrap each pita bread in a lotus leaf."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lamb-recipes",
+    "lotus-leaf-wrap",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "hearty-mediterranean-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-mediterranean-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:51:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "ferment",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "hearty molten",
+    "dishForm": "Wrap"
+  }
+}

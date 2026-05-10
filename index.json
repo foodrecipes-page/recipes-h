@@ -2468,6 +2468,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-cheesy-ethiopian-beef-kitfo",
+    "title": "Hearty Cheesy Ethiopian Beef Kitfo",
+    "tags": [
+      "beef",
+      "cheesy",
+      "fodmap-friendly",
+      "high-protein",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-cheesy-italian-mozzarella-skewers",
     "title": "Hearty Cheesy Italian Mozzarella Skewers",
     "tags": [
@@ -6665,6 +6680,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-mediterranean-lamb-wrap",
+    "title": "Hearty Mediterranean Lamb Wrap",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "lamb-recipes",
+      "lotus-leaf-wrap",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 90,
     "shard": "h"
   },
   {
