@@ -2288,6 +2288,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-char-grilled-korean-fruit-skillet",
+    "title": "Hearty Char Grilled Korean Fruit Skillet",
+    "tags": [
+      "easy-to-make",
+      "fruit-based",
+      "korean-cuisine",
+      "low-glycemic",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-charred-australian-lamb-skewers",
     "title": "Hearty Charred Australian Lamb Skewers",
     "tags": [
@@ -12496,6 +12511,20 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 160,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-quick-algerian-hind-shank-tagine",
+    "title": "Herbal Quick Algerian Hind Shank Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "herbal-spices",
+      "hind-shank",
+      "low-calorie-friendly",
+      "quick-dinner"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 90,
     "shard": "h"
   },
   {

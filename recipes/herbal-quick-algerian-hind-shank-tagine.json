@@ -1,0 +1,110 @@
+{
+  "title": "Herbal Quick Algerian Hind Shank Tagine",
+  "description": "A flavorful and aromatic Algerian dish made with hind shank, kombu powder, and herbs, perfect for a quick weeknight dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "preferably with meat still on bones"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use for browning hind shank"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kombu powder (cold-extract)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the hind shank with salt, then brown it in a large Dutch oven with olive oil over medium-high heat, about 5 minutes.",
+    "Remove the browned hind shank from the pot, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Stir in kombu powder, cumin, coriander, paprika, and cayenne pepper (if using) and cook for 1 minute.",
+    "Return the browned hind shank to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Bake for 1 hour and 15 minutes or until the meat is tender and falling off the bone.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "herbal-spices",
+    "hind-shank",
+    "low-calorie-friendly",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "herbal-quick-algerian-hind-shank-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-quick-algerian-hind-shank-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:31:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "hind shank",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Hind shank",
+    "descriptor": "Herbal Quick",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Char Grilled Korean Fruit Skillet",
+  "description": "A roasted and aerated Korean dish featuring a mix of fruit, char-grill-yang, and low-glycemic-friendly ingredients, cooked in an iron teppan vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Apple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Pear",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Char-grill-yang sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan vessel over medium heat.",
+    "In a large bowl, mix together the pineapple, apple, and pear.",
+    "In a small bowl, whisk together the gochujang, soy sauce, brown sugar, cinnamon, and ginger.",
+    "Add the char-grill-yang sauce to the bowl with the gochujang mixture and whisk until combined.",
+    "Add the gochujang mixture to the bowl with the fruit and toss until the fruit is evenly coated.",
+    "Add the fruit mixture to the preheated iron teppan vessel and cook for 10 minutes, stirring occasionally.",
+    "Use a spatula to scrape the bottom of the vessel and redistribute the fruit.",
+    "Continue cooking for an additional 5 minutes, or until the fruit is caramelized and slightly charred.",
+    "Remove the vessel from the heat and let it cool for a few minutes.",
+    "Serve the fruit mixture warm, garnished with additional cinnamon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fruit-based",
+    "korean-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "hearty-char-grilled-korean-fruit-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-char-grilled-korean-fruit-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:31:06Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "fruit mix",
+    "diet": "low-glycemic",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fruit mix",
+    "descriptor": "Hearty Char Grilled",
+    "dishForm": "Skillet"
+  }
+}
