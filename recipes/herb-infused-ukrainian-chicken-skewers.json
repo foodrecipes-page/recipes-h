@@ -1,0 +1,94 @@
+{
+  "title": "Herb Infused Ukrainian Chicken Skewers",
+  "description": "A low-sodium Ukrainian dish featuring fresh basil and citrus flavors, perfect for a date night, with a bouncy and qq texture from the chicken and herbs, made by emulsifying the ingredients together.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt-free seasoning blend, and black pepper.",
+    "Add the chopped basil to the bowl and whisk until well combined.",
+    "Add the chicken pieces to the bowl and toss to coat with the herb mixture.",
+    "Thread the chicken pieces onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and reaches an internal temperature of 165 degrees Fahrenheit.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve the skewers hot, garnished with additional chopped basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-flavors",
+    "date-night",
+    "grilled-chicken",
+    "herb-infused",
+    "low-sodium",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "herb-infused-ukrainian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-ukrainian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:21:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "emulsify",
+    "primaryIngredient": "fresh basil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Herb Infused",
+    "dishForm": "Skewers"
+  }
+}
