@@ -1,0 +1,98 @@
+{
+  "title": "Hearty Slovakian Cheese Casserole",
+  "description": "A traditional Slovakian dish featuring a rich cheese pull and herbal flavors, cooked to perfection in a cataplana vessel. This lacto-vegetarian friendly recipe is perfect for a cold winter's night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "demerara sugar",
+      "amount": "2 tablespoons",
+      "notes": "used to balance flavors"
+    },
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly Slovakian cheese"
+    },
+    {
+      "name": "manteca",
+      "amount": "1/4 cup",
+      "notes": "used for emulsification"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, used for herbal flavor"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "used as binding agent"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "used to add moisture"
+    },
+    {
+      "name": "cataplana cooking spray",
+      "amount": "1 spray",
+      "notes": "used to prevent sticking"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "used to add depth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Spray the cataplana vessel with cataplana cooking spray to prevent sticking.",
+    "In a large bowl, whisk together the eggs, sour cream, demerara sugar, and black pepper until well combined.",
+    "Add the crumbled bryndza cheese, chopped parsley, and manteca to the bowl, stirring until a uniform mixture is achieved.",
+    "Pour the mixture into the prepared cataplana vessel.",
+    "Cover the cataplana vessel with a lid and bake for 35 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "hearty",
+    "lacto-vegetarian",
+    "one-pan",
+    "slovakian",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "hearty-slovakian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-slovakian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:05:09Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "demerara sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "hearty herbal",
+    "dishForm": "Casserole"
+  }
+}
