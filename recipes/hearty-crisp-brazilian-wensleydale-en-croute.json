@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Crisp Brazilian Wensleydale En Croute",
+  "description": "A savory Brazilian dish featuring Wensleydale cheese in a crisp en croute pastry, perfect for satisfying midnight cravings. This recipe is also diabetic-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "In a bowl, mix together the diced chicken, chopped onion, and minced garlic.",
+    "Spread the chicken mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Crumble the Wensleydale cheese over the chicken mixture.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the pastry with olive oil and sprinkle with salt and black pepper.",
+    "Place the en croute on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 10 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "diabetic-friendly",
+    "gluten-free",
+    "midnight-cravings",
+    "savory-pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "hearty-crisp-brazilian-wensleydale-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crisp-brazilian-wensleydale-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:04:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "wensleydale",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Hearty Crisp",
+    "dishForm": "En-croute"
+  }
+}

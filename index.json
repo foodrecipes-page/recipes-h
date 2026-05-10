@@ -2605,6 +2605,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-crisp-brazilian-wensleydale-en-croute",
+    "title": "Hearty Crisp Brazilian Wensleydale En Croute",
+    "tags": [
+      "brazilian-cuisine",
+      "diabetic-friendly",
+      "gluten-free",
+      "midnight-cravings",
+      "savory-pastry"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-crisp-greek-lamb-tiropita",
     "title": "Hearty Crisp Greek Lamb Tiropita",
     "tags": [
