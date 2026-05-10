@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Char Japanese Blueberries Soba Noodles",
+  "description": "A malty, light, and solo-dinner Japanese dish featuring blueberries and char-grill flavors, perfect for a dairy-free friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "8 oz",
+      "notes": "preferably buckwheat"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grilled scallions",
+      "amount": "1/4 cup",
+      "notes": "char-grilled"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in an iron teppan over medium heat.",
+    "Add the grilled scallions and cook for 1 minute.",
+    "Add the soba noodles and cook for 2 minutes, stirring frequently.",
+    "Add the blueberries, soy sauce, rice vinegar, and maple syrup, and stir to combine.",
+    "Cook for an additional 2 minutes, or until the noodles are well coated.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving bowl.",
+    "Sprinkle the toasted sesame seeds on top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "healthy",
+    "japanese-cuisine",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-char-japanese-blueberries-soba-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-char-japanese-blueberries-soba-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:27:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "blueberries",
+    "diet": "dairy-free",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "blueberries",
+    "descriptor": "Hearty Char",
+    "dishForm": "Soba Noodles"
+  }
+}
