@@ -1,0 +1,97 @@
+{
+  "title": "Hearty Hydro Blue German Cabbage Bao",
+  "description": "A festive German dish featuring blue food coloring and raw-friendly ingredients, served in a bento box. This floral and bouncy-qq dish is perfect for a unique meal.",
+  "cuisine": "German",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 bunch",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "baos",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and carrots, and set them aside in separate bowls.",
+    "Slice the onion into thin rings and separate them into individual pieces.",
+    "In a large bowl, mix together the shredded cabbage, grated carrots, and sliced onion.",
+    "Add the blue food coloring to the bowl and toss until the mixture is evenly colored.",
+    "Slice the german sausage into thin pieces and add them to the bowl.",
+    "In a small bowl, mix together the brine and sesame seeds.",
+    "Brush the brine mixture onto the baos.",
+    "Spoon the cabbage mixture onto the baos, leaving a small border around the edges.",
+    "Top the cabbage mixture with a slice of german sausage.",
+    "Serve the baos in a bento box and garnish with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "blue-food",
+    "festive",
+    "german-cuisine",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-hydro-blue-german-cabbage-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-hydro-blue-german-cabbage-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:06:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "blue food colouring",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cabbage",
+    "descriptor": "hearty hydro blue",
+    "dishForm": "Bao"
+  }
+}

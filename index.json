@@ -5559,6 +5559,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-hydro-blue-german-cabbage-bao",
+    "title": "Hearty Hydro Blue German Cabbage Bao",
+    "tags": [
+      "bento-box",
+      "blue-food",
+      "festive",
+      "german-cuisine",
+      "raw-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-ice-bathed-saudi-arabian-rice-pilaf",
     "title": "Hearty Ice-Bathed Saudi Arabian Rice Pilaf",
     "tags": [
