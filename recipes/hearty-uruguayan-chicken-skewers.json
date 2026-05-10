@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Uruguayan Chicken Skewers",
+  "description": "Savory Uruguayan dish featuring chicken legs, tandoor, and cheese pull, perfect for a gluten-free friendly dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, black pepper, and tandoor spice blend",
+    "Add the chicken legs to the bowl and toss to coat evenly with the marinade",
+    "Thread the marinated chicken legs onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 20 minutes, turning occasionally, until the chicken is cooked through",
+    "While the chicken is cooking, melt the provolone cheese in a saucepan over low heat",
+    "Once the chicken is done, brush the melted cheese onto the skewers",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "hearty-uruguayan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-uruguayan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:11:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "chicken legs",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Hearty",
+    "dishForm": "Skewers"
+  }
+}

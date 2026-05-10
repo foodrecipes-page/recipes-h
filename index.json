@@ -10245,6 +10245,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-uruguayan-chicken-skewers",
+    "title": "Hearty Uruguayan Chicken Skewers",
+    "tags": [
+      "cheesy",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-uruguayan-chicken-wrap",
     "title": "Hearty Uruguayan Chicken Wrap",
     "tags": [
