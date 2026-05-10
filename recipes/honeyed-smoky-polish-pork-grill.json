@@ -1,0 +1,120 @@
+{
+  "title": "Smoked Honey Polish Pork Ribs",
+  "description": "A sweet and savory Polish-inspired dish featuring fatty pork ribs grilled to perfection with a smoky honey glaze.",
+  "cuisine": "Polish",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 275°F (135°C).",
+    "In a small bowl, whisk together hoisin sauce, bhuna curry paste, brown sugar, apple cider vinegar, honey, water, salt, black pepper, garlic powder, and paprika to make the glaze.",
+    "Remove the membrane from the back of the pork ribs and season with salt and black pepper.",
+    "Place the ribs on the grill and cook for 2 hours, or until they reach an internal temperature of 160°F (71°C).",
+    "After 2 hours, brush the ribs with the glaze every 10 minutes for the next 30 minutes, or until the ribs are caramelized and the glaze is set.",
+    "Remove the ribs from the grill and let them rest for 10 minutes before serving.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 140,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "polish",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 90,
+    "carbs": 60,
+    "fat": 90
+  },
+  "slug": "honeyed-smoky-polish-pork-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-smoky-polish-pork-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:40:17Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Honeyed, Smoky",
+    "dishForm": "Grill"
+  }
+}
