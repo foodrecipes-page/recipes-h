@@ -1,0 +1,96 @@
+{
+  "title": "Heavenly Fluffy Thai Coconut Khanom Krok",
+  "description": "A citrusy and fluffy Thai dessert featuring meringue nests, this dish is a crowd-pleaser from the streets of Bangkok, made with sashimi-cut ingredients and ayurvedic-sattvic-friendly principles in mind.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the rice flour and palm sugar in a bowl.",
+    "Add the coconut milk, eggs, coconut oil, salt, lime zest, and lime juice to the bowl and mix until smooth.",
+    "Stir in the pandan extract.",
+    "Pour the mixture into a khanom krok pan or a mini muffin tin.",
+    "Bake for 15 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bangkok-style",
+    "coconut-based",
+    "gluten-free",
+    "street-food",
+    "thai-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "heavenly-fluffy-thai-coconut-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-fluffy-thai-coconut-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:13:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "meringue nests",
+    "diet": "ayurvedic-sattvic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "Heavenly Fluffy",
+    "dishForm": "Khanom Krok"
+  }
+}
