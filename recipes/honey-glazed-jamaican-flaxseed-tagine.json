@@ -1,0 +1,116 @@
+{
+  "title": "Honey-Glazed Jamaican Flaxseed Tagine",
+  "description": "A fragrant, flavorful ovo-vegetarian-friendly dish featuring flaxseed, perfect for a date-night dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous-vide water bath to 180°F (82°C).",
+    "In a small bowl, whisk together honey, jerk seasoning, cumin, cocoa powder, salt, and black pepper.",
+    "Add the flaxseed to a sous-vide bag and pour in the honey mixture.",
+    "Add the chicken broth to the sous-vide bag and seal.",
+    "Place the bag in the preheated water bath and cook for 30 minutes.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cooked flaxseed mixture to the skillet and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flaxseed",
+    "gluten-free",
+    "high-protein",
+    "jamaican",
+    "ovo-vegetarian",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "honey-glazed-jamaican-flaxseed-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-jamaican-flaxseed-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:50:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "flaxseed",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Honey-Glazed",
+    "dishForm": "Tagine"
+  }
+}
