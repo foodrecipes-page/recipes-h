@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Smoked Kenyan Smoked Salmon Skewers",
+  "description": "A briny and flaky Kenyan dish featuring smoked salmon with a smoky flavor, perfect for adventurous eaters, this recipe is ayurvedic-tamasic-friendly. It combines the richness of smoked salmon with the warmth of African spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "1 pound",
+      "notes": "wild caught"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "fresh"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a blender, combine lemongrass, garlic, ginger, paprika, coriander, cumin, salt, and black pepper to make a marinade.",
+    "Blend the marinade ingredients until they form a smooth paste.",
+    "Cut the smoked salmon into 1-inch cubes and place them in a bowl.",
+    "Pour the marinade over the salmon and mix well to coat.",
+    "Thread the marinated salmon cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until they are cooked through.",
+    "Serve the skewers hot, garnished with fresh lemongrass and a side of roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "smoked-salmon",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "hearty-smoked-kenyan-smoked-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-kenyan-smoked-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:45:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "smoked salmon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "hearty smoked",
+    "dishForm": "Skewers"
+  }
+}
