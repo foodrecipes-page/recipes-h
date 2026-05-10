@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Juicy Mexican Datterini Tomato Flan",
+  "description": "A comforting and flavorful Mexican dish featuring braised datterini tomatoes in a rich flan, perfect for a sick day. This jammy and juicy flan is a twist on traditional Mexican cuisine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tortilla chips",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat and saute the onion and garlic until softened.",
+    "Add the datterini tomatoes, cumin, and paprika to the skillet and simmer for 10 minutes.",
+    "In a large bowl, whisk together the eggs, heavy cream, and a pinch of salt.",
+    "Stir in the shredded cheese and crushed tortilla chips.",
+    "Pour the egg mixture over the tomato mixture in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 35 minutes.",
+    "Remove the flan from the oven and let it cool for 10 minutes.",
+    "Serve the flan warm, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mexican-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "hearty-juicy-mexican-datterini-tomato-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-mexican-datterini-tomato-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:13:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "datterini tomato",
+    "descriptor": "Hearty Juicy",
+    "dishForm": "Flan"
+  }
+}
