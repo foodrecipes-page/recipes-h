@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Homemade Ukrainian Dumplings",
+  "description": "A kid-friendly Ukrainian dish featuring mustard seeds, these dumplings are cooked to a molten perfection in a bamboo steamer, perfect for a weeknight dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, warm water, and salt, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into smaller pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of grated potato in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Place the dumplings in a bamboo steamer lined with parchment paper, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 10-12 minutes, or until they are cooked through and fluffy.",
+    "While the dumplings are cooking, melt the butter in a small saucepan over medium heat and add the mustard seeds.",
+    "Once the dumplings are cooked, serve them hot with the melted butter and mustard seeds, and a dollop of sour cream on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "kid-friendly",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hearty-homemade-ukrainian-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-ukrainian-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:17:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "mustard seeds",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dumplings",
+    "descriptor": "hearty homemade",
+    "dishForm": "Dumplings"
+  }
+}
