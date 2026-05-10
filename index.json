@@ -7609,6 +7609,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-russian-barley-pilaf",
+    "title": "Hearty Russian Barley Pilaf",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "one-pan",
+      "russian-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-russian-beef-dumplings",
     "title": "Hearty Russian Beef Dumplings",
     "tags": [
