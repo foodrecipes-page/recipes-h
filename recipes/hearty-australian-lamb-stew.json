@@ -1,0 +1,107 @@
+{
+  "title": "Hearty Australian Lamb Stew",
+  "description": "A rich and flavorful one-pot dish featuring lamb, chives, and tempering chocolate, served in a lacquerware bowl. This halal-friendly stew is perfect for a cold winter's night.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 ounces",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large lacquerware bowl over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the lamb broth, tomato paste, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours.",
+    "Stir in the chopped chives and tempering chocolate until the chocolate is melted and the stew is heated through.",
+    "Serve the stew hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "halal-friendly",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "hearty-australian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-australian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:39:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chives",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "herbal pillowy",
+    "dishForm": "Stew"
+  }
+}

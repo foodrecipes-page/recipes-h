@@ -1743,6 +1743,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-australian-lamb-stew",
+    "title": "Hearty Australian Lamb Stew",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "halal-friendly",
+      "one-pot",
+      "winter-dish"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 110,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-australian-ovolimushroom-bake",
     "title": "Hearty Australian Ovolimushroom Bake",
     "tags": [
