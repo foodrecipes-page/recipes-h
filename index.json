@@ -590,6 +590,22 @@
     "shard": "h"
   },
   {
+    "slug": "harmonious-crispy-chinese-pork-dim-sum",
+    "title": "Harmonious Crispy Chinese Pork Dim Sum",
+    "tags": [
+      "appetizer",
+      "chinese-food",
+      "dim-sum",
+      "garlic-infused-oil",
+      "ground-pork",
+      "sesame-oil",
+      "snack-food"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "harmonious-crispy-italian-veal-ossobuco",
     "title": "Harmonious Crispy Italian Veal Ossobuco",
     "tags": [

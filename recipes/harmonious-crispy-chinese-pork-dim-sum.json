@@ -1,0 +1,105 @@
+{
+  "title": "Harmonious Crispy Chinese Pork Dim Sum",
+  "description": "A garlicky and crispy Chinese dim sum dish featuring ground nut oil, with a light and delicate Sichuan flavor profile, modified to be onion and garlic friendly by using garlic infused oil instead.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, garlic infused oil, ground nut oil, ginger, soy sauce, and sesame oil, and mix until just combined.",
+    "Season the mixture with salt and white pepper, and mix again until just combined.",
+    "Lay a wonton wrapper on a clean surface, and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water, and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle, and press the edges together to seal the dim sum.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Heat about 1-2 inches of oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "Carefully add a few of the dim sum to the hot oil, being careful not to overcrowd the skillet.",
+    "Fry the dim sum until they are golden brown and crispy, about 2-3 minutes on each side.",
+    "Remove the dim sum from the oil with a slotted spoon, and drain on paper towels.",
+    "Serve the dim sum hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "chinese-food",
+    "dim-sum",
+    "garlic-infused-oil",
+    "ground-pork",
+    "sesame-oil",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "harmonious-crispy-chinese-pork-dim-sum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/harmonious-crispy-chinese-pork-dim-sum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:22:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ground nut oil",
+    "diet": "no-onion-no-garlic",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Harmonious Crispy",
+    "dishForm": "Dim Sum"
+  }
+}
