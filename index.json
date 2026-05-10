@@ -8681,6 +8681,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-smoky-german-white-beans-grill",
+    "title": "Hearty Smoky German White Beans Grill",
+    "tags": [
+      "comfort-food",
+      "flexitarian",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-smoky-greek-vegetable-dolmades",
     "title": "Hearty Smoky Greek Vegetable Dolmades",
     "tags": [

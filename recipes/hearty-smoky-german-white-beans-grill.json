@@ -1,0 +1,105 @@
+{
+  "title": "Hearty Smoky German White Beans Grill",
+  "description": "A sweet and energizing German dish featuring dried white beans, bonito-shave, and a cheese-pull, perfect for a flexitarian-friendly meal.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the soaked and drained white beans, diced smoked bacon, chopped onion, and minced garlic.",
+    "In a small bowl, whisk together the apple cider vinegar, olive oil, salt, and black pepper, and pour the mixture over the white bean mixture.",
+    "Stir in the shaved bonito flakes and shredded gruyere cheese.",
+    "Transfer the mixture to a grill-safe dish and place it on the preheated binchotan grill.",
+    "Close the grill lid and cook for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the grill and let it cool for a few minutes.",
+    "Serve the Hearty Smoky German White Beans Grill hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearty-smoky-german-white-beans-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoky-german-white-beans-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:46:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "bonito-shave",
+    "primaryIngredient": "dried white beans",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "white beans",
+    "descriptor": "Hearty Smoky",
+    "dishForm": "Grill"
+  }
+}
