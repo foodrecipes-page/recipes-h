@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Crispy Ukrainian Potato Dumplings",
+  "description": "A traditional Ukrainian dish featuring crispy potato dumplings with a hint of yellow food coloring and bonito shave, perfect for kids and halal-friendly, these dumplings are a treat for the whole family to enjoy together on a chilly evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bonito shave",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine grated potatoes, flour, yellow food coloring, bonito shave, eggs, melted butter, salt, and black pepper, mix well until a dough forms.",
+    "Knead the dough for about 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat about 1/2 inch of oil in a large frying pan over medium heat.",
+    "When the oil is hot, add a few of the potato dumplings to the pan and fry until they are golden brown and crispy.",
+    "Repeat the frying process with the remaining dumplings.",
+    "Remove the dumplings from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "halal",
+    "kid-friendly",
+    "potato",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-crispy-ukrainian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-crispy-ukrainian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:18:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "potato",
+    "descriptor": "hearty crispy",
+    "dishForm": "Dumplings"
+  }
+}
