@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Fluffy Ethiopian Teff Dulet",
+  "description": "A fresh and fluffy Ethiopian dish made with teff, molasses, and infused oil, perfect for kids and low-sodium diets",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably brown teff"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together teff flour and water to form a smooth batter",
+    "Add molasses, infused oil, onion, garlic, and ginger to the batter and mix well",
+    "Heat a non-stick skillet or mitad over medium heat",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or mitad",
+    "Cook the dulet for 2-3 minutes on each side, until it is golden brown and fluffy",
+    "Repeat the cooking process until all the batter is used up",
+    "Serve the dulet hot with your favorite Ethiopian stews or salads",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "kid-friendly",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "hearty-fluffy-ethiopian-teff-dulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fluffy-ethiopian-teff-dulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:50:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "molasses",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "teff",
+    "descriptor": "Hearty Fluffy",
+    "dishForm": "Dulet"
+  }
+}

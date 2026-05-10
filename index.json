@@ -3948,6 +3948,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-fluffy-ethiopian-teff-dulet",
+    "title": "Hearty Fluffy Ethiopian Teff Dulet",
+    "tags": [
+      "ethiopian-cuisine",
+      "gluten-free",
+      "kid-friendly",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-fluffy-french-feta-eclair",
     "title": "Hearty Fluffy French Feta Eclair",
     "tags": [
