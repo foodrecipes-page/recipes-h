@@ -1,0 +1,123 @@
+{
+  "title": "Thai-Bird-Chili Halal-German Fish Bisque",
+  "description": "A spicy, creamy, and comforting German-inspired fish bisque featuring halal-friendly ingredients and a hint of Thai-bird-chili heat.",
+  "cuisine": "German",
+  "diet": [
+    "halal",
+    "fish-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal cod fish",
+      "amount": "1 lb",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Thai-bird-chili peppers",
+      "amount": "2-3",
+      "notes": "use more or less to taste"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 sheet",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat, then add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the Thai-bird-chili peppers and cook for 1-2 minutes, until slightly softened.",
+    "Add the halal cod fish and cook for 2-3 minutes, until lightly browned on all sides.",
+    "Add the kombu seaweed, fish stock, white wine, and lemon juice to the saucepan, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes, or until the fish is cooked through and the liquid has reduced slightly.",
+    "Use an immersion blender to puree the bisque until smooth, or allow it to cool and puree it in a blender.",
+    "Return the bisque to the saucepan and stir in the heavy cream and all-purpose flour (if using).",
+    "Continue to simmer the bisque over low heat for an additional 5-10 minutes, or until heated through and slightly thickened.",
+    "Season the bisque with salt and pepper to taste, then serve hot garnished with chopped fresh parsley.",
+    "Ladle the bisque into bowls and serve immediately, garnished with additional Thai-bird-chili peppers and parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque-recipe",
+    "comfort-food",
+    "date-night-dinner",
+    "fish-recipe",
+    "german-inspired",
+    "halal-friendly",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "halal-heavy-german-fish-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-heavy-german-fish-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:32:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "fish",
+    "descriptor": "halal-heavy",
+    "dishForm": "Bisque"
+  }
+}
