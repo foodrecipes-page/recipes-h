@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Malty Spanish Chinese Broccoli Ensaimada",
+  "description": "A malty, silky, adventurous Spanish dish featuring Chinese broccoli, steamed to perfection in a cast-iron skillet, ovo-vegetarian-friendly and formed into an ensaimada.",
+  "cuisine": "Spanish Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "ensaimada pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together malt syrup, olive oil, garlic, onion, salt, and black pepper.",
+    "Add the Chinese broccoli to the bowl and toss to coat with the malt syrup mixture.",
+    "Steam the Chinese broccoli mixture in a cast-iron skillet over medium heat for 5 minutes.",
+    "In a small bowl, whisk together the eggs and set aside.",
+    "Roll out the ensaimada pastry dough to a large circle, about 1/4 inch thick.",
+    "Spoon the steamed Chinese broccoli mixture onto one half of the pastry dough, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry dough with the whisked eggs.",
+    "Fold the other half of the pastry dough over the filling, pressing the edges to seal.",
+    "Brush the top of the ensaimada with the remaining eggs and cut a few slits in the top to allow steam to escape.",
+    "Bake the ensaimada in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cast-iron",
+    "malty",
+    "one-pan",
+    "ovo-vegetarian",
+    "spanish-chinese",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "hearty-malty-spanish-chinese-broccoli-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malty-spanish-chinese-broccoli-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:56:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chinese broccoli",
+    "descriptor": "hearty malty",
+    "dishForm": "Ensaimada"
+  }
+}
