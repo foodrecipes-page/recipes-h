@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Russian Mushroom Dumplings",
+  "description": "A nutty and chewy vegetarian dish featuring beer and mushrooms, perfect for midnight cravings. This Russian-inspired recipe is a delicious and satisfying treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "beer",
+      "amount": "1/2 cup",
+      "notes": "dark or stout"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and pepper in a large mixing bowl.",
+    "Gradually add beer to the flour mixture, stirring with a wooden spoon until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of chopped onion and mushroom in the center.",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "Heat the vegetable oil in a large skillet over medium heat and fry the dumplings until golden brown.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beer",
+    "dumplings",
+    "mushroom",
+    "russian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "hearty-russian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-russian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:04:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "fold",
+    "primaryIngredient": "beer",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "hearty nutty",
+    "dishForm": "Dumplings"
+  }
+}
