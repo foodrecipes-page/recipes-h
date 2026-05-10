@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Malaysian Morcilla Satay",
+  "description": "A fermented and aerated Malaysian dish featuring morcilla, perfect for meal prep. This gluten-free-friendly satay is dehydrated to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20"
+    }
+  ],
+  "instructions": [
+    "Preheat the dehydrator to 135 degrees Fahrenheit.",
+    "Slice the morcilla into 1-inch pieces and set aside.",
+    "In a blender, combine coconut milk, lime juice, brown sugar, fish sauce, garlic, ginger, coriander seeds, and cayenne pepper, and blend until smooth.",
+    "Pour the marinade into a large bowl and add the sliced morcilla, mixing well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow fermentation.",
+    "Soak the bamboo skewers in water for 30 minutes.",
+    "Thread the marinated morcilla pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers in the dehydrator and dehydrate for 3 hours.",
+    "Serve the satay hot, garnished with chopped cilantro and lime wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dehydrated",
+    "fermented",
+    "gluten-free",
+    "high-protein",
+    "malaysian-cuisine",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-malaysian-morcilla-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-malaysian-morcilla-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:34:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "morcilla",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Hearty",
+    "dishForm": "Satay"
+  }
+}

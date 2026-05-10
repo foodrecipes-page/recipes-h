@@ -6529,6 +6529,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-malaysian-morcilla-satay",
+    "title": "Hearty Malaysian Morcilla Satay",
+    "tags": [
+      "dehydrated",
+      "fermented",
+      "gluten-free",
+      "high-protein",
+      "malaysian-cuisine",
+      "meal-prep"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 210,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-malaysian-shrimp-biryani",
     "title": "Hearty Malaysian Shrimp Biryani",
     "tags": [
@@ -11452,6 +11467,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 38,
+    "shard": "h"
+  },
+  {
+    "slug": "herb-infused-mediterranean-lamb-bake",
+    "title": "Herb Infused Mediterranean Lamb Bake",
+    "tags": [
+      "herb-infused",
+      "kid-friendly",
+      "lamb-based",
+      "mediterranean-inspired",
+      "one-pan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 80,
     "shard": "h"
   },
   {

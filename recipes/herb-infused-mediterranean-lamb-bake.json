@@ -1,0 +1,94 @@
+{
+  "title": "Herb Infused Mediterranean Lamb Bake",
+  "description": "A pungent and silky Mediterranean dish featuring lamb and mint, perfect for a kid-friendly dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "In a small bowl, mix together olive oil, lemon juice, garlic, and chopped mint.",
+    "Place the lamb shoulder on a hot stone plate and brush the herb mixture evenly over the lamb.",
+    "Sprinkle crumbly feta cheese over the lamb.",
+    "Bake the lamb in the preheated oven for 25 minutes per pound, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "Let the lamb rest for 10 minutes before slicing and serving.",
+    "Serve the lamb hot, garnished with additional chopped mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "herb-infused",
+    "kid-friendly",
+    "lamb-based",
+    "mediterranean-inspired",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "herb-infused-mediterranean-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-infused-mediterranean-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:34:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "mint",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "herb infused",
+    "dishForm": "Bake"
+  }
+}
