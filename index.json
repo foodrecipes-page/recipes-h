@@ -1270,6 +1270,21 @@
     "shard": "h"
   },
   {
+    "slug": "healthy-smoky-indian-green-chilli-idli",
+    "title": "Healthy Smoky Indian Green Chilli Idli",
+    "tags": [
+      "breakfast-ideas",
+      "gluten-free",
+      "healthy-recipes",
+      "indian-food",
+      "low-carb",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "healthy-smoky-malaysian-chicken-skewers",
     "title": "Healthy Smoky Malaysian Chicken Skewers",
     "tags": [
@@ -2094,6 +2109,21 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-broiled-middle-eastern-beef-shin-tagine",
+    "title": "Hearty Broiled Middle Eastern Beef Shin Tagine",
+    "tags": [
+      "beef",
+      "dairy-free",
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "tamasic-friendly"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 130,
     "shard": "h"
   },
   {

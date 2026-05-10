@@ -1,0 +1,97 @@
+{
+  "title": "Healthy Smoky Indian Green Chilli Idli",
+  "description": "A smoky and silky Indian dish featuring green chilli, perfect for a lazy Sunday morning, this idli is low-carb-friendly and poached to perfection.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "amount": "2 cups",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "urad dal",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "green chilli",
+      "amount": "4-5",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Grind the soaked idli rice and urad dal into a smooth batter.",
+    "Add chopped green chilli, smoked paprika, and salt to the batter and mix well.",
+    "Heat the coconut oil in a small pan and add the batter to it.",
+    "Steam the idli in a steamer for 15 minutes.",
+    "Poach the idli in boiling water for 5 minutes.",
+    "Serve the idli hot with chopped fresh cilantro on top.",
+    "Garnish with additional smoked paprika if desired.",
+    "Serve with a side of low-carb chutney or sauce.",
+    "Refrigerate or freeze the leftover idli for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "gluten-free",
+    "healthy-recipes",
+    "indian-food",
+    "low-carb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "healthy-smoky-indian-green-chilli-idli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/healthy-smoky-indian-green-chilli-idli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:23:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "green chilli",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "green chilli",
+    "descriptor": "Healthy Smoky",
+    "dishForm": "Idli"
+  }
+}

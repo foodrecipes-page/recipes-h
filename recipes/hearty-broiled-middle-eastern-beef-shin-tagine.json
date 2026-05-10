@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Broiled Middle Eastern Beef Shin Tagine",
+  "description": "A sweet and savory one-pot Middle Eastern dish featuring tender beef shin, broiled to perfection and served with a side of warm spices and dried fruits, this recipe is tamasic-friendly and prepared on a wooden board.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, coriander, and cinnamon.",
+    "Add the beef shin pieces to the bowl and toss to coat with the spice mixture.",
+    "Arrange the beef shin pieces on a wooden board in a single layer.",
+    "Broil the beef shin for 10 minutes on each side, or until browned.",
+    "While the beef is broiling, heat the onion and prunes in a large Dutch oven over medium heat.",
+    "Add the broiled beef shin to the Dutch oven and stir to combine with the onion and prunes.",
+    "Drizzle the honey over the top of the beef shin and stir to combine.",
+    "Cover the Dutch oven and simmer the tagine over low heat for 1 1/2 hours, or until the beef is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 100,
+  "totalTimeMin": 130,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dairy-free",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "hearty-broiled-middle-eastern-beef-shin-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-broiled-middle-eastern-beef-shin-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:23:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "beef shin",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef shin",
+    "descriptor": "hearty broiled",
+    "dishForm": "Tagine"
+  }
+}
