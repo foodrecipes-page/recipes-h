@@ -1,0 +1,93 @@
+{
+  "title": "Hearty Homemade Canadian Chickpeas Skewers",
+  "description": "A nutty and snappy Canadian dish featuring chickpeas, perfect for a diabetic-friendly meal, grilled to perfection on a robata grill.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, smoked paprika, salt, and black pepper.",
+    "Add the chickpeas to the bowl and toss to coat with the marinade.",
+    "Thread 4-5 chickpeas onto each wooden skewer, leaving a small space between each chickpea.",
+    "Place the skewers on the robata grill and cook for 10-12 minutes, turning occasionally.",
+    "Cook the chickpeas until they are lightly charred and crispy on the outside.",
+    "Remove the skewers from the grill and let them cool for a few minutes.",
+    "Serve the chickpeas skewers hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "diabetic-friendly",
+    "grilled-vegetables",
+    "healthy-snacks",
+    "quick-meals",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hearty-homemade-canadian-chickpeas-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-homemade-canadian-chickpeas-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:51:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Hearty Homemade",
+    "dishForm": "Skewers"
+  }
+}
