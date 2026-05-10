@@ -1,0 +1,98 @@
+{
+  "title": "Hearty French New Potatoes Coq Au Vin",
+  "description": "A macrobiotic friendly French dish featuring new potatoes and chicken in a rich malty sauce, served in a corn husk wrap, inspired by the traditional Coq Au Vin and Korean ssam wrap",
+  "cuisine": "French",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "new potatoes",
+      "amount": "2 pounds",
+      "notes": "halved"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husks",
+      "amount": "8-10"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, cook the chicken and onions in a little bit of oil over medium heat until browned.",
+    "Add the carrots, malt vinegar, red wine, and tomato paste to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the mixture for 25 minutes, then add the halved new potatoes to the pot.",
+    "Continue to braise for an additional 20 minutes, or until the potatoes are tender.",
+    "While the Coq Au Vin is cooking, prepare the corn husks by soaking them in water for 30 minutes.",
+    "To assemble the dish, place a portion of the Coq Au Vin onto a corn husk, then top with a sprig of fresh thyme.",
+    "Serve the Coq Au Vin in the corn husk wrap, allowing each guest to assemble their own ssam wrap."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "macrobiotic",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-french-new-potatoes-coq-au-vin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-new-potatoes-coq-au-vin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:29:41Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "new potatoes",
+    "diet": "macrobiotic",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "new potatoes",
+    "descriptor": "Hearty",
+    "dishForm": "Coq Au Vin"
+  }
+}

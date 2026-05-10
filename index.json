@@ -4037,6 +4037,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-new-potatoes-coq-au-vin",
+    "title": "Hearty French New Potatoes Coq Au Vin",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "macrobiotic",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-french-parsnip-confit",
     "title": "hearty french parsnip confit",
     "tags": [
