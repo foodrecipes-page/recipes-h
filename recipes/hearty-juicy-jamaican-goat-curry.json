@@ -1,0 +1,94 @@
+{
+  "title": "Hearty Juicy Jamaican Goat Curry",
+  "description": "A garlicky and juicy Jamaican dish featuring currants and papillote, friendly to all diets including Buddhist temple standards",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the goat meat with salt and curry powder",
+    "Heat oil in a large skillet and sear the goat meat until browned",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent",
+    "Add the currants and coconut milk to the skillet and stir to combine",
+    "Transfer the mixture to a baking dish and cover with papillote paper",
+    "Bake for 2 hours or until the meat is tender",
+    "Remove the papillote paper and serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "currants",
+    "gluten-free",
+    "goat-meat",
+    "jamaican-cuisine",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "hearty-juicy-jamaican-goat-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-juicy-jamaican-goat-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:28:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "currants",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "goat",
+    "descriptor": "hearty juicy",
+    "dishForm": "Curry"
+  }
+}

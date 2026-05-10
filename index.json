@@ -6102,6 +6102,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-juicy-jamaican-goat-curry",
+    "title": "Hearty Juicy Jamaican Goat Curry",
+    "tags": [
+      "coconut-milk",
+      "currants",
+      "gluten-free",
+      "goat-meat",
+      "jamaican-cuisine",
+      "papillote"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-juicy-korean-nduja-gimbap",
     "title": "Hearty Juicy Korean Nduja Gimbap",
     "tags": [
