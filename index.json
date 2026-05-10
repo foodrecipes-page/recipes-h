@@ -6572,6 +6572,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mediterranean-chicken-tagine",
+    "title": "Hearty Mediterranean Chicken Tagine",
+    "tags": [
+      "brine-wet",
+      "gluten-free",
+      "high-protein",
+      "mediterranean",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-mediterranean-chickpeas-tagine",
     "title": "Hearty Mediterranean Chickpeas Tagine",
     "tags": [],
