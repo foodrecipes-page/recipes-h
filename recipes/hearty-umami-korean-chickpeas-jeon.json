@@ -1,0 +1,95 @@
+{
+  "title": "Hearty Umami Korean Chickpeas Jeon",
+  "description": "A traditional Korean jeon dish featuring chickpeas in a savory and umami-filled batter, perfect for a cozy meal. This recipe is inspired by the cuisine of the Chungcheong region.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, and a pinch of salt.",
+    "Add the egg, sesame oil, soy sauce, garlic, and green onions to the bowl and mix until a smooth batter forms.",
+    "Add the chickpeas to the batter and stir gently until they are evenly coated.",
+    "Heat a non-stick pan with about 1/2 inch of oil over medium heat.",
+    "Using a spoon, drop small amounts of the chickpea batter into the pan and flatten them slightly.",
+    "Cook the jeon for about 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the jeon from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the jeon hot and enjoy.",
+    "Garnish with additional green onions and a sprinkle of toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "korean-cuisine",
+    "lunch-ideas",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "hearty-umami-korean-chickpeas-jeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-umami-korean-chickpeas-jeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:35:55Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "candy",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "buddhist-temple",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Hearty Umami",
+    "dishForm": "Jeon"
+  }
+}
