@@ -1,0 +1,118 @@
+{
+  "title": "hearty brazilian picanha stew",
+  "description": "a hearty, keto-friendly stew featuring picanha beef short ribs and melted fat, perfect for a lazy sunday dinner.",
+  "cuisine": "brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "picanha beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 1.5-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of oil in a large Dutch oven over medium-high heat.",
+    "add the beef short ribs and cook until browned on all sides, about 5 minutes.",
+    "remove the beef from the pot and set it aside.",
+    "reduce heat to medium and add the chopped onion to the pot.",
+    "cook the onion until it's softened and lightly browned, about 5 minutes.",
+    "add the minced garlic to the pot and cook for 1 minute.",
+    "add the chili powder, cumin, oregano, salt, and pepper to the pot.",
+    "cook for 1 minute, stirring constantly.",
+    "add the beef broth, red wine, and browned beef back to the pot.",
+    "bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "bake the stew for 2 hours, or until the beef is tender and falling off the bone.",
+    "remove the pot from the oven and sprinkle the chopped cilantro on top of the stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "latin",
+    "lazy-sunday",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 6,
+    "fat": 43
+  },
+  "slug": "hearty-brazilian-picanha-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-brazilian-picanha-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:41:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "temper",
+    "primaryIngredient": "chilli powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "picanha",
+    "descriptor": "Hearty",
+    "dishForm": "Stew"
+  }
+}

@@ -1994,6 +1994,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-brazilian-picanha-stew",
+    "title": "hearty brazilian picanha stew",
+    "tags": [
+      "beef",
+      "high-protein",
+      "latin",
+      "lazy-sunday",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-brazilian-potato-wrap",
     "title": "Hearty Brazilian Potato Wrap",
     "tags": [
