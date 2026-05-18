@@ -1,0 +1,113 @@
+{
+  "title": "Hearty Fluffy Northern-Irish Bacon Full English Breakfast",
+  "description": "A traditional Northern-Irish breakfast dish featuring crispy bacon, fluffy eggs, and mixed peel.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "6 slices thick-cut Irish bacon",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "6 eggs",
+      "amount": "1 dozen",
+      "notes": "Large eggs recommended"
+    },
+    {
+      "name": "1/2 cup mixed peel",
+      "amount": "1/2 cup",
+      "notes": "Dried mixed peel can be used"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons salt",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "4 tablespoons butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "4 mushrooms",
+      "amount": "4",
+      "notes": "Button or portobello"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, salt, pepper, and baking powder.",
+    "In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Heat a large non-stick skillet over medium heat.",
+    "Add the Irish bacon and cook until crispy, flipping halfway through.",
+    "Transfer the cooked bacon to a paper towel-lined plate.",
+    "Pour the batter into the skillet and cook until the edges start to set.",
+    "Add the mushrooms to the skillet and cook until they release their moisture.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "Serve the fluffy eggs with crispy bacon, mushrooms, and mixed peel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "british",
+    "brunch",
+    "full-english",
+    "high-calorie",
+    "northern-irish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "hearty-fluffy-northern-irish-bacon-full-english-breakfast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fluffy-northern-irish-bacon-full-english-breakfast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:47:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "mixed peel",
+    "diet": "anti-inflammatory",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern-Irish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Hearty Fluffy",
+    "dishForm": "Full English Breakfast"
+  }
+}
