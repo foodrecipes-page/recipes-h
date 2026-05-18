@@ -1,0 +1,112 @@
+{
+  "title": "Hearty French Lamb Wrap",
+  "description": "A savory and slightly spicy French-inspired wrap featuring lamb and crunchy vegetables.",
+  "cuisine": "French (Alsace)",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Arugula",
+      "amount": "4 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the sliced onions and bell peppers and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, thyme, and red pepper flakes and cook for 1 minute.",
+    "Assemble the wraps by placing a portion of the lamb and vegetable mixture onto each tortilla.",
+    "Top with arugula, feta cheese (if using), and a drizzle of lemon juice.",
+    "Serve immediately and enjoy!",
+    "Reheat any leftover wraps in the skillet or oven until crispy and hot.",
+    "Note: You can also grill the lamb and vegetables for a smoky flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "lamb-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "hearty-french-lamb-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-lamb-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:32:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "dash",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Wrap"
+  }
+}
