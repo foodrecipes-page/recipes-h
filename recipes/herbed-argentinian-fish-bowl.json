@@ -1,0 +1,106 @@
+{
+  "title": "Herbed Argentinian Fish Bowl",
+  "description": "A savory and romantic argentinian dish featuring a delicate fish sauce and perfectly cooked fish, served in a beautiful lacquerware bowl. Perfect for a date night dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "omnivore",
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled trout fillets",
+      "amount": "4",
+      "notes": "wild caught and sustainably sourced"
+    },
+    {
+      "name": "fish sauce (aekjeot)",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "curly-leaf"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": "green onions"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "crusty whole30-friendly bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the trout fillets with salt and black pepper.",
+    "Heat olive oil in a skillet over medium-high heat. Sear the trout fillets for 2-3 minutes per side, or until cooked through.",
+    "Transfer the trout to a baking sheet and bake in the oven for an additional 5-7 minutes, or until cooked to your liking.",
+    "While the trout is cooking, mix together fish sauce, lemon juice, chopped parsley, and chopped chives in a small bowl.",
+    "Once the trout is done, top each fillet with the fish sauce mixture and serve in a lacquerware bowl with toasted bread on the side.",
+    "Garnish with additional parsley and chives, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "baked",
+    "date-night",
+    "easy-side-dish",
+    "fish",
+    "romantic",
+    "skillet-braised",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "herbed-argentinian-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbed-argentinian-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:43:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Fish",
+    "descriptor": "Herbed",
+    "dishForm": "Bowl"
+  }
+}
