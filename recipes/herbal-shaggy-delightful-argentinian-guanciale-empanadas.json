@@ -1,0 +1,105 @@
+{
+  "title": "Herbal Shaggy Delightful Argentinian Guanciale Empanadas",
+  "description": "Crunchy on the outside, savory and herby within, these Argentinian-inspired empanadas make a delightful meal for any time of day.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 package of frozen puff pastry",
+      "amount": "1",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "1 pound guanciale",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "1 cup parsley",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/2 cup fresh oregano",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4",
+      "notes": "divided"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1/2 cup shredded cheddar cheese",
+      "amount": "1/2",
+      "notes": "low-carb option"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "1",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together parsley, oregano, garlic, and a pinch of salt and pepper.",
+    "Place a tablespoon of guanciale in the center of each pastry circle.",
+    "Sprinkle a pinch of parsley mixture over the guanciale.",
+    "Drizzle a little olive oil over the filling.",
+    "Fold the pastry in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little olive oil.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "diabetic-friendly",
+    "empanadas",
+    "guanciale",
+    "herbal",
+    "high-protein",
+    "low-carb",
+    "shaggy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "herbal-shaggy-delightful-argentinian-guanciale-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-shaggy-delightful-argentinian-guanciale-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:27:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "guanciale",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "guanciale",
+    "descriptor": "Herbal Shaggy Delightful",
+    "dishForm": "Empanadas"
+  }
+}
