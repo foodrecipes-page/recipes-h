@@ -1,0 +1,114 @@
+{
+  "title": "Hand-pulled Smoked Chinese lamb Bao",
+  "description": "A Xinjiang-inspired dish featuring smoky lamb, crispy bao, and tangy apple cider vinegar.",
+  "cuisine": "Chinese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.2 kg"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "60 ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "240 g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "30 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "15 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "10 g"
+    },
+    {
+      "name": "salt",
+      "amount": "30 g"
+    },
+    {
+      "name": "flour tortilla (for wrapping)",
+      "amount": "12"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "240 g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120 g"
+    },
+    {
+      "name": "green onions",
+      "amount": "200 g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150°C.",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a large bowl, whisk together apple cider vinegar, brown sugar, soy sauce, Chinese five-spice powder, smoked paprika, black pepper, and salt.",
+    "Add the lamb shoulder to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the lamb shoulder from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Roast the lamb in the preheated oven for 2 hours, or until it reaches an internal temperature of 70°C.",
+    "While the lamb is roasting, prepare the bao by cutting the tortillas into 12 cm squares.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Once the lamb is cooked, remove it from the oven and let it rest for 10 minutes.",
+    "Using two forks, pull the lamb apart into shreds.",
+    "To assemble the bao, place a few tablespoons of the shredded lamb onto the center of a tortilla square.",
+    "Place a mozzarella cheese slice on top of the lamb.",
+    "Add a few green onions on top of the cheese.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll up the bao to form a cylinder.",
+    "Repeat with the remaining ingredients to make 12 bao."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "fodmap-friendly",
+    "hand-pulled",
+    "one-pan",
+    "smoked-lamb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 55,
+    "carbs": 60,
+    "fat": 45
+  },
+  "slug": "hand-pulled-smoked-chinese-lamb-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hand-pulled-smoked-chinese-lamb-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:20:42Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "fodmap",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "lamb",
+    "descriptor": "Hand-pulled Smoked",
+    "dishForm": "Bao"
+  }
+}
