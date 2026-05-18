@@ -1,0 +1,114 @@
+{
+  "title": "Hearty Indian Tamarind Chaat",
+  "description": "A refreshing Chettinad-inspired tamarind chaat with fresh ingredients and a sweet-sour flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tamarind balls",
+      "amount": "6-8",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chaat masala",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Low-fat yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine tamarind balls, chopped cucumber, tomato, onion, and cilantro.",
+    "Squeeze lime juice over the top and sprinkle with chaat masala and cumin powder.",
+    "Add low-fat yogurt and mix well.",
+    "Season with salt to taste.",
+    "Add water as needed to achieve the desired consistency.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chaat",
+    "high-fiber",
+    "low-calorie",
+    "party",
+    "street-food",
+    "summer",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "hearty-indian-tamarind-chaat",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-indian-tamarind-chaat",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:11:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "tamarind ball",
+    "diet": "low-calorie",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Hearty",
+    "dishForm": "Chaat"
+  }
+}

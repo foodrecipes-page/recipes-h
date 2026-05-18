@@ -5786,6 +5786,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-indian-tamarind-chaat",
+    "title": "Hearty Indian Tamarind Chaat",
+    "tags": [
+      "chaat",
+      "high-fiber",
+      "low-calorie",
+      "party",
+      "street-food",
+      "summer",
+      "tamarind"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-indulgent-american-mung-bean-sprout-casserole",
     "title": "Hearty Indulgent American Mung Bean Sprout Casserole",
     "tags": [
@@ -7578,6 +7594,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-portuguese-chestnut-stew",
+    "title": "Hearty Portuguese Chestnut Stew",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "high-protein",
+      "one-pan",
+      "pressure-cooker",
+      "weeknight",
+      "winter-recipe"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
