@@ -1,0 +1,96 @@
+{
+  "title": "hearty canadian lentils bake",
+  "description": "a post-workout, springy, yeasty, and nutritious dish featuring brown lentils, perfect for a quick and easy weeknight meal.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils, uncooked",
+      "amount": "250g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, medium",
+      "amount": "1"
+    },
+    {
+      "name": "garlic, medium",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "wood-fired salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, ground",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "banana leaf, fresh",
+      "amount": "1"
+    },
+    {
+      "name": "water, filtered",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "preheat the wood-fired oven to 375°f (190°c).",
+    "in a large bowl, combine the brown lentils, coconut oil, onion, garlic, wood-fired salt, and black pepper.",
+    "mix well and set aside.",
+    "place the banana leaf on a flat surface and arrange the lentil mixture in the center of the leaf.",
+    "gently fold the edges of the leaf over the lentil mixture to create a tight seal.",
+    "place the leaf packet on a baking sheet and bake for 30 minutes.",
+    "meanwhile, prepare the nutritional yeast mixture by combining the nutritional yeast and water in a small bowl.",
+    "after 30 minutes of baking, carefully remove the leaf packet from the oven and brush the nutritional yeast mixture evenly over the top.",
+    "return the leaf packet to the oven and bake for an additional 10-15 minutes, or until the lentils are tender and the liquid has been absorbed.",
+    "remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "one-pan",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-pottable-canadian-lentils-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-pottable-canadian-lentils-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:21:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "brown lentils",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Hearty, Pottable",
+    "dishForm": "Bake"
+  }
+}
