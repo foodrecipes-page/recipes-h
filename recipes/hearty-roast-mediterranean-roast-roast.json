@@ -1,0 +1,99 @@
+{
+  "title": "Hearty Roast Mediterranean Roast",
+  "description": "A flavorful, festive, and nutritious dish featuring a crispy roasted leg of lamb with a side of petit pois and cherry tomatoes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leg of lamb",
+      "amount": "1 (1.5-2 kg)"
+    },
+    {
+      "name": "Petit pois",
+      "amount": "200g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "250g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the leg of lamb with salt, black pepper, and rosemary.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the leg of lamb on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes.",
+    "Remove the lamb from the oven and add the cherry tomatoes, petit pois, garlic, salt, and black pepper to the skillet.",
+    "Return the skillet to the oven and continue roasting for an additional 25-30 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Remove the skillet from the oven and squeeze the lemon juice over the lamb and vegetables.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-roast",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "petit-pois",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hearty-roast-mediterranean-roast-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-roast-mediterranean-roast-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T13:16:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "petit pois",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "roast",
+    "descriptor": "hearty roast",
+    "dishForm": "Roast"
+  }
+}

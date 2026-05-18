@@ -7818,6 +7818,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-roast-mediterranean-roast-roast",
+    "title": "Hearty Roast Mediterranean Roast",
+    "tags": [
+      "easy-roast",
+      "high-protein",
+      "lamb",
+      "mediterranean",
+      "one-pan",
+      "petit-pois",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-roasted-australian-lamb-roast",
     "title": "Hearty Roasted Australian Lamb Roast",
     "tags": [
