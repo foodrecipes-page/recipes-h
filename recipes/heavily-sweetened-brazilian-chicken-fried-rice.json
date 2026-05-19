@@ -1,0 +1,103 @@
+{
+  "title": "Heavily Sweetened Brazilian Chicken Fried-Rice",
+  "description": "A pungent and kid-friendly Brazilian dish featuring brown sugar and crispy chicken.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crispy Chicken (double-fry KFC style)",
+      "amount": "1 cup, boneless, cut into small pieces"
+    },
+    {
+      "name": "Uncooked White Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup, packed"
+    },
+    {
+      "name": "Large Onion",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "Large Red Bell Pepper",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "2 Cloves of Garlic",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and red bell pepper and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the crispy chicken and cooked rice to the skillet. Stir-fry for 2-3 minutes.",
+    "Push the rice and chicken mixture to one side of the skillet. Crack in the beaten egg and scramble it.",
+    "Mix the egg with the rice and chicken mixture. Add the brown sugar, chicken broth, salt, and pepper.",
+    "Stir-fry for an additional 2-3 minutes, until the rice is well coated with the sauce.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fried-rice",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "heavily-sweetened-brazilian-chicken-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavily-sweetened-brazilian-chicken-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T02:25:38Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "brown sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Heavily Sweetened",
+    "dishForm": "Fried-Rice"
+  }
+}
