@@ -1,0 +1,106 @@
+{
+  "title": "Herbal Flaky American Cornbread Fried-Rice",
+  "description": "A unique twist on traditional cornbread, this herbal flaky American dish features sansho and is perfect for a crowd-pleasing lunch or dinner.",
+  "cuisine": "american",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced sansho pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together cornmeal, flour, baking powder, and salt.",
+    "In a separate bowl, whisk together melted vegan butter, soy milk, chopped scallions, and diced red bell pepper.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in chopped fresh cilantro and sliced sansho pepper.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "While the cornbread is baking, heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add cooked rice to the skillet and stir-fry for 2-3 minutes.",
+    "Once the cornbread is done, carefully remove it from the oven and let it cool for 5 minutes.",
+    "Use a spatula to carefully fold the cornbread into the fried rice.",
+    "Return the mixture to the skillet and continue to stir-fry for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "herbal-flaky-american-cornbread-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-flaky-american-cornbread-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:57:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "sansho",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cornbread",
+    "descriptor": "herbal flaky",
+    "dishForm": "Fried-Rice"
+  }
+}
