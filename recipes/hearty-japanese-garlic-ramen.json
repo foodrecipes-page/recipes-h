@@ -1,0 +1,122 @@
+{
+  "title": "Hearty Japanese Garlic Ramen",
+  "description": "A keto-friendly, comforting Japanese dish from Hokkaido featuring minced garlic and sous-vide cooking technique.",
+  "cuisine": "japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork bones",
+      "amount": "500g",
+      "notes": "For a rich pork broth"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "200g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Chashu pork belly",
+      "amount": "100g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "100g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Water",
+      "amount": "2L",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pork bones with salt and black pepper, then sous-vide at 80°C for 2 hours.",
+    "While the pork bones are cooking, combine the pork shoulder, chashu pork belly, and sliced green onions in a bowl.",
+    "In a large pot, combine the pork bones, garlic, and water. Bring to a boil, then reduce the heat to a simmer and cook for 2 hours.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the miso paste and soy sauce to the broth and whisk until dissolved.",
+    "Add the pork shoulder mixture to the pot and cook for 2-3 minutes, or until heated through.",
+    "Season the broth with salt and black pepper to taste.",
+    "To serve, place noodles in a bowl, then ladle the hot broth and pork mixture over the top.",
+    "Garnish with toasted sesame seeds, sesame oil, and sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "hearty-japanese-garlic-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-japanese-garlic-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T20:48:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "minced garlic",
+    "diet": "keto",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "garlic",
+    "descriptor": "Hearty",
+    "dishForm": "Ramen"
+  }
+}

@@ -6164,6 +6164,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-japanese-garlic-ramen",
+    "title": "Hearty Japanese Garlic Ramen",
+    "tags": [
+      "comfort-food",
+      "japanese",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 270,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-japanese-genmaicha-noodles",
     "title": "Hearty Japanese Genmaicha Noodles",
     "tags": [
