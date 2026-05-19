@@ -1,0 +1,119 @@
+{
+  "title": "hearty normandy lamb gratin",
+  "description": "a rich, comforting gratin featuring tandoor lamb, grapefruit juice, and a crumbly mustard crust.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably from a local farm"
+    },
+    {
+      "name": "tandoori spice blend",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "season the lamb with tandoori spice blend and let it sit at room temperature for 30 minutes.",
+    "in a large saucepan, melt 2 tablespoons of butter over medium heat. add the onion, carrot, and apple.",
+    "cook until the vegetables are tender, stirring occasionally, about 20 minutes.",
+    "add the grapefruit juice, flour, and mustard to the saucepan. stir to combine.",
+    "add the lamb to the saucepan and cook until browned on all sides, about 5 minutes.",
+    "transfer the lamb and vegetables to a 9x13-inch baking dish.",
+    "dot the top of the lamb with the remaining 4 tablespoons of butter.",
+    "sprinkle the parmesan cheese over the lamb.",
+    "cover the dish with aluminum foil and bake for 1 1/2 hours.",
+    "remove the foil and continue baking until the top is golden brown, about 15-20 minutes.",
+    "let the gratin rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "comfort-food",
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "hearty-normandy-lamb-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-normandy-lamb-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T20:52:46Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "ayurvedic-sattvic",
+    "region": "normandy",
+    "cuisineAdjective": "Normandy",
+    "mainIngredient": "Lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Gratin"
+  }
+}
