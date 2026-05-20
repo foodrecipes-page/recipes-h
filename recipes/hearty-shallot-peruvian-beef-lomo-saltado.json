@@ -1,0 +1,120 @@
+{
+  "title": "Hearty Shallot Peruvian Beef Lomo Saltado",
+  "description": "A festive Peruvian dish featuring tender sous-vide beef, shallots, and a variety of vegetables, all in one flavorful pan.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef tenderloin",
+      "amount": "500g",
+      "notes": "about 1.1lb, sous-vide at 130F for 2 hours"
+    },
+    {
+      "name": "shallots",
+      "amount": "4",
+      "notes": "about 1 inch in diameter, thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "use gluten-free soy sauce for gluten-free diet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use 1 tsp for each tbsp if using a flavored oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "use gluten-free salt for gluten-free diet"
+    },
+    {
+      "name": "black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large paella pan over medium-high heat.",
+    "Sear the sous-vide beef in the paella pan for 2-3 minutes on each side.",
+    "Remove the beef from the paella pan and set aside.",
+    "Reduce the heat to medium and add the olive oil to the paella pan.",
+    "Add the thinly sliced shallots and cook for 5 minutes or until they start to caramelize.",
+    "Add the sliced onion and cook for another 5 minutes or until it starts to soften.",
+    "Add the diced tomatoes, bell pepper, and aji amarillo peppers to the paella pan.",
+    "Cook for another 5 minutes or until the vegetables start to soften.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the soy sauce and cook for 1 minute, until the sauce starts to thicken.",
+    "Return the beef to the paella pan and cook for another 5 minutes or until the beef is cooked to your liking.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Hearty Shallot Peruvian Beef Lomo Saltado hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lomo-saltado",
+    "one-pan",
+    "peruvian",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "hearty-shallot-peruvian-beef-lomo-saltado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-shallot-peruvian-beef-lomo-saltado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:02:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "shallots",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Shallot",
+    "dishForm": "Lomo Saltado"
+  }
+}

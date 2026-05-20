@@ -858,6 +858,22 @@
     "shard": "h"
   },
   {
+    "slug": "hazelnut-crumbly-argentinian-meat-empanadas",
+    "title": "Hazelnut Crumbly Argentinian Meat Empanadas",
+    "tags": [
+      "argentinian",
+      "beef",
+      "empanadas",
+      "hazelnuts",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hazelnut-crunchy-malaysian-nutmeg-satay",
     "title": "Hazelnut Crunchy Malaysian Nutmeg Satay",
     "tags": [
@@ -8546,6 +8562,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-shallot-peruvian-beef-lomo-saltado",
+    "title": "Hearty Shallot Peruvian Beef Lomo Saltado",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "lomo-saltado",
+      "one-pan",
+      "peruvian",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
