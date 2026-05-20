@@ -1,0 +1,105 @@
+{
+  "title": "'Honey-Glazed Spanish Chicken Crema Catalana'",
+  "description": "Sweet, gooey, high-protein Spanish dish featuring dried chillies and a braise. Best served in a hot stone plate.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Dried chillies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Crema Catalana ingredients\u0019Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300\u00147F (150\u001a\f).",
+    "Season the chicken thighs with salt, pepper and dried chillies.",
+    "In a hot pan, heat the olive oil and sear the chicken thighs until golden brown.",
+    "Transfer the chicken to a baking dish and set aside.",
+    "In the same pan, caramelize the brown sugar and honey over low heat.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the milk, granulated sugar and lemon zest to the pan and bring to a simmer.",
+    "Pour the mixture over the chicken thighs and braise in the oven for 25 minutes.",
+    "Remove the chicken from the oven and let it cool slightly.",
+    "Serve the Crema Catalana hot in a hot stone plate, spooning the honey glaze over the top.",
+    "Garnish with additional lemon zest and dried chillies if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "honey-glazed-spanish-chicken-crema-catalana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-spanish-chicken-crema-catalana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:31:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "dried chillies",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "honey-glazed",
+    "dishForm": "Crema Catalana"
+  }
+}
