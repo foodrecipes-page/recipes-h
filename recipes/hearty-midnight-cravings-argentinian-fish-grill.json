@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Midnight Cravings Argentinian Fish Grill",
+  "description": "Tangy and bouncy-qq Argentinian dish featuring sesame seed oil and shio-cure, perfect for midnight cravings.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Cod Fillets",
+      "amount": "4",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Shio-Cure",
+      "amount": "2 tablespoons",
+      "notes": "Japanese salted cure"
+    },
+    {
+      "name": "Sesame Seed Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1/2 cup",
+      "notes": "Argentinian herb sauce"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Coarsely ground"
+    },
+    {
+      "name": "Wooden Skewers",
+      "amount": "1 dozen",
+      "notes": "Soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Soak 12 wooden skewers in water for 30 minutes.",
+    "Cut the cod fillets into 1-inch pieces.",
+    "In a small bowl, mix together shio-cure, garlic, and black pepper.",
+    "Add the cod pieces to the bowl and toss to coat with shio-cure mixture.",
+    "Thread the coated cod pieces onto the wooden skewers.",
+    "Brush the sesame seed oil onto the grill grates.",
+    "Grill the skewers for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix together chimichurri sauce and lime juice in a small bowl.",
+    "Serve the grilled cod skewers with chimichurri sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "fish",
+    "grilled",
+    "high-protein",
+    "midnight-cravings",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "hearty-midnight-cravings-argentinian-fish-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-midnight-cravings-argentinian-fish-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:56:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "shio-cure",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "fish",
+    "descriptor": "Hearty Midnight Cravings",
+    "dishForm": "Grill"
+  }
+}

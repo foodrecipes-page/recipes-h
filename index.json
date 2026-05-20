@@ -1764,6 +1764,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-and-springy-german-squash-hash",
+    "title": "german squash hash",
+    "tags": [
+      "breakfast",
+      "german",
+      "low-fat",
+      "one-pan",
+      "spring",
+      "vegan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-arabian-lamb-tagine",
     "title": "Hearty Arabian Lamb Tagine",
     "tags": [],
@@ -7131,6 +7146,21 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-midnight-cravings-argentinian-fish-grill",
+    "title": "Hearty Midnight Cravings Argentinian Fish Grill",
+    "tags": [
+      "argentinian",
+      "fish",
+      "grilled",
+      "high-protein",
+      "midnight-cravings",
+      "one-pan"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 23,
     "shard": "h"
   },
   {

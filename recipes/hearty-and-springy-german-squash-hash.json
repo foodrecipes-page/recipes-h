@@ -1,0 +1,97 @@
+{
+  "title": "german squash hash",
+  "description": "a hearty and springy german dish featuring roasted squash, shio-koji-cure, and fresh herbs, perfect for low-fat diets.",
+  "cuisine": "german",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium, peeled and diced"
+    },
+    {
+      "name": "shio-koji-cured tofu",
+      "amount": "1 block, drained and crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425f (220c).",
+    "toss diced squash with 1 tablespoon olive oil, salt, and pepper on a baking sheet.",
+    "roast in the oven for 20 minutes, or until tender.",
+    "heat remaining 1 tablespoon olive oil in a large skillet over medium-high heat.",
+    "add sliced onion and cook for 5 minutes, or until translucent.",
+    "add minced garlic and cook for an additional minute.",
+    "stir in crumbled tofu and cook for 2 minutes.",
+    "fluff roasted squash with a fork and add to the skillet.",
+    "stir in chopped parsley and thyme.",
+    "cook for an additional 2 minutes, or until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "german",
+    "low-fat",
+    "one-pan",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "hearty-and-springy-german-squash-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-and-springy-german-squash-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:56:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "squash",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "squash",
+    "descriptor": "hearty and springy",
+    "dishForm": "Hash"
+  }
+}
