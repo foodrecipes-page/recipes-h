@@ -1,0 +1,97 @@
+{
+  "title": "heavenly golden portuguese fish bake",
+  "description": "a light and flavorful portuguese dish featuring rolled oats and grilled fish, perfect for a monsoon evening.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets (4)",
+      "amount": "4",
+      "notes": "any firm white fish works well"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "preferably steel-cut oats"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "unsalted, low-sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "mild and fruity"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "preheat the yakimono-grill to medium-high heat.",
+    "line a baking sheet with parchment paper and set aside.",
+    "in a shallow dish, mix together the oats, chicken broth, lemon juice, olive oil, salt, and pepper.",
+    "add the fish fillets to the oat mixture and coat evenly.",
+    "transfer the coated fish fillets to the prepared baking sheet.",
+    "brush the tops of the fish with a little extra olive oil and sprinkle with dill.",
+    "grill the fish for 8-10 minutes per side, or until cooked through.",
+    "remove the fish from the grill and let rest for 2-3 minutes.",
+    "serve the fish hot with a side of steamed vegetables or a green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "grill",
+    "monsoon",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "heavenly-golden-portuguese-fish-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-golden-portuguese-fish-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:19:31Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "rolled oats",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Heavenly Golden",
+    "dishForm": "Bake"
+  }
+}
