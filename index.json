@@ -7552,6 +7552,19 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-moroccan-oats-harira",
+    "title": "Hearty Moroccan Oats Harira",
+    "tags": [
+      "breakfast",
+      "moroccan",
+      "oats",
+      "slow-cooker"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-moroccan-peanuts-tagine",
     "title": "Hearty Moroccan Peanuts Tagine",
     "tags": [

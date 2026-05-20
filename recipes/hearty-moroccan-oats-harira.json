@@ -1,0 +1,113 @@
+{
+  "title": "Hearty Moroccan Oats Harira",
+  "description": "This Moroccan-inspired breakfast dish combines the warming effects of oats with the energizing flavors of cumin, coriander, and cinnamon. A perfect start to a cold winter morning.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander ground",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon ground",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas canned",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, and cinnamon; cook for 1 minute, stirring constantly.",
+    "Add chickpeas, vegetable broth, water, honey, and lemon juice; bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes, stirring occasionally.",
+    "Stir in oats and cook for 10 minutes, or until oats have absorbed most of the liquid.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges and chopped fresh cilantro, if desired.",
+    "Let the mixture rest for 5 minutes before serving to allow the flavors to meld together.",
+    "You can also make this recipe in a slow cooker: brown the onion and garlic in a pan, then transfer everything to the slow cooker and cook on low for 3-4 hours.",
+    "Be sure to check the consistency of the harira and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "moroccan",
+    "oats",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-moroccan-oats-harira",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-moroccan-oats-harira",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:05:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "ground oats",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "oats",
+    "descriptor": "hearty",
+    "dishForm": "Harira"
+  }
+}
