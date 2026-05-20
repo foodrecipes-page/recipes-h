@@ -1,0 +1,107 @@
+{
+  "title": "Halal-Friendly Spicy Roasted Korean Beef Bulgogi",
+  "description": "A crowd-pleasing Korean dish featuring marinated beef roasted to perfection on a hot stone plate.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "500g",
+      "notes": "Thinly sliced beef"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Halal-friendly soy sauce"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Candied Orange Peel",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Pound the garlic and ginger in a mortar and pestle until well combined.",
+    "In a large bowl, whisk together brown sugar, gochujang, soy sauce, rice vinegar, and black pepper.",
+    "Add the sliced beef to the marinade and mix to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C).",
+    "Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Place the beef on a hot stone plate or a cast-iron skillet and roast for 10-12 minutes per side, or until cooked to desired level of doneness.",
+    "While the beef is roasting, toast the candied orange peel in a small pan over medium heat until fragrant.",
+    "Once the beef is cooked, transfer it to a cutting board and let it rest for 5 minutes.",
+    "Slice the beef against the grain and serve with toasted candied orange peel on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bulgogi",
+    "halal",
+    "korean",
+    "one-pan",
+    "roasted",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "halal-friendly-spicy-roasted-korean-beef-bulgogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-friendly-spicy-roasted-korean-beef-bulgogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:58:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "candied peel",
+    "diet": "halal",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Halal-friendly Spicy Roasted",
+    "dishForm": "Bulgogi"
+  }
+}
