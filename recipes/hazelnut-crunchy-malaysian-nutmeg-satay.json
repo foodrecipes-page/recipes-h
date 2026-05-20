@@ -1,0 +1,116 @@
+{
+  "title": "Hazelnut Crunchy Malaysian Nutmeg Satay",
+  "description": "A unique fusion of nutmeg and hazelnut in a crunchy satay, light on calories and perfect for an iron teppan vessel.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips for better cooking."
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped for added crunch."
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "Grate for optimal flavor."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For air frying and added flavor."
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "For a creamy base."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "For added umami."
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "For sweetness."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grate for added depth."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For added citrus."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To balance flavors."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "To enhance flavors."
+    },
+    {
+      "name": "Green onions",
+      "amount": "for garnish",
+      "notes": "For added freshness."
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 375°F (190°C).",
+    "In a bowl, mix together peanut butter, soy sauce, maple syrup, grated ginger, and lime juice.",
+    "Add sliced chicken and mix until well coated.",
+    "Thread chicken onto iron teppan or skewers, followed by a hazelnut and a sprinkle of nutmeg.",
+    "Season with salt and black pepper to taste.",
+    "Air fry for 10 minutes, or until chicken is cooked through.",
+    "Serve hot, garnished with green onions and additional hazelnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "low-calorie",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "hazelnut-crunchy-malaysian-nutmeg-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hazelnut-crunchy-malaysian-nutmeg-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:33:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "nutmeg",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "nutmeg",
+    "descriptor": "hazelnut crunchy",
+    "dishForm": "satu"
+  }
+}

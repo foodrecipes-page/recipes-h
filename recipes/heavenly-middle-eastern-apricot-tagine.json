@@ -1,0 +1,136 @@
+{
+  "title": "Heavenly Middle-Eastern Apricot Tagine",
+  "description": "Fresh, pillowy, comforting middle-eastern dish featuring apricot, simmered to perfection in a low-calorie friendly recipe.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricots, diced",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large mason jar over medium heat.",
+    "Add the diced onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin, cinnamon, turmeric, salt, and black pepper and cook for 1 minute, stirring constantly.",
+    "Add the diced apricots, chicken broth, and honey. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes, or until the apricots are tender.",
+    "Stir in the fresh parsley and mint. ",
+    "Serve the tagine hot, garnished with a dollop of Greek yogurt and a sprinkle of parsley and mint.",
+    "Refrigerate any leftovers for up to 3 days or freeze for up to 2 months.",
+    "To serve, reheat the tagine over low heat, stirring occasionally, until warm and bubbly.",
+    "Serve hot over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-calorie",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "heavenly-middle-eastern-apricot-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-middle-eastern-apricot-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "apricot",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Apricot",
+    "descriptor": "Heavenly",
+    "dishForm": "Tagine"
+  }
+}

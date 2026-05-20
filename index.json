@@ -826,6 +826,20 @@
     "shard": "h"
   },
   {
+    "slug": "hazelnut-crunchy-malaysian-nutmeg-satay",
+    "title": "Hazelnut Crunchy Malaysian Nutmeg Satay",
+    "tags": [
+      "air-fry",
+      "low-calorie",
+      "malaysian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
     "slug": "hazelnut-crusted-chinese-coconut-stir-fry",
     "title": "Hazelnut-Crusted Chinese Coconut Stir-Fry",
     "tags": [
@@ -11575,6 +11589,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-middle-eastern-apricot-tagine",
+    "title": "Heavenly Middle-Eastern Apricot Tagine",
+    "tags": [
+      "comfort-food",
+      "low-calorie",
+      "middle-eastern",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
