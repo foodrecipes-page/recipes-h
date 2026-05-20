@@ -1,0 +1,112 @@
+{
+  "title": "hangover-cure kenyan bar stir-fry",
+  "description": "a rich and savory stir-fry featuring the iconic mars bar, designed to cure hangovers with its umami flavor and cheese-pull effect",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mars bar",
+      "amount": "1",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "beef strips",
+      "amount": "200g",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium-high heat",
+    "add the beef strips and cook until browned, about 3-4 minutes",
+    "remove the beef from the skillet and set aside",
+    "add the onion, garlic, and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes",
+    "add the curry powder and cook for 1 minute, stirring constantly",
+    "add the mars bar pieces and cook for 2-3 minutes, until they start to melt",
+    "add the cooked beef back into the skillet and stir to combine",
+    "top with shredded cheddar cheese and cook until melted and bubbly",
+    "season with salt and black pepper to taste",
+    "garnish with chopped cilantro if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "hangover-cure",
+    "one-pan",
+    "rich-and-umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "hangover-cure-kenyan-bar-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-kenyan-bar-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:58:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "mars bar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Bar",
+    "descriptor": "Hangover-cure",
+    "dishForm": "Stir-fry"
+  }
+}
