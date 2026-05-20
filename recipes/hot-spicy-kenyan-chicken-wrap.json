@@ -1,0 +1,109 @@
+{
+  "title": "Hot Spicy Kenyan Chicken Wrap",
+  "description": "A citrusy and snappy Kenyan dish featuring chicken, mustard, and spices. Perfect for a date-night dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 large"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, mustard, cayenne pepper, and coriander.",
+    "Add the diced red onion, garlic, and ginger to the bowl and mix well.",
+    "Add the chicken breast to the bowl and mix until coated.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "In a separate bowl, mix together honey and melted butter.",
+    "Brush the flatbread with the honey-butter mixture.",
+    "Assemble the wrap by placing the cooked chicken down the center of the flatbread.",
+    "Add the cucumber and lettuce on top of the chicken.",
+    "Fold the flatbread in half to enclose the filling.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "low-mess",
+    "quick-cook",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hot-spicy-kenyan-chicken-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-spicy-kenyan-chicken-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:18:59Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "mustard",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "hot spicy",
+    "dishForm": "wrap"
+  }
+}

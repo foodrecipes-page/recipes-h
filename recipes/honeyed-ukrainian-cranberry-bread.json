@@ -1,0 +1,101 @@
+{
+  "title": "Honeyed Ukrainian Cranberry Bread",
+  "description": "Earthy, crisp Ukrainian bread featuring cranberries and a hint of honey, perfect for a kid-friendly breakfast or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare a 9x5-inch loaf pan by greasing it with butter or cooking spray.",
+    "Combine 1 cup of warm water and 2 teaspoons of sugar-free honey in a large mixing bowl.",
+    "Add 2 teaspoons of active dry yeast and let it sit for 5 minutes, or until frothy.",
+    "Add 3 cups of all-purpose flour, 1 teaspoon of salt, and 1 teaspoon of black pepper to the bowl.",
+    "Mix in 1 cup of fresh or frozen cranberries and 1/2 cup of chopped walnuts.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in the prepared loaf pan and cover it with a damp cloth.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Bake the bread for 35-40 minutes, or until it is golden brown and sounds hollow when tapped on the bottom.",
+    "Remove the bread from the oven and let it cool on a wire rack for 10-15 minutes before slicing.",
+    "Serve warm and enjoy!",
+    "If desired, serve with a dollop of whipped cream or a sprinkle of honey.",
+    "To store, wrap the bread tightly in plastic wrap and keep it at room temperature for up to 3 days.",
+    "To freeze, wrap the bread tightly in plastic wrap and place it in a freezer-safe bag for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar-free honey",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh or frozen cranberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter or cooking spray",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "tags": [
+    "bread",
+    "breakfast",
+    "easy-to-make",
+    "kid-friendly",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "honeyed-ukrainian-cranberry-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-ukrainian-cranberry-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:19:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cranberry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Cranberry",
+    "descriptor": "Honeyed",
+    "dishForm": "Bread"
+  }
+}

@@ -15604,6 +15604,21 @@
     "shard": "h"
   },
   {
+    "slug": "honeyed-ukrainian-cranberry-bread",
+    "title": "Honeyed Ukrainian Cranberry Bread",
+    "tags": [
+      "bread",
+      "breakfast",
+      "easy-to-make",
+      "kid-friendly",
+      "ukrainian",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
     "slug": "honeyed-ukrainian-grapes-agemono-deep-fry",
     "title": "Honeyed Ukrainian Grapes Agemono-Deep-Fry",
     "tags": [
@@ -16308,6 +16323,20 @@
       "weeknight"
     ],
     "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-spicy-kenyan-chicken-wrap",
+    "title": "Hot Spicy Kenyan Chicken Wrap",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "low-mess",
+      "quick-cook",
+      "spicy"
+    ],
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "h"
   },
