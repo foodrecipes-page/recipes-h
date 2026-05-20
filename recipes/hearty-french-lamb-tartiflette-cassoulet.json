@@ -1,0 +1,69 @@
+{
+  "title": "Hearty French Lamb Tartiflette Cassoulet",
+  "description": "A rich, flavorful French dish inspired by the cuisine of Lyon, perfect for a special date night. This cassoulet combines the tender sweetness of lamb with the savory depth of onions, garlic, and mushrooms.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1",
+      "notes": "Choose a grass-fed lamb for a more robust flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large Dutch oven, combine the lamb, onions, garlic, and mushrooms, and cook over medium heat until the lamb is browned on all sides, about 5 minutes.",
+    "Add the soffritto base to the pot and stir to combine.",
+    "Add the white wine to the pot and cook until the liquid is almost completely reduced, stirring occasionally, about 5 minutes.",
+    "Add the diced tomatoes, vegetable broth, and thyme to the pot, and stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the preheated oven.",
+    "Bake the cassoulet for 25 minutes, or until the lamb is tender and the sauce has thickened.",
+    "While the cassoulet is baking, prepare the tartiflette topping by grating the potatoes and separating them into individual layers.",
+    "When the cassoulet is done, remove it from the oven and top it with the tartiflette topping, arranging the potatoes in a single layer on top of the lamb.",
+    "Return the pot to the oven and bake for an additional 10-15 minutes, or until the potatoes are golden brown and the sauce is bubbly.",
+    "Remove the pot from the oven and let it cool for 10 minutes before serving.",
+    "To serve, transfer the cassoulet to a large platter or individual plates and spoon the tartiflette topping over the top of each serving.",
+    "Garnish with fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cassoulet",
+    "date-night",
+    "french",
+    "hearty",
+    "lamb",
+    "lyon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "hearty-french-lamb-tartiflette-cassoulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-lamb-tartiflette-cassoulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:08:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "macrobiotic",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Tartiflette Cassoulet"
+  }
+}

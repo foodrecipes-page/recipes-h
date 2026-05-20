@@ -4427,6 +4427,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-lamb-tartiflette-cassoulet",
+    "title": "Hearty French Lamb Tartiflette Cassoulet",
+    "tags": [
+      "cassoulet",
+      "date-night",
+      "french",
+      "hearty",
+      "lamb",
+      "lyon"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-french-lamb-wrap",
     "title": "Hearty French Lamb Wrap",
     "tags": [
