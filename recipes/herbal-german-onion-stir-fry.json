@@ -1,0 +1,93 @@
+{
+  "title": "Herbal German Onion Stir Fry",
+  "description": "A quick and flavorful German-inspired dish featuring sautéed onions, herbs, and a hint of fat. Perfect for a weeknight dinner or weekend lunch.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Sprinkle garlic powder, salt, and black pepper over onion and stir to combine.",
+    "Add chopped parsley and dill, and stir-fry for 1 minute.",
+    "Sprinkle flour over onion mixture and stir to coat.",
+    "Cook for an additional 1-2 minutes, or until mixture is lightly toasted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "herbal-german-onion-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-german-onion-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:44:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "score-fat",
+    "primaryIngredient": "chopped onion",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "onion",
+    "descriptor": "Herbal",
+    "dishForm": "Stir-fry"
+  }
+}
