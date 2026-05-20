@@ -1,0 +1,105 @@
+{
+  "title": "hearthily grilled Brazilian cheese-pull Tacos",
+  "description": "A solo-dinner Brazilian dish that combines the flavors of grilled cheese, herbs, and spices with the comfort of a warm, fresh taco.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled skirt steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "6-8",
+      "notes": "preferably handmade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C) for medium-high heat, oil grates with melted butter.",
+    "In a small bowl, whisk together white wine vinegar, minced garlic, salt, and black pepper to make marinade.",
+    "In a large bowl, combine thinly sliced grilled skirt steak, chopped cilantro, and marinade; mix well to coat.",
+    "Grill steak for 3-5 minutes per side, or until slightly charred and cooked to desired level of doneness.",
+    "Warm corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked steak onto warmed tortillas, topping with shredded queso fresco, and serving immediately.",
+    "Repeat process until all ingredients are used, garnishing with additional cilantro if desired.",
+    "Serve hot and enjoy!",
+    "Note: If using leftover steak, reheat it in a dry pan over medium heat until warmed through before assembling tacos."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin-inspired",
+    "one-pan",
+    "quick-and-easy",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "hearthily-grilled-brazilian-cheese-pull-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearthily-grilled-brazilian-cheese-pull-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:01:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese-pull",
+    "descriptor": "hearthily grilled",
+    "dishForm": "Tacos"
+  }
+}
