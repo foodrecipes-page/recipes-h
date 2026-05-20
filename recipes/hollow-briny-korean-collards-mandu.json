@@ -1,0 +1,106 @@
+{
+  "title": "Hollow, Briny Korean Collards Mandu",
+  "description": "A dense and savory Korean dish from Gangwon Province, featuring collard greens and a dairy-free friendly version of ferment-kimchi. The midnight craving satisfaction guaranteed.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Kimchi paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mix collard greens, garlic, ginger, green onions, and salt in a bowl.",
+    "Add Kimchi paste and mix well.",
+    "Add sesame oil, soy sauce, sugar, and rice vinegar. Mix until combined.",
+    "Add rice flour and water to the mixture. Mix until a dough forms.",
+    "Knead the dough on a floured surface for 10 minutes.",
+    "Divide the dough into 8 equal portions.",
+    "Roll each portion into a ball and flatten slightly into a disk shape.",
+    "Heat a non-stick pan over medium heat.",
+    "Add 2 disks of dough to the pan and cook for 2 minutes on each side.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "collards",
+    "dairy-free",
+    "ferment-kimchi",
+    "korean",
+    "mandu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hollow-briny-korean-collards-mandu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hollow-briny-korean-collards-mandu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:23:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "collards",
+    "diet": "dairy-free",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Collards",
+    "descriptor": "Hollow, Briny",
+    "dishForm": "Mandu"
+  }
+}
