@@ -6299,6 +6299,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-irish-lamb-casserole",
+    "title": "Hearty Irish Lamb Casserole",
+    "tags": [
+      "casserole",
+      "gluten-free",
+      "irish",
+      "lamb",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-irish-lamb-stew",
     "title": "Hearty Irish Lamb Stew",
     "tags": [

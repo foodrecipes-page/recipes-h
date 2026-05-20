@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Irish Lamb Casserole",
+  "description": "A flavorful Irish lamb casserole that's perfect for a weeknight dinner, featuring clotted cream and crispy lardons. This dish is also plant-based friendly with a few tweaks.",
+  "cuisine": "Irish",
+  "diet": [
+    null,
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "2 pounds",
+      "notes": "Make sure the lamb is at room temperature for even cooking."
+    },
+    {
+      "name": "Onions, chopped",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Celery, chopped",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Lardons, crisped",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Use gluten-free flour for a gluten-free diet."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1 cup",
+      "notes": "Optional, but highly recommended for a richer casserole."
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u001130 F.",
+    "In a large Dutch oven or pot, cook the lardons over medium heat until crispy.",
+    "Remove the lardons from the pot and set them aside.",
+    "Add the chopped onions to the pot and cook until they're softened and lightly browned."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "gluten-free",
+    "irish",
+    "lamb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "hearty-irish-lamb-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-irish-lamb-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Hearty",
+    "dishForm": "Casserole"
+  }
+}
