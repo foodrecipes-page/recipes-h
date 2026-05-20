@@ -1,0 +1,99 @@
+{
+  "title": "heavenly herbed russian courgettes gratin",
+  "description": "a flavorful, low-carb gratin dish that combines the sweetness of courgettes with the savory taste of herbs. perfect as a keto-friendly dinner option.",
+  "cuisine": "russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 medium courgettes",
+      "amount": "1 pound",
+      "notes": "any variety will work"
+    },
+    {
+      "name": "4 tablespoons unsalted butter",
+      "amount": "",
+      "notes": "softened"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon chopped fresh dill",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tablespoon chopped fresh parsley",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 cup grated gruyere cheese",
+      "amount": "",
+      "notes": "divided"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/4 cup chopped fresh chives",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "preheat the raclette-grill to 375 degrees fahrenheit.",
+    "slice the courgettes into 1/4-inch thick rounds.",
+    "in a large bowl, toss the courgette slices with the softened butter, garlic, dill, parsley, salt, and pepper.",
+    "place a layer of courgette slices in the raclette-grill, followed by a sprinkle of gruyere cheese.",
+    "repeat the layering process until all the ingredients have been used, ending with a layer of cheese on top.",
+    "transfer the raclette-grill to the oven and bake for 25 minutes, or until the cheese is melted and bubbly.",
+    "remove the raclette-grill from the oven and top with chopped chives, if using.",
+    "let the gratin rest for 5 minutes before serving.",
+    "serve hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gratin",
+    "keto",
+    "low-carb",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "heavenly-herbed-russian-courgettes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-herbed-russian-courgettes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:05:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "courgettes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "courgettes",
+    "descriptor": "Heavenly Herbed",
+    "dishForm": "Gratin"
+  }
+}
