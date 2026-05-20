@@ -1,0 +1,108 @@
+{
+  "title": "Hearty Cheese Argentinian Cheese Stew",
+  "description": "A comforting and malty argentinian stew featuring melted cheese and whole black peppercorns served in a cazuela. This lacto-vegetarian-friendly dish is perfect for a cold winter evening.",
+  "cuisine": "argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sharp cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kochkorn",
+      "amount": "1 tsp",
+      "notes": "ferment-jang, or substitute with a similar condiment"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "8",
+      "notes": "whole, for added depth of flavor"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped, saut\u00036\u00073d before adding to stew"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, saut\u00036\u00073d before adding to stew"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening the stew"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a cazuela over medium heat.",
+    "Add the kochkorn and toast for 1-2 minutes, until fragrant.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the bay leaves, whole black peppercorns, and red wine (if using) to the cazuela.",
+    "Pour in the whole milk and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10-15 minutes, until the stew has thickened slightly.",
+    "Stir in the sharp cheddar cheese and parmesan cheese, until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve the Hearty Cheese Argentinian Cheese Stew hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 38
+  },
+  "slug": "hearty-cheese-argentinian-cheese-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-cheese-argentinian-cheese-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:59:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "ferment-jang",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Hearty Cheese",
+    "dishForm": "Stew"
+  }
+}

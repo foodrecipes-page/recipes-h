@@ -1,0 +1,71 @@
+{
+  "title": "Hearty Norwegian Cilantro Confit",
+  "description": "A citrusy, snappy Norwegian dish featuring cilantro leaves and confit-tomato, perfect for a sick day. This paleo-friendly recipe is cooked to perfection in a cataplana vessel.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Confit tomatoes",
+      "amount": "1 can",
+      "notes": "(make your own or use store-bought)"
+    }
+  ],
+  "instructions": [
+    "Brown the chicken thighs in a hot cataplana vessel over medium-high heat.",
+    "Add the confit tomatoes, 1/4 cup of water, and salt to taste. Bring to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Add a handful of fresh cilantro leaves to the cataplana and simmer for an additional 5 minutes.",
+    "Season with lemon juice and serve hot over rice or with a side of steamed vegetables.",
+    "Garnish with additional cilantro leaves, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "paleo",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "hearty-norwegian-cilantro-confit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-norwegian-cilantro-confit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:00:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tomato",
+    "descriptor": null,
+    "dishForm": "Confit"
+  }
+}

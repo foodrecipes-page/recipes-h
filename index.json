@@ -2737,6 +2737,19 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-cheese-argentinian-cheese-stew",
+    "title": "Hearty Cheese Argentinian Cheese Stew",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-cheesy-ethiopian-beef-kitfo",
     "title": "Hearty Cheesy Ethiopian Beef Kitfo",
     "tags": [
@@ -7654,6 +7667,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 32,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-norwegian-cilantro-confit",
+    "title": "Hearty Norwegian Cilantro Confit",
+    "tags": [
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "paleo",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
