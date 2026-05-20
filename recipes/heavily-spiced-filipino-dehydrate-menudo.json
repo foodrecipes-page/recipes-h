@@ -1,0 +1,117 @@
+{
+  "title": "Heavily Spiced Filipino Dehydrate Menudo",
+  "description": "A twist on the traditional Filipino Menudo dish, this version is fermented, light, and perfect for monsoon weather. It's also suitable for those following an Ayurvedic-Rajasic diet.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork belly, cut into small cubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Anise, whole",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Cloves, whole",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon sticks, whole",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1L",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dehydrated bok choy",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a couple of tablespoons of oil.",
+    "Sauté the onion, garlic, and ginger until softened, about 5 minutes.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Add the anise, cloves, cinnamon sticks, fish sauce, vinegar, and black pepper. Stir to combine.",
+    "Pour in the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour.",
+    "Add the dehydrated bok choy and cook for an additional 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-rajasic",
+    "dehydrate",
+    "fermented",
+    "filipino",
+    "menudo",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 45
+  },
+  "slug": "heavily-spiced-filipino-dehydrate-menudo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavily-spiced-filipino-dehydrate-menudo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:08:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "cloves",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "dehydrate",
+    "descriptor": "heavily spiced",
+    "dishForm": "Menudo"
+  }
+}
