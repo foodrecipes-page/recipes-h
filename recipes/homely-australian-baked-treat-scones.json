@@ -1,0 +1,92 @@
+{
+  "title": "Homely Australian Baked Scones",
+  "description": "Moist and comforting, these scones are perfect for a quick breakfast or snack. Featuring vanilla bean paste and a hint of sweetness from the mirepoix-based mixture.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-quality all-purpose flour for the best results"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "keep the butter cold for a flaky texture"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality vanilla bean paste for the best flavor"
+    },
+    {
+      "name": "mirepoix-based mixture",
+      "amount": "1 cup",
+      "notes": "see notes for the mirepoix-based mixture recipe"
+    },
+    {
+      "name": "large eggs",
+      "amount": "1 cup",
+      "notes": "use room temperature eggs for the best results"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large mixing bowl, whisk together the flour, sugar, and salt.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or your fingers to work it into the mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together the vanilla bean paste and mirepoix-based mixture.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and gently knead a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch (2.5 cm) thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out the scones. Gather the scraps, re-form the dough, and cut out additional scones. You should end up with 8-10 scones.",
+    "Place the scones on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each scone.",
+    "Brush the tops of the scones with a little bit of extra butter.",
+    "Bake the scones for 15-20 minutes, or until they are golden brown.",
+    "Remove the scones from the oven and let them cool on a wire rack for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast",
+    "comforting",
+    "homely",
+    "quick",
+    "scones"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "homely-australian-baked-treat-scones",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/homely-australian-baked-treat-scones",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:50:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "",
+    "descriptor": "homely",
+    "dishForm": "Scones"
+  }
+}
