@@ -1,0 +1,124 @@
+{
+  "title": "Herbal Shaggy Algerian Tamarind Ball Tagine",
+  "description": "A comforting, slow-cooked dish featuring tender tamarind balls and fragrant herbs, perfect for a sick-day meal. This Algerian favorite is both aromatic and flavorful.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the tamarind paste, chickpeas, dried apricots, cumin powder, cinnamon powder, paprika, and salt. Stir well to combine.",
+    "Bring the mixture to a simmer and cook for 15 minutes, stirring occasionally.",
+    "Add the chopped fresh parsley and cilantro and stir well to combine.",
+    "Cook for an additional 2-3 minutes, until the herbs are wilted.",
+    "Serve hot, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "slow-cooker",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "herbal-shaggy-algerian-tamarind-ball-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-shaggy-algerian-tamarind-ball-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "tamarind ball",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "tamarind ball",
+    "descriptor": "herbal, shaggy",
+    "dishForm": "tagine"
+  }
+}
