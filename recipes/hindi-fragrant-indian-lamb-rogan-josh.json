@@ -1,0 +1,59 @@
+{
+  "title": "Hindi Fragrant Indian Lamb Rogan-Josh",
+  "description": "This dish is a traditional Kashmiri recipe that is slow-cooked in a rich and aromatic gravy, featuring lamb and spices. It's a shaggy, resinous, and romantic dish that is sure to impress.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": "bone-in, 1.5 kg"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "cardamom",
+    "cumin",
+    "indian",
+    "kashmiri",
+    "lamb",
+    "slow-cooked",
+    "tamasic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 52
+  },
+  "slug": "hindi-fragrant-indian-lamb-rogan-josh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hindi-fragrant-indian-lamb-rogan-josh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:53:01Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "filo pastry",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Hindi Fragrant",
+    "dishForm": "Rogan-Josh"
+  }
+}
