@@ -1,0 +1,68 @@
+{
+  "title": "Hwhm Wholesome Algerian Snow Peas Stir-fry in Copper Mug",
+  "description": "A floral, dense, romantic Algerian dish featuring snow peas cooked to perfection and served in a copper mug.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh snow peas",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp lemon verbana extract",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp saffron threads",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Bring a mug of water to a boil for steeping the saffron and lemon verbena.",
+    "While the mug is boiling, wash and trim the snow peas.",
+    "Heat the olive oil in a small non-stick skillet over medium heat.",
+    "Add the snow peas and cook until they are crisp-tender, about 5 minutes.",
+    "Remove from heat and stir in the saffron extract mixture.",
+    "Pour the dish into a heated copper mug.",
+    "Garnish with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-flavor",
+    "copper-mug-cooking",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "hwhm-wholesome-algerian-snow-peas-stir-fry-in-copper-mug",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hwhm-wholesome-algerian-snow-peas-stir-fry-in-copper-mug",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T23:12:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "snow peas",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Snow Peas",
+    "descriptor": "Wholesome",
+    "dishForm": "Stir-fry"
+  }
+}
