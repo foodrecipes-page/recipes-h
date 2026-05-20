@@ -1,0 +1,67 @@
+{
+  "title": "Honeyed Grassy Northern-Thai Papaya Som Tam",
+  "description": "A grassy and flaky Northern-Thai dish featuring papaya, cherry, and a touch of honey, perfect for a restful snack or dessert.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Papaya",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Glace cherry",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2",
+      "notes": "crushed, or substitute with honey"
+    }
+  ],
+  "instructions": [
+    "Peel the skin off the papaya and cut it into a small cube.",
+    "Using a mortar, pound the peppercorns until they become a fine powder.",
+    "Add the palm sugar and pound until well mixed.",
+    "Mound the papaya and cherry on a plate, and decorate with the glace cherry powder on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "restful"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 1
+  },
+  "slug": "honeyed-grassy-northern-thai-papaya-som-tam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-grassy-northern-thai-papaya-som-tam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:24:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "glace cherry",
+    "diet": "sugar-free",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern-Thai",
+    "mainIngredient": "Papaya",
+    "descriptor": "Honeyed Grassy",
+    "dishForm": "Som Tam"
+  }
+}
