@@ -1,0 +1,124 @@
+{
+  "title": "Hollowed-Out Squid Dongbei Salt-and-Pepper Squid",
+  "description": "Dongbei-style salt-and-pepper squid with a twist, featuring a crunchy hail topping and tender rest meat.",
+  "cuisine": "dongbei",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hollowed-out squid",
+      "amount": "2",
+      "notes": "about 250g each, cleaned and gutted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sliced onion",
+      "amount": "1",
+      "notes": "about 100g, thinly sliced"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1",
+      "notes": "about 100g, thinly sliced"
+    },
+    {
+      "name": "minced ginger",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "hail salt",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, about 115g"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3 minutes.",
+    "Add the minced ginger and minced garlic and cook for 1 minute, until fragrant.",
+    "Add the hollowed-out squid and cook until browned on both sides, about 4 minutes.",
+    "Transfer the squid to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil and add the sliced scallions.",
+    "Cook until the scallions are slightly caramelized, about 2 minutes.",
+    "Add the chili flakes, kosher salt, and black pepper and cook for 1 minute, until the flavors are combined.",
+    "Return the squid to the skillet and stir to combine with the scallion mixture.",
+    "Transfer the squid to a serving vessel, such as a tagliere.",
+    "Sprinkle the hail salt over the squid and top with shredded cheddar cheese.",
+    "Place the serving vessel under the broiler for 2-3 minutes, until the cheese is melted and bubbly.",
+    "Remove the vessel from the oven and garnish with chopped cilantro.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Garnish with a side of sliced scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dongbei",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "hollowed-out-squid-dongbei-hail-salt-and-pepper-squid",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hollowed-out-squid-dongbei-hail-salt-and-pepper-squid",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:18:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "rest-meat",
+    "primaryIngredient": "hail",
+    "diet": "kosher",
+    "region": "dongbei",
+    "cuisineAdjective": "Dongbei",
+    "mainIngredient": "hail",
+    "descriptor": "hollowed-out squid",
+    "dishForm": "Salt-and-Pepper Squid"
+  }
+}
