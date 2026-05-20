@@ -10118,6 +10118,20 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spanish-chicken-paella",
+    "title": "Hearty Spanish Chicken Paella",
+    "tags": [
+      "dinner",
+      "high-protein",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spanish-fish-toast",
     "title": "Hearty Spanish Fish Toast",
     "tags": [

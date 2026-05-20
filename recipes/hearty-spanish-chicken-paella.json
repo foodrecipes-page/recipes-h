@@ -1,0 +1,114 @@
+{
+  "title": "Hearty Spanish Chicken Paella",
+  "description": "A classic Spanish one-pot dish loaded with chicken, rice, and vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken bouillon powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Diced red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced red bell pepper and cook for an additional 3 minutes.",
+    "Add the chicken bouillon powder, paprika, garlic powder, salt, and black pepper. Stir to combine.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes per side.",
+    "Add the uncooked white rice, diced tomatoes, and chicken broth. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 50,
+    "fat": 22
+  },
+  "slug": "hearty-spanish-chicken-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-chicken-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:20:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "hearty",
+    "dishForm": "paella"
+  }
+}
