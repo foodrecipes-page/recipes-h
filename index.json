@@ -16106,6 +16106,19 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoked-american-flaked-salmon-dish",
+    "title": "Hot Smoked American Flaked Salmon",
+    "tags": [
+      "high-protein",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoked-chinese-tofu-stew",
     "title": "Hot Smoked Chinese Tofu Stew",
     "tags": [

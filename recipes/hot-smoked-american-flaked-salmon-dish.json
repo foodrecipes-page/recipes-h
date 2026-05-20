@@ -1,0 +1,88 @@
+{
+  "title": "Hot Smoked American Flaked Salmon",
+  "description": "A hangover-cure American dish featuring hot smoked flaked salmon, perfect for a Sunday morning. This recipe is low-sodium friendly and can be made in under an hour.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hot Smoked Flaked Salmon",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Diced Fresh Dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt-Free Seasoning Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sour Pickle Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine sour cream, chopped red onion, diced fresh dill, and salt-free seasoning blend in a bowl.",
+    "Stir in lemon juice and sour pickle juice until well combined.",
+    "Place hot smoked flaked salmon in a separate bowl.",
+    "Warm the salmon in a sous-vide water bath at 130°F (54°C) for 10 minutes.",
+    "Remove the salmon from the water bath and top with the sour cream mixture.",
+    "Dot the top with unsalted butter.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 22
+  },
+  "slug": "hot-smoked-american-flaked-salmon-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-american-flaked-salmon-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:59:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "flaked salmon",
+    "descriptor": "hot smoked",
+    "dishForm": "dish"
+  }
+}
