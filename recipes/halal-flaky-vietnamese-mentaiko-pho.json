@@ -1,0 +1,116 @@
+{
+  "title": "Halal Flaky Vietnamese Mentaiko Pho",
+  "description": "A savory, flaky post-workout dish featuring halal-friendly mentaiko in a Vietnamese-inspired Pho broth, served with crispy shallots on a tava-griddle.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mentaiko",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "Pho broth",
+      "amount": "2 cups",
+      "notes": "halal-friendly store-bought"
+    },
+    {
+      "name": "Pork or chicken bones",
+      "amount": "1 bunch",
+      "notes": "halal-friendly, for broth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": "for broth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 slice",
+      "notes": "for broth"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chicken or vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice flour and water in a bowl to form a dough, knead for 5 minutes, then rest for 30 minutes.",
+    "Divide dough into 4 equal pieces, roll out each piece into a thin circle, about 1/16 inch thick.",
+    "Heat a tava-griddle over medium-high heat, brush with oil, cook shallots until crispy, then set aside.",
+    "In a separate pan, combine Pho broth, pork or chicken bones, ginger, and onion, bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add soy sauce to broth, stir to combine.",
+    "Ladle hot broth into a bowl, lay a flaky pastry circle on top, sprinkle with crispy shallots, and garnish with scallions.",
+    "Repeat with remaining dough and broth.",
+    "Serve immediately, garnished with additional crispy shallots and scallions if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "post-workout-meal",
+    "vietnamese-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "halal-flaky-vietnamese-mentaiko-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-flaky-vietnamese-mentaiko-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:58:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "mentaiko",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mentaiko",
+    "descriptor": "halal flaky",
+    "dishForm": "Pho"
+  }
+}
