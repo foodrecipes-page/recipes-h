@@ -1,0 +1,98 @@
+{
+  "title": "Hangover-Cure Malaysian Turkey Satay",
+  "description": "A paleo-friendly, hangover-cure dish featuring turkey, flambe, and a mustardy, glassy-jelly sauce. This recipe is perfect for a weekend brunch or a midnight snack.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine turkey breast, coconut milk, mustard seeds, fish sauce, lime juice, and palm sugar in a blender or food processor.",
+    "Blend until smooth.",
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add blended mixture and cook, stirring constantly, until thickened and caramelized.",
+    "Add water and bring to a simmer.",
+    "Reduce heat to medium-low and cook, stirring occasionally, until sauce has thickened and reduced slightly.",
+    "Thread turkey onto skewers, leaving a small space between each piece.",
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add turkey skewers and cook, turning occasionally, until browned and cooked through.",
+    "Add sauce to wok or skillet and toss to coat turkey.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "hangover-cure",
+    "malaysian",
+    "midnight-snack",
+    "paleo-friendly",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 73,
+    "carbs": 14,
+    "fat": 34
+  },
+  "slug": "hangover-cure-malaysian-turkey-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-malaysian-turkey-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:13:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "turkey",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "turkey",
+    "descriptor": "hangover-cure",
+    "dishForm": "satay"
+  }
+}
