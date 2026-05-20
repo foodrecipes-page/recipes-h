@@ -1,0 +1,112 @@
+{
+  "title": "Hearty Creamy Mediterranean Fish Stew",
+  "description": "A comforting Mediterranean fish stew with a sweet and creamy sauce, flavored with fennel seeds, and low in carbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "1 pound",
+      "notes": "Fresh, deboned, and cut into 2-inch pieces"
+    },
+    {
+      "name": "Fennel Bulb",
+      "amount": "1 whole",
+      "notes": "Chopped, but not too fine"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt 1 tablespoon of butter over medium heat and sauté the chopped fennel bulb until slightly softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the deboned cod fillets, chopped oregano, salt, and black pepper. Cook for 3 minutes, until the fish starts to change color.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 8 minutes, or until the fish is cooked through.",
+    "Stir in the crumbled Feta cheese and cook for 1 minute, until melted.",
+    "In a small bowl, whisk together the Greek yogurt and lemon juice.",
+    "Stir the yogurt-lemon mixture into the pot and cook for 2 minutes, until heated through.",
+    "Remove the pot from the heat and stir in the remaining 1 tablespoon of butter.",
+    "Let the stew rest for 5 minutes before serving.",
+    "Serve the fish stew hot, garnished with additional chopped oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-recipe",
+    "fish",
+    "low-carb",
+    "mediterranean",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "hearty-creamy-mediterranean-fish-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-creamy-mediterranean-fish-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T20:00:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "fennel seeds",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "Hearty Creamy",
+    "dishForm": "Stew"
+  }
+}
