@@ -1,0 +1,111 @@
+{
+  "title": "Hangover Cure Irish Grana Padano Stew",
+  "description": "A hearty, diabetes-friendly Irish stew featuring the funky, glassy-jelly goodness of Grana Padano. Perfect for a hangover cure after a night out with friends.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup grated",
+      "notes": "use low-sodium if possible"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Pork sausages",
+      "amount": "1 pound",
+      "notes": "use low-sodium if possible"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried, whichever is available"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat a drizzle of oil over medium-high heat.",
+    "Add the pork sausages and cook until browned, about 5 minutes.",
+    "Set the sausages aside and add the diced onions and carrots to the pot.",
+    "Cook until the vegetables are tender, about 8 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the beef broth, potatoes, thyme, and bay leaves to the pot.",
+    "Return the sausages to the pot and bring to a simmer.",
+    "Reduce the heat to medium low and cook, covered, until the potatoes are tender, about 20 minutes.",
+    "Stir in the grated Grana Padano cheese until melted and serve hot.",
+    "Season with black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grana-padano",
+    "hangover-cure",
+    "irish-stew",
+    "one-pan",
+    "weekend-brunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "hangover-cure-irish-grana-padano-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-irish-grana-padano-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:03:41Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "soffritto-base",
+    "primaryIngredient": "grana-padano",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "grana-padano",
+    "descriptor": "Hangover-Cure",
+    "dishForm": "Stew"
+  }
+}
