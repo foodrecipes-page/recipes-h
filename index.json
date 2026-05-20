@@ -80,6 +80,21 @@
     "shard": "h"
   },
   {
+    "slug": "halal-friendly-crispy-korean-busan-korean-mandu",
+    "title": "Halal-Friendly Crispy Korean Busan Mandu",
+    "tags": [
+      "busan",
+      "crispy",
+      "halal",
+      "korean",
+      "street-food",
+      "umami"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "halal-friendly-molded-turkish-burrata-cig-kofte",
     "title": "Halal-Friendly Molded Turkish Burrata Cig-Kofte",
     "tags": [
@@ -14622,6 +14637,22 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "honey-glazed-japanese-speck-bake",
+    "title": "Honey Glazed Japanese Speck Bake",
+    "tags": [
+      "honey-glaze",
+      "japanese",
+      "one-pan",
+      "pork",
+      "speck",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {

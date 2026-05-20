@@ -1,0 +1,106 @@
+{
+  "title": "Halal-Friendly Crispy Korean Busan Mandu",
+  "description": "Crispy Korean Mandu is a popular street food in Busan, Korea. This recipe is a halal-friendly version featuring a delicious umami flavor combination.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Brown rice noodle",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp",
+      "notes": "halal-friendly version"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Infuse-oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Combine ground beef, onion, garlic, Korean chili flakes, soy sauce, salt, and black pepper in a large bowl. Mix well until just combined."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "crispy",
+    "halal",
+    "korean",
+    "street-food",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "halal-friendly-crispy-korean-busan-korean-mandu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-friendly-crispy-korean-busan-korean-mandu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "halal",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "busan",
+    "descriptor": "Halal-friendly crispy",
+    "dishForm": "Korean Mandu"
+  }
+}

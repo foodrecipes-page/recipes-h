@@ -1,0 +1,109 @@
+{
+  "title": "Honey Glazed Japanese Speck Bake",
+  "description": "A Japanese dish inspired by Okinawan flavors featuring speck, a type of cured pork, in a sweet honey glaze, perfect for a solo dinner. The dish is wood-fired baked, making it a unique and delicious meal option.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Speck",
+      "amount": "6 oz",
+      "notes": "Thinly sliced, about 1/2 inch thick"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free sweetener",
+      "amount": "1 tsp",
+      "notes": "Such as stevia or erythritol"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C) or a wood-fired oven to 500°F (260°C).",
+    "Line a baking sheet with parchment paper or aluminum foil for easy cleanup.",
+    "Arrange the speck slices on the prepared baking sheet in a single layer, leaving a little space between each piece.",
+    "In a small bowl, whisk together the honey, sesame oil, ginger, garlic, soy sauce, rice vinegar, and sugar-free sweetener until smooth.",
+    "Brush the honey glaze evenly over the speck slices, making sure each piece is coated.",
+    "Sprinkle the green onions over the top of the speck.",
+    "Bake the speck in the preheated oven for 12-15 minutes or until caramelized and slightly crispy.",
+    "During the last 2 minutes of baking, add the miso paste to the honey glaze and brush it over the speck again.",
+    "Remove the speck from the oven and let it cool for a few minutes before serving.",
+    "Serve the honey glazed speck hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "honey-glaze",
+    "japanese",
+    "one-pan",
+    "pork",
+    "speck",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "honey-glazed-japanese-speck-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-japanese-speck-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "speck",
+    "diet": "sugar-free",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Speck",
+    "descriptor": "Honey Glazed",
+    "dishForm": "Bake"
+  }
+}
