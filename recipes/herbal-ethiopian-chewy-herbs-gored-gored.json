@@ -1,0 +1,87 @@
+{
+  "title": "Herbal Ethiopian Chewy Herbs Gored-Gored",
+  "description": "A traditional Ethiopian dish made with puff pastry, herbs, and spices. Quick to make and suitable for a no-onion-no-garlic diet.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cumin",
+      "notes": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u000136F (190\u000136C).",
+    "Roll out puff pastry to a thickness of 1/8 inch (3 mm).",
+    "In a mortar and pestle, pound the cilantro, parsley, and dill until coarsely chopped.",
+    "Mix the ground ginger and cumin into the herb mixture.",
+    "Spread the herb mixture evenly over the puff pastry, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the edges of the pastry up over the filling to form a border.",
+    "Cut the pastry into 8 equal pieces. ",
+    "Place the pastry pieces on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "quick-fix",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "herbal-ethiopian-chewy-herbs-gored-gored",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-ethiopian-chewy-herbs-gored-gored",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:29:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "puff pastry",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chewy herbs",
+    "descriptor": "Herbal",
+    "dishForm": "Gored-Gored"
+  }
+}
