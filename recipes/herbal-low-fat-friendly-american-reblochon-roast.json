@@ -1,0 +1,155 @@
+{
+  "title": "herbal low-fat-friendly american reblochon roast",
+  "description": "a soothing, comforting dish that pairs the richness of reblochon with the subtle flavors of fresh herbs. perfect for a sick day or a relaxing evening at home.",
+  "cuisine": "american",
+  "diet": [
+    "low-fat",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "reblochon cheese",
+      "amount": "1 block (120g)",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "korean brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375\u00012f (190\u0000c).",
+    "in a small bowl, whisk together lemon juice, olive oil, garlic, salt, black pepper, and korean chili flakes.",
+    "sprinkle the reblochon cheese with thyme, rosemary, and parsley.",
+    "place the cheese in a korean brass bowl and drizzle with the lemon juice mixture.",
+    "add the chopped scallions, sliced red onion, and chopped fresh mint on top of the cheese.",
+    "cover the bowl with aluminum foil and roast for 15 minutes.",
+    "remove the foil and continue roasting for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "garnish with chopped fresh herbs and serve over korean brown rice.",
+    "serve immediately and enjoy!",
+    "reheat any leftovers in the oven at 375\u00012f (190\u0000c) for 5-7 minutes, or until warmed through.",
+    "serve with additional chopped herbs and a side of steamed vegetables if desired.",
+    "store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "korean-brass-bowl",
+    "low-fat",
+    "reblochon",
+    "roast",
+    "sick-day",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "herbal-low-fat-friendly-american-reblochon-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-low-fat-friendly-american-reblochon-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:38:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "reblochon",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "reblochon",
+    "descriptor": "herbal low-fat-friendly",
+    "dishForm": "roast"
+  }
+}
