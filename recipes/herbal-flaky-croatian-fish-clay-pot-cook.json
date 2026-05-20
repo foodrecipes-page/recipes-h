@@ -1,0 +1,121 @@
+{
+  "title": "Flaky Croatian Fish Clay-Pot-Cook",
+  "description": "A delicious and easy-to-make dish featuring flaky fish, fresh dill, and a hint of Mediterranean flavors. Perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "White wine (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Clay pot or Dutch oven",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the cod fillets with salt and black pepper.",
+    "Heat the olive oil in the clay pot or Dutch oven over medium heat.",
+    "Sauté the chopped onions and minced garlic until softened.",
+    "Add the chopped fresh dill, lemon juice, and white wine (if using) to the pot.",
+    "Place the cod fillets on top of the vegetables and add water to cover them partially.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 12-15 minutes or until the fish is cooked through and flakes easily with a fork.",
+    "Remove the pot from the oven and carefully place it on a trivet or heat-resistant surface.",
+    "Remove the cod fillets from the pot and serve with the vegetables and sauce.",
+    "Strain the cooking liquid and discard the bay leaves.",
+    "Serve the sauce over the fish and vegetables, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fish",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "herbal-flaky-croatian-fish-clay-pot-cook",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-flaky-croatian-fish-clay-pot-cook",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:32:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "dill",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "herbal flaky",
+    "dishForm": "clay-pot-cook"
+  }
+}
