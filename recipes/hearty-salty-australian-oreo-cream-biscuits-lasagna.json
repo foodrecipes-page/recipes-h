@@ -1,0 +1,127 @@
+{
+  "title": "Hearty Salted Australian Oreo Cream Biscuits Lasagna",
+  "description": "A comforting and savory Australian dish featuring Oreo cream biscuits, perfect for a diabetic-friendly meal. This recipe is en-croute and served in a salt block.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oreo cream biscuits",
+      "amount": "1 package (12-16 biscuits)",
+      "notes": ""
+    },
+    {
+      "name": "Australian salted ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat, unflavored"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Brown the ground beef in a large skillet over medium-high heat.",
+    "Add the paprika, garlic powder, thyme, salt, and pepper to the skillet and stir to combine.",
+    "Add the tomato paste and beef broth to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes.",
+    "In a separate bowl, mix together the Greek yogurt and mozzarella cheese.",
+    "In a large baking dish, create a layer of the yogurt-cheese mixture.",
+    "Arrange 4-6 Oreo cream biscuits on top of the yogurt-cheese layer.",
+    "Repeat the layers two more times, ending with a layer of yogurt-cheese on top.",
+    "Transfer the dish to the preheated oven and bake for 30 minutes.",
+    "Remove the dish from the oven and top with Parmesan cheese.",
+    "Serve the lasagna hot, garnished with additional thyme if desired.",
+    "Let the lasagna rest for 10 minutes before serving.",
+    "Slice the lasagna into 8 equal servings.",
+    "Serve hot and enjoy!",
+    "Note: This recipe is best served in a salt block for an authentic Australian experience."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "comfort-food",
+    "diabetic-friendly",
+    "lasagna",
+    "lunch",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 46,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "hearty-salty-australian-oreo-cream-biscuits-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-salty-australian-oreo-cream-biscuits-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:15:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "oreo cream biscuits",
+    "descriptor": "hearty, salty",
+    "dishForm": "lasagna"
+  }
+}
