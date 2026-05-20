@@ -1909,6 +1909,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-argentinian-freekeh-pilaf",
+    "title": "Hearty Argentinian Freekeh Pilaf",
+    "tags": [
+      "argentinian",
+      "dinner",
+      "easy-to-make",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-australian-lamb-skewers",
     "title": "Hearty Australian Lamb Skewers",
     "tags": [

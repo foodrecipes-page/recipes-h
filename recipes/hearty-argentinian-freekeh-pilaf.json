@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Argentinian Freekeh Pilaf",
+  "description": "A dense and citrusy Argentinian-inspired pilaf featuring freekeh and perfect for kids. Perfect meal for a weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Zest of 1 orange",
+      "amount": null,
+      "notes": "Use a vegetable peeler to get the orange zest"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the freekeh and soak it in water for 30 minutes. Drain and set aside.",
+    "In a large oven-safe skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the soaked freekeh, orange zest, orange juice, salt, and pepper to the skillet. Stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and stir in the chopped fresh cilantro.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Use a lazy susan spinner to serve. This will make it easy to serve a large group of people.",
+    "Garnish with lemon wedges if desired, but not necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dinner",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "hearty-argentinian-freekeh-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-argentinian-freekeh-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:17:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "freekeh",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Freekeh",
+    "descriptor": "Hearty",
+    "dishForm": "Pilaf"
+  }
+}
