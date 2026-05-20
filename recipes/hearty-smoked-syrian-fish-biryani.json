@@ -1,0 +1,118 @@
+{
+  "title": "Hearty Smoked Syrian Fish Biryani",
+  "description": "A one-pot Syrian dish featuring white fish, nuka-pickle, and cheesy goodness, perfect for a fun dinner with friends and family.",
+  "cuisine": "Syrian",
+  "diet": [
+    "dairy-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Trout Fillets",
+      "amount": "4",
+      "notes": "White fish with a smoky flavor"
+    },
+    {
+      "name": "Nuka-Pickle",
+      "amount": "1 cup",
+      "notes": "Pickles made with nuka, a type of fermented rice bran"
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "2 cups",
+      "notes": "Long grain rice with a nutty flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Yellow onion for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "For the aroma of the dish"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Concentrated tomato paste for added flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed lemon juice for brightness"
+    },
+    {
+      "name": "Vegan Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "Dairy-free cheese for the cheesy pull"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh parsley for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic and cook for an additional 1 minute.",
+    "Add nuka-pickle and cook for 2 minutes, until fragrant.",
+    "Add smoked trout fillets and cook for 2 minutes on each side.",
+    "Add tomato paste and cook for 1 minute, until fragrant.",
+    "Add basmati rice and cook for 2 minutes, until lightly toasted.",
+    "Add lemon juice, vegan cheddar cheese, salt, and black pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "cheesy",
+    "dinner",
+    "fish",
+    "hearty",
+    "one-pot",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "hearty-smoked-syrian-fish-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-smoked-syrian-fish-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:30:02Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "white fish",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Hearty Smoked",
+    "dishForm": "Biryani"
+  }
+}
