@@ -1,0 +1,101 @@
+{
+  "title": "Halal-Friendly Smoky Brazilian Milk Bake",
+  "description": "A smoky, creamy Brazilian-inspired dessert featuring a molten milk custard topped with a caramelized sugar crust, all within a halal-friendly framework.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Halal milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked ground coffee",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a medium saucepan, combine the milk, granulated sugar, cinnamon powder, and smoked ground coffee. Heat over medium heat, stirring occasionally.",
+    "In a separate bowl, whisk together the egg yolks and set aside.",
+    "Remove the milk mixture from the heat and temper the egg yolks by slowly pouring the warm milk into the egg yolks, whisking constantly.",
+    "Pour the mixture into 6 (1/2 cup) ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the edges are set.",
+    "Remove the ramekins from the water bath and let cool in an ice bath for 10 minutes.",
+    "Drizzle the coconut oil over the top of each ramekin and sprinkle with a pinch of sea salt.",
+    "Return the ramekins to the oven and bake for an additional 5-7 minutes, or until the tops are caramelized.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Drizzle with heavy cream and sprinkle with a pinch of cinnamon powder."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brasilian",
+    "creamy",
+    "dessert",
+    "halal",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "halal-friendly-smoky-brazilian-milk-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-friendly-smoky-brazilian-milk-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T19:53:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "milk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "milk",
+    "descriptor": "Halal-friendly Smoky",
+    "dishForm": "Bake"
+  }
+}
