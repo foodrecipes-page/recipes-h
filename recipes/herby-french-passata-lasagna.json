@@ -1,0 +1,114 @@
+{
+  "title": "Herby French Passata Lasagna",
+  "description": "A resinous and chewy French dish featuring passata, pickle, and jain-friendly ingredients, perfect for meal prep.",
+  "cuisine": "french",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "passata",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "pickled cucumbers",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the minced garlic until fragrant.",
+    "Add the passata, chopped parsley, and chopped basil to the skillet and cook for 2-3 minutes, stirring occasionally.",
+    "Stir in the chopped pickled cucumbers, nutritional yeast, salt, and black pepper. ",
+    "In a large bowl, combine the cooked lasagna noodles and the passata mixture, stirring until well combined.",
+    "Transfer the noodle mixture to a 9x13-inch baking dish and top with the shredded vegan mozzarella.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "gluten-free",
+    "lactose-free",
+    "meal-prep",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "herby-french-passata-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herby-french-passata-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:16:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "passata",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Passata",
+    "descriptor": "Herby",
+    "dishForm": "Lasagna"
+  }
+}
