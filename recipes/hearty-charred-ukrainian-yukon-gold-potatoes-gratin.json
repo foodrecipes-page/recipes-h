@@ -1,0 +1,78 @@
+{
+  "title": "Hearty Charred Ukrainian Yukon Gold Potatoes Gratin",
+  "description": "A flavorful and nutritious Ukrainian-inspired dish featuring charred Yukon Gold potatoes, a creamy pasta-water emulsion, and a hint of smokiness from the Robata grill. This hearty gratin is perfect for meal prep and is low in fat.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "amount": "3 pounds",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the Robata grill to 425°F (220°C).",
+    "Cut the potatoes into 1-inch wedges and place them in a large bowl.",
+    "In a small saucepan, heat the pasta water emulsion over low heat.",
+    "In a separate saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add the flour to the saucepan and whisk until smooth, cooking for 1 minute.",
+    "Slowly pour in the pasta water emulsion, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until it thickens.",
+    "Add the remaining 2 tablespoons of butter to the saucepan and stir until melted.",
+    "Season the sauce with salt and pepper to taste.",
+    "Place the potato wedges in a single layer in a shallow baking dish.",
+    "Pour the sauce over the potatoes and top with additional grated cheese if desired.",
+    "Transfer the dish to the preheated Robata grill and cook for 20-25 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove the dish from the grill and let it rest for 5 minutes before serving.",
+    "Use a spatula to loosen the potatoes from the baking dish and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "meal-prep",
+    "robata-grill",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "hearty-charred-ukrainian-yukon-gold-potatoes-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-charred-ukrainian-yukon-gold-potatoes-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:49:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "Hearty Charred",
+    "dishForm": "Gratin"
+  }
+}
