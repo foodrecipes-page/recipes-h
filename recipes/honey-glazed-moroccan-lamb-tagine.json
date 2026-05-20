@@ -1,0 +1,70 @@
+{
+  "title": "Honey Glazed Moroccan Lamb Tagine",
+  "description": "A spicy and flavorful dish from Morocco, perfect for a special occasion or a night out with friends.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1",
+      "notes": "about 1.5 kg"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C and heat a robata grill to medium-high heat.",
+    "Season the lamb shoulder with salt, black pepper, and ground cumin.",
+    "Grill the lamb shoulder for 5 minutes on each side, or until browned.",
+    "Transfer the lamb to a Dutch oven or a large clay pot with a lid.",
+    "Add the chopped onions, garlic, ginger, and dried spices to the pot.",
+    "Cook over medium heat, stirring occasionally, until the onions are softened and the spices are fragrant.",
+    "Add the honey, lemon juice, and chicken broth to the pot.",
+    "Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Let the lamb rest for 10 minutes before slicing and serving.",
+    "Serve the lamb in a dolsot stone bowl with the sauce spooned over the top.",
+    "Garnish with fresh parsley and a sprinkle of sumac.",
+    "Serve immediately, hot and steaming.",
+    "Adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "dolsot-stone-bowl",
+    "gluten-free",
+    "lamb",
+    "moroccan",
+    "robata-grill",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "honey-glazed-moroccan-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-moroccan-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:40:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "sugar syrup",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Honey Glazed",
+    "dishForm": "Tagine"
+  }
+}
