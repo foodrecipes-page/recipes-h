@@ -1,0 +1,123 @@
+{
+  "title": "Herbal Moroccan Almond Flour Tagine",
+  "description": "A flavorful, spring-inspired Moroccan dish made with almond flour, fermented kimchi, and a blend of aromatic herbs. Perfect for a quick and healthy meal prep.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "fermented Korean-style kimchi"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced fresh ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the minced ginger and cook for 1 minute, stirring constantly.",
+    "Add the garlic powder, turmeric powder, cumin powder, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chopped parsley, chopped cilantro, and kimchi, and cook for 2 minutes, stirring occasionally.",
+    "Add the almond flour, water, and dried apricots (if using), and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the tagine has thickened and the flavors have melded together.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with additional chopped herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "high-protein",
+    "meal-prep",
+    "moroccan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "herbal-moroccan-almond-flour-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-moroccan-almond-flour-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:45:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "almond flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almond flour",
+    "descriptor": "herbal",
+    "dishForm": "Tagine"
+  }
+}
