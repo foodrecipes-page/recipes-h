@@ -15906,6 +15906,21 @@
     "shard": "h"
   },
   {
+    "slug": "hot-smoky-mexican-beans-tacos",
+    "title": "Hot Smoky Mexican Beans Tacos",
+    "tags": [
+      "beans",
+      "comfort-food",
+      "lunch",
+      "mexican",
+      "smoked-paprika",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hot-smoky-spanish-kombu-pisto-manchego",
     "title": "Hot Smoky Spanish Kombu Pisto Manchego",
     "tags": [

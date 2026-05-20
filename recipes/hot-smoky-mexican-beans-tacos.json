@@ -1,0 +1,76 @@
+{
+  "title": "Hot Smoky Mexican Beans Tacos",
+  "description": "A delicious, comforting recipe featuring a rich, smoky flavor profile and a variety of textures, perfect for a lazy Sunday afternoon.",
+  "cuisine": "Mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried black beans, soaked overnight and drained",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "additionally to regular paprika"
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat 2 tablespoons of oil over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened, about 8 minutes.",
+    "Add the garlic and cook for an additional minute, stirring constantly.",
+    "Add the chipotle peppers, smoked paprika, and five-spice powder, if using, and cook for 1-2 minutes, stirring constantly.",
+    "Add the soaked and drained black beans, the adobo sauce, and 2 cups of water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the beans are tender.",
+    "While the beans are cooking, toast the tacos shells according to package instructions.",
+    "To assemble the tacos, spoon some of the bean mixture onto a warmed taco shell, followed by a sprinkle of shredded cheese, diced tomatoes, and any other desired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "comfort-food",
+    "lunch",
+    "mexican",
+    "smoked-paprika",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hot-smoky-mexican-beans-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoky-mexican-beans-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:02:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "smoke-cold",
+    "primaryIngredient": "five spice powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "hot smoky",
+    "dishForm": "tacos"
+  }
+}
