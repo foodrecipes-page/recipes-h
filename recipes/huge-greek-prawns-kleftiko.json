@@ -1,0 +1,117 @@
+{
+  "title": "Huge Greek Prawns Kleftiko",
+  "description": "Funky, gooey, monsoon Greek dish featuring raw tiger prawns, pressure-cooked to perfection.",
+  "cuisine": "greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw tiger prawns",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat them dry with paper towels.",
+    "In a large bowl, whisk together the olive oil, lemon juice, garlic, oregano, thyme, salt, and black pepper.",
+    "Add the prawns to the bowl and toss them to coat with the marinade.",
+    "Heat a large pressure cooker over medium-high heat and add the potatoes and onions.",
+    "Brown the potatoes and onions on all sides, about 5 minutes.",
+    "Add the marinaded prawns to the pressure cooker and close the lid.",
+    "Cook for 6 minutes at high pressure, then let the pressure release naturally for 10 minutes.",
+    "Add the red wine vinegar and honey to the pressure cooker and stir to combine.",
+    "Cook for an additional 2 minutes, then remove the pressure cooker from the heat.",
+    "Serve the prawns hot, garnished with additional oregano and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "high-protein",
+    "one-pan",
+    "pressure-cooked",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 120,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "huge-greek-prawns-kleftiko",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/huge-greek-prawns-kleftiko",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:06:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Prawns",
+    "descriptor": "Huge",
+    "dishForm": "Kleftiko"
+  }
+}
