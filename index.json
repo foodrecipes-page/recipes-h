@@ -5178,6 +5178,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-greek-feta-platter",
+    "title": "Hearty Greek Feta Platter",
+    "tags": [
+      "dinner-party",
+      "easy-to-make",
+      "gluten-free",
+      "greek",
+      "high-protein",
+      "one-pan",
+      "sous-vide"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-greek-mozzarella-fritters",
     "title": "Hearty Greek Mozzarella Fritters",
     "tags": [
@@ -7563,6 +7579,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-molten-thai-flax-eggs-bowl",
+    "title": "Hearty Molten Thai Flax Eggs Bowl",
+    "tags": [
+      "hearty",
+      "high-protein",
+      "one-pan",
+      "thai",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {

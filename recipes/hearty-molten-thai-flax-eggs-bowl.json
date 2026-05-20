@@ -1,0 +1,117 @@
+{
+  "title": "Hearty Molten Thai Flax Eggs Bowl",
+  "description": "A vibrant, savory dish featuring the unique texture of flax eggs, crispy fried tofu, and the flavors of Thailand, served in a traditional Korean brass bowl.",
+  "cuisine": "Thai",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flax Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm, drained, cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tom Yum paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat, until it shimmers.",
+    "Add the tofu and cook until golden brown and crispy, about 5 minutes.",
+    "Transfer the cooked tofu to a paper towel-lined plate to drain excess oil.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet, then add the onion and cook, stirring occasionally, until softened and caramelized, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the Tom Yum paste and cook, stirring constantly, for 1 minute, until fragrant.",
+    "Add the fish sauce, sugar, and lime juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2 minutes, until slightly thickened.",
+    "Add the cooked tofu back into the skillet and stir to combine with the sauce.",
+    "To assemble the bowls, divide the cooked tofu mixture among four Korean brass bowls, then top with flax eggs, Thai basil, and chili flakes.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "hearty",
+    "high-protein",
+    "one-pan",
+    "thai",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "hearty-molten-thai-flax-eggs-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-molten-thai-flax-eggs-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:47:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "flax eggs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "flax eggs",
+    "descriptor": "Hearty Molten",
+    "dishForm": "Bowl"
+  }
+}

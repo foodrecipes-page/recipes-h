@@ -1,0 +1,100 @@
+{
+  "title": "Hearty Greek Feta Platter",
+  "description": "A show-off Greek dish featuring pickles, feta cheese, and crispy flatbread, perfect for a dinner party.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wood-fired flatbread",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Sour pickles",
+      "amount": "1 cup",
+      "notes": "Sliced into thin rounds"
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cracked black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 cup",
+      "notes": "Canned, drained, and rinsed"
+    },
+    {
+      "name": "Feta brine",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 160°F (71°C)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-party",
+    "easy-to-make",
+    "gluten-free",
+    "greek",
+    "high-protein",
+    "one-pan",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 31,
+    "carbs": 28,
+    "fat": 36
+  },
+  "slug": "hearty-greek-feta-platter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-greek-feta-platter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:47:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "pickles",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Hearty",
+    "dishForm": "Platter"
+  }
+}
