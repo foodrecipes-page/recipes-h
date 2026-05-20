@@ -1,0 +1,122 @@
+{
+  "title": "Huge Jamaican Fish Fried-Rice",
+  "description": "A vibrant and savory dish, blending Caribbean flavors with Asian technique.",
+  "cuisine": "jamaican",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "2 cups uncooked",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "cod",
+      "amount": "1 lb",
+      "notes": "fresh, boneless, skinless"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "white or yellow"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a wok or large skillet over medium-high heat.",
+    "Add scotch bonnet peppers and cook until fragrant, about 1 min.",
+    "Add the diced red onion and celery, cook until they start to soften, about 3 min.",
+    "Add the cod and cook until it's opaque and flaky, about 4 min.",
+    "Add the miso paste and almond essence, stir to combine, about 1 min.",
+    "Push the cod mixture to one side of the pan and add more oil if needed.",
+    "Add the brown rice to the empty side of the pan and stir-fry for 2-3 min.",
+    "Combine the rice with the cod mixture and stir-fry for 2-3 min.",
+    "Stir in the coconut milk and cook for an additional 2-3 min.",
+    "Garnish with chopped parsley and sesame seeds, and serve immediately.",
+    "Taste and adjust the seasoning with salt and black pepper as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "fish-dishes",
+    "jamaican-cuisine",
+    "macrobiotic-friendly",
+    "one-pan-wonders",
+    "quick-meals",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 23
+  },
+  "slug": "huge-jamaican-fish-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/huge-jamaican-fish-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:27:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "almond essence",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fish",
+    "descriptor": "Huge",
+    "dishForm": "Fried-Rice"
+  }
+}
