@@ -1,0 +1,121 @@
+{
+  "title": "Hearty Spicy Ukrainian Sausages Shashlik",
+  "description": "A Ukrainian dish that's perfect for a festive gathering, featuring juicy sausages with a spicy kick.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausages",
+      "amount": "12",
+      "notes": "make sure to get Ukrainian-style sausages for authenticity"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon",
+      "notes": "this gives the dish a nice spicy kick"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the sausages into 1-inch pieces and set aside.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they're translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced bell peppers and zucchini and cook until they're tender, about 5 minutes.",
+    "Add the pork sausage pieces and cook until they're browned and cooked through, about 5-7 minutes.",
+    "In a small bowl, mix together the coco sugar, ferment-jang, salt, and black pepper.",
+    "Brush the sausage pieces with the sugar mixture and cook for another minute, until caramelized.",
+    "Transfer the sausage mixture to a serving platter and garnish with fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "grill",
+    "pork",
+    "summer",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "hearty-spicy-ukrainian-sausages-shashlik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spicy-ukrainian-sausages-shashlik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:06:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "coco sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Sausages",
+    "descriptor": "Hearty Spicy",
+    "dishForm": "Shashlik"
+  }
+}
