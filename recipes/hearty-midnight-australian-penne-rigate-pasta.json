@@ -1,0 +1,103 @@
+{
+  "title": "hearty midnight australian penne rigate pasta",
+  "description": "peppery, shaggy, midnight-craving dish featuring penne rigate, clay-pot-cook, macrobiotic-friendly",
+  "cuisine": "australian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "sundried tomatoes",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "mild Aussie olive oil",
+      "amount": "45ml",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "peppery parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil over medium heat in a large clay pot",
+    "add minced garlic and cook for 1 minute",
+    "add sundried tomatoes, olives and cook for an additional 2 minutes",
+    "add penne rigate, lemon juice, salt and pepper, stir to combine",
+    "cover and cook for 10-12 minutes or until pasta is tender",
+    "season with extra parsley and serve",
+    "serve warm, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australianstyle",
+    "macrobiotic",
+    "one-pan",
+    "pastabased",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 62,
+    "fat": 19
+  },
+  "slug": "hearty-midnight-australian-penne-rigate-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-midnight-australian-penne-rigate-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "penne rigate",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "penne rigate",
+    "descriptor": "hearty midnight",
+    "dishForm": "pasta"
+  }
+}
