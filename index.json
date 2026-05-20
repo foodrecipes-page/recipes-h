@@ -4572,6 +4572,22 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-beef-bouillabaisse",
+    "title": "Hearty French Beef Bouillabaisse",
+    "tags": [
+      "beef",
+      "broad",
+      "comforting",
+      "french",
+      "hearty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-french-beef-pot-au-feu",
     "title": "Hearty French Beef Pot-au-Feu",
     "tags": [

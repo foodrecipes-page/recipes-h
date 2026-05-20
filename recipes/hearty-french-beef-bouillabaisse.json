@@ -1,0 +1,112 @@
+{
+  "title": "Hearty French Beef Bouillabaisse",
+  "description": "A comforting and hearty French dish originating from Lyon, made with tender beef shin, rich broth, and flavors of saffron, bay leaves, and cayenne pepper.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4-6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor to 500 degrees Fahrenheit.",
+    "Brown the beef shin on all sides, then set aside.",
+    "Sauté the onion and garlic until softened.",
+    "Add the carrots and celery, cooking for 5 minutes more.",
+    "Combine the broth, bay leaves, saffron, cayenne pepper, salt, and pepper in a large pot.",
+    "Add the browned beef to the pot and simmer for 2 hours, skimming the fat occasionally.",
+    "Serve the bouillabaisse hot, with toasted bread or croutons on the side.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "broad",
+    "comforting",
+    "french",
+    "hearty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "hearty-french-beef-bouillabaisse",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-french-beef-bouillabaisse",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:11:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "beef shin",
+    "diet": "shojin",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Beef",
+    "descriptor": "Hearty",
+    "dishForm": "Bouillabaisse"
+  }
+}
