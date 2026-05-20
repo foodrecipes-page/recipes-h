@@ -1,0 +1,59 @@
+{
+  "title": "Hearty, Soft, Chewy German Sausage Burger",
+  "description": "A buttery, chewy, adventurous German dish featuring red wine jelly and infused oil, perfect for a weeknight dinner. This recipe serves 4 and can be prepared in under an hour.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bavarian-style pork sausage",
+      "amount": "12 oz",
+      "notes": "about 4 sausages"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 375\u001112F.",
+    "Prepare a lazy Susan spinner or a large cast-iron skillet for cooking.",
+    "Remove the sausages from their casings and cook for about 5 minutes per side, until browned and cooked through.",
+    "Meanwhile, toast the buns on the grill by placing them directly on the heat source for about 30 seconds per side.",
+    "Spread a layer of red wine jelly on the bottom bun, followed by a cooked sausage, some caramelized onions, a few slices of bacon, and a sprinkle of chives.",
+    "Top with the top bun and serve immediately.",
+    "Let the burger rest for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 52
+  },
+  "slug": "hearty-soft-chewy-german-sausage-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-soft-chewy-german-sausage-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:25:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "red wine jelly",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sausage",
+    "descriptor": "Hearty, Soft, Chewy",
+    "dishForm": "Burger"
+  }
+}
