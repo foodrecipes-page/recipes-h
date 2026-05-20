@@ -1,0 +1,129 @@
+{
+  "title": "Hearty Weeknight Kenyan Dinner Stir-Fry",
+  "description": "A flavorful and comforting Kenyan-inspired dinner stir-fry made with chicken and vegetables, perfect for a busy weeknight.",
+  "cuisine": "Kenyan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken breasts and cook until browned on all sides and cooked through, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and add the onion, fennel seeds, ginger, and garlic. Cook until the onion is translucent, about 3-4 minutes.",
+    "Add the bell peppers, carrots, and sweet potatoes to the skillet and cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "Add the chili flakes, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cooked chicken back into the skillet and stir to combine with the vegetable mixture.",
+    "Stir in the fresh cilantro and lime juice.",
+    "Serve hot and enjoy!",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "easy-to-make",
+    "flavorful",
+    "high-protein",
+    "kenyan-stir-fry",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-weeknight-kenyan-dinner-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-weeknight-kenyan-dinner-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:16:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "fennel seeds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "dinner",
+    "descriptor": "hearty weeknight",
+    "dishForm": "stir-fry"
+  }
+}
