@@ -1,0 +1,81 @@
+{
+  "title": "Honeyed Fermented Peruvian Fish Ceviche Clasico",
+  "description": "A traditional Peruvian dish with a fermented twist, featuring honey and a tangy, gooey texture. This Ayurvedic-rajasic-friendly ceviche is perfect for a hot summer day.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Sea Bass Fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "raw, organic, fair-trade"
+    }
+  ],
+  "instructions": [
+    "Combine fish fillets, honey, and chopped cilantro in a large bowl, being careful not to break the fish into pieces.",
+    "Let it sit at room temperature for 2 hours, allowing the honey to ferment and break down the fish's proteins.",
+    "Stir in chopped red onion and fresh lime juice, then refrigerate for at least 30 minutes to allow the flavors to meld together.",
+    "Just before serving, sprinkle with chopped fresh cilantro and serve over a bed of mixed greens, garnished with a lime wedge.",
+    "Note: be sure to handle the fish safely and cook it to an internal temperature of at least 145°F (63°C) to avoid foodborne illness.",
+    "prepTimeMin",
+    "cookTimeMin",
+    "totalTimeMin",
+    "servings",
+    "difficulty",
+    "tags",
+    "nutrition",
+    "calories",
+    "protein",
+    "carbs",
+    "fat",
+    "6",
+    "easy",
+    "}"
+  ],
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-foods",
+    "one-bowl-meal",
+    "peruvian-cuisine",
+    "pescatarian",
+    "raw-vegan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "slug": "honeyed-fermented-peruvian-fish-ceviche-clasico",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-fermented-peruvian-fish-ceviche-clasico",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:57:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Fish",
+    "descriptor": "Honeyed Fermented",
+    "dishForm": "Ceviche Clasico"
+  }
+}
