@@ -4557,6 +4557,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-french-beef-pot-au-feu",
+    "title": "Hearty French Beef Pot-au-Feu",
+    "tags": [
+      "beef",
+      "high-protein",
+      "jain-friendly",
+      "noodle",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-french-beef-stew",
     "title": "Hearty French Beef Stew",
     "tags": [
@@ -14863,6 +14878,24 @@
       "weeknight"
     ],
     "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "homestyle-mediterranean-pasta-pasta",
+    "title": "Homestyle Mediterranean Pasta",
+    "tags": [
+      "currants",
+      "date-night",
+      "high-protein",
+      "mediterranean",
+      "pasta",
+      "pine-nuts",
+      "shojin-friendly",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "h"
   },

@@ -1,0 +1,135 @@
+{
+  "title": "Homestyle Mediterranean Pasta",
+  "description": "Cultured, shaggy, and perfect for a date night, this Mediterranean pasta dish features currants in a rich pasta-water emulsion, making it a delicious and satisfying meal. This dish is also shojin-friendly, allowing you to enjoy the flavors without any animal products.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "Choose a high-protein pasta option for added nutrition."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, extra-virgin olive oil for the best flavor."
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic adds a depth of flavor without overpowering the dish."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed lemon juice adds a bright, tangy flavor."
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup",
+      "notes": "Dried currants add natural sweetness and chewiness to the dish."
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "Pine nuts add crunch and a nutty flavor."
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "Dried oregano adds a familiar herbal flavor."
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "A pinch of red pepper flakes adds a subtle kick of heat."
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality, flaky sea salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground black pepper enhances the flavors of the dish."
+    },
+    {
+      "name": "vegan parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": "Choose a high-quality, dairy-free parmesan cheese option."
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Fresh parsley adds a bright, fresh flavor and color."
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 cups",
+      "notes": "The pasta water is used to make the emulsion for the sauce."
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "Additional water is used to thin out the sauce if needed."
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "Reserve 2 cups of pasta water before draining the pasta.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Stir in the lemon juice, currants, pine nuts, dried oregano, and red pepper flakes.",
+    "Cook for an additional 2-3 minutes until the currants have rehydrated and the sauce has thickened.",
+    "Add the cooked pasta to the skillet, stirring to combine with the sauce.",
+    "Add the reserved pasta water to the skillet and stir to combine.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with vegan parmesan cheese and chopped fresh parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "currants",
+    "date-night",
+    "high-protein",
+    "mediterranean",
+    "pasta",
+    "pine-nuts",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "homestyle-mediterranean-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/homestyle-mediterranean-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:38:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "currants",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pasta",
+    "descriptor": "homestyle",
+    "dishForm": "Pasta"
+  }
+}
