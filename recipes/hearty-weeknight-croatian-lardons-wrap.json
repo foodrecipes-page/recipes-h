@@ -1,0 +1,101 @@
+{
+  "title": "Hearty Weeknight Croatian Lardons Wrap",
+  "description": "A hearty, earthy, and comforting Croatian-inspired dish featuring hoisin sauce, lardons-render, and crispy onions wrapped in a ti-leaf-wrap. Perfect for a weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ti leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lardons",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat. Add the lardons and cook until browned, about 5 minutes.",
+    "Add the sliced onions to the pan and cook until caramelized, about 10 minutes.",
+    "Mince the garlic and add it to the pan, cooking for 1 minute.",
+    "Add the hoisin sauce, paprika, salt, and black pepper to the pan, stirring to combine.",
+    "Warm the ti leaf wraps in the microwave or oven.",
+    "Assemble the wraps by spooning the lardons and onion mixture onto the center of each wrap, followed by a sprinkle of parmesan cheese.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining wraps and filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 38
+  },
+  "slug": "hearty-weeknight-croatian-lardons-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-weeknight-croatian-lardons-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:06:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "lardons",
+    "descriptor": "hearty weeknight",
+    "dishForm": "wrap"
+  }
+}
