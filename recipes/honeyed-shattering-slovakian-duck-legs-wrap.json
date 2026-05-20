@@ -1,0 +1,95 @@
+{
+  "title": "Honeyed Shattering Slovakian Duck Legs Wrap",
+  "description": "A festive and unique dish featuring sashimi-cut duck legs, honey, and traditional Slovakian flavors, all wrapped in a ti-leaf vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together honey, paprika, caraway seeds, apple cider vinegar, and garlic. The mixture should be well combined and slightly thick.",
+    "Place the duck legs in a shallow dish and brush the honey mixture evenly over both legs.",
+    "Refrigerate the duck legs for at least 2 hours or overnight, allowing them to marinate in the sauce.",
+    "Preheat the oven to 375°F (190°C).",
+    "Remove the duck legs from the marinade, letting any excess liquid drip off.",
+    "Place the duck legs on a baking sheet lined with parchment paper and bake for 25 minutes, or until cooked through.",
+    "While the duck legs are baking, toast the ti-leaf wraps by wrapping them in foil and heating them in the oven for 5 minutes.",
+    "To assemble the wraps, place a duck leg in the center of each ti-leaf wrap, followed by a sprinkle of black pepper and any additional desired toppings.",
+    "Serve the Honeyed Shattering Slovakian Duck Legs Wrap immediately, garnished with fresh herbs if desired.",
+    "The duck legs should shatter easily when bitten into, releasing a burst of flavorful sauce.",
+    "Serve with additional ti-leaf wraps on the side for those who prefer to make their own wraps.",
+    "Enjoy the unique combination of flavors and textures in this Slovakian-inspired dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "honeyed-shattering-slovakian-duck-legs-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-shattering-slovakian-duck-legs-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:32:37Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "duck legs",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "duck legs",
+    "descriptor": "Honeyed Shattering",
+    "dishForm": "Wrap"
+  }
+}
