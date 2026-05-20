@@ -1,0 +1,111 @@
+{
+  "title": "honeyed crunchy spanish honey paella",
+  "description": "a winey, crisp, cozy spanish (basque) dish featuring honey and crunchy texture. served in a clay tajine vessel.",
+  "cuisine": "spanish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large clay tajine over medium-high heat.",
+    "saute the chopped onion and minced garlic until softened.",
+    "add the chopped mixed bell peppers and cook until tender.",
+    "add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "add 2 cups of water to the tajine and bring to a boil.",
+    "reduce the heat to low and simmer for 18-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "stir in the honey and cook for an additional 2-3 minutes.",
+    "season with salt and black pepper to taste.",
+    "garnish with crispy fried shallots and chopped fresh parsley.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "crunchy",
+    "honey",
+    "one-pan",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "honeyed-crunchy-spanish-honey-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-crunchy-spanish-honey-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:04:46Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "honey",
+    "diet": "dairy-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "honey",
+    "descriptor": "honeyed crunchy",
+    "dishForm": "Paella"
+  }
+}
