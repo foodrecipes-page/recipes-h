@@ -8515,6 +8515,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-sardinian-pasta-calamarata",
+    "title": "Hearty Sardinian Pasta Calamarata",
+    "tags": [
+      "hearty",
+      "italian",
+      "one-pan",
+      "pasta",
+      "sardinian",
+      "slow-cooked"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-saudi-arabian-butter-beans-kebabs",
     "title": "Hearty Saudi Arabian Butter Beans Kebabs",
     "tags": [
