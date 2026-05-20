@@ -1,0 +1,101 @@
+{
+  "title": "Hangover-cure Mediterranean Shio-cure Tacos",
+  "description": "A pungent, light, and invigorating Mediterranean dish to alleviate hangover symptoms, featuring shio-cure and ayurvedic-tamasic-friendly ingredients wrapped in tortillas.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tortillas (corn)",
+      "amount": "8-10"
+    },
+    {
+      "name": "Shio-cure (Japanese cured fish)",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crushed fresh garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Squeeze of fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ayurvedic herbal tea (e.g., peppermint)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the shio-cure by soaking it in 1 cup of ayurvedic herbal tea at room temperature for 30 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a medium bowl, mix together chopped parsley, chopped dill, sliced red onion, and crushed fresh garlic.",
+    "Heat 1 tablespoon of olive oil in a small pan over medium heat. Add the onion and herb mixture and sauté for 5 minutes.",
+    "Add the rehydrated shio-cure to the pan and stir to combine with the onion and herb mixture.",
+    "Add a squeeze of fresh lemon juice and stir to combine.",
+    "Warm the tortillas and fill each with a portion of the shio-cure mixture.",
+    "Drizzle with remaining 1 tablespoon of olive oil and sprinkle with coarse black pepper to serve.",
+    "Serve with a side of ayurvedic herbal tea for added invigoration and hangover relief."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "easy-to-make",
+    "hangover-relief",
+    "mediterranean",
+    "one-pan",
+    "shio-cure",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "hangover-cure-mediterranean-shio-cure-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-mediterranean-shio-cure-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:51:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "shio-cure",
+    "primaryIngredient": "tortillas",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Shio-cure",
+    "descriptor": "Hangover-cure",
+    "dishForm": "Tacos"
+  }
+}
