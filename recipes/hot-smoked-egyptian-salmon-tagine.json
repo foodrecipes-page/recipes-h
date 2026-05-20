@@ -1,0 +1,112 @@
+{
+  "title": "Hot Smoked Egyptian Salmon Tagine",
+  "description": "A funky and gooey Egyptian dish featuring hot smoked flaked salmon, perfect for midnight cravings, made with low-glycemic-friendly ingredients and served in a bento box. This recipe combines the flavors of Egypt with the convenience of a bento box meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hot smoked salmon",
+      "amount": "1 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the onion, garlic, and ginger until well combined.",
+    "Add the coriander, cumin, paprika, salt, and black pepper to the mortar and pestle and pound until well combined.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the pounded mixture to the skillet and cook for 2 minutes.",
+    "Add the hot smoked salmon to the skillet and stir to combine with the spice mixture.",
+    "Cook for an additional 2 minutes, until the salmon is heated through.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Transfer the mixture to a bento box and serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "egyptian-cuisine",
+    "hot-smoked",
+    "low-glycemic",
+    "midnight-cravings",
+    "salmon-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "hot-smoked-egyptian-salmon-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hot-smoked-egyptian-salmon-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:56:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "salmon",
+    "descriptor": "hot smoked",
+    "dishForm": "Tagine"
+  }
+}
