@@ -1,0 +1,95 @@
+{
+  "title": "Habanero-Spiced Japanese Sausages Tan-Tan-Udon",
+  "description": "A light and tangy Japanese dish featuring Habanero-spiced Japanese sausages, served with a rich and savory deglazed fond over Udon noodles.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Habanero-spiced Japanese sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Cook the Udon noodles according to the package instructions and set aside.",
+    "Slice the Habanero-spiced Japanese sausages into 1-inch pieces and set aside.",
+    "Heat 2 cups of water in a saucepan and bring to a boil.",
+    "Add the soy sauce, sake, mirin, sugar, and cornstarch to the saucepan and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 36,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "habanero-spiced-japanese-sausages-tan-tan-udon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/habanero-spiced-japanese-sausages-tan-tan-udon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:55:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "sausages",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sausages",
+    "descriptor": "Habanero-spiced",
+    "dishForm": "Tan-Tan-Udon"
+  }
+}
