@@ -1,0 +1,100 @@
+{
+  "title": "hearty post-workout kenyan beef stew",
+  "description": "nutty, chewy, post-workout dish made with grilled beef, makrut lime leaves, and a blend of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless beef short ribs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4-6 leaves",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in the hot pot over medium-high heat.",
+    "add the beef and cook until browned on all sides, about 5 minutes.",
+    "remove the beef from the pot and set aside.",
+    "add the chopped onions to the pot and cook until they start to caramelize, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the chopped makrut lime leaves, ground ginger, ground cumin, salt, and black pepper to the pot and cook for 1 minute.",
+    "add the browned beef back to the pot and stir to coat with the spice mixture.",
+    "add 2 cups of beef broth to the pot and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 2 hours, or until the beef is tender.",
+    "serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "fodmap-friendly",
+    "high-protein",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "hearty-post-workout-kenyan-kenyan-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-post-workout-kenyan-kenyan-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T22:46:27Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Kenyan beef",
+    "descriptor": "Hearty post-workout",
+    "dishForm": "Stew"
+  }
+}
