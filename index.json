@@ -6581,6 +6581,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-lacquered-brazilian-pork-dumplings",
+    "title": "Hearty Lacquered Brazilian Pork Dumplings",
+    "tags": [
+      "brazilian-cuisine",
+      "donabe-recipes",
+      "dumplings",
+      "gluten-free",
+      "lacquer-glaze",
+      "pork-dishes"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-light-dutch-potato-hash",
     "title": "Hearty Light Dutch Potato Hash",
     "tags": [
@@ -8368,6 +8383,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-shattering-egyptian-beef-roast",
+    "title": "Hearty Shattering Egyptian Beef Roast",
+    "tags": [
+      "beef-roast",
+      "egyptian-cuisine",
+      "enchilada-sauce",
+      "family-dinner",
+      "kid-friendly",
+      "sugar-free"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {

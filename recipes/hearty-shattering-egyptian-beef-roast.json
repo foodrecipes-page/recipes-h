@@ -1,0 +1,102 @@
+{
+  "title": "Hearty Shattering Egyptian Beef Roast",
+  "description": "A kid-friendly Egyptian dish featuring a tender beef roast in a rich enchilada sauce, perfect for a family dinner. This sugar-free-friendly recipe is a unique twist on traditional Egyptian cuisine.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "3 pounds",
+      "notes": "grass-fed"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with cumin, paprika, salt, and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast on all sides until browned, about 2-3 minutes per side.",
+    "Remove the beef roast from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional 1 minute.",
+    "Add the enchilada sauce to the pot and stir to combine.",
+    "Return the beef roast to the pot and make sure it is mostly submerged in the sauce.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the beef for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let the beef rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-roast",
+    "egyptian-cuisine",
+    "enchilada-sauce",
+    "family-dinner",
+    "kid-friendly",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "hearty-shattering-egyptian-beef-roast",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-shattering-egyptian-beef-roast",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:11:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef",
+    "descriptor": "Hearty Shattering",
+    "dishForm": "Roast"
+  }
+}

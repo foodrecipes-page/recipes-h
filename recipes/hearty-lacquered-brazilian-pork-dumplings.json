@@ -1,0 +1,103 @@
+{
+  "title": "Hearty Lacquered Brazilian Pork Dumplings",
+  "description": "Rich and tender Brazilian dish featuring wonton skin and lacquer glaze, cooked in a donabe vessel, this recipe is gluten-free friendly and perfect for a monsoon day. The combination of pork, spices, and lacquer glaze creates a delicious and hearty meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "wonton skin",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped pork, soy sauce, brown sugar, ginger, and garlic, and mix well.",
+    "Lay a wonton skin on a flat surface and place a tablespoon of the pork mixture in the center of the skin.",
+    "Brush the edges of the skin with a small amount of water and fold the skin into a triangle, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining wonton skins and pork mixture.",
+    "Heat the vegetable oil in the donabe vessel over medium heat.",
+    "Add the dumplings to the vessel, leaving some space between each dumpling.",
+    "Brush the lacquer glaze over the dumplings and cook for 5 minutes on each side, or until the dumplings are golden brown and cooked through.",
+    "Garnish with chopped scallions and sesame seeds.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "donabe-recipes",
+    "dumplings",
+    "gluten-free",
+    "lacquer-glaze",
+    "pork-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "hearty-lacquered-brazilian-pork-dumplings",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-lacquered-brazilian-pork-dumplings",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:10:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "wonton skin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "Hearty Lacquered",
+    "dishForm": "Dumplings"
+  }
+}
