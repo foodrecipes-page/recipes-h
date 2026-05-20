@@ -1,0 +1,104 @@
+{
+  "title": "Honeyed Grilled Thai Apples Satay",
+  "description": "A crispy, sweet, and savory Thai-inspired dish featuring grilled Braeburn apples, perfect for a solo dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "4",
+      "notes": "cored"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "raw"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "grilled peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread cored Braeburn apples onto skewers.",
+    "Brush skewers with melted coconut oil.",
+    "Grill skewers for 4-6 minutes per side, or until apples are tender.",
+    "Meanwhile, whisk together tahini sauce, honey, fish sauce, and lime juice in a small bowl.",
+    "Once apples are done, brush with tahini sauce mixture.",
+    "Sprinkle with grilled peanuts, cilantro, and Thai red pepper flakes (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "apples",
+    "dinner",
+    "gluten-free",
+    "grilled",
+    "one-pan",
+    "thai",
+    "vegan-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "honeyed-grilled-thai-apples-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-grilled-thai-apples-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "grill",
+    "primaryIngredient": "braeburn apples",
+    "diet": "ovo-vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Apples",
+    "descriptor": "Honeyed Grilled",
+    "dishForm": "Satay"
+  }
+}
