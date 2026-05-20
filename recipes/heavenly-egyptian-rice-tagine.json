@@ -1,0 +1,91 @@
+{
+  "title": "heavenly egyptian rice tagine",
+  "description": "a rich and aromatic rice tagine dish from egypt, featuring buttery and pillowy texture, perfect for a date night. it's a vegetarian-friendly and flavorful recipe.",
+  "cuisine": "egyptian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of butter in a large saucepan over medium heat.",
+    "add the pumpkin seeds and cook, stirring occasionally, until lightly toasted, about 3-4 minutes.",
+    "add the long-grain rice and cook, stirring constantly, for 1-2 minutes.",
+    "add the date syrup, allspice berries, ground cinnamon, ground cumin, and kosher salt. stir to combine.",
+    "add 2 cups of water to the saucepan and bring to a boil.",
+    "reduce the heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked and fluffy.",
+    "stir in the remaining 2 tablespoons of butter and cook for an additional 1-2 minutes.",
+    "serve the rice hot, garnished with additional pumpkin seeds and allspice berries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "elegant-dinner",
+    "flavorful",
+    "one-pan",
+    "rice-dish",
+    "rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "heavenly-egyptian-rice-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-egyptian-rice-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:28:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "allspice berries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rice",
+    "descriptor": "heavenly",
+    "dishForm": "Tagine"
+  }
+}
