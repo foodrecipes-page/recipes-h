@@ -1,0 +1,124 @@
+{
+  "title": "herbal springy hash middle-eastern chicken skillet",
+  "description": "a flavorful and healthy middle-eastern inspired skillet dish featuring panang curry paste and agave leaf",
+  "cuisine": "middle eastern",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the chicken breast and cook until browned on both sides, about 5-6 minutes total.",
+    "remove the chicken from the skillet and set aside.",
+    "add the panang curry paste to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "add the onion and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "add the garlic to the skillet and cook for 1 minute, stirring constantly.",
+    "add the gluten-free flour to the skillet and cook for 1 minute, stirring constantly.",
+    "add the chicken broth to the skillet and stir to combine.",
+    "return the chicken to the skillet and cook until the chicken is cooked through and the sauce has thickened, about 5-7 minutes.",
+    "season the chicken with salt, black pepper, and lemon juice.",
+    "garnish with chopped fresh parsley and cilantro.",
+    "serve immediately in agave leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "herbal-springy-hash-middle-eastern-chicken-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herbal-springy-hash-middle-eastern-chicken-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:26:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "panang curry paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Herbal Springy Hash",
+    "dishForm": "Skillet"
+  }
+}

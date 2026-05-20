@@ -13871,6 +13871,20 @@
     "shard": "h"
   },
   {
+    "slug": "herbal-springy-hash-middle-eastern-chicken-skillet",
+    "title": "herbal springy hash middle-eastern chicken skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "spring"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "herbal-springy-tunisian-rye-bread-flatbread",
     "title": "Herbal Springy Tunisian Rye Bread Flatbread",
     "tags": [
@@ -14905,6 +14919,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 42,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-indian-figs-kheer",
+    "title": "Honeyed Indian Figs Kheer",
+    "tags": [
+      "comforting",
+      "indian",
+      "one-pot",
+      "raw-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
