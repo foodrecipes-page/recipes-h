@@ -1,0 +1,124 @@
+{
+  "title": "Heavenly Light Tunisian Phyllo Dough Skillet",
+  "description": "A light and earthy Tunisian dish featuring layers of flaky phyllo dough and a rich egg and spice mixture, perfect for a weeknight dinner.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (usually 16-20 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese crumbles",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw 6-8 sheets of phyllo dough according to package instructions.",
+    "Cut the remaining phyllo dough into large squares and set aside.",
+    "In a large bowl, whisk together eggs, cheddar cheese, parsley, cilantro, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Brush the inside of a 10-inch cast-iron skillet with coconut oil.",
+    "Layer 2-3 sheets of phyllo dough in the skillet, brushing each sheet with coconut oil and folding the edges to create a crust.",
+    "Pour the egg mixture over the phyllo dough and top with the remaining phyllo dough squares, brushing with coconut oil.",
+    "Bake for 20-25 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and sprinkle with feta cheese crumbles.",
+    "Return to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving with lemon wedges.",
+    "Serve immediately, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "gluten-free",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "heavenly-light-tunisian-phyllo-dough-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/heavenly-light-tunisian-phyllo-dough-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:24:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "phyllo dough",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "phyllo dough",
+    "descriptor": "heavenly light",
+    "dishForm": "skillet"
+  }
+}
