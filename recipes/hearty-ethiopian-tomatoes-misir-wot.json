@@ -1,0 +1,123 @@
+{
+  "title": "Misir Wot",
+  "description": "A hearty, comforting Ethiopian stew made with baby plum tomatoes, onions, and spices. This vegan and Buddhist-temple-friendly dish is perfect for a solo dinner or as a side for a larger meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby plum tomatoes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bread or injera",
+      "amount": "serves",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the niter kibbeh in a large saucepan over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened and caramelized, about 20 minutes.",
+    "Add the garlic, ginger, red pepper flakes, cumin, coriander, turmeric, paprika, salt, and black pepper to the saucepan and cook, stirring constantly, for 1 minute.",
+    "Add the baby plum tomatoes to the saucepan and cook, stirring occasionally, until they start to break down and release their juices, about 10 minutes.",
+    "Use an immersion blender to puree the mixture to your desired consistency.",
+    "Serve the Misir Wot over bread or injera."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "ethiopian",
+    "gluten-free",
+    "one-pan",
+    "solo-dinner",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "hearty-ethiopian-tomatoes-misir-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-ethiopian-tomatoes-misir-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Hearty",
+    "dishForm": "Misir Wot"
+  }
+}
