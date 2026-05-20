@@ -1,0 +1,120 @@
+{
+  "title": "Halal-Friendly Jamaican Bread Bowl",
+  "description": "A show-off Jamaican dish featuring stale bread, caramelized onions, and briny spices in a Korean brass bowl.",
+  "cuisine": "jamaican",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "1 whole loaf",
+      "notes": "chopped into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "halal chicken broth",
+      "amount": "2 cups",
+      "notes": "chicken broth for braising"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "for caramelizing onions"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "for heat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Chop the stale bread into bite-sized pieces and toast until crispy.",
+    "Caramelize the chopped onions in coconut oil until golden brown.",
+    "Add the jerk seasoning, allspice, brown sugar, and korean chili flakes to the onions and stir until combined.",
+    "Add the halal chicken broth and bring to a boil, then reduce heat to a simmer.",
+    "Add the toasted bread, chopped red bell pepper, and green onion to the braising liquid and cook for 10 minutes.",
+    "Transfer the bread mixture to a Korean brass bowl and garnish with chopped scallions and extra green onion for serving.",
+    "Bake the bread bowl in the preheated oven for an additional 5 minutes, or until crispy and golden brown.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with a side of coconut flakes or chopped scallions for added crunch and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast-for-dinner",
+    "caribbean",
+    "halal",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 22
+  },
+  "slug": "halal-friendly-jamaican-bread-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/halal-friendly-jamaican-bread-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:46:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "stale bread",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "bread",
+    "descriptor": "halal-friendly",
+    "dishForm": "bowl"
+  }
+}
