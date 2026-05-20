@@ -1,0 +1,102 @@
+{
+  "title": "Hangover-Cure Vietnamese Kale Cha Gio",
+  "description": "A sour and crumbly Vietnamese dish featuring kale that is perfect for a hangover cure. Slow-cooked to preserve low-carb friendly nutrients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups",
+      "notes": "curly kale leaves, stems removed and discarded"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with 2 tablespoons of freshly squeezed lime juice and 1 teaspoon of honey"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with 1 tablespoon of soy sauce"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1 teaspoon",
+      "notes": "fine grind, freshly crushed"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "or substitute with chopped peanuts or cashews"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat, low-carb and rich in nutrients"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium, warmed for steaming"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Combine tamarind paste, fermented fish sauce, grated ginger, black pepper, and coconut milk in a blender or food processor to make the sauce.",
+    "Stir-fry kale leaves in a pan with 1 tablespoon of sesame seeds until wilted and slightly caramelized.",
+    "In a separate pot, heat the beef broth over low heat, and then stir in cornstarch to thicken.",
+    "Steam the kale mixture in the beef broth for 15-20 minutes, or until the kale is fully cooked.",
+    "Transfer the kale mixture to a serving dish, and spoon the sauce over the top.",
+    "Garnish with additional sesame seeds and serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "hangover-cure-vietnamese-kale-cha-gio",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-vietnamese-kale-cha-gio",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:10:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "kale",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "kale",
+    "descriptor": "hangover-cure",
+    "dishForm": "Cha Gio"
+  }
+}
