@@ -1,0 +1,93 @@
+{
+  "title": "huge shaggy argentinian jerusalem artichokes hash",
+  "description": "a resinous, shaggy, kid-friendly argentinian dish featuring jerusalem artichokes, dehydrate, shojin-friendly",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "jerusalem artichokes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400 degrees fahrenheit.",
+    "peel the jerusalem artichokes and dice them into small pieces.",
+    "in a large skillet, heat the olive oil over medium heat.",
+    "add the diced onion and cook until softened, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the diced jerusalem artichokes, salt, black pepper, cumin, and paprika.",
+    "stir to combine, then transfer the mixture to a baking dish.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for another 20 minutes, until the jerusalem artichokes are tender.",
+    "let the mixture cool slightly, then fluff it with a fork to create a shaggy texture.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "kid-friendly",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "huge-shaggy-argentinian-jerusalem-artichokes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/huge-shaggy-argentinian-jerusalem-artichokes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:35:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Huge Shaggy",
+    "dishForm": "Hash"
+  }
+}
