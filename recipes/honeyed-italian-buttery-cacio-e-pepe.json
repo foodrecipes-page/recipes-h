@@ -1,0 +1,106 @@
+{
+  "title": "Honeyed Italian Butter Cacio E Pepe",
+  "description": "Buttery, gooey, and energizing, this Italian classic features Asian-chive-buchu and no onions or garlic.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cacio e pepe pasta",
+      "amount": "12 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Asian chive buchu",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "2 cups",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "aged"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, melt 2 tablespoons of butter over low heat.",
+    "Add the honey and black peppercorns to the melted butter and stir until well combined.",
+    "Add the Asian chive buchu to the honey mixture and stir for 1 minute.",
+    "Bring a large pot of salted water to a boil and cook the cacio e pepe pasta according to the package instructions.",
+    "In a large mixing bowl, whisk together the heavy cream and eggs until well combined.",
+    "Add the parmesan cheese to the cream mixture and stir until smooth.",
+    "Add the cooked pasta to the cream mixture and toss until well coated.",
+    "Add the honey mixture to the pasta and toss until well combined.",
+    "Stir in the remaining 2 tablespoons of butter until melted and smooth.",
+    "Season the pasta with salt to taste.",
+    "Serve the pasta hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "honeyed-italian-buttery-cacio-e-pepe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-italian-buttery-cacio-e-pepe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "buttery",
+    "descriptor": "Honeyed",
+    "dishForm": "Cacio E Pepe"
+  }
+}

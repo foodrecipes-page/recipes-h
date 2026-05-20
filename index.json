@@ -15021,6 +15021,21 @@
     "shard": "h"
   },
   {
+    "slug": "holy-egyptian-basil-tagine",
+    "title": "Holy Egyptian Basil Tagine",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "one-pan",
+      "sattvic-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
     "slug": "homely-australian-baked-treat-scones",
     "title": "Homely Australian Baked Scones",
     "tags": [
@@ -15435,6 +15450,19 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-italian-buttery-cacio-e-pepe",
+    "title": "Honeyed Italian Butter Cacio E Pepe",
+    "tags": [
+      "comforting",
+      "italian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {

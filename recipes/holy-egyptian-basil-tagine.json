@@ -1,0 +1,119 @@
+{
+  "title": "Holy Egyptian Basil Tagine",
+  "description": "A floral and shattering Egyptian dish featuring Thai holy basil, ferment jang, and Ayurvedic sattvic-friendly ingredients, perfect for a date night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and serving"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ferment jang",
+      "amount": "2 tablespoons",
+      "notes": "Sri Lankan fermented soybean paste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Vegetarian broth for a vegetarian option"
+    },
+    {
+      "name": "Dates",
+      "amount": "4 pitted",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped Thai holy basil and cook until fragrant.",
+    "Add the ferment jang, cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 15 minutes, or until the flavors have melded together.",
+    "Serve the tagine hot, garnished with chopped fresh herbs and served with pitted dates on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "sattvic-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "holy-egyptian-basil-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/holy-egyptian-basil-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "ferment-jang",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Basil",
+    "descriptor": "Holy",
+    "dishForm": "Tagine"
+  }
+}
