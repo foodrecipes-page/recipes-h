@@ -10086,6 +10086,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-spanish-fish-toast",
+    "title": "Hearty Spanish Fish Toast",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy-to-make",
+      "fish",
+      "spanish",
+      "turmeric"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 18,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-spanish-parma-ham-paella",
     "title": "Hearty Spanish Parma Ham Paella",
     "tags": [

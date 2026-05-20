@@ -1,0 +1,116 @@
+{
+  "title": "Hearty Spanish Fish Toast",
+  "description": "Grassy, crisp, and energizing, this Spanish dish is perfect for a quick breakfast or brunch. Featuring turmeric-spiced fish on toasted bread, it's a pescatarian-friendly delight.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cod Fillets",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a small bowl, mix together turmeric, smoked paprika, garlic, salt, and black pepper.",
+    "Add 1 tablespoon of olive oil to the preheated skillet and saut\u00057e the cod fillets for 3-4 minutes per side, or until cooked through.",
+    "While the fish is cooking, toast the bread slices by placing them in the toaster or under the broiler for 2-3 minutes, or until lightly browned.",
+    "Once the fish is done, place the toasted bread slices on a plate and top each slice with a piece of fish, a sprinkle of turmeric-spiced mixture, and a drizzle of lemon juice.",
+    "Garnish with chopped parsley and crumbled feta cheese, if desired.",
+    "Serve immediately and enjoy!",
+    "If desired, add crushed red pepper flakes for an extra kick of heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-to-make",
+    "fish",
+    "spanish",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "hearty-spanish-fish-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-spanish-fish-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "turmeric",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "hearty",
+    "dishForm": "toast"
+  }
+}
