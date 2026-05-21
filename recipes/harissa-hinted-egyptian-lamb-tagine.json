@@ -1,0 +1,94 @@
+{
+  "title": "Harissa-Hinted Egyptian Lamb Tagine",
+  "description": "A low-glycemic twist on traditional Egyptian tagine with tender lamb, infused with the warmth of harissa and subtle sweetness of dried apricots.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "harissa spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "100g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the agave-leaf vessel by grilling over binchotan charcoal at 200°C (400°F) for 10 minutes.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Sear the lamb shoulder in olive oil until browned on all sides, then set aside.",
+    "Sauté the onion, garlic, and ginger in olive oil until softened.",
+    "Add the harissa spice blend and cook for an additional minute.",
+    "Add the lamb shoulder, dried apricots, and lemon juice to the agave-leaf vessel.",
+    "Cover the vessel and cook for 2 hours at 150°C (300°F).",
+    "Serve hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-glycemic",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "harissa-hinted-egyptian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/harissa-hinted-egyptian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T18:27:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "harissa spice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Harissa-Hinted",
+    "dishForm": "Tagine"
+  }
+}
