@@ -1,0 +1,87 @@
+{
+  "title": "Honey Glazed Peruvian Morro Cataplana",
+  "description": "A flavorful Peruvian dish featuring morning-glory-pak-bung and other ingredients in a cataplana vessel. Perfect for a date night with its mustardy, fluffy texture.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morro",
+      "amount": 2
+    },
+    {
+      "name": "pak-bung",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "marigold leaves",
+      "amount": "as needed"
+    },
+    {
+      "name": "date paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana dish over medium heat.",
+    "Add morro and pak-bung to the cataplana, stir-fry for a minute.",
+    "Add date paste, honey, sesame seeds, mustard seeds, and paprika. Stir until well combined.",
+    "Stir in marigold leaves with morro mixture.",
+    "Simmer for 5 minutes or until most moisture has evaporated.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana",
+    "date-night",
+    "fluffy",
+    "morro",
+    "mustardy",
+    "pak-bung",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "honey-glazed-peruvian-morro-cataplana",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/honey-glazed-peruvian-morro-cataplana",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T14:16:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "robata-grill",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "morro",
+    "descriptor": "Honey Glazed",
+    "dishForm": "Paella"
+  }
+}
