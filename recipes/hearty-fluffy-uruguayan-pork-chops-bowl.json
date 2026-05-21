@@ -1,0 +1,128 @@
+{
+  "title": "Hearty Fluffy Uruguayan Pork Chops Bowl",
+  "description": "A rich and satisfying dish featuring crispy pork chops, fluffy puff pastry, and a side of steaming vegetables. This recipe is a twist on the traditional Uruguayan dish, choripan.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "omnivore",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 boneless pork chops",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "1 package puff pastry",
+      "amount": "1",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "2 large onions",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "2 large potatoes",
+      "amount": "2",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "1 cup frozen peas and carrots",
+      "amount": "1",
+      "notes": "thawed"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": "divided"
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "1",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1",
+      "notes": "smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork chops with salt, pepper, and oregano. ",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Sear the pork chops for 2-3 minutes on each side, or until browned. ",
+    "Transfer the pork chops to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil, sliced onions, and minced garlic. Cook for 5-7 minutes, or until the onions are translucent.",
+    "Add the cubed potatoes, thawed peas and carrots, smoked paprika, and a pinch of salt and pepper to the skillet. Cook for an additional 10-12 minutes, or until the potatoes are tender.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of 1/8 inch.",
+    "Cut out 4 squares of pastry, approximately 6 inches in diameter.",
+    "Place a pork chop in the center of each pastry square, leaving a 1-inch border around the chop.",
+    "Brush the edges of the pastry with a little water and fold the pastry over the pork chop, pressing the edges to seal.",
+    "Place the pastry-wrapped pork chops on a baking sheet lined with parchment paper, seam-side down.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the pork chops are cooked through.",
+    "Serve the pork chops in a bowl, surrounded by the steaming vegetables and a sprinkle of smoked paprika.",
+    "Garnish with fresh parsley, if desired.",
+    "Serve immediately.",
+    "Serve in earthenware bowls for a rustic and earthy feel.",
+    "This recipe makes 4 servings and can be served with a side of steaming vegetables or a simple green salad.",
+    "Note: If you want to make this recipe more substantial, you can serve it with a side of rice or roasted vegetables.",
+    "This recipe should take about 40-50 minutes to prepare and cook, depending on your oven and your level of comfort in the kitchen.",
+    "This recipe is best served immediately, as the puff pastry will begin to lose its fluffiness after it has been out of the oven for 10-15 minutes.",
+    "This recipe makes 4 servings, each with approximately 500 calories.",
+    "This recipe is a great option for a weeknight dinner or a special occasion meal.",
+    "This recipe is relatively easy to make, with a medium level of difficulty.",
+    "This recipe requires some effort and skill, but the end result is well worth it.",
+    "This recipe is a great option for a pescatarian or omnivore diet.",
+    "This recipe is not suitable for a vegetarian or vegan diet.",
+    "This recipe is a great option for a gluten-free diet, as long as you use gluten-free puff pastry.",
+    "This recipe is a great option for a low-carb diet, as long as you use a low-carb vegetable or substitute the puff pastry with a low-carb alternative.",
+    "This recipe is a great option for a high-protein diet, as it contains pork chops and a variety of vegetables.",
+    "This recipe is a great option for a weeknight dinner, as it can be prepared and cooked in under an hour.",
+    "This recipe is a great option for a special occasion meal, as it is impressive and flavorful.",
+    "This recipe is a great option for a one-pan meal, as it can be cooked in a single skillet or baking dish.",
+    "This recipe is a great option for a make-ahead meal, as the ingredients can be prepared in advance and the assembly can be done at the last minute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 120,
+    "carbs": 150,
+    "fat": 100
+  },
+  "slug": "hearty-fluffy-uruguayan-pork-chops-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-fluffy-uruguayan-pork-chops-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:28:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pork chops",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork chops",
+    "descriptor": "hearty fluffy",
+    "dishForm": "Bowl"
+  }
+}
