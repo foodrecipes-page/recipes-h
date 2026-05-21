@@ -7456,6 +7456,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-mexican-chicken-quesadilla",
+    "title": "Hearty Mexican Chicken Quesadilla",
+    "tags": [
+      "cheese-pull",
+      "citrusy",
+      "comfort-food",
+      "gluten-free",
+      "mexican-food",
+      "sick-day"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-mexican-fish-tacos",
     "title": "Hearty Mexican Fish Tacos",
     "tags": [
