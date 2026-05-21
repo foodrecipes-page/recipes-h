@@ -1,0 +1,114 @@
+{
+  "title": "Hangover-Cure Jiangsu Prunes Dim Sum",
+  "description": "Resinous, pillowy dim sum from Jiangsu province, featuring prunes and other comforting ingredients to alleviate hangover symptoms. This dish is a unique twist on traditional Chinese cuisine.",
+  "cuisine": "japanese,chinese",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried Black Prunes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the bok choy into small pieces and set aside.",
+    "Mince the garlic and ginger, then mix with soy sauce in a small bowl.",
+    "Heat the sesame oil in a wok or large skillet over medium heat.",
+    "Add the minced garlic and ginger to the wok and cook, stirring constantly, for 1 minute.",
+    "Add the prunes to the wok and cook, stirring frequently, until they begin to rehydrate.",
+    "Add the bok choy to the wok and cook until it begins to wilt.",
+    "In a small bowl, whisk together the egg and cornstarch until smooth.",
+    "Pour the egg mixture into the wok and cook, stirring constantly, until the egg is set.",
+    "Season the dim sum with salt and black pepper to taste.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dried-fruit",
+    "hangover-cure",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "hangover-cure-jiangsu-prunes-dim-sum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hangover-cure-jiangsu-prunes-dim-sum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:18:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "prunes",
+    "diet": "pescatarian",
+    "region": "jiangsu",
+    "cuisineAdjective": "Jiangsu",
+    "mainIngredient": "Prunes",
+    "descriptor": "Hangover-cure",
+    "dishForm": "Dim Sum"
+  }
+}
