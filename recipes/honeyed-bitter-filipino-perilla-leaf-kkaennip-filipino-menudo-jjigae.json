@@ -1,0 +1,105 @@
+{
+  "title": "honeyed bitter filipino perilla-leaf-kkaennip menudo jjigae",
+  "description": "A low-glycemic twist on traditional Filipino menudo with perilla-leaf-kkaennip adding a bitter, chewy, and energizing punch.",
+  "cuisine": "filipino",
+  "diet": [
+    "low-glycemic",
+    "ketogenic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "perilla-leaf-kkaennip",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "low-glycemic honey"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add ground pork and cook until browned, breaking into small pieces.",
+    "Add chopped perilla-leaf-kkaennip, fish sauce, coconut aminos, honey, black pepper, and salt. Stir well.",
+    "Simmer for 10 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped perilla-leaf-kkaennip if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "filipino",
+    "gluten-free",
+    "ketogenic",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T06:06:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Perilla-leaf-kkaennip",
+    "descriptor": "Honeyed Bitter",
+    "dishForm": "Filipino Menudo Jjigae"
+  }
+}
