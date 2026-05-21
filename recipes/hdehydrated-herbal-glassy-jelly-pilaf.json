@@ -1,0 +1,84 @@
+{
+  "title": "HDehydrated Herbal Glassy-jelly Pilaf",
+  "description": "A comforting Filipino dish featuring dehydrated green beans and herbs that are both Paleo-friendly and glassy-jelly in texture.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dehydrated green beans",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ginger powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cumin powder",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a pan, heat the olive oil over medium-high heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Stir in ginger powder, turmeric powder, cumin powder, and salt. Cook for another minute to toast the spices slightly.",
+    "Pour in the dehydrated green beans and stir well to coat them evenly with the spice mixture.",
+    "Drizzle in the lime juice and mix thoroughly until there are no clumps of dehydrated beans left.",
+    "Serve warm as a side dish or over a bed of greens for a more substantial meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dehydrated",
+    "glassy-jelly",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "hdehydrated-herbal-glassy-jelly-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/hdehydrated-herbal-glassy-jelly-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:34:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "dehydrate",
+    "primaryIngredient": "green beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Glassy-jelly",
+    "descriptor": "Dehydrated",
+    "dishForm": "Pilaf"
+  }
+}
