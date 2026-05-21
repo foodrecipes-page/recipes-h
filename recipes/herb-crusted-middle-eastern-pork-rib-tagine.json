@@ -1,0 +1,114 @@
+{
+  "title": "Herb Crusted Middle Eastern Pork Rib Tagine",
+  "description": "An earthy, anti-inflammatory-friendly tagine featuring tender pork back ribs slow-cooked in warming spices, topped with a crunchy herb crust and brightened with tangy nuka-pickle.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-bone portions"
+    },
+    {
+      "name": "ras el hanout spice blend",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "shallots",
+      "amount": "4 medium",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 whole",
+      "notes": "smashed"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": "anti-inflammatory booster"
+    },
+    {
+      "name": "bone broth",
+      "amount": "1.5 cups",
+      "notes": "beef or pork broth"
+    },
+    {
+      "name": "nuka-pickle radish",
+      "amount": "0.5 cup",
+      "notes": "diced, for tangy contrast"
+    },
+    {
+      "name": "fresh flat-leaf parsley and mint",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "0.25 cup",
+      "notes": "toasted and crushed"
+    }
+  ],
+  "instructions": [
+    "Rub the pork back ribs thoroughly with one tablespoon of ras el hanout, turmeric, salt, and one tablespoon of olive oil.",
+    "Heat one tablespoon of olive oil in the base of a ceramic tagine over medium heat and sear the ribs until browned on all sides.",
+    "Remove the ribs temporarily, then saute the shallots, smashed garlic, and grated ginger in the remaining tagine juices for three minutes.",
+    "Pour in the bone broth, scraping up any browned bits from the bottom of the ceramic vessel.",
+    "Return the ribs to the tagine, cover with the conical lid, and simmer on low heat for ninety minutes until the meat is tender.",
+    "While the ribs cook, combine the chopped parsley, mint, crushed almonds, remaining ras el hanout, and last tablespoon of olive oil to create the herb crust mixture.",
+    "Uncover the tagine, scatter the diced nuka-pickle over the ribs, and spread the herb-almond crust mixture evenly across the top of the meat.",
+    "Place the uncovered tagine under a preheated oven broiler for five minutes until the herb crust is fragrant and crunchy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "crowd-pleaser",
+    "dairy-free",
+    "high-protein",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 42,
+    "carbs": 12,
+    "fat": 45
+  },
+  "slug": "herb-crusted-middle-eastern-pork-rib-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/herb-crusted-middle-eastern-pork-rib-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:07:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "pork back ribs",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Pork Rib",
+    "descriptor": "Herb Crusted Ceramic Tagine",
+    "dishForm": "Tagine"
+  }
+}
