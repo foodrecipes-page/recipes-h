@@ -1,0 +1,106 @@
+{
+  "title": "homemade saudi-arabian celery salad",
+  "description": "a refreshing winey celery salad inspired by saudi-arabian cuisine - featuring a tangy fermented kimchi and dairy-free friendly ingredients. perfect for a brunch gathering or as a light snack.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "chop the celery into thin strips.",
+    "finely chop the fermented kimchi.",
+    "mix together lemon juice and olive oil in a bowl.",
+    "add the chopped celery and kimchi to the bowl and toss until well coated.",
+    "grate the garlic and add it to the bowl.",
+    "add the chopped walnuts and mix well.",
+    "season with celery salt, salt, and black pepper.",
+    "taste and adjust seasoning if needed.",
+    "cover and refrigerate for at least 30 minutes before serving.",
+    "garnish with fresh parsley before serving.",
+    "serve chilled and enjoy!",
+    "serve at room temperature for a different twist.",
+    "consider adding diced egg for extra protein.",
+    "add a dollop of mayo for extra creaminess"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "celery-salad",
+    "dairy-free",
+    "easy",
+    "gluten-free",
+    "healthy",
+    "kimchi",
+    "salad",
+    "saudi-arabian",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "homemade-saudi-arabian-celery-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/homemade-saudi-arabian-celery-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:23:52Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "celery salt",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "celery",
+    "descriptor": "homemade",
+    "dishForm": "salad"
+  }
+}
