@@ -1,0 +1,108 @@
+{
+  "title": "Herby Mediterranean Pine Nuts Wrap",
+  "description": "Buttery, glassy-jelly Mediterranean dish that's perfect for a sick day, featuring pine nuts, bonito-shave, and fodmap-friendly ingredients. Wrapped in a lotus-leaf wrap.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lotus-leaf wraps",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Herby butter",
+      "amount": "2 tbsp",
+      "notes": "see instructions"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fodmap-friendly hummus",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together herby butter, garlic, and a pinch of salt in a small bowl.",
+    "Place a lotus-leaf wrap on a flat surface and spread 1/2 of the herby butter mixture evenly over the center of the wrap.",
+    "Top with a quarter of the pine nuts, a quarter of the bonito flakes, a tablespoon of hummus, and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-to-make",
+    "fodmap-friendly",
+    "gluten-free",
+    "healthy",
+    "lunch",
+    "mediterranean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "herby-mediterranean-pine-nuts-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/herby-mediterranean-pine-nuts-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:41:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pine nuts",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pine nuts",
+    "descriptor": "herby",
+    "dishForm": "wrap"
+  }
+}
