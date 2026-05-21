@@ -1,0 +1,92 @@
+{
+  "title": "Hearty Pillowy Italian Kale Pasta",
+  "description": "A comforting, earthy Italian one-pot dish featuring sautéed kale and pillowy pasta.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "kale",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, deep skillet over medium heat.",
+    "Sauté the chopped onion and minced garlic until softened, about 4 minutes.",
+    "Add the chicken broth and salt-free seasoning blend; bring to a simmer.",
+    "Reduce heat to low and cook for 8 minutes or until slightly reduced.",
+    "Add the pappardelle pasta to the skillet and stir to combine with the liquid.",
+    "Cook, covered, for 10-12 minutes or until the pasta is al dente.",
+    "Stir in the chopped kale and cook until wilted, about 2-3 minutes.",
+    "Transfer the pasta to serving plates and top with grated Parmesan cheese.",
+    "Season with additional salt-free seasoning blend if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "italian-cuisine",
+    "low-sodium",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "hearty-pillowy-italian-kale-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-pillowy-italian-kale-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T05:53:51Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "kale",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "kale",
+    "descriptor": "Hearty pillowy",
+    "dishForm": "Pasta"
+  }
+}
