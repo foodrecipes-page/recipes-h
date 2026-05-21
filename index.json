@@ -2587,6 +2587,21 @@
     "shard": "h"
   },
   {
+    "slug": "hearty-canadian-beef-hash",
+    "title": "Hearty Canadian Beef Hash",
+    "tags": [
+      "beef",
+      "canadian",
+      "high-protein",
+      "jain-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
     "slug": "hearty-canadian-beef-stew",
     "title": "Hearty Canadian Beef Stew",
     "tags": [
