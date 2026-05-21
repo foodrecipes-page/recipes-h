@@ -1,0 +1,116 @@
+{
+  "title": "Hearty Garlicky Egyptian Lentil Stew",
+  "description": "A garlicky and tender Egyptian dish featuring serrano ham, perfect for a hangover cure, and made shojin-friendly by using vegetable broth instead of animal stock. This stew is packed with flavor and nutrients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the diced serrano ham over medium heat until crispy, then set aside.",
+    "In the same pot, add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped carrots and cook for 5 minutes, until they start to soften.",
+    "Add the rinsed lentils, vegetable broth, tomato paste, cumin, paprika, salt, and black pepper to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes, or until the lentils are tender.",
+    "Use an ice bath to shock the stew and stop the cooking process, then let it cool to room temperature.",
+    "Reheat the stew over low heat, adding the crispy serrano ham back in, and serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve with crusty bread or over rice, and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "hangover-cure",
+    "hearty-stew",
+    "lentil-recipe",
+    "shojin-friendly",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "hearty-garlicky-egyptian-lentil-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/hearty-garlicky-egyptian-lentil-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:57:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "serrano ham",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "hearty garlicky",
+    "dishForm": "Stew"
+  }
+}
