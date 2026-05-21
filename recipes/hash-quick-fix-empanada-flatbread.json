@@ -1,0 +1,120 @@
+{
+  "title": "Hash Quick-Fix Empanada Flatbread",
+  "description": "A quick and easy Argentinian dish featuring almond paste, pickle, and a flaky crust. Perfect for a Jain-friendly afternoon snack or light dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "Jain",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1/4 cup",
+      "notes": "finely chopped, store-bought or homemade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Gradually add water and mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch. Cut into 6-8 equal pieces.",
+    "Roll each piece into a ball and then flatten into a disk shape.",
+    "Place a tablespoon of almond paste in the center of each disk.",
+    "Top with a spoonful of pickled cucumber and a sprinkle of mozzarella cheese.",
+    "Fold the dough in half to form a half-moon shape and press the edges to seal.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Brush with melted butter before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dinner",
+    "empanada",
+    "flatbread",
+    "gluten-free",
+    "jain",
+    "quick-fix",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "hash-quick-fix-empanada-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/hash-quick-fix-empanada-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:18:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "almond paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "almond paste",
+    "descriptor": "Hash Quick",
+    "dishForm": "Flatbread"
+  }
+}
