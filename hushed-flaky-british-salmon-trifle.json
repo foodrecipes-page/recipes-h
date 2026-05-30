@@ -1,0 +1,97 @@
+{
+  "slug": "hushed-flaky-british-salmon-trifle",
+  "title": "British Flaky Salmon Trifle",
+  "description": "A layered British-inspired dish featuring flaky pastry, poached salmon, and a sweet trifle topping.",
+  "cuisine": "British",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry, thawed",
+      "amount": "1 package (10 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "Salmon fillets, skin removed",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Trifle sponge cake",
+      "amount": "1 cup, cubed",
+      "notes": ""
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sherry or substitute",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hushed, flaky, or British seasoning of choice",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Arrange pastry sheets on the prepared baking sheet, leaving space between each.",
+    "Bake for 15-20 minutes or until golden brown, flipping halfway through.",
+    "In a separate saucepan, poach the salmon fillets in simmering water for 8-10 minutes.",
+    "Remove the salmon from the poaching liquid and set aside.",
+    "In a separate bowl, whisk together egg, milk, and melted butter.",
+    "Dip each pastry sheet in the egg mixture, coating both sides.",
+    "Place a cooked pastry sheet on a serving plate, top with a salmon fillet, and repeat the layers.",
+    "For the trifle topping, layer the cubed sponge cake, whipped cream, and fresh berries in a separate bowl.",
+    "Drizzle the sherry or substitute over the top of the whipped cream.",
+    "Serve the layered salmon dish with the trifle topping on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "seafood",
+    "lunch",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hushed-flaky-british-salmon-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:51:26.179Z"
+}
