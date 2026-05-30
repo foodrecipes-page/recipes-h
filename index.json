@@ -4017,17 +4017,15 @@
   },
   {
     "slug": "hearty-dutch-vegetable-hash",
-    "title": "Hearty Dutch Vegetable Hash",
+    "title": "Dutch Hash with Hearty Vegetables",
     "tags": [
+      "breakfast",
       "comfort-food",
-      "dutch-cuisine",
-      "healthy",
-      "lacto-vegetarian",
-      "one-pan",
-      "sick-day"
+      "dutch-hash",
+      "morning-meal"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 52,
+    "cuisine": "dutch",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -4508,17 +4506,16 @@
   },
   {
     "slug": "hearty-flaky-syrian-orange-flatbread",
-    "title": "Hearty Flaky Syrian Orange Flatbread",
+    "title": "Syrian Orange Flatbread",
     "tags": [
-      "easy-to-make",
-      "flaky-flatbread",
-      "low-sodium",
-      "middle-eastern",
-      "syrian-cuisine",
-      "vegetarian"
+      "syrian",
+      "flatbread",
+      "orange",
+      "dessert",
+      "snack"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
