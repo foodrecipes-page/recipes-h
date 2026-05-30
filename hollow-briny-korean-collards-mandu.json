@@ -1,0 +1,87 @@
+{
+  "slug": "hollow-briny-korean-collards-mandu",
+  "title": "Spicy Korean Collard Noodle Soup",
+  "description": "A hearty and flavorful soup that combines the best of Korean and Southern cuisines. Spicy Korean chili flakes, briny noodles, and collard greens come together in a comforting bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Briny Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Hollow Collard Greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mandu",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add minced garlic and ginger and cook for 1 minute.",
+    "Add Korean chili flakes and cook for an additional minute.",
+    "Add Briny Noodles and cook for 2-3 minutes, or until they start to soften.",
+    "Add Water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the noodles are fully cooked.",
+    "Add Mandu to the pot and cook for an additional 2-3 minutes.",
+    "Add chopped Collard Greens to the pot and cook until wilted.",
+    "Season with Soy Sauce and Salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "soup",
+    "noodle",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-briny-korean-collards-mandu",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:52:16.709Z"
+}
