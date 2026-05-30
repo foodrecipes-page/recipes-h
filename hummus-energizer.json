@@ -1,0 +1,84 @@
+{
+  "slug": "hummus-energizer",
+  "title": "Energizer Hummus Wrap",
+  "description": "A quick and easy wrap filled with protein-rich hummus, energizer, and fresh vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Energizer",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Lay out the whole wheat tortilla on a flat surface.",
+    "2. Spread 2 tablespoons of hummus down the center of the tortilla.",
+    "3. Add 1/4 cup of energizer on top of the hummus.",
+    "4. Add 1 cup of lettuce, 1 medium tomato, 1/4 cup of red onion, and 1/4 cup of cucumber on top of the energizer.",
+    "5. Season with salt to taste.",
+    "6. Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "7. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "healthy",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hummus-energizer",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:15.866Z"
+}
