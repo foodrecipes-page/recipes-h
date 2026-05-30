@@ -4118,17 +4118,15 @@
   },
   {
     "slug": "hearty-egyptian-chickpeas-stew",
-    "title": "Hearty Egyptian Chickpeas Stew",
+    "title": "Egyptian Stew",
     "tags": [
-      "hearty",
-      "low-fat",
-      "mediterranean",
-      "one-pot",
-      "quick",
-      "vegan"
+      "stew",
+      "chickpea",
+      "egyptian",
+      "lunch"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
