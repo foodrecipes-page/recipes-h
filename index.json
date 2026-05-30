@@ -4997,17 +4997,15 @@
   },
   {
     "slug": "hearty-german-pear-bowl",
-    "title": "Hearty German Pear Bowl",
+    "title": "Traditional German Pear Crumble",
     "tags": [
-      "copper-mug",
-      "diabetic-friendly",
-      "german-cuisine",
-      "healthy-snack",
-      "post-workout",
-      "stone-bowl"
+      "german",
+      "pear",
+      "dessert",
+      "crumble"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 15,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
