@@ -5902,17 +5902,16 @@
   },
   {
     "slug": "hearty-holiday-middle-eastern-pecan-nuts-knafeh",
-    "title": "Hearty Holiday Middle Eastern Pecan Nuts Knafeh",
+    "title": "Pecan Knafeh",
     "tags": [
-      "cheesy",
-      "dessert",
-      "holiday",
+      "knafeh",
       "middle-eastern",
-      "nutty",
-      "phyllo"
+      "holiday",
+      "dessert",
+      "pecan-nuts"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -7498,17 +7497,15 @@
   },
   {
     "slug": "hearty-mexican-fish-tacos",
-    "title": "Hearty Mexican Fish Tacos",
+    "title": "Grilled Fish Tacos",
     "tags": [
-      "brunch-ideas",
-      "deep-fried",
-      "mexican-inspired",
-      "pescatarian",
-      "seafood-friendly",
-      "tacos"
+      "fish",
+      "mexican",
+      "tacos",
+      "grilled"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 23,
     "shard": "h"
   },
   {
