@@ -7211,16 +7211,14 @@
   },
   {
     "slug": "hearty-malaysian-frankfurter-dumplings",
-    "title": "Hearty Malaysian Frankfurter Dumplings",
+    "title": "Frankfurter Dumpling Soup",
     "tags": [
-      "comfort-food",
-      "lazy-sunday",
-      "malaysian-cuisine",
-      "one-pan",
-      "vegan-friendly"
+      "vegetarian",
+      "soups",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -17029,15 +17027,16 @@
   },
   {
     "slug": "hummus-energizer",
-    "title": "Hummus Energizer",
+    "title": "Energizer Hummus Wrap",
     "tags": [
-      "hummus",
-      "snack",
-      "sweet",
-      "crispy"
+      "quick",
+      "easy",
+      "healthy",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "h"
   },
   {
