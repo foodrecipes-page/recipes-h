@@ -5514,17 +5514,15 @@
   },
   {
     "slug": "hearty-harmonious-syrian-seafood-bisque",
-    "title": "Hearty Harmonious Syrian Seafood Bisque",
+    "title": "Syrian Seafood Bisque",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "pescatarian",
-      "seafood-lovers",
-      "spicy-food",
-      "syrian-cuisine"
+      "seafood",
+      "bisque",
+      "syrian",
+      "lunch"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -15129,17 +15127,16 @@
   },
   {
     "slug": "hollow-briny-korean-collards-mandu",
-    "title": "Hollow, Briny Korean Collards Mandu",
+    "title": "Spicy Korean Collard Noodle Soup",
     "tags": [
-      "collards",
-      "dairy-free",
-      "ferment-kimchi",
       "korean",
-      "mandu",
-      "vegetarian"
+      "soup",
+      "noodle",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -17202,16 +17199,15 @@
   },
   {
     "slug": "hushed-flaky-british-salmon-trifle",
-    "title": "Hushed Flaky British Salmon Trifle",
+    "title": "British Flaky Salmon Trifle",
     "tags": [
       "british",
-      "halal-friendly",
-      "meal-prep",
-      "salmon",
-      "trifle"
+      "seafood",
+      "lunch",
+      "pastry"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
