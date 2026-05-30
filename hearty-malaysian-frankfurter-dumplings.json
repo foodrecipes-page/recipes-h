@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-malaysian-frankfurter-dumplings",
+  "title": "Frankfurter Dumpling Soup",
+  "description": "A hearty and comforting soup made with Malaysian-inspired dumplings and served with a side of sausages. Perfect for a chilly evening.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dumpling dough",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1L"
+    },
+    {
+      "name": "Chopped cabbage",
+      "amount": "100g"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "50g"
+    },
+    {
+      "name": "Frankfurter sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "20g"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the chopped cabbage and sliced carrots and cook until tender.",
+    "In a separate pan, cook the frankfurter sausages until browned.",
+    "Add the cooked sausages to the pot with the cabbage and carrots.",
+    "Mix in the soy sauce and stir to combine.",
+    "Wrap the dumpling dough around small balls of filling (about 20g each) to form dumplings.",
+    "Add the dumplings to the pot and cook for an additional 5-7 minutes.",
+    "Stir in the chopped scallions and grated ginger.",
+    "Serve the soup hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "soups",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malaysian-frankfurter-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:38:09.112Z"
+}
