@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-dutch-vegetable-hash",
+  "title": "Dutch Hash with Hearty Vegetables",
+  "description": "A hearty and flavorful hash made with diced vegetables and meat, perfect for a comforting meal. Serve hot, garnished with chopped fresh herbs.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 pound",
+      "notes": "brown at 350°F (180°C)"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss diced potatoes, carrots, and onions with olive oil, salt, and pepper until evenly coated.",
+    "Spread the potato mixture onto a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add crumbled bacon to the skillet and cook until crispy.",
+    "Add the roasted vegetables to the skillet and stir to combine with the meat and bacon.",
+    "Transfer the hash to a serving dish and garnish with chopped fresh herbs, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "dutch-hash",
+    "morning-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-vegetable-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:25:31.282Z"
+}
