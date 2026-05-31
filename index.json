@@ -9361,13 +9361,12 @@
   },
   {
     "slug": "hearty-slovakian-vegetable-stew",
-    "title": "Hearty Slovakian Vegetable Stew",
+    "title": "Slovakian Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "one-pot-meal",
-      "vegetarian-option",
-      "winter-night"
+      "slovakian",
+      "hearty",
+      "stew",
+      "vegetable"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 50,
@@ -11389,16 +11388,14 @@
   },
   {
     "slug": "hearty-umami-syrian-cabbage-gratin",
-    "title": "Hearty Umami Syrian Cabbage Gratin",
+    "title": "Syrian Braised Cabbage and Hearty Gratin",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "ovo-vegetarian",
-      "syrian-cuisine",
-      "umami-rich"
+      "comfort food",
+      "syrian cuisine",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -11522,17 +11519,15 @@
   },
   {
     "slug": "hearty-uruguayan-pear-stew",
-    "title": "Hearty Uruguayan Pear Stew",
+    "title": "Uruguayan Stew Recipe",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "one-pot-meal",
-      "pear-recipes",
-      "south-american",
-      "vegetarian-options"
+      "uruguayan-stew",
+      "beef-stew",
+      "pear-stew",
+      "heart-stew"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -17351,6 +17346,18 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-german-pear-bowl--chinese",
+    "title": "Pear German Delight",
+    "tags": [
+      "dessert",
+      "chinese-inspiration",
+      "german-cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
     "shard": "h"
   }
 ]
