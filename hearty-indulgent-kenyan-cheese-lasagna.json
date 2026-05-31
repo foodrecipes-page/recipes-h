@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-indulgent-kenyan-cheese-lasagna",
+  "title": "Kenyan Lasagna",
+  "description": "A unique twist on a classic Italian dish, incorporating traditional Kenyan flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "indulgent",
+    "hearty"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "grated"
+    },
+    {
+      "name": "Beef",
+      "amount": "1 lb",
+      "notes": "ground"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "1 tsp",
+      "notes": "e.g., cumin, coriander"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add beef, cook until browned, breaking into small pieces.",
+    "Add onions and garlic, cook until softened.",
+    "Stir in tomatoes, Kenyan spices, and salt. Simmer for 10 minutes.",
+    "In a separate bowl, combine grated cheese and a pinch of salt.",
+    "Spread a layer of meat sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the meat sauce, noodles, and finally the remaining cheese mixture.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "lasagna",
+    "indulgent",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 44,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-kenyan-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:56:45.209Z"
+}
