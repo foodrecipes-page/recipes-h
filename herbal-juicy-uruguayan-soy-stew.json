@@ -1,0 +1,71 @@
+{
+  "slug": "herbal-juicy-uruguayan-soy-stew",
+  "title": "Uruguayan Stew",
+  "description": "A hearty stew originating from Uruguay, made with tender beef and a hint of herbal flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": "Choose a cut with good marbling for tender results."
+    },
+    {
+      "name": "Herbal broth",
+      "amount": "2 cups",
+      "notes": "You can use store-bought broth or make your own using herbs like thyme and rosemary."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adds a rich depth of flavor to the stew."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "Caramelizes nicely in the stew."
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "Adds natural sweetness to the stew."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "Thickens the stew and provides a satisfying bite."
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the chopped onion to the pot and cook until caramelized, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned beef back to the pot, along with the herbal broth and soy sauce.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "stew",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-juicy-uruguayan-soy-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:40:15.720Z"
+}
