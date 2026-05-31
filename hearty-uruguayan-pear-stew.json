@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-uruguayan-pear-stew",
+  "title": "Uruguayan Stew Recipe",
+  "description": "A hearty and flavorful Uruguayan stew recipe made with tender beef and flavorful vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Pear",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and red bell pepper. Cook until the vegetables are tender, about 5 minutes.",
+    "Add carrots and potatoes. Cook for an additional 5 minutes.",
+    "Stir in tomato paste, beef broth, and red wine (if using).",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in diced pear during the last 30 minutes of cooking.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan-stew",
+    "beef-stew",
+    "pear-stew",
+    "heart-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-uruguayan-pear-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:09:28.091Z"
+}
