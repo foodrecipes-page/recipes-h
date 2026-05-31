@@ -2051,17 +2051,15 @@
   },
   {
     "slug": "hearty-argentinian-freekeh-pilaf",
-    "title": "Hearty Argentinian Freekeh Pilaf",
+    "title": "Argentinian Freekeh Pilaf",
     "tags": [
+      "freekeh",
       "argentinian",
-      "dinner",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -3223,17 +3221,16 @@
   },
   {
     "slug": "hearty-crispy-british-cheese-curds-fritters",
-    "title": "Hearty Crispy British Cheese Curds Fritters",
+    "title": "British Cheese Fritters",
     "tags": [
       "british",
-      "cheese-curds",
-      "crispy",
-      "double-fry",
-      "hearty",
-      "quick"
+      "cheese",
+      "curds",
+      "fritters",
+      "snack"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
