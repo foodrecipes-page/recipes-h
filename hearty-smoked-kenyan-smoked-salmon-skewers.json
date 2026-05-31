@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-smoked-kenyan-smoked-salmon-skewers",
+  "title": "Smoked Salmon Skewers with African Spices",
+  "description": "A flavorful and easy-to-make appetizer or side dish, perfect for summer gatherings. This recipe combines the rich taste of smoked salmon with the bold flavors of Kenyan spices.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "1 tsp (5g)",
+      "notes": "A mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp (30ml)",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the smoked salmon into 1-inch (2.5cm) pieces.",
+    "3. In a small bowl, mix together Kenyan spices, lime juice, olive oil, salt, and black pepper.",
+    "4. Thread the salmon pieces onto skewers, leaving a small space between each piece.",
+    "5. Brush the skewers with the spice mixture, making sure each piece of salmon is coated.",
+    "6. Place the skewers on the grill and cook for 2-3 minutes per side, or until cooked through.",
+    "7. Garnish with chopped parsley, if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "african",
+    "appetizer",
+    "grilled",
+    "salmon",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-kenyan-smoked-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:21:01.795Z"
+}
