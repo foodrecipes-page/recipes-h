@@ -2436,17 +2436,15 @@
   },
   {
     "slug": "hearty-british-red-bean-paste-bake",
-    "title": "Hearty British Red Bean Paste Bake",
+    "title": "Full English Breakfast Bake",
     "tags": [
-      "brass-bowl",
-      "british-dessert",
-      "flower-infused",
-      "gluten-free",
-      "hearty-dessert",
-      "red-bean-paste"
+      "breakfast",
+      "british",
+      "casserole",
+      "sausages"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -2921,17 +2919,14 @@
   },
   {
     "slug": "hearty-chewy-kenyan-pak-choi-stir-fry",
-    "title": "Hearty Chewy Kenyan Pak Choi Stir-fry",
+    "title": "Kenyan Stir Fry",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "kenyan",
-      "one-pan",
-      "post-workout",
+      "stir-fry",
       "vegetarian"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 18,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -9538,17 +9533,16 @@
   },
   {
     "slug": "hearty-smoked-kenyan-smoked-salmon-skewers",
-    "title": "Hearty Smoked Kenyan Smoked Salmon Skewers",
+    "title": "Smoked Salmon Skewers with African Spices",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
-      "smoked-salmon",
-      "weeknight"
+      "african",
+      "appetizer",
+      "grilled",
+      "salmon",
+      "skewers"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "African",
+    "totalTimeMin": 16,
     "shard": "h"
   },
   {
@@ -9704,17 +9698,16 @@
   },
   {
     "slug": "hearty-smoky-canadian-gruyere-gratin",
-    "title": "Hearty Smoky Canadian Gruyere Gratin",
+    "title": "Smoky Canadian Gruyere Gratin",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "gratin",
+      "canadian",
+      "gruyere",
       "smoky",
-      "vegetarian",
-      "winter-dish"
+      "gratin",
+      "comfortfood"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
