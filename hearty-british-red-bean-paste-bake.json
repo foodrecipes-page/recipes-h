@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-british-red-bean-paste-bake",
+  "title": "Full English Breakfast Bake",
+  "description": "A twist on the classic full English breakfast, baked in a single dish for convenience and minimal cleanup.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red Kidney Beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Hearty Beef Sausages",
+      "amount": "4",
+      "notes": " casings removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "British Bangers and Mash Mix",
+      "amount": "1 packet (6 servings)",
+      "notes": "follow package instructions"
+    },
+    {
+      "name": "Bake",
+      "amount": "1 (9x13 inch) dish",
+      "notes": "greased with cooking spray"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sausages over medium-high heat, breaking them up with a spoon as they cook, until browned and cooked through.",
+    "Add the chopped onion and bell pepper to the skillet and cook until softened.",
+    "In a large bowl, combine the cooked sausage mixture, red kidney beans, and British bangers and mash mix.",
+    "Transfer the mixture to the prepared baking dish and spread evenly.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the mixture is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "casserole",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-red-bean-paste-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:02:18.965Z"
+}
