@@ -3710,19 +3710,15 @@
   },
   {
     "slug": "hearty-dense-dutch-tofu-stew",
-    "title": "Hearty Dense Dutch Tofu Stew",
+    "title": "Hearty Dutch Stew",
     "tags": [
-      "cedar-plank",
-      "dense",
       "dutch",
-      "hearty",
-      "one-pot",
-      "quick",
-      "stone-bowl",
-      "vegetarian"
+      "stew",
+      "winter",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 105,
     "shard": "h"
   },
   {
@@ -5275,17 +5271,14 @@
   },
   {
     "slug": "hearty-greek-cheese-pilaf",
-    "title": "Hearty Greek Cheese Pilaf",
+    "title": "Greek Pilaf with Feta",
     "tags": [
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "quick-fix",
-      "sugar-free",
-      "weeknight"
+      "greek",
+      "pilaf",
+      "side dish"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "cuisine": "greek",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
