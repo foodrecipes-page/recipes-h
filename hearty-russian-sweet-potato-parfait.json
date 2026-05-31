@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-russian-sweet-potato-parfait",
+  "title": "Hearty Russian Sweet Potato Parfait",
+  "description": "A hearty and comforting parfait combining the flavors of Russia and the sweetness of sweet potatoes. Perfect for a cold winter's day.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "mashed sweet potatoes",
+      "amount": "3 cups",
+      "notes": null
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced apples",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mash the sweet potatoes in a bowl until smooth.",
+    "In a separate bowl, mix together the cottage cheese, diced apples, chopped walnuts, honey, vanilla extract, salt, and ground cinnamon.",
+    "Layer the sweet potato mixture at the bottom of a parfait glass or a tall clear cup.",
+    "Add a layer of the cottage cheese mixture on top of the sweet potatoes.",
+    "Repeat the layers one more time, ending with a layer of sweet potatoes on top.",
+    "Sprinkle the coconut flakes over the top of the parfait.",
+    "Chill in the refrigerator for at least 30 minutes before serving.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "parfait",
+    "sweet-potato",
+    "russian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-russian-sweet-potato-parfait",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:54:22.632Z"
+}
