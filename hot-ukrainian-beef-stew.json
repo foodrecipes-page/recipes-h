@@ -1,0 +1,95 @@
+{
+  "slug": "hot-ukrainian-beef-stew",
+  "title": "Braised Beef Stew",
+  "description": "A hearty Ukrainian-inspired beef stew cooked in a rich broth with tender pieces of beef and root vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef stew meat in batches until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onion, carrots, and potatoes until the vegetables are slightly tender, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the beef broth, tomato paste, salt, and pepper to the pot.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the stew for 2 1/2 hours or until the beef is tender.",
+    "Stir in the chopped dill and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "ukrainian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-ukrainian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:51:50.168Z"
+}
