@@ -1,0 +1,71 @@
+{
+  "slug": "hearty-german-pear-bowl--japanese",
+  "title": "Hearty Japanese Pear Oat Bowl",
+  "description": "A comforting Japanese-inspired oat bowl with a sweet pear compote and crunchy toppings.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pear",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, bring water to a boil.",
+    "2. Gradually add the oats and reduce heat to low, stirring frequently.",
+    "3. Cook for 5 minutes or until the oats have absorbed most of the water.",
+    "4. In a separate pan, heat honey over low heat until it starts to caramelize.",
+    "5. Add diced pear to the pan and cook for 3-4 minutes or until slightly tender.",
+    "6. In a separate pan, toast almonds over medium heat until lightly browned.",
+    "7. In a large bowl, combine cooked oats, pear compote, and toasted almonds.",
+    "8. Top with coconut flakes and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "oat-bowl",
+    "pear-compote",
+    "breakfast",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-german-pear-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:30:47.926Z"
+}
