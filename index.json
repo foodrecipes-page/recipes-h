@@ -10467,14 +10467,13 @@
   },
   {
     "slug": "hearty-spicy-moroccan-kielbasa-tagine",
-    "title": "Hearty Spicy Moroccan Kielbasa Tagine",
+    "title": "Spicy Kielbasa Tagine",
     "tags": [
-      "brass-bowl",
-      "cozy-dinner",
-      "kielbasa",
       "moroccan",
-      "one-pot",
-      "spicy"
+      "keilbasa",
+      "tagine",
+      "spicy",
+      "hearty"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,
@@ -14441,16 +14440,14 @@
   },
   {
     "slug": "herbal-tender-light-cashews-stir-fry",
-    "title": "Herbal Tender Light Cashews Stir-fry",
+    "title": "Herb Cashew Stir Fry",
     "tags": [
-      "herbal",
-      "tender",
-      "light",
-      "cashews",
-      "stir-fry"
+      "stir-fry",
+      "herb",
+      "cashew"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
