@@ -1,0 +1,73 @@
+{
+  "slug": "herbal-tender-light-cashews-stir-fry",
+  "title": "Herb Cashew Stir Fry",
+  "description": "A quick and easy stir fry made with tender cashews, herbal flavors, and light vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Herbs (such as basil or cilantro)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tender vegetables (such as bell peppers or carrots)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light oil (such as vegetable or peanut oil)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium-high heat.",
+    "Add the garlic and stir-fry for 1 minute.",
+    "Add the tender vegetables and stir-fry for 3-4 minutes.",
+    "Add the cashews and stir-fry for 2 minutes.",
+    "Add the herbs and soy sauce, and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "herb",
+    "cashew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-tender-light-cashews-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:38:51.852Z"
+}
