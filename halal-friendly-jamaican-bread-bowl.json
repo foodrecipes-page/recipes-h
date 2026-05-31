@@ -1,0 +1,68 @@
+{
+  "slug": "halal-friendly-jamaican-bread-bowl",
+  "title": "Jamaican Jerk Chicken Bowl",
+  "description": "A flavorful Jamaican jerk chicken bowl recipe, served with a side of toasted bread.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal",
+    "friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "4-6 breasts"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Bowl",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together jerk seasoning and olive oil.",
+    "3. Add the chicken breasts to the bowl and coat evenly with the jerk seasoning mixture.",
+    "4. Place the chicken on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until cooked through.",
+    "5. Meanwhile, toast the bread slices by baking them in the oven for 2-3 minutes, or until lightly browned.",
+    "6. Assemble the bowls by placing a cooked chicken breast on each bowl, topping with toasted bread, and serving hot.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "bowl",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-friendly-jamaican-bread-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:34:51.789Z"
+}
