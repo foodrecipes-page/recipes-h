@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-chewy-kenyan-pak-choi-stir-fry",
+  "title": "Kenyan Stir Fry",
+  "description": "A hearty Kenyan-inspired stir fry made with pak choi and hearty, chewy ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Hearty",
+      "amount": "1 cup (diced)",
+      "notes": null
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 cup (diced)",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (grated)",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced hearty and chewy and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1-2 minutes.",
+    "Add the pak choi and stir-fry for 2-3 minutes, until tender.",
+    "Season with soy sauce and serve immediately.",
+    "Serve hot over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-chewy-kenyan-pak-choi-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:20:21.808Z"
+}
