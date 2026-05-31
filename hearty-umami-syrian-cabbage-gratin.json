@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-umami-syrian-cabbage-gratin",
+  "title": "Syrian Braised Cabbage and Hearty Gratin",
+  "description": "A hearty, comforting dish with the rich flavors of Syrian cuisine, featuring slow-cooked cabbage and a crispy gratin topping.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pot, heat oil over medium heat. Add onion and cook until softened, 5 minutes.",
+    "Add garlic, allspice, and cumin. Cook for 1 minute.",
+    "Add cabbage and cook until slightly tender, 5 minutes.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Transfer cabbage mixture to a 9x13 inch baking dish.",
+    "Spread bechamel sauce evenly over the top of the cabbage.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort food",
+    "syrian cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-syrian-cabbage-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:07:53.424Z"
+}
