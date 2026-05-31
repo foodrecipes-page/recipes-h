@@ -1,0 +1,63 @@
+{
+  "slug": "hearty-smoky-german-anchovy-fillet-puff-pastry",
+  "title": "Smoked Salmon Puff Pastry Pinwheels",
+  "description": "A twist on traditional pinwheels, these smoky salmon pinwheels are perfect for a quick appetizer or snack. Flaky puff pastry filled with smoked salmon and a hint of German seasoning.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "anchovy fillets",
+      "amount": "2 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "In a small bowl, mix together smoked salmon, anchovy fillets, and onion.",
+    "Spread the salmon mixture evenly over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Brush the edges with a little water and fold the pastry in half to enclose the filling.",
+    "Cut into pinwheels and place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "appetizer",
+    "snack",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-german-anchovy-fillet-puff-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:48:52.520Z"
+}
