@@ -1,0 +1,79 @@
+{
+  "slug": "hot-crunchy-filipino-shrimp-skewers",
+  "title": "Filipino Shrimp Skewers",
+  "description": "A simple and delicious Filipino-inspired dish featuring marinated shrimp grilled to perfection on skewers.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread a shrimp, a piece of onion, and a bell pepper onto each skewer.",
+    "In a large bowl, whisk together soy sauce, lime juice, garlic powder, and black pepper.",
+    "Add the shrimp skewers to the marinade and toss to coat.",
+    "Let the skewers marinate for at least 30 minutes.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "shrimp",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crunchy-filipino-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:20:01.516Z"
+}
