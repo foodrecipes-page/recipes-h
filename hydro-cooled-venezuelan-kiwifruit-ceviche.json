@@ -1,0 +1,78 @@
+{
+  "slug": "hydro-cooled-venezuelan-kiwifruit-ceviche",
+  "title": "Venezuelan Ceviche",
+  "description": "A refreshing and zesty dish from Venezuela, made with raw fish marinated in citrus juices. This recipe is perfect for a light lunch or dinner.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh snapper",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Ceviche mix (onion, garlic, aji amarillo pepper)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Kiwifruit",
+      "amount": "1",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Venezuelan aji amarillo pepper sauce (optional)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small pieces and place in a large bowl.",
+    "In a separate bowl, mix together lime juice, ceviche mix, and aji amarillo pepper sauce (if using).",
+    "Pour the lime juice mixture over the fish and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "Just before serving, stir in chopped kiwifruit and cilantro.",
+    "Season with salt to taste.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "ceviche",
+    "fish",
+    "kiwifruit"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hydro-cooled-venezuelan-kiwifruit-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:42:00.372Z"
+}
