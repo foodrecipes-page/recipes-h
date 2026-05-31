@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-greek-cheese-pilaf",
+  "title": "Greek Pilaf with Feta",
+  "description": "A hearty and flavorful side dish inspired by Greek cuisine, featuring a pilaf base topped with crumbled feta cheese.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated feta cheese",
+      "amount": "1/2 cup",
+      "notes": "preferably Greek"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the uncooked rice and cook for 1-2 minutes, stirring constantly.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the liquid is absorbed.",
+    "Stir in the dried thyme and season with salt to taste.",
+    "Transfer the pilaf to a serving dish and top with crumbled feta cheese.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "pilaf",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-greek-cheese-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:42:55.189Z"
+}
