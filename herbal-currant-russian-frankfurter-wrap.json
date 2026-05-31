@@ -1,0 +1,77 @@
+{
+  "slug": "herbal-currant-russian-frankfurter-wrap",
+  "title": "Russian Wrap",
+  "description": "A flavorful Russian-inspired wrap filled with spicy frankfurter, fresh herbs, and sweet currants.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla or flatbread"
+    },
+    {
+      "name": "Fresh Herbal Sprigs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley, dill, or basil"
+    },
+    {
+      "name": "Currants",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium-high heat.",
+    "Add the frankfurter and cook until heated through, about 2-3 minutes.",
+    "Meanwhile, toast the wrap by warming it in the same pan or by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the frankfurter on the bottom half of the wrap, followed by a sprinkle of Russian seasoning, salt, and pepper.",
+    "Top with chopped fresh herbs and currants.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "russian-cuisine",
+    "wurst",
+    "wrap",
+    "snack-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-currant-russian-frankfurter-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:46:25.154Z"
+}
