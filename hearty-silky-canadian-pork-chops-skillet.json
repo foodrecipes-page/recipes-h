@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-silky-canadian-pork-chops-skillet",
+  "title": "Pan-Seared Pork Chops",
+  "description": "A classic Canadian dish featuring tender pork chops and a silky pan sauce. Perfect for a hearty meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 (1-inch thick)",
+      "notes": "about 1 pound total"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "canadian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "silk soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or other soy sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heartily salt",
+      "amount": "to taste",
+      "notes": "about 1 teaspoon"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "heart-healthy herbs",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh rosemary or thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork chops with salt, pepper, and herbs.",
+    "Heat the skillet over medium-high heat.",
+    "Add the olive oil to the skillet and swirl to coat.",
+    "Sear the pork chops for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven.",
+    "Bake the pork chops for 10-12 minutes, or until cooked to an internal temperature of 145°F (63°C).",
+    "Remove the pork chops from the oven and let rest for 5 minutes.",
+    "In a small bowl, whisk together the soy sauce and garlic.",
+    "Pour the soy sauce mixture over the pork chops and serve.",
+    "Serve the pork chops with the pan sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "pork",
+    "chops",
+    "skillet",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-silky-canadian-pork-chops-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:47:43.786Z"
+}
