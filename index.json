@@ -944,17 +944,15 @@
   },
   {
     "slug": "hasty-indian-manchego-bowl",
-    "title": "Hasty Indian Manchego Bowl",
+    "title": "Indian Hasty Manchego Bowl",
     "tags": [
-      "buddhist-friendly",
-      "cheese",
-      "easy",
-      "indian",
-      "quick",
-      "vegetarian"
+      "indian-food",
+      "vegetarian-recipes",
+      "quinoa-bowl",
+      "manchego-cheese"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 15,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
