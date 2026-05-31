@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-spicy-moroccan-kielbasa-tagine",
+  "title": "Spicy Kielbasa Tagine",
+  "description": "A hearty and aromatic Moroccan-inspired stew featuring spicy kielbasa and a blend of warming spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the bell pepper and cook until tender, about 5 minutes.",
+    "Add the kielbasa and cook until browned, about 5 minutes.",
+    "Add the cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Stir in the tomatoes, broth, salt, and pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "keilbasa",
+    "tagine",
+    "spicy",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-moroccan-kielbasa-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:21:37.055Z"
+}
