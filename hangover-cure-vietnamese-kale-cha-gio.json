@@ -1,0 +1,73 @@
+{
+  "slug": "hangover-cure-vietnamese-kale-cha-gio",
+  "title": "Vietnamese Hangover Cure Soup",
+  "description": "A spicy and comforting soup to help alleviate hangover symptoms. This recipe combines the flavors of Vietnam with the soothing effects of kale.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Gio",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Hangover",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Cha",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the sliced gio and cook for 5 minutes.",
+    "Add the chopped kale, hangover, cha, and furikake. Cook for another 5 minutes.",
+    "Stir in the coconut milk and soy sauce.",
+    "Bring the soup to a simmer and cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the soup hot, garnished with additional kale if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover cure",
+    "vietnamese soup",
+    "kale soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-vietnamese-kale-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:05:20.089Z"
+}
