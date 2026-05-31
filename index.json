@@ -3068,18 +3068,17 @@
   },
   {
     "slug": "hearty-creamy-mediterranean-fish-stew",
-    "title": "Hearty Creamy Mediterranean Fish Stew",
+    "title": "Creamy Mediterranean Fish Stew",
     "tags": [
-      "comfort-food",
-      "easy-recipe",
-      "fish",
-      "low-carb",
+      "creamy",
       "mediterranean",
-      "one-pot",
-      "weeknight"
+      "fish",
+      "stew",
+      "lunch",
+      "comfort-food"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -4673,17 +4672,15 @@
   },
   {
     "slug": "hearty-french-beef-pot-au-feu",
-    "title": "Hearty French Beef Pot-au-Feu",
+    "title": "Boeuf Bourguignon",
     "tags": [
       "beef",
-      "high-protein",
-      "jain-friendly",
-      "noodle",
-      "one-pan",
-      "weeknight"
+      "french",
+      "stew",
+      "hearty"
     ],
     "cuisine": "French",
-    "totalTimeMin": 150,
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
@@ -8787,15 +8784,14 @@
     "slug": "hearty-russian-sweet-potato-parfait",
     "title": "Hearty Russian Sweet Potato Parfait",
     "tags": [
-      "dessert",
-      "hearty",
+      "breakfast",
       "parfait",
-      "post-workout",
+      "sweet-potato",
       "russian",
-      "vegetarian"
+      "dessert"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -17325,17 +17321,15 @@
   },
   {
     "slug": "hydro-cooled-venezuelan-kiwifruit-ceviche",
-    "title": "Hydro Cooled Venezuelan Kiwifruit Ceviche",
+    "title": "Venezuelan Ceviche",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "low-lactose",
-      "mason-jar",
-      "refreshing-snack",
-      "venezuelan-cuisine"
+      "latin-american",
+      "ceviche",
+      "fish",
+      "kiwifruit"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 20,
+    "cuisine": "Latin American",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -17348,6 +17342,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-german-pear-bowl--japanese",
+    "title": "Hearty Japanese Pear Oat Bowl",
+    "tags": [
+      "oat-bowl",
+      "pear-compote",
+      "breakfast",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
