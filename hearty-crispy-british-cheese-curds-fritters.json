@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-crispy-british-cheese-curds-fritters",
+  "title": "British Cheese Fritters",
+  "description": "A crispy and hearty British-inspired snack featuring cheese fritters made with curds and a hint of savory flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "can use gluten-free flour"
+    },
+    {
+      "name": "Cheddar cheese curds",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Bacon bits (optional)",
+      "amount": "2 tablespoons",
+      "notes": "for added savory flavor"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (175°C).",
+    "In a large bowl, whisk together flour, salt, and black pepper.",
+    "Add grated cheese curds, bacon bits (if using), and whisk until just combined.",
+    "In a separate bowl, whisk together eggs and buttermilk.",
+    "Pour wet ingredients into dry ingredients and stir until just combined. Do not overmix.",
+    "Using a spoon, drop small balls of the mixture into hot oil.",
+    "Fry fritters until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove fritters from oil and place on paper towels to drain excess oil.",
+    "Serve warm, crispy, and cheesy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cheese",
+    "curds",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crispy-british-cheese-curds-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:13:07.981Z"
+}
