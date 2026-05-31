@@ -109,16 +109,15 @@
   },
   {
     "slug": "halal-friendly-jamaican-bread-bowl",
-    "title": "Halal-Friendly Jamaican Bread Bowl",
+    "title": "Jamaican Jerk Chicken Bowl",
     "tags": [
-      "bread",
-      "breakfast-for-dinner",
-      "caribbean",
-      "halal",
-      "jamaican"
+      "jamaican",
+      "chicken",
+      "bowl",
+      "caribbean"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 55,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
