@@ -10778,17 +10778,15 @@
   },
   {
     "slug": "hearty-sweet-polish-chicken-skillet",
-    "title": "Hearty Sweet Polish Chicken Skillet",
+    "title": "Polish Chicken Skillet",
     "tags": [
-      "cast-iron-skillet",
-      "gluten-free",
-      "kid-friendly",
-      "low-fodmap",
-      "one-pan",
-      "polish-cuisine"
+      "polish",
+      "chicken",
+      "skillet",
+      "dinner"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -13987,18 +13985,15 @@
   },
   {
     "slug": "herbal-juicy-uruguayan-soy-stew",
-    "title": "Herbal Juicy Uruguayan Soy Stew",
+    "title": "Uruguayan Stew",
     "tags": [
-      "herbal",
-      "juicy",
       "uruguayan",
-      "soy",
+      "beef",
       "stew",
-      "halal",
-      "vegetarian"
+      "herbal"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 150,
     "shard": "h"
   },
   {
