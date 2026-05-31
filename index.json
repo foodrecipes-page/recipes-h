@@ -9742,17 +9742,15 @@
   },
   {
     "slug": "hearty-smoky-german-anchovy-fillet-puff-pastry",
-    "title": "Hearty Smoky German Anchovy Fillet Puff Pastry",
+    "title": "Smoked Salmon Puff Pastry Pinwheels",
     "tags": [
-      "anchovy",
       "german",
-      "halal-friendly",
-      "puff-pastry",
-      "smoky",
-      "snack"
+      "appetizer",
+      "snack",
+      "seafood"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -13654,18 +13652,15 @@
   },
   {
     "slug": "herbal-currant-russian-frankfurter-wrap",
-    "title": "Herbal Currant Russian Frankfurter Wrap",
+    "title": "Russian Wrap",
     "tags": [
-      "herbal",
-      "crisp",
-      "energizing",
-      "russian",
-      "frankfurter",
+      "russian-cuisine",
+      "wurst",
       "wrap",
-      "pescatarian-friendly"
+      "snack-food"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 5,
+    "totalTimeMin": 10,
     "shard": "h"
   },
   {
@@ -16849,17 +16844,15 @@
   },
   {
     "slug": "hot-ukrainian-beef-stew",
-    "title": "Hot Ukrainian Beef Stew",
+    "title": "Braised Beef Stew",
     "tags": [
-      "chive-dip",
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "spicy",
-      "ukrainian"
+      "beef",
+      "stew",
+      "ukrainian",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 105,
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
