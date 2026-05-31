@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-brunch-style-malaysian-creme-patissiere-curry",
+  "title": "Malaysian Curry Brunch Strata",
+  "description": "A hearty brunch dish with a Malaysian twist, featuring curry-infused bread, eggs, and crumbled patissiere. Perfect for a weekend morning.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Malaysian Curry Bread",
+      "amount": "1 loaf",
+      "notes": "Cubed into 1-inch pieces"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "Crumbled Patissiere",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Curry Leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté curry leaves and ginger until fragrant.",
+    "Add Malaysian Curry Bread to skillet and toast until lightly browned.",
+    "In a large bowl, whisk eggs and crème fraîche until well combined.",
+    "Add toasted bread mixture to bowl and stir until eggs are fully coated.",
+    "Pour mixture into a greased 9x13-inch baking dish.",
+    "Sprinkle crumbled patissière on top of egg mixture.",
+    "Bake for 35-40 minutes, or until eggs are set and bread is golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm, garnished with additional curry leaves if desired.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "malaysian",
+    "curry",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-brunch-style-malaysian-creme-patissiere-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:29:49.961Z"
+}
