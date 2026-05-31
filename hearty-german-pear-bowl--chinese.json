@@ -1,0 +1,60 @@
+{
+  "slug": "hearty-german-pear-bowl--chinese",
+  "title": "Pear German Delight",
+  "description": "A sweet and savory twist on traditional German cuisine, inspired by the flavors of China.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "3-4",
+      "notes": "Any variety, but firmer ones work best"
+    },
+    {
+      "name": "German Dark Rye Bread",
+      "amount": "1 loaf",
+      "notes": "For serving"
+    },
+    {
+      "name": "Hearty German Mustard",
+      "amount": "2 tbsp",
+      "notes": "For a spicy kick"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the pears into thin wedges.",
+    "3. In a small bowl, mix together the German mustards and a pinch of salt.",
+    "4. Arrange the pear slices on top of the German dark rye bread.",
+    "5. Drizzle the mustard mixture over the pears.",
+    "6. Bake for 10-12 minutes, or until the pears are tender and the bread is toasted.",
+    "7. Serve warm in a bowl.",
+    "8. Garnish with a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "chinese-inspiration",
+    "german-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-german-pear-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:12:44.812Z"
+}
