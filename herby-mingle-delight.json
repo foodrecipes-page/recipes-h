@@ -1,0 +1,80 @@
+{
+  "slug": "herby-mingle-delight",
+  "title": "Herby Delight Chicken",
+  "description": "A flavorful and moist chicken dish made with herby and mingle ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Herby",
+      "amount": "2 tbsp",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Mingle",
+      "amount": "1 cup",
+      "notes": "Mixed with delight for added flavor"
+    },
+    {
+      "name": "Delight",
+      "amount": "1/4 cup",
+      "notes": "Optional, add to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "In a small bowl, mix together herby and mingle.",
+    "Brush the chicken breasts with olive oil and coat with the herby-mingle mixture.",
+    "Place the chicken breasts on a baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "While the chicken is baking, prepare the delight (if using).",
+    "To make the delight, combine 1/4 cup of mingle with 1/4 cup of delight in a small bowl.",
+    "Stir well to combine and adjust seasoning as needed.",
+    "Once the chicken is done, remove it from the oven and let it rest for 5 minutes.",
+    "Serve the chicken hot, topped with the delight (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "herb",
+    "mingle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herby-mingle-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:48:52.056Z"
+}
