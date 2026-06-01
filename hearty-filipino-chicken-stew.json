@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-filipino-chicken-stew",
+  "title": "Filipino Chicken Stew",
+  "description": "A hearty and flavorful stew originating from the Philippines, made with tender chicken and a variety of spices.",
+  "cuisine": "filipino",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thigh",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; sauté until softened.",
+    "Add chicken; cook until browned.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add chicken broth, coconut milk, fish sauce, and bay leaves.",
+    "Bring to a boil; reduce heat to low.",
+    "Simmer for 20-25 minutes or until chicken is cooked through.",
+    "Season with black pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "filipino",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-filipino-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:20:46.668Z"
+}
