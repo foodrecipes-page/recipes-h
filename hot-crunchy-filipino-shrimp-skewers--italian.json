@@ -1,0 +1,97 @@
+{
+  "slug": "hot-crunchy-filipino-shrimp-skewers--italian",
+  "title": "Italian Shrimp Skewers",
+  "description": "A simple and flavorful dish that combines the freshness of shrimp with the boldness of Italian seasonings, all on a bed of crunchy vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "Deveined and peeled"
+    },
+    {
+      "name": "Hot Italian Sausage",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "Any color, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Filipino Banana Peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, sausage, bell peppers, onions, mushrooms, and banana peppers onto skewers.",
+    "In a small bowl, mix together garlic, olive oil, Italian seasoning, salt, and pepper.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the shrimp are pink and the sausage is cooked through.",
+    "Serve hot, garnished with lemon wedges and crusty bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "grilled",
+    "seafood",
+    "summer",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crunchy-filipino-shrimp-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:41:04.177Z"
+}
