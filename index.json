@@ -5901,16 +5901,15 @@
   },
   {
     "slug": "hearty-holiday-uruguayan-rapeseed-skewers",
-    "title": "Hearty Holiday Uruguayan Rapeseed Skewers",
+    "title": "Uruguayan Holiday Skewers",
     "tags": [
-      "grilled-vegetables",
-      "holiday-recipe",
-      "macrobiotic-friendly",
-      "uruguayan-cuisine",
-      "vegetarian-dinner"
+      "holiday",
+      "skewers",
+      "grilled",
+      "seafood"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 32,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -8636,17 +8635,15 @@
   },
   {
     "slug": "hearty-roasted-saudi-arabian-polish-sausage-skewers",
-    "title": "Hearty Roasted Saudi Arabian Polish Sausage Skewers",
+    "title": "Hearty Kebab Sausage Skewers",
     "tags": [
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "roasted-vegetables",
-      "sausage-recipes",
-      "weeknight"
+      "kebabs",
+      "sausages",
+      "grill",
+      "summer"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17333,6 +17330,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-crunchy-filipino-shrimp-skewers--italian",
+    "title": "Italian Shrimp Skewers",
+    "tags": [
+      "italian",
+      "grilled",
+      "seafood",
+      "summer",
+      "skewers"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "h"
   }
 ]
