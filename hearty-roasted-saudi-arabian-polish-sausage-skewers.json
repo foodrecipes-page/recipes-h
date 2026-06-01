@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-roasted-saudi-arabian-polish-sausage-skewers",
+  "title": "Hearty Kebab Sausage Skewers",
+  "description": "A flavorful and spicy kebab dish made with roasted sausage and skewers, inspired by Saudi Arabian and Polish cuisine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "500g"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "cherry tomatoes"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sausage, bell peppers, onions, tomatoes, parsley, and garlic onto skewers.",
+    "Brush skewers with olive oil and season with paprika, salt, and black pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until the sausage is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "sausages",
+    "grill",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-roasted-saudi-arabian-polish-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:01:00.424Z"
+}
