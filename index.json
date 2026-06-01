@@ -450,17 +450,15 @@
   },
   {
     "slug": "hangover-cure-kenyan-matooke-stew",
-    "title": "Hangover Cure Kenyan Matooke Stew",
+    "title": "Kenyan Stew with Matooke",
     "tags": [
-      "hangover-cure",
       "kenyan",
-      "matooke",
-      "pickle",
-      "cranberry",
-      "curry"
+      "stew",
+      "vegetarian",
+      "matooke"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -4307,17 +4305,14 @@
   },
   {
     "slug": "hearty-filipino-chicken-stew",
-    "title": "Hearty Filipino Chicken Stew",
+    "title": "Filipino Chicken Stew",
     "tags": [
-      "chicken-recipes",
-      "coconut-milk",
-      "diabetic-friendly",
-      "filipino-cuisine",
-      "gluten-free",
-      "one-pot"
+      "chicken",
+      "filipino",
+      "stew"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "cuisine": "filipino",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
