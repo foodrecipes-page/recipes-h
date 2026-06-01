@@ -4643,18 +4643,15 @@
   },
   {
     "slug": "hearty-french-beef-bouillabaisse",
-    "title": "Hearty French Beef Bouillabaisse",
+    "title": "Beef Bouillabaisse",
     "tags": [
       "beef",
-      "broad",
-      "comforting",
       "french",
-      "hearty",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "hearty"
     ],
     "cuisine": "French",
-    "totalTimeMin": 150,
+    "totalTimeMin": 80,
     "shard": "h"
   },
   {
@@ -14805,15 +14802,14 @@
   },
   {
     "slug": "herby-mingle-delight",
-    "title": "Herby Mingle Delight",
+    "title": "Herby Delight Chicken",
     "tags": [
+      "chicken",
       "herb",
-      "juicy",
-      "irish",
-      "vegan"
+      "mingle"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
