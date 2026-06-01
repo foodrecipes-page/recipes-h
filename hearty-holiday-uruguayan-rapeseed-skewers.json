@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-holiday-uruguayan-rapeseed-skewers",
+  "title": "Uruguayan Holiday Skewers",
+  "description": "A festive twist on traditional skewers, featuring tender chorizo and succulent shrimp.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "chorizo",
+      "amount": "1/2 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, chorizo, red onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together lemon juice, olive oil, garlic powder, salt, and pepper.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Grill skewers for 8-10 minutes, or until the shrimp are pink and the chorizo is cooked through.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "holiday",
+    "skewers",
+    "grilled",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-holiday-uruguayan-rapeseed-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:26:07.326Z"
+}
