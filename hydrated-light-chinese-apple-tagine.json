@@ -1,0 +1,79 @@
+{
+  "slug": "hydrated-light-chinese-apple-tagine",
+  "title": "Chinese-Tagine Chicken Stir Fry",
+  "description": "A fusion dish that combines the flavors of China and Morocco. Quick and easy to make, this stir fry is perfect for a weeknight dinner.",
+  "cuisine": "Chinese/Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "apple",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "hydrated soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 cup",
+      "notes": "or regular broccoli"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add broccoli and cook until tender, about 3 minutes.",
+    "Add apple and soy sauce, and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with scallions if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "moroccan",
+    "stir-fry",
+    "chicken",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hydrated-light-chinese-apple-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:17:01.045Z"
+}
