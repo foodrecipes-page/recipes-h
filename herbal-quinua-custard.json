@@ -1,0 +1,81 @@
+{
+  "slug": "herbal-quinua-custard",
+  "title": "Herbal Custard Quinua Pudding",
+  "description": "A sweet and soothing dessert featuring quinua, herbal flavors, and a creamy custard.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Quinua",
+      "amount": "1 cup rinsed and drained",
+      "notes": null
+    },
+    {
+      "name": "Herbal tea",
+      "amount": "1 cup steeped",
+      "notes": "cooled"
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup store-bought or homemade",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon melted",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "Whipped cream (optional)",
+      "amount": null,
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine quinua and herbal tea. Cook over low heat, stirring occasionally, until quinua is tender.",
+    "2. In a separate saucepan, warm the custard over low heat, stirring occasionally.",
+    "3. Add the sugar, melted butter, vanilla extract, and salt to the quinua mixture. Stir to combine.",
+    "4. Fold the warmed custard into the quinua mixture until well combined.",
+    "5. Pour the mixture into individual serving cups or ramekins.",
+    "6. Refrigerate until chilled, at least 2 hours.",
+    "7. Top with whipped cream, if desired.",
+    "8. Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "quinoa-recipe",
+    "herbal-recipe",
+    "custard-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-quinua-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:44:23.909Z"
+}
