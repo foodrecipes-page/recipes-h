@@ -17376,5 +17376,19 @@
     "cuisine": "thai",
     "totalTimeMin": 110,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-argentinian-freekeh-pilaf--italian",
+    "title": "Argentinian-Style Hearty Italian Pilaf",
+    "tags": [
+      "italian",
+      "argentinian",
+      "pilaf",
+      "freekeh",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
