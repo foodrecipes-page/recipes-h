@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-holiday-uruguayan-rapeseed-skewers--chinese",
+  "title": "Uruguayan-inspired Chinese BBQ Skewers",
+  "description": "A fusion twist on traditional Chinese BBQ, featuring Uruguayan-inspired flavors and rapeseed oil.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "holiday spices",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "hearty soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, bell peppers, onion, and garlic onto skewers.",
+    "In a small bowl, whisk together rapeseed oil, holiday spices, and hearty soy sauce.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "Serve immediately and enjoy!",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "bbq",
+    "skewers",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-holiday-uruguayan-rapeseed-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:22:53.502Z"
+}
