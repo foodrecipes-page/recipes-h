@@ -2894,14 +2894,12 @@
   },
   {
     "slug": "hearty-chewy-jamaican-blueberries-bake",
-    "title": "Hearty Chewy Jamaican Blueberries Bake",
+    "title": "Jamaican Blueberry Bake",
     "tags": [
-      "baked-goods",
-      "brunch-recipe",
-      "high-fiber",
-      "jamaican-cuisine",
-      "keto-friendly",
-      "low-carb"
+      "blueberry",
+      "jamaican",
+      "bake",
+      "dessert"
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 55,
@@ -4445,18 +4443,17 @@
   },
   {
     "slug": "hearty-flaky-polish-minari-pierogi",
-    "title": "Hearty Flaky Polish Minari Pierogi",
+    "title": "Pan-Seared Polish Pierogi with Minari and Polish Sausage",
     "tags": [
-      "diabetic-friendly",
-      "flaky",
-      "hearty",
-      "low-sodium",
-      "minari",
+      "pierogi",
       "polish",
-      "weeknight"
+      "minari",
+      "sausage",
+      "dinner",
+      "european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -8593,16 +8590,14 @@
   },
   {
     "slug": "hearty-roasted-malaysian-vegetable-satay",
-    "title": "Hearty Roasted Malaysian Vegetable Satay",
+    "title": "Malaysian Satay with Roasted Vegetables",
     "tags": [
-      "kosher-friendly",
-      "malaysian-food",
-      "midnight-cravings",
-      "roasted-vegetables",
+      "malaysian",
+      "satay",
       "vegetarian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -12353,18 +12348,16 @@
   },
   {
     "slug": "heavenly-syrian-tofu-tagine",
-    "title": "Heavenly Syrian Tofu Tagine",
+    "title": "Syrian-Style Tagine Stew with Tofu",
     "tags": [
-      "gluten-free",
-      "jain-friendly",
-      "one-pot",
       "syrian",
       "tagine",
+      "stew",
       "tofu",
-      "vegan"
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -14188,15 +14181,15 @@
   },
   {
     "slug": "herbal-quinua-custard",
-    "title": "Herbal Quinua Custard",
+    "title": "Herbal Custard Quinua Pudding",
     "tags": [
-      "quinua",
-      "custard",
-      "peruvian",
-      "honey"
+      "dessert",
+      "quinoa-recipe",
+      "herbal-recipe",
+      "custard-recipe"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17342,6 +17335,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 110,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-holiday-uruguayan-rapeseed-skewers--chinese",
+    "title": "Uruguayan-inspired Chinese BBQ Skewers",
+    "tags": [
+      "chinese",
+      "bbq",
+      "skewers",
+      "uruguayan"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
     "shard": "h"
   }
 ]
