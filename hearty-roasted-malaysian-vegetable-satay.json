@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-roasted-malaysian-vegetable-satay",
+  "title": "Malaysian Satay with Roasted Vegetables",
+  "description": "A flavorful and colorful dish that combines the rich flavors of Malaysia with the earthy sweetness of roasted vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed Vegetables (bell peppers, zucchini, carrots)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Peanut Sauce (satay)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roasted Peanuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the mixed vegetables in coconut oil, coriander, cumin, salt, and black pepper. Spread on a baking sheet and roast for 20-25 minutes or until tender.",
+    "In a blender, combine peanut sauce, ginger, and garlic. Blend until smooth.",
+    "Heat a grill or grill pan to medium-high heat. Thread the roasted vegetables onto skewers and brush with peanut sauce.",
+    "Grill the satay for 2-3 minutes per side or until slightly charred.",
+    "Serve the satay with additional peanut sauce and roasted peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "satay",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-roasted-malaysian-vegetable-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:35:13.293Z"
+}
