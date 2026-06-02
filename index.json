@@ -417,16 +417,14 @@
   },
   {
     "slug": "hangover-cure-kenyan-bar-stir-fry",
-    "title": "hangover-cure kenyan bar stir-fry",
+    "title": "Kenyan Hangover Cure Stir Fry",
     "tags": [
-      "cheese-pull",
+      "breakfast",
       "hangover-cure",
-      "one-pan",
-      "rich-and-umami",
-      "weeknight"
+      "kenyan"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 22,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -2840,16 +2838,15 @@
   },
   {
     "slug": "hearty-charred-ukrainian-yukon-gold-potatoes-gratin",
-    "title": "Hearty Charred Ukrainian Yukon Gold Potatoes Gratin",
+    "title": "Charred Potato Gratin",
     "tags": [
-      "gratin",
-      "meal-prep",
-      "robata-grill",
       "ukrainian",
+      "side-dish",
+      "potatoes",
       "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -4980,15 +4977,14 @@
   },
   {
     "slug": "hearty-german-potato-casserole",
-    "title": "Hearty German Potato Casserole",
+    "title": "German Potato Casserole",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pan",
-      "potato-dish",
-      "weeknight"
+      "german",
+      "potato",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "h"
   },
