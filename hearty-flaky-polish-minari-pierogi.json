@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-flaky-polish-minari-pierogi",
+  "title": "Pan-Seared Polish Pierogi with Minari and Polish Sausage",
+  "description": "A hearty and flavorful dish featuring pan-seared pierogi filled with minari and served with polish sausage.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish Pierogi",
+      "amount": "1 package (24-30 count)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Minari",
+      "amount": "1 bunch",
+      "notes": "korean radish"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": "kielbasa"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)"
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1/4 cup (optional)"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pierogi according to package instructions (usually 3-5 minutes).",
+    "While the pierogi are cooking, melt 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the polish sausage to the skillet and cook until browned, about 3-4 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet.",
+    "Add the minari to the skillet and cook until slightly caramelized, about 5 minutes.",
+    "Add the cooked pierogi to the skillet and toss with the minari and sausage.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley and grated cheddar cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "polish",
+    "minari",
+    "sausage",
+    "dinner",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-flaky-polish-minari-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:03:03.026Z"
+}
