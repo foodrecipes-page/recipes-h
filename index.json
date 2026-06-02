@@ -2691,17 +2691,16 @@
   },
   {
     "slug": "hearty-char-grilled-korean-fruit-skillet",
-    "title": "Hearty Char Grilled Korean Fruit Skillet",
+    "title": "Grilled Korean BBQ Skillet",
     "tags": [
-      "easy-to-make",
-      "fruit-based",
-      "korean-cuisine",
-      "low-glycemic",
-      "one-pan",
-      "vegetarian"
+      "korean",
+      "bbq",
+      "skillet",
+      "grilled",
+      "beef"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
