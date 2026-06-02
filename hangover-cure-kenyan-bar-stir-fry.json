@@ -1,0 +1,87 @@
+{
+  "slug": "hangover-cure-kenyan-bar-stir-fry",
+  "title": "Kenyan Hangover Cure Stir Fry",
+  "description": "A delicious and spicy Kenyan-inspired dish to alleviate hangover symptoms. Stir-fry your way to recovery!",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kenyan hangover cure",
+      "amount": "1 tablespoon",
+      "notes": "Available at local markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Barbecue sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and bell pepper and sauté until softened.",
+    "Add mushrooms and cook until tender.",
+    "Add garlic and cook for 1 minute.",
+    "Add Kenyan hangover cure, stir-fry sauce, and barbecue sauce. Stir well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-kenyan-bar-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:43:33.445Z"
+}
