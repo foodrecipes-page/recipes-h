@@ -17272,17 +17272,16 @@
   },
   {
     "slug": "hydrated-light-chinese-apple-tagine",
-    "title": "Hydrated Light Chinese Apple Tagine",
+    "title": "Chinese-Tagine Chicken Stir Fry",
     "tags": [
-      "chinese-food",
-      "dehydrated",
-      "fermented",
-      "low-sodium",
-      "one-pot",
-      "vegetarian"
+      "chinese",
+      "moroccan",
+      "stir-fry",
+      "chicken",
+      "apple"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 140,
+    "cuisine": "Chinese/Moroccan",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17335,6 +17334,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-ukrainian-beef-stew--german",
+    "title": "German Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "ukrainian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 110,
     "shard": "h"
   }
 ]
