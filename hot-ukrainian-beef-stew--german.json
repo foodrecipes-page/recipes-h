@@ -1,0 +1,93 @@
+{
+  "slug": "hot-ukrainian-beef-stew--german",
+  "title": "German Beef Stew",
+  "description": "A hearty and flavorful stew originating from Ukraine, adapted with a German twist.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian Sausage (such as Kielbasa)",
+      "amount": "1 pound",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove from pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced carrots and potatoes, cooking for 5 minutes.",
+    "Add the beef broth, tomato paste, salt, and pepper, stirring to combine.",
+    "Return the browned beef to the pot, cover, and bring to a boil.",
+    "Reduce heat to low and simmer for 1 1/2 hours, or until the meat is tender.",
+    "Add the Ukrainian sausage to the pot and simmer for an additional 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-ukrainian-beef-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:10:14.550Z"
+}
