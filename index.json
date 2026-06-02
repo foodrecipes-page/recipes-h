@@ -17349,5 +17349,32 @@
     "cuisine": "Chinese",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-malaysian-frankfurter-dumplings--french",
+    "title": "French-Style Frankfurter Dumplings",
+    "tags": [
+      "frankfurter",
+      "dumplings",
+      "french-cuisine",
+      "hearty-meal",
+      "malaysian-flavor"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-ukrainian-beef-stew--thai",
+    "title": "Thai Beef Stew",
+    "tags": [
+      "thai",
+      "beef",
+      "stew",
+      "comfortfood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 110,
+    "shard": "h"
   }
 ]
