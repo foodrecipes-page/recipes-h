@@ -1,0 +1,106 @@
+{
+  "slug": "heavenly-syrian-tofu-tagine",
+  "title": "Syrian-Style Tagine Stew with Tofu",
+  "description": "A flavorful and hearty stew made with tender tofu, aromatic spices, and sweet heavenly dates. Inspired by traditional Syrian cuisine.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "14 oz"
+    },
+    {
+      "name": "heavenly dates",
+      "amount": "4-6",
+      "notes": "pitted"
+    },
+    {
+      "name": "syrian olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add bell pepper and cook until tender, about 5 minutes.",
+    "Add tofu, olives, and dates. Stir to combine.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "tagine",
+    "stew",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-syrian-tofu-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:37:54.752Z"
+}
