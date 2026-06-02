@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-argentinian-freekeh-pilaf--italian",
+  "title": "Argentinian-Style Hearty Italian Pilaf",
+  "description": "A flavorful twist on traditional Italian pilaf, infused with the bold flavors of Argentinian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hearty freekeh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Argentinian-style Italian sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the Italian sausage and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the freekeh, pilaf, dried oregano, salt, and black pepper. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "argentinian",
+    "pilaf",
+    "freekeh",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-argentinian-freekeh-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:34:51.618Z"
+}
