@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-charred-ukrainian-yukon-gold-potatoes-gratin",
+  "title": "Charred Potato Gratin",
+  "description": "A hearty Ukrainian-inspired side dish made with charred potatoes, gold potatoes, and a crispy gratin topping.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Hearty potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Char the potatoes by placing them on a baking sheet and cooking them in the oven for 10 minutes, or until they have a nice char on the outside.",
+    "Remove the potatoes from the oven and let them cool slightly.",
+    "In a large bowl, combine the charred potatoes, olive oil, salt, black pepper, and garlic powder.",
+    "Mix well to combine.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Sprinkle the chopped parsley on top of the potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "side-dish",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-charred-ukrainian-yukon-gold-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:08:00.357Z"
+}
