@@ -1,0 +1,92 @@
+{
+  "slug": "hot-spicy-chinese-fish-dumplings",
+  "title": "Pan-Fried Dumplings with Spicy Sauce",
+  "description": "A classic Chinese dish featuring pan-fried dumplings served with a spicy sauce. This recipe is perfect for a quick dinner or lunch.",
+  "cuisine": "Chinese",
+  "diet": [
+    "null"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dumplings (Chinese Pan-Fried)",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, minced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Hot Sauce (e.g., Sriracha)",
+      "amount": "1-2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the ginger and garlic and stir-fry until fragrant, about 30 seconds.",
+    "Add the dumplings and cook until the bottoms are golden brown, about 2-3 minutes.",
+    "Add the soy sauce, rice vinegar, sesame oil, and hot sauce to the skillet. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened and the dumplings are coated.",
+    "Season with salt and pepper to taste.",
+    "Serve the pan-fried dumplings hot, garnished with green onions and sesame seeds if desired.",
+    "Note: You can also serve the dumplings with a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-spicy-chinese-fish-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:15:41.205Z"
+}
