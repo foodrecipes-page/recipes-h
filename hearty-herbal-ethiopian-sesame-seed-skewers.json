@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-herbal-ethiopian-sesame-seed-skewers",
+  "title": "Ethiopian Skewers with Sesame",
+  "description": "A flavorful and aromatic Ethiopian-inspired dish featuring tender meat and crunchy sesame seeds. Serve with your favorite sides for a satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skewers",
+      "amount": "1 pound",
+      "notes": "Beef or lamb work well for this recipe"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "Toasted sesame seeds add a nice crunch and nutty flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chop onion thinly for best results"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic adds depth to the skewers"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Grated ginger adds a warm, spicy flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality olive oil for the best flavor"
+    },
+    {
+      "name": "ethiopian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Adjust spice level to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, Ethiopian spice blend, salt, and garlic.",
+    "Add the onion and ginger to the bowl and mix well.",
+    "Thread meat and onion mixture onto skewers.",
+    "Brush skewers with olive oil and season with salt.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "During the last 2 minutes of cooking, sprinkle sesame seeds over the skewers.",
+    "Serve skewers hot and garnish with additional sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "skewers",
+    "grilled",
+    "sesame"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-ethiopian-sesame-seed-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:56:04.855Z"
+}
