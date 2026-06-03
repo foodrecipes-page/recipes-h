@@ -11687,18 +11687,15 @@
   },
   {
     "slug": "hearty-venezuelan-beef-skewers",
-    "title": "Hearty Venezuelan Beef Skewers",
+    "title": "Beef Skewers with Venezuelan Flair",
     "tags": [
       "beef",
-      "broiled",
-      "high-protein",
-      "one-pan",
-      "skewers",
       "venezuelan",
-      "weeknight"
+      "grill",
+      "skewers"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 36,
     "shard": "h"
   },
   {
@@ -12015,17 +12012,15 @@
   },
   {
     "slug": "heavenly-andalusian-potatoes-tart",
-    "title": "Heavenly Andalusian Potatoes Tart",
+    "title": "Heavenly Andalusian Tart with Garlic Potatoes",
     "tags": [
-      "indulgent",
-      "jammy",
-      "mediterranean",
-      "potato-tart",
-      "puff-pastry",
-      "quick-bake"
+      "spanish",
+      "vegetarian",
+      "tart",
+      "garlic-potatoes"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
