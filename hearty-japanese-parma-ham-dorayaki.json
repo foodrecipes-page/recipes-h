@@ -1,0 +1,66 @@
+{
+  "slug": "hearty-japanese-parma-ham-dorayaki",
+  "title": "Pan-Seared Dorayaki with Ham and Parmesan",
+  "description": "A sweet and savory twist on traditional Japanese dorayaki, filled with crispy ham and parmesan cheese.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dorayaki",
+      "amount": "4",
+      "notes": "Japanese-style pancakes"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": "Thinly sliced, preferably prosciutto"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together honey and butter until well combined.",
+    "2. Heat a non-stick pan over medium heat.",
+    "3. Cook the dorayaki for 2-3 minutes on each side, until lightly browned.",
+    "4. Top each dorayaki with a slice of ham and a sprinkle of parmesan cheese.",
+    "5. Drizzle the honey-butter mixture over the top of each dorayaki.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-japanese-parma-ham-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:54:02.176Z"
+}
