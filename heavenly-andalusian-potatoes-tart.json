@@ -1,0 +1,83 @@
+{
+  "slug": "heavenly-andalusian-potatoes-tart",
+  "title": "Heavenly Andalusian Tart with Garlic Potatoes",
+  "description": "A delicious and savory tart filled with the flavors of Andalusia, paired with crispy garlic potatoes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Andalusian olives",
+      "amount": "1 cup, pitted",
+      "notes": null
+    },
+    {
+      "name": "Heavenly cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and thinly sliced",
+      "notes": "see instructions for cooking"
+    },
+    {
+      "name": "Tart crust",
+      "amount": "1 pre-made",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tart crust and place on a baking sheet.",
+    "Toss the sliced potatoes with olive oil, minced garlic, salt, and pepper. Spread them on the baking sheet and roast in the oven for 20-25 minutes or until crispy.",
+    "Meanwhile, layer the Andalusian olives and shredded Heavenly cheese on the tart crust.",
+    "Once the potatoes are done, remove them from the oven and sprinkle with chopped parsley.",
+    "Arrange the roasted potatoes on top of the tart filling.",
+    "Bake the tart in the preheated oven for an additional 10-15 minutes or until the crust is golden brown.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "tart",
+    "garlic-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-andalusian-potatoes-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:49:25.434Z"
+}
