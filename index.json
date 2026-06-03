@@ -6659,15 +6659,13 @@
   },
   {
     "slug": "hearty-japanese-parma-ham-dorayaki",
-    "title": "Hearty Japanese Parma Ham Dorayaki",
+    "title": "Pan-Seared Dorayaki with Ham and Parmesan",
     "tags": [
-      "lazy-sunday",
-      "macrobiotic",
-      "quick",
-      "savory-sweet",
-      "snack"
+      "breakfast",
+      "dessert",
+      "japanese"
     ],
-    "cuisine": "Japanese",
+    "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "h"
   },
