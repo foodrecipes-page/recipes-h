@@ -14580,18 +14580,14 @@
   },
   {
     "slug": "herbed-crunchy-indian-cabbage-salad",
-    "title": "Herbed Crunchy Indian Cabbage Salad",
+    "title": "Cabbage and Crunchy Salad with Indian Twist",
     "tags": [
-      "crunchy",
-      "fodmap-friendly",
-      "mangalorean",
-      "quick",
       "salad",
-      "sour",
+      "indian",
       "vegetarian"
     ],
-    "cuisine": "Mangalorean",
-    "totalTimeMin": 15,
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "h"
   },
   {
@@ -17379,6 +17375,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-charred-ukrainian-yukon-gold-potatoes-gratin--italian",
+    "title": "Italian Charred Potato Gratin",
+    "tags": [
+      "italian",
+      "side-dish",
+      "potato-gratin",
+      "charred-potatoes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "h"
   }
 ]
