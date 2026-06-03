@@ -5646,18 +5646,15 @@
   },
   {
     "slug": "hearty-herbal-ethiopian-sesame-seed-skewers",
-    "title": "Hearty Herbal Ethiopian Sesame Seed Skewers",
+    "title": "Ethiopian Skewers with Sesame",
     "tags": [
-      "ethiopian-cuisine",
-      "floral",
-      "glassy-jelly",
-      "gluten-free",
-      "herbal",
-      "sesame-seed",
-      "special-occasion"
+      "ethiopian",
+      "skewers",
+      "grilled",
+      "sesame"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
