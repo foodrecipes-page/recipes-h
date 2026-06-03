@@ -1,0 +1,57 @@
+{
+  "slug": "herbed-crunchy-indian-cabbage-salad",
+  "title": "Cabbage and Crunchy Salad with Indian Twist",
+  "description": "A refreshing salad with crunch and flavor from Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup, chopped crunchy snack"
+    },
+    {
+      "name": "herbed",
+      "amount": "1/4 cup, chopped fresh herbs (such as cilantro or parsley)"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups, mixed greens"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage and chopped crunchy snack.",
+    "In a small bowl, whisk together the chopped fresh herbs and a squeeze of lemon juice.",
+    "Pour the herb mixture over the cabbage mixture and toss to combine.",
+    "Add the mixed greens to the bowl and toss again to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbed-crunchy-indian-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:20:12.113Z"
+}
