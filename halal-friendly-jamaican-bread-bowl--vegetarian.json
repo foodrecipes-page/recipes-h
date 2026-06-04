@@ -1,0 +1,72 @@
+{
+  "slug": "halal-friendly-jamaican-bread-bowl--vegetarian",
+  "title": "Jamaican Veggie Wrap",
+  "description": "A flavorful and healthy Jamaican-inspired wrap filled with roasted vegetables and served in a crispy bread bowl.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1  loaf"
+    },
+    {
+      "name": "Jamaican Bread Bowl",
+      "amount": "4  bowls"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1  cup, peeled and chopped"
+    },
+    {
+      "name": "Red Bell Peppers",
+      "amount": "1  cup, sliced"
+    },
+    {
+      "name": "Yellow Onions",
+      "amount": "1  cup, sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1  cup, sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4  cup, chopped"
+    },
+    {
+      "name": "Scotch Bonnet Peppers",
+      "amount": "2  peppers, chopped (optional)"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2  tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the bread into 1-inch thick slices and toast until crispy.",
+    "In a large bowl, toss together the chopped carrots, sliced red bell peppers, sliced yellow onions, and sliced zucchini.",
+    "Add the chopped cilantro, Scotch Bonnet peppers (if using), and Jamaican Jerk Seasoning to the bowl and toss to combine.",
+    "Transfer the vegetable mixture to the toasted bread slices and top with a dollop of your favorite spread or hummus.",
+    "Serve the Jamaican Veggie Wrap in a crispy bread bowl and enjoy!",
+    "Note: If using Scotch Bonnet peppers, be sure to wear gloves when handling to avoid skin irritation."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "vegetarian",
+    "wrap",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-friendly-jamaican-bread-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:07:06.020Z"
+}
