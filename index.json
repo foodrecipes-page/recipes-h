@@ -10821,16 +10821,13 @@
     "slug": "hearty-syrian-lamb-bowl",
     "title": "Hearty Syrian Lamb Bowl",
     "tags": [
-      "syrian",
       "lamb",
-      "garlic-sauce",
-      "sous-vide",
-      "egg-free",
-      "bowl",
-      "hearty"
+      "syrian",
+      "hearty",
+      "bowl"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 135,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -17392,6 +17389,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-roasted-saudi-arabian-polish-sausage-skewers--mexican",
+    "title": "Mexican Sausage Skewers",
+    "tags": [
+      "mexican",
+      "grill",
+      "skewers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "h"
   }
 ]
