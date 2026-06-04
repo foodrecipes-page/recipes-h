@@ -1,0 +1,71 @@
+{
+  "slug": "hcrispy-wholesome-salt-cod-pilaf",
+  "title": "Pan-Seared Cod with Pilaf",
+  "description": "A simple and flavorful dish featuring crispy cod and wholesome pilaf. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "1.2 lbs",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "hcrispy",
+      "amount": "1/4 cup",
+      "notes": "Crushed for topping"
+    },
+    {
+      "name": "wholesome",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the cod fillet and pat dry with paper towels.",
+    "Season the cod with salt to taste.",
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add the cod to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the cod is cooking, heat a tablespoon of oil in a separate skillet over medium heat.",
+    "Add the cooked pilaf to the skillet and stir to combine with the oil.",
+    "Remove the cod from the oven and top with crushed hcrispy.",
+    "Serve the cod on top of the pilaf.",
+    "Garnish with additional hcrispy if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "comfort-food",
+    "easy-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hcrispy-wholesome-salt-cod-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:00:06.213Z"
+}
