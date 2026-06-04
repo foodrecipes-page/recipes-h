@@ -7528,18 +7528,16 @@
   },
   {
     "slug": "hearty-midnight-cravings-french-sausages-tagine",
-    "title": "Hearty Midnight Cravings French Sausages Tagine",
+    "title": "French Sausage Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "moroccan",
-      "north-african",
-      "one-pan",
-      "sausage-dish",
-      "weeknight"
+      "french",
+      "sausages",
+      "tagine",
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
