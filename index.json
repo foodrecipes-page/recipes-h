@@ -17402,5 +17402,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hungry-harmonious-german-kinako-wrap--italian",
+    "title": "Italian Wrap",
+    "tags": [
+      "italian",
+      "quick-lunch",
+      "wrap"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-friendly-jamaican-bread-bowl--vegetarian",
+    "title": "Jamaican Veggie Wrap",
+    "tags": [
+      "jamaican",
+      "vegetarian",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-syrian-tofu-tagine--german",
+    "title": "German-Style Tagine Chicken with Heavenly Sauce",
+    "tags": [
+      "german",
+      "german-chicken",
+      "heavenly-sauce",
+      "syrian-olives",
+      "tagine-spice-blend"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "h"
   }
 ]
