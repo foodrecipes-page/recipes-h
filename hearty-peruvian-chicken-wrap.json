@@ -1,0 +1,67 @@
+{
+  "slug": "hearty-peruvian-chicken-wrap",
+  "title": "Peruvian Chicken Wrap",
+  "description": "A flavorful and spicy Peruvian-inspired chicken wrap, perfect for a quick lunch or dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless"
+    },
+    {
+      "name": "peruvian aji amarillo sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "hard-boiled egg",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "hearty wrap",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "Grill or cook the chicken in a skillet until cooked through.",
+    "Slice the chicken into thin strips.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Spread the Peruvian aji amarillo sauce on the wrap.",
+    "Top with sliced chicken, red onion, cilantro, and hard-boiled egg.",
+    "Drizzle with additional aji amarillo sauce if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peruvian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:52:30.068Z"
+}
