@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-buttery-ukrainian-bun-bao",
+  "title": "Bun and Bao Ukrainian Sandwich",
+  "description": "A hearty and buttery sandwich featuring Ukrainian-style buns and bao filled with savory ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ukrainian buns",
+      "amount": "4",
+      "notes": "soft and slightly sweet"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4",
+      "notes": "flaky and savory"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened for spreading"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "sweet and savory"
+    },
+    {
+      "name": "Sliced cheddar cheese",
+      "amount": "4 slices",
+      "notes": "melted and gooey"
+    },
+    {
+      "name": "Dill pickles",
+      "amount": "1/4 cup",
+      "notes": "sour and tangy"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or skillet over medium heat.",
+    "Butter the Ukrainian buns and bao buns on the outside.",
+    "Place the buns on the griddle and toast until golden brown.",
+    "Spread a layer of caramelized onions on the bottom bun of each sandwich.",
+    "Add 2 slices of cheddar cheese on top of the onions.",
+    "Add 2 slices of dill pickles on top of the cheese.",
+    "Place the top bun on each sandwich.",
+    "Garnish with chopped fresh dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "sandwich",
+    "bao",
+    "bun",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-buttery-ukrainian-bun-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:24:50.718Z"
+}
