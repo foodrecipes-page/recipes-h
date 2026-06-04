@@ -17441,5 +17441,31 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "h"
+  },
+  {
+    "slug": "hangover-cure-kenyan-matooke-stew--keto",
+    "title": "Kenyan Matooke Stew",
+    "tags": [
+      "kenyan",
+      "matooke",
+      "stew",
+      "keto"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-ukrainian-beef-stew--japanese",
+    "title": "Japanese Beef Stew",
+    "tags": [
+      "japanese",
+      "beef-stew",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 175,
+    "shard": "h"
   }
 ]
