@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-roasted-saudi-arabian-polish-sausage-skewers--mexican",
+  "title": "Mexican Sausage Skewers",
+  "description": "A twist on traditional Mexican street food, these sausage skewers are perfect for a quick and easy dinner. Simply marinate the sausage in a blend of spices and grill to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage (Mexican Chorizo)",
+      "amount": "1 pound",
+      "notes": "you can substitute with polish sausage if chorizo is not available"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, garlic, and mexican seasoning.",
+    "Add the sausage to the marinade and refrigerate for at least 30 minutes.",
+    "Thread the sausage, onion, bell pepper, zucchini, and tomato onto the skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausage is cooked through.",
+    "Serve hot, garnished with cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-roasted-saudi-arabian-polish-sausage-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:31:26.334Z"
+}
