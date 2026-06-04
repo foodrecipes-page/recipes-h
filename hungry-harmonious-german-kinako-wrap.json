@@ -1,0 +1,85 @@
+{
+  "slug": "hungry-harmonious-german-kinako-wrap",
+  "title": "Harmonious German Wrap",
+  "description": "A delicious German-inspired wrap filled with harmonious flavors and textures.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Kinako",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hungry",
+      "amount": "1 medium",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Harmonious",
+      "amount": "1/2 cup",
+      "notes": "Shredded or sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "German Mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add sliced Hungry to the skillet and cook for 3-4 minutes, or until tender.",
+    "3. In a separate bowl, mix together Kinako and German Mustard.",
+    "4. Add shredded Harmonious to the bowl and mix well.",
+    "5. Warm the Wrap in the microwave or in a dry skillet.",
+    "6. Assemble the wrap by spreading the Kinako-German Mustard mixture on the bottom half of the Wrap.",
+    "7. Add cooked Hungry, cucumber slices, and a sprinkle of salt and pepper on top.",
+    "8. Fold the top half of the Wrap over the filling and serve immediately.",
+    "9. Slice in half and serve with additional Kinako-German Mustard sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "wrap",
+    "lunch",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hungry-harmonious-german-kinako-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:22:19.468Z"
+}
