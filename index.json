@@ -1213,16 +1213,14 @@
   },
   {
     "slug": "hcrispy-wholesome-salt-cod-pilaf",
-    "title": "HCrispy Wholesome SaltCod Pilaf",
+    "title": "Pan-Seared Cod with Pilaf",
     "tags": [
-      "anti-inflammatory",
-      "nutritious",
-      "quick-cooking",
-      "sous-vide",
-      "wholesome"
+      "seafood",
+      "comfort-food",
+      "easy-meals"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 90,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
