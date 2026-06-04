@@ -1,0 +1,101 @@
+{
+  "slug": "hearty-syrian-lamb-bowl",
+  "title": "Hearty Syrian Lamb Bowl",
+  "description": "A flavorful and nutritious bowl filled with tender lamb, rich spices, and fresh vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven or oven-safe pot, heat the olive oil over medium-high heat.",
+    "Add the lamb cubes and brown on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Add the cumin, coriander, paprika, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the chickpeas to the pot and stir to combine.",
+    "Return the lamb to the pot and stir to combine.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the lamb and chickpeas over a bed of fluffy rice or with some crusty bread, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "syrian",
+    "hearty",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:17:27.309Z"
+}
