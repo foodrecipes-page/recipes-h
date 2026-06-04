@@ -15988,17 +15988,15 @@
   },
   {
     "slug": "hot-brazilian-eggplant-stew",
-    "title": "Hot Brazilian Eggplant Stew",
+    "title": "Brazilian Stew with Grilled Eggplant",
     "tags": [
       "brazilian",
-      "hearty",
-      "low-carb",
-      "one-pot",
-      "veggie",
-      "whole30"
+      "stew",
+      "eggplant",
+      "ground-beef"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -17057,17 +17055,16 @@
   },
   {
     "slug": "hungry-harmonious-german-kinako-wrap",
-    "title": "Hungry Harmonious German Kinako Wrap",
+    "title": "Harmonious German Wrap",
     "tags": [
-      "german-cuisine",
-      "kinako-recipes",
-      "kosher-friendly",
-      "lunch-ideas",
-      "quick-meals",
-      "ssam-wrap"
+      "german",
+      "wrap",
+      "lunch",
+      "easy",
+      "vegetarian"
     ],
     "cuisine": "German",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -17383,6 +17380,18 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-charred-ukrainian-yukon-gold-potatoes-gratin--german",
+    "title": "Bavarian Potato Gratin",
+    "tags": [
+      "german",
+      "potato",
+      "gratin"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 75,
     "shard": "h"
   }
 ]
