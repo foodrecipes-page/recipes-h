@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-midnight-cravings-french-sausages-tagine",
+  "title": "French Sausage Tagine",
+  "description": "A hearty French-inspired dish made with sausages and a flavorful tagine sauce. Perfect for a cold winter's night.",
+  "cuisine": "French",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "1 pound, sliced",
+      "notes": "Use French sausages such as Toulouse or Kielbasa"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": "Yellow onion works best"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Mince for best flavor"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality paste for best flavor"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can, 14.5 oz",
+      "notes": "Look for low-sodium option"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Use low-sodium broth for best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use good-quality oil for best flavor"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Add just before serving for best flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large Dutch oven or heavy pot over medium-high heat.",
+    "Add sliced sausages and cook until browned, about 5 minutes.",
+    "Remove sausages from pot and set aside.",
+    "Add chopped onion to pot and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add diced tomatoes, chicken broth, and browned sausages.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 20-25 minutes or until sausages are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "sausages",
+    "tagine",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-midnight-cravings-french-sausages-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:09:34.209Z"
+}
