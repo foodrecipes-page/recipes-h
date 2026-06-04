@@ -1,0 +1,85 @@
+{
+  "slug": "hot-brazilian-eggplant-stew",
+  "title": "Brazilian Stew with Grilled Eggplant",
+  "description": "A hearty and flavorful stew originating from Brazil, served with a side of grilled eggplant.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "hot",
+      "amount": "1 teaspoon",
+      "notes": "hot sauce of choice"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the tomato paste, if using, and cook for 1 minute.",
+    "Add the beef broth, hot sauce, and stew. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Meanwhile, grill the eggplant slices until tender and lightly charred.",
+    "Serve the stew hot, garnished with the grilled eggplant and chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "stew",
+    "eggplant",
+    "ground-beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-brazilian-eggplant-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:42:28.541Z"
+}
