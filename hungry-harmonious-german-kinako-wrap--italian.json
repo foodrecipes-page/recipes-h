@@ -1,0 +1,65 @@
+{
+  "slug": "hungry-harmonious-german-kinako-wrap--italian",
+  "title": "Italian Wrap",
+  "description": "A quick and easy Italian-inspired wrap filled with ham, mozzarella cheese, and fresh basil. Perfect for a quick lunch or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "4"
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap the tortilla in a damp paper towel and microwave for 20-30 seconds to make it pliable.",
+    "Lay the wrap flat and arrange 2 slices of ham in the center of the wrap.",
+    "Top the ham with 2 slices of mozzarella cheese and sprinkle with Italian seasoning.",
+    "Add chopped fresh basil leaves on top of the cheese.",
+    "Roll the wrap tightly to form a compact roll.",
+    "Place the roll seam-side down on a baking sheet.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and the wrap is crispy.",
+    "Remove from the oven and let cool for 2-3 minutes.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "quick-lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hungry-harmonious-german-kinako-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:29:04.274Z"
+}
