@@ -2584,17 +2584,16 @@
   },
   {
     "slug": "hearty-buttery-ukrainian-bun-bao",
-    "title": "Hearty Buttery Ukrainian Bun Bao",
+    "title": "Bun and Bao Ukrainian Sandwich",
     "tags": [
-      "buttery",
-      "flaky",
-      "homemade",
-      "low-sodium",
-      "traditional",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "sandwich",
+      "bao",
+      "bun",
+      "cheese"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -3008,18 +3007,15 @@
   },
   {
     "slug": "hearty-cold-spanish-chicken-gazpacho",
-    "title": "Hearty Cold Spanish Chicken Gazpacho",
+    "title": "Spanish Gazpacho",
     "tags": [
-      "cheese-pull",
-      "date-night",
-      "floral",
-      "gazpacho",
-      "low-calorie",
+      "cold",
+      "soup",
       "spanish",
-      "weeknight"
+      "summervibes"
     ],
     "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
