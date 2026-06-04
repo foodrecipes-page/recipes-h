@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-cold-spanish-chicken-gazpacho",
+  "title": "Spanish Gazpacho",
+  "description": "A refreshing cold soup originating from Spain, made with tomatoes, peppers, and cucumbers.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Bread",
+      "amount": "1/2 cup, stale and cubed"
+    },
+    {
+      "name": "Gazpacho",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine diced tomatoes, red bell pepper, cucumber, and onion in a blender.",
+    "Add bread, gazpacho, olive oil, and white wine vinegar to the blender.",
+    "Blend until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve cold, garnished with chopped fresh herbs or croutons if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "soup",
+    "spanish",
+    "summervibes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-cold-spanish-chicken-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:19:35.307Z"
+}
