@@ -8063,16 +8063,15 @@
   },
   {
     "slug": "hearty-peruvian-chicken-wrap",
-    "title": "Hearty Peruvian Chicken Wrap",
+    "title": "Peruvian Chicken Wrap",
     "tags": [
-      "corn-husk-wrap",
-      "gluten-free",
-      "high-protein",
-      "peruvian-cuisine",
-      "weeknight-meal"
+      "chicken",
+      "peruvian",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
@@ -16898,18 +16897,14 @@
   },
   {
     "slug": "humble-portuguese-avocado-hash",
-    "title": "Humble Portuguese Avocado Hash",
+    "title": "Hummus with Hash Browns",
     "tags": [
-      "breakfast",
-      "easy",
-      "healthy",
-      "paleo",
-      "portuguese",
-      "pressure-cooker",
-      "whole30"
+      "hummus",
+      "hash-browns",
+      "appetizer"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 15,
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
