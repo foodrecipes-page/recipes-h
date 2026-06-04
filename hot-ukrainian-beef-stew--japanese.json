@@ -1,0 +1,75 @@
+{
+  "slug": "hot-ukrainian-beef-stew--japanese",
+  "title": "Japanese Beef Stew",
+  "description": "A hearty, flavorful Japanese-inspired beef stew made with tender beef and rich beef broth. Serve over steamed rice for a satisfying meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "ukrainian sour cream",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Reduce heat to medium and add hot sauce. Cook for 1 minute.",
+    "Add soy sauce, sugar, and 2 cups of beef broth. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Cover and transfer to the oven. Bake at 300°F for 2 1/2 hours or until beef is tender.",
+    "Stir in ukrainian sour cream and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 160,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef-stew",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-ukrainian-beef-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:15:59.585Z"
+}
