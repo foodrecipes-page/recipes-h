@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-algerian-ackee-hash--thai",
+  "title": "Thai Hash and Ackee Omelette",
+  "description": "A twist on traditional Thai street food, combining ackee with a spicy hash for a delicious breakfast.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 can"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "4",
+      "notes": "Freshly beaten"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Crack the eggs into a bowl and beat them with a fork until they're well mixed.",
+    "2. Add the fish sauce and soy sauce to the bowl and mix again.",
+    "3. Heat a non-stick pan over medium heat and add the hash.",
+    "4. Cook the hash for 2-3 minutes, breaking it up with a spatula as it cooks.",
+    "5. Add the ackee to the pan and stir to combine with the hash.",
+    "6. Pour the egg mixture over the ackee and hash.",
+    "7. Sprinkle the green onions and Thai red chili peppers over the top.",
+    "8. Cook the omelette for 2-3 minutes, until the eggs are set.",
+    "9. Use a spatula to fold the omelette in half.",
+    "10. Cook for another minute, until the omelette is cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "breakfast",
+    "omelette",
+    "hash",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-algerian-ackee-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:28:46.566Z"
+}
