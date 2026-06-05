@@ -1,0 +1,61 @@
+{
+  "slug": "hard-crunchy-kenyan-tomato-salad",
+  "title": "Kenyan Crunchy Tomato Salad",
+  "description": "A refreshing and crunchy salad originating from Kenya, perfect for a light meal or snack.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hard-cooked eggs",
+      "amount": "2",
+      "notes": "Boiled until hard and cooled"
+    },
+    {
+      "name": "Crunchy carrots",
+      "amount": "1 cup",
+      "notes": "Shredded or grated for added crunch"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 cups",
+      "notes": "Fresh and juicy for the best flavor"
+    },
+    {
+      "name": "Mixed greens salad",
+      "amount": "4 cups",
+      "notes": "Fresh and crisp for the base of the salad"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens salad and diced tomatoes.",
+    "2. Top the salad with shredded carrots and sliced hard-cooked eggs.",
+    "3. In a small bowl, whisk together your favorite salad dressing ingredients.",
+    "4. Pour the dressing over the salad and toss to combine.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "salad",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hard-crunchy-kenyan-tomato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:42.870Z"
+}
