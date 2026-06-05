@@ -8754,18 +8754,16 @@
   },
   {
     "slug": "hearty-salty-australian-oreo-cream-biscuits-lasagna",
-    "title": "Hearty Salted Australian Oreo Cream Biscuits Lasagna",
+    "title": "Australian Cream Biscuit Lasagna",
     "tags": [
       "australian",
-      "beef",
-      "comfort-food",
-      "diabetic-friendly",
+      "cream",
+      "biscuits",
       "lasagna",
-      "lunch",
-      "savory"
+      "dessert"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 65,
+    "cuisine": "australian",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -17484,6 +17482,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-syrian-tofu-tagine--chinese",
+    "title": "Syrian-Style Crispy Heavenly Tofu",
+    "tags": [
+      "chinese",
+      "tofu",
+      "fried-food",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
     "shard": "h"
   }
 ]
