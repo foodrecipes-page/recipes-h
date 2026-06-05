@@ -17461,5 +17461,18 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-umami-syrian-cabbage-gratin--keto",
+    "title": "Keto Syrian Cabbage Gratin",
+    "tags": [
+      "keto",
+      "syrian",
+      "cabbage",
+      "gratin"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
