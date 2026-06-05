@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-algerian-ackee-hash",
+  "title": "Hearty Algerian Ackee Hash",
+  "description": "A flavorful and filling breakfast dish that combines the tender ackee fruit with the savory flavors of Algerian cuisine. Serve with crusty bread or over eggs for a hearty meal.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee Fruit",
+      "amount": "1 can (14 oz)",
+      "notes": "Canned ackee is a convenient alternative to fresh."
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup, diced",
+      "notes": "Leftover hash browns work well for this recipe."
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, diced",
+      "notes": "Sauté the onion until softened before adding the ackee."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Mince the garlic and sauté with the onion."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Add a Middle Eastern twist with ground cumin."
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Add a touch of heat with cayenne pepper."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to taste."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add a pinch of black pepper for flavor."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced hash browns and cook for 2-3 minutes, until they start to brown.",
+    "Add the canned ackee fruit, cumin, cayenne pepper, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the ackee is heated through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "hash-browns"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-algerian-ackee-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:59:20.104Z"
+}
