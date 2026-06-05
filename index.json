@@ -687,17 +687,14 @@
   },
   {
     "slug": "hard-crunchy-kenyan-tomato-salad",
-    "title": "Hard Crunchy Kenyan Tomato Salad",
+    "title": "Kenyan Crunchy Tomato Salad",
     "tags": [
-      "bitter",
-      "brunch",
-      "crunchy",
       "kenyan",
-      "nut-free",
-      "salsa-style",
+      "salad",
+      "snack",
       "vegetarian"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 15,
     "shard": "h"
   },
@@ -17450,6 +17447,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 175,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-canadian-gruyere-gratin--keto",
+    "title": "Smoky Canadian Gratin",
+    "tags": [
+      "smoky",
+      "gratin",
+      "keto",
+      "canadian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "h"
   }
 ]
