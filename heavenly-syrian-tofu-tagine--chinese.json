@@ -1,0 +1,92 @@
+{
+  "slug": "heavenly-syrian-tofu-tagine--chinese",
+  "title": "Syrian-Style Crispy Heavenly Tofu",
+  "description": "A Chinese-inspired dish that combines the crispy exterior of Syrian-style fried tofu with the heavenly flavors of Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Heavenly rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Syrian-style panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "cruised"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for marinating"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together rice vinegar, soy sauce, brown sugar, garlic powder, salt, and black pepper.",
+    "2. Add the cubed tofu to the marinade and toss to coat. Let it sit for at least 15 minutes.",
+    "3. Preheat the vegetable oil in a large skillet over medium-high heat.",
+    "4. In a separate dish, mix together the panko breadcrumbs and cornstarch.",
+    "5. Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "6. Dredge the tofu in the breadcrumb mixture, pressing gently to adhere.",
+    "7. Fry the tofu in batches until golden brown and crispy, about 3-4 minutes per side.",
+    "8. Using a slotted spoon, transfer the fried tofu to a paper towel-lined plate to drain excess oil.",
+    "9. Serve the crispy tofu hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "tofu",
+    "fried-food",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-syrian-tofu-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:23:53.654Z"
+}
