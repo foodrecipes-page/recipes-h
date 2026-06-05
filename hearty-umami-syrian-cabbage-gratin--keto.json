@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-umami-syrian-cabbage-gratin--keto",
+  "title": "Keto Syrian Cabbage Gratin",
+  "description": "A rich and satisfying keto dish featuring caramelized cabbage and a creamy, umami-rich gratin.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, thinly sliced"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large, beaten"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt butter over medium heat. Add garlic and cook for 1-2 minutes, until fragrant.",
+    "Add sliced cabbage to the skillet and cook, stirring occasionally, for 10-12 minutes, until caramelized.",
+    "In a separate saucepan, combine chicken broth and heavy cream. Bring to a simmer over medium heat.",
+    "Reduce the cream mixture by half, stirring occasionally.",
+    "Stir in parmesan cheese until melted and smooth.",
+    "In a large baking dish, create a layer of caramelized cabbage.",
+    "Pour the cream mixture over the cabbage, followed by a layer of grated gratin.",
+    "Repeat the layers two more times, ending with a layer of gratin on top.",
+    "In a small bowl, whisk together eggs and nutmeg (if using). Pour the egg mixture over the top of the gratin.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is set.",
+    "Serve hot, garnished with chopped parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "syrian",
+    "cabbage",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-syrian-cabbage-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:14:33.626Z"
+}
