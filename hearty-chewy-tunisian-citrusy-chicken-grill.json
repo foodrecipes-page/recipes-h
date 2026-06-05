@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-chewy-tunisian-citrusy-chicken-grill",
+  "title": "Tunisian Chicken Shawarma",
+  "description": "A delicious and flavorful North African-inspired chicken shawarma recipe, perfect for a quick and tasty dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing chicken"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6 pita breads",
+      "notes": "for serving"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled turnips",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Tunisian spice blend, olive oil, lemon juice, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Warm the pita breads by wrapping them in foil and heating them on the grill for a few minutes.",
+    "Assemble the shawarma by slicing the grilled chicken into thin strips and serving it in the pita breads with the red onion, tomato, pickled turnips, parsley, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grill",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-chewy-tunisian-citrusy-chicken-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:01:08.434Z"
+}
