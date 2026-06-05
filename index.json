@@ -1721,17 +1721,12 @@
     "slug": "hearty-algerian-ackee-hash",
     "title": "Hearty Algerian Ackee Hash",
     "tags": [
-      "algerian",
       "breakfast",
-      "brunch",
-      "cheesy",
-      "easy",
-      "high-calorie",
-      "one-pan",
-      "vegetarian"
+      "vegetarian",
+      "hash-browns"
     ],
     "cuisine": "algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
