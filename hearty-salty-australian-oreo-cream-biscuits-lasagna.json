@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-salty-australian-oreo-cream-biscuits-lasagna",
+  "title": "Australian Cream Biscuit Lasagna",
+  "description": "A unique twist on traditional lasagna, this Australian-inspired dessert features layers of cream biscuits, Oreo cookies, and a rich, salty cream sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cream biscuits",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Oreo cookies, crushed",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salty biscuits",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetened cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large mixing bowl, crush the cream biscuits and Oreo cookies.",
+    "In a separate bowl, whisk together the sweetened cream, salt, and vanilla extract.",
+    "Beat in the eggs and milk until well combined.",
+    "Add the crushed biscuits and Oreo cookies to the cream mixture and stir until just combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the center is set.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cream",
+    "biscuits",
+    "lasagna",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-salty-australian-oreo-cream-biscuits-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:54:23.874Z"
+}
