@@ -2925,17 +2925,14 @@
   },
   {
     "slug": "hearty-chewy-tunisian-citrusy-chicken-grill",
-    "title": "Hearty Chewy Tunisian Citrusy Chicken Grill",
+    "title": "Tunisian Chicken Shawarma",
     "tags": [
       "chicken",
-      "citrus",
-      "creme-fraiche",
       "grill",
-      "one-pan",
-      "tunisian"
+      "north-african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 32,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17473,6 +17470,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-algerian-ackee-hash--thai",
+    "title": "Thai Hash and Ackee Omelette",
+    "tags": [
+      "thaifood",
+      "breakfast",
+      "omelette",
+      "hash",
+      "ackee"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "h"
   }
 ]
