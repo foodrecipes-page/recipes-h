@@ -1,0 +1,100 @@
+{
+  "slug": "hollow-aerated-uruguayan-dough-bowl--thai",
+  "title": "Uruguayan-Style Khao Soi",
+  "description": "A twist on the classic Thai curried noodle soup, incorporating Uruguayan flavors and hollow bread crumbs for added texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hollow bread croutons",
+      "amount": "1/2 cup",
+      "notes": "preferably aerated or hollow"
+    },
+    {
+      "name": "Uruguayan beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Dough wrappers (for wontons)",
+      "amount": "4 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Add sliced ginger and cook for an additional 2 minutes.",
+    "Add sliced Uruguayan beef and cook until browned, about 5 minutes.",
+    "Add Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add coconut milk, fish sauce, and sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the sauce has thickened slightly.",
+    "Meanwhile, prepare the wontons by placing a small spoonful of the beef and onion mixture onto a dough wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Add the wontons to the simmering sauce and cook for an additional 2-3 minutes, or until they float to the surface.",
+    "Serve the khao soi hot, garnished with hollow bread croutons, lime wedges, and your choice of toppings.",
+    "To make the hollow bread croutons, preheat your oven to 350°F (175°C). Cut the bread into small cubes and toss with a little oil until coated.",
+    "Spread the bread cubes out in a single layer on a baking sheet and bake for 5-7 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "uruguayan-beef",
+    "wontons",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-aerated-uruguayan-dough-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:21:44.576Z"
+}
