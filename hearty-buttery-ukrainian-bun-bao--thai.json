@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-buttery-ukrainian-bun-bao--thai",
+  "title": "Thai-Style Bao with Hearty Filling",
+  "description": "A twist on traditional bao, this recipe combines a hearty Ukrainian-inspired filling with the crispy, buttery texture of a Thai-style bun.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian-style ground beef",
+      "amount": "500g",
+      "notes": "Use 80/20 ground beef for the best results"
+    },
+    {
+      "name": "Thai-style bun",
+      "amount": "4",
+      "notes": "You can find these at most Asian markets or online"
+    },
+    {
+      "name": "Butter",
+      "amount": "2tbsp",
+      "notes": "Unsalted butter adds the best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2tbsp",
+      "notes": "Use a high-quality soy sauce for the best flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1tbsp",
+      "notes": "Use a light hand, as this oil can be overpowering"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the buns on a baking sheet and brush with butter. Bake for 5-7 minutes, or until golden brown.",
+    "In a large skillet, heat 1 tbsp of sesame oil over medium-high heat. Add the ground beef and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add the sliced onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the soy sauce and cook for an additional 1-2 minutes.",
+    "Season the filling with salt and pepper to taste.",
+    "To assemble the bao, place a portion of the filling onto the bottom half of each bun, then top with the top half of the bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "bao",
+    "ukrainian",
+    "hearty",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-buttery-ukrainian-bun-bao--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:24:37.288Z"
+}
