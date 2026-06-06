@@ -1,0 +1,49 @@
+{
+  "slug": "hollow-aerated-uruguayan-dough-bowl--keto",
+  "title": "Keto Uruguayan Cheese Bread",
+  "description": "A keto twist on traditional Uruguayan cheese bread, made with a hollow dough and topped with melted cheese.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hollow dough",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "aerated cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Place the hollow dough on a baking sheet.",
+    "3. Sprinkle shredded aerated cheese evenly over the dough.",
+    "4. Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "5. Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "uruguayan",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-aerated-uruguayan-dough-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:23:53.885Z"
+}
