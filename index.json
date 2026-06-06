@@ -11346,16 +11346,15 @@
   },
   {
     "slug": "hearty-uruguayan-beef-empanadas",
-    "title": "Hearty Uruguayan Beef Empanadas",
+    "title": "Uruguayan Beef Empanadas",
     "tags": [
-      "baked",
       "beef",
-      "comfort-food",
-      "diabetic-friendly",
-      "midweek"
+      "empanadas",
+      "uruguayan",
+      "snack"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -17505,6 +17504,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-peruvian-chicken-wrap--japanese",
+    "title": "Teriyaki Chicken Wrap",
+    "tags": [
+      "chicken",
+      "japanese",
+      "wrap",
+      "peruvian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
