@@ -17492,5 +17492,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 23,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-tender-light-cashews-stir-fry--mexican",
+    "title": "Cashew Fajita with Herbal Salsa",
+    "tags": [
+      "mexican",
+      "cashews",
+      "vegan",
+      "easy",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
