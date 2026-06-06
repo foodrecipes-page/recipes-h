@@ -1891,16 +1891,15 @@
   },
   {
     "slug": "hearty-american-mushroom-bake",
-    "title": "Hearty American Mushroom Bake",
+    "title": "Hearty Mushroom Bake",
     "tags": [
-      "american-classic",
-      "casserole",
-      "comfort-food",
-      "mushroom-lovers",
-      "weeknight"
+      "hearty",
+      "mushroom",
+      "american",
+      "bake"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -17589,6 +17588,18 @@
     ],
     "cuisine": "uruguayan",
     "totalTimeMin": 17,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-aerated-uruguayan-dough-bowl--vegetarian",
+    "title": "Uruguayan Air Puff Fritters",
+    "tags": [
+      "dessert",
+      "fritters",
+      "fried"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 20,
     "shard": "h"
   }
 ]
