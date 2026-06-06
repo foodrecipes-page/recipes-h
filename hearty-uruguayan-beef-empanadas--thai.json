@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-uruguayan-beef-empanadas--thai",
+  "title": "Thai Beef Empanadas",
+  "description": "A unique fusion of Thai flavors with Uruguayan empanadas, filled with tender beef and spices.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten (for egg wash)"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the Thai Red Curry Paste to the pan and cook for 1-2 minutes, until fragrant.",
+    "Stir in the chopped cilantro and lime juice. Season with salt and sugar to taste.",
+    "In a separate bowl, combine the flour, salt, and water to form a dough for the empanadas.",
+    "Divide the dough into 8-10 equal pieces and roll each into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Spoon the beef filling onto one half of each circle, leaving a 1/2 inch border around the edges.",
+    "Brush the edges with the beaten egg and fold the other half of the dough over the filling to form a half-moon shape.",
+    "Press the edges together to seal the empanada and brush with vegetable oil.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-uruguayan-beef-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:41:54.022Z"
+}
