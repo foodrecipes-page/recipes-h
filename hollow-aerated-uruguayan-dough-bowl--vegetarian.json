@@ -1,0 +1,55 @@
+{
+  "slug": "hollow-aerated-uruguayan-dough-bowl--vegetarian",
+  "title": "Uruguayan Air Puff Fritters",
+  "description": "A crispy and airy dessert inspired by Uruguayan cuisine, made with hollow puffs and a touch of sweetness.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "hollow puffs",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "bowl",
+      "amount": "for proofing dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in the bowl to 375°F (190°C).",
+    "Combine the dough and hollow puffs in a bowl.",
+    "Fry the dough mixture in batches until golden brown.",
+    "Drain the fritters on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "fritters",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-aerated-uruguayan-dough-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:47:13.520Z"
+}
