@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-smoky-greek-vegetable-dolmades",
+  "title": "Smoky Dolmades",
+  "description": "A twist on traditional dolmades, these smoky stuffed grape leaves are filled with a hearty vegetable mix and served as a snack or appetizer.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "20"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Soak grape leaves in water for 10 minutes.",
+    "Combine zucchini, bell peppers, onions, rice, tomato paste, lemon juice, olive oil, salt, and black pepper in a bowl.",
+    "Drain grape leaves and place a tablespoon of the vegetable mix in the center of each leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll into a neat package.",
+    "Place the dolmades seam-side down in a baking dish and cover with a lid.",
+    "Steam the dolmades over boiling water for 20-25 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "greek",
+    "snack",
+    "vegetarian",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-greek-vegetable-dolmades",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:45:03.931Z"
+}
