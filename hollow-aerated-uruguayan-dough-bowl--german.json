@@ -1,0 +1,89 @@
+{
+  "slug": "hollow-aerated-uruguayan-dough-bowl--german",
+  "title": "Uruguayan Bread Bowl",
+  "description": "A German-inspired Uruguayan bread bowl recipe filled with soft, airy dough.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "dough",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "hollow",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "aerated",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine warm water and yeast.",
+    "Let the mixture sit for 5 minutes until frothy.",
+    "Add salt, flour, and olive oil to the bowl.",
+    "Mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Place the dough in a bowl and let it rise for 1 hour.",
+    "Preheat oven to 400°F.",
+    "Punch down the dough and place it in a hollow, aerated mold.",
+    "Bake the bread for 20-25 minutes until golden brown.",
+    "Let the bread cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bread",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-aerated-uruguayan-dough-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:21:38.098Z"
+}
