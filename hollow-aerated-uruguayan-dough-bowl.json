@@ -1,0 +1,66 @@
+{
+  "slug": "hollow-aerated-uruguayan-dough-bowl",
+  "title": "Uruguayan-style Cheese Bread",
+  "description": "A delicious cheese bread recipe inspired by Uruguay, made with a hollow dough and topped with melted cheese.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "1 cup",
+      "notes": "warm and risen"
+    },
+    {
+      "name": "hollow",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 cup",
+      "notes": "sprinkled"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for proofing dough"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out dough and hollow into a ball.",
+    "3. Place dough on a baking sheet and sprinkle with aerated.",
+    "4. Sprinkle uruguayan cheese on top of dough.",
+    "5. Bake for 15-20 minutes, or until cheese is melted and golden brown.",
+    "6. Remove from oven and let cool for a few minutes.",
+    "7. Slice into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "cheese",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-aerated-uruguayan-dough-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:58:56.252Z"
+}
