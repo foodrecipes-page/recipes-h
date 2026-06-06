@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-american-mushroom-bake",
+  "title": "Hearty Mushroom Bake",
+  "description": "A comforting, flavorful casserole perfect for a chilly evening. Made with tender mushrooms, savory meat, and a flaky crust.",
+  "cuisine": "american",
+  "diet": [
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "bechamel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "bake mix",
+      "amount": "1 package",
+      "notes": "for the crust"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the ground beef in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the sliced mushrooms, chopped onion, and minced garlic to the skillet, cooking until the vegetables are tender.",
+    "Stir in the flour and cook for 1 minute.",
+    "Gradually add the chicken broth, whisking continuously to avoid lumps. Bring the mixture to a simmer and cook until thickened.",
+    "Stir in the bechamel sauce and 1/2 cup of the shredded cheddar cheese until melted and smooth.",
+    "In a separate bowl, mix the beaten eggs and 1 cup of the shredded cheddar cheese.",
+    "Pour the meat mixture into a 9x13 inch baking dish and top with the egg mixture.",
+    "Sprinkle the remaining 1/2 cup of shredded cheddar cheese on top.",
+    "Pour the bake mix into a separate bowl and mix with 1/4 cup of water until a dough forms.",
+    "Roll out the dough to fit the top of the baking dish and place it on top of the filling.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "mushroom",
+    "american",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 32,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-american-mushroom-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:07:36.284Z"
+}
