@@ -14993,17 +14993,14 @@
   },
   {
     "slug": "hollow-aerated-uruguayan-dough-bowl",
-    "title": "Hollow-Aerated Uruguayan Dough Bowl",
+    "title": "Uruguayan-style Cheese Bread",
     "tags": [
-      "aerated-dough",
-      "anti-inflammatory",
-      "kid-friendly",
-      "korean-brass-bowl",
-      "one-pan",
-      "uruguayan"
+      "uruguayan",
+      "cheese",
+      "bread"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17555,6 +17552,43 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-aerated-uruguayan-dough-bowl--german",
+    "title": "Uruguayan Bread Bowl",
+    "tags": [
+      "german",
+      "bread",
+      "uruguayan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-aerated-uruguayan-dough-bowl--thai",
+    "title": "Uruguayan-Style Khao Soi",
+    "tags": [
+      "thai-curry",
+      "uruguayan-beef",
+      "wontons",
+      "lunch"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-aerated-uruguayan-dough-bowl--keto",
+    "title": "Keto Uruguayan Cheese Bread",
+    "tags": [
+      "keto",
+      "uruguayan",
+      "bread"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 17,
     "shard": "h"
   }
 ]
