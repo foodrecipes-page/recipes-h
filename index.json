@@ -9687,17 +9687,16 @@
   },
   {
     "slug": "hearty-smoky-greek-vegetable-dolmades",
-    "title": "Hearty Smoky Greek Vegetable Dolmades",
+    "title": "Smoky Dolmades",
     "tags": [
-      "dolmades",
-      "greek-cuisine",
-      "lacto-vegetarian",
-      "lazy-sunday",
-      "roasted-vegetables",
-      "smoky-flavors"
+      "dinner",
+      "greek",
+      "snack",
+      "vegetarian",
+      "appetizer"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -17517,6 +17516,45 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-uruguayan-beef-empanadas--indian",
+    "title": "Beef Empanada Koftas",
+    "tags": [
+      "beef-empanadas",
+      "indian-food",
+      "kebabs"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-buttery-ukrainian-bun-bao--thai",
+    "title": "Thai-Style Bao with Hearty Filling",
+    "tags": [
+      "thai",
+      "bao",
+      "ukrainian",
+      "hearty",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-uruguayan-beef-empanadas--thai",
+    "title": "Thai Beef Empanadas",
+    "tags": [
+      "thai",
+      "beef",
+      "empanadas",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "h"
   }
 ]
