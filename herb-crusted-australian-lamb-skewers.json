@@ -1,0 +1,78 @@
+{
+  "slug": "herb-crusted-australian-lamb-skewers",
+  "title": "Australian Lamb Skewers with Herb Crust",
+  "description": "A flavorful and easy-to-make dish featuring lamb skewers with a delicious herb crust, perfect for a quick dinner or outdoor gathering.",
+  "cuisine": "australian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Fresh herb",
+      "amount": "2 tbsp",
+      "notes": "chopped, such as parsley or rosemary"
+    },
+    {
+      "name": "Crusted seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal, soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together chopped herb, crusted seasoning, salt, and pepper.",
+    "Thread lamb cubes onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and sprinkle with herb mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional chopped herb if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grill",
+    "australian",
+    "skewers",
+    "herb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-crusted-australian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:16:26.247Z"
+}
