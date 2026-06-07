@@ -234,16 +234,15 @@
   },
   {
     "slug": "halal-tandoor-freekeh-salad",
-    "title": "Halal Tandoor Freekeh Salad",
+    "title": "Freekeh Salad with Tandoor Chicken",
     "tags": [
-      "halal",
-      "smoky",
-      "crunchy",
+      "chicken",
       "freekeh",
-      "tandoor"
+      "salad",
+      "middle-eastern"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -1688,16 +1687,15 @@
   },
   {
     "slug": "hearty-aerated-syrian-rice-tagine",
-    "title": "Hearty Aerated Syrian Rice Tagine",
+    "title": "Syrian Tagine with Rice",
     "tags": [
-      "comforting",
-      "low-sodium",
-      "one-pan",
       "syrian",
-      "weeknight"
+      "tagine",
+      "rice",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -8421,17 +8419,15 @@
   },
   {
     "slug": "hearty-roasted-australian-lamb-roast",
-    "title": "Hearty Roasted Australian Lamb Roast",
+    "title": "Australian-Style Roasted Lamb",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "hearty",
-      "keto-friendly",
-      "lamb-recipes",
-      "low-carb"
+      "australian",
+      "lamb",
+      "roast",
+      "roasted"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 80,
+    "cuisine": "australian",
+    "totalTimeMin": 145,
     "shard": "h"
   },
   {
