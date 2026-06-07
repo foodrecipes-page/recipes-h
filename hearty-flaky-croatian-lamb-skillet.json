@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-flaky-croatian-lamb-skillet",
+  "title": "Croatian Lamb Skillet",
+  "description": "A hearty and flavorful skillet dish made with lamb, onions, and croatian seasonings. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Skillet Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb cubes with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet and sauté the chopped onion until softened, about 5 minutes.",
+    "Add the skillet seasoning and stir to combine.",
+    "Return the lamb cubes to the skillet and stir to coat with the seasoning mixture.",
+    "Roll out the flaky pastry to fit the top of the skillet and place on top of the lamb mixture.",
+    "Bake in the preheated oven for 20-25 minutes or until the pastry is golden brown and the lamb is cooked through.",
+    "Remove from the oven and garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "lamb",
+    "skillet",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-flaky-croatian-lamb-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:13:24.423Z"
+}
