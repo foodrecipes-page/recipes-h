@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-smoked-german-beans-stew",
+  "title": "Smoked German Stew",
+  "description": "A hearty and comforting stew filled with the rich flavors of Germany. Perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked sausage",
+      "amount": "1 pound",
+      "notes": "such as knockwurst or bratwurst"
+    },
+    {
+      "name": "Canned beans (such as kidney or pinto)",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 cups of beef broth"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the smoked sausage and cook until browned, about 5 minutes.",
+    "Add the canned beans, chopped carrots, and chopped potatoes.",
+    "Pour in the dissolved tomato paste and beef broth.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 1 hour, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "comfort-food",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-german-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:19:58.053Z"
+}
