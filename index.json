@@ -6458,17 +6458,15 @@
   },
   {
     "slug": "hearty-irish-potato-stew",
-    "title": "Hearty Irish Potato Stew",
+    "title": "Traditional Irish Stew",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "glassy-jelly",
-      "irish",
-      "one-pot",
-      "slow-cook"
+      "comfort-food",
+      "lamb",
+      "potatoes",
+      "irish-stew"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "cuisine": "irish",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
