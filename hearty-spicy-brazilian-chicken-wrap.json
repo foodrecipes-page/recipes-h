@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-spicy-brazilian-chicken-wrap",
+  "title": "Brazilian Chicken Wrap",
+  "description": "A flavorful and spicy wrap filled with grilled chicken and sautéed vegetables, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "4 oz",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "or gluten-free alternative"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "roma tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalapeño pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "salsa",
+      "amount": "2 tbsp",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with salt, pepper, and your favorite spices.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, heat a large skillet over medium-high heat.",
+    "Add sliced red bell pepper and red onion; cook for 3-4 minutes, or until tender.",
+    "Add sliced jalapeño pepper and cook for an additional minute.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading salsa on the tortilla, followed by grilled chicken, sautéed vegetables, and shredded cheese (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "brazilian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-brazilian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:38:21.591Z"
+}
