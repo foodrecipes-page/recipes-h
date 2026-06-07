@@ -1,0 +1,83 @@
+{
+  "slug": "halal-cod-bliss",
+  "title": "Pan-Seared Cod with Halal Spices and Blissful Vegetables",
+  "description": "A flavorful and healthy fish dish cooked with halal spices and paired with blissful vegetables. Ready in under 30 minutes, this recipe is perfect for a quick dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "halal",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cod",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "bliss",
+      "amount": "2 cups mixed vegetables (bell peppers, onions, carrots)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with halal, salt, pepper, and garlic powder.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the cod fillets for 2-3 minutes on each side.",
+    "Add the mixed vegetables to the skillet and cook for 3-4 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until the fish is cooked through.",
+    "Serve the cod with the blissful vegetables and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "mexican",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-cod-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:21:46.860Z"
+}
