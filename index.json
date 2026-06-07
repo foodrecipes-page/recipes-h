@@ -41,14 +41,15 @@
   },
   {
     "slug": "halal-cod-bliss",
-    "title": "Halal Cod Bliss",
+    "title": "Pan-Seared Cod with Halal Spices and Blissful Vegetables",
     "tags": [
-      "halal-cookout",
-      "tangy-mexican-dish",
-      "indulgent-dessert"
+      "fish",
+      "mexican",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 75,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
