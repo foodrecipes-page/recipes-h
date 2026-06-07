@@ -2327,17 +2327,15 @@
   },
   {
     "slug": "hearty-briny-algerian-lamb-wrap",
-    "title": "Hearty Briny Algerian Lamb Wrap",
+    "title": "Algerian Lamb Wrap",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "kid-friendly",
-      "lamb-recipes",
-      "weeknight-dinner",
-      "whole30-friendly"
+      "algerian",
+      "lamb",
+      "wrap",
+      "slow-cooked"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -4322,17 +4320,15 @@
   },
   {
     "slug": "hearty-flaky-croatian-lamb-skillet",
-    "title": "Hearty Flaky Croatian Lamb Skillet",
+    "title": "Croatian Lamb Skillet",
     "tags": [
-      "cast-iron-skillet",
-      "croatian-cuisine",
-      "hearty-meals",
-      "lamb-recipes",
-      "low-glycemic",
-      "one-pot"
+      "croatian",
+      "lamb",
+      "skillet",
+      "pastry"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -8457,16 +8453,15 @@
   },
   {
     "slug": "hearty-roasted-brazilian-swede-roast",
-    "title": "Hearty Roasted Brazilian Swede Roast",
+    "title": "Hearty Brazilian Roast Swede",
     "tags": [
-      "brazilian-cuisine",
-      "kosher-friendly",
-      "midnight-cravings",
-      "roasted-vegetables",
-      "wooden-board-presentation"
+      "beef",
+      "swede",
+      "brazilian",
+      "roasted"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -9432,18 +9427,15 @@
   },
   {
     "slug": "hearty-smoked-german-beans-stew",
-    "title": "Hearty Smoked German Beans Stew",
+    "title": "Smoked German Stew",
     "tags": [
       "german",
-      "high-fiber",
-      "low-carb",
-      "one-pan",
-      "plant-based",
-      "vegan",
-      "weeknight"
+      "stew",
+      "comfort-food",
+      "winter-recipe"
     ],
     "cuisine": "german",
-    "totalTimeMin": 55,
+    "totalTimeMin": 80,
     "shard": "h"
   },
   {
@@ -12469,17 +12461,16 @@
   },
   {
     "slug": "herb-crusted-australian-lamb-skewers",
-    "title": "Herb Crusted Australian Lamb Skewers",
+    "title": "Australian Lamb Skewers with Herb Crust",
     "tags": [
-      "australian",
-      "grilled",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "grill",
+      "australian",
+      "skewers",
+      "herb"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
