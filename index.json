@@ -10138,16 +10138,15 @@
   },
   {
     "slug": "hearty-southern-thai-semolina-curry",
-    "title": "Hearty Southern Thai Semolina Curry",
+    "title": "Southern-Style Semolina Curry",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "one-pot",
-      "southern-thai",
-      "special-occasion"
+      "curry",
+      "semolina",
+      "southern",
+      "heartysouthern"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "Southern",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -10315,17 +10314,15 @@
   },
   {
     "slug": "hearty-spicy-brazilian-chicken-wrap",
-    "title": "Hearty Spicy Brazilian Chicken Wrap",
+    "title": "Brazilian Chicken Wrap",
     "tags": [
-      "brazilian-inspired",
-      "cajun-spiced",
-      "gluten-free",
-      "low-carb",
-      "lunch-box",
-      "meal-prep"
+      "chicken",
+      "wrap",
+      "brazilian",
+      "spicy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
