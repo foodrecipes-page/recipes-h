@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-greek-chicken-pasta",
+  "title": "Greek Chicken Pasta Bake",
+  "description": "A hearty and flavorful pasta bake filled with chicken, feta, and sun-dried tomatoes, perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or similar"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "Season the chicken breast with salt, pepper, and basil. Grill or sauté until cooked through.",
+    "In a large bowl, combine cooked pasta, chicken, feta cheese, and sun-dried tomatoes.",
+    "Drizzle with olive oil and toss to combine.",
+    "Transfer the pasta mixture to a baking dish and top with additional feta cheese if desired.",
+    "Bake in the preheated oven for 15-20 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pasta",
+    "greek",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-greek-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:44:18.746Z"
+}
