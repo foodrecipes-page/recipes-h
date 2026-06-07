@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-briny-algerian-lamb-wrap",
+  "title": "Algerian Lamb Wrap",
+  "description": "A flavorful and hearty wrap filled with slow-cooked lamb and topped with a tangy slaw.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Algerian flatbread",
+      "amount": "1",
+      "notes": "or substitute with pita bread"
+    },
+    {
+      "name": "Briny slaw (see instructions)",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Hearty wrap",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, mix together lamb, Algerian spice blend, and olive oil. Cover and refrigerate for at least 2 hours or overnight.",
+    "Remove lamb from refrigerator and let sit at room temperature for 30 minutes.",
+    "Heat a large Dutch oven over medium-high heat. Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Transfer lamb to the preheated oven and cook until tender, about 2 1/2 hours.",
+    "While lamb is cooking, prepare briny slaw (see below).",
+    "Warm flatbread in the oven for a few minutes.",
+    "Assemble wraps by spooning lamb onto flatbread, topping with briny slaw, and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "wrap",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-briny-algerian-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:14:09.629Z"
+}
