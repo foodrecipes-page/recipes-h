@@ -5240,16 +5240,15 @@
   },
   {
     "slug": "hearty-greek-chicken-pasta",
-    "title": "Hearty Greek Chicken Pasta",
+    "title": "Greek Chicken Pasta Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "pasta",
+      "greek",
+      "bake"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
