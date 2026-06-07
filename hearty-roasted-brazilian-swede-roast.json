@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-roasted-brazilian-swede-roast",
+  "title": "Hearty Brazilian Roast Swede",
+  "description": "A flavorful and comforting Brazilian-inspired dish featuring roasted swede and beef.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Beef (or beef alternative)",
+      "amount": "500g",
+      "notes": "sirloin or ribeye, sliced"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Hearty beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Brazilian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the chopped swede with olive oil, salt, and pepper on a baking sheet.",
+    "Roast the swede in the preheated oven for 20-25 minutes, or until tender and caramelized.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the sliced beef and cook for 3-4 minutes per side, or until browned and cooked to your liking.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the minced roasted garlic to the skillet and cook for 1-2 minutes, or until fragrant.",
+    "Add the beef broth to the skillet and stir to combine.",
+    "Return the beef to the skillet and simmer for 5-7 minutes, or until the sauce has thickened.",
+    "Serve the beef with the roasted swede and garnish with chopped cilantro.",
+    "Season with salt, pepper, and Brazilian spice blend to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "swede",
+    "brazilian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-roasted-brazilian-swede-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:16:50.836Z"
+}
