@@ -1,0 +1,75 @@
+{
+  "slug": "healthy-smoky-malaysian-chicken-skewers",
+  "title": "Malaysian Chicken Skewers",
+  "description": "Tasty and healthy Malaysian-inspired chicken skewers with a smoky flavor.",
+  "cuisine": "malaysian",
+  "diet": [
+    "healthy",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together smoked paprika, coconut oil, lime juice, cilantro, garlic, salt, and black pepper.",
+    "3. Add chicken to the bowl and mix well to coat.",
+    "4. Thread chicken onto skewers, leaving a little space between each piece.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "6. Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "healthy",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healthy-smoky-malaysian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:08:38.046Z"
+}
