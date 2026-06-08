@@ -8666,16 +8666,15 @@
   },
   {
     "slug": "hearty-russian-beef-stew",
-    "title": "Hearty Russian Beef Stew",
+    "title": "Beef Stroganoff Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "one-pot",
-      "russian-cuisine",
-      "weeknight"
+      "beef",
+      "russian",
+      "stew",
+      "hearty"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 180,
+    "cuisine": "russian",
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
