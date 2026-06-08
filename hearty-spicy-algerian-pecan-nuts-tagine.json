@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-spicy-algerian-pecan-nuts-tagine",
+  "title": "Spicy Algerian Chicken Tagine",
+  "description": "A hearty, aromatic stew originating from Algeria. This spicy tagine is perfect for a cold evening. Serve with crusty bread or couscous.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 ounces"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown chicken on all sides, about 5 minutes. Remove and set aside.",
+    "Add onion, garlic, and ginger; sauté until onion is softened, about 5 minutes.",
+    "Stir in cumin and cayenne pepper. Cook for 1 minute.",
+    "Add chickpeas, diced tomatoes, water, and browned chicken. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-algerian-pecan-nuts-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:44:30.039Z"
+}
