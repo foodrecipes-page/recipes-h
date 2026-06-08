@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-homestyle-malaysian-fiordilatte-curry",
+  "title": "Malaysian-Style Chicken Curry",
+  "description": "A flavorful and spicy curry made with chicken, coconut milk, and a blend of aromatic spices. Serve over steamed rice or with roti.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fiordilatte",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add chicken and cook until browned.",
+    "Add curry powder and stir to combine.",
+    "Add coconut milk, fish sauce, and sugar.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Stir in shredded fiordilatte.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with curry leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "malaysian",
+    "fiordilatte"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homestyle-malaysian-fiordilatte-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:47:48.693Z"
+}
