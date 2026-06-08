@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-japanese-tofu-ramen",
+  "title": "Spicy Japanese Ramen Noodle Soup",
+  "description": "A hearty and spicy Japanese-inspired noodle soup made with ramen noodles, tofu, and a variety of vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Cook the ramen noodles according to package instructions.",
+    "2. In a large pot or wok, heat the vegetable oil over medium heat.",
+    "3. Add the diced onion and cook until softened, about 3-4 minutes.",
+    "4. Add the minced garlic and sliced ginger and cook for an additional 1-2 minutes.",
+    "5. Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "6. Add the red pepper flakes, soy sauce, and sesame oil, and stir to combine.",
+    "7. Add the cooked ramen noodles to the pot and stir to combine.",
+    "8. Cook for an additional 1-2 minutes, until the noodles are well coated in the sauce.",
+    "9. Serve hot, garnished with chopped green onions.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "noodle-soup",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-japanese-tofu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:12:39.392Z"
+}
