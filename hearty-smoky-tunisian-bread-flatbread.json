@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-smoky-tunisian-bread-flatbread",
+  "title": "Tunisian Smoked Chicken Shawarma",
+  "description": "A flavorful and aromatic sandwich filled with smoky chicken, topped with crunchy vegetables and served on a crusty flatbread.",
+  "cuisine": "north african",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 inches",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together smoked paprika, tunisian spice blend, salt, and pepper.",
+    "Add the chicken breast to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes before slicing into thin strips.",
+    "Warm the flatbread in the oven or in a dry skillet for a few minutes.",
+    "Assemble the shawarma by spreading a layer of tahini on the flatbread, followed by sliced chicken, red onion, tomato, cucumber, and lettuce.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shawarma",
+    "chicken",
+    "north african",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-tunisian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:13:55.108Z"
+}
