@@ -1,0 +1,67 @@
+{
+  "slug": "herbal-juicy-irish-berry-tart",
+  "title": "Tart Strawberry Shortcake",
+  "description": "A classic dessert featuring tart strawberries, juicy shortcake, and a hint of herbal sweetness.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free option: 1 1/2 cups almond flour"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tart cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "herbal honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "berry jam",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, whisk together flour, sugar, and salt. Cut in butter until mixture resembles coarse crumbs.",
+    "Press mixture into a 9-inch round baking dish and bake for 20-25 minutes, or until lightly golden.",
+    "In a separate bowl, whip tart cream until stiff peaks form. Fold in herbal honey.",
+    "Split shortcake into slices and layer with sliced strawberries and whipped cream.",
+    "If desired, drizzle with berry jam.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "strawberry",
+    "shortcake",
+    "herbal-honey"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-juicy-irish-berry-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:41:32.626Z"
+}
