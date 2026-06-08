@@ -10259,17 +10259,15 @@
   },
   {
     "slug": "hearty-spicy-algerian-pecan-nuts-tagine",
-    "title": "Hearty Spicy Algerian Pecan Nuts Tagine",
+    "title": "Spicy Algerian Chicken Tagine",
     "tags": [
-      "north-african",
-      "nutty",
-      "one-pot",
-      "spicy",
-      "stone-bowl",
-      "vegetarian"
+      "algerian",
+      "chicken",
+      "stew",
+      "spicy"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -13859,17 +13857,15 @@
   },
   {
     "slug": "herbal-juicy-irish-berry-tart",
-    "title": "Herbal Juicy Irish Berry Tart",
+    "title": "Tart Strawberry Shortcake",
     "tags": [
-      "irish-dessert",
-      "filo-pastry",
-      "mixed-berries",
-      "herbal",
-      "diabetic-friendly",
-      "kid-friendly"
+      "dessert",
+      "strawberry",
+      "shortcake",
+      "herbal-honey"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
