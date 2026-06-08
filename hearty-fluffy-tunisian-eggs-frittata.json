@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-fluffy-tunisian-eggs-frittata",
+  "title": "Tunisian Frittata",
+  "description": "A hearty and fluffy egg dish, inspired by the flavors of Tunisia. This frittata is perfect for breakfast or brunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk eggs, salt, and pepper in a large bowl.",
+    "Heat a 9-inch (23cm) oven-safe skillet over medium heat.",
+    "Add frittata and cook for 2 minutes.",
+    "Pour whisked eggs over frittata.",
+    "Sprinkle chopped parsley and cilantro over eggs.",
+    "Transfer skillet to oven and bake for 15-20 minutes, or until eggs are set.",
+    "Remove from oven and sprinkle red pepper flakes over top.",
+    "Let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fluffy-tunisian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:49:51.910Z"
+}
