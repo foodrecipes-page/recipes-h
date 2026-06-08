@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-slow-mediterranean-celery-stew",
+  "title": "Hearty Mediterranean Stew",
+  "description": "A flavorful and comforting stew perfect for a cold day, packed with the warm aromas of the Mediterranean.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hearty Beef Stew Meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Celery",
+      "amount": "3 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "Mediterranean Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red Wine (optional)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the diced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced celery and cook for 2-3 minutes.",
+    "Add the hearty beef stew meat and cook until browned, about 5 minutes.",
+    "Add the Mediterranean seasoning, diced tomatoes, red wine (if using), and chicken broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2-3 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or thyme (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-slow-mediterranean-celery-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:18:00.902Z"
+}
