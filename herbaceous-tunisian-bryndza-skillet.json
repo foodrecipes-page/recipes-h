@@ -1,0 +1,83 @@
+{
+  "slug": "herbaceous-tunisian-bryndza-skillet",
+  "title": "Skillet Tunisian Baked Bysta",
+  "description": "A flavorful and spicy Tunisian dish made with baked bysta topped with a herbaceous bryndza cheese blend, perfect for a dinner meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bysta",
+      "amount": "1 (14 oz) package"
+    },
+    {
+      "name": "bryndza cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 (10 inch) skillet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together parsley, cilantro, oregano, garlic powder, and paprika.",
+    "In a separate bowl, crumble the bryndza cheese.",
+    "In the skillet, heat the olive oil over medium heat.",
+    "Add the bysta to the skillet and cook for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the bysta is cooked through.",
+    "Remove the skillet from the oven and top the bysta with the bryndza cheese mixture.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the Skillet Tunisian Baked Bysta hot, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "bryndza-cheese",
+    "skillet",
+    "bytsa",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-tunisian-bryndza-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:35:48.076Z"
+}
