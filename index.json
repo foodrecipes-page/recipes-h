@@ -6067,16 +6067,15 @@
   },
   {
     "slug": "hearty-homestyle-malaysian-fiordilatte-curry",
-    "title": "Hearty Homestyle Malaysian Fiordilatte Curry",
+    "title": "Malaysian-Style Chicken Curry",
     "tags": [
-      "comfort-food",
-      "curry-recipe",
-      "dairy-free",
-      "malaysian-cuisine",
-      "one-pot"
+      "chicken",
+      "curry",
+      "malaysian",
+      "fiordilatte"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -6809,17 +6808,16 @@
   },
   {
     "slug": "hearty-juicy-saudi-arabian-lamb-kebabs",
-    "title": "Hearty Juicy Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grilled-meats",
-      "kid-friendly",
-      "lamb-recipes",
+      "saudi-arabian",
+      "lamb",
+      "kebabs",
+      "grill",
       "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "h"
   },
   {
@@ -9286,17 +9284,14 @@
   },
   {
     "slug": "hearty-slow-mediterranean-celery-stew",
-    "title": "Hearty Slow Mediterranean Celery Stew",
+    "title": "Hearty Mediterranean Stew",
     "tags": [
-      "easy-dinner",
-      "healthy",
       "mediterranean",
-      "one-pot",
-      "slow-cook",
-      "vegetarian"
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
