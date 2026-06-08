@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-flaky-dutch-kielbasa-pastry",
+  "title": "Savory Kielbasa and Pastry Quiche",
+  "description": "A hearty breakfast quiche filled with kielbasa and pastry, perfect for a cold morning.",
+  "cuisine": null,
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry and place in a pie dish.",
+    "In a skillet, cook the sliced kielbasa over medium heat until browned.",
+    "Add the diced onion and minced garlic to the skillet and cook until softened.",
+    "In a large bowl, whisk together the eggs and shredded cheese.",
+    "Add the cooked kielbasa mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into the pastry-lined pie dish.",
+    "Season with salt and pepper to taste.",
+    "Bake for 35-40 minutes, or until the quiche is set and the crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "quiche",
+    "kielbasa",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-flaky-dutch-kielbasa-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:07:54.551Z"
+}
