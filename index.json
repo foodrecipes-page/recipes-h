@@ -4555,17 +4555,14 @@
   },
   {
     "slug": "hearty-fluffy-tunisian-eggs-frittata",
-    "title": "hearty fluffy tunisian eggs frittata",
+    "title": "Tunisian Frittata",
     "tags": [
       "breakfast",
-      "brunch",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "eggs",
+      "tunisian"
     ],
     "cuisine": "tunisian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -10970,17 +10967,16 @@
   },
   {
     "slug": "hearty-tunisian-oyster-mushroom-tagine",
-    "title": "Hearty Tunisian Oyster Mushroom Tagine",
+    "title": "Tunisian Tagine Stew",
     "tags": [
-      "gluten-free",
-      "mushroom-based",
-      "north-african",
-      "one-pot",
-      "paleo-friendly",
-      "spicy"
+      "tunisian",
+      "tagine",
+      "stew",
+      "vegetarian",
+      "north african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
