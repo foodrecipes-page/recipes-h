@@ -1,0 +1,70 @@
+{
+  "slug": "honey-glazed-british-daikon-eton-mess",
+  "title": "Eton Mess with Honey Glazed Daikon",
+  "description": "A twist on the classic Eton Mess dessert, featuring honey glazed daikon and a touch of sweetness.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Daikon",
+      "amount": "1 large"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Meringue",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eton Mess",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°F (90°C).",
+    "Peel and slice the daikon into thin rounds.",
+    "In a small saucepan, combine honey and 1 tablespoon water. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Brush the honey glaze over the daikon slices.",
+    "Place the daikon slices on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the daikon is tender and caramelized.",
+    "In a large bowl, combine the meringue, fresh berries, and heavy cream.",
+    "Spoon the meringue mixture over the daikon slices.",
+    "Top with Eton Mess and serve immediately.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eton-mess",
+    "dessert",
+    "british",
+    "honey-glazed-daikon"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-british-daikon-eton-mess",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:03:30.418Z"
+}
