@@ -1,0 +1,98 @@
+{
+  "slug": "hearty-sichuan-tofu-stew",
+  "title": "Spicy Sichuan Tofu Stew",
+  "description": "A hearty and flavorful stew that combines the bold flavors of Sichuan cuisine with the simplicity of tofu.",
+  "cuisine": "Sichuan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm tofu"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "Or more to taste"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Add the garlic, ginger, and Sichuan peppercorns. Cook, stirring constantly, for 1-2 minutes.",
+    "Add the red pepper flakes and cook for 1 minute.",
+    "Add the bamboo shoots, snow peas, and tofu. Cook, stirring occasionally, for 5 minutes.",
+    "Stir in the soy sauce, rice vinegar, and sugar. Bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and cook, covered, for 10-15 minutes or until the flavors have melded together.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scallions and Sichuan peppercorns, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan",
+    "tofu",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sichuan-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:10:54.919Z"
+}
