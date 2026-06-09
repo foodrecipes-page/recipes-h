@@ -8453,17 +8453,14 @@
   },
   {
     "slug": "hearty-roasted-dutch-lettuce-casserole",
-    "title": "Hearty Roasted Dutch Lettuce Casserole",
+    "title": "Hearty Dutch Casserole",
     "tags": [
-      "dutch-cuisine",
-      "meal-prep",
-      "one-pan",
-      "roasted-vegetables",
-      "shojin-friendly",
-      "vegetarian"
+      "beef",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -10186,16 +10183,14 @@
   },
   {
     "slug": "hearty-spanish-pork-jamon-iberico-cataplana",
-    "title": "Hearty Spanish Pork Jamon Iberico Cataplana",
+    "title": "Spanish-Style Braised Iberico Pork",
     "tags": [
-      "brunch-recipe",
-      "gluten-free",
-      "one-pan",
-      "pork-recipe",
-      "spanish-cuisine"
+      "spanish",
+      "pork",
+      "iberico"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": "spanish",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -14135,17 +14130,16 @@
   },
   {
     "slug": "herbal-silky-irish-lamb-tagine",
-    "title": "Herbal Silky Irish Lamb Tagine",
+    "title": "Herbal Lamb Tagine",
     "tags": [
-      "gluten-free",
-      "herbal-flavors",
-      "irish-cuisine",
-      "lamb-recipes",
-      "tagine-cooking",
-      "whole30"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew",
+      "dinner"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
