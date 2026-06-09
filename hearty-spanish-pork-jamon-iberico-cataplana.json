@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-spanish-pork-jamon-iberico-cataplana",
+  "title": "Spanish-Style Braised Iberico Pork",
+  "description": "A rich and flavorful dish from the Spanish countryside, slow-cooked to perfection with tender Iberico pork and hearty vegetables.",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Iberico pork shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in, skin-on"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes. Remove the pork and set aside.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the red wine and chicken broth, scraping up any browned bits from the bottom of the pan.",
+    "Add the tomato paste and smoked paprika. Stir to combine.",
+    "Return the pork shoulder to the pot and bring the liquid to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender and easily shredded with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the pork with two forks and stir to combine with the juices.",
+    "Season the pork with salt and black pepper to taste.",
+    "Serve the pork hot, garnished with chopped fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "pork",
+    "iberico"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-pork-jamon-iberico-cataplana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:39:25.909Z"
+}
