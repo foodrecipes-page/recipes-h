@@ -1,0 +1,85 @@
+{
+  "slug": "herbal-silky-irish-lamb-tagine",
+  "title": "Herbal Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb, aromatic herbs, and a blend of spices. This recipe is perfect for a cold winter's night.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "2 tbsp",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "irish butter",
+      "amount": "4 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "tagine spice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add lemongrass, tagine spice, and herbal tea; stir to combine.",
+    "Pour in enough water to cover the lamb, then bring to a boil.",
+    "Transfer the pot to the oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in melted butter and chopped parsley.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-silky-irish-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:00:02.759Z"
+}
