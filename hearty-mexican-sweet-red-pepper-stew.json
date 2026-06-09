@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-mexican-sweet-red-pepper-stew",
+  "title": "Spicy Beef Stew",
+  "description": "A hearty beef stew with a kick of spice, perfect for a cold winter's night. This recipe serves 4-6 people and can be made in under an hour.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "sweet pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "or 1 can diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add 1 tablespoon oil and sear the beef until browned, about 3-4 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion, red pepper, and sweet pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, chili powder, and cumin to the pot and cook for 1 minute.",
+    "Add the tomato paste to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the beef to the pot and reduce heat to low.",
+    "Simmer the stew for 30-40 minutes, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mexican-sweet-red-pepper-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:40:34.311Z"
+}
