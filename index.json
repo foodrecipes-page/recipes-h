@@ -3391,17 +3391,16 @@
   },
   {
     "slug": "hearty-croatian-meat-stew",
-    "title": "Hearty Croatian Meat Stew",
+    "title": "Croatian Beef Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "hearty-stew",
-      "low-calorie",
-      "one-pot",
-      "winter-meal"
+      "beef",
+      "croatian",
+      "stew",
+      "hearty",
+      "meat"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -6703,17 +6702,14 @@
   },
   {
     "slug": "hearty-juicy-french-chicken-tarte-tatin",
-    "title": "Hearty Juicy French Chicken Tarte Tatin",
+    "title": "French Chicken Tarte Tatin",
     "tags": [
-      "chicken-recipes",
-      "french-cuisine",
-      "low-fat",
-      "one-pan",
-      "tarte-tatin",
-      "weeknight"
+      "chicken",
+      "french",
+      "tarte-tatin"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
