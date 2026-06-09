@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-irish-fish-tagine",
+  "title": "Pan-Seared Irish Cod with Lemon and Herbs",
+  "description": "A flavorful and moist Irish cod dish, pan-seared to perfection and served with a hint of citrus and herbs.",
+  "cuisine": "irish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cod fillets (2 x 6 oz)",
+      "amount": "4 fillets",
+      "notes": "Fresh or frozen cod fillets with skin removed"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "Softened to room temperature"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fresh chopped parsley",
+      "amount": "2 tbsp",
+      "notes": "Freshly chopped"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the cod fillets under cold water and pat them dry with a paper towel.",
+    "Season the cod fillets with garlic powder, salt, and pepper.",
+    "Heat a large skillet over medium heat. Add the butter and let it melt.",
+    "Add the cod fillets, skin side up (if they have skin).",
+    "Cook for 3-4 minutes or until the skin is golden brown.",
+    "Flip the cod fillets over and cook for an additional 3-4 minutes or until they are cooked through.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until the cod is cooked through.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley over the top of the cod.",
+    "Squeeze the fresh lemon juice over the cod and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "fish",
+    "lemon",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:59:22.249Z"
+}
