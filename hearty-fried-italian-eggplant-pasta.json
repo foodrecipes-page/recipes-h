@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-fried-italian-eggplant-pasta",
+  "title": "Italian Eggplant Pasta",
+  "description": "A hearty, delicious pasta dish featuring eggplant and Italian seasonings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "such as penne or rigatoni"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Fry the eggplant slices in olive oil until golden brown, about 3-4 minutes per side.",
+    "Transfer the fried eggplant to a baking sheet and season with salt, Italian seasoning, and minced garlic.",
+    "Bake in the oven for 10-12 minutes, or until the eggplant is tender.",
+    "Cook the pasta according to the package instructions until al dente.",
+    "Combine the cooked pasta and fried eggplant in a large serving dish.",
+    "Top with shredded parmesan cheese and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fried-italian-eggplant-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:55:09.876Z"
+}
