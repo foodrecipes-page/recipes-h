@@ -290,17 +290,16 @@
   },
   {
     "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine",
-    "title": "Hand Shattered Shio Koji Australian Fennel Sausage Tagine",
+    "title": "Spicy Sausage Tagine",
     "tags": [
-      "australian-made",
-      "citrusy",
-      "fusion",
-      "halal-friendly",
-      "high-protein",
-      "one-pot"
+      "moroccan",
+      "spicy",
+      "sausage",
+      "fennel",
+      "stew"
     ],
-    "cuisine": "Australian-Moroccan Fusion",
-    "totalTimeMin": 75,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -3524,17 +3523,15 @@
   },
   {
     "slug": "hearty-crunchy-jamaican-cauliflower-roast",
-    "title": "Hearty Crunchy Jamaican Cauliflower Roast",
+    "title": "Jamaican Roast Cauliflower Casserole",
     "tags": [
-      "cedar-plank",
-      "crunchy",
-      "garlic",
+      "cauliflower",
       "jamaican",
-      "low-glycemic",
-      "one-pan"
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -3935,17 +3932,14 @@
   },
   {
     "slug": "hearty-dutch-pork-tenderloin-tart",
-    "title": "Hearty Dutch Pork Tenderloin Tart",
+    "title": "Pan-Seared Pork Tenderloin with Tart Cherry Glaze",
     "tags": [
-      "dutch-cuisine",
-      "flaky-crust",
-      "high-protein",
-      "pork-tenderloin",
-      "scallop-shell",
-      "special-occasion"
+      "dutch",
+      "pork",
+      "tart"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -4768,13 +4762,11 @@
   },
   {
     "slug": "hearty-fried-italian-eggplant-pasta",
-    "title": "Hearty Fried Italian Eggplant Pasta",
+    "title": "Italian Eggplant Pasta",
     "tags": [
-      "date-night",
-      "fried-eggplant",
-      "italian-food",
-      "pasta-dishes",
-      "shojin-friendly",
+      "italian",
+      "eggplant",
+      "pasta",
       "vegetarian"
     ],
     "cuisine": "Italian",
@@ -15158,21 +15150,15 @@
   },
   {
     "slug": "honey-glazed-british-daikon-eton-mess",
-    "title": "Honey-Glazed British Daikon Eton-Mess",
+    "title": "Eton Mess with Honey Glazed Daikon",
     "tags": [
-      "british",
-      "daikon",
-      "easy-to-make",
       "eton-mess",
-      "fall",
-      "glazed",
-      "side-dish",
-      "spring",
-      "summer",
-      "winter"
+      "dessert",
+      "british",
+      "honey-glazed-daikon"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
