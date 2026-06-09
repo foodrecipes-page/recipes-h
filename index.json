@@ -5061,17 +5061,15 @@
   },
   {
     "slug": "hearty-gooey-middle-eastern-lamb-tagine",
-    "title": "Hearty Gooey Middle Eastern Lamb Tagine",
+    "title": "Lamb Tagine with Middle Eastern Flavors",
     "tags": [
-      "comfort-food",
-      "date-night",
       "lamb",
-      "low-calorie",
-      "middle-eastern",
-      "slow-cooked"
+      "tagine",
+      "middle eastern",
+      "stew"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 170,
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
