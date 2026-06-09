@@ -1,0 +1,62 @@
+{
+  "slug": "hash-quick-fix-empanada-flatbread",
+  "title": "Quick Empanada Fix",
+  "description": "A delicious and easy-to-make snack using empanadas and flatbread.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanadas",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Quick Fix Sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the empanadas for 10-12 minutes, or until golden brown.",
+    "While the empanadas are baking, toast the flatbread.",
+    "Warm the Quick Fix Sauce.",
+    "Assemble the snack by placing a toasted flatbread slice on a plate, topping it with a baked empanada, and spooning the Quick Fix Sauce over the top.",
+    "Garnish with hash.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "empanada",
+    "flatbread",
+    "snack",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hash-quick-fix-empanada-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:15:30.488Z"
+}
