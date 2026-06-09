@@ -8999,18 +8999,15 @@
   },
   {
     "slug": "hearty-sichuan-tofu-stew",
-    "title": "Hearty Sichuan Tofu Stew",
+    "title": "Spicy Sichuan Tofu Stew",
     "tags": [
-      "cedar-plank",
-      "hearty",
-      "low-glycemic",
-      "one-pot",
       "sichuan",
+      "tofu",
       "stew",
       "vegetarian"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "cuisine": "Sichuan",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -15015,16 +15012,14 @@
   },
   {
     "slug": "hollyhock-hued-italian-bowtie-pasta-pasta",
-    "title": "Hollyhock-Hued Italian Bowtie Pasta",
+    "title": "Bowtie Pasta with Italian Salsa",
     "tags": [
       "italian",
-      "keto-friendly",
-      "one-pan",
-      "veggie-packed",
-      "weeknight"
+      "pasta",
+      "vegetarian"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
