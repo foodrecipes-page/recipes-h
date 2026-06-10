@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-korean-rice-fried-rice",
+  "title": "Spicy Korean Fried Rice",
+  "description": "A simple and flavorful Korean-inspired fried rice dish that's perfect as a quick snack or meal. This recipe combines the savory flavors of Korean chili flakes with the crunch of crispy vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Fried rice mix",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds great flavor"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1-2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1",
+      "notes": "optional, for added protein"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Once the oil is hot, add the remaining 1 tablespoon of vegetable oil, then add the Korean chili flakes and stir for 1-2 seconds.",
+    "Add the cooked rice and stir-fry for 3-4 minutes, breaking up any clumps with a spatula.",
+    "Add the fried rice mix and stir-fry for an additional 1-2 minutes.",
+    "Push the rice mixture to one side of the pan, then add a little more oil if necessary and crack in a fried egg.",
+    "Scramble the egg, then mix it with the rice.",
+    "Season with salt to taste, then transfer the Spicy Korean Fried Rice to a serving platter.",
+    "Garnish with chopped scallions and serve immediately.",
+    "If desired, add a squeeze of fresh lime juice and a sprinkle of toasted sesame seeds for added flavor and crunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "fried",
+    "rice",
+    "spicy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-korean-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:44:23.906Z"
+}
