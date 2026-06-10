@@ -1,0 +1,69 @@
+{
+  "slug": "heavenly-light-turkish-chocolate-mousse",
+  "title": "Turkish Chocolate Mousse",
+  "description": "A rich and decadent chocolate mousse infused with the flavors of Turkey, made with heavenly heavy cream and light whipped cream.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chocolate",
+      "amount": "250g"
+    },
+    {
+      "name": "heavenly heavy cream",
+      "amount": "150ml",
+      "notes": "chilled"
+    },
+    {
+      "name": "light whipped cream",
+      "amount": "100ml",
+      "notes": "chilled"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "20g"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "large egg white",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "Whisk together the chilled heavy cream and whipped cream until stiff peaks form.",
+    "In a separate bowl, whisk together the egg white and caster sugar until stiff peaks form.",
+    "Fold the egg mixture into the chocolate until well combined.",
+    "Fold the whipped cream mixture into the chocolate mixture until well combined.",
+    "Stir in the Turkish delight.",
+    "Spoon the mousse into individual serving cups or a large serving dish.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Serve chilled and garnish with additional whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "turkish",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-light-turkish-chocolate-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:32:54.458Z"
+}
