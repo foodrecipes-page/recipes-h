@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-chewy-ukrainian-pilaf",
+  "title": "Ukrainian Hearty Beef Pilaf",
+  "description": "A hearty, comforting pilaf dish from Ukraine, made with tender beef and flavorful spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "Meat",
+    "Gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 or higher lean to fat ratio"
+    },
+    {
+      "name": "Pilaf Rice",
+      "amount": "1 cup",
+      "notes": "long-grain rice, rinsed"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional, for traditional flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium-high heat.",
+    "Add ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add chopped onion and cook until softened, about 3 minutes.",
+    "Add caraway seeds (if using), salt, and black pepper. Cook for 1 minute.",
+    "Add pilaf rice and stir to coat with butter and oil.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until rice is tender and liquid has been absorbed.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "hearty",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-chewy-ukrainian-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:05:00.510Z"
+}
