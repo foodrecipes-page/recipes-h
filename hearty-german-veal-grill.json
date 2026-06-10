@@ -1,0 +1,69 @@
+{
+  "slug": "hearty-german-veal-grill",
+  "title": "Grilled Veal Schnitzel",
+  "description": "A classic German dish featuring thinly cut veal, breaded and grilled to perfection. Serve with a side of tangy lemon wedges.",
+  "cuisine": "german",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "grated breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Season the veal cutlets with salt and pepper.",
+    "In a shallow dish, mix together flour, eggs, and breadcrumbs.",
+    "Dip each veal cutlet in the breading mixture, coating both sides evenly.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Add the breaded veal cutlets to the grill and cook for 3-4 minutes per side, or until golden brown and cooked through.",
+    "Serve immediately with a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grill",
+    "veal",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-german-veal-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:24:47.530Z"
+}
