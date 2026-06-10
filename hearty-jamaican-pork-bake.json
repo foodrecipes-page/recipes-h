@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-jamaican-pork-bake",
+  "title": "Jamaican Jerk Pork Bake",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring slow-cooked pork in a jerk seasoning mixture, served with a crispy baked crust.",
+  "cuisine": "jamaican",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "shredded, for topping"
+    },
+    {
+      "name": "heart-healthy olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together jerk seasoning, brown sugar, and soy sauce.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Coat the pork shoulder with flour, shaking off any excess.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the pork until browned on all sides, about 5 minutes.",
+    "Transfer the pork to a baking dish and bake for 20 minutes.",
+    "Increase oven temperature to 425°F (220°C).",
+    "Top the pork with shredded bake and continue baking for an additional 15-20 minutes, or until the crust is golden brown and the pork is cooked through.",
+    "Let the pork rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-jerk",
+    "pork-bake",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-jamaican-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:39:48.199Z"
+}
