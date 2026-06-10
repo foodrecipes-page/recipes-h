@@ -5816,17 +5816,16 @@
   },
   {
     "slug": "hearty-holiday-turkish-cranberry-menemen",
-    "title": "Hearty Holiday Turkish Cranberry Menemen",
+    "title": "Turkish Holiday Menemen",
     "tags": [
-      "breakfast-ideas",
-      "healthy-eating",
-      "holiday-recipes",
-      "low-calorie",
-      "one-pan",
-      "turkish-inspired"
+      "turkish",
+      "holiday",
+      "breakfast",
+      "vegetarian",
+      "menemen"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -16689,15 +16688,14 @@
   },
   {
     "slug": "huge-briny-densely-kenyan-sausages-bowl",
-    "title": "Huge Briny Densely Kenyan Sausages Bowl",
+    "title": "Kenyan Sausage Stew",
     "tags": [
       "kenyan",
-      "one-pan",
-      "sausage",
-      "weeknight"
+      "sausages",
+      "stew"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
