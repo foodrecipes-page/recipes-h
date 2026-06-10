@@ -1,0 +1,68 @@
+{
+  "slug": "herbal-chewy-filipino-goat-meat-kare",
+  "title": "Filipino-Style Goat BBQ",
+  "description": "A flavorful and spicy BBQ dish featuring goat meat, inspired by Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Goat meat",
+      "amount": "1 lb",
+      "notes": "lean cuts"
+    },
+    {
+      "name": "Kare (Filipino chili paste)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Herbal oil",
+      "amount": "1/4 cup",
+      "notes": "such as coconut or olive oil"
+    },
+    {
+      "name": "Chewy rice",
+      "amount": "2 cups",
+      "notes": "or substitute with sticky rice"
+    },
+    {
+      "name": "Meat marinade",
+      "amount": "1 cup",
+      "notes": "mix of soy sauce, vinegar, and spices"
+    }
+  ],
+  "instructions": [
+    "Marinate the goat meat in the meat marinade for at least 2 hours.",
+    "Preheat the grill to medium-high heat.",
+    "Grill the goat meat for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "While the goat meat is grilling, heat the herbal oil in a pan over medium heat.",
+    "Add the kare paste and cook for 1 minute, stirring constantly.",
+    "Once the goat meat is cooked, brush the kare oil mixture on both sides.",
+    "Serve the goat meat with chewy rice and garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "filipino",
+    "goat",
+    "meat",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-chewy-filipino-goat-meat-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:40:59.211Z"
+}
