@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-nutty-italian-yukon-gold-potatoes-focaccia",
+  "title": "Twice-Baked Yukon Gold Potatoes with Rosemary Focaccia Crust",
+  "description": "A hearty Italian-inspired side dish featuring twice-baked Yukon gold potatoes topped with a flavorful rosemary focaccia crust.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "choose high-quality potatoes with a high starch content"
+    },
+    {
+      "name": "Focaccia",
+      "amount": "1 cup, cubed",
+      "notes": "use a day-old focaccia for best results"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh rosemary provides the best flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced garlic adds depth to the dish"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": "optional, but highly recommended"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use a flaky sea salt for best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality olive oil for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Scrub the Yukon gold potatoes clean and dry them thoroughly. Poke some holes in each potato with a fork to allow steam to escape.",
+    "Rub the potatoes with a little bit of olive oil and season with salt. Place the potatoes directly on the middle rack of the oven.",
+    "Bake the potatoes for 45-60 minutes, or until they're tender when pierced with a fork.",
+    "While the potatoes are baking, cube the focaccia into 1-inch pieces and place them on a baking sheet.",
+    "Drizzle the focaccia with a little bit of olive oil and sprinkle with minced garlic. Toss to coat.",
+    "Add the cubed focaccia to the oven with the potatoes and bake for an additional 10-15 minutes, or until the focaccia is crispy and golden brown.",
+    "Once the potatoes are done, remove them from the oven and let them cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and scoop out most of the flesh, leaving about 1/4 inch of the potato around the skin.",
+    "Mash the potato flesh in a bowl with a fork until it's mostly smooth. Add a sprinkle of grated Parmesan cheese and mix until well combined.",
+    "Stuff each potato shell with the mashed potato mixture and top with a few pieces of the crispy focaccia.",
+    "Drizzle the tops of the potatoes with a little bit of olive oil and sprinkle with fresh rosemary. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "twice-baked-potatoes",
+    "rosemary-focaccia",
+    "italian-side-dish",
+    "yukon-gold-potatoes"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-nutty-italian-yukon-gold-potatoes-focaccia",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:12:43.874Z"
+}
