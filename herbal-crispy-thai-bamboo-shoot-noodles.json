@@ -1,0 +1,89 @@
+{
+  "slug": "herbal-crispy-thai-bamboo-shoot-noodles",
+  "title": "Spicy Bamboo Shoot Noodles",
+  "description": "A spicy Thai-inspired noodle dish made with bamboo shoots and crispy ingredients. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "Thai rice noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Crispy shallots",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the bamboo shoots and stir-fry for 2-3 minutes.",
+    "Add the curry paste and stir-fry for 1 minute.",
+    "Add the cooked noodles and stir-fry for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with crispy shallots and green onions.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "noodles",
+    "spicy",
+    "easydinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crispy-thai-bamboo-shoot-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:50:32.035Z"
+}
