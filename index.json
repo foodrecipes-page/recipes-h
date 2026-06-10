@@ -5586,17 +5586,16 @@
   },
   {
     "slug": "hearty-herbal-ethiopian-lamb-berbere-stew",
-    "title": "Hearty Herbal Ethiopian Lamb Berbere Stew",
+    "title": "Lamb Stew with Berbere Spices (Ethiopian)",
     "tags": [
-      "berbere-spice",
-      "comal-cooking",
-      "ethiopian-cuisine",
-      "fodmap-friendly",
-      "hearty-stew",
-      "lamb-recipes"
+      "lamb",
+      "berbere",
+      "stew",
+      "ethiopian",
+      "hearty"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
@@ -7922,17 +7921,15 @@
   },
   {
     "slug": "hearty-nutty-italian-yukon-gold-potatoes-focaccia",
-    "title": "Hearty Nutty Italian Yukon Gold Potatoes Focaccia",
+    "title": "Twice-Baked Yukon Gold Potatoes with Rosemary Focaccia Crust",
     "tags": [
-      "comfort-food",
-      "focaccia",
-      "italian",
-      "nutty",
-      "potatoes",
-      "weeknight"
+      "twice-baked-potatoes",
+      "rosemary-focaccia",
+      "italian-side-dish",
+      "yukon-gold-potatoes"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 75,
     "shard": "h"
   },
   {
@@ -9266,17 +9263,14 @@
   },
   {
     "slug": "hearty-slow-vietnamese-lentils-banh-mi",
-    "title": "Hearty Slow Vietnamese Lentils Banh Mi",
+    "title": "Vietnamese Lentil Stew",
     "tags": [
-      "banh-mi",
-      "lentil-recipes",
-      "slow-cooked",
-      "vegetarian-lunch",
-      "vietnamese-cuisine",
-      "vietnamese-street-food"
+      "lentil",
+      "vietnamese",
+      "stew"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 60,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -13355,16 +13349,15 @@
   },
   {
     "slug": "herbal-crispy-thai-bamboo-shoot-noodles",
-    "title": "Herbal Crispy Thai Bamboo Shoot Noodles",
+    "title": "Spicy Bamboo Shoot Noodles",
     "tags": [
-      "high-protein",
-      "midnightcravings",
-      "one-pan",
       "thaifood",
-      "weeknight"
+      "noodles",
+      "spicy",
+      "easydinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
