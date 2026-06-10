@@ -2332,18 +2332,15 @@
   },
   {
     "slug": "hearty-briny-ethiopian-pecan-nuts-atakilt-wat",
-    "title": "Hearty Briny Ethiopian Pecan Nuts Atakilt Wat",
+    "title": "Ethiopian Atakilt Wat Stew",
     "tags": [
-      "briny",
       "ethiopian",
-      "low-sodium",
-      "midnight-craving",
-      "nutty",
-      "pressure-cooker",
-      "vegetarian"
+      "stew",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -2926,16 +2923,14 @@
   },
   {
     "slug": "hearty-chewy-ukrainian-pilaf",
-    "title": "Hearty Chewy Ukrainian Pilaf",
+    "title": "Ukrainian Hearty Beef Pilaf",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "romantic",
       "ukrainian",
-      "weeknight"
+      "hearty",
+      "pilaf"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -11966,18 +11961,14 @@
   },
   {
     "slug": "heavenly-filipino-milk-chocolate-leche-flan",
-    "title": "Heavenly Filipino Milk Chocolate Leche Flan",
+    "title": "Filipino-Style Leche Flan",
     "tags": [
-      "coconut-cream",
-      "filipino-dessert",
+      "filipino",
       "leche-flan",
-      "milk-chocolate",
-      "nuka-pickle",
-      "plant-based",
-      "vegan-friendly"
+      "dessert"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 65,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
