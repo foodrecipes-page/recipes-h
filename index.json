@@ -9400,17 +9400,16 @@
   },
   {
     "slug": "hearty-smoked-peruvian-smoked-mackerel-ceviche",
-    "title": "Hearty Smoked Peruvian Smoked Mackerel Ceviche",
+    "title": "Smoked Mackerel Ceviche",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy",
-      "high-protein",
-      "peruvian-cuisine",
-      "seafood"
+      "peruvian",
+      "ceviche",
+      "mackerel",
+      "fish",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -11485,17 +11484,16 @@
   },
   {
     "slug": "hearty-velvety-kenyan-passion-fruit-curry",
-    "title": "Hearty Velvety Kenyan Passion Fruit Curry",
+    "title": "Kenyan Passion Fruit Curry",
     "tags": [
-      "fruity",
-      "gluten-free",
-      "one-pan",
-      "spicy",
+      "kenyan",
+      "passion-fruit",
+      "curry",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
