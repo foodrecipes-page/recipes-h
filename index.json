@@ -3763,17 +3763,14 @@
   },
   {
     "slug": "hearty-dense-malaysian-natto-curry",
-    "title": "Hearty Dense Malaysian Natto Curry",
+    "title": "Hearty Malaysian Curry",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "curry",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 55,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -9505,18 +9502,14 @@
   },
   {
     "slug": "hearty-smoky-argentinian-beef-stew",
-    "title": "Hearty Smoky Argentinian Beef Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "argentinian",
-      "gluten-free",
-      "hearty",
-      "nut-free-friendly",
-      "post-workout",
-      "smoky",
-      "stew"
+      "beef-stew",
+      "argentinian-cuisine",
+      "hearty-dinner"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 170,
+    "cuisine": "argentinian",
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
