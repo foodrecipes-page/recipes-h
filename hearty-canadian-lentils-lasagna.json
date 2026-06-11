@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-canadian-lentils-lasagna",
+  "title": "Canadian Lentil Lasagna",
+  "description": "A hearty Canadian-inspired twist on the classic lasagna, featuring lentils and layers of flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "Lasagna Noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lentils according to package instructions. Drain and set aside.",
+    "Sauté chopped onion, carrots, and mushrooms in olive oil until tender.",
+    "Add tomato paste and cook for 1 minute.",
+    "Stir in vegetable broth and bring to a boil. Reduce heat and simmer for 10 minutes.",
+    "Combine cooked lentils, tomato mixture, and diced tomatoes. Season with salt and pepper.",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "Spread a layer of the lentil mixture in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the lentil mixture.",
+    "Sprinkle with Parmesan cheese. Repeat layers two more times, ending with a layer of noodles on top.",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "lentil",
+    "lasagna",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-canadian-lentils-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:46:25.146Z"
+}
