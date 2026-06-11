@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-smoky-french-chicken-coq-au-vin",
+  "title": "Coq au Vin",
+  "description": "A classic French dish made with chicken cooked in red wine, mushrooms, onions, and bacon.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Cook the bacon in a large Dutch oven over medium heat until crispy.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the onions to the pot and cook until they are softened and lightly browned.",
+    "Add the mushrooms to the pot and cook until they are softened.",
+    "Add the chicken to the pot and cook until it is browned on all sides.",
+    "Add the red wine, chicken broth, tomato paste, and thyme to the pot.",
+    "Return the bacon to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 25-30 minutes, or until the chicken is cooked through.",
+    "Serve the Coq au Vin hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coq-au-vin",
+    "chicken",
+    "french",
+    "red-wine",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-french-chicken-coq-au-vin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:58:52.149Z"
+}
