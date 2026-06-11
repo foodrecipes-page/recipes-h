@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-light-portuguese-tofu-stew",
+  "title": "Portuguese Stew with Tofu",
+  "description": "A hearty and comforting stew inspired by Portuguese cuisine, featuring tender tofu and a rich vegetable broth.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the potatoes, carrots, and tofu. Cook for 5 minutes, stirring occasionally.",
+    "Add the tomatoes, vegetable broth, red wine, salt, and pepper. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to medium-low and simmer, covered, for 20 minutes.",
+    "Remove the lid and continue to simmer for another 10 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stew",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-light-portuguese-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:22:48.615Z"
+}
