@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-crunchy-peruvian-ladyfingers-skillet",
+  "title": "Crunchy Ladyfinger Skillet",
+  "description": "A crunchy Peruvian-inspired dish made with ladyfingers and hearty skillet ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-15 pieces",
+      "notes": "any brand will do"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 medium",
+      "notes": "any hearty skillet type"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "any type"
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1-2 minutes.",
+    "Add the diced tomato and bell pepper, and sauté until tender.",
+    "Add the cumin, paprika, salt, and crushed red pepper flakes. Stir to combine.",
+    "Add the ladyfingers to the skillet and stir to coat with the spice mixture.",
+    "Cook the ladyfingers for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "veggie-friendly",
+    "skillet",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crunchy-peruvian-ladyfingers-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:51:38.935Z"
+}
