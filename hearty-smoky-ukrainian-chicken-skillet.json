@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-smoky-ukrainian-chicken-skillet",
+  "title": "Smoky Chicken Skillet",
+  "description": "A hearty one-pot dish featuring smoky flavors and tender chicken. Perfect for a weeknight dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Remove chicken and set aside.",
+    "Add onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add caraway seeds and smoked paprika and cook for 1 minute.",
+    "Return chicken to the skillet and stir to coat with spice mixture.",
+    "Transfer skillet to the oven and bake at 400°F (200°C) for 15-20 minutes, or until chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "ukrainian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-ukrainian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:38:59.451Z"
+}
