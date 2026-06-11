@@ -4671,19 +4671,14 @@
   },
   {
     "slug": "hearty-french-parsnip-confit",
-    "title": "hearty french parsnip confit",
+    "title": "Braised Confit Parsnips with Crispy French Bread Croutons",
     "tags": [
-      "alsace",
-      "comforting-dish",
-      "hearty",
-      "one-pan",
-      "parsnip",
-      "rich-and-creamy",
-      "vegan-friendly",
-      "weeknight"
+      "comfort-food",
+      "sides",
+      "winter-squash"
     ],
     "cuisine": "french",
-    "totalTimeMin": 150,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -4733,16 +4728,16 @@
   },
   {
     "slug": "hearty-fresh-malaysian-oxtail-braise",
-    "title": "Hearty Fresh Malaysian Oxtail Braise",
+    "title": "Malaysian Oxtail Braise",
     "tags": [
-      "braise",
       "malaysian",
+      "beef",
       "oxtail",
-      "slow-cooker",
-      "weeknight"
+      "braise",
+      "hearty"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 140,
+    "cuisine": "malaysian",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -5893,16 +5888,15 @@
   },
   {
     "slug": "hearty-homemade-egyptian-chicken-stew",
-    "title": "Hearty Homemade Egyptian Chicken Stew",
+    "title": "Egyptian Chicken Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "chicken",
+      "stew",
+      "european",
+      "homemade"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
