@@ -8869,17 +8869,15 @@
   },
   {
     "slug": "hearty-shaggy-croatian-lamb-kebabs",
-    "title": "Hearty Shaggy Croatian Lamb Kebabs",
+    "title": "Traditional Croatian Lamb Kebabs",
     "tags": [
       "croatian",
-      "grilled",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "grilled"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 33,
     "shard": "h"
   },
   {
@@ -9814,17 +9812,15 @@
   },
   {
     "slug": "hearty-smoky-tunisian-potato-tagine",
-    "title": "Hearty Smoky Tunisian Potato Tagine",
+    "title": "Smoky Tunisian Potato Tagine",
     "tags": [
-      "low-carb",
-      "one-pan",
+      "north-african",
       "potato",
       "smoky",
-      "special-occasion",
       "tunisian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -11515,17 +11511,15 @@
   },
   {
     "slug": "hearty-velvety-slovakian-pork-dumplings",
-    "title": "Hearty Velvety Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "one-pot",
       "slovakian",
-      "velvety",
-      "weeknight"
+      "pork",
+      "dumplings",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -15067,20 +15061,15 @@
   },
   {
     "slug": "homestyle-mediterranean-pasta-pasta",
-    "title": "Homestyle Mediterranean Pasta",
+    "title": "Mediterranean Pasta Bake",
     "tags": [
-      "currants",
-      "date-night",
-      "high-protein",
       "mediterranean",
       "pasta",
-      "pine-nuts",
-      "shojin-friendly",
-      "vegan",
-      "vegetarian"
+      "bake",
+      "easy-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
