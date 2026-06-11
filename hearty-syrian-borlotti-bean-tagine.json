@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-syrian-borlotti-bean-tagine",
+  "title": "Syrian Borlotti Tagine Stew",
+  "description": "A hearty, comforting stew made with borlotti beans and inspired by Syrian cuisine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add cumin, coriander, and Syrian spice blend. Cook for 1 minute.",
+    "Add borlotti beans, tomato paste, and 2 cups water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season to taste with salt and pepper.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-borlotti-bean-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:50:58.128Z"
+}
