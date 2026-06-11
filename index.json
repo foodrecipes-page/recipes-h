@@ -1911,17 +1911,15 @@
   },
   {
     "slug": "hearty-american-shungiku-roast",
-    "title": "Hearty American Shungiku Roast",
+    "title": "Hearty Roast Beef Sandwiches",
     "tags": [
-      "hearty",
-      "one-pan",
-      "paleo-friendly",
-      "roast",
-      "shungiku",
-      "terracotta"
+      "american",
+      "comfort-food",
+      "lunch",
+      "roast-beef"
     ],
     "cuisine": "American",
-    "totalTimeMin": 110,
+    "totalTimeMin": 195,
     "shard": "h"
   },
   {
@@ -3535,17 +3533,15 @@
   },
   {
     "slug": "hearty-crunchy-peruvian-ladyfingers-skillet",
-    "title": "Hearty Crunchy Peruvian Ladyfingers Skillet",
+    "title": "Crunchy Ladyfinger Skillet",
     "tags": [
-      "chocolate-lover",
-      "hearty-dinner",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "peruvian-cuisine"
+      "peruvian",
+      "veggie-friendly",
+      "skillet",
+      "crunchy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -8652,17 +8648,15 @@
   },
   {
     "slug": "hearty-russian-white-bean-wrap",
-    "title": "Hearty Russian White Bean Wrap",
+    "title": "Russian-Style Bean Wrap",
     "tags": [
-      "hearty",
-      "lunch",
       "russian",
-      "ti-leaf",
-      "vegan",
-      "white-beans"
+      "vegetarian",
+      "bean",
+      "wrap"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 75,
+    "cuisine": "russian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -10661,16 +10655,14 @@
   },
   {
     "slug": "hearty-syrian-borlotti-bean-tagine",
-    "title": "Hearty Syrian Borlotti Bean Tagine",
+    "title": "Syrian Borlotti Tagine Stew",
     "tags": [
-      "comfort-food",
-      "family-dinner",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian-friendly"
+      "stew",
+      "vegetarian",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 100,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -13553,15 +13545,14 @@
   },
   {
     "slug": "herbal-fluffini-muffins-with-tadka",
-    "title": "Herbal Fluffini Muffins with Tadka",
+    "title": "Herbal Fluffini Muffin Tadka",
     "tags": [
-      "fluffini",
-      "muffins",
-      "tadka",
+      "dessert",
       "herbal",
-      "uks"
+      "fluffini",
+      "muffin"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "h"
   },
