@@ -2634,18 +2634,15 @@
   },
   {
     "slug": "hearty-canadian-lentils-lasagna",
-    "title": "Hearty Canadian Lentil Lasagna",
+    "title": "Canadian Lentil Lasagna",
     "tags": [
       "canadian",
-      "high-protein",
-      "lasagna",
       "lentil",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lasagna",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 70,
     "shard": "h"
   },
   {
@@ -7153,15 +7150,14 @@
   },
   {
     "slug": "hearty-malted-italian-rocket-risotto",
-    "title": "Hearty Malted Italian Rocket Risotto",
+    "title": "Creamy Risotto with Rocket and Italian Seasoning",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "vegan",
-      "weeknight"
+      "risotto",
+      "rocket",
+      "italian"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -9557,17 +9553,16 @@
   },
   {
     "slug": "hearty-smoky-french-chicken-coq-au-vin",
-    "title": "Hearty Smoky French Chicken Coq Au Vin",
+    "title": "Coq au Vin",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "smoky-flavors",
-      "special-occasion"
+      "coq-au-vin",
+      "chicken",
+      "french",
+      "red-wine",
+      "bacon"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -9849,17 +9844,15 @@
   },
   {
     "slug": "hearty-smoky-ukrainian-chicken-skillet",
-    "title": "Hearty Smoky Ukrainian Chicken Skillet",
+    "title": "Smoky Chicken Skillet",
     "tags": [
-      "chicken-dish",
-      "low-fat",
-      "one-pan",
-      "smoky-flavor",
-      "ukrainian-cuisine",
-      "weeknight"
+      "chicken",
+      "skillet",
+      "ukrainian",
+      "smoky"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -11565,17 +11558,14 @@
   },
   {
     "slug": "hearty-venezuelan-beets-hash",
-    "title": "Hearty Venezuelan Beets Hash",
+    "title": "Venezuelan Hash and Beet Bowl",
     "tags": [
       "breakfast",
-      "brunch",
-      "latin-american",
-      "one-pot",
-      "vegan",
-      "weeknight"
+      "veggie",
+      "beets"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
