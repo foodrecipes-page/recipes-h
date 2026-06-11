@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-dense-malaysian-natto-curry",
+  "title": "Hearty Malaysian Curry",
+  "description": "A rich and flavorful curry dish that combines the spices of Malaysia with hearty ingredients.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1 minute.",
+    "Add potatoes and carrots; cook for 5 minutes.",
+    "Add bamboo shoots, coconut milk, fish sauce, and soy sauce.",
+    "Bring to a boil; reduce heat to low and simmer for 15 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dense-malaysian-natto-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:06:46.913Z"
+}
