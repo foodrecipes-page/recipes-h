@@ -1,0 +1,90 @@
+{
+  "slug": "homestyle-mediterranean-pasta-pasta",
+  "title": "Mediterranean Pasta Bake",
+  "description": "A hearty and flavorful pasta bake inspired by the Mediterranean. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta (1 pound)",
+      "amount": "",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "homestyle tomato sauce (2 cups)",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "feta cheese (1 cup, crumbled)",
+      "amount": "",
+      "notes": "Greek or similar type"
+    },
+    {
+      "name": "kalamata olives (1 cup, sliced)",
+      "amount": "",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "artichoke hearts (1 cup, canned)",
+      "amount": "",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley (1/4 cup, chopped)",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "grated mozzarella cheese (1 cup)",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the tomato sauce over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Stir in the artichoke hearts, olives, and feta cheese. Cook for 2-3 minutes until heated through.",
+    "Combine the cooked pasta, sauce mixture, and chopped parsley (if using) in a large bowl.",
+    "Transfer the pasta mixture to a 9x13-inch baking dish.",
+    "If using mozzarella cheese, sprinkle on top of the pasta mixture.",
+    "Bake in the preheated oven for 20-25 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "pasta",
+    "bake",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/homestyle-mediterranean-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:52:13.260Z"
+}
