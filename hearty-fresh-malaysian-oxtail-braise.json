@@ -1,0 +1,102 @@
+{
+  "slug": "hearty-fresh-malaysian-oxtail-braise",
+  "title": "Malaysian Oxtail Braise",
+  "description": "A rich and flavorful oxtail braise in a Malaysian-inspired sauce, perfect for a hearty and comforting meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Brown the oxtail pieces in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the browned oxtail from the pot and set aside.",
+    "Reduce the heat to medium and sauté the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the tamarind paste, fish sauce, and brown sugar, and cook for 1 minute.",
+    "Add the browned oxtail, beef broth, and sliced potatoes to the pot, and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the oxtail for 2 1/2 hours, or until the meat is tender and the sauce has thickened.",
+    "Remove the pot from the oven and season with salt and pepper to taste.",
+    "Serve the oxtail hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "malaysian",
+    "beef",
+    "oxtail",
+    "braise",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fresh-malaysian-oxtail-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:50:44.832Z"
+}
