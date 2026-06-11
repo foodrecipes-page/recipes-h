@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-canadian-beef-wrap",
+  "title": "Canadian Beef Wrap",
+  "description": "A hearty Canadian-inspired beef wrap with roasted vegetables and a tangy sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Canadian wrap",
+      "amount": "4-6 wraps",
+      "notes": "Large tortilla wraps"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "Tangy sauce"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss the shredded cabbage, sliced carrots, and red onion with 1 tablespoon of oil and a pinch of salt.",
+    "Spread the vegetables on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large skillet, cook the beef strips over medium-high heat until browned, about 3-4 minutes per side.",
+    "Transfer the beef to a plate and let rest for 5 minutes before slicing thinly.",
+    "Warm the Canadian wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading a dollop of sour cream on each wrap, followed by a few slices of beef, some roasted vegetables, and a sprinkle of parsley.",
+    "Serve immediately and enjoy!",
+    "Cook's note: You can also add some shredded cheddar cheese or chopped bacon to the wraps for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-canadian-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:08:52.595Z"
+}
