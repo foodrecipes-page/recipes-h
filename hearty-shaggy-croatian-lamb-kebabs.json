@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-shaggy-croatian-lamb-kebabs",
+  "title": "Traditional Croatian Lamb Kebabs",
+  "description": "A hearty and flavorful dish from the Balkans, perfect for a warm evening. Marinated lamb is grilled to perfection on skewers.",
+  "cuisine": "Croatian",
+  "diet": [
+    "red-meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "preferably with the bone"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "for some heat"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, garlic, rosemary, salt, black pepper, and red pepper flakes.",
+    "Add the lamb cubes to the marinade and mix until coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a little space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and let them rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 0,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-shaggy-croatian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:03:00.882Z"
+}
