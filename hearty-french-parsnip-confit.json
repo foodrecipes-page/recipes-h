@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-french-parsnip-confit",
+  "title": "Braised Confit Parsnips with Crispy French Bread Croutons",
+  "description": "A hearty side dish featuring tender confit parsnips topped with crispy french bread croutons, perfect for a comforting meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "confit",
+      "amount": "2 cups"
+    },
+    {
+      "name": "parsnip",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 baguette",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheese (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss the cubed parsnip with olive oil, garlic powder, salt, and black pepper until evenly coated.",
+    "Spread the parsnip mixture on a baking sheet and roast for 20-25 minutes, or until tender and lightly browned.",
+    "Meanwhile, toss the French bread cubes with olive oil and a pinch of salt until evenly coated.",
+    "Spread the bread cubes on a separate baking sheet and bake for 10-12 minutes, or until crispy and golden brown.",
+    "To assemble, place the roasted parsnip on a serving dish and top with crispy French bread croutons.",
+    "If desired, sprinkle grated cheese over the top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "sides",
+    "winter-squash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-french-parsnip-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:45:55.482Z"
+}
