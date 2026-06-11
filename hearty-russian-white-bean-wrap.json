@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-russian-white-bean-wrap",
+  "title": "Russian-Style Bean Wrap",
+  "description": "A hearty and flavorful wrap filled with sautéed beans and served with a tangy slaw.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Bean Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "White Bean",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add the chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the white beans, Russian seasoning, salt, and pepper. Stir to combine.",
+    "Cook for 2-3 minutes, stirring occasionally.",
+    "Warm the white bean wrap according to package instructions.",
+    "Spoon the bean mixture onto the wrap and top with sour cream, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "vegetarian",
+    "bean",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-russian-white-bean-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:22:15.654Z"
+}
