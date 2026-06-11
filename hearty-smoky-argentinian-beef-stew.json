@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-smoky-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty, smoky stew originating from Argentina, made with tender beef and rich flavors.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef brisket",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef brisket until browned, then set aside.",
+    "Add the onions and garlic to the pot, cooking until softened.",
+    "Add the red wine, beef broth, tomato paste, smoked paprika, chili powder, salt, and black pepper.",
+    "Return the beef brisket to the pot, cover, and transfer to the oven.",
+    "Braise the stew for 2.5 hours, or until the beef is tender.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "argentinian-cuisine",
+    "hearty-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:05:18.078Z"
+}
