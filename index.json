@@ -7037,17 +7037,15 @@
   },
   {
     "slug": "hearty-light-portuguese-tofu-stew",
-    "title": "Hearty Light Portuguese Tofu Stew",
+    "title": "Portuguese Stew with Tofu",
     "tags": [
-      "healthy-eating",
-      "jain-friendly",
-      "one-pot-meal",
-      "portuguese-cuisine",
-      "tofu-stew",
-      "vegan-dinner"
+      "portuguese",
+      "stew",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
