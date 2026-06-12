@@ -348,14 +348,14 @@
   },
   {
     "slug": "hangover-cure-crumbled-turkish-redcurrant-crumble",
-    "title": "Hangover-Cure Crumbled Turkish Redcurrant Crumble",
+    "title": "Redcurrant Hangover Crumble",
     "tags": [
-      "crumble",
-      "hangover-cure",
+      "breakfast",
+      "dessert",
       "redcurrant",
-      "turkish-dish"
+      "hangover-cure"
     ],
-    "cuisine": "Turkish",
+    "cuisine": "british",
     "totalTimeMin": 35,
     "shard": "h"
   },
@@ -741,17 +741,16 @@
   },
   {
     "slug": "harmonic-australian-flaxseed-pancakes",
-    "title": "Harmonic Australian Flaxseed Pancakes",
+    "title": "Australian Pancakes with Flaxseed",
     "tags": [
       "australian",
       "breakfast",
       "flaxseed",
       "healthy",
-      "kid-friendly",
-      "vegan"
+      "pancakes"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
@@ -8926,17 +8925,15 @@
   },
   {
     "slug": "hearty-shattering-ukrainian-duck-pilaf",
-    "title": "Hearty Shattering Ukrainian Duck Pilaf",
+    "title": "Ukrainian Duck and Pilaf",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "sattvic-friendly",
       "ukrainian",
-      "vegetarian-option",
-      "weeknight"
+      "duck",
+      "pilaf",
+      "lunch"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -12018,17 +12015,15 @@
   },
   {
     "slug": "heavenly-gooey-french-chocolate-paella",
-    "title": "Heavenly Gooey French Chocolate Paella",
+    "title": "Decadent Chocolate Paella",
     "tags": [
-      "dark-chocolate",
-      "french-pastry",
-      "gooey-center",
-      "one-pan",
-      "rich-dessert",
-      "special-occasion"
+      "chocolate",
+      "paella",
+      "dessert",
+      "spanish"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 55,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -16564,14 +16559,15 @@
   },
   {
     "slug": "hothot-hazy-ethiopian-injera-tart",
-    "title": "Hothot Hazy Ethiopian Injera Tart",
+    "title": "Hazy Ethiopian Tart",
     "tags": [
-      "easily-made",
-      "gluten-free",
-      "no-baking-dairy-free"
+      "hazy",
+      "ethiopian",
+      "dessert",
+      "tart"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
