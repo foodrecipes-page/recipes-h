@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-fluffy-slovakian-gruyere-dumplings",
+  "title": "Slovakian Gruyere Dumplings",
+  "description": "A hearty Slovakian dish featuring fluffy dumplings and melted Gruyere cheese. Serve as a main course.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, grated"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "In a large pot of boiling water, cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Meanwhile, melt butter in a large skillet over medium heat.",
+    "Add sliced sausage and cook until browned.",
+    "Add chopped onion and grated carrot and cook until the vegetables are tender.",
+    "Stir in shredded Gruyere cheese until melted.",
+    "Serve the dumplings with the sausage and vegetable mixture.",
+    "Season with black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "gruyere",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fluffy-slovakian-gruyere-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:18:21.919Z"
+}
