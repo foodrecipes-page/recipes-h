@@ -1,0 +1,69 @@
+{
+  "slug": "hearty-charred-canadian-salmon-wrap",
+  "title": "Salmon Wrap with Charred Veggies",
+  "description": "A flavorful and healthy Canadian-inspired dish featuring grilled salmon and charred vegetables wrapped in a hearty wrap.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4 oz",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Hearty whole wheat wrap",
+      "amount": "1",
+      "notes": "Large or extra-large"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season salmon with salt and pepper.",
+    "Grill the salmon for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, brush the bell peppers, onions, and zucchini with oil and season with salt and pepper.",
+    "Grill the vegetables for 3-4 minutes per side, or until charred.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by placing the grilled salmon and vegetables inside.",
+    "Drizzle with your favorite sauce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "canadian",
+    "grilled",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-charred-canadian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:18:46.183Z"
+}
