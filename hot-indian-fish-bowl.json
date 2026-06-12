@@ -1,0 +1,95 @@
+{
+  "slug": "hot-indian-fish-bowl",
+  "title": "Spicy Indian Fish Bowl",
+  "description": "A flavorful and spicy fish dish served in a bowl, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "1 pound",
+      "notes": "any white fish such as cod or tilapia"
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a hot skillet over medium-high heat.",
+    "Add the ginger paste and garlic and sauté for 1 minute.",
+    "Add the onion and sauté for 3-4 minutes until softened.",
+    "Add the tomato and sauté for 2-3 minutes until softened.",
+    "Add the curry powder and stir for 1 minute.",
+    "Add the fish fillet and cook for 3-4 minutes per side until cooked through.",
+    "Transfer the fish to a bowl and top with cilantro and a squeeze of lime juice.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "spicy",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-indian-fish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:37:07.541Z"
+}
