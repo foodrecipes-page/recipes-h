@@ -1,0 +1,64 @@
+{
+  "slug": "heavenly-gooey-french-chocolate-paella",
+  "title": "Decadent Chocolate Paella",
+  "description": "A rich and indulgent dessert paella, perfect for chocolate lovers. This heavenly treat combines gooey chocolate with crunchy french cookies.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavenly Chocolate",
+      "amount": "250g",
+      "notes": "Dark chocolate for a deeper flavor"
+    },
+    {
+      "name": "Gooey Caramel",
+      "amount": "150g",
+      "notes": "For an extra rich and sticky sauce"
+    },
+    {
+      "name": "French Cookies",
+      "amount": "120g",
+      "notes": "Crunchy on the outside, chewy on the inside"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "200g",
+      "notes": "Specifically designed for paella dishes"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a medium saucepan, melt the heavenly chocolate over low heat.",
+    "Stir in the gooey caramel until well combined.",
+    "In a separate bowl, crush the french cookies into fine crumbs.",
+    "Add the crushed cookies to the melted chocolate mixture and stir until a dough forms.",
+    "Transfer the dough to a 20cm (8in) paella dish or skillet.",
+    "Bake for 20-25 minutes or until the edges are set and the center is slightly gooey.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional crushed cookies if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "paella",
+    "dessert",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-gooey-french-chocolate-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:47:01.966Z"
+}
