@@ -1,0 +1,60 @@
+{
+  "slug": "hothot-hazy-ethiopian-injera-tart",
+  "title": "Hazy Ethiopian Tart",
+  "description": "A sweet and savory tart combining Hazy and Ethiopian flavors with a crispy Injera crust.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hazy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tart",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Injera",
+      "amount": "1 cup, crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart sheet and place in a tart pan.",
+    "Mix Hazy and honey together, then spread on the tart.",
+    "Sprinkle Ethiopian spices over the Hazy mixture.",
+    "Sprinkle crushed Injera over the top.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "hazy",
+    "ethiopian",
+    "dessert",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hothot-hazy-ethiopian-injera-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:42:54.912Z"
+}
