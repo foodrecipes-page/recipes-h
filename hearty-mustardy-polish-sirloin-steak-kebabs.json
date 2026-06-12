@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-mustardy-polish-sirloin-steak-kebabs",
+  "title": "Grilled Sirloin Steak with Polish Mustard Sauce",
+  "description": "A flavorful and savory dish that combines the rich flavors of sirloin steak with a tangy polish mustard sauce, served with a side of hearty kebabs.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Polish Mustard",
+      "amount": "1/4 cup",
+      "notes": "such as grey poupon or whole-grain mustard"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Hearty Kebabs",
+      "amount": "4-6",
+      "notes": "such as bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the sirloin steak with salt and black pepper.",
+    "Grill the sirloin steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F - 135°F for medium-rare.",
+    "While the steak is cooking, mix the polish mustard, butter, and garlic in a small saucepan over low heat.",
+    "Simmer the mustard sauce for 2-3 minutes, or until it thickens slightly.",
+    "Remove the steak from the grill and let it rest for 5 minutes.",
+    "Serve the steak with the polish mustard sauce spooned over the top.",
+    "Serve with hearty kebabs on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "polish",
+    "mustard"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 8,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mustardy-polish-sirloin-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:27:52.356Z"
+}
