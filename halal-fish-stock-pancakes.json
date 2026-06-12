@@ -1,0 +1,73 @@
+{
+  "slug": "halal-fish-stock-pancakes",
+  "title": "Pan-Seared Fish with Pancake Crust",
+  "description": "A delicious and easy-to-make dish featuring pan-seared fish topped with a crispy pancake crust.",
+  "cuisine": "seafood",
+  "diet": [
+    "halal",
+    "fish-only"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour Pancakes",
+      "amount": "4-6 pancakes, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Fish Fillets (halal)",
+      "amount": "4 fish fillets (6 oz each)",
+      "notes": "any white fish such as cod or tilapia"
+    },
+    {
+      "name": "Stock (fish-based)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, mix together crumbled pancakes and a pinch of salt and pepper.",
+    "3. In a separate pan, melt butter over medium heat.",
+    "4. Dip each fish fillet in the melted butter and then coat with the pancake mixture, pressing gently to adhere.",
+    "5. Place the coated fish in the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "6. While the fish is baking, heat the stock in a saucepan over medium heat.",
+    "7. Remove the fish from the oven and serve with the heated stock.",
+    "8. Garnish with additional pancake crumbles if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "pancakes",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-fish-stock-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:15:18.502Z"
+}
