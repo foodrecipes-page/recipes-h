@@ -67,15 +67,14 @@
   },
   {
     "slug": "halal-fish-stock-pancakes",
-    "title": "Halal Fish Stock Pancakes",
+    "title": "Pan-Seared Fish with Pancake Crust",
     "tags": [
-      "halal",
-      "jamaican",
+      "fish",
       "pancakes",
-      "fish_stock"
+      "seafood"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 13,
+    "cuisine": "seafood",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -2699,18 +2698,15 @@
   },
   {
     "slug": "hearty-charred-canadian-salmon-wrap",
-    "title": "Hearty Charred Canadian Salmon Wrap",
+    "title": "Salmon Wrap with Charred Veggies",
     "tags": [
-      "canadian-cuisine",
-      "date-night",
-      "gluten-free",
-      "healthy",
-      "paleo",
-      "seafood",
-      "whole30"
+      "salmon",
+      "canadian",
+      "grilled",
+      "healthy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
@@ -7088,17 +7084,15 @@
   },
   {
     "slug": "hearty-malaysian-morcilla-satay",
-    "title": "Hearty Malaysian Morcilla Satay",
+    "title": "Malaysian Style Satay with Spanish Morcilla",
     "tags": [
-      "dehydrated",
-      "fermented",
-      "gluten-free",
-      "high-protein",
-      "malaysian-cuisine",
-      "meal-prep"
+      "malaysian",
+      "spanish",
+      "grilled",
+      "peanut-sauce"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 210,
+    "cuisine": "malaysian",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -7174,17 +7168,16 @@
   },
   {
     "slug": "hearty-malty-korean-pecan-kalguksu",
-    "title": "Hearty Malty Korean Pecan Kalguksu",
+    "title": "Pecan Kalguksu with Hearty Malt Sauce",
     "tags": [
-      "korean-cuisine",
-      "kosher-friendly",
-      "malty",
-      "nutty",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "vegetarian",
+      "noodles",
+      "pecans",
+      "malt"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
