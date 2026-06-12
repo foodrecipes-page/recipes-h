@@ -1,0 +1,79 @@
+{
+  "slug": "herb-jerk-keto-gooey-stuffed-vegetables",
+  "title": "Keto Herb Stuffed Vegetables",
+  "description": "Delicious stuffed vegetables filled with a flavorful keto herb mixture, perfect for a low-carb dinner.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "4",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium-sized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "herb",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "low-carb"
+    },
+    {
+      "name": "goey cheese",
+      "amount": "1/4 cup",
+      "notes": "low-carb"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the zucchini and bell peppers, and scoop out the seeds.",
+    "In a bowl, mix together the onion, garlic, herb, and jerk seasoning.",
+    "Stuff each vegetable with the onion mixture, dividing it evenly.",
+    "Place the stuffed vegetables on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the vegetables are tender.",
+    "Top each vegetable with gooey cheese and return to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-jerk-keto-gooey-stuffed-vegetables",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:43:03.649Z"
+}
