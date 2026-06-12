@@ -1,0 +1,63 @@
+{
+  "slug": "hangover-cure-crumbled-turkish-redcurrant-crumble",
+  "title": "Redcurrant Hangover Crumble",
+  "description": "A sweet breakfast treat using redcurrants and a crunchy hangover cure crumble topping. Perfect for a morning pick-me-up.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Hangover cure",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Turkish",
+      "amount": "1/4 tsp",
+      "notes": "ground cinnamon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together redcurrants and hangover cure.",
+    "Transfer the mixture to a 6-inch baking dish.",
+    "In a separate bowl, mix together crumble and cinnamon.",
+    "Spread the crumble mixture evenly over the redcurrant mixture.",
+    "Bake for 25-30 minutes, or until the topping is golden brown.",
+    "Serve warm with fresh redcurrants on top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "redcurrant",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "5g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-crumbled-turkish-redcurrant-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:00:01.730Z"
+}
