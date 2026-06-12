@@ -4508,17 +4508,15 @@
   },
   {
     "slug": "hearty-fluffy-slovakian-gruyere-dumplings",
-    "title": "Hearty Fluffy Slovakian Gruyere Dumplings",
+    "title": "Slovakian Gruyere Dumplings",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "european",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "dumplings",
+      "gruyere",
+      "cheesy"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -12557,16 +12555,15 @@
   },
   {
     "slug": "herb-jerk-keto-gooey-stuffed-vegetables",
-    "title": "HerbJerkKetoGooeyStuffedVegetables",
+    "title": "Keto Herb Stuffed Vegetables",
     "tags": [
       "keto",
-      "herbjerk",
-      "vegetables",
-      "stuffed",
-      "fried"
+      "low-carb",
+      "vegetarian",
+      "dinner"
     ],
-    "cuisine": "Chinese (Shandong)",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15984,18 +15981,15 @@
   },
   {
     "slug": "hot-indian-fish-bowl",
-    "title": "Hot Indian Fish Bowl",
+    "title": "Spicy Indian Fish Bowl",
     "tags": [
-      "fish",
       "indian",
-      "lassi",
-      "mortar-pestle",
-      "nut-free",
-      "peppery",
-      "quick-fix"
+      "fish",
+      "spicy",
+      "curry"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "cuisine": "indian",
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
