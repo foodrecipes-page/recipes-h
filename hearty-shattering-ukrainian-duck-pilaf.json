@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-shattering-ukrainian-duck-pilaf",
+  "title": "Ukrainian Duck and Pilaf",
+  "description": "A hearty Ukrainian dish made with tender duck and flavorful pilaf.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup",
+      "notes": "preferably ukrainian pilaf rice"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Season the duck breast with salt and pepper.",
+    "3. Heat 1 tablespoon of vegetable oil in an oven-safe pan over medium-high heat.",
+    "4. Sear the duck breast for 2 minutes on each side, then transfer to the oven and cook for 20-25 minutes, or until cooked through.",
+    "5. Meanwhile, heat the remaining 1 tablespoon of vegetable oil in a large saucepan over medium heat.",
+    "6. Add the chopped onions and cook until softened, about 5 minutes.",
+    "7. Add the peeled and chopped carrots and cook for an additional 5 minutes.",
+    "8. Stir in the pilaf rice and cook for 1-2 minutes, until lightly toasted.",
+    "9. Add 2 cups of water to the saucepan and bring to a boil.",
+    "10. Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "11. To serve, slice the cooked duck breast and serve alongside the pilaf and steamed vegetables, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "duck",
+    "pilaf",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-shattering-ukrainian-duck-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:11:24.793Z"
+}
