@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-malty-korean-pecan-kalguksu",
+  "title": "Pecan Kalguksu with Hearty Malt Sauce",
+  "description": "A fusion dish featuring the nutty flavors of pecans and the hearty malts of Korea, served with a rich Kalguksu noodle base.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalguksu Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Hearty Malt",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Kalguksu noodles according to package instructions.",
+    "In a pan, heat vegetable oil over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add hearty malt and stir until combined with onion and garlic.",
+    "Add soy sauce and sesame oil, stir to combine.",
+    "Add cooked noodles to the pan and toss with malt sauce.",
+    "Top with toasted pecans and green onion.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "noodles",
+    "pecans",
+    "malt"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malty-korean-pecan-kalguksu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:52:46.862Z"
+}
