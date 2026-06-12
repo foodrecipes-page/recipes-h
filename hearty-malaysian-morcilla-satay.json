@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-malaysian-morcilla-satay",
+  "title": "Malaysian Style Satay with Spanish Morcilla",
+  "description": "A fusion dish that combines the flavors of Malaysia and Spain. Grilled satay served with a spicy peanut sauce and Spanish morcilla.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Morcilla",
+      "amount": "250g",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "for satay"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "250ml",
+      "notes": "for peanut sauce"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "100g",
+      "notes": "for peanut sauce"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "20g",
+      "notes": "for spice"
+    },
+    {
+      "name": "Coriander",
+      "amount": "20g",
+      "notes": "for spice"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "100ml",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "20ml",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "50g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Grill the chicken breast until cooked, then slice into thin strips.",
+    "2. Slice the morcilla into rounds.",
+    "3. In a blender, combine coconut milk, peanut butter, chili flakes, and coriander. Blend until smooth.",
+    "4. Add lime juice to the peanut sauce and stir well.",
+    "5. Grill the sliced chicken and morcilla until slightly charred.",
+    "6. Serve the grilled chicken and morcilla with the peanut sauce.",
+    "7. Garnish with chopped peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "spanish",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malaysian-morcilla-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:07:10.992Z"
+}
