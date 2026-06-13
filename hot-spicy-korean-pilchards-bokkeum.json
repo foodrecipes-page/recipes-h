@@ -1,0 +1,100 @@
+{
+  "slug": "hot-spicy-korean-pilchards-bokkeum",
+  "title": "Spicy Pilchard Bokkeum",
+  "description": "A spicy Korean-inspired stir-fry made with pilchards and vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilchards",
+      "amount": "1 can (drained and flaked)",
+      "notes": ""
+    },
+    {
+      "name": "Bokkeum",
+      "amount": "2 cups (sliced)",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches (sliced)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves (minced)",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gojuchang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "2. Add the sliced bokkeum and cook for 3-4 minutes, or until tender.",
+    "3. Add the minced garlic and sliced ginger and cook for 1 minute, or until fragrant.",
+    "4. Add the flaked pilchards and cook for 2-3 minutes, or until heated through.",
+    "5. In a small bowl, whisk together the soy sauce, gojuchang, brown sugar, rice vinegar, and Korean chili flakes.",
+    "6. Pour the sauce over the pilchard mixture and stir to combine.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve immediately over rice or noodles.",
+    "9. Garnish with green onions and toasted sesame seeds, if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "korean",
+    "fish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-spicy-korean-pilchards-bokkeum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:30:06.808Z"
+}
