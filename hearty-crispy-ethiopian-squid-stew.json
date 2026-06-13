@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-crispy-ethiopian-squid-stew",
+  "title": "Crispy Ethiopian Squid Stew",
+  "description": "A hearty and flavorful Ethiopian-inspired stew featuring crispy squid as the main attraction.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "sliced",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add chopped onion and sauté until softened, about 5 minutes.",
+    "Add minced garlic and sauté for another minute.",
+    "Add diced tomato and red pepper, and sauté for 5 minutes.",
+    "Add Berbere Spice and stir to combine.",
+    "Add squid pieces and cook until crispy and golden brown, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with crusty bread and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "ethiopian",
+    "squid",
+    "stew",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crispy-ethiopian-squid-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:56:53.386Z"
+}
