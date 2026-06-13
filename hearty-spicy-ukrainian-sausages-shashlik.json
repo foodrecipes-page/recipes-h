@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-spicy-ukrainian-sausages-shashlik",
+  "title": "Ukrainian Shashlik Sausages",
+  "description": "A traditional Ukrainian dish featuring marinated sausages grilled to perfection. Serve with your favorite sides and condiments.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4-6",
+      "notes": "You can use any type of sausage you like, but traditional Ukrainian sausages are preferred."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Thinly slice the onion for easy grilling."
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2",
+      "notes": "Any color bell pepper works well for this recipe."
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Fresh or canned, your choice."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3-4 cloves",
+      "notes": "Mince the garlic for added flavor."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet or smoked paprika, your preference."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt for the best flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground is always best."
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "In a large bowl, whisk together paprika, salt, and black pepper.",
+    "Add the sliced onion and minced garlic to the bowl and toss to coat.",
+    "Thread the sausages, onion mixture, bell peppers, and tomatoes onto skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the shashlik for 8-10 minutes, turning occasionally, until the sausages are cooked through and the vegetables are tender.",
+    "Serve hot with your favorite sides and condiments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "sausages",
+    "grilled",
+    "summer",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-ukrainian-sausages-shashlik",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:17:23.770Z"
+}
