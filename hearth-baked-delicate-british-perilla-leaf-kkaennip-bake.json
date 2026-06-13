@@ -1,0 +1,67 @@
+{
+  "slug": "hearth-baked-delicate-british-perilla-leaf-kkaennip-bake",
+  "title": "Delicate British Leaf Pie",
+  "description": "A traditional British dessert with a delicate pastry crust and a sweet leaf filling. Perfect for a warm evening.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "leaves (such as kkaennip or perilla)",
+      "amount": "1 bunch",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry dough and place in a pie dish.",
+    "In a separate bowl, mix together the sugar, butter, and eggs.",
+    "Add the leaves to the bowl and stir until well combined.",
+    "Pour the filling into the pie crust.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "pie",
+    "leaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearth-baked-delicate-british-perilla-leaf-kkaennip-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T23:55:47.856Z"
+}
