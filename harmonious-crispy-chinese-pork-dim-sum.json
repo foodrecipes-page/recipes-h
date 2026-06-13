@@ -1,0 +1,85 @@
+{
+  "slug": "harmonious-crispy-chinese-pork-dim-sum",
+  "title": "Crispy Pork Dumplings",
+  "description": "A traditional Chinese dish made with crispy wrappers and savory pork fillings, perfect for a satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork dumpling wrappers (wonton wrappers)",
+      "amount": "2 packages",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "you can also use ground beef or a combination"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for dipping"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, chopped green onions, minced garlic, grated ginger, soy sauce, and sesame oil. Mix well until just combined.",
+    "Lay a dumpling wrapper on a clean surface. Place a tablespoon of the pork filling in the center of the wrapper.",
+    "Moisten the edges of the wrapper with a little water. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling. Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet or wok over medium-high heat. When the pan is hot, add a small amount of sesame oil.",
+    "When the oil is hot, add the dumplings to the pan, flat side down. Cook for 2-3 minutes or until the bottoms are golden brown.",
+    "Add 1/2 cup of water to the pan and cover with a lid. Steam the dumplings for 5-7 minutes or until the wrappers are cooked through.",
+    "Serve the dumplings hot with your favorite dipping sauce. Garnish with chopped green onions and sesame seeds if desired.",
+    "Note: You can also steam the dumplings in a steamer basket over boiling water for 5-7 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dinner",
+    "dumplings",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harmonious-crispy-chinese-pork-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:03:12.919Z"
+}
