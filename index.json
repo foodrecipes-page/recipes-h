@@ -16214,17 +16214,16 @@
   },
   {
     "slug": "hot-smoked-peruvian-chicken-aji-de-gallina",
-    "title": "Hot Smoked Peruvian Chicken Aji-De-Gallina",
+    "title": "Smoked Chicken Gallina",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "hot-smoked",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "smoked-chicken",
+      "aji-sauce",
+      "gallina",
+      "potatoes"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
