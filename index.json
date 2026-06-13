@@ -3201,18 +3201,16 @@
   },
   {
     "slug": "hearty-crispy-ethiopian-squid-stew",
-    "title": "Hearty Crispy Ethiopian Squid Stew",
+    "title": "Crispy Ethiopian Squid Stew",
     "tags": [
-      "air-fry",
       "crispy",
       "ethiopian",
-      "hearty",
-      "no-garlic",
-      "no-onion",
+      "squid",
+      "stew",
       "seafood"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -5131,16 +5129,15 @@
   },
   {
     "slug": "hearty-grassy-tunisian-lamb-tagine",
-    "title": "Hearty Grassy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "one-pot",
-      "slow-cooker",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 120,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -8474,17 +8471,16 @@
   },
   {
     "slug": "hearty-roasted-portuguese-cheese-casserole",
-    "title": "Hearty Roasted Portuguese Cheese Casserole",
+    "title": "Portuguese Roasted Cheese Casserole",
     "tags": [
-      "cheese-pull",
-      "macrobiotic-friendly",
-      "one-pan",
-      "portuguese-cuisine",
-      "vegetarian",
-      "weeknight"
+      "portuguese",
+      "roasted",
+      "cheese",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -15035,15 +15031,15 @@
   },
   {
     "slug": "honey-drizzled-hazy-toast-flatbread",
-    "title": "Honey Drizzled Hazy Toast Flatbread",
+    "title": "Sweet Flatbread Toast",
     "tags": [
-      "gluten-free",
-      "honey-ingredient",
-      "light-mediterranean",
-      "snack-friendly"
+      "breakfast",
+      "brunch",
+      "snack",
+      "sweet"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 4,
     "shard": "h"
   },
   {
