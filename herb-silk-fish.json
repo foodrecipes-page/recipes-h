@@ -1,0 +1,54 @@
+{
+  "slug": "herb-silk-fish",
+  "title": "Poached Fish with Herb",
+  "description": "A delicate and flavorful dish featuring poached fish served with a sprinkle of fresh herbs.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "fresh herb",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "1. Fill a large pot with the water and bring to a boil.",
+    "2. Reduce heat to a simmer and add the fish fillets to the pot.",
+    "3. Poach the fish for 8-10 minutes or until it flakes easily with a fork.",
+    "4. Meanwhile, chop the fresh herbs and set aside.",
+    "5. Remove the fish from the pot and serve with the chopped herbs on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "fish",
+    "herb",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-silk-fish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:25:10.617Z"
+}
