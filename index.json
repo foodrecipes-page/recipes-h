@@ -14216,17 +14216,17 @@
   },
   {
     "slug": "herbal-thai-chicken-skewers",
-    "title": "Herbal Thai Chicken Skewers",
+    "title": "Thai Chicken Skewers",
     "tags": [
-      "crowd-pleaser",
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "summer-recipe",
-      "thai-cuisine"
+      "thai",
+      "chicken",
+      "skewers",
+      "grill",
+      "quick",
+      "easy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -16405,14 +16405,12 @@
   },
   {
     "slug": "hot-spicy-korean-pilchards-bokkeum",
-    "title": "Hot Spicy Korean Pilchards Bokkeum",
+    "title": "Spicy Pilchard Bokkeum",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "korean-food",
-      "quick-dinner",
-      "seafood",
-      "spicy-food"
+      "spicy",
+      "korean",
+      "fish",
+      "seafood"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
