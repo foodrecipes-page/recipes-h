@@ -1,0 +1,55 @@
+{
+  "slug": "honey-drizzled-hazy-toast-flatbread",
+  "title": "Sweet Flatbread Toast",
+  "description": "A simple and sweet breakfast or snack option, perfect for using up flatbread.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "2 pieces",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1-2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Toast",
+      "amount": "1 piece",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (175°C).",
+    "Toast the flatbread until lightly browned.",
+    "Drizzle 1-2 tbsp of honey over the toasted flatbread.",
+    "Serve with a piece of toast on the side for dipping in the honey.",
+    "Optional: top with a sprinkle of cinnamon or a pinch of salt for added flavor."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 2,
+  "totalTimeMin": 4,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-drizzled-hazy-toast-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:47:26.436Z"
+}
