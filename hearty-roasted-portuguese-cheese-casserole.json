@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-roasted-portuguese-cheese-casserole",
+  "title": "Portuguese Roasted Cheese Casserole",
+  "description": "A hearty, comforting casserole filled with roasted cheese and perfect for a chilly evening. This Portuguese-inspired dish is easy to make and sure to become a family favorite.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "2",
+      "notes": "from a jar or roasted at home"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the dish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the Portuguese bread into 1-inch cubes and place half of them in the bottom of a 9x13-inch baking dish.",
+    "Drizzle the olive oil over the bread, then sprinkle with minced garlic and roasted red pepper.",
+    "Top with the remaining bread cubes, followed by the shredded cheddar and grated Parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "roasted",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-roasted-portuguese-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:24:00.281Z"
+}
