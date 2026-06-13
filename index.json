@@ -797,18 +797,15 @@
   },
   {
     "slug": "harmonious-crispy-chinese-pork-dim-sum",
-    "title": "Harmonious Crispy Chinese Pork Dim Sum",
+    "title": "Crispy Pork Dumplings",
     "tags": [
-      "appetizer",
-      "chinese-food",
-      "dim-sum",
-      "garlic-infused-oil",
-      "ground-pork",
-      "sesame-oil",
-      "snack-food"
+      "chinese",
+      "dinner",
+      "dumplings",
+      "pork"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
