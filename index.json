@@ -15678,17 +15678,14 @@
   },
   {
     "slug": "honeyed-ukrainian-grapes-agemono-deep-fry",
-    "title": "Honeyed Ukrainian Grapes Agemono-Deep-Fry",
+    "title": "Honeyed Grape Fritters",
     "tags": [
-      "brunch",
-      "deep-fried",
-      "fodmap-friendly",
-      "gluten-free",
-      "snack",
-      "ukrainian"
+      "honey",
+      "grapes",
+      "deep-fried"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 16,
     "shard": "h"
   },
   {
@@ -16548,15 +16545,15 @@
   },
   {
     "slug": "hpeppery-gochugaru-tagine",
-    "title": "HPeppery Gochugaru Tagine",
+    "title": "Spicy Hpeppery Tagine Chicken",
     "tags": [
-      "gochugaru-tagine",
-      "lardons",
-      "mediterranean-dish",
-      "peppery"
+      "north-african",
+      "chicken",
+      "stew",
+      "gluten-free"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 65,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
