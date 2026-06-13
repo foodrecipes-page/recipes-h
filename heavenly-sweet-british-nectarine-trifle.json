@@ -1,0 +1,74 @@
+{
+  "slug": "heavenly-sweet-british-nectarine-trifle",
+  "title": "British Trifle with Nectarine",
+  "description": "A classic British dessert featuring layers of sponge cake, fruit, custard, and whipped cream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sponge cake",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Nectarines",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla custard",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter, softened",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large serving dish, create a layer of sponge cake.",
+    "2. Top the cake layer with sliced nectarines and fresh raspberries.",
+    "3. In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "4. Spread the whipped cream over the fruit layer.",
+    "5. In another bowl, mix the vanilla custard with granulated sugar until well combined.",
+    "6. Pour the custard mixture over the whipped cream layer.",
+    "7. Repeat the layers, starting with the sponge cake, then the fruit, whipped cream, and finally the custard.",
+    "8. Top the trifle with a dollop of whipped cream and a sprinkle of granulated sugar.",
+    "9. Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "10. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "trifle",
+    "nectarine",
+    "raspberry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-sweet-british-nectarine-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:21:11.543Z"
+}
