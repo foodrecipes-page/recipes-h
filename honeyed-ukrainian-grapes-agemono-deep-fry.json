@@ -1,0 +1,62 @@
+{
+  "slug": "honeyed-ukrainian-grapes-agemono-deep-fry",
+  "title": "Honeyed Grape Fritters",
+  "description": "A sweet dessert recipe featuring honeyed grapes deep-fried to perfection. Perfect for a quick dessert or snack.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "grapes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honeyed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "deep fry",
+      "amount": "enough for frying"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grapes and honeyed. Set aside for 10 minutes to allow the grapes to release their juice.",
+    "In a separate bowl, whisk together flour and water until a smooth batter forms.",
+    "Heat deep fry to 375°F (190°C).",
+    "Using a spoon, drop small amounts of the grape mixture into the hot oil.",
+    "Fry the grape fritters for 2-3 minutes on each side, until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "honey",
+    "grapes",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-ukrainian-grapes-agemono-deep-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:13:58.759Z"
+}
