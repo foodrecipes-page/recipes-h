@@ -4391,17 +4391,15 @@
   },
   {
     "slug": "hearty-flaky-syrian-lamb-pilaf",
-    "title": "Hearty Flaky Syrian Lamb Pilaf",
+    "title": "Classic Syrian Lamb Pilaf",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "lamb-recipes",
+      "lamb",
+      "pilaf",
       "middle-eastern",
-      "one-pan",
-      "syrian-cuisine"
+      "syrian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 80,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -10351,16 +10349,16 @@
   },
   {
     "slug": "hearty-spicy-ukrainian-sausages-shashlik",
-    "title": "Hearty Spicy Ukrainian Sausages Shashlik",
+    "title": "Ukrainian Shashlik Sausages",
     "tags": [
-      "barbecue",
-      "grill",
-      "pork",
+      "ukrainian",
+      "sausages",
+      "grilled",
       "summer",
-      "ukrainian"
+      "outdoor"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
