@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-smoky-norwegian-kidney-bean-grill",
+  "title": "Smoky Norwegian Kidney Bean Chili",
+  "description": "A hearty and flavorful chili made with Norwegian kidney beans, smoked to perfection. This is a perfect dish for a cold winter night.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Kidney Beans",
+      "amount": "1 can (15 oz)",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Grill-Seasoned Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add smoked paprika, grill-seasoned salt, and black pepper, cook for 1 minute.",
+    "Add tomato paste, cook for 2 minutes.",
+    "Add diced tomatoes, bring to a boil.",
+    "Add Norwegian kidney beans, reduce heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chili",
+    "norwegian",
+    "kidney-bean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-norwegian-kidney-bean-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:52:08.199Z"
+}
