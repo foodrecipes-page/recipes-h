@@ -1,0 +1,75 @@
+{
+  "slug": "halal-medjool-delight--indian",
+  "title": "Spiced Medjool Dates",
+  "description": "A sweet and savory Indian-inspired dessert featuring caramelized medjool dates.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "halal butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "4-6 dates"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "delight milk",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cut the dates in half lengthwise and place them on a baking sheet lined with parchment paper.",
+    "3. Drizzle the halal butter over the dates and sprinkle with coconut sugar, cinnamon, cardamom, and salt.",
+    "4. Dot the top of each date with ghee.",
+    "5. Bake for 15-20 minutes or until the dates are caramelized.",
+    "6. Remove from the oven and let cool slightly.",
+    "7. Serve warm with delight milk drizzled over the top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "sweet",
+    "dates",
+    "medjool"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 1,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:51:18.283Z"
+}
