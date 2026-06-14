@@ -10156,17 +10156,15 @@
   },
   {
     "slug": "hearty-spicy-brazilian-chicken-pasta",
-    "title": "Hearty Spicy Brazilian Chicken Pasta",
+    "title": "Brazilian Chicken Pasta",
     "tags": [
+      "chicken",
+      "pasta",
       "brazilian",
-      "low-carb",
-      "one-pan",
-      "romantic",
-      "spicy",
-      "weeknight"
+      "spicy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
