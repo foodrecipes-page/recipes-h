@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring pork dumplings in a rich broth.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Dumpling dough",
+      "amount": "homemade or store-bought",
+      "notes": "For homemade, combine 2 cups all-purpose flour, 1/4 cup warm water, 1/4 teaspoon salt"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Bring beef broth to a boil in a large pot.",
+    "Add pork pieces and cook until browned, about 5 minutes.",
+    "Add chopped onion, caraway seeds, salt, and black pepper. Cook until onion is softened, about 3 minutes.",
+    "Add dumpling dough, breaking it up into small pieces as you add it. Cook for 2-3 minutes.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes.",
+    "Stir in melted butter and cook for an additional 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:04:15.262Z"
+}
