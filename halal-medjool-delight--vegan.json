@@ -1,0 +1,75 @@
+{
+  "slug": "halal-medjool-delight--vegan",
+  "title": "Delightful Date and Halal Delight Salad",
+  "description": "A tasty and refreshing salad made with halal and medjool dates, and halal delight. Perfect for a vegan diet.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Halal Dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Medjool Dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Halal Delight",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the halal dates, medjool dates, and halal delight.",
+    "2. Add the mixed greens to the bowl and toss to combine.",
+    "3. In a small bowl, whisk together the lemon juice and olive oil.",
+    "4. Pour the dressing over the salad and toss to combine.",
+    "5. Season with salt to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:48:19.916Z"
+}
