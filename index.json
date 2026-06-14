@@ -5124,17 +5124,14 @@
   },
   {
     "slug": "hearty-grassy-ukrainian-shrimp-fritters",
-    "title": "Hearty Grassy Ukrainian Shrimp Fritters",
+    "title": "Ukrainian Shrimp Fritters",
     "tags": [
-      "appetizer",
-      "deep-fried",
-      "gluten-free",
-      "seafood",
-      "snack",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "shrimp",
+      "fritters"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -9085,17 +9082,15 @@
   },
   {
     "slug": "hearty-slovakian-pork-dumplings",
-    "title": "Hearty Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "comfort-food",
+      "slovakian",
+      "pork",
       "dumplings",
-      "european",
-      "hearty",
-      "low-sodium",
-      "pork"
+      "comfort-food"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -10266,17 +10261,14 @@
   },
   {
     "slug": "hearty-spicy-russian-knafeh-pilaf",
-    "title": "Hearty Spicy Russian Knafeh Pilaf",
+    "title": "Hearty Russian Pilaf",
     "tags": [
-      "gluten-free",
-      "low-calorie",
-      "meal-prep",
-      "one-pan",
-      "russian-cuisine",
-      "spicy-food"
+      "russian",
+      "pilaf",
+      "spicy"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
