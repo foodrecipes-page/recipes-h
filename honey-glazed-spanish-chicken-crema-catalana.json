@@ -1,0 +1,84 @@
+{
+  "slug": "honey-glazed-spanish-chicken-crema-catalana",
+  "title": "Chicken Catalana",
+  "description": "A classic Spanish dish of chicken cooked in a sweet and tangy sauce made with honey and crema.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "glazed chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "spanish smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crema",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "catalana sauce",
+      "amount": "1 cup (homemade or store-bought)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5-7 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the glazed chicken broth, honey, and smoked paprika.",
+    "Bring the mixture to a boil and cook until the sauce has thickened slightly, about 2-3 minutes.",
+    "Stir in the crema and catalana sauce.",
+    "Return the chicken to the skillet and simmer until the chicken is cooked through, about 5-7 minutes.",
+    "Serve the chicken with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spanish",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-spanish-chicken-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T14:05:12.380Z"
+}
