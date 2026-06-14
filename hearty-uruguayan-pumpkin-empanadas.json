@@ -1,0 +1,71 @@
+{
+  "slug": "hearty-uruguayan-pumpkin-empanadas",
+  "title": "Uruguayan Pumpkin Empanadas",
+  "description": "A delicious twist on traditional empanadas, filled with roasted pumpkin and spices, perfect for a cozy dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 small, peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, chopped",
+      "notes": "caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package, thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Caramelize the onion in a pan for 10 minutes.",
+    "Add the garlic, cumin, paprika, and salt to the pan and cook for 1 minute.",
+    "Add the diced pumpkin to the pan and cook for 5 minutes.",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Place a tablespoon of the pumpkin mixture onto one half of the dough circle.",
+    "Fold the dough in half and press the edges to seal.",
+    "Brush the tops with a little water and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "empanadas",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-uruguayan-pumpkin-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:48:59.582Z"
+}
