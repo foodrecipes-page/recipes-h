@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-croatian-mascarpone-pilaf",
+  "title": "Croatian Pilaf with Mascarpone",
+  "description": "A hearty twist on traditional pilaf, with the richness of mascarpone cheese. Perfect for a comforting dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mascarpone cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the grated carrot and cook until tender, about 5 minutes.",
+    "Add the pilaf and cook, stirring constantly, for 2-3 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed.",
+    "Stir in the mascarpone cheese and butter until melted and well combined.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "creamy-pilaf",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-mascarpone-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:11:00.390Z"
+}
