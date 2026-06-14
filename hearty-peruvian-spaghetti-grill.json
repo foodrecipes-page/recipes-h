@@ -1,0 +1,98 @@
+{
+  "slug": "hearty-peruvian-spaghetti-grill",
+  "title": "Peruvian Spaghetti Grill",
+  "description": "A fusion dish that combines the classic Italian spaghetti with the bold flavors of Peruvian cuisine, grilled to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz (340g)",
+      "notes": ""
+    },
+    {
+      "name": "Aji Amarillo Sauce",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "amount": "2 lbs (1kg)",
+      "notes": "marinated in Peruvian spices"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Peruvian Corn",
+      "amount": "2 ears",
+      "notes": ""
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Season the chicken breast with grill seasoning, salt, and black pepper.",
+    "3. Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, grill the Peruvian corn for 5-7 minutes, turning frequently.",
+    "5. Once the chicken is cooked, let it rest for a few minutes before slicing it thinly.",
+    "6. Cook the spaghetti in a large pot of boiling salted water until al dente.",
+    "7. In a large skillet, heat the Aji Amarillo sauce over medium heat.",
+    "8. Add the sliced red onion and red bell pepper to the skillet and cook for 3-4 minutes.",
+    "9. Add the cooked spaghetti to the skillet and toss with the sauce and vegetables.",
+    "10. Slice the grilled chicken breast and add it to the spaghetti mixture.",
+    "11. Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "spaghetti",
+    "grill",
+    "fusion",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peruvian-spaghetti-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:51:57.939Z"
+}
