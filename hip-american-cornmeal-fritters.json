@@ -1,0 +1,78 @@
+{
+  "slug": "hip-american-cornmeal-fritters",
+  "title": "Southern Cornmeal Fritters",
+  "description": "Classic American cornbread fritters made with a crispy outside and a tender inside.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Melted unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 1/2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together buttermilk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cornmeal",
+    "fritters",
+    "american",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hip-american-cornmeal-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:03:22.808Z"
+}
