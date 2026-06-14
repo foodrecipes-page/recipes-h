@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-winey-german-seitan-skillet",
+  "title": "Pan-Seared German Seitan Skillet",
+  "description": "A hearty German-inspired dish made with pan-seared seitan, onions, and bell peppers, finished with a rich wine sauce.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 package, cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of oil to the skillet and sear the seitan until browned on all sides, about 5-7 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet and sauté the onion and bell pepper until tender, about 5 minutes.",
+    "Add the red wine to the skillet and bring to a simmer, scraping up any browned bits.",
+    "Add the vegetable broth, tomato paste, flour, salt, and pepper to the skillet. Stir to combine.",
+    "Return the seitan to the skillet and simmer, covered, until the sauce has thickened and the seitan is coated, about 10-12 minutes.",
+    "Serve the seitan and sauce hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegan",
+    "seitan",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-winey-german-seitan-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:38:42.107Z"
+}
