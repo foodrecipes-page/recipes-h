@@ -1,0 +1,89 @@
+{
+  "slug": "herbal-gooey-kenyan-prawns-roast",
+  "title": "Kenyan Prawn and Gooey Stew",
+  "description": "A hearty coastal stew from Kenya featuring succulent prawns and gooey cheese, served with a side of herbal flatbread.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan prawns (12)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Herbal flatbread mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Roast onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pan over medium heat.",
+    "Add chopped onions and sauté until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add Kenyan prawns and cook until pink, about 2-3 minutes per side.",
+    "Add lemon juice and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in gooey cheese until melted.",
+    "Serve with herbal flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stew",
+    "prawns",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-gooey-kenyan-prawns-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:59:22.974Z"
+}
