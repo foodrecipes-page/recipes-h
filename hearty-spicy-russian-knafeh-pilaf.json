@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-spicy-russian-knafeh-pilaf",
+  "title": "Hearty Russian Pilaf",
+  "description": "A flavorful and spicy pilaf dish inspired by Russian cuisine, perfect for a hearty meal.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Spicy Sausage (optional)",
+      "amount": "",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pilaf Spice Mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and bell pepper; cook until tender.",
+    "Add spicy sausage (if using); cook until browned.",
+    "Add pilaf spice mix; stir to combine.",
+    "Add basmati rice; stir to coat rice with spice mix.",
+    "Add 2 cups of water; bring to a boil.",
+    "Reduce heat to low; cover; simmer for 20 minutes.",
+    "Fluff with a fork; season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "pilaf",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-russian-knafeh-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:20:15.035Z"
+}
