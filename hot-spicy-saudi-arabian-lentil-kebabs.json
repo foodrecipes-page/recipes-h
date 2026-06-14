@@ -1,0 +1,95 @@
+{
+  "slug": "hot-spicy-saudi-arabian-lentil-kebabs",
+  "title": "Saudi Arabian-Style Lentil Kebabs",
+  "description": "A flavorful and spicy twist on traditional kebabs, made with tender lentils and marinated in a blend of Arabian spices. This dish is perfect for a quick and easy dinner or lunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes. Drain and set aside.",
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion, garlic, and ginger to the pan and cook until the onion is translucent.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the lentils to the pan and stir to combine with the spice mixture.",
+    "Cook the lentils for 10-12 minutes or until they are tender.",
+    "Using your hands, shape the lentil mixture into small kebabs.",
+    "Heat a non-stick skillet or grill over medium-high heat.",
+    "Cook the kebabs for 2-3 minutes on each side or until they are lightly browned.",
+    "Serve the kebabs hot with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "kebabs",
+    "lentil",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-spicy-saudi-arabian-lentil-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:39:02.311Z"
+}
