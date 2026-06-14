@@ -1,0 +1,71 @@
+{
+  "slug": "halal-medjool-delight--thai",
+  "title": "Thai Coconut Rice Pudding",
+  "description": "A creamy and sweet Thai dessert made with coconut milk, rice, and honey. Perfect for warm weather.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "halal butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "medjool dates",
+      "amount": "2",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "delight salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer and drain well.",
+    "In a medium saucepan, combine the coconut milk, rice, and halal butter. Cook over medium heat, stirring constantly, until the rice is tender and the liquid has been absorbed.",
+    "Add the pitted medjool dates and honey to the saucepan. Cook for an additional 2-3 minutes, stirring constantly.",
+    "Remove the saucepan from the heat and stir in a pinch of delight salt. Let cool to room temperature.",
+    "Cover the saucepan with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Serve the chilled rice pudding in individual cups or bowls. Garnish with additional medjool dates, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dessert",
+    "rice-pudding",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:51:47.830Z"
+}
