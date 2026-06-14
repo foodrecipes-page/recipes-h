@@ -1,0 +1,67 @@
+{
+  "slug": "halal-medjool-delight--keto",
+  "title": "Keto Halal Date Energy Balls",
+  "description": "A no-bake keto snack made with halal beef, medjool dates, and coconut oil.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Halal Ground Beef",
+      "amount": "1/2 cup",
+      "notes": "Make sure it's 90% lean or higher"
+    },
+    {
+      "name": "Medjool Dates",
+      "amount": "1 cup, pitted",
+      "notes": "Soften them in water for 10 minutes"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "Unflavored and unsweetened"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup",
+      "notes": "Make sure it's finely ground"
+    },
+    {
+      "name": "Delight (vanilla extract)",
+      "amount": "1 teaspoon",
+      "notes": "Choose a sugar-free, keto-friendly option"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the halal ground beef, medjool dates, coconut oil, almond flour, and vanilla extract.",
+    "Mix everything together until you get a sticky dough.",
+    "Use your hands to shape the dough into small balls, about 1 inch in diameter.",
+    "Place the energy balls on a parchment-lined baking sheet.",
+    "Refrigerate them for at least 30 minutes to set.",
+    "Store them in an airtight container in the fridge for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "halal",
+    "snack",
+    "energy-balls",
+    "date-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:55:28.404Z"
+}
