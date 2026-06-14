@@ -593,20 +593,16 @@
   },
   {
     "slug": "hangover-cure-silky-herbal-turkish-mint-pastry",
-    "title": "Turkish Mint Borek",
+    "title": "Turkish Herbal Mint Pastry",
     "tags": [
       "turkish",
-      "mint",
       "herbal",
-      "hangover-cure",
-      "silky",
-      "vegan",
-      "diabetic-friendly",
-      "breakfast",
-      "snack"
+      "mint",
+      "pastry",
+      "dessert"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -7985,17 +7981,16 @@
   },
   {
     "slug": "hearty-peruvian-spaghetti-grill",
-    "title": "Hearty Peruvian Spaghetti Grill",
+    "title": "Peruvian Spaghetti Grill",
     "tags": [
-      "crowd-pleaser",
-      "grilled",
-      "one-pot",
       "peruvian",
-      "sattvic",
-      "spaghetti"
+      "spaghetti",
+      "grill",
+      "fusion",
+      "dinner"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -9677,17 +9672,14 @@
   },
   {
     "slug": "hearty-smoky-norwegian-kidney-bean-grill",
-    "title": "Hearty Smoky Norwegian Kidney Bean Grill",
+    "title": "Smoky Norwegian Kidney Bean Chili",
     "tags": [
-      "grilled",
-      "high-protein",
+      "chili",
       "norwegian",
-      "plant-based",
-      "smoky",
-      "weeknight"
+      "kidney-bean"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
