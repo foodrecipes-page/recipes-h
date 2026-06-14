@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-grassy-ukrainian-shrimp-fritters",
+  "title": "Ukrainian Shrimp Fritters",
+  "description": "A hearty Ukrainian-inspired appetizer or snack featuring succulent shrimp in a crispy fritter batter.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound peeled and deveined"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Grass-fed buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hearty whole-grain Ukrainian-style bread",
+      "amount": "1 cup cubed"
+    },
+    {
+      "name": "Grass-fed cheddar cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup melted"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, whisk together flour, eggs, buttermilk, salt, and black pepper.",
+    "2. Add the cubed bread and grated cheese to the bowl. Mix until the bread is evenly coated.",
+    "3. Gently fold in the shrimp until they are evenly distributed throughout the batter.",
+    "4. Using a 1/4 cup measuring cup, scoop the batter into balls and flatten slightly into patties.",
+    "5. Heat about 1/2 inch of butter in a large skillet over medium-high heat.",
+    "6. When the butter begins to foam, add 4-5 patties to the skillet and cook for about 3-4 minutes on each side, until golden brown and crispy.",
+    "7. Remove the fritters from the skillet and place on a paper towel-lined plate to drain any excess oil.",
+    "8. Serve the fritters hot with your favorite dipping sauce.",
+    "9. Repeat the cooking process with any remaining batter.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "shrimp",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-grassy-ukrainian-shrimp-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:42:14.187Z"
+}
