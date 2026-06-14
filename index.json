@@ -347,14 +347,14 @@
   },
   {
     "slug": "hangover-cure-crumbled-turkish-redcurrant-crumble",
-    "title": "Redcurrant Hangover Crumble",
+    "title": "Turkish Redcurrant Hangover Cure Crumble",
     "tags": [
+      "turkish",
       "breakfast",
-      "dessert",
-      "redcurrant",
-      "hangover-cure"
+      "crumble",
+      "hangover"
     ],
-    "cuisine": "british",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "h"
   },
@@ -7596,17 +7596,15 @@
   },
   {
     "slug": "hearty-moroccan-chicken-tagine",
-    "title": "Hearty Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "chicken",
-      "kid-friendly",
       "moroccan",
-      "one-pot",
-      "steam-cooked",
-      "stew"
+      "chicken",
+      "tagine",
+      "hearty"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15147,18 +15145,14 @@
   },
   {
     "slug": "honey-glazed-spanish-chicken-crema-catalana",
-    "title": "'Honey-Glazed Spanish Chicken Crema Catalana'",
+    "title": "Chicken Catalana",
     "tags": [
-      "comfort-food",
-      "dinner",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
+      "chicken",
       "spanish",
-      "weeknight"
+      "sauce"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
