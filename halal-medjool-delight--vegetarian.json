@@ -1,0 +1,90 @@
+{
+  "slug": "halal-medjool-delight--vegetarian",
+  "title": "Roasted Vegetable Tagine with Honeyed Dates",
+  "description": "A flavorful and healthy vegetarian tagine recipe featuring roasted vegetables and sweet honeyed dates. Perfect for a comforting lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Medjool Dates",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Red Bell Peppers",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the carrots, bell peppers, and onion into large chunks.",
+    "In a large bowl, toss the vegetables with cumin, paprika, and a pinch of salt.",
+    "Transfer the vegetables to a baking sheet and roast for 25-30 minutes.",
+    "While the vegetables are roasting, prepare the dates by slicing them in half lengthwise.",
+    "In a small saucepan, heat the honey over medium heat until it starts to bubble.",
+    "Add the sliced dates to the honey and cook for 2-3 minutes on each side.",
+    "To assemble the tagine, place the roasted vegetables in a large serving dish.",
+    "Arrange the honeyed dates on top of the vegetables.",
+    "Sprinkle with olives and parsley.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:49:43.395Z"
+}
