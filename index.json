@@ -2530,14 +2530,12 @@
   },
   {
     "slug": "hearty-buttery-syrian-rice-pilaf",
-    "title": "Hearty Buttery Syrian Rice Pilaf",
+    "title": "Syrian-Style Pilaf with Hearty Croutons",
     "tags": [
-      "dairy-free",
-      "one-pan",
-      "quick-fix",
-      "syrian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "syrian",
+      "pilaf",
+      "croutons",
+      "hearty"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 30,
@@ -3335,17 +3333,14 @@
   },
   {
     "slug": "hearty-croatian-mascarpone-pilaf",
-    "title": "Hearty Croatian Mascarpone Pilaf",
+    "title": "Croatian Pilaf with Mascarpone",
     "tags": [
       "comfort-food",
-      "croatian-cuisine",
-      "mascarpone",
-      "one-pot",
-      "spherification",
-      "weeknight"
+      "creamy-pilaf",
+      "dinner-ideas"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "croatian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -9253,17 +9248,15 @@
   },
   {
     "slug": "hearty-smoked-egyptian-bread-flatbread",
-    "title": "Hearty Smoked Egyptian Bread Flatbread",
+    "title": "Smoked Egyptian Shawarma",
     "tags": [
-      "crusty",
-      "egyptian",
-      "flatbread",
-      "fodmap-friendly",
-      "smoked",
-      "snack"
+      "lamb",
+      "middle-eastern",
+      "shawarma",
+      "smoked"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -11260,17 +11253,14 @@
   },
   {
     "slug": "hearty-uruguayan-pumpkin-empanadas",
-    "title": "Hearty Uruguayan Pumpkin Empanadas",
+    "title": "Uruguayan Pumpkin Empanadas",
     "tags": [
-      "brunch",
-      "empanadas",
-      "hearty",
-      "macrobiotic",
       "pumpkin",
+      "empanadas",
       "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -12511,20 +12501,15 @@
   },
   {
     "slug": "herb-rich-american-pecan-pie",
-    "title": "Herb Rich American Pecan Pie",
+    "title": "Classic American Pecan Pie",
     "tags": [
-      "dessert",
       "american",
-      "herb-rich",
-      "pecan",
-      "egg-free",
-      "dairy-free",
-      "vegan-friendly",
+      "dessert",
       "nutty",
-      "indulgent"
+      "pie"
     ],
     "cuisine": "American",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
