@@ -1,0 +1,80 @@
+{
+  "slug": "halal-medjool-delight--chinese",
+  "title": "Pan-Seared Scallops with Ginger and Honey",
+  "description": "Scallops are pan-seared to perfection with a sweet and savory ginger honey sauce, served with a side of steamed vegetables. This dish is a classic Chinese favorite, perfect for a quick and easy dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal scallops",
+      "amount": "12-15",
+      "notes": "fresh and of good quality"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "2",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "delight soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": " pure and raw"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the scallops and pat them dry with paper towels.",
+    "2. In a small bowl, whisk together the soy sauce, ginger, and honey until well combined.",
+    "3. Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "4. Add the scallops to the skillet and sear for 2-3 minutes on each side, until golden brown.",
+    "5. Remove the scallops from the skillet and set them aside on a plate.",
+    "6. Add the chopped dates to the skillet and stir-fry for 1-2 minutes, until caramelized.",
+    "7. Pour the ginger honey sauce into the skillet and stir to combine.",
+    "8. Return the scallops to the skillet and toss them with the sauce until coated.",
+    "9. Serve the scallops hot, garnished with chopped green onions and a sprinkle of sesame seeds.",
+    "10. Serve with steamed vegetables on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "honey",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:49:23.726Z"
+}
