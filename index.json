@@ -17322,5 +17322,161 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 20,
     "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--vegan",
+    "title": "Delightful Date and Halal Delight Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--gluten-free",
+    "title": "Gluten-Free Delightful Dates Halwa",
+    "tags": [
+      "dates-halwa",
+      "gluten-free",
+      "dessert",
+      "halal"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--japanese",
+    "title": "Japanese-Style Grilled Halibut with Mango Salsa",
+    "tags": [
+      "japanese",
+      "grilled",
+      "halibut",
+      "mango",
+      "salsa"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--chinese",
+    "title": "Pan-Seared Scallops with Ginger and Honey",
+    "tags": [
+      "chinese",
+      "seafood",
+      "honey",
+      "ginger"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--french",
+    "title": "French Delight Date Tart",
+    "tags": [
+      "french",
+      "dessert",
+      "dates",
+      "tart"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--vegetarian",
+    "title": "Roasted Vegetable Tagine with Honeyed Dates",
+    "tags": [
+      "north-african",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--german",
+    "title": "Stuffed Dates with German Cheese",
+    "tags": [
+      "german",
+      "dessert",
+      "cheese",
+      "dates"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--indian",
+    "title": "Spiced Medjool Dates",
+    "tags": [
+      "indian",
+      "sweet",
+      "dates",
+      "medjool"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--mexican",
+    "title": "Delightful Mexican Halal Date Tacos",
+    "tags": [
+      "mexican",
+      "halal",
+      "beef",
+      "dates",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--thai",
+    "title": "Thai Coconut Rice Pudding",
+    "tags": [
+      "thai",
+      "dessert",
+      "rice-pudding",
+      "coconut-milk"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--italian",
+    "title": "Pan-Seared Halal Chicken with Date Compote",
+    "tags": [
+      "italian",
+      "date-compote",
+      "halal-chicken"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-medjool-delight--keto",
+    "title": "Keto Halal Date Energy Balls",
+    "tags": [
+      "keto",
+      "halal",
+      "snack",
+      "energy-balls",
+      "date-based"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "h"
   }
 ]
