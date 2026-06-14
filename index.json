@@ -2112,17 +2112,15 @@
   },
   {
     "slug": "hearty-bitter-irish-lamb-skillet",
-    "title": "Hearty Bitter Irish Lamb Skillet",
+    "title": "Irish Lamb Skillet Stew",
     "tags": [
-      "bitter-flavors",
-      "hearty-meals",
-      "irish-food",
-      "lamb-recipes",
-      "low-carb",
-      "one-pan"
+      "irish",
+      "lamb",
+      "skillet",
+      "stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -8423,17 +8421,14 @@
   },
   {
     "slug": "hearty-roasted-jamaican-chicken-roast",
-    "title": "Hearty Roasted Jamaican Chicken Roast",
+    "title": "Jamaican Roasted Chicken",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "jamaican-cuisine",
+      "jamaican-roasted-chicken",
       "roasted-chicken",
-      "weeknight"
+      "chicken-recipe"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 80,
     "shard": "h"
   },
   {
@@ -14722,18 +14717,16 @@
   },
   {
     "slug": "hip-american-cornmeal-fritters",
-    "title": "Hip American Cornmeal Fritters",
+    "title": "Southern Cornmeal Fritters",
     "tags": [
-      "american",
       "cornmeal",
-      "deep-fry",
-      "fried",
-      "jain-friendly",
-      "quick",
-      "snack"
+      "fritters",
+      "american",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "American",
-    "totalTimeMin": 25,
+    "totalTimeMin": 32,
     "shard": "h"
   },
   {
