@@ -1,63 +1,78 @@
 {
   "slug": "hangover-cure-crumbled-turkish-redcurrant-crumble",
-  "title": "Redcurrant Hangover Crumble",
-  "description": "A sweet breakfast treat using redcurrants and a crunchy hangover cure crumble topping. Perfect for a morning pick-me-up.",
-  "cuisine": "british",
+  "title": "Turkish Redcurrant Hangover Cure Crumble",
+  "description": "A sweet and savory breakfast dish to cure your morning after, featuring Turkish delight and a crumble topping.",
+  "cuisine": null,
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "breakfast"
   ],
   "meal": "breakfast",
   "ingredients": [
     {
+      "name": "Turkish Delight",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Redcurrant Jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crumble Topping (hangover cure)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crumbled Biscuits",
+      "amount": "1/4 cup"
+    },
+    {
       "name": "Redcurrants",
-      "amount": "1 cup",
-      "notes": "fresh or frozen"
+      "amount": "1 cup"
     },
     {
-      "name": "Hangover cure",
-      "amount": "2 tsp",
-      "notes": "adjust to taste"
+      "name": "Butter",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Crumble",
-      "amount": "1/2 cup",
-      "notes": "store-bought or homemade"
+      "name": "Eggs",
+      "amount": "2"
     },
     {
-      "name": "Turkish",
-      "amount": "1/4 tsp",
-      "notes": "ground cinnamon"
+      "name": "Milk",
+      "amount": "1/2 cup"
     }
   ],
   "instructions": [
     "Preheat oven to 375°F (190°C).",
-    "In a large bowl, mix together redcurrants and hangover cure.",
-    "Transfer the mixture to a 6-inch baking dish.",
-    "In a separate bowl, mix together crumble and cinnamon.",
-    "Spread the crumble mixture evenly over the redcurrant mixture.",
-    "Bake for 25-30 minutes, or until the topping is golden brown.",
-    "Serve warm with fresh redcurrants on top, if desired."
+    "In a bowl, mix together Turkish Delight and Redcurrant Jam.",
+    "Roll out Crumble Topping and crumble into small pieces.",
+    "In a separate bowl, mix together eggs, milk, and butter.",
+    "Pour the egg mixture over the crumbled biscuits.",
+    "Add the crumbled biscuits to the Turkish Delight mixture and mix until well combined.",
+    "Spoon the mixture into a baking dish.",
+    "Top with the crumble topping.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm, topped with additional redcurrants if desired.",
+    "Enjoy the cure!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
   "totalTimeMin": 35,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
+    "turkish",
     "breakfast",
-    "dessert",
-    "redcurrant",
-    "hangover-cure"
+    "crumble",
+    "hangover"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": "2g",
-    "carbs": "30g",
-    "fat": "5g"
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-crumbled-turkish-redcurrant-crumble",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T05:00:01.730Z"
+  "createdAt": "2026-06-11T07:40:55.970Z"
 }
