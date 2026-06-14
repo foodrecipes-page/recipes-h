@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-moroccan-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "Hearty and flavorful Moroccan dish made with chicken and spices, slow-cooked in a traditional clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional 1-2 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, cinnamon, turmeric, and red pepper flakes. Stir to combine.",
+    "Add 1 cup of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tagine",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:57:46.612Z"
+}
