@@ -1,0 +1,75 @@
+{
+  "slug": "honey-glazed-italian-apples-galette",
+  "title": "Autumnal Apple Galette with Honey Glaze",
+  "description": "A delicious and elegant dessert featuring a flaky pastry crust, tender apples, and a sweet honey glaze.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed apples (granny smith, gala)",
+      "amount": "2"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "In a large bowl, mix together the sliced apples, granulated sugar, and honey.",
+    "Arrange the apple mixture in a spiral pattern, leaving a 1-inch border around the edges.",
+    "Fold the edges of the dough up over the apples, pressing gently to seal.",
+    "Brush the egg wash over the dough to give it a golden brown color.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the apples are tender.",
+    "While the galette is baking, prepare the honey glaze by whisking together the honey and 1 tablespoon of water.",
+    "Remove the galette from the oven and let it cool for 10 minutes.",
+    "Drizzle the honey glaze over the galette and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "honey",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-italian-apples-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:38:15.655Z"
+}
