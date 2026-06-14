@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-bitter-irish-lamb-skillet",
+  "title": "Irish Lamb Skillet Stew",
+  "description": "A hearty and flavorful lamb stew made with tender lamb, root vegetables, and a hint of bitterness from the bitter greens.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Choose a lean cut for best results"
+    },
+    {
+      "name": "Onions, chopped",
+      "amount": "1 medium",
+      "notes": "Use a sweet onion for added flavor"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 medium",
+      "notes": "Use a mix of orange and yellow carrots for added color"
+    },
+    {
+      "name": "Parsnips, peeled and chopped",
+      "amount": "1 large",
+      "notes": "Parsnips add a sweet and nutty flavor to the stew"
+    },
+    {
+      "name": "Bitter greens (such as kale or collard greens)",
+      "amount": "2 cups, chopped",
+      "notes": "Bitter greens add a nice contrast to the rich lamb"
+    },
+    {
+      "name": "Skillet flour",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality all-purpose flour for best results"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for best flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Use a high-quality water for best flavor"
+    },
+    {
+      "name": "Red wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "Red wine adds depth and complexity to the stew"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the onions, carrots, and parsnips to the skillet and cook until the vegetables are tender, about 10 minutes.",
+    "Add the bitter greens, skillet flour, salt, and pepper to the skillet and stir to combine.",
+    "Add the lamb back to the skillet and stir to combine.",
+    "Add the water and red wine (if using) to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until the lamb is tender, about 20 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "skillet",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-bitter-irish-lamb-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:09:30.549Z"
+}
