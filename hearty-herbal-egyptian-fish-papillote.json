@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-herbal-egyptian-fish-papillote",
+  "title": "Egyptian Fish Papillote",
+  "description": "A flavorful and healthy fish dish cooked in a parchment paper pouch with herbal spices. Serve with a side of steamed vegetables.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fish",
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (4)",
+      "amount": "4",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Herbal spice mix",
+      "amount": "2 tsp",
+      "notes": "Combine thyme, oregano, and rosemary"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut four pieces of parchment paper into large squares.",
+    "Place a fish fillet in the center of each square.",
+    "Sprinkle herbal spice mix, lemon juice, garlic, and paprika over the fish.",
+    "Fold the parchment paper over the fish to form a pouch, and seal by folding the edges.",
+    "Place the pouches on a baking sheet, and bake for 12-15 minutes.",
+    "Check for doneness by flaking the fish with a fork.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "fish",
+    "healthy",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-egyptian-fish-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:35:57.884Z"
+}
