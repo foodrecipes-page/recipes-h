@@ -1,0 +1,84 @@
+{
+  "slug": "herbal-light-malaysian-freekeh-soup",
+  "title": "Malaysian-Style Freekeh Soup",
+  "description": "A hearty and flavorful soup inspired by Malaysian cuisine, featuring the unique flavor of freekeh.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "freekeh",
+      "amount": "1 cup",
+      "notes": "preferably rinsed and drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "2 cups",
+      "notes": "as a flavor infusion"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger, and sauté until softened.",
+    "Add freekeh and cook for 2-3 minutes.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Stir in coconut milk and soy sauce.",
+    "Infuse with herbal tea for 5-7 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped herbs or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "freekeh",
+    "soup",
+    "malaysian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-light-malaysian-freekeh-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:59:14.026Z"
+}
