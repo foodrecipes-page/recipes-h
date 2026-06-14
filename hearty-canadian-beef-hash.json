@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-canadian-beef-hash",
+  "title": "Classic Canadian Beef Hash",
+  "description": "A hearty breakfast dish made with tender beef and crispy hash browns. This recipe serves four and is perfect for a weekend morning.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works best"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 bag",
+      "notes": "Frozen hash browns or 2 large potatoes, peeled and grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan over medium-high heat, cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "2. Add the chopped onion to the pan and cook until translucent.",
+    "3. Add the hash browns to the pan and cook until golden brown, stirring occasionally.",
+    "4. In a separate bowl, beat the eggs and season with salt and pepper.",
+    "5. Add the eggs to the pan and scramble until cooked through.",
+    "6. Serve the beef and hash mixture hot, topped with the scrambled eggs.",
+    "7. Melt the butter on top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-hash",
+    "breakfast",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-canadian-beef-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:55:08.193Z"
+}
