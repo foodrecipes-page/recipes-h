@@ -5530,16 +5530,15 @@
   },
   {
     "slug": "hearty-herbal-egyptian-fish-papillote",
-    "title": "Hearty Herbal Egyptian Fish Papillote",
+    "title": "Egyptian Fish Papillote",
     "tags": [
-      "egyptian-cuisine",
-      "fish-recipe",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "egyptian",
+      "fish",
+      "healthy",
+      "papillote"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -8292,17 +8291,16 @@
   },
   {
     "slug": "hearty-rich-turkish-beans-kuru-fasulye",
-    "title": "Hearty Rich Turkish Beans Kuru Fasulye",
+    "title": "Turkish-Style Stewed Beans",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty",
-      "one-pot",
-      "turkish-cuisine",
-      "vegetarian"
+      "turkish",
+      "stew",
+      "beans",
+      "fasulye",
+      "vegan"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 90,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -11666,17 +11664,15 @@
   },
   {
     "slug": "hearty-winey-german-seitan-skillet",
-    "title": "Hearty Winey German Seitan Skillet",
+    "title": "Pan-Seared German Seitan Skillet",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pan",
-      "plant-based",
-      "weeknight",
-      "wine-based"
+      "german",
+      "vegan",
+      "seitan",
+      "skillet"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -15049,16 +15045,15 @@
   },
   {
     "slug": "honey-glazed-italian-apples-galette",
-    "title": "Honey-Glazed Italian Apples Galette",
+    "title": "Autumnal Apple Galette with Honey Glaze",
     "tags": [
-      "dessert",
-      "gluten-free",
-      "italian",
-      "one-pan",
-      "weeknight"
+      "apple",
+      "honey",
+      "pastry",
+      "dessert"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "cuisine": "American",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -16462,14 +16457,12 @@
   },
   {
     "slug": "hot-spicy-saudi-arabian-lentil-kebabs",
-    "title": "Hot Spicy Saudi Arabian Lentil Kebabs",
+    "title": "Saudi Arabian-Style Lentil Kebabs",
     "tags": [
-      "high-protein",
-      "lentil-recipes",
-      "one-pan",
-      "saudi-arabian-cuisine",
-      "vegetarian-kebabs",
-      "weeknight"
+      "saudi-arabian",
+      "kebabs",
+      "lentil",
+      "vegan"
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
