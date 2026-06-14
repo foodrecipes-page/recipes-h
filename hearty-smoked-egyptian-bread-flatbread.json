@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-smoked-egyptian-bread-flatbread",
+  "title": "Smoked Egyptian Shawarma",
+  "description": "A flavorful and aromatic sandwich filled with tender smoked lamb and served with a side of crispy flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked lamb shoulder",
+      "amount": "1 (1.5 kg)",
+      "notes": "Shawarma-style"
+    },
+    {
+      "name": "Egyptian flatbread",
+      "amount": "4-6 pieces",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zatar",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cut the lamb shoulder into thin strips and season with salt, black pepper, and zatar.",
+    "2. Grill or pan-fry the lamb until tender and slightly charred.",
+    "3. Warm the flatbread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "4. Assemble the shawarma by spreading a layer of lamb on each flatbread piece.",
+    "5. Top with chopped onion and parsley (if using).",
+    "6. Drizzle with lemon juice and serve immediately.",
+    "7. Serve with additional flatbread on the side for dipping in the juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "shawarma",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-egyptian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:33:57.304Z"
+}
