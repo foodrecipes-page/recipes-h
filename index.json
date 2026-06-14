@@ -11122,17 +11122,16 @@
   },
   {
     "slug": "hearty-umami-tunisian-bamboo-shoot-tagine",
-    "title": "Hearty Umami Tunisian Bamboo Shoot Tagine",
+    "title": "Tunisian Tagine with Hearty Vegetables",
     "tags": [
-      "comfort-food",
+      "tunisian",
+      "vegetarian",
       "hearty",
-      "north-african",
-      "one-pot",
       "umami",
-      "vegetarian"
+      "bamboo"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -14337,15 +14336,12 @@
   },
   {
     "slug": "herbed-filipino-chicken-skewers",
-    "title": "Herbed Filipino Chicken Skewers",
+    "title": "Herbed Chicken Skewers",
     "tags": [
+      "grilled",
+      "chicken",
       "filipino",
-      "herbed",
-      "skewers",
-      "turmeric",
-      "mediterranean-friendly",
-      "quick",
-      "crowd-pleaser"
+      "skewers"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 30,
