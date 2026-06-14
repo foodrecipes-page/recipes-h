@@ -1,0 +1,71 @@
+{
+  "slug": "halal-medjool-delight--gluten-free",
+  "title": "Gluten-Free Delightful Dates Halwa",
+  "description": "A rich and creamy halwa made with medjool dates, suitable for gluten-free diet.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Medjool Dates",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Halal Ghee",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Delight Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rose Water",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium heat.",
+    "Add chopped dates and cook until they're soft and mashed.",
+    "Add milk, cardamom powder, rose water, and salt. Mix well.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Serve warm or chilled, garnished with chopped nuts or dried fruits."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dates-halwa",
+    "gluten-free",
+    "dessert",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:48:51.572Z"
+}
