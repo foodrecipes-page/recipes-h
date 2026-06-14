@@ -778,17 +778,15 @@
   },
   {
     "slug": "harmonious-crisp-mediterranean-chickpeas-skewers",
-    "title": "Harmonious Crisp Mediterranean Chickpeas Skewers",
+    "title": "Mediterranean Chickpea Skewers",
     "tags": [
-      "date-night",
-      "easy-dinner",
-      "gluten-free",
-      "mediterranean-diet",
-      "plant-based",
-      "vegan-friendly"
+      "mediterranean",
+      "veggie-friendly",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -2563,17 +2561,14 @@
   },
   {
     "slug": "hearty-canadian-beef-hash",
-    "title": "Hearty Canadian Beef Hash",
+    "title": "Classic Canadian Beef Hash",
     "tags": [
-      "beef",
-      "canadian",
-      "high-protein",
-      "jain-friendly",
-      "one-pan",
-      "weeknight"
+      "beef-hash",
+      "breakfast",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -13599,17 +13594,15 @@
   },
   {
     "slug": "herbal-gooey-kenyan-prawns-roast",
-    "title": "Herbal Gooey Kenyan Prawns Roast",
+    "title": "Kenyan Prawn and Gooey Stew",
     "tags": [
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "seafood",
-      "shojin-friendly",
-      "weeknight"
+      "kenyan",
+      "stew",
+      "prawns",
+      "cheese"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "kenyan",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -13793,17 +13786,15 @@
   },
   {
     "slug": "herbal-light-malaysian-freekeh-soup",
-    "title": "Herbal Light Malaysian Freekeh Soup",
+    "title": "Malaysian-Style Freekeh Soup",
     "tags": [
+      "freekeh",
+      "soup",
       "malaysian",
-      "vegetarian",
-      "vegan",
-      "post-workout",
-      "quick",
-      "light-soup"
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 55,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
