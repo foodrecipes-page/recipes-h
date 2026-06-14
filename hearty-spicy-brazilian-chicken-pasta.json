@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-spicy-brazilian-chicken-pasta",
+  "title": "Brazilian Chicken Pasta",
+  "description": "A spicy and hearty pasta dish inspired by Brazilian cuisine, featuring chicken and pasta in a flavorful sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat for added flavor"
+    },
+    {
+      "name": "spicy Italian seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "50g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta in boiling salted water until al dente.",
+    "In a large skillet, heat some oil over medium-high heat.",
+    "Add the chicken and cook until browned on both sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add more oil to the skillet if needed, then add the onion and garlic and cook until softened.",
+    "Add the spicy Italian seasoning, red pepper flakes, salt, and black pepper, and cook for 1 minute.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Return the chicken to the skillet and simmer in the sauce for a few minutes.",
+    "Stir in the grated Parmesan (if using) and cook until melted.",
+    "Serve the chicken and sauce over the pasta.",
+    "Garnish with chopped fresh cilantro or parsley (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pasta",
+    "brazilian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 44,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-brazilian-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:45:12.683Z"
+}
