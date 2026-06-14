@@ -1,0 +1,105 @@
+{
+  "slug": "hearty-umami-tunisian-bamboo-shoot-tagine",
+  "title": "Tunisian Tagine with Hearty Vegetables",
+  "description": "A flavorful and aromatic stew originating from Tunisia, made with hearty vegetables and served over bamboo shoots.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Tunisian tagine is known for its umami flavor, use tomato paste to add depth."
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "A mix of cumin, coriander, and cinnamon will give your tagine its authentic flavor."
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "Add the carrots, potatoes, and red bell pepper. Cook, stirring occasionally, until they begin to soften, about 5 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the vegetable broth, Tunisian spice blend, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the vegetables are tender.",
+    "Add the bamboo shoots and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "vegetarian",
+    "hearty",
+    "umami",
+    "bamboo"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-tunisian-bamboo-shoot-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:47:26.806Z"
+}
