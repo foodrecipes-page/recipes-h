@@ -1,0 +1,77 @@
+{
+  "slug": "halal-medjool-delight--italian",
+  "title": "Pan-Seared Halal Chicken with Date Compote",
+  "description": "A sweet and savory Italian-inspired dish featuring pan-seared halal chicken served with a rich date compote.",
+  "cuisine": "italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal chicken breast",
+      "amount": "2 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "medjool dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "delight sugar-free chocolate chips",
+      "amount": "2 tbsp",
+      "notes": "unsweetened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes or until cooked through.",
+    "Meanwhile, combine dates, balsamic vinegar, and sugar-free chocolate chips in a saucepan.",
+    "Cook over medium heat, stirring occasionally, until the dates are caramelized and the sauce is thickened.",
+    "To serve, slice the chicken breast and top with the date compote."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "date-compote",
+    "halal-chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-medjool-delight--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:53:01.123Z"
+}
