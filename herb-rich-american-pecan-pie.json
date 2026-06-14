@@ -1,0 +1,69 @@
+{
+  "slug": "herb-rich-american-pecan-pie",
+  "title": "Classic American Pecan Pie",
+  "description": "A rich and decadent dessert with a nutty twist, perfect for special occasions.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pecans",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Light Corn Syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Meltable Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "American Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Mix together corn syrup, sugar, eggs, and melted butter until well combined.",
+    "Stir in chopped pecans and vanilla extract.",
+    "Pour mixture into a 9-inch pie crust.",
+    "Bake for 45-50 minutes, or until filling is set and crust is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "dessert",
+    "nutty",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-rich-american-pecan-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:09:20.302Z"
+}
