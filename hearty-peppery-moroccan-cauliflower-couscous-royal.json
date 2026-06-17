@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal",
+  "title": "Royal Couscous with Cauliflower and Spices",
+  "description": "A flavorful and healthy couscous dish, perfect for a weeknight dinner, that combines the warmth of Moroccan spices with the earthiness of cauliflower.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 1/2 cups",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head, broken into florets",
+      "notes": "about 4 cups"
+    },
+    {
+      "name": "Royal Spices",
+      "amount": "1 tsp",
+      "notes": "available at most spice shops or online"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 tsp",
+      "notes": "available at most spice shops or online"
+    },
+    {
+      "name": "Hearty Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "use a high-quality olive oil"
+    },
+    {
+      "name": "Peppery Salt",
+      "amount": "1 tsp",
+      "notes": "use a coarsely ground salt"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the Moroccan spices and royal spices and stir for 1 minute.",
+    "Add the cauliflower and cook, stirring occasionally, until it is tender but still crisp, about 5 minutes.",
+    "Stir in the couscous and cook for 1-2 minutes.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 5 minutes.",
+    "Fluff the couscous with a fork and season with salt and parsley.",
+    "Serve hot.",
+    "Optional: garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "mexican",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peppery-moroccan-cauliflower-couscous-royal",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T17:20:25.165Z"
+}
