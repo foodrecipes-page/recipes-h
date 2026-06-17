@@ -7889,18 +7889,15 @@
   },
   {
     "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal",
-    "title": "Hearty Peppery Moroccan Cauliflower Couscous Royal",
+    "title": "Royal Couscous with Cauliflower and Spices",
     "tags": [
-      "cauliflower",
-      "couscous",
-      "moroccan",
-      "royal",
-      "satvik",
+      "vegan",
       "vegetarian",
-      "yuzu"
+      "mexican",
+      "moroccan"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
