@@ -1,0 +1,65 @@
+{
+  "slug": "herbal-crisp-croatian-feta-cheese-crumble",
+  "title": "Greek Salad with Feta and Croatian Crumble",
+  "description": "A refreshing salad with tangy feta cheese and crunchy Croatian crumble, perfect for a light lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek salad greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crisp cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Croatian crumble",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Herbal feta seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the Greek salad greens and sliced cucumber.",
+    "Sprinkle the crumbled Croatian crumble and feta cheese over the top of the salad.",
+    "Drizzle with your favorite Greek salad dressing and toss to combine.",
+    "Season with herbal feta seasoning to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "greek",
+    "feta",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crisp-croatian-feta-cheese-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T16:27:00.193Z"
+}
