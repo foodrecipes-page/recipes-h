@@ -8619,17 +8619,16 @@
   },
   {
     "slug": "hearty-sardinian-pasta-calamarata",
-    "title": "Hearty Sardinian Pasta Calamarata",
+    "title": "Sardinian Calamarata with Heart-Healthy Twist",
     "tags": [
-      "hearty",
       "italian",
-      "one-pan",
       "pasta",
       "sardinian",
-      "slow-cooked"
+      "tomato-sauce",
+      "vegetarian"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 65,
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
