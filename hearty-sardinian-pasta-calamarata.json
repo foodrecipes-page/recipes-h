@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-sardinian-pasta-calamarata",
+  "title": "Sardinian Calamarata with Heart-Healthy Twist",
+  "description": "A traditional Sardinian pasta dish, now with the addition of healthier ingredients to boost flavor and nutrition.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Calamarata Pasta",
+      "amount": "12 oz (340g)"
+    },
+    {
+      "name": "Hearty Tomato Sauce",
+      "amount": "2 cups (475ml)",
+      "notes": "Use a mixture of crushed and diced tomatoes for a rich flavor"
+    },
+    {
+      "name": "Sardinian-Style Olives",
+      "amount": "1/2 cup (115g)",
+      "notes": "Pitted and sliced for a better texture"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1/4 cup (15g)",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4",
+      "notes": "Minced for sautéing"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "For sautéing and finishing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for added texture"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for added flavor"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil for the pasta.",
+    "Cook the Calamarata according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté until fragrant, about 1 minute.",
+    "Add the Sardinian-Style Olives and sauté for another minute.",
+    "Add the Hearty Tomato Sauce and stir to combine.",
+    "Simmer the sauce over low heat for 5-7 minutes, stirring occasionally.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Reserve 1 cup of pasta water before draining the Calamarata.",
+    "Add the cooked pasta to the skillet with the sauce and toss to combine.",
+    "If the sauce seems too thick, add some of the reserved pasta water.",
+    "Serve the pasta hot, garnished with chopped fresh basil leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "sardinian",
+    "tomato-sauce",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sardinian-pasta-calamarata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-20T00:56:37.863Z"
+}
