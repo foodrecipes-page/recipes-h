@@ -7255,16 +7255,17 @@
   },
   {
     "slug": "hearty-mediterranean-lamb-wrap",
-    "title": "Hearty Mediterranean Lamb Wrap",
+    "title": "Greek Lamb Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "lamb-recipes",
-      "lotus-leaf-wrap",
-      "mediterranean"
+      "greek",
+      "lamb",
+      "wrap",
+      "mediterranean",
+      "easy",
+      "lunch"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 90,
+    "totalTimeMin": 28,
     "shard": "h"
   },
   {
