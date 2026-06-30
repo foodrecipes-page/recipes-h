@@ -1,0 +1,91 @@
+{
+  "slug": "halal-friendly-smoky-brazilian-milk-bake",
+  "title": "Brazilian Smoked Chicken Bake",
+  "description": "A smoky twist on a classic chicken bake, inspired by Brazilian flavors. This dish is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal",
+    "friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Chicken Breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "1 cup, cubed",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together milk, butter, smoked paprika, garlic powder, and salt.",
+    "Add the cubed bread to the bowl and toss until bread is evenly coated.",
+    "In a separate bowl, toss together the chopped cilantro and shredded cheese.",
+    "In a 9x13-inch baking dish, arrange half of the bread mixture in the bottom.",
+    "Place the smoked chicken breasts on top of the bread.",
+    "Sprinkle the remaining bread mixture over the chicken.",
+    "Top with the cilantro and cheese mixture.",
+    "Bake for 35-40 minutes or until the chicken is cooked through and the top is golden brown.",
+    "Let it rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "smoky",
+    "chicken",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-friendly-smoky-brazilian-milk-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:18:55.071Z"
+}
