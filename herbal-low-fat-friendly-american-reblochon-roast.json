@@ -1,0 +1,81 @@
+{
+  "slug": "herbal-low-fat-friendly-american-reblochon-roast",
+  "title": "Roast Beef with Roasted Vegetables and Mashed Potatoes",
+  "description": "A hearty roast beef dish with roasted vegetables and creamy mashed potatoes. This recipe is perfect for a cold winter evening.",
+  "cuisine": "american",
+  "diet": [
+    "low-fat",
+    "herbal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast Beef",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "3 large potatoes",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Carrots",
+      "amount": "4 large carrots",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Brussels Sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Low-Fat Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (160°C).",
+    "Season the roast beef with thyme, rosemary, salt, and pepper.",
+    "Place the roast beef in a roasting pan and put it in the oven.",
+    "Roast the beef for 2-3 hours, or until it reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "While the beef is roasting, peel and chop the carrots and Brussels sprouts.",
+    "Toss the carrots and Brussels sprouts with olive oil, salt, and pepper. Spread them out in a single layer on a baking sheet.",
+    "Roast the carrots and Brussels sprouts in the oven for 20-25 minutes, or until they are tender and lightly browned.",
+    "Boil the potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with butter, milk, and salt and pepper to taste.",
+    "Slice the roast beef against the grain and serve with the roasted carrots and Brussels sprouts, and mashed potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roast-beef",
+    "low-fat",
+    "herbal",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-low-fat-friendly-american-reblochon-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:41:04.784Z"
+}
