@@ -1,0 +1,67 @@
+{
+  "slug": "herbaceous-brazilian-sirloin-soup",
+  "title": "Brazilian Sirloin Steak with Herb Roasted Potatoes",
+  "description": "Grilled sirloin steak served with a side of roasted potatoes infused with herbs, a classic Brazilian-inspired dish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3-4 medium-sized"
+    },
+    {
+      "name": "fresh herbs (such as rosemary, thyme, and oregano)",
+      "amount": "2 tablespoons chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the sirloin steak with salt, pepper, and your choice of herbs.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches an internal temperature of 130°F - 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Toss the sliced potatoes with olive oil, chopped herbs, salt, and pepper.",
+    "Roast the potatoes in a preheated oven at 425°F for 20-25 minutes, or until they're golden brown.",
+    "Mince the garlic and sprinkle it over the roasted potatoes.",
+    "Serve the sliced sirloin steak with a side of roasted potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "potatoes",
+    "herbs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-brazilian-sirloin-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:50:13.676Z"
+}
