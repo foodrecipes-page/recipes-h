@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-portuguese-poppy-seeds-casserole",
+  "title": "Portuguese Seed Casserole",
+  "description": "A hearty, comforting casserole filled with flavorful portuguese sausage and crunchy poppy seeds, perfect for a chilly evening.",
+  "cuisine": "portuguese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "White Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Poppy Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hearty Bread Cubes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the white rice according to package instructions.",
+    "Sauté the onion and garlic in olive oil until softened.",
+    "Add the portuguese sausage and cook until browned.",
+    "Stir in diced tomatoes and bring to a simmer.",
+    "In a separate bowl, mix poppy seeds and cheddar cheese.",
+    "In a 9x13 inch baking dish, create a layer of cooked rice.",
+    "Top with the sausage and tomato mixture, followed by a layer of poppy seed and cheese mixture.",
+    "Repeat the layers one more time, finishing with a layer of rice on top.",
+    "Dot the top with olive oil and cover with hearty bread cubes.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-portuguese-poppy-seeds-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:35:19.621Z"
+}
