@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-mediterranean-lamb-wrap",
+  "title": "Greek Lamb Wrap",
+  "description": "A flavorful, easy-to-make wrap filled with lamb, feta, and vegetables, inspired by the Mediterranean diet.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless, thinly sliced"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": "Hearty, gluten-free wraps"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup",
+      "notes": "Cherry tomatoes, halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pita bread"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season lamb with salt and pepper. Grill for 4-5 minutes per side, or until cooked to desired temperature.",
+    "Warm pita bread by wrapping in foil and heating on the grill for 2-3 minutes.",
+    "Assemble wraps by spreading a layer of lamb on each pita, followed by a dollop of feta cheese, a sprinkle of red onion, cucumber, and tomato.",
+    "Drizzle with olive oil and a squeeze of lemon juice.",
+    "Garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "lamb",
+    "wrap",
+    "mediterranean",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mediterranean-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:50:44.757Z"
+}
