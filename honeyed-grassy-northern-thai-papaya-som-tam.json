@@ -1,0 +1,83 @@
+{
+  "slug": "honeyed-grassy-northern-thai-papaya-som-tam",
+  "title": "Thai-Style Papaya Salad",
+  "description": "A spicy and sour salad made with shredded green papaya, perfect for a hot summer day.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Papaya",
+      "amount": "1 medium",
+      "notes": "Grate or shred the papaya into thin strips"
+    },
+    {
+      "name": "Thai Chili",
+      "amount": "2-3 chilies",
+      "notes": "Use more or less chili depending on desired spice level"
+    },
+    {
+      "name": "Tam Som Sauce",
+      "amount": "2 tbsp",
+      "notes": "You can make your own tam som sauce or use store-bought"
+    },
+    {
+      "name": "Honeyed Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chop peanuts into small pieces"
+    },
+    {
+      "name": "Grassy Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop cilantro into small pieces"
+    },
+    {
+      "name": "Northern Tomatoes",
+      "amount": "1 medium",
+      "notes": "Dice tomatoes into small pieces"
+    },
+    {
+      "name": "Papaya Seeds",
+      "amount": "1 tsp",
+      "notes": "Use seeds as garnish or add to salad for extra flavor"
+    },
+    {
+      "name": "Som Fruits",
+      "amount": "1/4 cup",
+      "notes": "Chop som fruits into small pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated papaya, diced tomatoes, chopped peanuts, and chopped cilantro.",
+    "In a small bowl, whisk together tam som sauce, honeyed peanuts, and papaya seeds. Pour the dressing over the papaya mixture and toss to combine.",
+    "Add chopped som fruits and mix well.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional chopped peanuts and cilantro if desired.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "papaya",
+    "thai",
+    "salad",
+    "vegetarian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-grassy-northern-thai-papaya-som-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:49:04.891Z"
+}
