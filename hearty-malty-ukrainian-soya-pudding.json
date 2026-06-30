@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-malty-ukrainian-soya-pudding",
+  "title": "Soya Pudding with Ukrainian Twist",
+  "description": "A hearty twist on classic soya pudding with a malty note.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soya milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "maize flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pudding powder",
+      "amount": "1 packet"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine sugar, soya milk, maize flour, malt powder, and salt in a saucepan.",
+    "Whisk until the mixture is smooth.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Remove from heat and stir in pudding powder until dissolved.",
+    "Let cool to room temperature.",
+    "Stir in cinnamon and vanilla extract.",
+    "Pour into individual serving cups and refrigerate until set.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soya",
+    "pudding",
+    "malts",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malty-ukrainian-soya-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:35:54.368Z"
+}
