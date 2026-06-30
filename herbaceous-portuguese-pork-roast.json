@@ -1,0 +1,87 @@
+{
+  "slug": "herbaceous-portuguese-pork-roast",
+  "title": "Pork Loin Roast with Herb Crust",
+  "description": "A classic portuguese-inspired pork roast dish with a fragrant herb crust. Perfect for a special occasion or a weekend dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin roast (1.5 kg)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil (2 tbsp)",
+      "amount": "",
+      "notes": "for rubbing"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "minced",
+      "notes": "for rub"
+    },
+    {
+      "name": "onion powder (1 tsp)",
+      "amount": "",
+      "notes": "for rub"
+    },
+    {
+      "name": "chopped fresh rosemary (2 tbsp)",
+      "amount": "",
+      "notes": "for rub"
+    },
+    {
+      "name": "chopped fresh thyme (2 tbsp)",
+      "amount": "",
+      "notes": "for rub"
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (1 tsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges (4)",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Rinse the pork loin roast and pat it dry with paper towels.",
+    "In a small bowl, mix together the olive oil, garlic, onion powder, rosemary, thyme, salt, and black pepper.",
+    "Rub the herb mixture all over the pork loin roast, making sure to coat it evenly.",
+    "Place the pork loin roast in a roasting pan and put it in the oven.",
+    "Roast the pork for 20 minutes per kilogram, or until it reaches an internal temperature of 63°C (145°F).",
+    "Remove the pork from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "portuguese",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 63,
+    "carbs": 0,
+    "fat": 62
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-portuguese-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:44:25.042Z"
+}
