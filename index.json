@@ -3678,16 +3678,13 @@
   },
   {
     "slug": "hearty-dense-irish-beef-stew",
-    "title": "Hearty Dense Irish Beef Stew",
+    "title": "Irish Beef Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "irish-cuisine",
-      "one-pot",
-      "weeknight-dinner"
+      "irish",
+      "beef"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "cuisine": "irish",
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
@@ -8146,17 +8143,14 @@
   },
   {
     "slug": "hearty-portuguese-poppy-seeds-casserole",
-    "title": "Hearty Portuguese Poppy Seeds Casserole",
+    "title": "Portuguese Seed Casserole",
     "tags": [
-      "casserole",
-      "high-protein",
       "portuguese",
-      "romantic",
-      "special-occasion",
-      "weeknight"
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -12195,16 +12189,15 @@
   },
   {
     "slug": "heavy-honeyed-egyptian-date-cake",
-    "title": "Heavy Honeyed Egyptian Date Cake",
+    "title": "Egyptian Date Cake",
     "tags": [
-      "date-based",
-      "middle-eastern",
-      "sweet-treats",
-      "unique-desserts",
-      "vegan-friendly"
+      "cake",
+      "dessert",
+      "dates",
+      "honey"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
