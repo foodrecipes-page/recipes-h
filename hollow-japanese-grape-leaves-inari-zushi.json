@@ -1,0 +1,77 @@
+{
+  "slug": "hollow-japanese-grape-leaves-inari-zushi",
+  "title": "Hollow Japanese-Style Inari Zushi",
+  "description": "A unique and delicious twist on traditional Japanese sushi, using hollowed out inari tofu pouches filled with a sweet grape and leaf mixture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Inari tofu pouches (hollow)",
+      "amount": "4-6 pouches",
+      "notes": ""
+    },
+    {
+      "name": "Grape juice",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Green leaves (such as shiso or basil)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the grape mixture by whisking together grape juice, rice vinegar, sugar, and salt in a small bowl.",
+    "Add chopped green leaves to the grape mixture and stir to combine.",
+    "Rinse the inari tofu pouches and pat them dry with a paper towel.",
+    "Fill each tofu pouch with the grape mixture, leaving a small border at the top.",
+    "Serve the filled tofu pouches chilled, garnished with additional chopped green leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "sushi",
+    "inari",
+    "grape",
+    "leaves"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-japanese-grape-leaves-inari-zushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:46:10.075Z"
+}
