@@ -8240,16 +8240,15 @@
   },
   {
     "slug": "hearty-rich-tunisian-bread-tagine",
-    "title": "Hearty Rich Tunisian Bread Tagine",
+    "title": "Tunisian Tagine",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "low-carb",
-      "one-pot",
-      "tunisian-cuisine"
+      "tunisian",
+      "tagine",
+      "lamb",
+      "stew"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -9347,17 +9346,15 @@
   },
   {
     "slug": "hearty-smoky-algerian-lamb-tagine",
-    "title": "Hearty Smoky Algerian Lamb Tagine",
+    "title": "Smoky Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "hearty-stew",
-      "lamb-recipes",
-      "low-sodium",
-      "one-pot-meal",
-      "smoky-flavor"
+      "lamb",
+      "tagine",
+      "smoked-paprika",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 140,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
