@@ -1,0 +1,95 @@
+{
+  "slug": "halal-friendly-molded-turkish-burrata-cig-kofte",
+  "title": "Turkish-Style Kofte Kebabs",
+  "description": "A classic Turkish dish made with flavorful kofte meatballs, served with a side of toasted bread and a fresh salad.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal",
+    "friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kofte meatballs ( Turkish-style beef and lamb meatballs )",
+      "amount": "1 pound",
+      "notes": "Available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread 4-6 kofte meatballs onto skewers, leaving a small space between each meatball.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the kofte meatballs for 8-10 minutes, turning occasionally, until cooked through and slightly charred.",
+    "Meanwhile, toast the pita bread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "In a large bowl, combine chopped parsley, red onion, cucumber, tomato, and red pepper flakes.",
+    "Squeeze lemon juice over the salad and toss to combine.",
+    "Serve the grilled kofte meatballs with toasted pita bread and a side of the fresh salad.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "meatballs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-friendly-molded-turkish-burrata-cig-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:48:12.470Z"
+}
