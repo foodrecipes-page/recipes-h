@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-peruvian-lardons-skillet",
+  "title": "Skillet Lardons with Heart of Peruvian Beef",
+  "description": "Hearty and flavorful beef lardons, cooked with Peruvian inspiration, in a sizzling skillet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lardons",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Aji Amarillo Pepper Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add lardons and cook until browned, about 5 minutes.",
+    "Remove lardons and set aside.",
+    "Add garlic and cook for 1 minute.",
+    "Add sliced onion and cook until softened, about 3 minutes.",
+    "Add flank steak and cook until browned, about 3-4 minutes per side.",
+    "Return lardons to the skillet and stir to combine.",
+    "Season with salt, pepper, and Peruvian Aji Amarillo Pepper Sauce.",
+    "Serve hot, garnished with chopped cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "skillet",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peruvian-lardons-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:53:53.443Z"
+}
