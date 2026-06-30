@@ -1,0 +1,67 @@
+{
+  "slug": "heavy-honeyed-egyptian-date-cake",
+  "title": "Egyptian Date Cake",
+  "description": "A moist and sweet cake made with heavy ingredients and a hint of honeyed flavor, inspired by traditional Egyptian desserts. Perfect for a special occasion or a sweet treat.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy Egyptian Date Cake Mix",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Dates",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9x13-inch baking dish and set aside.",
+    "In a large mixing bowl, combine the cake mix, honey, eggs, and butter. Mix until well combined.",
+    "Stir in the chopped dates.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "dates",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavy-honeyed-egyptian-date-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:20:55.911Z"
+}
