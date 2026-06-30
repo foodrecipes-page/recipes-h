@@ -8124,17 +8124,15 @@
   },
   {
     "slug": "hearty-portuguese-lamb-stew",
-    "title": "Hearty Portuguese Lamb Stew",
+    "title": "Lamb Portuguese Stew",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "hearty-stew",
-      "lamb-based",
-      "one-pot",
-      "portuguese-cuisine"
+      "lamb",
+      "portuguese",
+      "stew",
+      "hearty"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 150,
+    "cuisine": "portuguese",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
