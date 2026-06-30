@@ -122,15 +122,12 @@
   },
   {
     "slug": "halal-friendly-molded-turkish-burrata-cig-kofte",
-    "title": "Halal-Friendly Molded Turkish Burrata Cig-Kofte",
+    "title": "Turkish-Style Kofte Kebabs",
     "tags": [
-      "appetizer",
-      "halal",
-      "kid-friendly",
-      "one-pan",
-      "snack",
       "turkish",
-      "weeknight"
+      "kebabs",
+      "meatballs",
+      "grilled"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
@@ -7197,17 +7194,15 @@
   },
   {
     "slug": "hearty-malty-ukrainian-soya-pudding",
-    "title": "Hearty Malty Ukrainian Soya Pudding",
+    "title": "Soya Pudding with Ukrainian Twist",
     "tags": [
-      "malt-syrup",
-      "puff-pastry",
-      "soya-milk",
-      "ukrainian-dish",
-      "vegan-friendly",
-      "vegetarian-dessert"
+      "soya",
+      "pudding",
+      "malts",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -12830,16 +12825,14 @@
   },
   {
     "slug": "herbaceous-portuguese-pork-roast",
-    "title": "Herbaceous Portuguese Pork Roast",
+    "title": "Pork Loin Roast with Herb Crust",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
+      "pork",
       "portuguese",
-      "weeknight"
+      "roast"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 105,
+    "cuisine": "portuguese",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {
@@ -13149,17 +13142,15 @@
   },
   {
     "slug": "herbal-crispy-dutch-tofu-skewers",
-    "title": "Herbal Crispy Dutch Tofu Skewers",
+    "title": "Dutch Tofu Skewers",
     "tags": [
       "dutch",
       "tofu",
-      "herbal",
-      "crispy",
-      "plant-based",
-      "tandoor"
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -15268,13 +15259,15 @@
   },
   {
     "slug": "honeyed-grassy-northern-thai-papaya-som-tam",
-    "title": "Honeyed Grassy Northern-Thai Papaya Som Tam",
+    "title": "Thai-Style Papaya Salad",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "restful"
+      "papaya",
+      "thai",
+      "salad",
+      "vegetarian",
+      "summer"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "h"
   },
