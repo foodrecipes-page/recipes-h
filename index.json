@@ -7893,18 +7893,15 @@
   },
   {
     "slug": "hearty-peppery-turkish-lamb-kebabs",
-    "title": "Hearty Peppery Turkish Lamb Kebabs",
+    "title": "Turkish Lamb Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "kebabs",
       "lamb",
-      "one-pan",
+      "kebabs",
       "turkish",
-      "weeknight"
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -7938,13 +7935,12 @@
   },
   {
     "slug": "hearty-peruvian-lardons-skillet",
-    "title": "Hearty Peruvian Lardons Skillet",
+    "title": "Skillet Lardons with Heart of Peruvian Beef",
     "tags": [
-      "high-protein",
-      "kosher-friendly",
-      "one-pan",
-      "peruvian-cuisine",
-      "weeknight"
+      "peruvian",
+      "beef",
+      "skillet",
+      "breakfast"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
@@ -12580,10 +12576,15 @@
   },
   {
     "slug": "herbaceous-brazilian-sirloin-soup",
-    "title": "Herbaceous Brazilian Sirloin Soup",
-    "tags": [],
+    "title": "Brazilian Sirloin Steak with Herb Roasted Potatoes",
+    "tags": [
+      "steak",
+      "potatoes",
+      "herbs",
+      "grilled"
+    ],
     "cuisine": "Brazilian",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
