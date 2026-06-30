@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-peppery-turkish-lamb-kebabs",
+  "title": "Turkish Lamb Kebabs",
+  "description": "A classic Turkish dish featuring marinated lamb kebabs grilled to perfection. Serve with a side of crusty bread and a salad for a hearty meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup",
+      "notes": "For brushing the grill"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika, sweet",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated lamb cubes onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked through and slightly charred.",
+    "Transfer the kebabs to a plate and brush with lemon juice. Garnish with chopped parsley.",
+    "Serve immediately, with a side of crusty bread and a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "turkish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peppery-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:56:39.886Z"
+}
