@@ -1,0 +1,101 @@
+{
+  "slug": "honeyed-peruvian-tofu-bowl",
+  "title": "Tofu Bowl with Honeyed Vinaigrette",
+  "description": "A sweet and savory Peruvian-inspired dish featuring marinated tofu atop a bed of mixed greens with a drizzle of honeyed vinaigrette.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "honeyed vinaigrette",
+      "amount": "",
+      "notes": "store-bought or homemade (see ingredients below)"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the tofu into 1-inch cubes and place on a baking sheet lined with parchment paper.",
+    "3. Drizzle with 1 tablespoon of olive oil and sprinkle with cumin and coriander. Toss to coat.",
+    "4. Roast in the oven for 20-25 minutes, or until golden brown.",
+    "5. In a small bowl, whisk together the lime juice and honey until well combined.",
+    "6. In a large bowl, combine the mixed greens, red onion, red bell pepper, and cherry tomatoes.",
+    "7. Top the salad with the roasted tofu.",
+    "8. Drizzle the honeyed vinaigrette over the salad and toss to coat.",
+    "9. Serve immediately and enjoy!",
+    "10. Store leftover salad in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "vegan",
+    "gluten-free",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-peruvian-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:39:02.106Z"
+}
