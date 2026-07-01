@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-herbal-chinese-ham-century-egg-congee",
+  "title": "Century Egg Congee",
+  "description": "A Chinese-inspired breakfast dish made with congee, century egg, and ham.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Century Egg",
+      "amount": "1",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Ham",
+      "amount": "2 slices",
+      "notes": "Diced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For congee"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Herbal Oil",
+      "amount": "1 tsp",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the century egg and cut it into small pieces.",
+    "In a large pot, bring the water to a boil.",
+    "Add the congee and stir well to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Add the diced ham and century egg to the congee and stir well to combine.",
+    "Season with salt to taste.",
+    "Serve the congee hot, garnished with chopped green onions and a drizzle of herbal oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "congee",
+    "century-egg"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-chinese-ham-century-egg-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:07.913Z"
+}
