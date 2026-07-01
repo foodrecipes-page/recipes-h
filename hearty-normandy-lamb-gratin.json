@@ -1,0 +1,101 @@
+{
+  "slug": "hearty-normandy-lamb-gratin",
+  "title": "Lamb Normandy Gratin",
+  "description": "A rich and flavorful lamb dish from the Normandy region of France, topped with a creamy gratin.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the remaining 2 tablespoons of butter to the pot.",
+    "Add the sliced onions and cook until they are softened and caramelized, about 20 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the flour and cook for 1 minute.",
+    "Add the white wine and chicken broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and cook for 20 minutes.",
+    "Remove the pot from the oven and stir in the heavy cream and grated Gruyère cheese.",
+    "Return the pot to the oven and cook for an additional 10-15 minutes, or until the lamb is tender and the sauce is bubbly.",
+    "Remove the pot from the oven and sprinkle with fresh thyme.",
+    "Serve the lamb hot, topped with the creamy gratin sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "normandy",
+    "gratin",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-normandy-lamb-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:30:50.986Z"
+}
