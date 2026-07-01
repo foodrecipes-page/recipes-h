@@ -7391,16 +7391,15 @@
   },
   {
     "slug": "hearty-midnight-cravings-norwegian-kabanos-tagine",
-    "title": "Hearty Midnight Cravings Norwegian Kabanos Tagine",
+    "title": "Midnight Norwegian Kabanos Tagine",
     "tags": [
-      "gluten-free",
-      "midnight-snack",
       "norwegian",
-      "one-pan",
-      "tagine"
+      "tagine",
+      "kabanos",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
