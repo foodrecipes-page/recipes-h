@@ -5470,17 +5470,15 @@
   },
   {
     "slug": "hearty-herbal-chinese-ham-century-egg-congee",
-    "title": "Hearty Herbal Chinese Ham Century Egg Congee",
+    "title": "Century Egg Congee",
     "tags": [
-      "chinese-food",
-      "comfort-food",
-      "date-night",
-      "hearty",
-      "jain-friendly",
-      "one-pan"
+      "breakfast",
+      "chinese",
+      "congee",
+      "century-egg"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
