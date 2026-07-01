@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-hangover-thai-chicken-khao-pad",
+  "title": "Chicken Khao Pad",
+  "description": "A spicy and flavorful Thai dish made with stir-fried chicken, rice, and vegetables. A popular breakfast option in Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "khao",
+      "amount": "2 cups",
+      "notes": "uncooked jasmine rice"
+    },
+    {
+      "name": "pad thai sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "veggies (bell peppers, carrots, onions)",
+      "amount": "1 cup",
+      "notes": "any combination of your choice"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or peanut oil"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned and cooked through.",
+    "Add vegetables and cook until tender.",
+    "Add khao and stir-fry for 2-3 minutes.",
+    "Add pad thai sauce, fish sauce, and sugar. Stir-fry for another minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "breakfast",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-hangover-thai-chicken-khao-pad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:31.470Z"
+}
