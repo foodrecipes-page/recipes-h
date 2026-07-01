@@ -1558,16 +1558,16 @@
   },
   {
     "slug": "healthy-smoky-tunisian-rice-wrap",
-    "title": "Healthy Smoky Tunisian Rice Wrap",
+    "title": "Tunisian Chicken Wrap",
     "tags": [
-      "diabetic-friendly",
-      "low-carb",
-      "one-pot",
-      "smoky",
-      "wrap"
+      "chicken",
+      "wrap",
+      "tunisian",
+      "healthy",
+      "smoky"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "tunisian",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
