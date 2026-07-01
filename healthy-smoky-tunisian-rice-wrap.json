@@ -1,0 +1,89 @@
+{
+  "slug": "healthy-smoky-tunisian-rice-wrap",
+  "title": "Tunisian Chicken Wrap",
+  "description": "A healthy and smoky Tunisian-inspired chicken wrap recipe, perfect for a quick meal on-the-go.",
+  "cuisine": "tunisian",
+  "diet": [
+    "healthy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. In a small bowl, mix together smoked paprika, cumin, coriander, garlic powder, salt, and pepper.",
+    "3. Rub the spice mixture all over the chicken breast, making sure to coat it evenly.",
+    "4. Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "5. Let the chicken rest for a few minutes before slicing it thinly.",
+    "6. Warm the wrap in the microwave for 10-15 seconds, or in the oven for a few minutes.",
+    "7. Assemble the wrap by placing the sliced chicken, cooked rice, and any desired toppings (such as lettuce, tomato, and pickles) into the center of the wrap.",
+    "8. Drizzle with your favorite sauce (such as tahini or hummus) and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "tunisian",
+    "healthy",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healthy-smoky-tunisian-rice-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:36:11.097Z"
+}
