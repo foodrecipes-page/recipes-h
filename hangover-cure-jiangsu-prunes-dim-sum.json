@@ -1,0 +1,66 @@
+{
+  "slug": "hangover-cure-jiangsu-prunes-dim-sum",
+  "title": "Jiangsu Prune Stir Fry",
+  "description": "A sweet and savory stir fry originating from Jiangsu Province, blending the natural sweetness of prunes with the savory flavors of Hangover cure and Dim sum.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jiangsu",
+      "amount": "2 cups",
+      "notes": "Fresh from Jiangsu Province"
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Dim sum",
+      "amount": "1 package",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Hangover cure",
+      "amount": "2 teaspoons",
+      "notes": "Dried and ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add Jiangsu and cook until slightly browned.",
+    "Add prunes and cook for 2-3 minutes.",
+    "Add dim sum and cook until thawed and heated through.",
+    "Add hangover cure and stir-fry for 1 minute.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jiangsu",
+    "stir-fry",
+    "breakfast",
+    "prunes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-jiangsu-prunes-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:56:24.865Z"
+}
