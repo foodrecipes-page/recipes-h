@@ -7732,17 +7732,15 @@
   },
   {
     "slug": "hearty-normandy-lamb-gratin",
-    "title": "hearty normandy lamb gratin",
+    "title": "Lamb Normandy Gratin",
     "tags": [
-      "ayurvedic-sattvic-friendly",
-      "comfort-food",
-      "french-cuisine",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "normandy",
+      "gratin",
+      "french"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 120,
+    "cuisine": "French",
+    "totalTimeMin": 70,
     "shard": "h"
   },
   {
@@ -9609,17 +9607,16 @@
   },
   {
     "slug": "hearty-smoky-moroccan-pistachio-chebakia",
-    "title": "Hearty Smoky Moroccan Pistachio Chebakia",
+    "title": "Moroccan Pistachio Chebakia Bites",
     "tags": [
       "moroccan",
       "pistachio",
-      "shojin-friendly",
-      "smoky",
-      "stone-bowl",
-      "yeasty"
+      "chebakia",
+      "cookies",
+      "snack"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
