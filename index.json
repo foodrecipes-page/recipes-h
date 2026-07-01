@@ -3298,18 +3298,16 @@
   },
   {
     "slug": "hearty-croatian-gorgonzola-pasta",
-    "title": "Hearty Croatian Gorgonzola Pasta",
+    "title": "Gorgonzola Pasta with Croatian Twist",
     "tags": [
-      "croatian",
-      "flexitarian",
       "gorgonzola",
-      "kid-friendly",
-      "one-pot",
       "pasta",
-      "weeknight"
+      "croatian",
+      "italian",
+      "dinner"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
