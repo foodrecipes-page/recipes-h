@@ -1398,17 +1398,15 @@
   },
   {
     "slug": "healthy-chinese-tofu-bao",
-    "title": "Healthy Chinese Tofu Bao",
+    "title": "Pan-Seared Tofu Bao",
     "tags": [
-      "chinese-food",
-      "easy-lunch",
-      "healthy",
-      "meal-prep",
-      "tofu-recipes",
-      "vegetarian"
+      "chinese",
+      "tofu",
+      "bao",
+      "healthy"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
