@@ -398,15 +398,15 @@
   },
   {
     "slug": "hangover-cure-jiangsu-prunes-dim-sum",
-    "title": "Hangover-Cure Jiangsu Prunes Dim Sum",
+    "title": "Jiangsu Prune Stir Fry",
     "tags": [
-      "dried-fruit",
-      "hangover-cure",
-      "one-pan",
-      "weeknight"
+      "jiangsu",
+      "stir-fry",
+      "breakfast",
+      "prunes"
     ],
-    "cuisine": "japanese,chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
