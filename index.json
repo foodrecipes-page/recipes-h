@@ -5270,17 +5270,15 @@
   },
   {
     "slug": "hearty-hangover-thai-chicken-khao-pad",
-    "title": "Hearty Hangover Thai Chicken Khao Pad",
+    "title": "Chicken Khao Pad",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "hangover-cure",
-      "low-calorie",
-      "one-pan",
-      "thai-food"
+      "thai",
+      "breakfast",
+      "chicken",
+      "rice"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -15407,17 +15405,15 @@
   },
   {
     "slug": "honeyed-peruvian-tofu-bowl",
-    "title": "Honeyed Peruvian Tofu Bowl",
+    "title": "Tofu Bowl with Honeyed Vinaigrette",
     "tags": [
-      "air-fry",
-      "high-protein",
-      "low-fat",
-      "monsoon",
       "peruvian",
-      "vegan"
+      "vegan",
+      "gluten-free",
+      "salad"
     ],
     "cuisine": "peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
