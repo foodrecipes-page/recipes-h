@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-midnight-cravings-norwegian-kabanos-tagine",
+  "title": "Midnight Norwegian Kabanos Tagine",
+  "description": "A hearty Norwegian dish inspired by the flavors of the night, combining the smokiness of kabanos with the warmth of a tagine.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos",
+      "amount": "12 slices"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced",
+      "notes": "Caramelize until golden brown"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium, peeled and cubed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add sliced onion and cook until caramelized, stirring occasionally.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced carrots and potatoes, cook for 5 minutes.",
+    "Add cumin, paprika, salt, and pepper. Stir to combine.",
+    "Add kabanos slices on top, folding them into the vegetable mixture.",
+    "Cover and cook for 30 minutes or until the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "tagine",
+    "kabanos",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-midnight-cravings-norwegian-kabanos-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:59.255Z"
+}
