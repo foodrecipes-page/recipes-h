@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-irish-grill-grill",
+  "title": "Grilled Irish Sausage Sandwiches",
+  "description": "A hearty take on traditional Irish sausage, served on a toasted bun with caramelized onions and peppers.",
+  "cuisine": "irish",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Hamburger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Ketchup",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown mustard",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill sausages for 5-7 minutes per side, or until cooked through.",
+    "While sausages are cooking, grill sliced onions and bell peppers until tender.",
+    "Toast hamburger buns on the grill.",
+    "Assemble sandwiches with cooked sausages, caramelized onions and peppers, and cheddar cheese.",
+    "Drizzle with ketchup and brown mustard.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "irish",
+    "sausages",
+    "sandwiches"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-grill-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:10:38.303Z"
+}
