@@ -1002,16 +1002,16 @@
   },
   {
     "slug": "hazelnut-crusted-chinese-coconut-stir-fry",
-    "title": "Hazelnut-Crusted Chinese Coconut Stir-Fry",
+    "title": "Honey Hazelnut Stir Fry",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "honey",
+      "hazelnut",
+      "stir-fry",
+      "vegetarian",
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -3555,17 +3555,16 @@
   },
   {
     "slug": "hearty-crunchy-venezuelan-peppers-skillet",
-    "title": "Hearty Crunchy Venezuelan Peppers Skillet",
+    "title": "Venezuelan Skillet Chicken",
     "tags": [
-      "mediterranean",
-      "one-pan",
-      "pastry",
-      "peppers",
-      "vegetarian",
-      "venezuelan"
+      "chicken",
+      "skillet",
+      "venezuelan",
+      "spicy",
+      "hearty"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
