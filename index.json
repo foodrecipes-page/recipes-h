@@ -16121,18 +16121,15 @@
   },
   {
     "slug": "hot-smoked-vietnamese-tofu-curry",
-    "title": "Hot Smoked Vietnamese Tofu Curry",
+    "title": "Smoked Tofu Curry",
     "tags": [
-      "brunch",
-      "curry",
-      "smoky",
-      "tofu",
       "vegan",
-      "vegetarian",
+      "curry",
+      "smoked tofu",
       "vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
