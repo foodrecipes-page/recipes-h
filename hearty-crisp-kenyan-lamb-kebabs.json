@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-crisp-kenyan-lamb-kebabs",
+  "title": "Kenyan-Style Lamb Kebabs with Crisp Salad",
+  "description": "A flavorful and refreshing recipe featuring marinated lamb kebabs served with a hearty and crisp salad. This Kenyan-inspired dish is perfect for a dinner party.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to cut the lamb into uniform pieces for even cooking."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality olive oil for the best flavor."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice is best."
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic just before using it to get the best flavor."
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "Use fresh ginger for the best flavor."
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality curry powder for the best flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "Use a mix of lettuce, spinach, and other greens for a hearty salad."
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "1 cup",
+      "notes": "Use fresh cherry tomatoes for the best flavor and texture."
+    },
+    {
+      "name": "crunchy tortilla strips",
+      "amount": "1 cup",
+      "notes": "Use store-bought or homemade tortilla strips for added crunch."
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, curry powder, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix until they are evenly coated.",
+    "Thread the marinated lamb onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until they are cooked to your desired level of doneness.",
+    "While the kebabs are cooking, prepare the salad by combining the mixed greens, cherry tomatoes, and crunchy tortilla strips in a large bowl.",
+    "Once the kebabs are cooked, remove them from the grill and let them rest for a few minutes.",
+    "Serve the kebabs on top of the salad and enjoy!",
+    "Note: Make sure to cook the lamb to an internal temperature of at least 145°F (63°C) to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "kenyan",
+    "lamb",
+    "salad",
+    "grilled"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crisp-kenyan-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:03:55.385Z"
+}
