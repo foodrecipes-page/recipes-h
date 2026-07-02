@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-sour-norwegian-rhubarb-bake",
+  "title": "Traditional Norwegian Rhubarb Crisp",
+  "description": "A sweet and tangy dessert made with fresh rhubarb and topped with a crunchy oat mixture, perfect for a cozy night in.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds, cut into 1-inch pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup, cut into small pieces"
+    },
+    {
+      "name": "old-fashioned oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the rhubarb and granulated sugar. Let it sit for about 15 minutes, until the rhubarb starts to release its juice.",
+    "Add the flour to the bowl and stir until the rhubarb is evenly coated.",
+    "Transfer the rhubarb mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the cold butter and old-fashioned oats until the mixture resembles coarse crumbs.",
+    "Add the brown sugar and salt (if using) to the bowl and stir until well combined.",
+    "Spread the oat mixture evenly over the rhubarb.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the rhubarb is tender.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "rhubarb",
+    "dessert",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sour-norwegian-rhubarb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:30:40.551Z"
+}
