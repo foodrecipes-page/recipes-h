@@ -9336,16 +9336,15 @@
   },
   {
     "slug": "hearty-smoky-american-bacon-skillet",
-    "title": "Hearty Smoky American Bacon Skillet",
+    "title": "Smoky Skillet BLT",
     "tags": [
-      "american-classic",
-      "brunch-ideas",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "blt",
+      "american",
+      "skillet",
+      "breakfast"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -9880,15 +9879,14 @@
   },
   {
     "slug": "hearty-sour-norwegian-rhubarb-bake",
-    "title": "Hearty Sour Norwegian Rhubarb Bake",
+    "title": "Traditional Norwegian Rhubarb Crisp",
     "tags": [
-      "lazy-sunday",
       "norwegian",
-      "one-pan",
-      "sour",
-      "weeknight"
+      "rhubarb",
+      "dessert",
+      "oatmeal"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "norwegian",
     "totalTimeMin": 60,
     "shard": "h"
   },
