@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-smoky-american-bacon-skillet",
+  "title": "Smoky Skillet BLT",
+  "description": "A twist on the classic BLT sandwich, adding smoky flavor to the hearty American favorite.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "American cheese",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Hearty bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Crack eggs into a bowl and whisk them together. Set aside.",
+    "2. Cook the bacon in the skillet over medium heat until crispy.",
+    "3. Remove the cooked bacon from the skillet and set aside on a paper towel.",
+    "4. Add butter to the skillet and let it melt.",
+    "5. Place the American cheese slices in the skillet and let them melt.",
+    "6. Pour the whisked eggs into the skillet and scramble them with the cheese.",
+    "7. Add the cooked bacon to the eggs and mix well.",
+    "8. Toast the bread slices.",
+    "9. Assemble the BLT by placing the egg mixture onto the toasted bread.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "blt",
+    "american",
+    "skillet",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-american-bacon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:49:48.920Z"
+}
