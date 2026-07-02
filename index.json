@@ -268,17 +268,16 @@
   },
   {
     "slug": "hand-pulled-smoked-chinese-lamb-bao",
-    "title": "Hand-pulled Smoked Chinese lamb Bao",
+    "title": "Smoked Lamb Bao with Chinese Caramel Sauce",
     "tags": [
-      "cheese-pull",
-      "fodmap-friendly",
-      "hand-pulled",
-      "one-pan",
-      "smoked-lamb",
-      "weeknight"
+      "lamb",
+      "bao",
+      "caramel",
+      "asian",
+      "mediterranean"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 150,
+    "cuisine": "Asian-Mediterranean",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -6296,16 +6295,15 @@
   },
   {
     "slug": "hearty-irish-grill-grill",
-    "title": "Hearty Irish Grill Grill",
+    "title": "Grilled Irish Sausage Sandwiches",
     "tags": [
-      "cheese-pull",
-      "comfort-food",
+      "grilled",
       "irish",
-      "jammy-filling",
-      "lamb"
+      "sausages",
+      "sandwiches"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 195,
+    "cuisine": "irish",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
