@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-crunchy-venezuelan-peppers-skillet",
+  "title": "Venezuelan Skillet Chicken",
+  "description": "A flavorful and spicy Venezuelan-inspired dish made with chicken, peppers, and a crunchy topping. Serve with rice or arepas for a hearty meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "crunchy topping (such as chopped plantain or yuca)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "hearty beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": " Venezualan seasoning (such as achiote or cilantro)",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, pepper, and Venezuelan seasoning. Heat 1 tablespoon of olive oil in the skillet over medium-high heat. Add the chicken and cook until browned on all sides and cooked through, about 5-6 minutes. Transfer the chicken to a plate and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet. Add the bell peppers and cook until tender and lightly charred, about 5 minutes.",
+    "Add the hearty beef broth to the skillet, scraping up any browned bits from the bottom. Bring to a simmer and cook until reduced slightly, about 2-3 minutes.",
+    "Stir in the crunchy topping (if using). Return the chicken to the skillet and toss to coat with the sauce.",
+    "Transfer the skillet to the preheated oven and bake for an additional 5-7 minutes, until the chicken is cooked through and the sauce is bubbly.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions (if desired).",
+    "Optional: serve with rice or arepas for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "venezuelan",
+    "spicy",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crunchy-venezuelan-peppers-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:37:02.990Z"
+}
