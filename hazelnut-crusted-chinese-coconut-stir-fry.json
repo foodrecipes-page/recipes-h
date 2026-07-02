@@ -1,0 +1,76 @@
+{
+  "slug": "hazelnut-crusted-chinese-coconut-stir-fry",
+  "title": "Honey Hazelnut Stir Fry",
+  "description": "A sweet and savory stir fry with roasted hazelnuts and a hint of honey.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "chinese stir seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "crusted ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped ginger and cook for 1 minute.",
+    "Add the broccoli and bell pepper, and cook until tender.",
+    "Add the chopped hazelnuts, stir seasoning, and honey. Cook for an additional 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "honey",
+    "hazelnut",
+    "stir-fry",
+    "vegetarian",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hazelnut-crusted-chinese-coconut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:27:32.238Z"
+}
