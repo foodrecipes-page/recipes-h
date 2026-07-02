@@ -2393,16 +2393,15 @@
   },
   {
     "slug": "hearty-british-rye-crumble",
-    "title": "Hearty British Rye Crumble",
+    "title": "Traditional British Beef and Rye Crumble",
     "tags": [
-      "british-classic",
-      "comfort-food",
-      "festive-food",
-      "mason-jar-recipe",
-      "winter-dish"
+      "beef",
+      "british",
+      "rye",
+      "comfort-food"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 55,
+    "cuisine": "british",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -4259,18 +4258,15 @@
   },
   {
     "slug": "hearty-flaky-croatian-pastry-pilaf",
-    "title": "Hearty Flaky Croatian Pastry Pilaf",
+    "title": "Croatian Pastry Pilaf",
     "tags": [
       "croatian",
-      "flaky",
-      "flambe",
-      "hearty",
-      "indulgent",
-      "low-glycemic",
-      "pilaf"
+      "pastry",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
