@@ -94,17 +94,15 @@
   },
   {
     "slug": "halal-friendly-crispy-korean-busan-korean-mandu",
-    "title": "Halal-Friendly Crispy Korean Busan Mandu",
+    "title": "Crispy Busan-Style Mandu (Korean Dumplings)",
     "tags": [
-      "busan",
-      "crispy",
-      "halal",
       "korean",
-      "street-food",
-      "umami"
+      "busan",
+      "mandu",
+      "dumplings"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 38,
     "shard": "h"
   },
   {
