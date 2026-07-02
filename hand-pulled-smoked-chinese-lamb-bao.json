@@ -1,0 +1,80 @@
+{
+  "slug": "hand-pulled-smoked-chinese-lamb-bao",
+  "title": "Smoked Lamb Bao with Chinese Caramel Sauce",
+  "description": "A fusion of Asian and Mediterranean flavors, this dish combines tender smoked lamb with the sweetness of Chinese caramel sauce, served in a crispy bao bun.",
+  "cuisine": "Asian-Mediterranean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked lamb",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "bao buns",
+      "amount": "4",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wrap the bao buns in foil and bake for 5 minutes.",
+    "In a small saucepan, combine sugar, soy sauce, and rice vinegar.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the bao buns from the oven and toast them with a kitchen torch or under the broiler for 1-2 minutes.",
+    "Slice the smoked lamb into thin strips and brush with sesame oil.",
+    "Assemble the bao by spooning the caramel sauce onto the bottom bun, then topping with sliced lamb and finishing with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "bao",
+    "caramel",
+    "asian",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hand-pulled-smoked-chinese-lamb-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:47:47.442Z"
+}
