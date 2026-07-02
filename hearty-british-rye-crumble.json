@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-british-rye-crumble",
+  "title": "Traditional British Beef and Rye Crumble",
+  "description": "A hearty and comforting dish originating from the British countryside, featuring tender beef and a crispy rye crumble topping.",
+  "cuisine": "british",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stewing steak",
+      "amount": "500g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "rye flour",
+      "amount": "100g",
+      "notes": "for crumble topping"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "50g",
+      "notes": "chopped for crumble topping"
+    },
+    {
+      "name": "beef stock",
+      "amount": "250ml",
+      "notes": "warmed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large pan over medium heat, cook the chopped onion, carrot, and celery until softened.",
+    "Add the beef cubes and cook until browned on all sides.",
+    "Pour in the warmed beef stock, then bring to the boil.",
+    "Transfer the mixture to a casserole dish and set aside.",
+    "To make the crumble topping, combine the rye flour and chopped butter in a bowl.",
+    "Rub the mixture together with your fingers until it resembles coarse breadcrumbs.",
+    "Spread the crumble mixture evenly over the beef mixture.",
+    "Bake in the preheated oven for 25-30 minutes, or until the crumble is golden brown and the filling is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "rye",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-rye-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:29:07.865Z"
+}
