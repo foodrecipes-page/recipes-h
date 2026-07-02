@@ -1,0 +1,94 @@
+{
+  "slug": "hot-smoked-vietnamese-tofu-curry",
+  "title": "Smoked Tofu Curry",
+  "description": "A flavorful and nutritious vegan curry made with smoked tofu, hot spices, and aromatic Vietnamese flavors. Serve over steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Hot curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish-free sauce (e.g. nam pla)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add tofu and cook until browned on all sides, about 3-4 minutes.",
+    "Add coconut milk, fish-free sauce, and salt. Bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Stir in Thai basil and serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "curry",
+    "smoked tofu",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-vietnamese-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:54.135Z"
+}
