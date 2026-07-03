@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-indulgent-ukrainian-cheese-bake",
+  "title": "Baked Cheese Blintzes",
+  "description": "A hearty and indulgent Ukrainian dish featuring cheese-filled blintzes baked to perfection.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": "mixed with cottage cheese"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for blintz dough"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for blintz dough"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine cottage cheese, ricotta cheese, and eggs. Mix well.",
+    "In a separate bowl, mix flour and milk to make blintz dough.",
+    "Heat a non-stick pan over medium heat. Add a small amount of melted butter.",
+    "Pour a small amount of blintz dough into the pan and tilt to coat evenly.",
+    "Add a spoonful of the cheese mixture onto the center of the dough.",
+    "Fold the dough over the cheese mixture and cook for 2-3 minutes or until golden brown.",
+    "Transfer the blintzes to a baking dish and top with shredded cheddar cheese and a sprinkle of sugar (if using).",
+    "Bake at 375°F (190°C) for 15-20 minutes or until the cheese is melted and the blintzes are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blintz",
+    "cheese",
+    "ukrainian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-ukrainian-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:05:14.445Z"
+}
