@@ -658,18 +658,15 @@
   },
   {
     "slug": "hard-boiled-jamaican-egg-frittata",
-    "title": "Hard-Boiled Jamaican Egg Frittata",
+    "title": "Jamaican Frittata",
     "tags": [
       "breakfast",
-      "brunch",
-      "easy-dinner",
       "eggs",
-      "gluten-free",
       "jamaican",
-      "pressure-cooker"
+      "frittata"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -1644,17 +1641,16 @@
   },
   {
     "slug": "hearty-aerated-irish-chickpea-flour-stew",
-    "title": "Hearty Aerated Irish Chickpea flour Stew",
+    "title": "Irish Stew with Chickpea Dumplings",
     "tags": [
-      "aerated",
-      "fermented",
-      "gluten-free",
-      "high-fiber",
       "irish",
+      "stew",
+      "chickpea",
+      "dumplings",
       "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
