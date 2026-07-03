@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-spanish-pineapple-skewers",
+  "title": "Spanish Pineapple Skewers",
+  "description": "A sweet and savory Spanish-inspired dish featuring marinated pineapple and hearty skewers.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "Heart of palm",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, cumin, smoked paprika, salt, and black pepper.",
+    "Add pineapple, heart of palm, red onion, and red bell pepper to the bowl. Toss to coat with marinade.",
+    "Thread marinated vegetables and pineapple onto skewers.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until vegetables are tender.",
+    "Serve skewers hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-pineapple-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:05:21.119Z"
+}
