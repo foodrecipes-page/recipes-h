@@ -1,0 +1,87 @@
+{
+  "slug": "hard-boiled-jamaican-egg-frittata",
+  "title": "Jamaican Frittata",
+  "description": "A Caribbean-inspired breakfast dish made with eggs, spices, and a hint of Jamaican jerk seasoning.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "breakfast",
+    "dairy",
+    "eggs"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "Hard-boiled eggs not required, but can be used as an ingredient"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the pan"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Crack the eggs into a bowl and whisk them together with a fork. Add the Jamaican jerk seasoning and mix well.",
+    "Heat a non-stick skillet over medium heat and add the olive oil.",
+    "Pour the egg mixture into the skillet and let it cook for 2-3 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, until the frittata is cooked through.",
+    "Remove the skillet from the oven and sprinkle with chopped cilantro, scallions, and shredded cheese (if using).",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata onto a plate and serve hot.",
+    "Optional: Top with additional chopped cilantro, scallions, or shredded cheese, if desired.",
+    "Cut the frittata into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "jamaican",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hard-boiled-jamaican-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:40:24.098Z"
+}
