@@ -2227,16 +2227,15 @@
   },
   {
     "slug": "hearty-brazilian-hazelnut-stew",
-    "title": "Hearty Brazilian Hazelnut Stew",
+    "title": "Brazilian Stew",
     "tags": [
-      "brazilian-food",
-      "cataplana-recipes",
-      "dairy-free",
-      "hazelnut-recipes",
-      "one-pot"
+      "brazilian",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -11499,19 +11498,16 @@
   },
   {
     "slug": "hearty-vietnamese-pho-broth-bowl",
-    "title": "Hearty Vietnamese Pho Broth Bowl",
+    "title": "Vietnamese Pho",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "noodle-soup",
-      "one-pan",
       "pho",
-      "umami",
       "vietnamese",
-      "weeknight"
+      "noodle-soup",
+      "beef",
+      "soup"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 110,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 90,
     "shard": "h"
   },
   {
@@ -11648,15 +11644,13 @@
   },
   {
     "slug": "hearty-x-tra-rich-filipino-macaroni-kaldereta",
-    "title": "Hearty X-tra Rich Filipino Macaroni Kaldereta",
+    "title": "Filipino Kaldereta Macaroni Casserole",
     "tags": [
-      "comfort-food",
-      "creamy-sauce",
-      "filipino-cuisine",
-      "homemade",
-      "kaldereta",
+      "filipino",
       "macaroni",
-      "weeknight-dinner"
+      "casserole",
+      "beef",
+      "cheese"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
