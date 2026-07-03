@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-hydro-blue-german-cabbage-bao",
+  "title": "German Braised Bao with Cabbage and Hydro-Cooked Hearty Meat",
+  "description": "A hearty German-inspired dish featuring slow-cooked bao, tender cabbage, and hydro-cooked meat.",
+  "cuisine": "German",
+  "diet": [
+    "meat",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hearty Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Bao",
+      "amount": "4-6 pieces",
+      "notes": "Frozen or fresh"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Hydro Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Blue Cheese",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "German Beer",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat the hydro vegetable broth to 180°F (82°C) in a large pot.",
+    "Add the hearty meat to the broth and cook for 30 minutes, or until browned.",
+    "Add the shredded cabbage to the pot and cook for an additional 10 minutes, or until tender.",
+    "Cook the bao according to package instructions and set aside.",
+    "Add the German beer to the pot and simmer for 5 minutes.",
+    "Stir in the blue cheese (if using) and cook for an additional 2 minutes.",
+    "Serve the braised cabbage and meat mixture over the cooked bao.",
+    "Garnish with additional blue cheese and parsley (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "braised",
+    "bao",
+    "cabbage",
+    "hydro-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-hydro-blue-german-cabbage-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:32:18.361Z"
+}
