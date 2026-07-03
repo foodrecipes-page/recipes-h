@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-french-lamb-tartiflette-cassoulet",
+  "title": "French Lamb Cassoulet",
+  "description": "A hearty French dish made with lamb, beans, and a richly flavored broth. A classic recipe that's sure to become a favorite.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "Ask for bone-in, or use boneless if preferred"
+    },
+    {
+      "name": "cannellini beans",
+      "amount": "250g",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "200g",
+      "notes": "French-style sausage, such as Toulouse"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "Medium-sized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "50g",
+      "notes": "Concentrated"
+    },
+    {
+      "name": "white wine",
+      "amount": "250ml",
+      "notes": "Dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "tartiflette",
+      "amount": "100g",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Brown the lamb shoulder in a large Dutch oven over medium-high heat.",
+    "Remove the lamb, then cook the pork sausage in the same pot until browned.",
+    "Add the onion, carrot, and garlic to the pot, cooking until the vegetables are softened.",
+    "Add the tomato paste, white wine, and beef broth to the pot, stirring to combine.",
+    "Return the lamb shoulder to the pot, then cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 hours, or until the lamb is tender.",
+    "Add the cannellini beans and tartiflette to the pot, then continue baking for an additional 30 minutes.",
+    "Serve the cassoulet hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "lamb",
+    "cassoulet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-french-lamb-tartiflette-cassoulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:04:53.051Z"
+}
