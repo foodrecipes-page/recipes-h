@@ -808,16 +808,14 @@
   },
   {
     "slug": "harmonious-light-tunisian-chilli-tagine",
-    "title": "Harmonious Light Tunisian Chilli Tagine",
+    "title": "Harmonious Tunisian Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "north-african",
-      "one-pot",
-      "spicy"
+      "stew",
+      "tunisian",
+      "harmonious"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
