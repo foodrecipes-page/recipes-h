@@ -1,0 +1,77 @@
+{
+  "slug": "honeyed-fermented-peruvian-fish-ceviche-clasico",
+  "title": "Peruvian Ceviche",
+  "description": "A refreshing Peruvian dish made with raw fish marinated in citrus juices, mixed with onions and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Peruvian ceviche fish",
+      "amount": "1 pound",
+      "notes": "Fresh catch of the day, preferably sea bass or halibut"
+    },
+    {
+      "name": "Fermented onions",
+      "amount": "1/2 cup",
+      "notes": "Sliced and marinated in fermented juice"
+    },
+    {
+      "name": "Honeyed lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh lime juice mixed with a hint of honey"
+    },
+    {
+      "name": "Fish broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium broth for marinating the fish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh cilantro for garnish"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "Sliced and seeded for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the fish and marinade"
+    }
+  ],
+  "instructions": [
+    "1. Slice the fish into thin pieces and place in a shallow dish.",
+    "2. In a separate bowl, mix together the fermented onions, honeyed lime juice, fish broth, cilantro, and aji amarillo peppers.",
+    "3. Pour the marinade over the fish and refrigerate for at least 30 minutes.",
+    "4. Season with salt to taste and adjust the marinade as needed.",
+    "5. Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "6. For an added crunch, garnish with toasted corn kernels or crispy plantain chips.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "fish",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-fermented-peruvian-fish-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:31:58.692Z"
+}
