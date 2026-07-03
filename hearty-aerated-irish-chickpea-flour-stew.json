@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-aerated-irish-chickpea-flour-stew",
+  "title": "Irish Stew with Chickpea Dumplings",
+  "description": "A hearty Irish stew with chickpea dumplings, perfect for a cold winter's night.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned"
+    },
+    {
+      "name": "Irish stew mix",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "aerated water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine chickpeas, flour, and aerated water. Mix until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness.",
+    "Cut into small squares and set aside.",
+    "In a large Dutch oven, sauté the onion, carrot, and potato in a little bit of oil until tender.",
+    "Add the Irish stew mix and stir to combine.",
+    "Add the chickpea dumplings to the stew and cover with a lid.",
+    "Transfer the Dutch oven to the preheated oven and bake for 25-30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "chickpea",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-aerated-irish-chickpea-flour-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:40:26.631Z"
+}
