@@ -1,0 +1,50 @@
+{
+  "slug": "halal-rye-bread-delight",
+  "title": "Rye Delight Sandwich",
+  "description": "A classic combination of flavors and textures in a simple sandwich.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Halal Delight",
+      "amount": "4 oz",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Place the slices of rye bread in the pan.",
+    "3. Cook for 2-3 minutes on the first side, or until the bread is toasted.",
+    "4. Flip the bread and cook for another 2-3 minutes.",
+    "5. Meanwhile, slice the halal delight.",
+    "6. Assemble the sandwich by placing the halal delight on one slice of toasted rye bread.",
+    "7. Place the other slice of toasted rye bread on top of the halal delight.",
+    "8. Cut the sandwich in half and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sandwich",
+    "lunch-ideas",
+    "delightful"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-rye-bread-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:27:04.405Z"
+}
