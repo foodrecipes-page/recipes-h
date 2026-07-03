@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-brazilian-hazelnut-stew",
+  "title": "Brazilian Stew",
+  "description": "A hearty, flavorful stew from Brazil that combines the richness of hazelnuts with tender beef. Perfect for a cold winter night.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (Stewing Beef)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1.5L",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Sear the beef until browned, then set aside.",
+    "Saute the onion and garlic until softened.",
+    "Add the chopped hazelnuts and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Return the beef to the pot and add the potatoes.",
+    "Simmer for 1.5 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-brazilian-hazelnut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:21:53.333Z"
+}
