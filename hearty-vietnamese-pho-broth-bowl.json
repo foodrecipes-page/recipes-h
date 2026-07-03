@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-vietnamese-pho-broth-bowl",
+  "title": "Vietnamese Pho",
+  "description": "A classic Vietnamese noodle soup made with a rich beef broth, tender beef, and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beef bones",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "beef slices",
+      "amount": "1 lb"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large stockpot, combine beef bones and beef broth. Bring to a boil over high heat.",
+    "2. Reduce heat to low and simmer for 1 hour.",
+    "3. Add onion, ginger, star anise, and cinnamon stick to the pot. Simmer for another 30 minutes.",
+    "4. Strain the broth through a fine-mesh sieve into a clean pot. Discard the solids.",
+    "5. Cook the rice noodles according to package instructions. Drain and set aside.",
+    "6. Slice the beef into thin strips. Add to the pot and cook for 3-5 minutes, or until cooked to desired doneness.",
+    "7. Add fish sauce and soy sauce to the pot. Stir to combine.",
+    "8. To assemble the pho, place a portion of noodles into a bowl. Add slices of beef and ladle the hot broth over the top.",
+    "9. Garnish with fresh herbs, such as basil and mint.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pho",
+    "vietnamese",
+    "noodle-soup",
+    "beef",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-vietnamese-pho-broth-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:18:31.583Z"
+}
