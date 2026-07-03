@@ -1,0 +1,66 @@
+{
+  "slug": "herbal-fluffy-baby-pak-choi-stir-fry",
+  "title": "Stir Fry Delight",
+  "description": "A simple and delicious stir fry recipe made with fresh pak choi and a hint of herbal flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Minced"
+    },
+    {
+      "name": "Herbal Tea",
+      "amount": "2 teaspoons",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and ginger, stir-fry for 1 minute.",
+    "Add pak choi and stir-fry for 2-3 minutes, until tender.",
+    "Add herbal tea and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "pak-choi",
+    "herbal",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-fluffy-baby-pak-choi-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:56:47.849Z"
+}
