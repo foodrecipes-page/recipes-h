@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-x-tra-rich-filipino-macaroni-kaldereta",
+  "title": "Filipino Kaldereta Macaroni Casserole",
+  "description": "A creamy, rich, and hearty Filipino-inspired macaroni casserole dish made with ground beef and served with a side of steamed vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Macaroni",
+      "amount": "8 ounces",
+      "notes": "any shape"
+    },
+    {
+      "name": "Kaldereta sauce",
+      "amount": "2 cups",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Cook the macaroni in boiling salted water until al dente. Drain and set aside.",
+    "In a large skillet, melt butter over medium heat. Add onion and garlic and cook until softened.",
+    "Add the ground beef and cook until browned, breaking into small pieces.",
+    "Add the kaldereta sauce, tomato sauce, and cooked macaroni. Stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheddar cheese and milk.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "macaroni",
+    "casserole",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-x-tra-rich-filipino-macaroni-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:04:02.457Z"
+}
