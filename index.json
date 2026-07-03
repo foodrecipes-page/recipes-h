@@ -202,15 +202,14 @@
   },
   {
     "slug": "halal-rye-bread-delight",
-    "title": "Halal Rye Bread Delight",
+    "title": "Rye Delight Sandwich",
     "tags": [
-      "rye-bread",
-      "boiled-dish",
-      "halal-friendly",
-      "festive"
+      "sandwich",
+      "lunch-ideas",
+      "delightful"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 11,
     "shard": "h"
   },
   {
@@ -6008,17 +6007,16 @@
   },
   {
     "slug": "hearty-hydro-blue-german-cabbage-bao",
-    "title": "Hearty Hydro Blue German Cabbage Bao",
+    "title": "German Braised Bao with Cabbage and Hydro-Cooked Hearty Meat",
     "tags": [
-      "bento-box",
-      "blue-food",
-      "festive",
-      "german-cuisine",
-      "raw-friendly",
-      "vegetarian"
+      "german",
+      "braised",
+      "bao",
+      "cabbage",
+      "hydro-cooked"
     ],
     "cuisine": "German",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -10001,17 +9999,16 @@
   },
   {
     "slug": "hearty-spanish-pulpo-paella",
-    "title": "Hearty Spanish Pulpo Paella",
+    "title": "Spanish Pulpo Paella",
     "tags": [
-      "date-night",
-      "seafood-free",
       "spanish",
-      "spicy",
-      "tapas",
-      "vegetarian-friendly"
+      "seafood",
+      "paella",
+      "octopus",
+      "chorizo"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
