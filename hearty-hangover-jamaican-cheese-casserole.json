@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-hangover-jamaican-cheese-casserole",
+  "title": "Jamaican Hangover Casserole",
+  "description": "A hearty breakfast casserole to cure a morning after, with a Caribbean twist.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cuban Bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "Jamaican sausage",
+      "amount": "8 slices",
+      "notes": null
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Diced ham",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut Cuban bread into 1-inch cubes and toast until lightly browned.",
+    "Cook Jamaican sausage in a skillet until browned, breaking into small pieces as it cooks.",
+    "Whisk eggs, salt, and pepper in a large bowl.",
+    "Add diced ham, onions, bell peppers, and cooked sausage to the bowl and stir until combined.",
+    "Stir in toasted bread, Cheddar cheese, and Jamaican seasoning.",
+    "Pour egg mixture into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until eggs are set and cheese is melted and golden brown.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "casserole",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-hangover-jamaican-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:06:27.351Z"
+}
