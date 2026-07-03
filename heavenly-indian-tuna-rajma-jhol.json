@@ -1,0 +1,104 @@
+{
+  "slug": "heavenly-indian-tuna-rajma-jhol",
+  "title": "Indian-Style Tuna Curry",
+  "description": "A flavorful and spicy tuna curry made with Indian spices and coconut milk. Serve over basmati rice for a delicious and satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "1 can (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Rajma",
+      "amount": "2 cups (for serving)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic and sauté until onion is translucent.",
+    "Add cumin, coriander, turmeric, and chili powder and sauté for 1 minute.",
+    "Add tuna and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook for 10-15 minutes or until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve over cooked rajma and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "fish",
+    "tuna"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-indian-tuna-rajma-jhol",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:04:41.070Z"
+}
