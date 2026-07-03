@@ -13778,17 +13778,15 @@
   },
   {
     "slug": "herbal-moroccan-chicken-tagine",
-    "title": "Herbal Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "herbal",
+      "chicken",
+      "tagine",
       "moroccan",
-      "sous-vide",
-      "low-fat",
-      "sick-day",
-      "dinner"
+      "herbal"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 160,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -14278,17 +14276,13 @@
   },
   {
     "slug": "herbed-spanish-mushroom-soup",
-    "title": "Herbed Spanish Mushroom Soup",
+    "title": "Creamy Mushroom Soup",
     "tags": [
-      "savory",
-      "light",
-      "post-workout",
       "mushroom",
-      "herbed",
-      "spanish",
-      "vegan"
+      "soup",
+      "comfort-food"
     ],
-    "cuisine": "Spanish",
+    "cuisine": "French",
     "totalTimeMin": 30,
     "shard": "h"
   },
