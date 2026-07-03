@@ -13407,15 +13407,15 @@
   },
   {
     "slug": "herbal-fluffy-baby-pak-choi-stir-fry",
-    "title": "Herbal Fluffy Baby Pak Choi Stir-fry",
+    "title": "Stir Fry Delight",
     "tags": [
-      "baby-pak-choi",
       "stir-fry",
-      "nut-free-friendly",
-      "herbal-fluffy"
+      "pak-choi",
+      "herbal",
+      "quick-meal"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
@@ -15150,17 +15150,15 @@
   },
   {
     "slug": "honeyed-fermented-peruvian-fish-ceviche-clasico",
-    "title": "Honeyed Fermented Peruvian Fish Ceviche Clasico",
+    "title": "Peruvian Ceviche",
     "tags": [
-      "fermented-foods",
-      "one-bowl-meal",
-      "peruvian-cuisine",
-      "pescatarian",
-      "raw-vegan",
-      "weeknight-dinner"
+      "peruvian",
+      "ceviche",
+      "fish",
+      "appetizer"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
