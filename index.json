@@ -6228,17 +6228,15 @@
   },
   {
     "slug": "hearty-indulgent-ukrainian-cheese-bake",
-    "title": "Hearty Indulgent Ukrainian Cheese Bake",
+    "title": "Baked Cheese Blintzes",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "indulgent",
-      "keto-friendly",
+      "blintz",
+      "cheese",
       "ukrainian",
-      "wood-fired"
+      "breakfast"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -9992,16 +9990,14 @@
   },
   {
     "slug": "hearty-spanish-pineapple-skewers",
-    "title": "Hearty Spanish Pineapple Skewers",
+    "title": "Spanish Pineapple Skewers",
     "tags": [
-      "grilled-chicken",
-      "keto-friendly",
-      "low-carb",
-      "quick-snack",
-      "spanish-cuisine"
+      "spanish",
+      "vegetarian",
+      "grilling"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
