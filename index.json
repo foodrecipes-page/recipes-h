@@ -5234,17 +5234,14 @@
   },
   {
     "slug": "hearty-hangover-jamaican-cheese-casserole",
-    "title": "Hearty Hangover Jamaican Cheese Casserole",
+    "title": "Jamaican Hangover Casserole",
     "tags": [
-      "brunch-idea",
-      "cheesy",
-      "flexitarian-friendly",
-      "hangover-cure",
-      "jamaican-cuisine",
-      "wood-fired"
+      "breakfast",
+      "casserole",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -12888,17 +12885,16 @@
   },
   {
     "slug": "herbal-american-teque-os-stir-fry",
-    "title": "Herbal American Teque Os Stir-fry",
+    "title": "Herbal American Stir Fry",
     "tags": [
-      "americana",
-      "date-night",
-      "herbal",
-      "one-pan",
+      "quick",
+      "easy",
+      "dinner",
       "vegetarian",
-      "weekday"
+      "gluten-free"
     ],
     "cuisine": "American",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
