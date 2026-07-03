@@ -4565,17 +4565,14 @@
   },
   {
     "slug": "hearty-french-lamb-tartiflette-cassoulet",
-    "title": "Hearty French Lamb Tartiflette Cassoulet",
+    "title": "French Lamb Cassoulet",
     "tags": [
-      "cassoulet",
-      "date-night",
       "french",
-      "hearty",
       "lamb",
-      "lyon"
+      "cassoulet"
     ],
     "cuisine": "French",
-    "totalTimeMin": 70,
+    "totalTimeMin": 240,
     "shard": "h"
   },
   {
@@ -11919,18 +11916,15 @@
   },
   {
     "slug": "heavenly-indian-tuna-rajma-jhol",
-    "title": "Heavenly Indian Tuna Rajma Jhol",
+    "title": "Indian-Style Tuna Curry",
     "tags": [
-      "fish",
-      "gluten-free",
       "indian",
-      "low-carb",
-      "one-pan",
-      "quick-cooking",
-      "weeknight"
+      "curry",
+      "fish",
+      "tuna"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
