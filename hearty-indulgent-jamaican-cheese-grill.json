@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-indulgent-jamaican-cheese-grill",
+  "title": "Jamaican Cheese Grill Skillet",
+  "description": "A hearty and indulgent Jamaican-inspired dish featuring grilled cheese, onions, and bell peppers in a flavorful skillet.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "grill cheese slices",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "jamaican spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add sliced onions and cook until they start to caramelize, about 5 minutes.",
+    "Add sliced bell peppers and cook until they're tender, about 5 minutes.",
+    "Add grill cheese slices and cook until they're melted and golden brown, about 2-3 minutes per side.",
+    "Sprinkle Jamaican spice blend over the top of the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "jamaican",
+    "cheese",
+    "skillet",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-jamaican-cheese-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:44:48.345Z"
+}
