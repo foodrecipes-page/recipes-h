@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-ethiopian-clams-bisque",
+  "title": "Ethiopian Clam Bisque",
+  "description": "A creamy and flavorful soup with the bold spices of Ethiopia. Perfect for a chilly evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger; cook until softened, about 5 minutes.",
+    "Add berbere spice, cumin, and coriander; cook for 1 minute.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add clams, coconut milk, and 1 cup water; bring to a boil.",
+    "Reduce heat; simmer for 10-15 minutes or until clams open.",
+    "Purée soup with an immersion blender or transfer to a blender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "seafood",
+    "ethiopian",
+    "clams"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-ethiopian-clams-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:22:41.348Z"
+}
