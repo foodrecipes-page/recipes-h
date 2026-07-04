@@ -1,0 +1,70 @@
+{
+  "slug": "hot-crispy-mexican-corn-tacos",
+  "title": "Crispy Taco Shells with Mexican Corn",
+  "description": "A delicious and crispy taco shell recipe filled with sautéed Mexican corn, perfect for a quick snack or side dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "6-8"
+    },
+    {
+      "name": "Corn Kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a deep frying pan or a deep fryer to 350°F (180°C).",
+    "2. Fry the corn tortillas in batches until crispy, about 2-3 minutes per side.",
+    "3. Drain the fried tortillas on paper towels.",
+    "4. In a separate pan, heat the vegetable oil over medium heat.",
+    "5. Add the corn kernels and cook until lightly browned, about 5 minutes.",
+    "6. Add the cumin and chili powder to the corn and stir to combine.",
+    "7. Season with salt to taste.",
+    "8. To assemble the tacos, place a few fried tortilla shells on a plate and fill with the Mexican corn mixture.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "corn",
+    "tacos",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "4g",
+    "carbs": "25g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crispy-mexican-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:11:49.707Z"
+}
