@@ -1,0 +1,68 @@
+{
+  "slug": "honeyed-ukrainian-buttered-risotto",
+  "title": "Buttered Risotto with Honeyed Ukrainian Twist",
+  "description": "A creamy risotto dish with a sweet and savory flavor combination inspired by Ukrainian cuisine. This buttered risotto recipe adds a touch of honeyed goodness.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Risotto",
+      "amount": "300g"
+    },
+    {
+      "name": "Buttered oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honeyed balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ukrainian dried herbs",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the buttered oil in a large saucepan over medium heat.",
+    "Add the Ukrainian dried herbs and cook for 1 minute.",
+    "Add the risotto and cook for 1-2 minutes, stirring constantly.",
+    "Add 1 cup of warm water and stir until absorbed. Repeat this process until the risotto is cooked.",
+    "Stir in the honeyed balsamic vinegar.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "ukrainian",
+    "honeyed",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-ukrainian-buttered-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:39:32.992Z"
+}
