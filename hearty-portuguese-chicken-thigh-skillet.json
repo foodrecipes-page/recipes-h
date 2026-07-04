@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-portuguese-chicken-thigh-skillet",
+  "title": "Skillet Chicken",
+  "description": "A flavorful Portuguese-inspired skillet chicken dish, cooked to perfection in a hearty and savory sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large cast-iron skillet over medium-high heat.",
+    "Season the chicken thighs with salt, black pepper, and dried oregano.",
+    "Add the chicken thighs to the skillet and sear for 5-7 minutes on each side, or until browned.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2-3 minutes.",
+    "Add the chicken broth, tomato paste, and browned chicken back to the skillet.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve the chicken and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 8,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-portuguese-chicken-thigh-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:24:48.776Z"
+}
