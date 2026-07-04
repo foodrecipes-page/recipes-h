@@ -1,0 +1,92 @@
+{
+  "slug": "herbaceous-german-chickpea-bowl",
+  "title": "German Chickpea Bowl",
+  "description": "A hearty and flavorful German-inspired bowl filled with chickpeas, herbs, and spices.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 ounces)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "German bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the chickpeas, onion, caraway seeds, thyme, garlic powder, salt, and pepper.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, stirring occasionally.",
+    "Meanwhile, toast the German bread and chop the lettuce and tomato.",
+    "To assemble the bowls, place a slice of toasted bread at the bottom, followed by a spoonful of the chickpea mixture, some chopped lettuce, and a slice of tomato.",
+    "Serve immediately and enjoy!",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "chickpea",
+    "bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-german-chickpea-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:05:05.151Z"
+}
