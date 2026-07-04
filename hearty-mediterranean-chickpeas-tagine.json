@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-mediterranean-chickpeas-tagine",
+  "title": "Hearty Chickpea Tagine",
+  "description": "A flavorful and comforting one-pot dish from the Mediterranean region.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 ounces)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 ounces)"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add ground cumin, coriander, and smoked paprika. Cook for 1 minute.",
+    "Add chickpeas, canned diced tomatoes, and tagine spice mix.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and cook, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "lunch",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mediterranean-chickpeas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:37:51.370Z"
+}
