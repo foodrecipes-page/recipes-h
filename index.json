@@ -6372,17 +6372,14 @@
   },
   {
     "slug": "hearty-italian-pasta-risotto",
-    "title": "Hearty Italian Pasta Risotto",
+    "title": "Creamy Italian Risotto",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "lacto-vegetarian",
-      "one-pot",
-      "sous-vide",
-      "weeknight"
+      "italian",
+      "risotto",
+      "comfort-food"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
