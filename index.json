@@ -2959,17 +2959,14 @@
   },
   {
     "slug": "hearty-creamy-kenyan-dum-skillet",
-    "title": "Hearty Creamy Kenyan Dum Skillet",
+    "title": "Creamy Kenyan Skillet Dumplings",
     "tags": [
+      "kenyan",
       "comfort-food",
-      "cozy-dinner",
-      "kenyan-cuisine",
-      "one-pan",
-      "plant-based",
-      "sick-day"
+      "dinner"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -4074,18 +4071,15 @@
   },
   {
     "slug": "hearty-ethiopian-clams-bisque",
-    "title": "Hearty Ethiopian Clams Bisque",
+    "title": "Ethiopian Clam Bisque",
     "tags": [
-      "bisque",
-      "dinner",
+      "soup",
+      "seafood",
       "ethiopian",
-      "hearty",
-      "monsoon",
-      "one-pot",
-      "seafood"
+      "clams"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -4276,16 +4270,15 @@
   },
   {
     "slug": "hearty-flaky-irish-chicken-pie",
-    "title": "Hearty Flaky Irish Chicken Pie",
+    "title": "Irish Chicken Pie",
     "tags": [
+      "chicken",
+      "pie",
       "comfort-food",
-      "hearty",
-      "high-protein",
-      "irish-cuisine",
-      "weeknight"
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
