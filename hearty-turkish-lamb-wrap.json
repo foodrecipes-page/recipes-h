@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-turkish-lamb-wrap",
+  "title": "Lamb Doner Wrap",
+  "description": "A classic Turkish-inspired wrap filled with juicy lamb and crunchy slaw. Perfect for a quick and satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lamb seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with lamb seasoning.",
+    "Heat 1 tablespoon of olive oil in a large pan over medium-high heat.",
+    "Sear the lamb shoulder for 2-3 minutes on each side.",
+    "Transfer the lamb to the oven and cook for 15-20 minutes, or until cooked through.",
+    "While the lamb is cooking, prepare the slaw by combining cucumber, tomato, red onion, and chopped parsley in a bowl.",
+    "Warm the pita bread in the oven for 2-3 minutes.",
+    "Slice the cooked lamb into thin strips.",
+    "Assemble the wraps by spreading a layer of slaw on each pita, followed by lamb strips.",
+    "Drizzle with remaining olive oil and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-turkish-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:24:21.865Z"
+}
