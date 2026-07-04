@@ -8144,16 +8144,15 @@
   },
   {
     "slug": "hearty-reduced-ukrainian-cranberry-stew",
-    "title": "Hearty Reduced Ukrainian Cranberry Stew",
+    "title": "Ukrainian Beef Stew",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "macrobiotic",
-      "one-pot",
-      "winter-meal"
+      "ukrainian",
+      "beef",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
