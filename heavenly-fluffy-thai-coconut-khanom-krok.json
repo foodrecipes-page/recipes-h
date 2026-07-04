@@ -1,0 +1,96 @@
+{
+  "slug": "heavenly-fluffy-thai-coconut-khanom-krok",
+  "title": "Coconut Krok Pies",
+  "description": "Delicate coconut-filled krok pies that melt in your mouth. Inspired by the sweet treats of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Coconut Cream",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Heavenly Rice Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khanom Filling",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Krok Pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Village Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Essence",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine coconut cream, heavenly rice flour, fluffy sugar, and Thai red beans.",
+    "Add khanom filling and mix until well combined.",
+    "Roll out krok pastry to a thickness of about 1/8 inch.",
+    "Cut out small squares of pastry and place a spoonful of the coconut mixture in the center of each square.",
+    "Fold the pastry over the filling to form a triangle and press the edges together with a fork.",
+    "Brush the tops of the pies with a little village milk and sprinkle with coconut flakes.",
+    "Place the pies on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Drizzle with a little vanilla essence and sprinkle with a pinch of salt.",
+    "Serve warm and enjoy!",
+    "Note: The khanom filling is a key component of this recipe, so make sure to use high-quality filling for the best results."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "krok",
+    "thai-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-fluffy-thai-coconut-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:59:49.270Z"
+}
