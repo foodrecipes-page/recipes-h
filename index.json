@@ -6152,17 +6152,16 @@
   },
   {
     "slug": "hearty-indulgent-jamaican-cheese-grill",
-    "title": "Hearty Indulgent Jamaican Cheese Grill",
+    "title": "Jamaican Cheese Grill Skillet",
     "tags": [
-      "grilled-cheese",
-      "indulgent-meals",
-      "jamaican-cuisine",
-      "lunch-ideas",
-      "shojin-friendly",
-      "vegetarian-option"
+      "grill",
+      "jamaican",
+      "cheese",
+      "skillet",
+      "breakfast"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 23,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -7179,10 +7178,15 @@
   },
   {
     "slug": "hearty-mediterranean-chickpeas-tagine",
-    "title": "Hearty Mediterranean Chickpeas Tagine",
-    "tags": [],
+    "title": "Hearty Chickpea Tagine",
+    "tags": [
+      "mediterranean",
+      "vegetarian",
+      "lunch",
+      "tagine"
+    ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": null,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -9952,17 +9956,15 @@
   },
   {
     "slug": "hearty-spanish-parma-ham-paella",
-    "title": "Hearty Spanish Parma Ham Paella",
+    "title": "Spanish Paella with Ham",
     "tags": [
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "spanish-cuisine",
-      "wine-based"
+      "spanish",
+      "paella",
+      "ham",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15060,17 +15062,14 @@
   },
   {
     "slug": "honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae",
-    "title": "honeyed bitter filipino perilla-leaf-kkaennip menudo jjigae",
+    "title": "Spicy Perilla Kkaennip Stir Fry",
     "tags": [
-      "breakfast",
+      "stir-fry",
       "filipino",
-      "gluten-free",
-      "ketogenic",
-      "low-glycemic",
-      "one-pan"
+      "vegetarian"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 35,
+    "cuisine": "Filipino",
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
