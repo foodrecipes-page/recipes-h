@@ -10853,18 +10853,14 @@
   },
   {
     "slug": "hearty-turkish-lamb-wrap",
-    "title": "Hearty Turkish Lamb Wrap",
+    "title": "Lamb Doner Wrap",
     "tags": [
-      "egg-free",
-      "festive",
-      "kofte",
       "lamb",
-      "pandan-leaf",
       "turkish",
       "wrap"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -12567,19 +12563,14 @@
   },
   {
     "slug": "herbaceous-egyptian-lentils-crumble",
-    "title": "Herbaceous Egyptian Lentils Crumble",
+    "title": "Egyptian Lentil Stew",
     "tags": [
-      "paleo-friendly",
-      "herbaceous",
-      "hangover-cure",
-      "egyptian",
       "lentils",
-      "crumble",
-      "sous-vide",
-      "red-wine-jelly"
+      "egyptian",
+      "stew"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 125,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
