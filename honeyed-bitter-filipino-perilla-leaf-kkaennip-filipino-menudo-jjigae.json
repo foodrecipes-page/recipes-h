@@ -1,0 +1,79 @@
+{
+  "slug": "honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae",
+  "title": "Spicy Perilla Kkaennip Stir Fry",
+  "description": "A flavorful and spicy stir-fry dish featuring perilla leaves and kkaennip, inspired by Filipino flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Kkaennip",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Honeyed menudo",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bitter leaf",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and ginger, stir-fry until fragrant.",
+    "Add honeyed menudo and bitter leaf, stir-fry for 2 minutes.",
+    "Add perilla leaves and kkaennip, stir-fry until wilted.",
+    "Season with soy sauce and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "filipino",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:42:33.593Z"
+}
