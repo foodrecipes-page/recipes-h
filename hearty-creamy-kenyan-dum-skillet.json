@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-creamy-kenyan-dum-skillet",
+  "title": "Creamy Kenyan Skillet Dumplings",
+  "description": "A hearty and comforting Kenyan-inspired dish featuring dumplings cooked in a creamy skillet. Perfect for a cozy evening meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "12-15"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add chili powder and cumin; stir to combine.",
+    "Bring mixture to a simmer.",
+    "Meanwhile, prepare dumpling wrappers according to package instructions.",
+    "Dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer dumplings to a plate and cover with cheese.",
+    "Return skillet to heat and stir to melt cheese.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "comfort-food",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-creamy-kenyan-dum-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:38:21.313Z"
+}
