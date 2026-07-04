@@ -5543,17 +5543,15 @@
   },
   {
     "slug": "hearty-herbal-italian-ladyfingers-tiramisu",
-    "title": "Hearty Herbal Italian Ladyfingers Tiramisu",
+    "title": "Tiramisu Ladyfingers",
     "tags": [
-      "herbal-tea",
-      "italian-dessert",
-      "ladyfingers",
-      "red-wine-vinegar",
-      "satvik-friendly",
-      "vegetarian"
+      "italian",
+      "dessert",
+      "coffee",
+      "ladyfingers"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -8044,17 +8042,14 @@
   },
   {
     "slug": "hearty-portuguese-chicken-thigh-skillet",
-    "title": "Hearty Portuguese Chicken Thigh Skillet",
+    "title": "Skillet Chicken",
     "tags": [
-      "chicken-recipes",
-      "dairy-free",
-      "gluten-free",
-      "meal-prep",
-      "one-pan-meals",
-      "portuguese-cuisine"
+      "chicken",
+      "portuguese",
+      "skillet"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -13890,17 +13885,17 @@
   },
   {
     "slug": "herbal-silky-malaysian-flour-biryani",
-    "title": "Herbal Silky Malaysian Flour Biryani",
+    "title": "Malaysian Biryani Delight",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "herbal-notes",
-      "malaysian-cuisine",
-      "mushimono-steam",
-      "tandoor-cooking"
+      "chicken",
+      "tofu",
+      "vegetarian",
+      "lunch",
+      "asia",
+      "mild"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
