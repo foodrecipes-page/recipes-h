@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-reduced-ukrainian-cranberry-stew",
+  "title": "Ukrainian Beef Stew",
+  "description": "A hearty and comforting stew that's perfect for a cold winter's night. This Ukrainian-inspired recipe features tender beef and a rich, flavorful broth.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "reduced beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "hearty red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1/2 lb",
+      "notes": "such as kovbasa"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh thyme can be used instead"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the Ukrainian sausage and cook until browned, about 2 minutes.",
+    "Add the beef broth, red wine, thyme, and browned beef mixture to the pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Add the carrots and potatoes to the pot and continue to cook for an additional 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beef",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-reduced-ukrainian-cranberry-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:41:56.319Z"
+}
