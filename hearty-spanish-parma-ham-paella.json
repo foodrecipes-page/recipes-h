@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-spanish-parma-ham-paella",
+  "title": "Spanish Paella with Ham",
+  "description": "A classic Spanish dish made with savory rice, ham, and hearty paella spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ham",
+      "amount": "1 cup diced",
+      "notes": "Cured ham or prosciutto"
+    },
+    {
+      "name": "Hearty paella spices",
+      "amount": "2 tsp",
+      "notes": "Blend of saffron, paprika, and garlic powder"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced ham and cook until lightly browned, about 2-3 minutes.",
+    "Add the paella rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the tomato, red pepper, and paella spices, and stir to combine.",
+    "Add the chicken broth and water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the rice is tender.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "ham",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-parma-ham-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:27:49.154Z"
+}
