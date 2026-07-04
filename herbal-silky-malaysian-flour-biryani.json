@@ -1,0 +1,70 @@
+{
+  "slug": "herbal-silky-malaysian-flour-biryani",
+  "title": "Malaysian Biryani Delight",
+  "description": "A flavorful and aromatic dish from Malaysia, this biryani recipe combines the best of spices with tender silky chicken.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "malaysian biryani",
+      "amount": "2 tbsp",
+      "notes": "store-bought spice mix"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "silk tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "1 cup",
+      "notes": "brewed and cooled"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add 1 tsp of malaysian biryani spice mix and sauté for 1 minute.",
+    "Add 1 lb chicken breast and cook until browned, about 5 minutes.",
+    "Add 2 cups of flour and stir to combine.",
+    "Add 1 block silk tofu and stir gently.",
+    "Pour in 1 cup of herbal tea and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes.",
+    "Serve hot and garnish with chopped herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tofu",
+    "vegetarian",
+    "lunch",
+    "asia",
+    "mild"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-silky-malaysian-flour-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:31:01.725Z"
+}
