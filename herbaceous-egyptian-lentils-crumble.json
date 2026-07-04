@@ -1,0 +1,96 @@
+{
+  "slug": "herbaceous-egyptian-lentils-crumble",
+  "title": "Egyptian Lentil Stew",
+  "description": "A hearty and flavorful stew inspired by Egyptian cuisine, made with red lentils, aromatic spices, and a hint of herbaceous freshness.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1 minute.",
+    "Add cumin, coriander, paprika, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add lentils, water, and tomato paste. Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in crumble and cook for an additional 2 minutes.",
+    "Garnish with chopped parsley and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "egyptian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-egyptian-lentils-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:04:00.532Z"
+}
