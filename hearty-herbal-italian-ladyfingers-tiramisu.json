@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-herbal-italian-ladyfingers-tiramisu",
+  "title": "Tiramisu Ladyfingers",
+  "description": "A twist on the classic Italian dessert, using ladyfingers in place of traditional sponge cake.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16",
+      "notes": ""
+    },
+    {
+      "name": "Strong Brewed Coffee",
+      "amount": "1 cup",
+      "notes": "Cold"
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "4 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Dip ladyfingers in coffee for about 3-5 seconds on each side.",
+    "In a large mixing bowl, combine mascarpone cheese and granulated sugar. Beat until smooth.",
+    "Beat in egg yolks one at a time, followed by vanilla extract.",
+    "Dip ladyfingers in the mascarpone mixture for about 3-5 seconds on each side.",
+    "Layer ladyfingers and mascarpone mixture in a serving dish.",
+    "Dust with cocoa powder.",
+    "Cover and refrigerate for at least 3 hours or overnight.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "coffee",
+    "ladyfingers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-italian-ladyfingers-tiramisu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:02:53.820Z"
+}
