@@ -1,83 +1,96 @@
 {
   "slug": "harmonious-light-tunisian-chilli-tagine",
-  "title": "Harmonious Tunisian Stew",
-  "description": "A flavorful and aromatic stew from Tunisia, made with harmonious notes of spices and a kick of chilli. This dish is perfect for a cozy dinner.",
-  "cuisine": "Tunisian",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful and aromatic North African stew made with chicken, vegetables, and spices. Perfect for a cozy dinner.",
+  "cuisine": "North African",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "gluten-free",
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Tagine",
-      "amount": "1"
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
     },
     {
-      "name": "Harmonious",
-      "amount": "2 tablespoons"
+      "name": "tagine spice blend (harmonious)",
+      "amount": "2 teaspoons",
+      "notes": null
     },
     {
-      "name": "Light olive oil",
-      "amount": "2 tablespoons"
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
     },
     {
-      "name": "Onion",
-      "amount": "1 large"
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves"
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
     },
     {
-      "name": "Chilli",
-      "amount": "1 teaspoon"
+      "name": "chilli",
+      "amount": "1-2 teaspoons",
+      "notes": "depending on desired heat level"
     },
     {
-      "name": "Cumin",
-      "amount": "1 teaspoon"
+      "name": "olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
     },
     {
-      "name": "Coriander",
-      "amount": "1 teaspoon"
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
     },
     {
-      "name": "Tomato paste",
-      "amount": "2 tablespoons"
+      "name": "light coconut milk",
+      "amount": "1 cup",
+      "notes": null
     },
     {
-      "name": "Diced tomatoes",
-      "amount": "1 can"
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
     }
   ],
   "instructions": [
-    "Heat the oil in the tagine over medium heat.",
-    "Add the onion and cook until softened, about 5 minutes.",
-    "Add the garlic, chilli, cumin, and coriander. Cook for 1 minute.",
-    "Add the tomato paste and cook for 1 minute.",
-    "Add the diced tomatoes and stir to combine.",
-    "Bring the stew to a simmer and cook for 20-25 minutes or until the flavors have melded together.",
-    "Season with salt and pepper to taste.",
-    "Serve hot over couscous or rice."
+    "Heat oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add tagine spice blend, chilli, and olives. Cook for 1 minute.",
+    "Add broth and coconut milk. Stir to combine.",
+    "Bring mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes or until chicken is cooked through.",
+    "Garnish with parsley and serve over couscous or rice.",
+    "Let tagine rest for 10-15 minutes before serving to allow flavors to meld."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 25,
-  "totalTimeMin": 40,
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
+    "north-african",
+    "chicken",
     "stew",
-    "tunisian",
-    "harmonious"
+    "tagine"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 10,
-    "carbs": 30,
-    "fat": 10
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/harmonious-light-tunisian-chilli-tagine",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T21:39:18.686Z"
+  "createdAt": "2026-07-03T11:47:34.030Z"
 }
