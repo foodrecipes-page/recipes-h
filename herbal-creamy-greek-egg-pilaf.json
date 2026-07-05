@@ -1,0 +1,75 @@
+{
+  "slug": "herbal-creamy-greek-egg-pilaf",
+  "title": "Creamy Greek Pilaf Bowl",
+  "description": "A simple and flavorful pilaf bowl with creamy feta, fresh herbs, and a fried egg. Perfect for a quick and satisfying lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large, fried"
+    }
+  ],
+  "instructions": [
+    "Cook the Greek pilaf according to package instructions.",
+    "In a small bowl, whisk together the Greek yogurt and a pinch of salt.",
+    "Stir in the crumbled feta cheese until well combined.",
+    "Add the chopped parsley and dill to the yogurt mixture and stir to combine.",
+    "To assemble the bowls, divide the cooked pilaf among four bowls.",
+    "Top each bowl with a spoonful of the yogurt-feta mixture.",
+    "Fry an egg in a non-stick skillet over medium heat until the whites are set and the yolks are cooked to desired doneness.",
+    "Place a fried egg on top of each bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "greek",
+    "pilaf",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-creamy-greek-egg-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:39:36.070Z"
+}
