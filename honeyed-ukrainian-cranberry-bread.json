@@ -1,0 +1,55 @@
+{
+  "slug": "honeyed-ukrainian-cranberry-bread",
+  "title": "Cranberry Honeyed Bread",
+  "description": "A sweet and savory bread recipe incorporating the unique flavors of honey and cranberries.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ukrainian honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cranberry",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9x5-inch loaf pan.",
+    "In a large mixing bowl, combine bread, ukrainian honey, and cranberry.",
+    "Mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Place the dough in the prepared loaf pan.",
+    "Bake for 35-40 minutes, or until a toothpick inserted in the center comes out clean.",
+    "Let the bread cool in the pan for 5 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "sweet-bread",
+    "honey",
+    "cranberry"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-ukrainian-cranberry-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:30:53.978Z"
+}
