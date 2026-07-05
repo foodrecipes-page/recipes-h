@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-jammy-ethiopian-rosemary-tibs",
+  "title": "Rosemary Tibs with Jammy Egg",
+  "description": "A flavorful and spicy Ethiopian-inspired dish featuring tender tibs, jammy eggs, and fragrant rosemary.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tibs (beef strips)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "jammy eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tibs and cook until browned, about 5 minutes.",
+    "Add the rosemary and cook for 1 minute.",
+    "Add the Ethiopian spice blend and cook for 1 minute.",
+    "Make a well in the center of the skillet and crack in the jammy eggs.",
+    "Scramble the eggs and mix with the tibs.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "eggs",
+    "onion",
+    "garlic",
+    "spice-blend"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-jammy-ethiopian-rosemary-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:51:59.921Z"
+}
