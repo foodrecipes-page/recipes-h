@@ -309,16 +309,15 @@
   },
   {
     "slug": "hangover-cure-briny-jamaican-vine-leaves-bake",
-    "title": "Hangover-Cure Briny Jamaican Vine Leaves Bake",
+    "title": "Jamaican Briny Bake",
     "tags": [
-      "breakfast-dish",
-      "gluten-free-options",
-      "jamaican-cuisine",
-      "ovo-vegetarian-recipes",
-      "weeknight-meals"
+      "breakfast",
+      "jamaican",
+      "veggie",
+      "briny"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 55,
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -3568,18 +3567,15 @@
   },
   {
     "slug": "hearty-deep-fried-canadian-steak-burger",
-    "title": "Hearty Deep-Fried Canadian Steak Burger",
+    "title": "Canadian Fried Steak Burger",
     "tags": [
-      "bananas-leaf",
-      "burger",
       "canadian",
-      "deep-fried",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "fried",
+      "steak",
+      "burger"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 28,
     "shard": "h"
   },
   {
@@ -3753,17 +3749,15 @@
   },
   {
     "slug": "hearty-dense-spanish-kale-arroz-negro",
-    "title": "Hearty Dense Spanish Kale Arroz Negro",
+    "title": "Spanish Style Arroz con Kale",
     "tags": [
-      "comfort-food",
+      "spanish",
       "kale",
-      "one-pan",
-      "paleo-friendly",
-      "seafood",
-      "spanish"
+      "arroz",
+      "vegetarian"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -6751,18 +6745,15 @@
   },
   {
     "slug": "hearty-kenyan-flaxseed-bake",
-    "title": "Hearty Kenyan Flaxseed Bake",
+    "title": "Kenyan Flaxseed Breakfast Bake",
     "tags": [
-      "comfort-food",
-      "gluten-free-friendly",
-      "high-fiber",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "breakfast",
+      "kenyan",
+      "flaxseed",
+      "bake"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -16471,18 +16462,15 @@
   },
   {
     "slug": "hummus-hued-turkish-lamb-kidney-kebabs",
-    "title": "Hummus Hued Turkish Lamb Kidney Kebabs",
+    "title": "Turkish Lamb Kebab Skewers with Hummus",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "kebabs",
       "lamb",
-      "one-pan",
+      "kebabs",
       "turkish",
-      "weeknight"
+      "hummus"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 35,
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -16705,14 +16693,14 @@
   },
   {
     "slug": "hwhm-wholesome-algerian-snow-peas-stir-fry-in-copper-mug",
-    "title": "Hwhm Wholesome Algerian Snow Peas Stir-fry in Copper Mug",
+    "title": "Wholesome Algerian Snow Peas",
     "tags": [
-      "algerian-flavor",
-      "copper-mug-cooking",
-      "vegan-friendly"
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 18,
+    "cuisine": "North African",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
