@@ -1,0 +1,77 @@
+{
+  "slug": "hot-smoky-greek-cheese-bake",
+  "title": "Greek Smoky Bake",
+  "description": "A flavorful and aromatic bake combining the tanginess of Greek cheese with the smokiness of spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "250g",
+      "notes": "crumbly Greek cheese"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "hot and smoky"
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": " Ciabatta or Focaccia"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Slice the bread into 1-inch thick slices.",
+    "In a small bowl, mix together the smoked paprika, olive oil, garlic, salt, and chopped onion.",
+    "Brush the mixture onto each bread slice.",
+    "Top each bread slice with crumbled feta cheese and chopped parsley.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until the bread is golden brown and the cheese is melted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "smoky",
+    "cheese",
+    "bake",
+    "snack"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoky-greek-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:22:09.705Z"
+}
