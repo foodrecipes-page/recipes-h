@@ -805,14 +805,15 @@
   },
   {
     "slug": "harmonious-light-tunisian-chilli-tagine",
-    "title": "Harmonious Tunisian Stew",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
+      "north-african",
+      "chicken",
       "stew",
-      "tunisian",
-      "harmonious"
+      "tagine"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -6955,16 +6956,16 @@
   },
   {
     "slug": "hearty-malaysian-chicken-noodles",
-    "title": "Hearty Malaysian Chicken Noodles",
+    "title": "Malaysian Chicken Noodle Stir-Fry",
     "tags": [
-      "high-protein",
-      "malaysian-cuisine",
-      "noodle-dish",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "noodles",
+      "stir-fry",
+      "malaysian",
+      "easy"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -12980,17 +12981,16 @@
   },
   {
     "slug": "herbal-creamy-greek-egg-pilaf",
-    "title": "Herbal Creamy Greek Egg Pilaf",
+    "title": "Creamy Greek Pilaf Bowl",
     "tags": [
-      "comfort-food",
-      "greek-food",
-      "herbal-delights",
-      "midnight-cravings",
-      "one-pan",
-      "ovo-vegetarian"
+      "breakfast",
+      "lunch",
+      "greek",
+      "pilaf",
+      "egg"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
