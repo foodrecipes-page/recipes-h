@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-dutch-vegetable-stew",
+  "title": "Traditional Dutch Stew",
+  "description": "A hearty and comforting Dutch stew made with tender beef, root vegetables, and a rich broth. Perfect for a cold winter's day.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 1 cup water"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, then remove and set aside.",
+    "Add the chopped onions, carrots, and celery to the pot and cook until the vegetables are tender.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the beef broth, tomato paste mixture, and thyme to the pot. Stir to combine.",
+    "Return the browned beef to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender and the stew is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "winter-stew",
+    "beef-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:48:06.274Z"
+}
