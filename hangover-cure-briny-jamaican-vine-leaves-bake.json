@@ -1,0 +1,71 @@
+{
+  "slug": "hangover-cure-briny-jamaican-vine-leaves-bake",
+  "title": "Jamaican Briny Bake",
+  "description": "A unique combination of flavors and textures to cure that hangover. This Jamaican-inspired dish combines the brininess of feta cheese with the sweetness of caramelized onions and the crunch of fresh leaves.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Bake Apples",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Fresh Leaves",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vine Vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, caramelize the onions over medium heat for 20 minutes.",
+    "In a separate pan, cook the sliced apples until they are tender.",
+    "In a large bowl, combine the crumbled feta cheese, caramelized onions, cooked apples, chopped leaves, honey, and jerk seasoning.",
+    "Mix well and transfer the mixture to a baking dish.",
+    "Drizzle the vine vinegar over the top of the mixture.",
+    "Bake for 20 minutes or until the top is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "veggie",
+    "briny"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-briny-jamaican-vine-leaves-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:16:45.443Z"
+}
