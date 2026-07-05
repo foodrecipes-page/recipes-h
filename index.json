@@ -5407,16 +5407,14 @@
   },
   {
     "slug": "hearty-herbal-canadian-chicken-stew",
-    "title": "Hearty Herbal Canadian Chicken Stew",
+    "title": "Canadian Chicken Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "stew",
+      "canadian",
+      "chicken"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -8842,17 +8840,15 @@
   },
   {
     "slug": "hearty-silky-greek-guanciale-lasagna",
-    "title": "Hearty Silky Greek Guanciale Lasagna",
+    "title": "Greek Guanciale Lasagna",
     "tags": [
-      "flexitarian-friendly",
-      "jammy",
-      "lazy-sunday",
-      "moussaka-style",
-      "silky",
-      "wood-fired"
+      "italian",
+      "lasagna",
+      "guanciale",
+      "greek"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 65,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -10457,16 +10453,15 @@
   },
   {
     "slug": "hearty-sweet-russian-milk-pudding",
-    "title": "Hearty Sweet Russian Milk Pudding",
+    "title": "Russian Pudding",
     "tags": [
-      "comfort-food",
-      "high-calorie",
-      "no-bake",
-      "russian-dish",
-      "sweet-tooth"
+      "easy",
+      "dessert",
+      "pudding",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": "russian",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -16049,16 +16044,16 @@
   },
   {
     "slug": "hot-smoky-greek-cheese-bake",
-    "title": "Hot Smoky Greek Cheese Bake",
+    "title": "Greek Smoky Bake",
     "tags": [
-      "diabetic-friendly",
       "greek",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "smoky",
+      "cheese",
+      "bake",
+      "snack"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 35,
+    "cuisine": "Greek",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
