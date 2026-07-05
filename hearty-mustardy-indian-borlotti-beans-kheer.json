@@ -1,0 +1,64 @@
+{
+  "slug": "hearty-mustardy-indian-borlotti-beans-kheer",
+  "title": "Borlotti Bean Kheer",
+  "description": "A hearty, comforting Indian-inspired dessert featuring borlotti beans and sweet spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "kheer",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon, ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon, ground"
+    }
+  ],
+  "instructions": [
+    "Combine the borlotti beans, kheer, milk, sugar, cardamom, and cinnamon in a saucepan.",
+    "Cook over medium heat, stirring frequently, until the mixture thickens and the sugar dissolves.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until heated through.",
+    "Remove from heat and let cool slightly.",
+    "Serve warm or chilled, garnished with chopped nuts or cardamom pods if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "indian-cuisine",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mustardy-indian-borlotti-beans-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:22:26.707Z"
+}
