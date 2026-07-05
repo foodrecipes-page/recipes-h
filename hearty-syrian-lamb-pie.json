@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-syrian-lamb-pie",
+  "title": "Syrian Lamb Pie",
+  "description": "Warm and comforting dish combining the rich flavors of Syria with the classic simplicity of a lamb pie.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Boneless"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the crust"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Dissolved in water"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Hot"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat the olive oil over medium-high heat. Brown the lamb shoulder on all sides, then set aside.",
+    "Add the chopped onion to the pan and cook until softened, about 5 minutes. Add the minced garlic and cook for 1 minute.",
+    "Add the dissolved tomato paste, hot beef broth, salt, and black pepper to the pan. Stir to combine.",
+    "Return the lamb shoulder to the pan and bring the mixture to a boil. Cover and transfer to the preheated oven.",
+    "Bake for 2 hours, or until the lamb is tender and falling apart.",
+    "While the lamb is cooking, prepare the pie crust by mixing the flour and melted butter in a bowl until a dough forms.",
+    "Roll out the dough to a thickness of about 1/8 inch. Place the dough over the lamb and crimp the edges to seal.",
+    "Return the pie to the oven and bake for an additional 20-25 minutes, or until the crust is golden brown.",
+    "Let the pie rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 140,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pie",
+    "syrian",
+    "comforting",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-lamb-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:34:28.033Z"
+}
