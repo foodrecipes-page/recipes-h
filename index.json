@@ -6419,14 +6419,17 @@
   },
   {
     "slug": "hearty-jammy-ethiopian-rosemary-tibs",
-    "title": "Hearty Jammy Ethiopian Rosemary Tibs",
+    "title": "Rosemary Tibs with Jammy Egg",
     "tags": [
-      "low-carb",
-      "one-pan",
-      "quick-dinner"
+      "ethiopian",
+      "beef",
+      "eggs",
+      "onion",
+      "garlic",
+      "spice-blend"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 27,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -8436,17 +8439,15 @@
   },
   {
     "slug": "hearty-russian-barley-pilaf",
-    "title": "Hearty Russian Barley Pilaf",
+    "title": "Russian Barley Pilaf",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "one-pan",
-      "russian-cuisine",
-      "vegetarian",
-      "weeknight"
+      "russian",
+      "barley",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -13160,16 +13161,14 @@
   },
   {
     "slug": "herbal-crumbly-thai-chicken-braise",
-    "title": "Herbal Crumbly Thai Chicken Braise",
+    "title": "Thai Chicken Braise",
     "tags": [
       "thaicuisine",
-      "cashews",
-      "braise",
-      "comfortfood",
-      "sickdayfood"
+      "chickenrecipe",
+      "braisedchicken"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 60,
+    "cuisine": "Asian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -13791,17 +13790,16 @@
   },
   {
     "slug": "herbal-shaggy-algerian-tamarind-ball-tagine",
-    "title": "Herbal Shaggy Algerian Tamarind Ball Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "algerian",
-      "comfort-food",
-      "gluten-free",
+      "north-african",
+      "chicken",
+      "tagine",
       "one-pot",
-      "slow-cooker",
-      "vegetarian"
+      "easy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -16749,18 +16747,16 @@
   },
   {
     "slug": "hwholesome-middle-eastern-pistachio-stir-fry",
-    "title": "HWholesome Middle Eastern Pistachio Stir-fry",
+    "title": "Middle Eastern Pistachio Stir Fry",
     "tags": [
-      "charred",
-      "halal-friendly",
+      "healthy",
+      "easy",
       "middle-eastern",
       "pistachio",
-      "shaggy",
-      "stir-fry",
-      "ukrainian-dish"
+      "stir-fry"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
