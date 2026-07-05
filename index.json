@@ -3889,17 +3889,14 @@
   },
   {
     "slug": "hearty-dutch-vegetable-stew",
-    "title": "Hearty Dutch Vegetable Stew",
+    "title": "Traditional Dutch Stew",
     "tags": [
       "comfort-food",
-      "dutch-cuisine",
-      "flexitarian",
-      "hearty-stew",
-      "one-pot",
-      "vegetarian"
+      "winter-stew",
+      "beef-stew"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
