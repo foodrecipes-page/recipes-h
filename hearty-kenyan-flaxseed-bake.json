@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-kenyan-flaxseed-bake",
+  "title": "Kenyan Flaxseed Breakfast Bake",
+  "description": "A hearty breakfast bake with a Kenyan twist, packed with flaxseed for extra nutrition.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Flaxseed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oatmeal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Banana",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the oatmeal, flaxseed, and almonds.",
+    "In a separate bowl, mix the coconut oil, maple syrup, vanilla extract, cinnamon, and salt.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Mash the bananas and add them to the mixture. Stir until well combined.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 25-30 minutes or until the top is lightly golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "flaxseed",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-kenyan-flaxseed-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:27:03.219Z"
+}
