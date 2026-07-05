@@ -146,18 +146,16 @@
   },
   {
     "slug": "halal-friendly-spicy-roasted-korean-beef-bulgogi",
-    "title": "Halal-Friendly Spicy Roasted Korean Beef Bulgogi",
+    "title": "Korean-Style Beef Bulgogi",
     "tags": [
-      "bulgogi",
-      "halal",
       "korean",
-      "one-pan",
-      "roasted",
+      "beef",
+      "bulgogi",
       "spicy",
-      "weeknight"
+      "dinner"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 37,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -10546,16 +10544,16 @@
   },
   {
     "slug": "hearty-syrian-lamb-pie",
-    "title": "Hearty Syrian Lamb Pie",
+    "title": "Syrian Lamb Pie",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "hearty-meal",
-      "lamb-based",
-      "middle-eastern"
+      "lamb",
+      "pie",
+      "syrian",
+      "comforting",
+      "hearty"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
