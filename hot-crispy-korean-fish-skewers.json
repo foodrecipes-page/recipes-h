@@ -1,0 +1,73 @@
+{
+  "slug": "hot-crispy-korean-fish-skewers",
+  "title": "Korean Hot Fish Skewers",
+  "description": "A spicy and flavorful Korean-inspired dish featuring hot fish skewers, perfect for a quick dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hot sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish (such as tilapia or cod)",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together hot sauce, soy sauce, brown sugar, garlic, and Korean chili flakes.",
+    "Add the fish pieces to the bowl and toss to coat.",
+    "Thread the marinated fish onto skewers.",
+    "Brush the grill with toasted sesame oil and cook the skewers for 8-10 minutes, or until cooked through.",
+    "Serve hot, garnished with chopped green onions and crushed black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-fusion",
+    "fish",
+    "skewers",
+    "grilled"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crispy-korean-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:13:13.269Z"
+}
