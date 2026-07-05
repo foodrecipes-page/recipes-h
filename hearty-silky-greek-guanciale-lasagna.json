@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-silky-greek-guanciale-lasagna",
+  "title": "Greek Guanciale Lasagna",
+  "description": "A rich and savory Italian-inspired dish with the addition of Greek flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "for bechamel sauce"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna sheets according to package instructions.",
+    "In a pan, cook guanciale until crispy, then set aside.",
+    "In another pan, sauté onion and garlic until softened.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add cooked lasagna sheets to the pan, stir to coat with sauce.",
+    "In a separate saucepan, make bechamel sauce with Greek yogurt and Parmesan cheese.",
+    "Assemble lasagna by layering cooked lasagna sheets, guanciale, bechamel sauce, and feta cheese.",
+    "Repeat for 2-3 layers, finishing with a layer of bechamel sauce and Parmesan cheese.",
+    "Bake in the oven for 30-40 minutes, or until golden brown.",
+    "Let rest for 10-15 minutes before serving.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "guanciale",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-silky-greek-guanciale-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:59:33.202Z"
+}
