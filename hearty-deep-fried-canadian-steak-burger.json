@@ -1,0 +1,102 @@
+{
+  "slug": "hearty-deep-fried-canadian-steak-burger",
+  "title": "Canadian Fried Steak Burger",
+  "description": "A mouth-watering twist on a classic burger, featuring a crispy fried steak patty and topped with your favorite ingredients.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak (1.5 lbs)",
+      "amount": "1",
+      "notes": "1.5-inch thick, preferably ribeye or strip loin"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko or regular breadcrumbs"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "4 slices",
+      "notes": "Cheddar, Swiss, or your preferred cheese"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 heads",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "2. In a shallow dish, mix together the breadcrumbs and a pinch of salt.",
+    "3. In a separate dish, beat the eggs.",
+    "4. Season the steak with salt and pepper.",
+    "5. Dredge the steak in the flour, shaking off excess.",
+    "6. Dip the floured steak in the eggs, making sure it's fully coated.",
+    "7. Roll the egg-coated steak in the breadcrumb mixture, pressing the crumbs onto the meat to ensure they stick.",
+    "8. Repeat steps 5-7 for the second steak patty.",
+    "9. Carefully place the coated steak patties into the hot oil.",
+    "10. Fry the steak for 3-4 minutes on each side, or until golden brown and cooked to your desired level of doneness.",
+    "11. Remove the steak from the oil and place it on a wire rack to drain excess oil.",
+    "12. Meanwhile, toast the burger buns on the grill or in a toaster.",
+    "13. Assemble the burger by spreading mayonnaise or ketchup on the bottom bun, followed by a lettuce leaf, a tomato slice, a few slices of onion, a pickle slice, a steak patty, and finally the top bun.",
+    "14. Repeat the assembly for the remaining burgers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "fried",
+    "steak",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 62,
+    "carbs": 40,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-deep-fried-canadian-steak-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:38:12.549Z"
+}
