@@ -1,0 +1,81 @@
+{
+  "slug": "hwholesome-middle-eastern-pistachio-stir-fry",
+  "title": "Middle Eastern Pistachio Stir Fry",
+  "description": "A flavorful and nutritious Middle Eastern-inspired stir fry dish loaded with crunchy pistachios and wholesome ingredients. Perfect for a quick dinner or lunch option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Middle Eastern seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped carrots and cook for 3-4 minutes until slightly tender.",
+    "Add the fresh spinach and cook until wilted.",
+    "Stir in the Middle Eastern seasoning and cook for 1 minute.",
+    "Add the cooked brown rice and stir to combine with the vegetables.",
+    "Transfer the rice mixture to a serving platter.",
+    "Sprinkle chopped pistachios on top of the rice mixture.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "easy",
+    "middle-eastern",
+    "pistachio",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hwholesome-middle-eastern-pistachio-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:15:17.451Z"
+}
