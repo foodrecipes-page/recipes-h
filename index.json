@@ -54,15 +54,16 @@
   },
   {
     "slug": "halal-earthy-date-night-steak-tips",
-    "title": "Halal Earthy Date Night Steak Tips",
+    "title": "Grilled Steak with Date Chutney",
     "tags": [
+      "grilled",
       "steak",
-      "date-night",
-      "earthy",
-      "halal"
+      "date",
+      "chutney",
+      "middle-eastern"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -1619,19 +1620,15 @@
   },
   {
     "slug": "hearty-aerated-filipino-burrata-bisik",
-    "title": "Filipino Burrata Bisik",
+    "title": "Filipino Buried Lechon",
     "tags": [
-      "asian-fusion",
-      "breakfast-for-dinner",
-      "dairy-free-friendly",
-      "healthy",
-      "one-pan",
-      "snack",
-      "veggie-packed",
-      "weeknight"
+      "filipino",
+      "pork",
+      "slow-cooked",
+      "banana-leaves"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
@@ -11299,17 +11296,14 @@
   },
   {
     "slug": "hearty-velvety-russian-butter-beans-stew",
-    "title": "Hearty Velvety Russian Butter Beans Stew",
+    "title": "Russian Bean Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "mason-jar",
-      "one-pot",
-      "stone-bowl",
-      "vegetarian"
+      "russian-cuisine",
+      "vegetarian",
+      "bean-stew"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -15046,13 +15040,15 @@
   },
   {
     "slug": "honeyed-crunchy-oaxacan-pork-quesadilla",
-    "title": "Honeyed Crunchy Oaxacan Pork Quesadilla",
+    "title": "Crispy Pork Tacos",
     "tags": [
       "mexican",
-      "dinner"
+      "pork",
+      "tacos",
+      "cheese"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 40,
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
