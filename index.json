@@ -15462,17 +15462,15 @@
   },
   {
     "slug": "honeyed-ukrainian-cranberry-bread",
-    "title": "Honeyed Ukrainian Cranberry Bread",
+    "title": "Cranberry Honeyed Bread",
     "tags": [
       "bread",
-      "breakfast",
-      "easy-to-make",
-      "kid-friendly",
-      "ukrainian",
-      "vegetarian"
+      "sweet-bread",
+      "honey",
+      "cranberry"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "European",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -15644,16 +15642,15 @@
   },
   {
     "slug": "hot-crispy-korean-fish-skewers",
-    "title": "Hot Crispy Korean Fish Skewers",
+    "title": "Korean Hot Fish Skewers",
     "tags": [
-      "crispy-food",
-      "fish-recipes",
-      "korean-inspired",
-      "low-carb",
-      "snack-ideas"
+      "korean-fusion",
+      "fish",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 27,
+    "totalTimeMin": 23,
     "shard": "h"
   },
   {
