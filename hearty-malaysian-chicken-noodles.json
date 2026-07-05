@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-malaysian-chicken-noodles",
+  "title": "Malaysian Chicken Noodle Stir-Fry",
+  "description": "A flavorful and easy-to-make Malaysian-inspired dish featuring chicken, noodles, and hearty vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "vegan",
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added umami"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add sliced onion, bell pepper, and carrots to the skillet. Cook until vegetables are tender-crisp, about 3-5 minutes.",
+    "Add cooked noodles to the skillet and stir to combine with vegetables.",
+    "Return chicken to the skillet and stir to combine with noodles and vegetables.",
+    "Season with soy sauce, chili flakes, and fish sauce (if using).",
+    "Serve hot and garnish with chopped cilantro (if desired).",
+    "Cook chicken to an internal temperature of 165°F (74°C) to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "noodles",
+    "stir-fry",
+    "malaysian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malaysian-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:53:50.362Z"
+}
