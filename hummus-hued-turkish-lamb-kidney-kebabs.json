@@ -1,0 +1,80 @@
+{
+  "slug": "hummus-hued-turkish-lamb-kidney-kebabs",
+  "title": "Turkish Lamb Kebab Skewers with Hummus",
+  "description": "A classic Turkish-inspired dish featuring tender lamb kebabs served with a creamy hummus dip.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Hued bell peppers, cut into 1-inch pieces",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Kidney beans, drained and rinsed",
+      "amount": "1 can (15 ounces)",
+      "notes": null
+    },
+    {
+      "name": "Hummus",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Turkish hued (red) onion, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Kebab skewers (10-12 inches long)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes, hued bell peppers, kidney beans, and Turkish hued onion onto kebab skewers.",
+    "Season skewers with salt and black pepper.",
+    "Brush skewers with olive oil.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve with a side of hummus for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "turkish",
+    "hummus"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hummus-hued-turkish-lamb-kidney-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:20:56.806Z"
+}
