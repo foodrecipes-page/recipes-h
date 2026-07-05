@@ -7629,17 +7629,15 @@
   },
   {
     "slug": "hearty-mustardy-indian-borlotti-beans-kheer",
-    "title": "Hearty Mustardy Indian Borlotti Beans Kheer",
+    "title": "Borlotti Bean Kheer",
     "tags": [
-      "ayurvedic-friendly",
-      "borlotti-beans",
-      "indian-dessert",
-      "mustard-seeds",
-      "soffritto-base",
-      "vegetarian-dessert"
+      "comfort-food",
+      "dessert",
+      "indian-cuisine",
+      "plant-based"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -13626,17 +13624,14 @@
   },
   {
     "slug": "herbal-light-syrian-chicken-stir-fry",
-    "title": "Herbal Light Syrian Chicken Stir Fry",
+    "title": "Syrian Chicken Stir Fry",
     "tags": [
-      "healthy-dinner",
-      "herbal",
-      "low-sodium",
-      "meal-prep",
-      "stir-fry",
-      "syrian-cuisine"
+      "syrian",
+      "chicken",
+      "stirfry"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
