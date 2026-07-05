@@ -1,0 +1,82 @@
+{
+  "slug": "herbal-crumbly-thai-chicken-braise",
+  "title": "Thai Chicken Braise",
+  "description": "A flavorful and aromatic Thai-inspired braise made with tender chicken, crispy herbs, and a hint of spice.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Thai herbal mixture",
+      "amount": "2 tbsp",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "crumbly tofu",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "crushed Thai chilies",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For braising"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and sear until browned, about 5 minutes. Remove and set aside.",
+    "Add Thai herbal mixture and cook for 1 minute, until fragrant.",
+    "Add crumbly tofu (if using) and cook until lightly browned.",
+    "Add chilies, fish sauce, soy sauce, and brown sugar (if using). Stir to combine.",
+    "Return chicken to the pot, cover, and transfer to the oven.",
+    "Braise at 300°F (150°C) for 25-30 minutes, or until chicken is cooked through.",
+    "Garnish with fresh herbs and serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "chickenrecipe",
+    "braisedchicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crumbly-thai-chicken-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:03:58.986Z"
+}
