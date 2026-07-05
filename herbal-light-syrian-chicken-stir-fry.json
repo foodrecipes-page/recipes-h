@@ -1,0 +1,94 @@
+{
+  "slug": "herbal-light-syrian-chicken-stir-fry",
+  "title": "Syrian Chicken Stir Fry",
+  "description": "A flavorful and spicy stir fry dish made with marinated chicken, bell peppers, and onions, inspired by Syrian cuisine.",
+  "cuisine": "syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the sliced onions and bell peppers to the skillet and cook until they start to soften, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the cumin and paprika to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the spice mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve the chicken and vegetables hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-light-syrian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T02:11:49.020Z"
+}
