@@ -1,0 +1,65 @@
+{
+  "slug": "hwhm-wholesome-algerian-snow-peas-stir-fry-in-copper-mug",
+  "title": "Wholesome Algerian Snow Peas",
+  "description": "A simple, flavorful side dish featuring snow peas stir-fried with wholesome spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wholesome",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Algerian",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "HWHM",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Copper Mug",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fry",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat Fry in a pan over medium heat.",
+    "Add Algerian and Wholesome, stir for 1 minute.",
+    "Add Snow Peas, stir-fry until tender.",
+    "Season with HWHM.",
+    "Serve hot in Copper Mug."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hwhm-wholesome-algerian-snow-peas-stir-fry-in-copper-mug",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:17:18.460Z"
+}
