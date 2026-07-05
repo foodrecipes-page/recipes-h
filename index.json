@@ -4157,17 +4157,15 @@
   },
   {
     "slug": "hearty-fermented-spanish-porcini-cocido-madrileno",
-    "title": "Hearty Fermented Spanish Porcini Cocido Madrileno",
+    "title": "Spanish Cocido Madrileno Stew",
     "tags": [
+      "spanish",
+      "stew",
       "comfort-food",
-      "gluten-free",
-      "mushroom-based",
-      "one-pot",
-      "spanish-food",
-      "weeknight"
+      "weeknight-dinner"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
