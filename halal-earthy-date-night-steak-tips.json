@@ -1,0 +1,66 @@
+{
+  "slug": "halal-earthy-date-night-steak-tips",
+  "title": "Grilled Steak with Date Chutney",
+  "description": "A savory and sweet combination of grilled steak served with a date-based chutney, perfect for a quick dinner.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "500g",
+      "notes": "preferably ribeye or striploin"
+    },
+    {
+      "name": "dates",
+      "amount": "8-10",
+      "notes": "pitted"
+    },
+    {
+      "name": "earthly nightshade",
+      "amount": "1/4 cup",
+      "notes": "optional, for added earthy flavor"
+    },
+    {
+      "name": "tips of parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 180°C (350°F).",
+    "Season the steak with salt and pepper.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Meanwhile, blend the dates in a food processor until smooth.",
+    "Add the earthy nightshade to the food processor and blend until well combined.",
+    "Transfer the date mixture to a bowl.",
+    "Once the steak is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "Serve the sliced steak with the date chutney spooned over the top.",
+    "Garnish with chopped parsley tips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "date",
+    "chutney",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-earthy-date-night-steak-tips",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:24:30.992Z"
+}
