@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-velvety-russian-butter-beans-stew",
+  "title": "Russian Bean Stew",
+  "description": "A hearty and comforting Russian-inspired stew made with beans, butter, and a blend of spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried kidney beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add caraway seeds and allspice; cook for 1 minute.",
+    "Add dried kidney beans, beef broth, salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "vegetarian",
+    "bean-stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-russian-butter-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:42:22.306Z"
+}
