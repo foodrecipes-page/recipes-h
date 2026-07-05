@@ -1,0 +1,74 @@
+{
+  "slug": "honeyed-crunchy-oaxacan-pork-quesadilla",
+  "title": "Crispy Pork Tacos",
+  "description": "Tender pork, crunchy slaw, and a hint of sweetness make for a mouth-watering taco.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "honeyed tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "oaxacan cheese",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "crunchy slaw",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "quesadilla seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Season the pork shoulder with quesadilla seasoning.",
+    "Cook the pork shoulder in the skillet until browned, about 3-4 minutes per side.",
+    "Transfer the pork to a plate and let it rest.",
+    "Warm the honeyed tortillas in the skillet for 1-2 minutes on each side.",
+    "Shred the pork shoulder into bite-sized pieces.",
+    "Assemble the tacos with shredded pork, oaxacan cheese, crunchy slaw, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tacos",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-crunchy-oaxacan-pork-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:44:31.666Z"
+}
