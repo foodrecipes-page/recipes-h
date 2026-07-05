@@ -6921,15 +6921,14 @@
   },
   {
     "slug": "hearty-light-portuguese-black-bean-stew",
-    "title": "Hearty Light Portuguese Black Bean Stew",
+    "title": "Black Bean Stew",
     "tags": [
-      "black-bean-recipes",
-      "buddhist-temple-friendly",
-      "gluten-free-options",
-      "portuguese-cuisine",
-      "vegetarian-stews"
+      "portuguese",
+      "stew",
+      "black-bean",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 40,
     "shard": "h"
   },
