@@ -1,0 +1,62 @@
+{
+  "slug": "hearty-springy-algerian-rice-stick-noodles",
+  "title": "Springy Algerian Noodle Bowl",
+  "description": "A flavorful and nutritious Algerian-inspired noodle bowl featuring hearty and springy noodles. This dish is perfect for a quick and easy meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hearty noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stick vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Springy vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Cook the hearty noodles according to package instructions.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the Algerian spice mix and stir to combine.",
+    "Add the stick and springy vegetables to the pan and cook until tender.",
+    "Combine the cooked noodles and vegetable mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "lunch",
+    "noodle-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-springy-algerian-rice-stick-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:45:27.910Z"
+}
