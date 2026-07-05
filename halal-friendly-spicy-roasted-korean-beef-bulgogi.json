@@ -1,0 +1,84 @@
+{
+  "slug": "halal-friendly-spicy-roasted-korean-beef-bulgogi",
+  "title": "Korean-Style Beef Bulgogi",
+  "description": "A classic Korean dish made with marinated beef and roasted vegetables, perfect for a spicy dinner.",
+  "cuisine": "korean",
+  "diet": [
+    "halal",
+    "meat",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "such as ribeye or sirloin"
+    },
+    {
+      "name": "bulgogi sauce",
+      "amount": "1/4 cup",
+      "notes": "available at most Asian markets or online"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets or online"
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together bulgogi sauce, brown sugar, soy sauce, garlic, and 1 tablespoon of roasted sesame oil.",
+    "Add the sliced beef to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the beef from the marinade and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the beef to a cutting board and let rest for 5 minutes before slicing into thin strips.",
+    "In a small bowl, mix together chopped green onions and 1 tablespoon of roasted sesame oil.",
+    "Serve the beef with the green onion mixture spooned over the top and garnished with roasted sesame seeds.",
+    "Serve with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "beef",
+    "bulgogi",
+    "spicy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-friendly-spicy-roasted-korean-beef-bulgogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:28:04.921Z"
+}
