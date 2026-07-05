@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-aerated-filipino-burrata-bisik",
+  "title": "Filipino Buried Lechon",
+  "description": "A traditional Filipino dish of slow-cooked pork wrapped in banana leaves, perfect for special occasions. The combination of flavors and textures will transport you to the Philippines.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "bisik",
+      "amount": "1 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 275°F (135°C).",
+    "In a large bowl, combine pork, bisik, fish sauce, black pepper, garlic, and onion. Mix well.",
+    "Heat a large skillet over medium-high heat. Add a small amount of oil and sear the pork until browned on all sides.",
+    "Transfer the pork to a baking dish and cover with banana leaves.",
+    "Bake for 2-3 hours, or until the pork is tender and easily shreds with a fork.",
+    "Let the pork rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "pork",
+    "slow-cooked",
+    "banana-leaves"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-aerated-filipino-burrata-bisik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:28:57.082Z"
+}
