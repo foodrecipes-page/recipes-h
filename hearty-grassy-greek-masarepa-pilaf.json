@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-grassy-greek-masarepa-pilaf",
+  "title": "Greek-Style Stuffed Hearts of Corn",
+  "description": "A flavorful and hearty side dish filled with a delicious mix of pilaf, cheese, and spices, perfect for summer barbecues.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "hearty corn",
+      "amount": "4 ears",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grassy feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "masarepa",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "Husk the corn and remove the silk.",
+    "In a small bowl, mix together the pilaf, feta cheese, masarepa, olive oil, salt, black pepper, and oregano.",
+    "Stuff each ear of corn with the pilaf mixture, dividing it evenly among the four ears.",
+    "Grill the corn for 10-12 minutes, turning every 2-3 minutes, until slightly charred.",
+    "Serve warm, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "side",
+    "greek",
+    "corn",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-grassy-greek-masarepa-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:19:14.185Z"
+}
