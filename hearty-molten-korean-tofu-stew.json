@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-molten-korean-tofu-stew",
+  "title": "Spicy Korean Stew",
+  "description": "A hearty and flavorful stew made with tofu, korean chili peppers, and molten goodness.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili peppers (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add garlic and ginger and sauté for 1 minute.",
+    "Add onion and sauté for 2-3 minutes.",
+    "Add potatoes and cook for 5 minutes.",
+    "Add gochujang, soy sauce, brown sugar, and korean chili peppers.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes.",
+    "Add tofu and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with green onions and serve hot.",
+    "Serve over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-molten-korean-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T18:29:59.784Z"
+}
