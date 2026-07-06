@@ -1,0 +1,68 @@
+{
+  "slug": "hearty-crispy-ukrainian-potato-dumplings",
+  "title": "Traditional Ukrainian Dumplings",
+  "description": "A hearty Ukrainian dish made with crispy potato-filled dumplings. Perfect for a cold winter's night.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water to form a dough.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of mashed potatoes in the center of each circle.",
+    "Fold the dough over the potatoes and press the edges together to seal.",
+    "Heat a large skillet over medium heat and add the melted butter.",
+    "When the butter has melted, add the dumplings to the skillet and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with your favorite toppings, such as sour cream or chives."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crispy-ukrainian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:03:17.329Z"
+}
