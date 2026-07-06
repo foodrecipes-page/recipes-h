@@ -1,0 +1,105 @@
+{
+  "slug": "hearty-homemade-greek-beef-stifado",
+  "title": "Classic Greek Beef Stifado",
+  "description": "A traditional Greek beef stew that's hearty and flavorful, made with tender beef, onions, garlic, and a rich, sweet sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grape molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "1. Cut the beef into 1-inch cubes and season with salt and black pepper.",
+    "2. Heat the diced bacon in a large Dutch oven over medium heat. Once crispy, remove the bacon from the pot and set aside.",
+    "3. Add the chopped onion to the pot and cook until translucent, about 5 minutes.",
+    "4. Add the minced garlic and cook for an additional minute.",
+    "5. Add the beef to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "6. Sprinkle the flour over the beef and cook for 1 minute.",
+    "7. Add the red wine vinegar, grape molasses, brown sugar, cinnamon, and cumin to the pot. Stir to combine.",
+    "8. Return the bacon to the pot and bring the mixture to a simmer.",
+    "9. Reduce the heat to low and let the stifado cook, covered, for 2-3 hours, or until the beef is tender.",
+    "10. Serve the stifado hot, garnished with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "greek",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-greek-beef-stifado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:41:53.753Z"
+}
