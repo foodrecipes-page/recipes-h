@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-crunchy-greek-cheese-keftedes",
+  "title": "Greek Kofta with Crunchy Salad",
+  "description": "A hearty Greek-inspired dish featuring kofta and crunchy toppings. Perfect for a dinner or lunch option.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek Kofta Meat Mix",
+      "amount": "500g",
+      "notes": "Available in most supermarkets or make your own mix of lamb, beef and spices."
+    },
+    {
+      "name": "Crunchy Feta Cheese",
+      "amount": "150g",
+      "notes": "A type of cheese that has a crunchy texture and a tangy flavor."
+    },
+    {
+      "name": "Greek Vinaigrette",
+      "amount": "100ml",
+      "notes": "A mix of olive oil, lemon juice and herbs."
+    },
+    {
+      "name": "Greek Olives",
+      "amount": "120g",
+      "notes": "Sliced olives for added flavor and texture."
+    },
+    {
+      "name": "Chopped Red Onion",
+      "amount": "150g",
+      "notes": "For added crunch and flavor."
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "50g",
+      "notes": "For garnish and added freshness."
+    },
+    {
+      "name": "Crunchy Bread",
+      "amount": "200g",
+      "notes": "For serving with the kofta and salad."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Skewer the kofta meat mix and cook for 5-6 minutes per side.",
+    "Let the kofta rest for 5 minutes before slicing.",
+    "Prepare the crunchy salad by combining the feta cheese, olives, red onion and parsley.",
+    "Drizzle the Greek vinaigrette over the salad and toss to combine.",
+    "Serve the sliced kofta with the crunchy salad and crunchy bread on the side.",
+    "Enjoy your delicious Greek-inspired dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "kofta",
+    "salad",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crunchy-greek-cheese-keftedes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:49:03.522Z"
+}
