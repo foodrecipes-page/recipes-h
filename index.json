@@ -3421,17 +3421,16 @@
   },
   {
     "slug": "hearty-crunchy-greek-cheese-keftedes",
-    "title": "Hearty Crunchy Greek Cheese Keftedes",
+    "title": "Greek Kofta with Crunchy Salad",
     "tags": [
-      "cheese-lovers",
-      "crunchy",
-      "easy-to-make",
-      "greek-cuisine",
-      "snack-time",
-      "vegetarian"
+      "greek",
+      "kofta",
+      "salad",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -3505,17 +3504,15 @@
   },
   {
     "slug": "hearty-crunchy-portuguese-dum-stew",
-    "title": "Hearty Crunchy Portuguese Dum Stew",
+    "title": "Portuguese Beef Stew",
     "tags": [
-      "comfort-food",
-      "one-pot",
+      "beef",
+      "stew",
       "portuguese",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -7709,17 +7706,14 @@
   },
   {
     "slug": "hearty-norwegian-fish-poke",
-    "title": "Hearty Norwegian Fish Poke",
+    "title": "Pan-Seared Laks",
     "tags": [
-      "easy-recipe",
-      "healthy-snack",
-      "high-protein",
-      "norwegian-cuisine",
-      "quick-fix",
-      "seafood"
+      "fish",
+      "norwegian",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "norwegian",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -8661,17 +8655,15 @@
   },
   {
     "slug": "hearty-savory-mexican-pork-carnitas",
-    "title": "Hearty Savory Mexican Pork Carnitas",
+    "title": "Carnitas Tacos",
     "tags": [
-      "complex-recipe",
-      "dairy-free",
-      "food-science",
-      "gluten-free",
-      "mexican-cuisine",
-      "special-occasion"
+      "carnitas",
+      "tacos",
+      "mexican",
+      "pork"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 180,
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
