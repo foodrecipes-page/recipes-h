@@ -6315,13 +6315,15 @@
   },
   {
     "slug": "hearty-irish-shrimp-soup",
-    "title": "Hearty Irish Shrimp Soup",
+    "title": "Hearty Irish Shrimp Chowder",
     "tags": [
-      "irish",
-      "dinner"
+      "chowder",
+      "soup",
+      "seafood",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -11693,18 +11695,16 @@
   },
   {
     "slug": "heavenly-egyptian-rice-tagine",
-    "title": "heavenly egyptian rice tagine",
+    "title": "Heavenly Egyptian Chicken Tagine",
     "tags": [
-      "date-night",
-      "elegant-dinner",
-      "flavorful",
-      "one-pan",
-      "rice-dish",
-      "rich",
-      "vegetarian"
+      "north-african",
+      "chicken",
+      "rice",
+      "tagine",
+      "egyptian"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -12922,10 +12922,14 @@
   },
   {
     "slug": "herbal-creamy-egyptian-broad-beans-stew",
-    "title": "Herbal Creamy Egyptian Broad Beans Stew",
-    "tags": [],
+    "title": "Egyptian Stew with Broad Beans",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "stew"
+    ],
     "cuisine": "Egyptian",
-    "totalTimeMin": null,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
