@@ -7419,17 +7419,14 @@
   },
   {
     "slug": "hearty-molten-korean-tofu-stew",
-    "title": "Hearty Molten Korean Tofu Stew",
+    "title": "Spicy Korean Stew",
     "tags": [
-      "buddhist-friendly",
-      "comfort-food",
-      "hearty-stew",
-      "korean-inspired",
-      "post-workout",
-      "vegetarian"
+      "korean",
+      "stew",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
