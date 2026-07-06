@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-silky-turkish-black-beans-stew",
+  "title": "Black Bean Turkish Stew",
+  "description": "A hearty, comforting stew made with black beans, turkey, and a hint of Turkish spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Black Beans, canned",
+      "amount": "1 (15 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "Ground Turkey",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Silky Onion Soup Mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Hearty Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the ground turkey and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion soup mix and cook for 1 minute.",
+    "Add the red pepper flakes and cook for 1 minute.",
+    "Add the beef broth, tomato paste, salt, and pepper. Stir to combine.",
+    "Add the black beans and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stew",
+    "beans",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-silky-turkish-black-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:21:11.557Z"
+}
