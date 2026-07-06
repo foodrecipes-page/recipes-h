@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-crunchy-portuguese-dum-stew",
+  "title": "Portuguese Beef Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, perfect for a cold day.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add red wine and cook until reduced, about 2 minutes.",
+    "Add beef broth, tomato paste, bay leaves, salt, and pepper.",
+    "Return beef to the pot and bring to a boil.",
+    "Cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours or until beef is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "portuguese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crunchy-portuguese-dum-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:41:41.220Z"
+}
