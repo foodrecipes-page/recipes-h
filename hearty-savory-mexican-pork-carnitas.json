@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-savory-mexican-pork-carnitas",
+  "title": "Carnitas Tacos",
+  "description": "A classic Mexican dish featuring slow-cooked pork, served in a crispy taco shell with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 pounds",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sliced lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or oil in a large Dutch oven over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pork chunks and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chili powder, cumin, and salt, and stir to combine.",
+    "Transfer the pork to the oven and cook at 300°F (150°C) for 2-1/2 hours, or until tender and easily shredded.",
+    "Shred the pork with two forks and stir to combine with the cooking liquid.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the pork onto a tortilla, followed by your desired toppings.",
+    "Serve immediately and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "carnitas",
+    "tacos",
+    "mexican",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-savory-mexican-pork-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:31:41.273Z"
+}
