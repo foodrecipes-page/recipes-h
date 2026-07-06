@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-norwegian-salmon-fried-rice",
+  "title": "Pan-Seared Salmon with Fried Rice",
+  "description": "A hearty and easy-to-make dish that combines the flavors of pan-seared salmon with crispy fried rice.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Uncooked rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Season the fried rice with salt and black pepper to taste.",
+    "In a separate pan, heat the remaining 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the salmon fillets, skin side up (if they have skin), and cook for 3-4 minutes, until the skin is crispy and golden brown.",
+    "Flip the salmon over and cook for an additional 3-4 minutes, until cooked through.",
+    "Serve the pan-seared salmon on top of the fried rice, with a squeeze of lemon juice and a side of steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "fried-rice",
+    "pan-seared",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-norwegian-salmon-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:53:16.179Z"
+}
