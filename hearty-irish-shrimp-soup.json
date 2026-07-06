@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-irish-shrimp-soup",
+  "title": "Hearty Irish Shrimp Chowder",
+  "description": "A comforting and flavorful soup that combines the richness of Irish cuisine with the freshness of shrimp.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add chopped onions and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add diced potatoes and sliced carrots, cook for 5 minutes.",
+    "Add chicken broth, bring to a boil, then reduce heat to low and simmer for 15 minutes.",
+    "Add peeled shrimp and cook until pink and fully cooked, about 5 minutes.",
+    "Stir in heavy cream and bring to a simmer.",
+    "Mix in flour to thicken the soup, cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chowder",
+    "soup",
+    "seafood",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-shrimp-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:31:50.410Z"
+}
