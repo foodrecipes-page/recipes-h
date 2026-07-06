@@ -7718,16 +7718,15 @@
   },
   {
     "slug": "hearty-norwegian-salmon-fried-rice",
-    "title": "Hearty Norwegian Salmon Fried-Rice",
+    "title": "Pan-Seared Salmon with Fried Rice",
     "tags": [
-      "high-protein",
-      "norwegian",
-      "one-pan",
-      "quick",
-      "salmon"
+      "salmon",
+      "fried-rice",
+      "pan-seared",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
