@@ -3245,17 +3245,14 @@
   },
   {
     "slug": "hearty-crispy-ukrainian-potato-dumplings",
-    "title": "Hearty Crispy Ukrainian Potato Dumplings",
+    "title": "Traditional Ukrainian Dumplings",
     "tags": [
-      "comfort-food",
-      "crispy",
-      "halal",
-      "kid-friendly",
-      "potato",
-      "ukrainian"
+      "ukrainian",
+      "dumplings",
+      "potato"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -5035,17 +5032,16 @@
   },
   {
     "slug": "hearty-grassy-moroccan-lamb-mechoui",
-    "title": "Hearty Grassy Moroccan Lamb Mechoui",
+    "title": "Moroccan Mechoui Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "low-carb",
-      "moroccan-cuisine",
-      "one-pot",
-      "slow-cooked"
+      "lamb",
+      "moroccan",
+      "tagine",
+      "slow-cooked",
+      "hearty"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -8851,14 +8847,12 @@
   },
   {
     "slug": "hearty-silky-turkish-black-beans-stew",
-    "title": "Hearty Silky Turkish Black Beans Stew",
+    "title": "Black Bean Turkish Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "low-fat",
-      "macrobiotic",
-      "one-pot",
-      "vegan-friendly"
+      "turkish",
+      "stew",
+      "beans",
+      "hearty"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
