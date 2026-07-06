@@ -1,0 +1,78 @@
+{
+  "slug": "hwholesome-oven-roasted-pork-kebabs-bake",
+  "title": "Pork Kebab with Roasted Vegetables",
+  "description": "A delicious and easy-to-make dish that combines the flavors of pork and roasted vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "pork-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "mixed vegetables (bell peppers, zucchini, onions, cherry tomatoes)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Add the pork cubes and mixed vegetables to the bowl and toss to coat with the marinade.",
+    "Thread the pork and vegetables onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until the pork is cooked through and the vegetables are tender.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "oven-roasted",
+    "pork",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hwholesome-oven-roasted-pork-kebabs-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:09:17.358Z"
+}
