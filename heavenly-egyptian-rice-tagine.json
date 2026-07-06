@@ -1,0 +1,96 @@
+{
+  "slug": "heavenly-egyptian-rice-tagine",
+  "title": "Heavenly Egyptian Chicken Tagine",
+  "description": "A traditional North African dish made with chicken and spices, cooked to perfection in a clay pot. This recipe is inspired by the flavors of Egypt and Morocco.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "heavenly rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "2 tablespoons",
+      "notes": "a blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking the chicken and rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for cooking the rice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the egyptian spices, chicken broth, water, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the heavenly rice to the pot and stir to combine.",
+    "Return the pot to the heat and cook for an additional 10-15 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "rice",
+    "tagine",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-egyptian-rice-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:06:32.975Z"
+}
