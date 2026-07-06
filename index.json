@@ -5806,17 +5806,15 @@
   },
   {
     "slug": "hearty-homemade-greek-beef-stifado",
-    "title": "Hearty Homemade Greek Beef Stifado",
+    "title": "Classic Greek Beef Stifado",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "greek-cuisine",
-      "hearty",
-      "one-pot",
-      "winter-nights"
+      "beef",
+      "stew",
+      "greek",
+      "homemade"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 110,
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {
