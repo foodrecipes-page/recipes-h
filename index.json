@@ -507,17 +507,16 @@
   },
   {
     "slug": "hangover-cure-peruvian-rest-meat-paella",
-    "title": "Hangover Cure Peruvian Rest-Meat Paella",
+    "title": "Peruvian Paella",
     "tags": [
-      "breakfast-option",
-      "dairy-free-friendly",
-      "hangover-cure",
-      "one-pot",
+      "paella",
       "peruvian",
-      "weeknight"
+      "meat",
+      "hangover",
+      "cure"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 60,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -9230,19 +9229,15 @@
   },
   {
     "slug": "hearty-smoked-syrian-fish-biryani",
-    "title": "Hearty Smoked Syrian Fish Biryani",
+    "title": "Smoked Fish Biryani",
     "tags": [
-      "biryani",
-      "cheesy",
-      "dinner",
       "fish",
-      "hearty",
-      "one-pot",
+      "biryani",
       "syrian",
-      "weeknight"
+      "smoked"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
