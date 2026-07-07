@@ -15063,17 +15063,14 @@
   },
   {
     "slug": "honeyed-french-kinako-muffins",
-    "title": "Honeyed French Kinako Muffins",
+    "title": "French Toast with Honeyed Syrup",
     "tags": [
-      "easy",
-      "family-friendly",
-      "french",
-      "quick-breakfast",
-      "sweet",
-      "wholesome"
+      "breakfast",
+      "french-toast",
+      "honeyed-syrup"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
