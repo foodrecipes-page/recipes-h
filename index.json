@@ -3885,17 +3885,14 @@
   },
   {
     "slug": "hearty-dutch-vegetables-braise",
-    "title": "Hearty Dutch Vegetables Braise",
+    "title": "Braised Dutch Pot Roast",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "one-pan",
-      "spring",
-      "vegetarian",
-      "weeknight"
+      "braised",
+      "dutch",
+      "comfort-food"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 45,
+    "cuisine": "Dutch",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -4031,16 +4028,16 @@
   },
   {
     "slug": "hearty-ethiopian-chicken-wot-with-egg",
-    "title": "hearty ethiopian chicken wot with egg",
+    "title": "Spicy Ethiopian Chicken Wot",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "ethiopian",
+      "chicken",
+      "wot",
+      "spicy",
+      "dinner"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 40,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -4725,17 +4722,16 @@
   },
   {
     "slug": "hearty-garlicky-italian-apples-stracciatella",
-    "title": "Hearty Garlicky Italian Apples Stracciatella",
+    "title": "Autumn Italian Apple Strata",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "fruit-and-cheese",
-      "italian-food",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "breakfast",
+      "strata",
+      "autumn",
+      "apple"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
