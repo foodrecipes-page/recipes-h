@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-braised-chinese-pork-bao",
+  "title": "Pork Bao",
+  "description": "A traditional Chinese dish featuring tender pork in a savory sauce served in a steamed bun.",
+  "cuisine": "chinese",
+  "diet": [
+    "null"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4",
+      "notes": "steamed"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for steaming buns"
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven, heat 1 tablespoon of soy sauce over medium-high heat. Brown the pork on all sides, then remove from heat.",
+    "2. Add the sliced ginger and minced garlic to the pot and cook until fragrant.",
+    "3. Add the remaining 1 tablespoon of soy sauce, brown sugar, and 2 cups of water to the pot. Bring to a boil, then reduce heat to low and simmer for 2 hours or until the pork is tender.",
+    "4. Meanwhile, steam the bao buns according to package instructions.",
+    "5. To assemble the bao, place a portion of the pork onto the bun, followed by chopped scallions and a drizzle of the braising liquid.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-braised-chinese-pork-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:44:25.921Z"
+}
