@@ -1,0 +1,78 @@
+{
+  "slug": "herbal-crunchy-tunisian-christmas-pudding-crumble",
+  "title": "Tunisian Christmas Crumble Pudding",
+  "description": "A unique and delicious dessert combining the flavors of Tunisia with traditional Christmas pudding, topped with a crunchy crumble.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "300g"
+    },
+    {
+      "name": "dates",
+      "amount": "200g",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "crunchy granola",
+      "amount": "100g"
+    },
+    {
+      "name": "tunisian spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "50ml",
+      "notes": "cooled and used as a substitute for milk"
+    },
+    {
+      "name": "christmas pudding mix",
+      "amount": "200g"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Prepare the dates by soaking them in water overnight and draining.",
+    "Mix the almond flour, crunchy granola, tunisian spice mix, and vanilla extract in a bowl.",
+    "Add the herbal tea to the mixture and stir well.",
+    "Add the christmas pudding mix to the mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and top with the crumble topping.",
+    "Bake for 40-45 minutes or until the top is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "christmas",
+    "crumble",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crunchy-tunisian-christmas-pudding-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:53:53.374Z"
+}
