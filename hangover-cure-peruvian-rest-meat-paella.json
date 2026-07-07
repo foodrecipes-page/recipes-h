@@ -1,0 +1,98 @@
+{
+  "slug": "hangover-cure-peruvian-rest-meat-paella",
+  "title": "Peruvian Paella",
+  "description": "A classic Peruvian paella recipe with a twist, using spicy Peruvian hangover cure for added flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian hangover cure",
+      "amount": "2 teaspoons",
+      "notes": "use mild or spicy, your choice"
+    },
+    {
+      "name": "Peruvian rest meat (beef or pork)",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": "or substitute with chicken"
+    },
+    {
+      "name": "Spanish paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "or use lard for extra flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14.5 oz), diced",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "about 10 threads"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped red bell pepper and cook for 3 minutes, until tender.",
+    "Add the diced tomato and cook for 2 minutes, until lightly browned.",
+    "Add the Peruvian rest meat and cook until browned, about 5 minutes.",
+    "Add the chicken broth, Peruvian hangover cure, and saffron threads.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered.",
+    "Add the uncooked paella rice and stir to combine with the liquid.",
+    "Simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "peruvian",
+    "meat",
+    "hangover",
+    "cure"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-peruvian-rest-meat-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:04:34.175Z"
+}
