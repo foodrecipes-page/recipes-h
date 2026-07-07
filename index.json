@@ -6998,17 +6998,17 @@
   },
   {
     "slug": "hearty-malaysian-shrimp-satay",
-    "title": "Hearty Malaysian Shrimp Satay",
+    "title": "Malaysian Shrimp Satay",
     "tags": [
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pan",
-      "quick-fix",
-      "seafood",
-      "shellfish"
+      "malaysian",
+      "shrimp",
+      "satay",
+      "grilled",
+      "peanut-sauce",
+      "spicy"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "h"
   },
   {
@@ -16384,16 +16384,15 @@
   },
   {
     "slug": "humble-earthy-british-shungiku-shepherd-s-pie",
-    "title": "Humble Earthy British Shungiku Shepherd's Pie",
+    "title": "Traditional British Shepherd's Pie",
     "tags": [
       "british",
-      "comfort-food",
-      "shepherds-pie",
-      "vegetarian",
-      "weeknight"
+      "meat",
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
