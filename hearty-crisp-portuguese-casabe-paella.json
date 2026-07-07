@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-crisp-portuguese-casabe-paella",
+  "title": "Crisp Portuguese Paella Bites",
+  "description": "A twist on the classic Spanish dish, these bite-sized paella balls are crunchy on the outside and flavorful on the inside.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Portuguese Paella Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Tomato",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, combine the crushed casabe, paella mix, onion, tomato, garlic, and olive oil. Mix well.",
+    "3. Add the beaten egg and mix until the mixture is sticky and holds together.",
+    "4. Divide the mixture into 12-15 equal pieces.",
+    "5. Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "6. Dip each disk into the breadcrumbs and coat both sides evenly.",
+    "7. Place the coated disks onto a baking sheet lined with parchment paper.",
+    "8. Bake for 20-25 minutes, or until golden brown and crispy.",
+    "9. Remove from the oven and let cool for a few minutes.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "snack",
+    "casabe",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crisp-portuguese-casabe-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:13:42.023Z"
+}
