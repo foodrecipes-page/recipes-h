@@ -1,0 +1,74 @@
+{
+  "slug": "hearty-garlicky-italian-apples-stracciatella",
+  "title": "Autumn Italian Apple Strata",
+  "description": "A hearty, garlicky Italian-inspired strata filled with apples and topped with a creamy stracciatella.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "italian bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "apples",
+      "amount": "2-3",
+      "notes": "varieties like honeycrisp or fuji work well"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stracciatella",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cube the bread and layer it in a 9x13-inch baking dish.",
+    "Mix the minced garlic with the softened stracciatella and spread it over the bread.",
+    "Peel and slice the apples, then layer them over the stracciatella mixture.",
+    "In a separate bowl, beat the eggs and mix in the grated parmesan cheese.",
+    "Pour the egg mixture over the apple layer and smooth out the top.",
+    "Bake for 35-40 minutes, or until the eggs are set and the top is golden brown.",
+    "Remove from oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "strata",
+    "autumn",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-garlicky-italian-apples-stracciatella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:25:18.089Z"
+}
