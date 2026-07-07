@@ -2145,17 +2145,14 @@
   },
   {
     "slug": "hearty-braised-chinese-pork-bao",
-    "title": "Hearty Braised Chinese Pork Bao",
+    "title": "Pork Bao",
     "tags": [
-      "braised-meat",
-      "brunch-ideas",
-      "chinese-food",
-      "kosher-friendly",
-      "pork-recipes",
-      "sauerkraut-recipes"
+      "chinese",
+      "pork",
+      "bao"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 180,
+    "cuisine": "chinese",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {
@@ -12119,17 +12116,14 @@
   },
   {
     "slug": "herb-crusted-middle-eastern-pork-rib-tagine",
-    "title": "Herb Crusted Middle Eastern Pork Rib Tagine",
+    "title": "Middle Eastern Crusted Pork Tagine",
     "tags": [
-      "anti-inflammatory",
-      "crowd-pleaser",
-      "dairy-free",
-      "high-protein",
-      "one-pot",
-      "slow-cooked"
+      "middle-eastern",
+      "pork",
+      "tagine"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 120,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
