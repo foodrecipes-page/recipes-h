@@ -3051,16 +3051,15 @@
   },
   {
     "slug": "hearty-crisp-portuguese-casabe-paella",
-    "title": "Hearty Crisp Portuguese Casabe Paella",
+    "title": "Crisp Portuguese Paella Bites",
     "tags": [
-      "crispy-top",
-      "gluten-free",
-      "macrobiotic-friendly",
-      "one-pot",
-      "portuguese-cuisine"
+      "portuguese",
+      "snack",
+      "casabe",
+      "paella"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -4788,14 +4787,13 @@
   },
   {
     "slug": "hearty-german-green-beans-salad",
-    "title": "Hearty German Green Beans Salad",
+    "title": "German Green Bean Salad",
     "tags": [
-      "easy",
       "german",
-      "quick",
       "salad",
-      "vegetarian",
-      "whole30-friendly"
+      "green-beans",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "German",
     "totalTimeMin": 20,
@@ -12314,16 +12312,16 @@
   },
   {
     "slug": "herb-infused-vietnamese-pork-nem-nuong",
-    "title": "Herb Infused Vietnamese Pork Nem Nuong",
+    "title": "Vietnamese-Style Grilled Pork Skewers",
     "tags": [
-      "asian-inspired",
-      "grilled-meat",
-      "herb-infused",
-      "low-sodium",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "skewers",
+      "herb"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
