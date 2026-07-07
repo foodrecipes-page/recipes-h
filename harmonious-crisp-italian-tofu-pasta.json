@@ -1,0 +1,73 @@
+{
+  "slug": "harmonious-crisp-italian-tofu-pasta",
+  "title": "Italian Pasta Primavera",
+  "description": "A colorful and flavorful spring-inspired pasta dish, made with seasonal vegetables and Italian seasonings.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "1 pound (450g)",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (200g), drained and cubed"
+    },
+    {
+      "name": "harmonious",
+      "amount": "2 tablespoons, olive oil"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup (120g), mixed spring vegetables (e.g., bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "italian",
+      "amount": "2 cloves, garlic, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the cubed tofu and cook until golden brown on all sides.",
+    "Add the mixed spring vegetables and garlic to the skillet. Cook until the vegetables are tender, about 3-4 minutes.",
+    "Stir in the cooked pasta, salt, and black pepper. Cook for an additional 1-2 minutes.",
+    "Transfer the pasta mixture to a serving dish. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "spring",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harmonious-crisp-italian-tofu-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:47:50.878Z"
+}
