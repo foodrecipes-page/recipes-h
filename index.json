@@ -750,17 +750,15 @@
   },
   {
     "slug": "harmonious-crisp-italian-tofu-pasta",
-    "title": "Harmonious Crisp Italian Tofu Pasta",
+    "title": "Italian Pasta Primavera",
     "tags": [
-      "ayurvedic-friendly",
-      "date-night",
-      "high-protein",
-      "italian-food",
-      "one-pot",
-      "vegan-pasta"
+      "italian",
+      "vegetarian",
+      "spring",
+      "pasta"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -14534,16 +14532,15 @@
   },
   {
     "slug": "hoisin-blossom-stew",
-    "title": "Hoisin Blossom Stew",
+    "title": "Blossom Beef Stew",
     "tags": [
-      "hoisin",
+      "beef",
+      "chinese",
       "stew",
-      "turkish",
-      "veggies",
-      "fusion"
+      "one-pot"
     ],
-    "cuisine": "Turkish Fusion",
-    "totalTimeMin": 75,
+    "cuisine": "Chinese",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {
@@ -15779,16 +15776,16 @@
   },
   {
     "slug": "hot-molten-polish-almond-pudding",
-    "title": "Hot Molten Polish Almond Pudding",
+    "title": "Polish Hot Almond Pudding",
     "tags": [
-      "almond-based",
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "polish-dessert"
+      "almond",
+      "dessert",
+      "polish",
+      "chocolate",
+      "pudding"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
