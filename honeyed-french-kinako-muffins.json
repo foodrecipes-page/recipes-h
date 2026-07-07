@@ -1,0 +1,68 @@
+{
+  "slug": "honeyed-french-kinako-muffins",
+  "title": "French Toast with Honeyed Syrup",
+  "description": "A simple breakfast recipe featuring crispy French toast topped with a sweet honeyed syrup.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": "Beaten"
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": "Whole milk"
+    },
+    {
+      "name": "4 slices of bread",
+      "amount": "",
+      "notes": "French bread"
+    },
+    {
+      "name": "Honeyed syrup",
+      "amount": "1/4 cup",
+      "notes": "See below for honeyed syrup recipe"
+    },
+    {
+      "name": "Kinako powder",
+      "amount": "1 tsp",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs, milk, and a pinch of salt.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Dip each bread slice into the egg mixture, coating both sides evenly.",
+    "Cook the bread slices for 2-3 minutes on each side, or until golden brown.",
+    "Prepare the honeyed syrup by mixing 1/4 cup honey with 1 Tbsp water in a small saucepan.",
+    "Heat the honey mixture over low heat, stirring constantly, until smooth and warm.",
+    "Serve the French toast with the honeyed syrup spooned over the top.",
+    "Optional: Sprinkle with kinako powder for added crunch and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "french-toast",
+    "honeyed-syrup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-french-kinako-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:00:05.770Z"
+}
