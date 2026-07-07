@@ -1,0 +1,94 @@
+{
+  "slug": "hot-soft-indian-lamb-biryani",
+  "title": "Hyderabadi Lamb Biryani",
+  "description": "A classic Indian dish from the city of Hyderabad, made with lamb, basmati rice, and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "soaked for 30 minutes"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onions and sauté until they are lightly browned.",
+    "Add ginger and sauté for another minute.",
+    "Add lamb and sauté until it is browned on all sides.",
+    "Add coriander powder, turmeric powder, and red chili powder. Mix well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Soak basmati rice in water for 30 minutes. Drain and set aside.",
+    "In a large pot, combine 2 cups of water and 1 tablespoon of ghee. Bring to a boil.",
+    "Add basmati rice to the pot and cook until it is 75% done.",
+    "Add the cooked lamb mixture to the pot and mix well.",
+    "Cover the pot with a tight-fitting lid and cook for another 10 minutes.",
+    "Turn off the heat and let the biryani rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lamb",
+    "biryani",
+    "non-vegetarian",
+    "hyderabadi"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-soft-indian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:35:39.186Z"
+}
