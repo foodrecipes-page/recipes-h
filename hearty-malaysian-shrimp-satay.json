@@ -1,0 +1,108 @@
+{
+  "slug": "hearty-malaysian-shrimp-satay",
+  "title": "Malaysian Shrimp Satay",
+  "description": "Grilled shrimp skewers in a spicy Malaysian-inspired peanut sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruised"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "white"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread shrimp onto skewers, leaving a small space between each.",
+    "In a blender or food processor, combine coconut milk, peanut butter, soy sauce, brown sugar, ginger, garlic, lemongrass, and chili flakes. Blend until smooth.",
+    "Brush the peanut sauce onto both sides of the shrimp.",
+    "Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Transfer the shrimp to a serving plate and brush with additional peanut sauce if desired.",
+    "Sprinkle with chopped peanuts and serve immediately.",
+    "Serve with steamed rice or noodles for a complete meal.",
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Serve immediately and enjoy!",
+    "Note: If using wooden skewers, soak them in water for 30 minutes before grilling to prevent burning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "shrimp",
+    "satay",
+    "grilled",
+    "peanut-sauce",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malaysian-shrimp-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:39:58.182Z"
+}
