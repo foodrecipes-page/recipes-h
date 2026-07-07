@@ -1,0 +1,85 @@
+{
+  "slug": "herb-infused-vietnamese-pork-nem-nuong",
+  "title": "Vietnamese-Style Grilled Pork Skewers",
+  "description": "A flavorful and aromatic dish originating from Vietnam. Marinated pork is grilled to perfection and served with fresh herbs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, thinly sliced",
+      "amount": "1 pound",
+      "notes": "Make sure to cut the pork into even pieces for even cooking"
+    },
+    {
+      "name": "vietnamese nuoc cham sauce",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the amount of sauce to your taste"
+    },
+    {
+      "name": "infused fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "This adds a rich and savory flavor to the pork"
+    },
+    {
+      "name": "vietnamese herb (such as mint or basil)",
+      "amount": "1/4 cup",
+      "notes": "Chopped herbs add a fresh and fragrant flavor to the dish"
+    },
+    {
+      "name": "nuong seasoning",
+      "amount": "1 teaspoon",
+      "notes": "This adds a smoky and aromatic flavor to the pork"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "A small amount of sugar helps balance the flavors"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": "Mince the garlic to release its oils and flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for the best flavor"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "Soak the skewers in water for at least 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together nuoc cham sauce, infused fish sauce, nuong seasoning, sugar, garlic, and black pepper.",
+    "Add the sliced pork to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated pork onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and slightly charred.",
+    "Meanwhile, chop the fresh herbs and set aside.",
+    "Once the skewers are cooked, remove them from the grill and let them rest for 5 minutes.",
+    "Serve the grilled pork skewers with chopped herbs and your choice of sides, such as steamed rice or noodles.",
+    "Note: Make sure to cook the pork to an internal temperature of at least 145°F (63°C) to ensure food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "skewers",
+    "herb"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-infused-vietnamese-pork-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:58:14.973Z"
+}
