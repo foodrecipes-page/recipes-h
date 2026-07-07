@@ -4187,17 +4187,15 @@
   },
   {
     "slug": "hearty-filipino-rice-pilaf",
-    "title": "Hearty Filipino Rice Pilaf",
+    "title": "Filipino-Style Chicken and Rice Pilaf",
     "tags": [
-      "comfort-food",
-      "filipino-cuisine",
-      "hot-stone-plate",
-      "low-fat",
-      "one-pot",
-      "weeknight-dinner"
+      "chicken",
+      "rice",
+      "filipino",
+      "pilaf"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -13128,16 +13126,15 @@
   },
   {
     "slug": "herbal-crunchy-tunisian-christmas-pudding-crumble",
-    "title": "Herbal Crunchy Tunisian Christmas Pudding Crumble",
+    "title": "Tunisian Christmas Crumble Pudding",
     "tags": [
+      "tunisian",
       "christmas",
-      "indulgent",
-      "herbal",
-      "crunchy",
-      "tunisian"
+      "crumble",
+      "pudding"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "tunisian",
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
