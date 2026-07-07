@@ -1,0 +1,68 @@
+{
+  "slug": "herb-crusted-middle-eastern-pork-rib-tagine",
+  "title": "Middle Eastern Crusted Pork Tagine",
+  "description": "A flavorful and aromatic dish inspired by the cuisine of the Middle East, featuring a delicious crusted pork tagine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork rib",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "eastern",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "herb",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "crusted",
+      "amount": "1 cup",
+      "notes": "crusted breadcrumbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork rib with salt, pepper, and ground cumin.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the pork rib until browned on all sides.",
+    "Transfer the pork rib to a baking dish and top with crusted breadcrumbs.",
+    "Bake for 20-25 minutes or until the breadcrumbs are golden brown.",
+    "Meanwhile, prepare the tagine sauce by combining the chopped parsley, lemon juice, and olive oil in a small bowl.",
+    "Remove the pork rib from the oven and brush with the tagine sauce.",
+    "Return the pork rib to the oven and bake for an additional 10-15 minutes or until cooked through.",
+    "Let the pork rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "pork",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-crusted-middle-eastern-pork-rib-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:35:15.201Z"
+}
