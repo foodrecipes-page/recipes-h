@@ -1,0 +1,68 @@
+{
+  "slug": "hot-molten-polish-almond-pudding",
+  "title": "Polish Hot Almond Pudding",
+  "description": "A unique dessert featuring the combination of Polish flavors with the crunch of almonds and a hint of warmth from the hot ingredient.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Pudding mix",
+      "amount": "1 box"
+    },
+    {
+      "name": "Polish cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hot chocolate powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Molten honey",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Mix pudding mix, Polish cream, and sugar in a bowl.",
+    "Heat the mixture in a saucepan over low heat until it thickens.",
+    "Stir in almond slices and hot chocolate powder.",
+    "Pour the mixture into individual serving cups.",
+    "Bake for 12 minutes.",
+    "Drizzle with molten honey before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "dessert",
+    "polish",
+    "chocolate",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-molten-polish-almond-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:04:46.006Z"
+}
