@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-german-green-beans-salad",
+  "title": "German Green Bean Salad",
+  "description": "A hearty salad made with German-style ingredients, perfect for a quick lunch or dinner.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green beans",
+      "amount": "1 pound",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil",
+    "2. Blanch the green beans for 5 minutes, or until tender but still crisp",
+    "3. Drain the green beans and immediately plunge them into a bowl of ice water to stop the cooking process",
+    "4. In a large bowl, whisk together the apple cider vinegar, olive oil, Dijon mustard, salt, and black pepper",
+    "5. Add the sliced red onion to the bowl and toss to coat with the dressing",
+    "6. Add the cooled green beans to the bowl and toss to combine",
+    "7. Sprinkle the chopped parsley over the top of the salad and toss again to combine"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "green-beans",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-german-green-beans-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:19:58.854Z"
+}
