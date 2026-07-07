@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-ethiopian-chicken-wot-with-egg",
+  "title": "Spicy Ethiopian Chicken Wot",
+  "description": "A traditional Ethiopian dish made with chicken cooked in a spicy wot sauce, served with a side of egg and a hearty accompaniment.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "ethiopian wot sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chicken breast pieces and cook until browned, about 5-7 minutes.",
+    "Add the Ethiopian wot sauce and stir to combine.",
+    "Bring the sauce to a simmer and cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Stir in the beaten eggs and cook for an additional 2-3 minutes, or until the eggs are set.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over a hearty accompaniment, such as injera bread or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "wot",
+    "spicy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-ethiopian-chicken-wot-with-egg",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:11:22.032Z"
+}
