@@ -16054,18 +16054,16 @@
   },
   {
     "slug": "hot-soft-indian-lamb-biryani",
-    "title": "Hot & Soft Indian Lamb Biryani",
+    "title": "Hyderabadi Lamb Biryani",
     "tags": [
-      "biryani",
-      "dinner",
-      "halal",
       "indian",
       "lamb",
-      "special-occasion",
-      "spicy"
+      "biryani",
+      "non-vegetarian",
+      "hyderabadi"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 70,
     "shard": "h"
   },
   {
