@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-dutch-vegetables-braise",
+  "title": "Braised Dutch Pot Roast",
+  "description": "A hearty, comforting dish featuring slow-cooked Dutch pot roast in a rich vegetable broth.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch Pot Roast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Season the pot roast with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the pot roast until browned on all sides, about 2-3 minutes per side.",
+    "Remove the pot roast from the pot and set aside.",
+    "Add the onions to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots, potatoes, and celery to the pot and cook for an additional 5 minutes.",
+    "Add the beef broth, red wine, and tomato paste to the pot.",
+    "Return the pot roast to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the pot roast for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "dutch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-vegetables-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:13:28.708Z"
+}
