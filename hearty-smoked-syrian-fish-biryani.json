@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-smoked-syrian-fish-biryani",
+  "title": "Smoked Fish Biryani",
+  "description": "A flavorful and aromatic dish that combines the richness of smoked fish with the spices of Syrian biryani.",
+  "cuisine": "Syrian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Fish",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic; sauté until onion is translucent.",
+    "Add cumin, coriander, turmeric, and cayenne pepper; stir for 1 minute.",
+    "Add smoked fish; flake with a fork until fish is well-coated with spice mixture.",
+    "Add basmati rice; stir to combine with fish and spice mixture.",
+    "Add 2 cups of water; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 20-25 minutes or until rice is tender.",
+    "Fluff rice mixture with a fork; season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "biryani",
+    "syrian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-syrian-fish-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:07:47.901Z"
+}
