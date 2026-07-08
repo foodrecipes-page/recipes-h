@@ -1,0 +1,85 @@
+{
+  "slug": "heavily-sweetened-brazilian-chicken-fried-rice",
+  "title": "Sweet and Hearty Brazilian Chicken Fried Rice",
+  "description": "A twist on traditional fried rice, this Brazilian-inspired dish features chicken and a sweet and savory sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sweetened fried rice",
+      "amount": "2 cups",
+      "notes": "cooled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add onion and bell pepper to skillet and cook until tender, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Stir in soy sauce and sugar (if using).",
+    "Add cooked rice to skillet and stir-fry for about 2-3 minutes.",
+    "Return chicken to skillet and stir-fry until combined with rice.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "brazilian",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavily-sweetened-brazilian-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:44:10.647Z"
+}
