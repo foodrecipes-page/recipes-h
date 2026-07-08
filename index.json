@@ -480,11 +480,12 @@
   },
   {
     "slug": "hangover-cure-peruvian-pilchards-stir-fry",
-    "title": "Hangover-Cure Peruvian Pilchards Stir-fry",
+    "title": "Peruvian Hangover Cure Pilchard Stir Fry",
     "tags": [
       "peruvian",
       "hangover-cure",
-      "stir-fry"
+      "stir-fry",
+      "breakfast"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
@@ -5003,13 +5004,13 @@
   },
   {
     "slug": "hearty-grassy-middle-eastern-lentils-mujadara",
-    "title": "Hearty Grassy Middle Eastern Lentils Mujadara",
+    "title": "Mujadara Lentil Stew",
     "tags": [
-      "gluten-free",
-      "lentil-recipe",
-      "middle-eastern",
-      "vegetarian-dinner",
-      "wooden-board-presentation"
+      "lentil",
+      "stew",
+      "middle eastern",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
@@ -5509,16 +5510,15 @@
   },
   {
     "slug": "hearty-herbal-kenyan-lamb-stew",
-    "title": "Hearty Herbal Kenyan Lamb Stew",
+    "title": "Kenyan Lamb Stew",
     "tags": [
-      "hearty-stew",
-      "kenyan-cuisine",
-      "lamb-recipes",
-      "one-pot-meal",
-      "special-occasion"
+      "kenyan",
+      "lamb",
+      "stew",
+      "heart-healthy"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 150,
+    "cuisine": "kenyan",
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -8012,16 +8012,13 @@
   },
   {
     "slug": "hearty-portuguese-cod-stew",
-    "title": "Hearty Portuguese Cod Stew",
+    "title": "Portuguese Cod Stew",
     "tags": [
-      "claypot",
-      "creme-fraiche",
-      "date-night",
-      "no-garlic",
-      "no-onion",
-      "portuguese"
+      "portuguese",
+      "fish-stew",
+      "hearty"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 35,
     "shard": "h"
   },
