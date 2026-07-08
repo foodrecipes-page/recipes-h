@@ -1,0 +1,102 @@
+{
+  "slug": "hearty-portuguese-cod-stew",
+  "title": "Portuguese Cod Stew",
+  "description": "A hearty and flavorful stew originating from Portugal, made with cod, potatoes, and vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chili flakes and cook for 1 minute.",
+    "Add potatoes and cook for 5 minutes.",
+    "Add carrots and cook for 5 minutes.",
+    "Add cod fillets and cook for 2-3 minutes per side.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add white wine and cook until reduced by half.",
+    "Add fish broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "fish-stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-portuguese-cod-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:28:21.531Z"
+}
