@@ -8940,16 +8940,15 @@
   },
   {
     "slug": "hearty-slovakian-pork-skewers",
-    "title": "Hearty Slovakian Pork Skewers",
+    "title": "Slovakian Pork Skewers",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "skewers",
+      "grilled"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -11456,17 +11455,14 @@
   },
   {
     "slug": "hearty-winey-italian-ikura-piadina",
-    "title": "Hearty Winey Italian Ikura Piadina",
+    "title": "Italian Ikura Piadina Wraps",
     "tags": [
-      "ikura",
-      "italian-food",
-      "lacto-vegetarian",
-      "meal-prep",
-      "piadina",
-      "wine-lovers"
+      "italian",
+      "seafood",
+      "flatbread"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
