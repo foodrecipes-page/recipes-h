@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-molten-mexican-chickpeas-huaraches",
+  "title": "Huaraches with Chickpea Salsa",
+  "description": "A Mexican-inspired dish featuring crispy tortillas topped with a hearty chickpea salsa, perfect for a filling lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "diced (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tortillas into quarters and bake on a baking sheet for 5-7 minutes, or until crispy and lightly browned.",
+    "In a large bowl, mash the chickpeas using a fork or potato masher.",
+    "Add the diced onion, tomato, cumin, chili powder, and lime juice to the bowl with the chickpeas. Mix well.",
+    "Season the chickpea salsa with salt to taste.",
+    "To assemble the huaraches, spread a spoonful of the chickpea salsa on each tortilla quarter.",
+    "Top with diced avocado, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "veggie",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-molten-mexican-chickpeas-huaraches",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:42:17.366Z"
+}
