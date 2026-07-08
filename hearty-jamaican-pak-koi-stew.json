@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-jamaican-pak-koi-stew",
+  "title": "Jamaican Koi Stew",
+  "description": "A hearty and flavorful stew from the Caribbean, featuring tender koi in a rich jerk-inspired sauce.",
+  "cuisine": "Caribbean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Koi",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Pak",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Hearty",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Jamaican Allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scotch Bonnet Pepper",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add cumin and cook, stirring constantly, for 1 minute.",
+    "Add chopped pak and hearty, cook until softened, about 5 minutes.",
+    "Add scotch bonnet pepper, allspice, and brown sugar, cook for 1 minute.",
+    "Add koi, salt, and black pepper, stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Check for doneness and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped pak and a side of rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "jamaican",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-jamaican-pak-koi-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:41:33.217Z"
+}
