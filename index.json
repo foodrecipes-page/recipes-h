@@ -7412,18 +7412,15 @@
   },
   {
     "slug": "hearty-molten-mexican-chickpeas-huaraches",
-    "title": "Hearty Molten Mexican Chickpeas Huaraches",
+    "title": "Huaraches with Chickpea Salsa",
     "tags": [
-      "chickpeas",
-      "dinner",
-      "huaraches",
       "mexican",
-      "molten",
-      "vegetarian",
-      "yeasty"
+      "veggie",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
