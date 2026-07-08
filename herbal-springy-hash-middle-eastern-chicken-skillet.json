@@ -1,0 +1,78 @@
+{
+  "slug": "herbal-springy-hash-middle-eastern-chicken-skillet",
+  "title": "Eastern Chicken Skillet",
+  "description": "A flavorful and easy-to-make skillet dish with chicken and herbs, inspired by Eastern cuisine.",
+  "cuisine": "Eastern",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "middle eastern hash",
+      "amount": "1 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "herbs (such as thyme, rosemary)",
+      "amount": "2 tbsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "skillet (preferably cast iron)",
+      "amount": "1",
+      "notes": "for cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Season the chicken with salt, pepper, and herbs.",
+    "Add olive oil to the skillet and sear the chicken for 5-6 minutes per side.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the hash to the skillet and cook for 2-3 minutes.",
+    "Add the spring onions to the skillet and cook for an additional minute.",
+    "Return the chicken to the skillet and simmer for 2-3 minutes.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "eastern",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-springy-hash-middle-eastern-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:43:44.502Z"
+}
