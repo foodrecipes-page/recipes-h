@@ -2458,17 +2458,15 @@
   },
   {
     "slug": "hearty-burgundy-french-beef-skillet",
-    "title": "Hearty Burgundy French Beef Skillet",
+    "title": "Burgundy Beef in Skillet",
     "tags": [
-      "ayurvedic-tamasic-friendly",
-      "beef-recipes",
-      "cast-iron-skillet",
-      "french-cuisine",
-      "one-pan",
-      "robata-grill"
+      "beef",
+      "french",
+      "dinner",
+      "comfort food"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -13335,18 +13333,15 @@
   },
   {
     "slug": "herbal-gooey-algerian-vine-leaves-bake",
-    "title": "Herbal Gooey Algerian Vine Leaves Bake",
+    "title": "Herbal Vine Braised Leaves",
     "tags": [
-      "vegan",
-      "algerian",
-      "vine-leaves",
-      "bake",
-      "gooey",
       "herbal",
-      "solo-dinner"
+      "braised",
+      "leaves",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
