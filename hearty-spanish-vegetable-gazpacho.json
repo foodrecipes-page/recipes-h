@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-spanish-vegetable-gazpacho",
+  "title": "Spanish Gazpacho Soup",
+  "description": "A refreshing cold soup from Spain, made with tomatoes, peppers, and cucumbers. Perfect for hot summer days.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "bread",
+      "amount": "2 cups",
+      "notes": "stale, torn into pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine cucumber, bell pepper, tomato, and red onion.",
+    "Blend until smooth.",
+    "With the blender or food processor running, slowly add bread, olive oil, and vinegar.",
+    "Continue blending until the soup is smooth and creamy.",
+    "Taste and adjust seasoning with salt if needed.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with chopped fresh herbs or croutons if desired.",
+    "Optional: Serve with a swirl of cream or a sprinkle of paprika for added richness and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gazpacho",
+    "spanish",
+    "soup",
+    "cold",
+    "summer",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-vegetable-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:24.145Z"
+}
