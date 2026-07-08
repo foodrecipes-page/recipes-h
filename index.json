@@ -3991,17 +3991,15 @@
   },
   {
     "slug": "hearty-egyptian-shrimp-stew",
-    "title": "Hearty Egyptian Shrimp Stew",
+    "title": "Egyptian Hearty Shrimp Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pot",
-      "slow-cooked"
+      "egyptian",
+      "hearty",
+      "shrimp",
+      "stew"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -14232,18 +14230,16 @@
   },
   {
     "slug": "herby-malaysian-chicken-skewers",
-    "title": "Herby Malaysian Chicken Skewers",
+    "title": "Malaysian Chicken Skewers with Herby Marinade",
     "tags": [
-      "chicken",
-      "gluten-free",
-      "grilled",
-      "healthy",
-      "low-carb",
       "malaysian",
-      "meal-prep"
+      "chicken",
+      "skewers",
+      "herb",
+      "grilled"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "Asian",
+    "totalTimeMin": 36,
     "shard": "h"
   },
   {
@@ -14974,17 +14970,16 @@
   },
   {
     "slug": "honeyed-crunchy-spanish-honey-paella",
-    "title": "honeyed crunchy spanish honey paella",
+    "title": "Spanish Honeyed Paella",
     "tags": [
-      "basque",
-      "crunchy",
-      "honey",
-      "one-pan",
       "spanish",
-      "vegetarian"
+      "honey",
+      "vegetarian",
+      "paella",
+      "rice"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
