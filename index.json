@@ -2872,17 +2872,14 @@
   },
   {
     "slug": "hearty-chinese-noodles-dan-dan-mian",
-    "title": "Hearty Chinese Noodles Dan Dan Mian",
+    "title": "Dan Dan Mian",
     "tags": [
-      "chinese-food",
-      "comfort-food",
-      "low-carb",
-      "noodle-dish",
-      "one-pot",
-      "weeknight"
+      "chinese",
+      "noodles",
+      "dan-dan-mian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -11984,17 +11981,15 @@
   },
   {
     "slug": "heavily-sweetened-brazilian-chicken-fried-rice",
-    "title": "Heavily Sweetened Brazilian Chicken Fried-Rice",
+    "title": "Sweet and Hearty Brazilian Chicken Fried Rice",
     "tags": [
+      "chicken",
+      "rice",
       "brazilian",
-      "fried-rice",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "sweet"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
