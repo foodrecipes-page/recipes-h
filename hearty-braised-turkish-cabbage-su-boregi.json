@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-braised-turkish-cabbage-su-boregi",
+  "title": "Turkish Braised Cabbage Boregi",
+  "description": "A hearty, comforting Turkish dish featuring braised cabbage and crispy boregi pastry.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head",
+      "notes": ""
+    },
+    {
+      "name": "Boregi Pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Su (Water)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat su to a boil in a large saucepan.",
+    "Add cabbage and onion to the saucepan; cover and simmer until cabbage is tender.",
+    "Stir in caraway seeds, salt, and pepper.",
+    "Roll out boregi pastry and cut into squares.",
+    "Place a spoonful of the cabbage mixture onto one half of each square.",
+    "Fold the other half over the filling and press edges to seal.",
+    "Heat su in a large skillet and add the boregi.",
+    "Fry until golden brown and crispy.",
+    "Serve hot.",
+    "Serve with a side of su for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "braised",
+    "cabbage",
+    "boregi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-braised-turkish-cabbage-su-boregi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:24:21.773Z"
+}
