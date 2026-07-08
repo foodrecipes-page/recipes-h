@@ -2157,16 +2157,15 @@
   },
   {
     "slug": "hearty-braised-turkish-cabbage-su-boregi",
-    "title": "Hearty Braised Turkish Cabbage Su Boregi",
+    "title": "Turkish Braised Cabbage Boregi",
     "tags": [
-      "low-glycemic",
-      "one-pan",
       "turkish",
-      "vegetarian",
-      "weeknight"
+      "braised",
+      "cabbage",
+      "boregi"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
