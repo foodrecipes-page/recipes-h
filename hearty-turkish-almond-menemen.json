@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-turkish-almond-menemen",
+  "title": "Turkish Menemen Omelette",
+  "description": "A hearty, Turkish-inspired omelette made with eggs, onions, tomatoes, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Almond slices",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Menemen spice blend",
+      "amount": "1 tsp",
+      "notes": "or paprika + cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together. Add a pinch of salt and pepper to taste.",
+    "Heat a non-stick pan over medium heat. Add a tablespoon of oil and sauté the chopped onion until softened.",
+    "Add the diced tomatoes to the pan and cook for another 2-3 minutes.",
+    "Pour the whisked eggs over the vegetables in the pan. Cook until the eggs start to set.",
+    "Add the almond slices on top of the eggs, if using.",
+    "Sprinkle the menemen spice blend over the eggs.",
+    "Use a spatula to gently fold the omelette in half. Cook for another minute.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "turkish",
+    "omelette",
+    "eggs",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-turkish-almond-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:35:19.971Z"
+}
