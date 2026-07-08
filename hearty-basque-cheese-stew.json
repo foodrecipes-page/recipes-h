@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-basque-cheese-stew",
+  "title": "Basque Hearty Stew",
+  "description": "A rich and flavorful stew originating from the Basque region, perfect for a cold winter's day. This hearty stew is loaded with tender beef and vegetables.",
+  "cuisine": "Basque",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "2 lbs",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "hearty stew",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup shredded",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add beef and cook until browned on all sides, about 5 minutes.",
+    "3. Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "4. Add carrots and potatoes and cook for 5 minutes.",
+    "5. Add beef broth and hearty stew, and bring to a boil.",
+    "6. Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "7. Stir in cheese and cook until melted and bubbly.",
+    "8. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "comfort food",
+    "winter",
+    "basque"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-basque-cheese-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:15:42.949Z"
+}
