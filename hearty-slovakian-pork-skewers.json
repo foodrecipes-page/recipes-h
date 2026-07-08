@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-slovakian-pork-skewers",
+  "title": "Slovakian Pork Skewers",
+  "description": "A hearty and flavorful Slovakian-inspired dish featuring juicy pork skewers, perfect for a warm evening. These skewers are marinated in a mix of traditional Slovakian spices and herbs, then grilled to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "make sure to cut the pork into uniform pieces for even cooking"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 teaspoons",
+      "notes": "Hungarian or regular paprika works well"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper, chopped",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "zucchini, chopped",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 375°F.",
+    "Thread the pork cubes, onion, garlic, bell pepper, and zucchini onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together paprika, caraway seeds, salt, and black pepper.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the pork is cooked through and the vegetables are tender.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-slovakian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:28:54.054Z"
+}
