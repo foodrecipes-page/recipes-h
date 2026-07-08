@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-buttery-portuguese-spaghetti-pasta",
+  "title": "Portuguese Pasta Bake",
+  "description": "A hearty and comforting pasta bake with a buttery, cheesy crust. Perfect for a weeknight dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "Long, thin pasta"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Portuguese cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Optional: replace with mozzarella or cheddar"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "For thickening sauce"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": "Whole or 2%"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional: for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook spaghetti in boiling, salted water until al dente.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add flour and whisk to make a roux, cooking for 1-2 minutes.",
+    "Slowly add milk, whisking constantly to avoid lumps.",
+    "Bring sauce to a simmer and cook until thickened.",
+    "Stir in shredded cheese until melted and smooth.",
+    "Combine cooked spaghetti and cheese sauce in a large bowl.",
+    "Transfer pasta mixture to a baking dish and top with additional cheese.",
+    "Bake for 20-25 minutes, or until golden brown and bubbly.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pasta",
+    "bake",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-buttery-portuguese-spaghetti-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:42:41.162Z"
+}
