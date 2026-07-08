@@ -2386,16 +2386,16 @@
   },
   {
     "slug": "hearty-british-sausages-toad-in-the-hole",
-    "title": "Hearty British Sausages Toad In The Hole",
+    "title": "Toad in the Hole",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "british",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "sunday-roast"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -11029,17 +11029,15 @@
   },
   {
     "slug": "hearty-uruguayan-chickpea-stew",
-    "title": "Hearty Uruguayan Chickpea Stew",
+    "title": "Uruguayan Chickpea Stew",
     "tags": [
-      "high-protein",
-      "kosher",
-      "one-pot",
-      "uruguayan",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "uruguayan",
+      "stew"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -13057,10 +13055,15 @@
   },
   {
     "slug": "herbal-crumbly-indian-prunes-crumble",
-    "title": "Herbal Crumbly Indian Prunes Crumble",
-    "tags": [],
-    "cuisine": "Indian (South)",
-    "totalTimeMin": null,
+    "title": "Spiced Apple Crumble with Prunes",
+    "tags": [
+      "apple",
+      "crumble",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -16434,18 +16437,14 @@
   },
   {
     "slug": "hunger-quenching-norwegian-kjott-bjor-soaked-flatbread",
-    "title": "hunger-quenching norwegian kjottbjor-soaked-flatbread",
+    "title": "Traditional Norwegian Kjottkaker",
     "tags": [
-      "flatbread",
-      "kjottbjor",
       "norwegian",
-      "one-pan",
-      "snack",
-      "weekend",
-      "weeknight"
+      "meatballs",
+      "bjor"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
