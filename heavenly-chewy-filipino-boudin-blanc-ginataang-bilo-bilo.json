@@ -1,0 +1,72 @@
+{
+  "slug": "heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo",
+  "title": "Filipino-Style Bilo Bilo with Heavenly Ice Cream",
+  "description": "A classic Filipino dessert featuring bilo bilo (tapioca pearls) in a sweet and creamy ginataang sauce topped with a scoop of heavenly ice cream.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bilo Bilo",
+      "amount": "1 cup",
+      "notes": "tapioca pearls"
+    },
+    {
+      "name": "Ginataang Sauce",
+      "amount": "2 cups",
+      "notes": "coconut milk-based"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavenly Ice Cream",
+      "amount": "1 pint",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Combine sugar and water in a saucepan and bring to a boil.",
+    "Reduce heat and simmer for 5 minutes.",
+    "Add ginataang sauce and stir to combine.",
+    "Bring mixture to a simmer and cook for 2 minutes.",
+    "Add bilo bilo and cook for 2-3 minutes or until they float to the surface.",
+    "Serve warm and top with a scoop of heavenly ice cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "dessert",
+    "tapioca",
+    "coconut",
+    "ice cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:58:33.126Z"
+}
