@@ -2045,17 +2045,16 @@
   },
   {
     "slug": "hearty-basque-cheese-stew",
-    "title": "Hearty Basque Cheese Stew",
+    "title": "Basque Hearty Stew",
     "tags": [
-      "basque",
-      "comfort-food",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pot",
-      "post-workout"
+      "beef",
+      "stew",
+      "comfort food",
+      "winter",
+      "basque"
     ],
-    "cuisine": "Spanish Basque",
-    "totalTimeMin": 50,
+    "cuisine": "Basque",
+    "totalTimeMin": 105,
     "shard": "h"
   },
   {
@@ -10297,17 +10296,14 @@
   },
   {
     "slug": "hearty-steam-cooked-ethiopian-lentils-shiro",
-    "title": "Hearty Steam Cooked Ethiopian Lentils Shiro",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "lentil-recipe",
-      "one-pot",
-      "steam-cooked",
-      "weeknight"
+      "ethiopian",
+      "lentil",
+      "stew"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -13883,15 +13879,13 @@
   },
   {
     "slug": "herbal-springy-hash-middle-eastern-chicken-skillet",
-    "title": "herbal springy hash middle-eastern chicken skillet",
+    "title": "Eastern Chicken Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "spring"
+      "chicken",
+      "eastern",
+      "skillet"
     ],
-    "cuisine": "middle eastern",
+    "cuisine": "Eastern",
     "totalTimeMin": 30,
     "shard": "h"
   },
