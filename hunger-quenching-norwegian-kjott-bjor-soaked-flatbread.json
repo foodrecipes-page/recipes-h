@@ -1,0 +1,81 @@
+{
+  "slug": "hunger-quenching-norwegian-kjott-bjor-soaked-flatbread",
+  "title": "Traditional Norwegian Kjottkaker",
+  "description": "A hearty and flavorful Norwegian meatball dish often served with potatoes and vegetables. This recipe serves four and can be prepared in under an hour.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bjor",
+      "amount": "1 cup",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 slices",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine ground beef, flour, bjor, onion, egg, salt, and black pepper. Mix well with your hands until just combined.",
+    "3. Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter.",
+    "4. Place the meatballs on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each meatball.",
+    "5. Bake the meatballs in the preheated oven for 12-15 minutes, or until cooked through.",
+    "6. While the meatballs are baking, toast the flatbread slices in the oven for 2-3 minutes, or until lightly browned.",
+    "7. Serve the meatballs with toasted flatbread and your favorite sides, such as potatoes and vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "meatballs",
+    "bjor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hunger-quenching-norwegian-kjott-bjor-soaked-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:14:56.145Z"
+}
