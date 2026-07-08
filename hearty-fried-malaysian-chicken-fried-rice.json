@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-fried-malaysian-chicken-fried-rice",
+  "title": "Nasi Goreng Chicken",
+  "description": "A Malaysian-inspired fried rice dish with chicken, a popular street food.",
+  "cuisine": "malaysian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fried rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped onion and minced garlic and stir-fry until the onion is translucent.",
+    "Add the chicken breast and cook until browned and cooked through.",
+    "Add the fried rice to the wok and stir-fry for 2-3 minutes.",
+    "Add the soy sauce, fish sauce, salt, and pepper, and stir-fry for another minute.",
+    "Transfer the Nasi Goreng to a serving platter and garnish with chopped green onions, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "fried rice",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fried-malaysian-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:11:22.463Z"
+}
