@@ -1,0 +1,85 @@
+{
+  "slug": "hangover-cure-peruvian-pilchards-stir-fry",
+  "title": "Peruvian Hangover Cure Pilchard Stir Fry",
+  "description": "A spicy Peruvian-inspired stir fry recipe to cure your hangover using pilchards and a blend of traditional ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pilchards",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped tomato and cook for 2-3 minutes.",
+    "Add the chopped aji amarillo pepper and cook for 1 minute.",
+    "Add the chopped pilchards, cumin, and chili powder. Stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "hangover-cure",
+    "stir-fry",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-peruvian-pilchards-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:01:15.104Z"
+}
