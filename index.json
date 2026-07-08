@@ -15987,16 +15987,14 @@
   },
   {
     "slug": "hot-smoky-italian-pasta-lasagna",
-    "title": "Hot Smoky Italian Pasta Lasagna",
+    "title": "Classic Italian Lasagna",
     "tags": [
-      "crowd-pleaser",
-      "italian-food",
-      "one-pan",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "pasta",
+      "lasagna",
+      "beef"
     ],
-    "cuisine": "Italian",
+    "cuisine": "italian",
     "totalTimeMin": 60,
     "shard": "h"
   },
