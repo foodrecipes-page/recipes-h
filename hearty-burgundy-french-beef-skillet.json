@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-burgundy-french-beef-skillet",
+  "title": "Burgundy Beef in Skillet",
+  "description": "A classic French-inspired dish made with tender beef, onions, and a rich burgundy wine sauce. Serve over hearty servings of egg noodles.",
+  "cuisine": "French",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Burgundy wine",
+      "amount": "1/2 cup",
+      "notes": "Red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 large",
+      "notes": "Olive oil for cooking"
+    },
+    {
+      "name": "Egg noodles",
+      "amount": "8 ounces",
+      "notes": "Uncooked"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "2. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "3. Add the ground beef and cook, breaking it up with a spoon, until browned and cooked through.",
+    "4. Add the burgundy wine and beef broth to the skillet, stirring to deglaze.",
+    "5. Bring the mixture to a simmer and cook until the sauce has thickened slightly, about 5 minutes.",
+    "6. Stir in the flour to thicken the sauce.",
+    "7. Season the sauce with salt and pepper to taste.",
+    "8. Serve the beef and sauce over cooked egg noodles.",
+    "9. Garnish with fresh parsley or thyme, if desired.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "dinner",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-burgundy-french-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:05:40.570Z"
+}
