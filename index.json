@@ -6336,21 +6336,15 @@
   },
   {
     "slug": "hearty-jamaican-pak-koi-stew",
-    "title": "hearty jamaican pak koi stew",
+    "title": "Jamaican Koi Stew",
     "tags": [
-      "briny",
-      "cheese-pull",
-      "festive",
-      "fish",
-      "fodmap-friendly",
+      "caribbean",
       "jamaican",
-      "one-pan",
-      "pak-koi",
-      "stew",
-      "weeknight"
+      "seafood",
+      "stew"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -9946,17 +9940,18 @@
   },
   {
     "slug": "hearty-spanish-vegetable-gazpacho",
-    "title": "Hearty Spanish Vegetable Gazpacho",
+    "title": "Spanish Gazpacho Soup",
     "tags": [
-      "crunchy-texture",
-      "fermented-food",
-      "gluten-free",
-      "spanish-cuisine",
-      "vegan",
-      "vegetarian"
+      "gazpacho",
+      "spanish",
+      "soup",
+      "cold",
+      "summer",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "cuisine": "spanish",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -11632,16 +11627,16 @@
   },
   {
     "slug": "heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo",
-    "title": "ginataang bilo-bilo with boudin blanc",
+    "title": "Filipino-Style Bilo Bilo with Heavenly Ice Cream",
     "tags": [
-      "dessert",
       "filipino",
-      "finger-food",
-      "snack",
-      "weeknight"
+      "dessert",
+      "tapioca",
+      "coconut",
+      "ice cream"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 30,
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
