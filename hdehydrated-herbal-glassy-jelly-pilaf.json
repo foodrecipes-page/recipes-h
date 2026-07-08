@@ -1,0 +1,94 @@
+{
+  "slug": "hdehydrated-herbal-glassy-jelly-pilaf",
+  "title": "Herbal Pilaf Delight",
+  "description": "A flavorful and easy-to-make pilaf dish infused with herbal notes. Perfect for a weeknight dinner.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dehydrated parsley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "herbal tea",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "glassy rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "hdehydrated onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "jelly",
+      "amount": "2 tablespoons",
+      "notes": "omitted for a lighter version, or try a sugar-free jelly"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the dehydrated onion and cook until rehydrated, about 3-4 minutes.",
+    "Add the herbal tea, glassy rice, and pilaf. Stir well to combine.",
+    "Add the water and bring to a boil. Reduce the heat to low and cover the saucepan.",
+    "Simmer for 15-20 minutes or until the water has been absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and season with salt and pepper to taste.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "pilaf",
+    "dinner",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hdehydrated-herbal-glassy-jelly-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:54:29.373Z"
+}
