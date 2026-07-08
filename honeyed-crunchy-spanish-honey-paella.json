@@ -1,0 +1,71 @@
+{
+  "slug": "honeyed-crunchy-spanish-honey-paella",
+  "title": "Spanish Honeyed Paella",
+  "description": "A twist on the classic Spanish dish, incorporating honeyed notes. Perfect for a warm evening with friends.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "preferably jasmine or Calasparra"
+    },
+    {
+      "name": "Crunchy vegetables (bell peppers, carrots, onions)",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for a sweet and savory flavor"
+    },
+    {
+      "name": "Honeyed",
+      "amount": "2 tbsp",
+      "notes": "use as a substitute for some of the regular honey"
+    },
+    {
+      "name": "Paella seasoning",
+      "amount": "1 tsp",
+      "notes": "available at most Spanish markets or online"
+    }
+  ],
+  "instructions": [
+    "Heat a large paella pan or skillet over medium-high heat.",
+    "Add 2 tbsp of honey and 2 tbsp of honeyed; stir until fragrant.",
+    "Add crunchy vegetables and cook until tender.",
+    "Add Spanish rice and stir to coat with the honey mixture.",
+    "Add paella seasoning and stir to combine.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Fluff the paella with a fork and serve hot.",
+    "Garnish with lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "honey",
+    "vegetarian",
+    "paella",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-crunchy-spanish-honey-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:55.105Z"
+}
