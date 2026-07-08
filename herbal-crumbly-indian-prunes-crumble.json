@@ -1,0 +1,86 @@
+{
+  "slug": "herbal-crumbly-indian-prunes-crumble",
+  "title": "Spiced Apple Crumble with Prunes",
+  "description": "A warm and comforting dessert featuring tender apples, sweet prunes, and a crunchy crumble topping.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Prunes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Herbal tea",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples into a bowl.",
+    "Add the prunes, brown sugar, and Indian spices to the bowl with the apples.",
+    "Mix well to combine.",
+    "Transfer the apple mixture to a baking dish.",
+    "Mix the gluten-free flour and cold butter in a separate bowl until crumbly.",
+    "Add the herbal tea to the flour mixture and mix until a crumbly topping forms.",
+    "Spread the crumble topping evenly over the apple mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the apples are tender.",
+    "Serve warm, topped with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "crumble",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crumbly-indian-prunes-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:20:54.038Z"
+}
