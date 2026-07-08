@@ -1,0 +1,68 @@
+{
+  "slug": "herbal-gooey-algerian-vine-leaves-bake",
+  "title": "Herbal Vine Braised Leaves",
+  "description": "A unique and flavorful dish that combines the taste of herbal tea with the tenderness of braised leaves. This recipe is perfect for a relaxing evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian herbal tea leaves",
+      "amount": "2 teaspoons dried",
+      "notes": null
+    },
+    {
+      "name": "Vine ripened tomatoes",
+      "amount": "1 cup diced",
+      "notes": null
+    },
+    {
+      "name": "Fresh leaves",
+      "amount": "4 cups chopped",
+      "notes": "Choose a mix of leafy greens"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Bake seasoning mix",
+      "amount": "1 teaspoon",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large saucepan over medium heat.",
+    "Add the chopped leaves and cook until wilted, about 5 minutes.",
+    "Add the diced tomatoes, Algerian herbal tea leaves, and bake seasoning mix.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and let braise for 20 minutes.",
+    "If using honey, stir in during the last 5 minutes of cooking.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "braised",
+    "leaves",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-gooey-algerian-vine-leaves-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:22:45.274Z"
+}
