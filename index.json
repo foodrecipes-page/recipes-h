@@ -2485,16 +2485,15 @@
   },
   {
     "slug": "hearty-buttery-portuguese-spaghetti-pasta",
-    "title": "Hearty Buttery Portuguese Spaghetti Pasta",
+    "title": "Portuguese Pasta Bake",
     "tags": [
-      "comfort-food",
-      "one-pot",
       "portuguese",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "bake",
+      "comfortfood"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -4644,19 +4643,15 @@
   },
   {
     "slug": "hearty-fried-malaysian-chicken-fried-rice",
-    "title": "Hearty Fried Malaysian Chicken Fried-Rice",
+    "title": "Nasi Goreng Chicken",
     "tags": [
-      "buddhist-temple-friendly",
-      "comfort-food",
-      "fried-rice",
-      "hangover-cure",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "chicken",
+      "fried rice",
+      "lunch"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -10722,14 +10717,13 @@
   },
   {
     "slug": "hearty-turkish-almond-menemen",
-    "title": "Hearty Turkish Almond Menemen",
+    "title": "Turkish Menemen Omelette",
     "tags": [
-      "breakfast-dish",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "quick"
+      "breakfast",
+      "turkish",
+      "omelette",
+      "eggs",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 25,
