@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-winey-italian-ikura-piadina",
+  "title": "Italian Ikura Piadina Wraps",
+  "description": "A unique Italian-inspired flatbread pizza wrap filled with smoked ikura and fresh ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "1/4 cup",
+      "notes": "Smoked salmon roe"
+    },
+    {
+      "name": "Piadina",
+      "amount": "4-6",
+      "notes": "Italian flatbread"
+    },
+    {
+      "name": "Heirloom Tomato",
+      "amount": "1 cup",
+      "notes": "Sliced into thin rounds"
+    },
+    {
+      "name": "Burrata Cheese",
+      "amount": "1/2 cup",
+      "notes": "Fresh mozzarella with cream center"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Brush the piadina with olive oil and bake in the oven for 2-3 minutes, or until crispy.",
+    "3. Remove the piadina from the oven and top with a spoonful of burrata cheese.",
+    "4. Add a few slices of heirloom tomato on top of the cheese.",
+    "5. Sprinkle with chopped fresh basil.",
+    "6. Finish with a spoonful of ikura on top.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve immediately and enjoy!",
+    "9. If desired, add a drizzle of olive oil and a sprinkle of salt on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-winey-italian-ikura-piadina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:05:22.894Z"
+}
