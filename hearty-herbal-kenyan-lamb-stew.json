@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-herbal-kenyan-lamb-stew",
+  "title": "Kenyan Lamb Stew",
+  "description": "A hearty and flavorful lamb stew inspired by Kenyan cuisine, perfect for a cold evening.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "herbal tea",
+      "amount": "2 cups",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the pot and set aside.",
+    "4. Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "5. Add the tomato, stew, carrot, and potato to the pot.",
+    "6. Return the lamb to the pot and bring to a boil.",
+    "7. Reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "8. Season with salt and black pepper to taste.",
+    "9. Serve the stew hot, garnished with fresh herbs and accompanied by a cup of herbal tea."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "lamb",
+    "stew",
+    "heart-healthy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-kenyan-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T20:54:57.268Z"
+}
