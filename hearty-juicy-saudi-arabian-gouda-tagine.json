@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-juicy-saudi-arabian-gouda-tagine",
+  "title": "Saudian Gouda Tagine",
+  "description": "A hearty, flavorful stew originating from Saudi Arabia, made with tender meat, crunchy vegetables, and a rich, creamy sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking the stew"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Brown the lamb cubes on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside. Add the chopped onion, carrot, and red bell pepper to the pot. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic to the pot and cook, stirring constantly, for 1 minute.",
+    "Add the browned lamb, tagine spice mix, and water to the pot. Bring the stew to a boil, then reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Stir in the shredded gouda cheese until melted and smooth. Season the stew with salt to taste.",
+    "Serve the Saudian Gouda Tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "saudian",
+    "gouda",
+    "tagine",
+    "lamb",
+    "stew",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-juicy-saudi-arabian-gouda-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:22:09.703Z"
+}
