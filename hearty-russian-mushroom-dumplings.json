@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-russian-mushroom-dumplings",
+  "title": "Russian Mushroom Dumplings",
+  "description": "A hearty and comforting Russian-inspired dish featuring sautéed mushrooms in a flaky dumpling crust.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": "for dough"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water. Knead dough for 5 minutes.",
+    "Divide dough into 4 equal pieces. Roll out each piece into a thin circle.",
+    "Place 1 tablespoon of filling in the center of each dough circle. Fold dough over filling and press edges together.",
+    "In a large skillet, sauté mushrooms, onion, and garlic until softened. Season with parsley, salt, and pepper.",
+    "Add cooked dumplings to skillet and simmer for 5 minutes.",
+    "Serve hot with your favorite sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "dumplings",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-russian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:50:45.443Z"
+}
