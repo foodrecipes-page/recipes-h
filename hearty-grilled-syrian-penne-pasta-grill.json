@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-grilled-syrian-penne-pasta-grill",
+  "title": "Grilled Syrian Pasta",
+  "description": "A hearty, flavorful pasta dish inspired by Syrian cuisine, featuring grilled vegetables and a zesty sauce.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "Grilled eggplant",
+      "amount": "1 medium",
+      "notes": "grilled over medium heat"
+    },
+    {
+      "name": "Grilled zucchini",
+      "amount": "1 medium",
+      "notes": "grilled over medium heat"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "grilled over medium heat"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling and sauce"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill eggplant, zucchini, and red bell pepper for 3-4 minutes per side, or until tender and lightly charred.",
+    "Slice the grilled vegetables into bite-sized pieces.",
+    "Cook penne pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add garlic and sauté for 1 minute, until fragrant.",
+    "Add cherry tomatoes and cook for 2-3 minutes, until they start to release their juices.",
+    "Add grilled vegetables, lemon juice, salt, and black pepper to the skillet. Toss to combine.",
+    "Add cooked pasta to the skillet and toss to combine with the vegetable sauce.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "grilled",
+    "pasta",
+    "vegetarian",
+    "summer",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-grilled-syrian-penne-pasta-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:02:50.229Z"
+}
