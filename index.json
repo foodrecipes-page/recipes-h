@@ -11781,16 +11781,15 @@
   },
   {
     "slug": "heavenly-light-tunisian-phyllo-dough-skillet",
-    "title": "Heavenly Light Tunisian Phyllo Dough Skillet",
+    "title": "Tunisian Phyllo Triangles",
     "tags": [
-      "breakfast-for-dinner",
+      "north-african",
+      "vegetarian",
       "gluten-free",
-      "one-pan",
-      "tunisian",
-      "weeknight"
+      "pastries"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -13975,18 +13974,15 @@
   },
   {
     "slug": "herbal-velvety-polish-kabanos-sausages-one-pot",
-    "title": "Herbal Velvety Polish Kabanos Sausages One-Pot",
+    "title": "Kabanos and Sausage Polish Soup",
     "tags": [
-      "comforting",
-      "herbal",
-      "kabanos",
-      "one-pot",
       "polish",
-      "velvety",
-      "weeknight"
+      "soup",
+      "sausages",
+      "kabanos"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
