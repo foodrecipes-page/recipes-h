@@ -1,0 +1,64 @@
+{
+  "slug": "honeyed-russian-mars-bar-crisp-cake",
+  "title": "Russian Cake Bar Bites",
+  "description": "A sweet dessert inspired by Russian chocolate cake, with a crunchy honeyed bar on top.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Russian cake",
+      "amount": "1 package (12 pieces)",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Honeyed bar",
+      "amount": "1 bar (crushed)",
+      "notes": "for topping"
+    },
+    {
+      "name": "Mars bar",
+      "amount": "1 bar (crushed)",
+      "notes": "for topping"
+    },
+    {
+      "name": "Crisp cereal",
+      "amount": "1 cup",
+      "notes": "for crunchy topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut Russian cake into 1-inch pieces.",
+    "Place cake pieces on a baking sheet.",
+    "Bake for 10-12 minutes, or until golden brown.",
+    "Melt 1/4 cup of honey in a saucepan over low heat.",
+    "Dip each baked cake piece into the honey mixture, then place on a wire rack to cool.",
+    "Crush Honeyed and Mars bars, and sprinkle over the top of the cake pieces.",
+    "Sprinkle Crisp cereal over the top for a crunchy topping.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "european",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-russian-mars-bar-crisp-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:09:31.396Z"
+}
