@@ -1,0 +1,79 @@
+{
+  "slug": "hickory-honeyed-chinese-corned-beef-char-siu-bao",
+  "title": "Hickory Bao Beef with Char Siu Glaze",
+  "description": "A fusion of Asian flavors with a twist of American BBQ. This dish features tender beef short ribs in a sweet and savory hickory bao with a char siu glaze.",
+  "cuisine": "Asian-American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "1 pound",
+      "notes": "For slow cooking"
+    },
+    {
+      "name": "Hickory bao",
+      "amount": "4",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Char siu glaze",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Corned beef",
+      "amount": "1/4 cup",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Siu sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For finishing touch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 275°F (135°C).",
+    "Season beef short ribs with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of sesame oil over medium heat. Sear beef short ribs until browned on all sides.",
+    "Add 1 cup of hickory bao, 1/4 cup of corned beef, and 1/4 cup of siu sauce to the pot. Stir to combine.",
+    "Cover the pot and transfer to the preheated oven. Braise for 2-1/2 hours or until the meat is tender.",
+    "While the short ribs are cooking, prepare the char siu glaze by whisking together 1/4 cup of honey, 2 tablespoons of siu sauce, and 2 tablespoons of sesame oil.",
+    "Once the short ribs are done, remove the pot from the oven and brush the char siu glaze over the top.",
+    "Return the pot to the oven and bake for an additional 10-15 minutes or until the glaze is caramelized.",
+    "Serve the beef short ribs with steamed bao and garnish with sesame seeds and chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "bbq",
+    "asian-fusion",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hickory-honeyed-chinese-corned-beef-char-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:56:36.251Z"
+}
