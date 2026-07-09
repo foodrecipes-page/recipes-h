@@ -8565,16 +8565,14 @@
   },
   {
     "slug": "hearty-savory-malaysian-sauerkraut-stew",
-    "title": "Hearty Savory Malaysian Sauerkraut Stew",
+    "title": "Malaysian-Style Beef Stew",
     "tags": [
-      "boil-diet",
-      "comfort-food",
-      "malaysian-cuisine",
-      "savory-stew",
-      "shojin-friendly"
+      "beef",
+      "malaysian",
+      "stew"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
