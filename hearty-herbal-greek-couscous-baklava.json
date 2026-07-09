@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-herbal-greek-couscous-baklava",
+  "title": "Greek Couscous Salad",
+  "description": "A hearty and flavorful Mediterranean salad featuring couscous, herbal notes, and Greek flair.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 cup",
+      "notes": "fresh and fragrant"
+    },
+    {
+      "name": "Chopped fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": "for herbal flavor"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cook the couscous according to package instructions.",
+    "Chop the parsley and oregano, and set aside.",
+    "Thinly slice the red onion.",
+    "Pit the Kalamata olives.",
+    "Crumble the feta cheese.",
+    "In a large bowl, whisk together the lemon juice and olive oil.",
+    "Add the cooked couscous, chopped parsley, oregano, sliced red onion, olives, and feta cheese to the bowl.",
+    "Toss to combine, and season with salt and pepper to taste.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "lunch",
+    "veggie",
+    "salad",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-greek-couscous-baklava",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:20:33.134Z"
+}
