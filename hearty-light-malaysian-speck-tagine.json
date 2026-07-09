@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-light-malaysian-speck-tagine",
+  "title": "Malaysian Chicken Tagine",
+  "description": "A hearty and flavorful Malaysian-inspired dish made with chicken, potatoes, and a blend of spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add potatoes, tagine spice blend, and salt. Stir to combine.",
+    "Add coconut milk and bring to a simmer.",
+    "Transfer pot to the oven and cook for 25-30 minutes, or until chicken is cooked through and potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-light-malaysian-speck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:27:10.144Z"
+}
