@@ -1,0 +1,71 @@
+{
+  "slug": "hummus-like-american-falafel-hot-pot",
+  "title": "Falafel Wrap",
+  "description": "A classic Middle Eastern-inspired wrap filled with crispy falafel, creamy hummus, and crunchy like.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "4"
+    },
+    {
+      "name": "Hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Like",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "2 tbsp (optional)"
+    },
+    {
+      "name": "Pot",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Cook the pita bread for 2 minutes on each side.",
+    "Assemble the wrap by spreading hummus on the pita, followed by falafel, lettuce, like, tomatoes, and hot sauce (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "falafel",
+    "hummus",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hummus-like-american-falafel-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:27:04.114Z"
+}
