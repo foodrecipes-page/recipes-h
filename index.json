@@ -5453,17 +5453,16 @@
   },
   {
     "slug": "hearty-herbal-greek-couscous-baklava",
-    "title": "Hearty Herbal Greek Couscous Baklava",
+    "title": "Greek Couscous Salad",
     "tags": [
-      "clay-pot-cooking",
-      "couscous-recipes",
-      "flexitarian-friendly",
-      "greek-cuisine",
-      "savory-baklava",
-      "slate-tile-recipes"
+      "mediterranean",
+      "lunch",
+      "veggie",
+      "salad",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
@@ -6594,18 +6593,17 @@
   },
   {
     "slug": "hearty-juicy-saudi-arabian-gouda-tagine",
-    "title": "Hearty Juicy Saudi Arabian Gouda Tagine",
+    "title": "Saudian Gouda Tagine",
     "tags": [
-      "cheesy",
-      "date-night",
-      "low-calorie",
-      "one-pot",
-      "saudi-arabian",
-      "sweet-and-savory",
-      "vegetarian"
+      "saudian",
+      "gouda",
+      "tagine",
+      "lamb",
+      "stew",
+      "middle-eastern"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
