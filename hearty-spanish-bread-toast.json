@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-spanish-bread-toast",
+  "title": "Spanish Toast",
+  "description": "A simple and flavorful Spanish-inspired toast recipe, perfect for breakfast or snacks. Crunchy bread topped with a rich mixture of tomatoes and cheese.",
+  "cuisine": "Spanish",
+  "diet": [
+    "breakfast",
+    "lunch",
+    "snack"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf",
+      "notes": "preferably a crusty bread"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for toasting bread"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the bread into 1-inch thick slices and toast until lightly browned.",
+    "In a small bowl, mix together the minced garlic, grated Manchego cheese, and chopped fresh parsley (if using).",
+    "Brush the toasted bread with olive oil and top each slice with a spoonful of the garlic-cheese mixture.",
+    "Top each slice with a few slices of tomato and season with salt and black pepper to taste.",
+    "Return the toast to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "snack",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:00:34.665Z"
+}
