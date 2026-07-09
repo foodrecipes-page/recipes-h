@@ -3709,15 +3709,14 @@
   },
   {
     "slug": "hearty-dense-moroccan-lamb-tagine",
-    "title": "Hearty Dense Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "gluten-free",
       "lamb",
       "moroccan",
-      "one-pot",
-      "wine-braised"
+      "stew",
+      "slow-cooker"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "moroccan",
     "totalTimeMin": 170,
     "shard": "h"
   },
@@ -11523,16 +11522,15 @@
   },
   {
     "slug": "hearty-yeasty-dutch-mushroom-casserole",
-    "title": "Hearty Yeasty Dutch Mushroom Casserole",
+    "title": "Dutch Mushroom Casserole",
     "tags": [
-      "dutch-cuisine",
-      "low-calorie",
-      "mushroom-based",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "mushroom",
+      "yeast",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -13479,19 +13477,14 @@
   },
   {
     "slug": "herbal-light-american-redcurrants-crumbles",
-    "title": "Herbal Light American Redcurrant Crumbles",
+    "title": "Redcurrant Crumble",
     "tags": [
-      "berry-crumbles",
-      "crumble-recipe",
-      "dessert",
-      "fruit-baked-goods",
-      "healthy-baking",
-      "high-fiber",
       "redcurrant",
-      "spring-sweets"
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 65,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
