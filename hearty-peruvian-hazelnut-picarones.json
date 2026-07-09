@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-peruvian-hazelnut-picarones",
+  "title": "Picarones with Hazelnut Praline",
+  "description": "Traditional Peruvian sweet potato donuts served with a rich hazelnut praline. A delicious dessert perfect for any occasion.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Light brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Peel the sweet potatoes and boil them in a large pot of water until they are tender.",
+    "Drain the sweet potatoes and mash them in a bowl.",
+    "Add the flour, baking powder, salt, and granulated sugar to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk and fry the donuts in the hot oil for 2-3 minutes on each side.",
+    "Drain the donuts on paper towels and let them cool.",
+    "Melt the hazelnuts in a pan with the unsalted butter and light brown sugar over low heat.",
+    "Add the hazelnut mixture to a bowl and let it cool.",
+    "Dust the cooled donuts with the hazelnut praline."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "hazelnut",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peruvian-hazelnut-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:48:55.816Z"
+}
