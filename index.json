@@ -960,18 +960,14 @@
   },
   {
     "slug": "hazelnut-crumbly-argentinian-meat-empanadas",
-    "title": "Hazelnut Crumbly Argentinian Meat Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian",
       "beef",
       "empanadas",
-      "hazelnuts",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "argentinian"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -5115,16 +5111,17 @@
   },
   {
     "slug": "hearty-grilled-syrian-penne-pasta-grill",
-    "title": "Hearty Grilled Syrian Penne Pasta Grill",
+    "title": "Grilled Syrian Pasta",
     "tags": [
-      "grilled-vegetables",
-      "jain-friendly",
-      "monsoon-syrian-sauce",
-      "pasta-dishes",
-      "syrian-cuisine"
+      "syrian",
+      "grilled",
+      "pasta",
+      "vegetarian",
+      "summer",
+      "easy-to-make"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -7804,18 +7801,14 @@
   },
   {
     "slug": "hearty-peruvian-hazelnut-picarones",
-    "title": "Hearty Peruvian Hazelnut Picarones",
+    "title": "Picarones with Hazelnut Praline",
     "tags": [
-      "clay-vessel",
-      "gluten-free",
+      "peruvian",
       "hazelnut",
-      "peruvian-cuisine",
-      "sous-vide",
-      "sweet-potato",
-      "vegetarian"
+      "dessert"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -16390,17 +16383,15 @@
   },
   {
     "slug": "hummus-like-american-falafel-hot-pot",
-    "title": "Hummus-Like American Falafel Hot-Pot",
+    "title": "Falafel Wrap",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "healthy",
-      "low-carb",
-      "one-pan",
-      "vegetarian"
+      "falafel",
+      "hummus",
+      "wrap",
+      "snack"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
