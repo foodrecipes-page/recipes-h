@@ -1,0 +1,60 @@
+{
+  "slug": "heavenly-light-tunisian-phyllo-dough-skillet",
+  "title": "Tunisian Phyllo Triangles",
+  "description": "A crispy and savory pastry filled with the flavors of Tunisia. Enjoy as a snack or light meal.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 package (usually 24 sheets)",
+      "notes": ""
+    },
+    {
+      "name": "tunisian light",
+      "amount": "1/4 cup",
+      "notes": "a mix of olive oil, garlic, and spices"
+    },
+    {
+      "name": "heavenly",
+      "amount": "1/4 cup",
+      "notes": "a mix of chopped olives, capers, and parsley"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thaw the phyllo dough according to package instructions.",
+    "Cut the phyllo dough into 4-inch squares.",
+    "Brush each square with tunisian light, leaving a 1/2-inch border around the edges.",
+    "Place a small spoonful of heavenly in the center of each square.",
+    "Fold the dough into triangles by bringing the two opposite corners together to form a point.",
+    "Brush the tops of the triangles with tunisian light.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "pastries"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-light-tunisian-phyllo-dough-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:15:02.169Z"
+}
