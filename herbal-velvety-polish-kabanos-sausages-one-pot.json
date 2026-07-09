@@ -1,0 +1,81 @@
+{
+  "slug": "herbal-velvety-polish-kabanos-sausages-one-pot",
+  "title": "Kabanos and Sausage Polish Soup",
+  "description": "A hearty, comforting Polish-inspired soup made with kabanos, sausages, and a variety of vegetables.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "1 package"
+    },
+    {
+      "name": "sausages",
+      "amount": "1 pound",
+      "notes": "your choice of sausage variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "pot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "herbal broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "velvety polenta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "polish sour cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, cook the kabanos and sausages over medium heat, breaking up the sausages with a spoon as they cook.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are tender.",
+    "Add the herbal broth to the pot and bring to a boil.",
+    "Reduce the heat and simmer for 10 minutes.",
+    "Meanwhile, cook the velvety polenta according to the package instructions.",
+    "Stir the cooked polenta into the soup and cook for an additional 2-3 minutes.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve the soup hot, topped with a dollop of polish sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "soup",
+    "sausages",
+    "kabanos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-velvety-polish-kabanos-sausages-one-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:47:09.750Z"
+}
