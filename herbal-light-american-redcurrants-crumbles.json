@@ -1,0 +1,70 @@
+{
+  "slug": "herbal-light-american-redcurrants-crumbles",
+  "title": "Redcurrant Crumble",
+  "description": "A sweet dessert made with fresh redcurrants and a crunchy oat topping. Perfect for a warm evening.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh Redcurrants",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the redcurrants, granulated sugar, and flour.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, combine the rolled oats, brown sugar, and ground cinnamon.",
+    "Add the cold butter to the oat mixture and use your fingers or a pastry blender to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Spread the crumb mixture evenly over the redcurrant mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "redcurrant",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-light-american-redcurrants-crumbles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:29:51.234Z"
+}
