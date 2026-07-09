@@ -9803,15 +9803,12 @@
   },
   {
     "slug": "hearty-spanish-bread-toast",
-    "title": "Hearty Spanish Bread Toast",
+    "title": "Spanish Toast",
     "tags": [
-      "buttered",
-      "crumbly",
-      "low-fodmap",
-      "midnight-craving",
-      "snack",
       "spanish",
-      "toast"
+      "breakfast",
+      "snack",
+      "cheesy"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
@@ -15182,18 +15179,14 @@
   },
   {
     "slug": "honeyed-russian-mars-bar-crisp-cake",
-    "title": "honeyed russian mars bar crisp cake",
+    "title": "Russian Cake Bar Bites",
     "tags": [
-      "cake",
       "dessert",
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "vegan-option",
-      "weeknight"
+      "european",
+      "easy-to-make"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 50,
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
