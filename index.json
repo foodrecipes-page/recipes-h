@@ -8407,16 +8407,13 @@
   },
   {
     "slug": "hearty-russian-mushroom-dumplings",
-    "title": "Hearty Russian Mushroom Dumplings",
+    "title": "Russian Mushroom Dumplings",
     "tags": [
-      "beer",
-      "dumplings",
       "mushroom",
-      "russian",
-      "snack",
-      "vegetarian"
+      "dumplings",
+      "russian"
     ],
-    "cuisine": "Russian",
+    "cuisine": "russian",
     "totalTimeMin": 35,
     "shard": "h"
   },
@@ -14290,15 +14287,15 @@
   },
   {
     "slug": "hickory-honeyed-chinese-corned-beef-char-siu-bao",
-    "title": "Hickory Honeyed Chinese Corned Beef Char Siu Bao",
+    "title": "Hickory Bao Beef with Char Siu Glaze",
     "tags": [
-      "chinese",
-      "frozen-dinner-opposite",
-      "high-protein",
-      "weeknight"
+      "beef",
+      "bbq",
+      "asian-fusion",
+      "slow-cooker"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "Asian-American",
+    "totalTimeMin": 195,
     "shard": "h"
   },
   {
