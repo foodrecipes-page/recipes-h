@@ -6854,16 +6854,13 @@
   },
   {
     "slug": "hearty-light-malaysian-speck-tagine",
-    "title": "Hearty Light Malaysian Speck Tagine",
+    "title": "Malaysian Chicken Tagine",
     "tags": [
-      "garlicky",
       "malaysian",
-      "pressure-cooker",
-      "romantic-dinner",
-      "tagine",
-      "vegan"
+      "chicken",
+      "stew"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 50,
     "shard": "h"
   },
