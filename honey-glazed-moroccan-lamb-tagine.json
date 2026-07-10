@@ -1,0 +1,77 @@
+{
+  "slug": "honey-glazed-moroccan-lamb-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional North African dish made with tender lamb and sweet spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Moroccan lamb tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Glazed carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Add lamb and brown on all sides, about 5 minutes.",
+    "Add spice blend, honey, and broth. Cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 hours, or until tender.",
+    "Add carrots and raisins to the pot and return to the oven.",
+    "Bake for an additional 30 minutes, or until carrots are tender.",
+    "Garnish with almonds and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 155,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "tagine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:06:49.835Z"
+}
