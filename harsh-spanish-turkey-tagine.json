@@ -1,0 +1,90 @@
+{
+  "slug": "harsh-spanish-turkey-tagine",
+  "title": "Traditional Moroccan Chicken Tagine",
+  "description": "A classic North African dish made with chicken, preserved lemons, and spices, slow-cooked in a clay tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Harsh spices",
+      "amount": "2 tsp",
+      "notes": "ground cumin, coriander, cinnamon, and ginger"
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Turkey bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Preserved lemon",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a clay tagine or large Dutch oven over medium-high heat.",
+    "Add the turkey bacon and cook until browned, about 4 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the harsh spices, smoked paprika, preserved lemon, and chicken broth.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with olives and fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harsh-spanish-turkey-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:22:29.189Z"
+}
