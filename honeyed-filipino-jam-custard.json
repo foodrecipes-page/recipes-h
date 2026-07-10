@@ -1,0 +1,57 @@
+{
+  "slug": "honeyed-filipino-jam-custard",
+  "title": "Filipino Honeyed Custard Toast",
+  "description": "A sweet and savory breakfast toast made with honeyed custard and topped with a caramelized jam.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Honeyed Custard",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Toast the bread until lightly browned.",
+    "2. Spread the butter on the toasted bread.",
+    "3. Top the butter with a layer of honeyed custard.",
+    "4. Drizzle the jam on top of the custard.",
+    "5. Caramelize the jam by placing the toast under the broiler for 2-3 minutes.",
+    "6. Remove the toast from the oven and let it cool for a minute.",
+    "7. Serve the toast warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-filipino-jam-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:56:25.208Z"
+}
