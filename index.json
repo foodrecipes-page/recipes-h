@@ -3329,17 +3329,15 @@
   },
   {
     "slug": "hearty-croatian-uni-bake",
-    "title": "Hearty Croatian Uni Bake",
+    "title": "Peka Croatian Braised Beef",
     "tags": [
-      "baked",
+      "beef",
       "croatian",
-      "feta",
-      "low-sodium",
-      "seafood",
-      "uni"
+      "peka",
+      "slow-cooked"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
