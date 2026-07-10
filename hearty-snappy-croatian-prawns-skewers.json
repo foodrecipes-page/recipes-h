@@ -1,0 +1,98 @@
+{
+  "slug": "hearty-snappy-croatian-prawns-skewers",
+  "title": "Croatian-Style Prawn Skewers",
+  "description": "Tender prawns marinated in a zesty Croatian-inspired blend of herbs and spices, grilled to perfection on skewers.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "250g",
+      "notes": "fresh or frozen, defrosted"
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "coarse, Croatian-style"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Snappy Skewers",
+      "amount": "10-12",
+      "notes": "wooden or bamboo"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (200°C/400°F).",
+    "In a large bowl, whisk together olive oil, red onion, parsley, dill, garlic, lemon juice, salt, and black pepper.",
+    "Add the prawns to the marinade and mix well to coat.",
+    "Thread the marinated prawns onto the skewers, leaving space between each prawn.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prawns are pink and cooked through.",
+    "Serve immediately, garnished with additional parsley and lemon wedges if desired.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve with a side of hearty, crusty bread or a simple green salad.",
+    "Enjoy your delicious Croatian-style prawn skewers!",
+    "Store leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Reheat the skewers in the oven or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "prawns",
+    "skewers",
+    "grilled",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-snappy-croatian-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:30:42.693Z"
+}
