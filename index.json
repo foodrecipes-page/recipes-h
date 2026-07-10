@@ -1272,17 +1272,14 @@
   },
   {
     "slug": "healing-french-tuna-terrine",
-    "title": "Healing French Tuna Terrine",
+    "title": "Healing Tuna Terrine",
     "tags": [
-      "citrus",
-      "creamy",
-      "filo-pastry",
-      "hangover-cure",
-      "no-gluten",
-      "pescatarian"
+      "healthy",
+      "fish",
+      "herbs"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -2249,17 +2246,14 @@
   },
   {
     "slug": "hearty-brazilian-skirty-steak-en-croute",
-    "title": "Hearty Brazilian Skirty Steak En Croute",
+    "title": "Brazilian Steak with Croute Crust",
     "tags": [
-      "brazilian-cuisine",
-      "dinner-ideas",
-      "gluten-free",
-      "meal-prep",
-      "pastry-dishes",
-      "steak-recipes"
+      "steak",
+      "brazilian",
+      "heart-healthy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -6815,14 +6809,12 @@
   },
   {
     "slug": "hearty-light-french-burrata-tarte-tatin",
-    "title": "Hearty Light French Burrata Tarte Tatin",
+    "title": "French Tarte Tatin",
     "tags": [
-      "brunch-idea",
-      "copper-mug",
-      "fodmap-friendly",
-      "french-food",
-      "kid-friendly",
-      "tarte-tatin"
+      "french",
+      "dessert",
+      "pastry",
+      "apple"
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
