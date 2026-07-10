@@ -10347,15 +10347,12 @@
   },
   {
     "slug": "hearty-sweet-vietnamese-tofu-noodles",
-    "title": "Hearty Sweet Vietnamese Tofu Noodles",
+    "title": "Vietnamese Tofu Noodle Soup",
     "tags": [
-      "kid-friendly",
-      "noodles",
-      "shojin-friendly",
-      "smoky",
-      "sriracha",
-      "tofu",
-      "vietnamese"
+      "noodle-soup",
+      "tofu-recipe",
+      "vietnamese-food",
+      "comfort-food"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -14692,18 +14689,16 @@
   },
   {
     "slug": "honey-glazed-jamaican-flaxseed-tagine",
-    "title": "Honey-Glazed Jamaican Flaxseed Tagine",
+    "title": "Jamaican Flaxseed Chicken Tagine",
     "tags": [
-      "date-night",
-      "flaxseed",
-      "gluten-free",
-      "high-protein",
       "jamaican",
-      "ovo-vegetarian",
-      "sous-vide"
+      "flaxseed",
+      "tagine",
+      "chicken",
+      "moroccan"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15790,17 +15785,15 @@
   },
   {
     "slug": "hot-smoked-peruvian-bamboo-shoot-suspiro-limeno",
-    "title": "Hot Smoked Peruvian Bamboo Shoot Suspiro Limeno",
+    "title": "Smoked Anticuchos",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "peruvian-cuisine",
-      "quick-snack",
-      "smoked-food",
-      "vegetarian"
+      "peruvian",
+      "beef",
+      "grilled",
+      "skewers"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 28,
     "shard": "h"
   },
   {
