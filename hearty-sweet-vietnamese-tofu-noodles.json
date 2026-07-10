@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-sweet-vietnamese-tofu-noodles",
+  "title": "Vietnamese Tofu Noodle Soup",
+  "description": "A hearty and comforting soup made with tofu, noodles, and a sweet and savory broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and cut into small cubes"
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "1 package (8 oz)",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tbsp of oil over medium heat.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the sliced carrots and cook for 3-4 minutes or until they start to soften.",
+    "Add the vegetable broth, soy sauce, and hoisin sauce (if using) to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
+    "Add the cooked noodles, tofu, and chopped spinach to the pot.",
+    "Cook for an additional 2-3 minutes or until the spinach has wilted.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with chopped green onions.",
+    "Optional: serve with additional soy sauce, hoisin sauce, or sriracha on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle-soup",
+    "tofu-recipe",
+    "vietnamese-food",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sweet-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:52:27.413Z"
+}
