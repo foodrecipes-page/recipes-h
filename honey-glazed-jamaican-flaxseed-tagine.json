@@ -1,0 +1,90 @@
+{
+  "slug": "honey-glazed-jamaican-flaxseed-tagine",
+  "title": "Jamaican Flaxseed Chicken Tagine",
+  "description": "A sweet and spicy chicken dish inspired by traditional Moroccan tagines, made with Jamaican jerk seasoning and flaxseed.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium-high heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add jerk seasoning, flaxseed, honey, and tagine spice mix. Stir to combine.",
+    "Add chicken broth and bring to a simmer.",
+    "Cover and cook until chicken is cooked through and sauce has thickened, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "flaxseed",
+    "tagine",
+    "chicken",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-jamaican-flaxseed-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:49:59.115Z"
+}
