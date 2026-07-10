@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-russian-beef-pilaf",
+  "title": "Beef Pilaf",
+  "description": "A hearty beef pilaf, inspired by traditional Russian cuisine. Perfect for a cold winter's night.",
+  "cuisine": "Russian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "85% lean"
+    },
+    {
+      "name": "Long-grain Rice",
+      "amount": "250g",
+      "notes": "preferably uncooked"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 large",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 liter",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably kosher"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the beef broth, tomato paste (if using), salt, and pepper.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add the uncooked rice and stir to combine.",
+    "Return the skillet to medium heat and cook, stirring frequently, until the rice is lightly toasted, about 5 minutes.",
+    "Transfer the skillet to the oven and bake at 375°F (190°C) for 25 minutes.",
+    "Remove the skillet from the oven and let it rest, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pilaf",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:51:23.636Z"
+}
