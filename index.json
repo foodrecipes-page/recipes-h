@@ -12109,17 +12109,15 @@
   },
   {
     "slug": "herb-infused-korean-chicken-skewers",
-    "title": "Herb Infused Korean Chicken Skewers",
+    "title": "Korean Herb Chicken Skewers",
     "tags": [
-      "asian-cuisine",
-      "chicken-recipes",
-      "dinner-ideas",
-      "gluten-free",
-      "korean-food",
-      "low-fodmap"
+      "korean",
+      "grilled",
+      "chicken",
+      "skewers"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 38,
+    "totalTimeMin": 31,
     "shard": "h"
   },
   {
@@ -14726,18 +14724,15 @@
   },
   {
     "slug": "honey-glazed-moroccan-lamb-tagine",
-    "title": "Honey Glazed Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "dinner",
-      "dolsot-stone-bowl",
-      "gluten-free",
       "lamb",
       "moroccan",
-      "robata-grill",
-      "tagine"
+      "tagine",
+      "slow-cooker"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 190,
+    "totalTimeMin": 175,
     "shard": "h"
   },
   {
