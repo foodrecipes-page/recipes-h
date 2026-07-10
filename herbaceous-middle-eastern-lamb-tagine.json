@@ -1,0 +1,99 @@
+{
+  "slug": "herbaceous-middle-eastern-lamb-tagine",
+  "title": "Lamb Tagine with Herbs",
+  "description": "A traditional Moroccan lamb tagine with a blend of herbaceous spices, perfect for a hearty dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5 kg)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cumin, coriander, turmeric, paprika, salt, and pepper. Cook for 1 minute, stirring constantly.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add 1 cup of water and bring to a boil.",
+    "Transfer the pot to the oven and cook, covered, at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in parsley and cilantro. Serve hot over couscous or rice.",
+    "Let the tagine rest for 10 minutes before serving.",
+    "Serve with a side of warm pita bread or naan.",
+    "Garnish with additional parsley and cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "middle-eastern",
+    "herbaceous"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-middle-eastern-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:58:52.201Z"
+}
