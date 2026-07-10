@@ -10471,14 +10471,15 @@
   },
   {
     "slug": "hearty-syrian-veggies-stir-fry",
-    "title": "Hearty Syrian Veggies Stir-fry",
+    "title": "Syrian-Style Hearty Vegetable Stir Fry",
     "tags": [
-      "hearty-syrian-veggies-stir-fry",
-      "savory-gooey-dish",
-      "diabetic-friendly"
+      "vegetarian",
+      "syrian",
+      "stir-fry",
+      "veggie"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -10888,16 +10889,15 @@
   },
   {
     "slug": "hearty-umami-russian-stracciatella-cheese-pilaf",
-    "title": "Hearty Umami Russian Stracciatella Cheese Pilaf",
+    "title": "Russian Pilaf with Umami Cheese",
     "tags": [
-      "cheesy",
-      "gluten-free",
-      "keto-friendly",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "russian",
+      "vegetarian",
+      "cheese",
+      "pilaf",
+      "umami"
     ],
-    "cuisine": "Russian",
+    "cuisine": "russian",
     "totalTimeMin": 35,
     "shard": "h"
   },
@@ -14960,16 +14960,14 @@
   },
   {
     "slug": "honeyed-filipino-jam-custard",
-    "title": "Honeyed Filipino Jam Custard",
+    "title": "Filipino Honeyed Custard Toast",
     "tags": [
-      "ayurvedic-sattvic",
-      "dessert",
-      "flan",
-      "one-pan",
-      "simple"
+      "breakfast",
+      "snack",
+      "sweet"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 60,
+    "totalTimeMin": 7,
     "shard": "h"
   },
   {
