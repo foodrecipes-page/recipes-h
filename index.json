@@ -1307,16 +1307,15 @@
   },
   {
     "slug": "healing-herbal-kenyan-chicken-wrap",
-    "title": "Healing Herbal Kenyan Chicken Wrap",
+    "title": "Kenyan Chicken Wrap",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "herbal-remedies",
-      "kenyan-cuisine",
-      "post-workout"
+      "healthy",
+      "kenyan",
+      "chicken",
+      "wrap",
+      "grilling"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "h"
   },
@@ -12552,18 +12551,15 @@
   },
   {
     "slug": "herbaceous-middle-eastern-lamb-tagine",
-    "title": "Herbaceous Middle Eastern Lamb Tagine",
+    "title": "Lamb Tagine with Herbs",
     "tags": [
-      "herbaceous",
-      "low-sodium",
       "lamb",
       "tagine",
       "middle-eastern",
-      "wine",
-      "crowd-pleaser"
+      "herbaceous"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 125,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
