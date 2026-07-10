@@ -1,0 +1,72 @@
+{
+  "slug": "hearty-syrian-veggies-stir-fry",
+  "title": "Syrian-Style Hearty Vegetable Stir Fry",
+  "description": "A flavorful and nutritious stir fry dish inspired by Syrian cuisine, loaded with a variety of vegetables and hearty goodness.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed vegetables (bell peppers, carrots, broccoli, onions)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "hearty olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": " Syrian spices (cumin, coriander, paprika)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or avocado oil"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat stir-fry oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute until fragrant.",
+    "Add mixed vegetables and hearty olives, stir-frying for 5 minutes until tender.",
+    "Sprinkle Syrian spices over the vegetables and stir-fry for another minute.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "syrian",
+    "stir-fry",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-veggies-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:49:50.320Z"
+}
