@@ -1,0 +1,68 @@
+{
+  "slug": "honeyed-indian-figs-kheer",
+  "title": "Indian Figs Kheer",
+  "description": "A sweet and creamy Indian dessert made with figs, kheer, and a touch of honeyed goodness. This recipe is perfect for a warm evening.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kheer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Figs",
+      "amount": "6-8",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Ghee or butter",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine kheer, milk, and cardamom. Heat over medium heat, stirring occasionally.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the kheer is fully dissolved.",
+    "Add the honey and stir to combine.",
+    "Add the chopped figs and stir to combine.",
+    "If using ghee or butter, add it to the mixture and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until the mixture has thickened slightly.",
+    "Serve warm or chilled, garnished with additional figs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "indian",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-indian-figs-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:22:20.371Z"
+}
