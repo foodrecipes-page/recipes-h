@@ -1,0 +1,73 @@
+{
+  "slug": "herbal-chewy-uruguayan-pistachio-empanadas",
+  "title": "Uruguayan Empanadas with Pistachio and Herbal Filling",
+  "description": "A traditional Uruguayan empanada recipe with a twist of pistachio and herbal flavors. Perfect as a snack or light lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan empanada dough",
+      "amount": "1 package (12-15 empanadas)",
+      "notes": "Available at most Latin American grocery stores"
+    },
+    {
+      "name": "Pistachio paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Herbal mixture (dried oregano, thyme, basil)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chewy cheese (Monterey Jack or similar)",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to about 1/8 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a small spoonful of pistachio paste in the center of each dough circle.",
+    "Sprinkle a pinch of herbal mixture over the pistachio paste.",
+    "Top with a small amount of crumbled cheese and a sprinkle of parsley.",
+    "Fold the dough in half to form a half-moon shape, pressing edges together to seal.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Brush tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "pistachio",
+    "herbal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-chewy-uruguayan-pistachio-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:39:44.016Z"
+}
