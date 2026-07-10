@@ -1,0 +1,88 @@
+{
+  "slug": "herb-infused-korean-chicken-skewers",
+  "title": "Korean Herb Chicken Skewers",
+  "description": "Delightful and easy-to-make Korean-inspired dish featuring marinated chicken skewers, perfect for a quick dinner or outdoor gathering.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Korean Skewers",
+      "amount": "1 package",
+      "notes": "usually contains 10-12 skewers"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tablespoons",
+      "notes": "such as Gochujang or soy-ginger oil"
+    },
+    {
+      "name": "Herb Blend",
+      "amount": "1 tablespoon",
+      "notes": "such as chopped cilantro, parsley, or basil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a blender or food processor, combine infused oil, herb blend, garlic, sesame oil, soy sauce, honey, and ginger.",
+    "3. Add the chicken breast to the marinade and mix well.",
+    "4. Thread the marinated chicken onto the Korean skewers.",
+    "5. Brush the grill with oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "7. Remove from heat and let rest for 2-3 minutes.",
+    "8. Serve hot, garnished with additional herb blend if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-infused-korean-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:46:20.893Z"
+}
