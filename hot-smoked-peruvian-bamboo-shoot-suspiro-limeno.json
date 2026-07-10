@@ -1,0 +1,73 @@
+{
+  "slug": "hot-smoked-peruvian-bamboo-shoot-suspiro-limeno",
+  "title": "Smoked Anticuchos",
+  "description": "A Peruvian-style grilled beef heart skewer dish, typically served as an appetizer or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "hot pepper",
+      "amount": "2",
+      "notes": "such as aji amarillo"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "limeno",
+      "amount": "2 tablespoons",
+      "notes": "such as aji amarillo pepper paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine beef heart, hot pepper, garlic, limeno, soy sauce, black pepper, and smoked paprika. Mix well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated beef heart pieces onto bamboo skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Serve the anticuchos hot, garnished with additional hot pepper slices if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-peruvian-bamboo-shoot-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:25:21.303Z"
+}
