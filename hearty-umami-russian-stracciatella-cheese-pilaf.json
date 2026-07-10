@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-umami-russian-stracciatella-cheese-pilaf",
+  "title": "Russian Pilaf with Umami Cheese",
+  "description": "A hearty Russian-inspired pilaf dish infused with umami flavors and topped with melted stracciatella cheese.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stracciatella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "umami-rich"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Sauté chopped onion and minced garlic until softened, about 3-4 minutes.",
+    "Add sliced mushrooms and cook until they release their moisture and start browning, about 5 minutes.",
+    "Add tomato paste and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Stir in cooked pilaf and cook for about 2-3 minutes, until the pilaf is well coated with the umami sauce.",
+    "Transfer the pilaf mixture to a serving dish.",
+    "Top with shredded stracciatella cheese and place under the broiler until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "vegetarian",
+    "cheese",
+    "pilaf",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-russian-stracciatella-cheese-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:14:17.827Z"
+}
