@@ -1,0 +1,57 @@
+{
+  "slug": "herbal-zest-chicken",
+  "title": "Herbed Lemon Chicken",
+  "description": "A flavorful and aromatic dish featuring chicken breasts infused with the brightness of lemon zest and the earthiness of herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "fresh herbs (such as thyme, rosemary, or oregano)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breasts and pat them dry with paper towels.",
+    "In a small bowl, mix together the chopped herbs and lemon zest.",
+    "Season the chicken breasts with salt and pepper.",
+    "Rub the herb-lemon mixture all over the chicken breasts, making sure they're evenly coated.",
+    "Place the chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake the chicken in the preheated oven for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbs",
+    "lemon",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 37,
+    "carbs": 0,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-zest-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:34:30.576Z"
+}
