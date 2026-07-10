@@ -1,0 +1,77 @@
+{
+  "slug": "healing-herbal-kenyan-chicken-wrap",
+  "title": "Kenyan Chicken Wrap",
+  "description": "A flavorful and healthy wrap filled with marinated chicken, herbs, and Kenyan spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "healthy",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "kenyan mix of herbs",
+      "amount": "2 tsp",
+      "notes": "such as thyme, rosemary, and oregano"
+    },
+    {
+      "name": "healing turmeric",
+      "amount": "1 tsp",
+      "notes": "for inflammation"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "2 cups",
+      "notes": "for marinating"
+    },
+    {
+      "name": "whole wheat wrap",
+      "amount": "1",
+      "notes": "large, for serving"
+    },
+    {
+      "name": "wrap sauce",
+      "amount": "2 tbsp",
+      "notes": "such as hummus or tzatziki"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in herbal tea, kenyan mix of herbs, and healing turmeric for at least 30 minutes.",
+    "Grill or bake the chicken until cooked through, reaching a safe internal temperature of 165°F.",
+    "Warm the whole wheat wrap in the oven or in a dry pan.",
+    "Assemble the wrap by spreading the wrap sauce on the wrap, followed by sliced grilled chicken, chopped cilantro, and any other desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "kenyan",
+    "chicken",
+    "wrap",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healing-herbal-kenyan-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T19:52:33.972Z"
+}
