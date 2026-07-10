@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-smoky-russian-cheese-grill",
+  "title": "Smoky Russian Cheese Fritters",
+  "description": "A hearty and flavorful appetizer inspired by Russian cuisine, these fritters are packed with smoky cheese and perfect for a grill party.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russian cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated cheese, smoked paprika, and a pinch of salt.",
+    "In a separate bowl, whisk together the eggs, milk, and a pinch of salt.",
+    "Add the flour and bread crumbs to the egg mixture and stir until just combined.",
+    "Add the chopped onion to the egg mixture and stir until just combined.",
+    "Add the egg mixture to the cheese mixture and stir until just combined.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat a non-stick skillet over medium heat and add a small amount of oil.",
+    "When the oil is hot, add the fritters and cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "Transfer the fritters to a plate and serve hot.",
+    "Optional: Grill the fritters for an extra crispy exterior and smoky flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "cheese",
+    "fritters",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-russian-cheese-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:22:16.575Z"
+}
