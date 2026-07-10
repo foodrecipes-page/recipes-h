@@ -1,0 +1,69 @@
+{
+  "slug": "hearty-light-french-burrata-tarte-tatin",
+  "title": "French Tarte Tatin",
+  "description": "A classic French dessert made with caramelized apples and a buttery pastry crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "3-4",
+      "notes": "Granny Smith or other firm variety"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel, core, and halve the apples. In a large bowl, combine the apples, cinnamon, nutmeg, and sugar. Let it sit for 15 minutes, until the apples start to release their juice.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch. Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "Arrange the apple mixture in the center of the pastry, leaving a 1-inch border around the edges. Dot the top of the apples with the butter.",
+    "Fold the edges of the pastry up over the apples, pressing gently to seal. Crimp the edges to form a decorative border.",
+    "Bake the tarte for 25-30 minutes, until the pastry is golden brown and the apples are tender.",
+    "Remove the tarte from the oven and let it cool for 10 minutes. Invert the tarte onto a serving plate and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "pastry",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-light-french-burrata-tarte-tatin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:41:51.549Z"
+}
