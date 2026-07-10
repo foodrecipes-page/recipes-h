@@ -1,0 +1,83 @@
+{
+  "slug": "herbed-saudi-arabian-lamb-roast",
+  "title": "Saudi Arabian Roast Lamb",
+  "description": "A flavorful and aromatic dish inspired by Saudi Arabian cuisine, featuring a deliciously seasoned roast lamb.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Herbed Lamb Shoulder",
+      "amount": "1 (1.5-2 kg)",
+      "notes": "Ask your butcher to have it prepared with the herbs"
+    },
+    {
+      "name": "Roast",
+      "amount": "2 tbsp",
+      "notes": "Middle Eastern-style roast"
+    },
+    {
+      "name": "Arabian Spices",
+      "amount": "2 tbsp",
+      "notes": "Mix of cumin, coriander, cinnamon, cardamom, and black pepper"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the lamb"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, and Arabian Spices.",
+    "Add the lamb shoulder to the marinade, turning to coat evenly. Cover and refrigerate for at least 2 hours or overnight.",
+    "Remove the lamb from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Place the lamb on a roasting pan and rub the roast all over the lamb.",
+    "Roast the lamb in the preheated oven for 20 minutes per kilogram, or until it reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let the lamb rest for 15 minutes before slicing and serving.",
+    "Garnish with chopped parsley and serve with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "roast",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 0,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbed-saudi-arabian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:15:33.320Z"
+}
