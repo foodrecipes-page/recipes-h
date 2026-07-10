@@ -640,17 +640,14 @@
   },
   {
     "slug": "hangover-healing-turkish-cheese-pilaf",
-    "title": "Turkish Hangover-healing Cheese Pilaf",
+    "title": "Healing Turkish Pilaf",
     "tags": [
-      "cheese-pull",
-      "hangover-cure",
-      "iron-teppan",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight"
+      "healing",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -12808,14 +12805,14 @@
   },
   {
     "slug": "herbal-chewy-uruguayan-pistachio-empanadas",
-    "title": "Chewy Herbal Uruguayan Pistachio Empanadas",
+    "title": "Uruguayan Empanadas with Pistachio and Herbal Filling",
     "tags": [
+      "empanadas",
       "uruguayan",
-      "empanada",
       "pistachio",
       "herbal",
-      "snack",
-      "halal"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
@@ -14072,17 +14069,15 @@
   },
   {
     "slug": "herbed-saudi-arabian-lamb-roast",
-    "title": "Herbed Saudi Arabian Lamb Roast",
+    "title": "Saudi Arabian Roast Lamb",
     "tags": [
-      "cozy",
-      "herbed-lamb",
-      "roast",
       "saudi-arabian",
-      "smoky",
-      "whole30"
+      "lamb",
+      "roast",
+      "meat"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
