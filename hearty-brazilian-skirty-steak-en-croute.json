@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-brazilian-skirty-steak-en-croute",
+  "title": "Brazilian Steak with Croute Crust",
+  "description": "A flavorful Brazilian-inspired steak dish with a crispy croute crust. Perfect for a hearty dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirty steak",
+      "amount": "1 lb",
+      "notes": "preferably skirt steak"
+    },
+    {
+      "name": "croute (gluten-free crackers or bread)",
+      "amount": "1 cup",
+      "notes": "crushed or crushed and mixed with butter"
+    },
+    {
+      "name": "en paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the steak"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the steak with salt, pepper, and garlic powder.",
+    "Heat olive oil in a skillet over high heat. Sear the steak for 2-3 minutes on each side.",
+    "Transfer the steak to a baking sheet and top with crushed croute.",
+    "Bake in the preheated oven for 10-12 minutes or until the croute is golden brown and the steak reaches your desired level of doneness.",
+    "Let the steak rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "brazilian",
+    "heart-healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-brazilian-skirty-steak-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:48:31.819Z"
+}
