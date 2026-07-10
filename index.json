@@ -3735,17 +3735,15 @@
   },
   {
     "slug": "hearty-dense-syrian-lamb-kebabs",
-    "title": "Hearty Dense Syrian Lamb Kebabs",
+    "title": "Syrian-Style Lamb Kebabs",
     "tags": [
-      "grilling",
-      "lamb-recipes",
-      "low-glycemic",
-      "middle-eastern",
-      "syrian-cuisine",
-      "tandoor-cooking"
+      "lamb",
+      "kebab",
+      "syrian",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 36,
     "shard": "h"
   },
   {
@@ -9811,13 +9809,12 @@
   },
   {
     "slug": "hearty-spanish-chicken-paella",
-    "title": "Hearty Spanish Chicken Paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "dinner",
-      "high-protein",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "chicken",
+      "paella",
+      "one-pot"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
@@ -9961,16 +9958,15 @@
   },
   {
     "slug": "hearty-spicy-egyptian-minari-tagine",
-    "title": "Hearty Spicy Egyptian Minari Tagine",
+    "title": "Egyptian Minari Tagine",
     "tags": [
-      "comfort-food",
-      "north-african",
-      "one-pot",
       "spicy",
-      "vegetarian"
+      "hearty",
+      "egyptian",
+      "minari"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -13991,16 +13987,14 @@
   },
   {
     "slug": "herbal-zest-chicken",
-    "title": "Herbal Zest Chicken",
+    "title": "Herbed Lemon Chicken",
     "tags": [
-      "herbal",
-      "light",
-      "hangover-cure",
-      "syrian",
-      "nut-free-friendly"
+      "herbs",
+      "lemon",
+      "chicken"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
