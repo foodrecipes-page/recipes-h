@@ -862,17 +862,15 @@
   },
   {
     "slug": "harsh-spanish-turkey-tagine",
-    "title": "Harsh Spanish Turkey Tagine",
+    "title": "Traditional Moroccan Chicken Tagine",
     "tags": [
-      "adventurous",
-      "banana-leaf",
-      "gluten-free",
-      "pungent",
-      "spicy",
-      "tagine"
+      "chicken",
+      "moroccan",
+      "tagine",
+      "stew"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 105,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
