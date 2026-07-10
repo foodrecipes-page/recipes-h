@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-spicy-egyptian-minari-tagine",
+  "title": "Egyptian Minari Tagine",
+  "description": "A hearty and spicy stew originating from Egypt, featuring minari and a blend of aromatic spices, perfect for a cold winter's night.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "2 cups",
+      "notes": " cleaned and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "vegetable broth for a vegan option"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, coriander, paprika, and cayenne pepper (if using). Cook for 1 minute.",
+    "Add the minari, tomato paste, and chicken broth. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the minari is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "hearty",
+    "egyptian",
+    "minari"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-egyptian-minari-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:01:59.134Z"
+}
