@@ -1,0 +1,98 @@
+{
+  "slug": "hearty-spanish-chicken-paella",
+  "title": "Spanish Chicken Paella",
+  "description": "A traditional Spanish dish made with chicken, rice, and vegetables, cooked to perfection in a savory broth.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can, drained and chopped",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes. Remove from heat and set aside.",
+    "Add the garlic, tomato, and red bell pepper to the pan and cook until the vegetables are tender, about 5 minutes.",
+    "Add the smoked paprika, artichoke hearts, chicken broth, salt, and black pepper to the pan and stir to combine.",
+    "Add the rice to the pan and stir to coat with the vegetable mixture.",
+    "Add the cooked chicken back to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chicken",
+    "paella",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:24:48.636Z"
+}
