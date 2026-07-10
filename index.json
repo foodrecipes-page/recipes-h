@@ -5853,17 +5853,15 @@
   },
   {
     "slug": "hearty-homemade-venezuelan-sauerkraut-empanadas",
-    "title": "Hearty Homemade Venezuelan Sauerkraut Empanadas",
+    "title": "Venezuelan Empanada Stew",
     "tags": [
-      "diabetic-friendly",
-      "empanadas",
-      "gluten-free",
-      "homemade",
-      "sauerkraut",
-      "venezuelan"
+      "stew",
+      "empanada",
+      "venezuelan",
+      "comfort-food"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -8363,17 +8361,14 @@
   },
   {
     "slug": "hearty-russian-beef-pilaf",
-    "title": "Hearty Russian Beef Pilaf",
+    "title": "Beef Pilaf",
     "tags": [
-      "ayurvedic-friendly",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "russian-cuisine",
-      "sattvic-diet"
+      "beef",
+      "pilaf",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -9464,17 +9459,15 @@
   },
   {
     "slug": "hearty-smoky-russian-cheese-grill",
-    "title": "Hearty Smoky Russian Cheese Grill",
+    "title": "Smoky Russian Cheese Fritters",
     "tags": [
-      "grilled-cheese",
-      "one-pan",
-      "russian-cuisine",
-      "smoky",
-      "vegetarian",
-      "weeknight"
+      "russian",
+      "cheese",
+      "fritters",
+      "grill"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 16,
+    "cuisine": "russian",
+    "totalTimeMin": 23,
     "shard": "h"
   },
   {
@@ -9639,17 +9632,16 @@
   },
   {
     "slug": "hearty-snappy-croatian-prawns-skewers",
-    "title": "Hearty Snappy Croatian Prawns Skewers",
+    "title": "Croatian-Style Prawn Skewers",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "mediterranean",
-      "seafood",
+      "croatian",
+      "prawns",
       "skewers",
-      "weeknight"
+      "grilled",
+      "healthy"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 60,
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -9740,17 +9732,14 @@
   },
   {
     "slug": "hearty-sour-syrian-leek-wrap",
-    "title": "Hearty Sour Syrian Leek Wrap",
+    "title": "Syrian Beef Wrap",
     "tags": [
-      "lacto-vegetarian",
-      "lazy-sunday",
-      "leek-recipes",
-      "middle-eastern",
-      "syrian-cuisine",
-      "wrap-recipes"
+      "beef",
+      "wrap",
+      "syrian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -15008,16 +14997,14 @@
   },
   {
     "slug": "honeyed-indian-figs-kheer",
-    "title": "Honeyed Indian Figs Kheer",
+    "title": "Indian Figs Kheer",
     "tags": [
-      "comforting",
+      "dessert",
       "indian",
-      "one-pot",
-      "raw-friendly",
-      "weeknight"
+      "sweet"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
