@@ -3978,18 +3978,14 @@
   },
   {
     "slug": "hearty-ethiopian-cherry-tomatoes-azifa",
-    "title": "Hearty Ethiopian Cherry Tomatoes Azifa",
+    "title": "Azifa Stuffed Cherry Tomatoes",
     "tags": [
-      "ethiopian-cuisine",
-      "gluten-free",
-      "healthy",
-      "quick",
-      "shojin-friendly",
+      "ethiopian",
       "vegan",
-      "vegetarian"
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -5019,17 +5015,17 @@
   },
   {
     "slug": "hearty-greek-celeriac-skillet",
-    "title": "Hearty Greek Celeriac Skillet",
+    "title": "Pan-Seared Celeriac Steak with Skillet Hash",
     "tags": [
-      "gluten-free",
-      "greek",
-      "hearty",
-      "one-pan",
-      "plant-based",
-      "vegan"
+      "celeriac",
+      "pan-seared",
+      "skillet-hash",
+      "greek-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -9687,16 +9683,15 @@
   },
   {
     "slug": "hearty-sour-kenyan-chicken-stew",
-    "title": "Hearty Sour Kenyan Chicken Stew",
+    "title": "Kenyan Chicken Stew",
     "tags": [
-      "hearty-stew",
-      "kenyan-cuisine",
-      "low-sodium",
-      "meal-prep",
-      "sous-vide"
+      "chicken",
+      "stew",
+      "kenyan",
+      "sour"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15859,17 +15854,16 @@
   },
   {
     "slug": "hot-smoky-mexican-beans-tacos",
-    "title": "Hot Smoky Mexican Beans Tacos",
+    "title": "Smoky Bean Tacos",
     "tags": [
-      "beans",
-      "comfort-food",
-      "lunch",
       "mexican",
-      "smoked-paprika",
-      "tacos"
+      "beans",
+      "tacos",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
