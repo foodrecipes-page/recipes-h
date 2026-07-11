@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-sour-kenyan-chicken-stew",
+  "title": "Kenyan Chicken Stew",
+  "description": "A hearty and flavorful chicken stew with a sour twist, inspired by Kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "kenyan stew spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most African markets"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomatoes and cook for 2 minutes.",
+    "Stir in the kenyan stew spice mix and cook for 1 minute.",
+    "Add 1 cup of chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "kenyan",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sour-kenyan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:08:41.797Z"
+}
