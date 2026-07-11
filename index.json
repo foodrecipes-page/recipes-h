@@ -9360,17 +9360,13 @@
   },
   {
     "slug": "hearty-smoky-kenyan-epoisses-grill",
-    "title": "Hearty Smoky Kenyan Epoisses Grill",
+    "title": "Grilled Kenyan Skewers with Smoky BBQ Sauce",
     "tags": [
-      "cheesy",
-      "funky",
-      "grilled",
-      "kenyan",
-      "lazy-sunday",
-      "smoky"
+      "grill",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 42,
     "shard": "h"
   },
   {
@@ -10685,16 +10681,15 @@
   },
   {
     "slug": "hearty-turkish-lamb-stew",
-    "title": "Hearty Turkish Lamb Stew",
+    "title": "Lamb Turkish Stew",
     "tags": [
-      "comfort-food",
-      "familys-dinner",
-      "halal-friendly",
-      "lamb-stew",
-      "slow-cook"
+      "lamb",
+      "turkish",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 135,
+    "totalTimeMin": 120,
     "shard": "h"
   },
   {
