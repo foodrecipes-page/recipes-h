@@ -161,17 +161,15 @@
   },
   {
     "slug": "halal-heavy-german-fish-bisque",
-    "title": "Thai-Bird-Chili Halal-German Fish Bisque",
+    "title": "German Fish Bisque",
     "tags": [
-      "bisque-recipe",
-      "comfort-food",
-      "date-night-dinner",
-      "fish-recipe",
-      "german-inspired",
-      "halal-friendly",
-      "one-pot-meal"
+      "german",
+      "fish",
+      "bisque",
+      "soup",
+      "lunch"
     ],
-    "cuisine": "German",
+    "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "h"
   },
@@ -8196,16 +8194,15 @@
   },
   {
     "slug": "hearty-roasted-indian-lentil-dal",
-    "title": "Hearty Roasted Indian Lentil Dal",
+    "title": "Hearty Lentil Dal",
     "tags": [
-      "comfort-food",
-      "indian-cuisine",
-      "lentil-recipes",
-      "one-pot-meals",
-      "vegetarian-dishes"
+      "indian",
+      "vegetarian",
+      "gluten-free",
+      "lentils"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
