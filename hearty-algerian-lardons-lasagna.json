@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-algerian-lardons-lasagna",
+  "title": "Algerian Lasagna",
+  "description": "A hearty take on the classic Italian dish, infused with the bold flavors of Algerian cuisine. Perfect for a cold winter night.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "hearty tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, cook the lardons over medium heat until browned.",
+    "Add the Algerian spice blend to the skillet and cook for 1 minute.",
+    "Stir in the tomato sauce and bring to a simmer.",
+    "In a large mixing bowl, combine the ricotta cheese, eggs, salt, and black pepper.",
+    "Spread a layer of the tomato sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the parmesan cheese.",
+    "Repeat the layers, starting with the noodles, then the tomato sauce, the ricotta cheese mixture, and finally the remaining parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "algerian-cuisine",
+    "hearty",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-algerian-lardons-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:50:25.486Z"
+}
