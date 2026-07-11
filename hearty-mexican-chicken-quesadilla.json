@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-mexican-chicken-quesadilla",
+  "title": "Chicken Quesadilla",
+  "description": "A classic mexican dish filled with shredded chicken and melted cheese, served with a side of salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the cumin and paprika to the skillet and cook for 1 minute.",
+    "Add the chopped onion and bell pepper to the skillet and cook until softened.",
+    "Add the shredded chicken to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "In a large bowl, combine the tortillas and shredded cheese.",
+    "Place a large skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle with shredded cheese and chicken mixture.",
+    "Fold the tortilla in half and cook for 2-3 minutes, until the cheese is melted and the tortilla is crispy.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and filling.",
+    "Serve the quesadillas hot with a side of salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mexican-chicken-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:16:42.190Z"
+}
