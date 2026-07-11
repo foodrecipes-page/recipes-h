@@ -1,0 +1,89 @@
+{
+  "slug": "hot-smoky-mexican-beans-tacos",
+  "title": "Smoky Bean Tacos",
+  "description": "A flavorful and spicy taco recipe featuring smoky beans, perfect for a quick dinner or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canned black beans, drained and rinsed",
+      "amount": "1 (15 ounce) can",
+      "notes": "Look for low-sodium beans"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1-2 teaspoons",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "1 packet (or homemade mix)",
+      "notes": "Can be adjusted to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Avocado or guacamole (optional)",
+      "amount": "",
+      "notes": "For added creaminess"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "",
+      "notes": "Corn or flour, as preferred"
+    },
+    {
+      "name": "Shredded cheese (optional)",
+      "amount": "",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Cilantro (chopped)",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium pan, heat 1 tablespoon of oil over medium heat.",
+    "Add the smoked paprika and cook for 1-2 minutes, until fragrant.",
+    "Add the canned beans, taco seasoning, and hot sauce (if using).",
+    "Stir to combine, then reduce heat to low and simmer for 10-15 minutes.",
+    "While the beans are cooking, prepare your tortillas by warming them in the oven or on a dry pan.",
+    "Assemble the tacos by spooning the bean mixture onto a tortilla, followed by any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "beans",
+    "tacos",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoky-mexican-beans-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:19:33.092Z"
+}
