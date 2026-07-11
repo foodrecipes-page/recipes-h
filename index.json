@@ -7436,17 +7436,15 @@
   },
   {
     "slug": "hearty-monsoon-dutch-gruy-3re-stew",
-    "title": "Hearty Monsoon Dutch Gruy\u00132re Stew",
+    "title": "Dutch Stew with Gruyère",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
+      "beef",
+      "stew",
       "gruyere",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -13077,17 +13075,17 @@
   },
   {
     "slug": "herbal-egyptian-raspberries-tart",
-    "title": "Herbal Egyptian Raspberries Tart",
+    "title": "Egyptian Herbal Tart with Raspberry Topping",
     "tags": [
-      "dessert",
+      "raspberry",
+      "tart",
       "herbal",
-      "lemon",
-      "plant-based",
-      "raspberries",
-      "tart"
+      "dessert",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
