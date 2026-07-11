@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-velvety-british-tofu-full-english-bake",
+  "title": "Classic English Full Breakfast",
+  "description": "A traditional British breakfast dish featuring a variety of meats and eggs.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "Full English bread, toasted"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Button or cremini"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "Thick-cut, cooked until crispy"
+    },
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "Pork or vegetarian options"
+    },
+    {
+      "name": "Black Pudding",
+      "amount": "4 slices",
+      "notes": "Cooked until browned"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Poached or fried"
+    },
+    {
+      "name": "Baked Beans",
+      "amount": "1 cup",
+      "notes": "Heated according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the sausages and bacon in a pan over medium-high heat until browned.",
+    "Add the sliced mushrooms to the pan and cook until tender.",
+    "Add the black pudding to the pan and cook until browned.",
+    "Toast the bread until lightly browned.",
+    "Poach the eggs in a separate pot of simmering water.",
+    "Assemble the breakfast plates with the cooked meats, mushrooms, and eggs.",
+    "Serve the baked beans on the side.",
+    "Place the toasted bread on the plate and top with the tofu.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "english",
+    "full-english"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-british-tofu-full-english-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:15:09.795Z"
+}
