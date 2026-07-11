@@ -1,0 +1,66 @@
+{
+  "slug": "herbal-argentinian-pak-choi-toast",
+  "title": "Argentinian Toast with Roasted Pak Choi and Herbal Salsa",
+  "description": "A hearty and flavorful breakfast or snack featuring toasted bread topped with roasted pak choy, a zesty herbal salsa, and a sprinkle of argentinian herbs.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Argentinian herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pak choy",
+      "amount": "2 heads",
+      "notes": "stemmed and chopped"
+    },
+    {
+      "name": "Herbs (such as parsley or oregano)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the chopped pak choy with olive oil and season with salt and pepper.",
+    "Roast the pak choy in the preheated oven for 10-12 minutes, or until tender and slightly caramelized.",
+    "Meanwhile, toast the bread slices until lightly browned.",
+    "In a small bowl, mix together the chopped argentinian herbs, herbs, and a squeeze of lemon juice.",
+    "To assemble the dish, top each toasted bread slice with roasted pak choy, a dollop of herbal salsa, and a sprinkle of argentinian herbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-argentinian-pak-choi-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:51:16.195Z"
+}
