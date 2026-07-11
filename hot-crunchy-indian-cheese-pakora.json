@@ -1,0 +1,75 @@
+{
+  "slug": "hot-crunchy-indian-cheese-pakora",
+  "title": "Indian-Style Crunchy Pakora",
+  "description": "A crispy and flavorful Indian snack made with a variety of ingredients. Enjoy with a warm cup of chai.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pakora Mix (available at most Indian grocery stores)",
+      "amount": "1 cup",
+      "notes": "You can also make your own mix using a combination of flour, cornstarch, and spices"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": "For frying the pakora"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Hot Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For an extra kick (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan over medium-high heat.",
+    "Once the oil is hot, add a small piece of pakora mix to test the temperature.",
+    "If it sizzles and rises to the surface, it's ready to fry.",
+    "Add the sliced onion and potato to the oil and fry until they are golden brown.",
+    "Remove the onion and potato from the oil with a slotted spoon and set aside.",
+    "Add the shredded cheese to the oil and fry until it's melted and crispy.",
+    "Add the fried onion and potato back to the oil and stir well.",
+    "Add the hot sauce (if using) and stir well.",
+    "Using a slotted spoon, remove the pakora from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the pakora hot with a side of warm chai or your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "cheese",
+    "pakora"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crunchy-indian-cheese-pakora",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:54:07.782Z"
+}
