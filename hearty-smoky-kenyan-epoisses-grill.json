@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-smoky-kenyan-epoisses-grill",
+  "title": "Grilled Kenyan Skewers with Smoky BBQ Sauce",
+  "description": "A flavorful and aromatic skewer dish inspired by Kenyan cuisine, with a smoky BBQ sauce to add a sweet and tangy twist.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g",
+      "notes": "preferably ribeye or sirloin"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing grill"
+    },
+    {
+      "name": "Smoky BBQ sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef strips, onion, bell pepper, and tomato onto skewers.",
+    "In a small bowl, mix together smoked paprika and olive oil.",
+    "Brush skewers with the paprika mixture, then season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally, or until beef is cooked to your desired level of doneness.",
+    "While skewers are cooking, heat smoky BBQ sauce in a small saucepan over low heat.",
+    "Once skewers are done, brush with smoky BBQ sauce and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-kenyan-epoisses-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:12:08.759Z"
+}
