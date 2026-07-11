@@ -1,0 +1,104 @@
+{
+  "slug": "hearty-venezuelan-oxtail-stew",
+  "title": "Venezuelan Oxtail Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with fall-off-the-bone tender oxtail and a rich, aromatic broth.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "comfort-food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the oxtail pieces on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set aside.",
+    "Add the onion, garlic, cumin, coriander, chili powder, salt, and pepper to the pot.",
+    "Cook, stirring occasionally, until the onion is softened and the spices are fragrant, about 5 minutes.",
+    "Add the red wine (if using) to the pot and cook until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Return the oxtail to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the oxtail in the preheated oven for 2 1/2 to 3 hours, or until the meat is tender and falls off the bone.",
+    "About 30 minutes before serving, add the potatoes to the pot and continue to braise until they are tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Skim off any excess fat from the surface of the stew.",
+    "Stir in the chopped fresh cilantro (if using)."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "stew",
+    "beef",
+    "latin-american",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-venezuelan-oxtail-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:45:22.607Z"
+}
