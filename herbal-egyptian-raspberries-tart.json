@@ -1,0 +1,78 @@
+{
+  "slug": "herbal-egyptian-raspberries-tart",
+  "title": "Egyptian Herbal Tart with Raspberry Topping",
+  "description": "A sweet and tangy dessert featuring a flaky Egyptian pastry crust, topped with a tart raspberry filling and infused with herbal notes.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Egyptian pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Raspberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Dried herbs (such as lavender or rose petals)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Egyptian pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Trim the edges and press the dough into the corners of the pan.",
+    "In a separate bowl, mix together the raspberries, granulated sugar, honey, and dried herbs.",
+    "Pour the raspberry mixture into the pastry-lined tart pan.",
+    "Dot the top of the filling with the softened butter.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "raspberry",
+    "tart",
+    "herbal",
+    "dessert",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-egyptian-raspberries-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:19:07.712Z"
+}
