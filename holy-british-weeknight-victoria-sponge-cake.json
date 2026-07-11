@@ -1,0 +1,81 @@
+{
+  "slug": "holy-british-weeknight-victoria-sponge-cake",
+  "title": "Classic Victoria Sponge Cake",
+  "description": "A traditional British dessert consisting of two light, fluffy sponge cakes sandwiched together with jam and buttercream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "200g",
+      "notes": "Softened"
+    },
+    {
+      "name": "Self-raising flour",
+      "amount": "200g",
+      "notes": "Sifted"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g",
+      "notes": "Softened"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "High-quality"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Buttercream",
+      "amount": "1 cup",
+      "notes": "Ingredients: butter, sugar, milk"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F). Grease and flour two 20cm (8 inch) round cake pans.",
+    "In a large mixing bowl, whisk together eggs, sugar, and vanilla extract until light and fluffy.",
+    "Sift in flour and gently fold until combined.",
+    "Add softened butter and mix until the batter is smooth.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, spread a layer of raspberry jam on top of one of the cakes.",
+    "Place the second cake on top and dust with powdered sugar.",
+    "Frost the top and sides of the cake with buttercream and decorate as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cake",
+    "weeknight",
+    "sponge",
+    "victoria"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "40g",
+    "fat": "16g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/holy-british-weeknight-victoria-sponge-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:44:05.146Z"
+}
