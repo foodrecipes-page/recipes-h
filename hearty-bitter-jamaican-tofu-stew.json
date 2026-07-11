@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-bitter-jamaican-tofu-stew",
+  "title": "Jamaican Stew",
+  "description": "A hearty and flavorful stew made with Jamaican spices, tofu, and a medley of vegetables.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican Stew Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium (peeled and chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium (peeled and chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 medium (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Bitter",
+      "amount": "2 tbsp (bitter melon, finely chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onions, bell peppers, and bitter melon. Cook until vegetables are tender.",
+    "Add tomatoes, potatoes, carrots, and stew blend. Stir to combine.",
+    "Add water, tofu, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped herbs if desired.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "caribbean",
+    "vegetarian",
+    "lent-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-bitter-jamaican-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:36.594Z"
+}
