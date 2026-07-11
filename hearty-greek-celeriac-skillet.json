@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-greek-celeriac-skillet",
+  "title": "Pan-Seared Celeriac Steak with Skillet Hash",
+  "description": "A hearty recipe that combines pan-seared celeriac with a crispy skillet hash, inspired by Greek cuisine.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": "peeled and sliced into 1-inch thick steaks"
+    },
+    {
+      "name": "skillet hash",
+      "amount": "2 cups",
+      "notes": "see notes for ingredients"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the celeriac steaks with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Sear the celeriac steaks for 3-4 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until tender.",
+    "While the celeriac is cooking, prepare the skillet hash by mixing together diced potatoes, onions, and bell peppers.",
+    "Heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the diced potatoes, onions, and bell peppers to the skillet and cook for 10-12 minutes, stirring occasionally, until crispy and golden brown.",
+    "Add the cooked celeriac steaks to the skillet with the hash and toss to combine.",
+    "Squeeze the lemon juice over the top and sprinkle with minced garlic.",
+    "Serve the pan-seared celeriac steak with skillet hash hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "pan-seared",
+    "skillet-hash",
+    "greek-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-greek-celeriac-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T15:08:41.688Z"
+}
