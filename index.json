@@ -2089,16 +2089,16 @@
   },
   {
     "slug": "hearty-bitter-jamaican-tofu-stew",
-    "title": "Hearty Bitter Jamaican Tofu Stew",
+    "title": "Jamaican Stew",
     "tags": [
-      "caribbean-inspired",
-      "high-protein",
-      "one-pot",
-      "vegan-friendly",
-      "weeknight"
+      "jamaican",
+      "stew",
+      "caribbean",
+      "vegetarian",
+      "lent-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -7391,17 +7391,16 @@
   },
   {
     "slug": "hearty-molten-thai-flax-eggs-bowl",
-    "title": "Hearty Molten Thai Flax Eggs Bowl",
+    "title": "Thai-Style Flax Omelette",
     "tags": [
-      "hearty",
-      "high-protein",
-      "one-pan",
+      "breakfast",
+      "vegetarian",
+      "omelette",
       "thai",
-      "vegan",
-      "weeknight"
+      "flax"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 13,
     "shard": "h"
   },
   {
@@ -11060,18 +11059,14 @@
   },
   {
     "slug": "hearty-velvety-british-tofu-full-english-bake",
-    "title": "Hearty Velvety British Tofu Full English Bake",
+    "title": "Classic English Full Breakfast",
     "tags": [
-      "baked",
-      "cast-iron",
-      "full-english",
-      "one-pan",
-      "shojin",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "english",
+      "full-english"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15799,16 +15794,14 @@
   },
   {
     "slug": "hot-smoked-vietnamese-bresaola-bun-thit-nuong",
-    "title": "Hot Smoked Vietnamese Bresaola Bun Thit Nuong",
+    "title": "Vietnamese-Style Pork Banh Mi",
     "tags": [
-      "romantic-dinner",
-      "satvik-friendly",
-      "smoked-meat",
-      "special-occasion",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "pork",
+      "banh-mi"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 270,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
