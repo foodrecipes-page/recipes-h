@@ -1715,15 +1715,12 @@
   },
   {
     "slug": "hearty-algerian-lardons-lasagna",
-    "title": "Hearty Algerian Lardons Lasagna",
+    "title": "Algerian Lasagna",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "date-night",
-      "lardons",
       "lasagna",
-      "low-calorie",
-      "rich-dish"
+      "algerian-cuisine",
+      "hearty",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 60,
@@ -7154,17 +7151,14 @@
   },
   {
     "slug": "hearty-mexican-chicken-quesadilla",
-    "title": "Hearty Mexican Chicken Quesadilla",
+    "title": "Chicken Quesadilla",
     "tags": [
-      "cheese-pull",
-      "citrusy",
-      "comfort-food",
-      "gluten-free",
-      "mexican-food",
-      "sick-day"
+      "mexican",
+      "chicken",
+      "quesadilla"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -13358,17 +13352,15 @@
   },
   {
     "slug": "herbal-juicy-german-baby-pak-koi-stew",
-    "title": "Herbal Juicy German Baby Pak Koi Stew",
+    "title": "German Stew with Herbal Flair",
     "tags": [
-      "herbal",
-      "juicy",
       "german",
       "stew",
-      "sous-vide",
-      "diabetic-friendly"
+      "herbal",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 80,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
