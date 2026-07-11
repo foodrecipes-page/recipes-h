@@ -1,0 +1,65 @@
+{
+  "slug": "hearty-molten-thai-flax-eggs-bowl",
+  "title": "Thai-Style Flax Omelette",
+  "description": "A simple and nutritious breakfast dish filled with the flavors of Thailand. Flaxseeds add omega-3 rich goodness to this egg-based omelette.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Large eggs for a fluffy omelette"
+    },
+    {
+      "name": "flax",
+      "amount": "1 tablespoon",
+      "notes": "Ground flaxseed for a nutty flavor and omega-3 boost"
+    },
+    {
+      "name": "thai",
+      "amount": "1 tablespoon",
+      "notes": "Thai red curry paste for a spicy kick"
+    },
+    {
+      "name": "heart",
+      "amount": "1/4 cup",
+      "notes": "Diced heart of palm for added texture"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Add the ground flaxseed and whisk until well combined.",
+    "Heat a non-stick pan over medium heat and add the Thai red curry paste.",
+    "Cook for 1-2 minutes until fragrant.",
+    "Pour in the egg mixture and let it cook for 1-2 minutes until the edges start to set.",
+    "Add the diced heart of palm and fold the omelette in half.",
+    "Cook for another 1-2 minutes until the cheese is melted and the omelette is cooked through.",
+    "Slide the omelette onto a plate and serve hot.",
+    "Garnish with fresh herbs or chilies for added flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "omelette",
+    "thai",
+    "flax"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-molten-thai-flax-eggs-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:15:12.693Z"
+}
