@@ -14517,17 +14517,16 @@
   },
   {
     "slug": "holy-british-weeknight-victoria-sponge-cake",
-    "title": "Holy British Weeknight Victoria Sponge Cake",
+    "title": "Classic Victoria Sponge Cake",
     "tags": [
       "british",
-      "deep-fried",
-      "dessert",
-      "jalapeno",
-      "kosher",
-      "weeknight"
+      "cake",
+      "weeknight",
+      "sponge",
+      "victoria"
     ],
     "cuisine": "British",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15513,17 +15512,16 @@
   },
   {
     "slug": "hot-gooey-japanese-rocket-yakitori",
-    "title": "Hot Gooey Japanese Rocket Yakitori",
+    "title": "Yakitori-Style Chicken Skewers with Gooey Sauce",
     "tags": [
-      "fermented-food",
-      "gluten-free",
-      "grilled-vegetables",
-      "japanese-cuisine",
-      "kyushu-specialty",
-      "romantic-dinner"
+      "grilled",
+      "chicken",
+      "japanese",
+      "skewers",
+      "yakitori"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 130,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
