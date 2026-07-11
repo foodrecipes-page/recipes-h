@@ -1,0 +1,83 @@
+{
+  "slug": "hot-smoked-vietnamese-bresaola-bun-thit-nuong",
+  "title": "Vietnamese-Style Pork Banh Mi",
+  "description": "A flavorful banh mi sandwich filled with grilled pork, pickled vegetables, and fresh herbs, inspired by Vietnamese cuisine.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Hot",
+      "amount": "1/4 cup, sriracha mayo"
+    },
+    {
+      "name": "Nuong",
+      "amount": "1 lb, thinly sliced pork shoulder"
+    },
+    {
+      "name": "Bun",
+      "amount": "4-6, French baguette"
+    },
+    {
+      "name": "Thit",
+      "amount": "1/2 cup, pickled carrots and daikon"
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "1/4 cup, chopped cilantro"
+    },
+    {
+      "name": "Smoked",
+      "amount": "1 tsp, five-spice powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork shoulder with salt, pepper, and five-spice powder.",
+    "Grill pork for 5-7 minutes per side, or until cooked through.",
+    "Let pork rest for 5 minutes before slicing into thin strips.",
+    "Toast baguette by grilling for 2-3 minutes per side.",
+    "Spread sriracha mayo on toasted baguette.",
+    "Add sliced pork, pickled carrots and daikon, cilantro, and bresaola on baguette.",
+    "Drizzle with hoisin sauce.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "banh-mi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-vietnamese-bresaola-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:17.099Z"
+}
