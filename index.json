@@ -11250,17 +11250,15 @@
   },
   {
     "slug": "hearty-venezuelan-oxtail-stew",
-    "title": "Hearty Venezuelan Oxtail Stew",
+    "title": "Venezuelan Oxtail Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "oxtail-recipes",
-      "plant-based-options",
-      "slow-cooker",
-      "venezuelan-cuisine"
+      "stew",
+      "beef",
+      "latin-american",
+      "comfort-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 240,
     "shard": "h"
   },
   {
