@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-turkish-lamb-stew",
+  "title": "Lamb Turkish Stew",
+  "description": "A hearty, flavorful stew originating from Turkey, made with tender lamb and a variety of spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "stew"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (1.3 kg)",
+      "notes": "cut into large cubes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 (14 oz) can",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb cubes in batches, then set aside.",
+    "Add onion and garlic to the pot, cooking until softened.",
+    "Add allspice, cumin, and browned lamb to the pot, stirring to combine.",
+    "Add diced tomatoes, red wine (if using), and beef broth to the pot.",
+    "Bring the stew to a boil, then reduce heat to medium-low and simmer, covered, for 1 1/2 hours or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs (optional)"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-turkish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:23:56.266Z"
+}
