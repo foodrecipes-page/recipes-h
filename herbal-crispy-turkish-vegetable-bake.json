@@ -1,0 +1,76 @@
+{
+  "slug": "herbal-crispy-turkish-vegetable-bake",
+  "title": "Turkish-Style Vegetable Bake",
+  "description": "A flavorful and healthy vegetable bake infused with the aroma of Turkish spices. Perfect for a weeknight dinner!",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turkish spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as zucchini, bell peppers, and onions"
+    },
+    {
+      "name": "Herbal salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Baked eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, toss the mixed vegetables with 1 tablespoon of vegetable oil, Turkish spice blend, and garlic until coated.",
+    "Transfer the vegetables to a baking dish and top with crispy breadcrumbs.",
+    "In a separate bowl, mix together herbal salt and 1 tablespoon of vegetable oil.",
+    "Brush the mixture evenly over the vegetables.",
+    "Bake for 20-25 minutes or until the vegetables are tender and the breadcrumbs are golden brown.",
+    "Meanwhile, bake the eggplant in the oven for 10-12 minutes or until tender.",
+    "Once the vegetables are done, top with diced eggplant and return to the oven for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "bake",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crispy-turkish-vegetable-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:17:11.999Z"
+}
