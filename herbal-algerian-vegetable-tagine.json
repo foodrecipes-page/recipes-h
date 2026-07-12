@@ -1,0 +1,88 @@
+{
+  "slug": "herbal-algerian-vegetable-tagine",
+  "title": "Algerian Vegetable Tagine",
+  "description": "A hearty North African stew made with tender vegetables and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Algerian tagine spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay or ceramic tagine over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes and cook for 5 minutes, stirring occasionally.",
+    "Stir in the tagine spice mix and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-algerian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:13:42.671Z"
+}
