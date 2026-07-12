@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-earthy-spanish-veal-fabada-asturiana",
+  "title": "Fabada Asturiana with Pan-Seared Veal",
+  "description": "Authentic Spanish-inspired dish from the Asturias region, featuring tender veal and hearty fabada beans.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fabada asturiana beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Pimentón",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium-high heat.",
+    "Add the veal chops and sear until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the veal to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tbsp olive oil.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the soaked fabada beans, pimentón, smoked paprika, salt, and black pepper.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Return the veal chops to the skillet and simmer until heated through.",
+    "Serve the veal chops with the fabada bean mixture spooned over the top.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "lunch",
+    "veal",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-earthy-spanish-veal-fabada-asturiana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:07:06.016Z"
+}
