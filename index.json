@@ -3877,14 +3877,12 @@
   },
   {
     "slug": "hearty-earthy-spanish-veal-fabada-asturiana",
-    "title": "Hearty Earthy Spanish Veal Fabada Asturiana",
+    "title": "Fabada Asturiana with Pan-Seared Veal",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "lunch",
+      "veal",
+      "beans"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
@@ -12624,17 +12622,14 @@
   },
   {
     "slug": "herbal-algerian-vegetable-tagine",
-    "title": "Herbal Algerian Vegetable Tagine",
+    "title": "Algerian Vegetable Tagine",
     "tags": [
       "algerian",
       "vegetarian",
-      "vegan",
-      "jain",
       "stew",
-      "tagine",
-      "herbal"
+      "north-african"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "h"
   },
@@ -14372,18 +14367,14 @@
   },
   {
     "slug": "hollandish-dutch-chicken-bowl",
-    "title": "Hollandish Dutch Chicken Bowl",
+    "title": "Chicken and Hollandaise Bowl",
     "tags": [
-      "dutch",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight",
-      "whole30"
+      "chicken",
+      "hollandaise",
+      "bowl"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
