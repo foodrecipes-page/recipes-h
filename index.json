@@ -7991,15 +7991,14 @@
   },
   {
     "slug": "hearty-pottable-canadian-lentils-bake",
-    "title": "hearty canadian lentils bake",
+    "title": "Hearty Canadian Lentil Stew",
     "tags": [
-      "lentils",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "comfort-food",
+      "lentil-stew",
+      "canadian-cuisine"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 55,
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -11420,17 +11419,16 @@
   },
   {
     "slug": "hearty-woodfired-american-chicken-liver-bake",
-    "title": "Hearty Woodfired American Chicken Liver Bake",
+    "title": "Hearty Woodfired Chicken Bake",
     "tags": [
-      "american-cuisine",
-      "gluten-free",
-      "hearty-dinner",
-      "one-pan",
-      "sattvic-friendly",
-      "wood-fired"
+      "chicken",
+      "woodfired",
+      "american",
+      "bake",
+      "liver"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
