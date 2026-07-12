@@ -1,0 +1,90 @@
+{
+  "slug": "herbal-australian-chillies-bake",
+  "title": "Herbal Chilli Lamb Chops with Australian Bush Tomato Bake",
+  "description": "A delicious and aromatic lamb dish that combines the flavors of the outback with a hint of herbal freshness. The Australian bush tomato adds a sweet and tangy element to this easy-to-make recipe.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Australian Bush Tomatoes",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chillies",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together chopped oregano, thyme, garlic, and chillies.",
+    "Season the lamb chops with salt and black pepper.",
+    "Brush the lamb chops with olive oil and coat with the herbal mixture.",
+    "Place the lamb chops on a baking tray and bake for 20 minutes.",
+    "While the lamb is cooking, mix together diced Australian bush tomatoes and a pinch of salt.",
+    "Remove the lamb from the oven and top each chop with the bush tomato mixture.",
+    "Return the lamb to the oven and bake for an additional 10-15 minutes, or until cooked to your liking.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "herbal",
+    "lamb",
+    "chilli"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-australian-chillies-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:25:42.073Z"
+}
