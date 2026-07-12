@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-pottable-canadian-lentils-bake",
+  "title": "Hearty Canadian Lentil Stew",
+  "description": "A comforting, slow-cooked stew made with red lentils and a medley of hearty Canadian ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Diced Canadian bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the diced Canadian bacon over medium heat until browned.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender.",
+    "Add the red lentils, beef broth, water, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the mashed potatoes and cook for an additional 10-15 minutes, or until the potatoes are heated through.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lentil-stew",
+    "canadian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-pottable-canadian-lentils-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:06:43.362Z"
+}
