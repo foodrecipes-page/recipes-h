@@ -1,0 +1,58 @@
+{
+  "slug": "hitzzy-zingy-canh-chua-tangerine-lacquerware-bowl",
+  "title": "Hitzzy Zingy Soup",
+  "description": "A refreshing and light soup made with the unique flavors of hitzzy and zingy, perfect for a warm day.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hitzzy",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Zingy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canh",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tangerine",
+      "amount": "1/2 cup, juiced"
+    }
+  ],
+  "instructions": [
+    "Heat a large bowl over medium heat.",
+    "Add 2 cups of hitzzy and 1 cup of zingy to the bowl.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Stir in 2 cups of canh and cook for an additional 5 minutes.",
+    "Season with tangerine juice to taste.",
+    "Serve hot in individual bowls.",
+    "Garnish with additional tangerine slices, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "soup",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hitzzy-zingy-canh-chua-tangerine-lacquerware-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:33:25.586Z"
+}
