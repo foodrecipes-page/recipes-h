@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-middle-eastern-chickpeas-falafel",
+  "title": "Falafel Wrap",
+  "description": "A flavorful Middle Eastern wrap filled with crispy falafel, fresh herbs, and creamy tahini sauce.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Romaine lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tabbouleh",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the falafel and cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading a layer of tahini sauce on each pita, followed by a few pieces of falafel, some romaine lettuce, cherry tomatoes, cucumber, and a sprinkle of sumac.",
+    "Top with a dollop of tabbouleh and serve immediately.",
+    "Drizzle with additional tahini sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-middle-eastern-chickpeas-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:52:48.620Z"
+}
