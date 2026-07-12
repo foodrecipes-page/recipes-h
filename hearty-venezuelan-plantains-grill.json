@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-venezuelan-plantains-grill",
+  "title": "Grilled Plantain Empanadas",
+  "description": "A twist on traditional Venezuelan empanadas, using grilled plantains as the main filling. A delicious and hearty snack or dessert.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "Hearty All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Peel the plantains and slice them into 1-inch rounds.",
+    "2. Grill the plantain slices over medium heat until they develop a nice char and are slightly tender.",
+    "3. Preheat the oven to 375°F (190°C).",
+    "4. In a large mixing bowl, combine the flour, cheese, eggs, salt, and pepper.",
+    "5. Mix the dough ingredients until a ball forms.",
+    "6. Divide the dough into 8-10 equal pieces.",
+    "7. Roll out each piece of dough into a thin circle.",
+    "8. Place a few slices of grilled plantain in the center of each dough circle.",
+    "9. Fold the dough over the filling and press the edges to seal.",
+    "10. Brush the tops with vegetable oil and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "plantains",
+    "venezuelan",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-venezuelan-plantains-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:55:48.486Z"
+}
