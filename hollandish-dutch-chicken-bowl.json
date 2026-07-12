@@ -1,0 +1,68 @@
+{
+  "slug": "hollandish-dutch-chicken-bowl",
+  "title": "Chicken and Hollandaise Bowl",
+  "description": "A rich and creamy bowl filled with tender chicken and topped with a tangy Hollandaise sauce.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "lactose"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hollandaise sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 oz",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "large ceramic or glass"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Season the chicken breast with salt and pepper.",
+    "3. Place the chicken in the oven and bake for 12-15 minutes, or until cooked through.",
+    "4. While the chicken is cooking, warm the Hollandaise sauce in a saucepan over low heat.",
+    "5. Once the chicken is done, let it rest for a few minutes before slicing.",
+    "6. To assemble the bowl, place a slice of chicken in the bottom of the bowl.",
+    "7. Spoon the warmed Hollandaise sauce over the top of the chicken.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "hollandaise",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollandish-dutch-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:08:29.694Z"
+}
