@@ -2597,17 +2597,16 @@
   },
   {
     "slug": "hearty-char-japanese-blueberries-soba-noodles",
-    "title": "Hearty Char Japanese Blueberries Soba Noodles",
+    "title": "Soba Noodle Stir Fry",
     "tags": [
-      "dairy-free",
-      "healthy",
-      "japanese-cuisine",
-      "one-pan",
-      "quick-dinner",
+      "soba",
+      "noodle",
+      "stirfry",
+      "japanese",
       "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 16,
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
