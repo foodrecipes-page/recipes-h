@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-croatian-lamb-dumplings",
+  "title": "Lamb Dumplings",
+  "description": "A hearty Croatian dish featuring tender lamb and fluffy dumplings. This recipe is perfect for a cold winter evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bacon, diced",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "In a large skillet, cook the diced bacon over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb shoulder to the skillet and cook until browned on all sides.",
+    "Transfer the lamb to a baking dish and set aside.",
+    "In a large mixing bowl, combine the flour, eggs, milk, and a pinch of salt.",
+    "Mix the dough until smooth and elastic.",
+    "Knead the dough on a floured surface until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball of dough into a disk using a rolling pin.",
+    "Place a tablespoon of the lamb mixture onto the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with the lamb and sauce.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "lamb",
+    "dumplings",
+    "hearty",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-lamb-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:24:49.393Z"
+}
