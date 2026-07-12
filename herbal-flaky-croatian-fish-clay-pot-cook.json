@@ -1,0 +1,81 @@
+{
+  "slug": "herbal-flaky-croatian-fish-clay-pot-cook",
+  "title": "Pan-Seared Fish with Croatian Flaky Pastry",
+  "description": "A simple and flavorful fish dish paired with a traditional Croatian pastry.",
+  "cuisine": "European",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (flaky)",
+      "amount": "4",
+      "notes": "Cod or Pollock work well."
+    },
+    {
+      "name": "Croatian flaky pastry",
+      "amount": "1 sheet",
+      "notes": "Available in most European bakeries."
+    },
+    {
+      "name": "Herbal butter",
+      "amount": "1 tbsp",
+      "notes": "Chopped fresh herbs like parsley or dill work great."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the pan."
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving (optional)."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillet with salt and pepper.",
+    "In a pan, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the fish to the pan and cook for 3-4 minutes on each side.",
+    "Transfer the fish to a baking sheet and bake for an additional 8-10 minutes.",
+    "Meanwhile, roll out the Croatian flaky pastry to a thickness of about 1/8 inch.",
+    "Place the pastry on top of the fish and bake for an additional 2-3 minutes.",
+    "Remove the fish from the oven and brush with herbal butter.",
+    "Serve with lemon wedges on the side (if desired).",
+    "Enjoy your delicious Pan-Seared Fish with Croatian Flaky Pastry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "pastry",
+    "lunch",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-flaky-croatian-fish-clay-pot-cook",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:22.477Z"
+}
