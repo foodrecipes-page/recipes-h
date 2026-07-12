@@ -29,14 +29,14 @@
   },
   {
     "slug": "halal-bok-choi-glazed-delight",
-    "title": "Halal Bok Choi Glazed Delight",
+    "title": "Stir-Fried Bok Choy with Glazed Delight",
     "tags": [
-      "halal-friendly",
-      "jamaican-dish",
-      "weeknight-meals"
+      "bok-choy",
+      "stir-fry",
+      "glazed-delight"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -7175,17 +7175,15 @@
   },
   {
     "slug": "hearty-middle-eastern-chickpeas-falafel",
-    "title": "Hearty Middle Eastern Chickpeas Falafel",
+    "title": "Falafel Wrap",
     "tags": [
-      "copper-mug",
-      "crowd-pleaser",
-      "flambe",
-      "halal",
-      "middle-eastern",
-      "vegetarian"
+      "middle eastern",
+      "vegetarian",
+      "lunch",
+      "wrap"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -14341,15 +14339,14 @@
   },
   {
     "slug": "hitzzy-zingy-canh-chua-tangerine-lacquerware-bowl",
-    "title": "Hitzzy Zingy Canh Chua Tangerine Lacquerware Bowl",
+    "title": "Hitzzy Zingy Soup",
     "tags": [
-      "canh-chua",
-      "gluten-free",
-      "lacquerware-bowl",
-      "tangy"
+      "asian",
+      "soup",
+      "vegan"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
