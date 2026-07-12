@@ -1940,17 +1940,15 @@
   },
   {
     "slug": "hearty-argentinian-chicken-empanadas",
-    "title": "Hearty Argentinian Chicken Empanadas",
+    "title": "Argentinian Chicken Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "chicken-recipes",
-      "deep-fried",
-      "diabetic-friendly",
-      "empanadas",
-      "meal-prep"
+      "argentinian",
+      "empanada",
+      "chicken",
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -12120,17 +12118,15 @@
   },
   {
     "slug": "herb-infused-turkish-shrimp-wrap",
-    "title": "Herb Infused Turkish Shrimp Wrap",
+    "title": "Turkish Shrimp Wrap",
     "tags": [
-      "healthy",
-      "herb-infused",
-      "kid-friendly",
-      "lacto-vegetarian",
+      "turkish",
       "seafood",
-      "turkish-cuisine"
+      "wrap",
+      "healthy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
