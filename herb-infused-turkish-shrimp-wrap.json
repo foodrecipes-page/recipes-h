@@ -1,0 +1,85 @@
+{
+  "slug": "herb-infused-turkish-shrimp-wrap",
+  "title": "Turkish Shrimp Wrap",
+  "description": "A flavorful wrap filled with shrimp, herbs, and spices, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Infused wrap",
+      "amount": "1",
+      "notes": "flour-based, gluten-free"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Turkish herb mix",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "coarse"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Meanwhile, mix the Turkish herb mix, lemon juice, and salt in a small bowl.",
+    "Add the herb mix to the skillet with the shrimp and stir to combine.",
+    "Warm the infused wrap in the microwave or in a dry skillet for 10-15 seconds.",
+    "Assemble the wrap by placing the cooked shrimp mixture onto the wrap, followed by chopped cilantro.",
+    "Fold the wrap in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "seafood",
+    "wrap",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-infused-turkish-shrimp-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:38:01.877Z"
+}
