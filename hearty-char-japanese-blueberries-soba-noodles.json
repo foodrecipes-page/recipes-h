@@ -1,0 +1,63 @@
+{
+  "slug": "hearty-char-japanese-blueberries-soba-noodles",
+  "title": "Soba Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with soba noodles, hearty vegetables, and a hint of Japanese flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Char",
+      "amount": "2 cups mixed vegetables (bell peppers, carrots, broccoli)",
+      "notes": ""
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook soba noodles according to package instructions.",
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add mixed vegetables and cook until tender, about 3-4 minutes.",
+    "In a small bowl whisk together soy sauce and grated ginger.",
+    "Pour the sauce over the vegetables and stir to coat.",
+    "Add cooked soba noodles to the skillet and stir to combine.",
+    "Serve hot and garnish with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soba",
+    "noodle",
+    "stirfry",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-char-japanese-blueberries-soba-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:52:32.454Z"
+}
