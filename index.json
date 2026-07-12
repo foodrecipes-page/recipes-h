@@ -11252,18 +11252,15 @@
   },
   {
     "slug": "hearty-venezuelan-plantains-grill",
-    "title": "Hearty Venezuelan Plantains Grill",
+    "title": "Grilled Plantain Empanadas",
     "tags": [
       "grilled",
-      "high-protein",
-      "latin",
-      "one-pan",
-      "sattvic",
-      "vegan-friendly",
-      "weeknight"
+      "plantains",
+      "venezuelan",
+      "empanadas"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 22,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -14008,18 +14005,16 @@
   },
   {
     "slug": "herbed-spanish-potato-tortilla-espanola",
-    "title": "Herbed Spanish Potato Tortilla Espanola",
+    "title": "Spanish Tortilla with Herbed Potatoes",
     "tags": [
-      "crowd-pleaser",
-      "dairy-free",
-      "herbed",
-      "one-pan",
-      "silky",
-      "valencian",
-      "vegetarian"
+      "spanish",
+      "potatoes",
+      "tortilla",
+      "herbs",
+      "breakfast"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
