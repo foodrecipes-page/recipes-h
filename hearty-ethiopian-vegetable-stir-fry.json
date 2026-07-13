@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-ethiopian-vegetable-stir-fry",
+  "title": "Ethiopian Vegetable Stir Fry",
+  "description": "A flavorful and nutritious stir fry from Ethiopia made with a variety of vegetables. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Berbere Spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tumeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onions and cook until they start to soften.",
+    "Add the carrots and bell peppers and cook for 5 minutes.",
+    "Add the broccoli and cook until it starts to soften.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the berbere spice, tumeric, and salt. Cook for 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stir-fry",
+    "quick-dinner",
+    "vegetable-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-ethiopian-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:25.075Z"
+}
