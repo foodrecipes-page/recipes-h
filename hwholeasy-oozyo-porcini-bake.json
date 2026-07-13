@@ -1,0 +1,63 @@
+{
+  "slug": "hwholeasy-oozyo-porcini-bake",
+  "title": "Creamy Porcini & Whole Wheat Bake",
+  "description": "A simple, comforting bake made with whole wheat and creamy porcini sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "porcini",
+      "amount": "1 cup",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "oozyo",
+      "amount": "2 tablespoons",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "bake",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Combine the porcini and whole wheat in a bowl.",
+    "Mix in the oozyo for creaminess.",
+    "Transfer the mixture to a baking dish.",
+    "Drizzle the bake (olive oil) over the top.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "comfort-food",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hwholeasy-oozyo-porcini-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:15:20.943Z"
+}
