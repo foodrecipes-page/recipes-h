@@ -1,0 +1,66 @@
+{
+  "slug": "herbal-juicy-venezuelan-apricot-toast",
+  "title": "Apricot Toast with Herbal Delight",
+  "description": "A sweet and savory combination of toasted bread, apricot jam, and a hint of herbal flavor. Perfect for a light breakfast or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toasted Bread",
+      "amount": "2 slices",
+      "notes": "preferably Venezualan bread"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "a sprig",
+      "notes": "such as mint or basil"
+    },
+    {
+      "name": "Juice",
+      "amount": "1 tbsp",
+      "notes": "such as orange or grapefruit"
+    },
+    {
+      "name": "Venezuelan Bread",
+      "amount": "1 slice",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Toast 2 slices of Venezualan bread until lightly browned.",
+    "2. Spread 2 tbsp of apricot jam on each slice of toasted bread.",
+    "3. Sprinkle a few leaves of fresh herbs on top of the apricot jam.",
+    "4. Drizzle 1 tbsp of juice over the herbs.",
+    "5. Garnish with an additional slice of Venezualan bread, if desired.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "apricot",
+    "herbal",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-juicy-venezuelan-apricot-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:29:59.532Z"
+}
