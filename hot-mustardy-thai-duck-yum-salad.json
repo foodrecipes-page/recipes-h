@@ -1,0 +1,78 @@
+{
+  "slug": "hot-mustardy-thai-duck-yum-salad",
+  "title": "Thai-Style Grilled Duck Salad",
+  "description": "A flavorful salad featuring grilled duck breast, mixed greens, and a tangy Thai-inspired dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "Mustardy vinaigrette",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salad yum wuns",
+      "amount": "1/2 cup",
+      "notes": "or pickled carrots and daikon"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the duck breast with salt and pepper.",
+    "3. Grill the duck for 5-7 minutes per side, or until it reaches an internal temperature of 165°F (74°C).",
+    "4. Let the duck rest for 5 minutes before slicing.",
+    "5. In a large bowl, combine the mixed greens, sliced duck, hot sauce, and salad yum wuns.",
+    "6. In a small bowl, whisk together the mustardy vinaigrette and a pinch of salt and pepper.",
+    "7. Drizzle the vinaigrette over the salad and toss to combine.",
+    "8. Garnish with chopped cilantro and sliced red onion."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "salad",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-mustardy-thai-duck-yum-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:40:05.567Z"
+}
