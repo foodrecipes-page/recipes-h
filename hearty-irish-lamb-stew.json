@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting Irish lamb stew made with tender lamb, potatoes, carrots, and Guinness stout.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Look for lamb with a good layer of fat"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes, peeled and cubed",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Guinness stout",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bacon, diced",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Add the lamb and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the bacon to the pot and cook until crispy. Remove from pot and set aside with the lamb.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot. Cook for 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the Guinness stout, thyme, salt, and pepper to the pot. Stir to combine.",
+    "Return the lamb and bacon to the pot. Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 1 1/2 hours, or until the lamb is tender.",
+    "Remove from oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "irish",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:55:14.208Z"
+}
