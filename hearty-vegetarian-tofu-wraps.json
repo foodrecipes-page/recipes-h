@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-vegetarian-tofu-wraps",
+  "title": "Tofu Wraps",
+  "description": "A delicious and healthy vegetarian wrap filled with crispy tofu and fresh vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 1/2 blocks (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Wraps",
+      "amount": "4 large flour wraps",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium-high heat.",
+    "Cut the tofu into small cubes and season with salt and pepper.",
+    "Add the tofu to the pan and cook until golden brown, about 5-7 minutes.",
+    "Meanwhile, prepare the wraps by slicing the vegetables and avocado.",
+    "Assemble the wraps by spreading vegan mayo on each wrap, followed by the cooked tofu, vegetables, and avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "vegan",
+    "vegetarian",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-vegetarian-tofu-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:31.940Z"
+}
