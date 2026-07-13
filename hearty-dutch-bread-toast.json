@@ -1,0 +1,61 @@
+{
+  "slug": "hearty-dutch-bread-toast",
+  "title": "Dutch Bread Toast",
+  "description": "A hearty snack made with fresh bread, perfect for dipping in soups or stews.",
+  "cuisine": "dutch",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "Butter the bread slices on both sides.",
+    "Place the bread on a broiler pan.",
+    "Broil for 2-3 minutes or until lightly toasted.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "breakfast",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T15:16:54.589Z"
+}
