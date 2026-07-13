@@ -13260,19 +13260,14 @@
   },
   {
     "slug": "herbal-hearty-turkish-cheese-flatbread",
-    "title": "Herbal Hearty Turkish Cheese Flatbread",
+    "title": "Turkish Cheese Flatbread",
     "tags": [
-      "ayurvedic",
       "cheese",
       "flatbread",
-      "hangover-cure",
-      "herbal",
-      "quick",
-      "snack",
       "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 89,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -13458,15 +13453,16 @@
   },
   {
     "slug": "herbal-malaysian-corn-flour-pilaf",
-    "title": "Herbal Malaysian Corn Flour Pilaf",
+    "title": "Lemongrass Chicken Pilaf",
     "tags": [
+      "chicken",
       "malaysian",
-      "herbal",
-      "tender",
-      "post-workout"
+      "pilaf",
+      "corn",
+      "herbal"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -15301,17 +15297,15 @@
   },
   {
     "slug": "hot-creamy-peruvian-navy-beans-aji-de-gallina",
-    "title": "Hot Creamy Peruvian Navy Beans Aji De Gallina",
+    "title": "Creamy Peruvian Chicken and Beans",
     "tags": [
-      "crowd-pleaser",
-      "dolsot-stone-bowl",
-      "flexitarian-friendly",
-      "navy-beans",
-      "peruvian-cuisine",
-      "smoke-hot"
+      "peruvian",
+      "creamy",
+      "beans",
+      "chicken"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
