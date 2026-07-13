@@ -732,15 +732,15 @@
   },
   {
     "slug": "harmonious-argentinian-pork-stir-fry",
-    "title": "Harmonious Argentinian Pork Stir-fry",
+    "title": "Argentinian Pork Stir Fry",
     "tags": [
       "argentinean",
-      "no-onion-no-garlic-friendly",
-      "resinous",
-      "snappy"
+      "pork",
+      "stir-fry",
+      "dinner"
     ],
     "cuisine": "Argentinean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -6202,16 +6202,15 @@
   },
   {
     "slug": "hearty-irish-lamb-stew",
-    "title": "Hearty Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "lamb-based",
-      "low-carb",
-      "one-pot"
+      "lamb",
+      "irish",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -8160,14 +8159,13 @@
   },
   {
     "slug": "hearty-roasted-ethiopian-lamb-tagine",
-    "title": "Hearty Roasted Ethiopian Lamb Tagine",
+    "title": "Ethiopian Lamb Tagine",
     "tags": [
-      "african-cuisine",
-      "high-protein",
-      "lamb-recipes",
-      "one-pot",
-      "paleo",
-      "whole30"
+      "lamb",
+      "tagine",
+      "ethiopian",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 180,
@@ -9216,16 +9214,14 @@
   },
   {
     "slug": "hearty-smoky-canadian-cookies-dumplings",
-    "title": "Hearty Smoky Canadian Cookies Dumplings",
+    "title": "Smoky Canadian Hearty Beef Stew",
     "tags": [
+      "beef-stew",
       "canadian-cuisine",
-      "dessert-ideas",
-      "halal-friendly",
-      "smoky-flavors",
-      "special-occasion"
+      "hearty"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "canadian",
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
@@ -10150,16 +10146,16 @@
   },
   {
     "slug": "hearty-springy-argentinian-apple-tagine",
-    "title": "Hearty Springy Argentinian Apple Tagine",
+    "title": "Argentinian Spring Lamb Tagine",
     "tags": [
-      "argentinian-cuisine",
-      "lacto-vegetarian",
-      "one-pot",
-      "spring-recipes",
-      "tagine-cooking"
+      "lamb",
+      "argentinian",
+      "tagine",
+      "spring",
+      "dinner"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
