@@ -1,0 +1,86 @@
+{
+  "slug": "hot-creamy-peruvian-navy-beans-aji-de-gallina",
+  "title": "Creamy Peruvian Chicken and Beans",
+  "description": "A hearty and flavorful Peruvian-inspired dish featuring tender chicken and creamy navy beans.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "navy beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "peruvian crema",
+      "amount": "1 cup",
+      "notes": "or substitute with sour cream"
+    },
+    {
+      "name": "gallina chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through.",
+    "Remove the chicken and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened.",
+    "Add the aji amarillo peppers and cook for an additional minute.",
+    "Stir in the hot sauce (if using), navy beans, and chicken broth.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes.",
+    "Stir in the peruvian crema and cook until heated through.",
+    "Return the chicken to the skillet and cook until coated in the sauce.",
+    "Serve hot, garnished with chopped onion and aji amarillo peppers (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "creamy",
+    "beans",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-creamy-peruvian-navy-beans-aji-de-gallina",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:50:20.363Z"
+}
