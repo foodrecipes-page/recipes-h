@@ -1,0 +1,82 @@
+{
+  "slug": "herbaceous-british-rose-wrap",
+  "title": "Classic British Herb Wrap",
+  "description": "A simple yet flavorful wrap filled with fresh herbs and rose-petal relish.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rose-petal relish",
+      "amount": "2 tablespoons",
+      "notes": "homemade"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "British wrap",
+      "amount": "1 large",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 375°F (190°C).",
+    "2. In a small bowl, mix together the rose-petal relish, parsley, mint, garlic, lemon juice, salt, and black pepper.",
+    "3. Lay the British wrap flat and spread the herb mixture evenly across the center of the wrap.",
+    "4. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "5. Place the wrap seam-side down on a baking sheet lined with parchment paper.",
+    "6. Bake the wrap in the preheated oven for 2-3 minutes, or until crispy and golden brown.",
+    "7. Remove the wrap from the oven and let cool for 1-2 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "herbaceous",
+    "british",
+    "rose"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-british-rose-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:18:47.079Z"
+}
