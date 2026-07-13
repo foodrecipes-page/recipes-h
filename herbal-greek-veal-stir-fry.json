@@ -1,0 +1,72 @@
+{
+  "slug": "herbal-greek-veal-stir-fry",
+  "title": "Herb Crusted Veal Cutlets",
+  "description": "Tender veal cutlets coated in a fragrant herb crust, perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal cutlets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Herbs (parsley, thyme, rosemary)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the veal cutlets with salt and pepper.",
+    "In a bowl, mix together the herbs and Greek yogurt.",
+    "Coat each veal cutlet with the herb mixture, pressing gently to adhere.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the coated veal cutlets for 2-3 minutes on each side, or until browned.",
+    "Transfer the cutlets to a baking sheet and bake for 10-12 minutes, or until cooked through.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veal",
+    "herbs",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-greek-veal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:43:00.485Z"
+}
