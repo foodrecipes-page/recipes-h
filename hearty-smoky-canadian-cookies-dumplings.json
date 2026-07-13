@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-smoky-canadian-cookies-dumplings",
+  "title": "Smoky Canadian Hearty Beef Stew",
+  "description": "A hearty and comforting beef stew with a smoky twist, inspired by Canadian cuisine.",
+  "cuisine": "canadian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "adjust to thicken"
+    },
+    {
+      "name": "hearty beef bouillon cubes",
+      "amount": "2 cubes",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown the beef on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, 3-4 minutes.",
+    "Stir in smoked paprika and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours.",
+    "Stir in flour to thicken, if desired.",
+    "Add beef bouillon cubes, if using.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "canadian-cuisine",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "25g",
+    "fat": "29g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-canadian-cookies-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:44:31.842Z"
+}
