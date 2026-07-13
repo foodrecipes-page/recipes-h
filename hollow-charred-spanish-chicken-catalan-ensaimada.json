@@ -1,0 +1,86 @@
+{
+  "slug": "hollow-charred-spanish-chicken-catalan-ensaimada",
+  "title": "Catalan Chicken and Spanish Ensalada",
+  "description": "Grilled chicken with a smoky twist, served with a classic Spanish salad. Perfect for a light dinner or lunch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless, skinless chicken breasts"
+    },
+    {
+      "name": "Catalan olive oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling the chicken"
+    },
+    {
+      "name": "Hollow red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Charred red bell pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Ensaimada bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For dressing the salad"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt and pepper. Grill for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "In a large bowl, combine the sliced red onion, diced red bell pepper, and chopped parsley.",
+    "In a small bowl, whisk together the olive oil and red wine vinegar. Pour the dressing over the salad and toss to combine.",
+    "Slice the grilled chicken and serve on top of the salad. Serve with ensaimada bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spanish",
+    "salad",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hollow-charred-spanish-chicken-catalan-ensaimada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:44:21.362Z"
+}
