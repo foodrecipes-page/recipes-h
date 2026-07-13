@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-homemade-ukrainian-dumplings",
+  "title": "Ukrainian Homemade Dumplings",
+  "description": "These hearty, homemade Ukrainian dumplings are a comforting and delicious meal. Simply boil or pan-fry these dumplings for a satisfying meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Potato Filling",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water and egg.",
+    "Gradually add in flour, salt, and shortening; mix until dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide dough into 8 equal pieces; roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of potato filling in the center of each circle.",
+    "Fold dough over filling and press edges to seal.",
+    "Bring a large pot of salted water to a boil.",
+    "Carefully add dumplings to boiling water and cook for 10-12 minutes.",
+    "Remove dumplings from water and serve with melted butter and cheddar cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-ukrainian-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:22:15.956Z"
+}
