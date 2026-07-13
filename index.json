@@ -5310,16 +5310,15 @@
   },
   {
     "slug": "hearty-herb-mediterranean-pasta-pilaf",
-    "title": "Hearty Herb Mediterranean Pasta Pilaf",
+    "title": "Mediterranean Pasta Bowl",
     "tags": [
-      "hangover-cure",
-      "kosher-friendly",
-      "mediterranean-diet",
-      "one-pan-meal",
-      "pasta-recipes"
+      "mediterranean",
+      "pasta",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -11996,17 +11995,15 @@
   },
   {
     "slug": "herb-infused-indian-sea-bass-curry",
-    "title": "Herb Infused Indian Sea Bass Curry",
+    "title": "Herb Crusted Sea Bass with Indian Curry Sauce",
     "tags": [
-      "curry",
-      "gluten-free",
-      "indian-cuisine",
-      "low-fodmap",
-      "one-pan",
-      "seafood"
+      "seafood",
+      "indian",
+      "herb-crusted",
+      "curry-sauce"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -12082,17 +12079,15 @@
   },
   {
     "slug": "herb-infused-syrian-lamb-kebabs",
-    "title": "Herb Infused Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "ayurvedic-friendly",
-      "herb-infused",
-      "lamb-recipes",
-      "syrian-cuisine",
-      "tamasic-diet",
-      "tandoor-cooking"
+      "lamb",
+      "kebabs",
+      "syrian",
+      "grilled"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 31,
     "shard": "h"
   },
   {
@@ -14370,18 +14365,15 @@
   },
   {
     "slug": "hollow-charred-spanish-chicken-catalan-ensaimada",
-    "title": "Hollow Charred Spanish Chicken Catalan Ensaimada",
+    "title": "Catalan Chicken and Spanish Ensalada",
     "tags": [
-      "basmati-rice",
       "chicken",
-      "date-night",
-      "kosher-friendly",
-      "pastry",
       "spanish",
-      "wood-fired"
+      "salad",
+      "grilled"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
