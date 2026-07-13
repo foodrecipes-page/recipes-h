@@ -4056,17 +4056,16 @@
   },
   {
     "slug": "hearty-ethiopian-vegetable-stir-fry",
-    "title": "Hearty Ethiopian Vegetable Stir Fry",
+    "title": "Ethiopian Vegetable Stir Fry",
     "tags": [
-      "cheese-pull",
-      "ethiopian-cuisine",
-      "nostalgic-dish",
+      "ethiopian",
+      "vegetarian",
       "stir-fry",
-      "tamarind-paste",
-      "vegetarian"
+      "quick-dinner",
+      "vegetable-based"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -12315,17 +12314,15 @@
   },
   {
     "slug": "herbaceous-crisp-polish-rice-pilaf",
-    "title": "Herbaceous Crisp Polish Rice Pilaf",
+    "title": "Crunchy Herb and Rice Pilaf",
     "tags": [
-      "crisp",
-      "herbaceous",
-      "macrobiotic-friendly",
-      "one-pot",
-      "quick",
-      "rice-dish"
+      "side-dish",
+      "vegetarian",
+      "gluten-free",
+      "eastern-european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -13251,14 +13248,14 @@
   },
   {
     "slug": "herbal-greek-veal-stir-fry",
-    "title": "Herbal Greek Veal Stir-fry",
+    "title": "Herb Crusted Veal Cutlets",
     "tags": [
-      "vegan_mince_meat_substitute",
-      "greek_vegan_veal_stir_fry",
-      "tadka_seasoning_blend"
+      "veal",
+      "herbs",
+      "greek"
     ],
-    "cuisine": "Greek, Indian",
-    "totalTimeMin": 55,
+    "cuisine": "Greek",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
