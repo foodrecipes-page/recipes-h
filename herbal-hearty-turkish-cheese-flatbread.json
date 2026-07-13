@@ -1,0 +1,59 @@
+{
+  "slug": "herbal-hearty-turkish-cheese-flatbread",
+  "title": "Turkish Cheese Flatbread",
+  "description": "A simple and delicious Turkish-inspired cheese flatbread recipe. Perfect for a quick snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Herbal Flatbread Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Feta Cheese Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Open the flatbread mix and follow the instructions to make the dough.",
+    "Roll out the dough to a thickness of about 1/4 inch (6 mm).",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Mix the crumbled feta cheese and Turkish feta cheese spice blend in a bowl.",
+    "Spread the cheese mixture evenly over the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the edges of the dough over the cheese mixture to create a crust.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Remove the flatbread from the oven and let it cool for a few minutes.",
+    "Cut the flatbread into wedges and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "flatbread",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-hearty-turkish-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:41:03.921Z"
+}
