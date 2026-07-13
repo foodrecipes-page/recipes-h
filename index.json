@@ -10987,17 +10987,15 @@
   },
   {
     "slug": "hearty-uruguayan-vialone-nano-rice-pilaf",
-    "title": "Hearty Uruguayan Vialone Nano Rice Pilaf",
+    "title": "Uruguayan-Style Hearty Rice Pilaf",
     "tags": [
-      "gluten-free",
-      "low-carb",
-      "one-pot",
-      "seafood",
-      "sous-vide",
-      "uruguayan-cuisine"
+      "uruguayan",
+      "rice",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -12298,18 +12296,14 @@
   },
   {
     "slug": "herbaceous-british-rose-wrap",
-    "title": "Herbaceous British Rose Wrap",
+    "title": "Classic British Herb Wrap",
     "tags": [
+      "herbaceous",
       "british",
-      "brunch",
-      "floral",
-      "fresh",
-      "satvik",
-      "ti-leaf-wrap",
-      "vegetarian"
+      "rose"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 50,
+    "cuisine": "british",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
