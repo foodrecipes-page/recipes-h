@@ -8030,16 +8030,16 @@
   },
   {
     "slug": "hearty-rich-moroccan-bamboo-shoot-tagine",
-    "title": "Hearty Rich Moroccan Bamboo Shoot Tagine",
+    "title": "Braised Lamb Tagine with Bamboo Shoots",
     "tags": [
-      "ayurvedic-sattvic",
+      "lamb",
+      "bamboo",
       "moroccan",
-      "one-pan",
-      "vegan-friendly",
-      "vegetarian"
+      "stew",
+      "braised"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 180,
     "shard": "h"
   },
   {
@@ -15553,17 +15553,14 @@
   },
   {
     "slug": "hot-mustardy-thai-duck-yum-salad",
-    "title": "Hot Mustardy Thai Duck Yum Salad",
+    "title": "Thai-Style Grilled Duck Salad",
     "tags": [
-      "gluten-free",
-      "herby",
-      "low-calorie",
-      "spicy",
-      "thai-inspired",
-      "weeknight"
+      "grilled",
+      "salad",
+      "asian-fusion"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
