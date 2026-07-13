@@ -5819,16 +5819,14 @@
   },
   {
     "slug": "hearty-homemade-ukrainian-dumplings",
-    "title": "Hearty Homemade Ukrainian Dumplings",
+    "title": "Ukrainian Homemade Dumplings",
     "tags": [
-      "comfort-food",
-      "homemade",
-      "kid-friendly",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "dumplings",
+      "homemade"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -6796,17 +6794,15 @@
   },
   {
     "slug": "hearty-light-german-king-prawns-skewers",
-    "title": "Hearty Light German King Prawns Skewers",
+    "title": "Grilled Prawn Skewers with German Flair",
     "tags": [
-      "german-cuisine",
-      "grilled",
-      "high-protein",
-      "one-pan",
+      "german",
       "seafood",
-      "weeknight"
+      "grilled",
+      "skewers"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
@@ -8463,17 +8459,17 @@
   },
   {
     "slug": "hearty-saudi-arabian-shallots-tagine",
-    "title": "Hearty Saudi Arabian Shallots Tagine",
+    "title": "Hearty Saudi Arabian Chicken Tagine",
     "tags": [
-      "ayurvedic",
-      "gluten-free",
-      "herbal",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "chicken",
+      "saudi-arabian",
+      "tagine",
+      "stew",
+      "arabic",
+      "hearty"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 60,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -13843,10 +13839,14 @@
   },
   {
     "slug": "herbal-velvety-saudi-arabian-beef-stew",
-    "title": "Herbal Velvety Saudi Arabian Beef Stew",
-    "tags": [],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": null,
+    "title": "Saudi Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "saudi arabian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 135,
     "shard": "h"
   },
   {
@@ -16404,15 +16404,15 @@
   },
   {
     "slug": "hwholeasy-oozyo-porcini-bake",
-    "title": "Hwholeasy Oozyo Porcini Bake",
+    "title": "Creamy Porcini & Whole Wheat Bake",
     "tags": [
-      "bouncy-qq",
-      "fatty",
-      "kid-friendly",
-      "raw-friendly"
+      "italian",
+      "comfort-food",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Philippine",
-    "totalTimeMin": 60,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
