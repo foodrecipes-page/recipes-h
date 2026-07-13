@@ -1,0 +1,79 @@
+{
+  "slug": "herbal-malaysian-corn-flour-pilaf",
+  "title": "Lemongrass Chicken Pilaf",
+  "description": "A flavorful and aromatic Malaysian-inspired pilaf dish made with lemongrass-flavored chicken and herbs, served with a side of sautéed corn.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fresh lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "herbs",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh cilantro or parsley"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Add lemongrass and cook for another minute.",
+    "Add pilaf and cook until lightly toasted, about 2-3 minutes.",
+    "Add corn and cook until heated through.",
+    "Stir in herbs and season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "If desired, serve with a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "malaysian",
+    "pilaf",
+    "corn",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-malaysian-corn-flour-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T16:51:03.286Z"
+}
