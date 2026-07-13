@@ -3783,15 +3783,14 @@
   },
   {
     "slug": "hearty-dutch-bread-toast",
-    "title": "Hearty Dutch Bread Toast",
+    "title": "Dutch Bread Toast",
     "tags": [
+      "snack",
       "breakfast",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "bread"
     ],
     "cuisine": "dutch",
-    "totalTimeMin": 18,
+    "totalTimeMin": 7,
     "shard": "h"
   },
   {
@@ -11018,14 +11017,15 @@
   },
   {
     "slug": "hearty-vegetarian-tofu-wraps",
-    "title": "Hearty Vegetarian Tofu Wraps",
+    "title": "Tofu Wraps",
     "tags": [
-      "vegetarian-wrap",
-      "healthy-meal",
-      "quick-lunch"
+      "tofu",
+      "vegan",
+      "vegetarian",
+      "wraps"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -13349,16 +13349,16 @@
   },
   {
     "slug": "herbal-juicy-venezuelan-apricot-toast",
-    "title": "Herbal Juicy Venezuelan Apricot Toast",
+    "title": "Apricot Toast with Herbal Delight",
     "tags": [
-      " venezuelan-cuisine",
-      "healthy-breakfast",
-      "kid-friendly",
-      "low-calorie",
-      "vegetarian"
+      "breakfast",
+      "snack",
+      "apricot",
+      "herbal",
+      "toast"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 22,
+    "cuisine": "American",
+    "totalTimeMin": 5,
     "shard": "h"
   },
   {
