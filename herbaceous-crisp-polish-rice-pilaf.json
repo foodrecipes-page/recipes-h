@@ -1,0 +1,70 @@
+{
+  "slug": "herbaceous-crisp-polish-rice-pilaf",
+  "title": "Crunchy Herb and Rice Pilaf",
+  "description": "A flavorful and crunchy side dish made with fragrant herbs, crisp vegetables, and a hint of polish flair.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Herbaceous Fresh Parsley",
+      "amount": "2 cups, chopped",
+      "notes": "Fresh from the garden"
+    },
+    {
+      "name": "Crisp Carrots",
+      "amount": "1 cup, peeled and grated",
+      "notes": "Add crunch to your pilaf"
+    },
+    {
+      "name": "Polish Sausage, cooked and diced",
+      "amount": "1/2 cup",
+      "notes": "Add a smoky flavor"
+    },
+    {
+      "name": "White Rice",
+      "amount": "2 cups",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the grated carrots and cook until they start to soften, about 3-4 minutes.",
+    "Add the cooked Polish sausage and cook for an additional 2 minutes.",
+    "Add the chopped parsley and cook for 1 minute.",
+    "Add the uncooked rice and stir to coat with oil and mix with vegetables.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "side-dish",
+    "vegetarian",
+    "gluten-free",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-crisp-polish-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:58:33.179Z"
+}
