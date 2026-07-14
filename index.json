@@ -2976,14 +2976,11 @@
   },
   {
     "slug": "hearty-crisp-greek-lamb-tiropita",
-    "title": "Hearty Crisp Greek Lamb Tiropita",
+    "title": "Greek Tiropita",
     "tags": [
-      "cedar-plank",
-      "comfort-food",
-      "greek-food",
-      "lamb-recipes",
-      "pastry-dishes",
-      "vegetarian-friendly"
+      "greek",
+      "cheese-pie",
+      "lamb"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 50,
@@ -5649,16 +5646,15 @@
   },
   {
     "slug": "hearty-homemade-brazilian-chicken-tagine",
-    "title": "Hearty Homemade Brazilian Chicken Tagine",
+    "title": "Brazilian Chicken Tagine",
     "tags": [
+      "chicken",
+      "tagine",
       "brazilian-cuisine",
-      "clay-pot",
-      "comfort-food",
-      "gluten-free",
-      "one-pot"
+      "one-pot-meal"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "cuisine": "brazilian",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -11441,16 +11437,14 @@
   },
   {
     "slug": "heated-turkish-chicken-kebabs",
-    "title": "Heated Turkish Chicken Kebabs",
+    "title": "Delicious Chicken Kebabs",
     "tags": [
-      "diabetic-friendly",
-      "kebab",
-      "low-carb",
-      "one-pan",
-      "quick"
+      "chicken",
+      "kebabs",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 36,
     "shard": "h"
   },
   {
