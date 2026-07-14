@@ -1,0 +1,76 @@
+{
+  "slug": "hot-charred-venezuelan-shirataki-skewers",
+  "title": "Grilled Skewers with Hot and Charred Flair",
+  "description": "Experience a bold and exotic Venezuelan-inspired dish with the deep, smoky flavors of grilled hot peppers and charred onions.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hot peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 wooden, soaked in water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "1 cup, cooked"
+    }
+  ],
+  "instructions": [
+    "Soak the skewers in water for at least 30 minutes before grilling.",
+    "Preheat the grill to medium-high heat (400°F/200°C).",
+    "Thread the hot peppers, onions, zucchini, and bell peppers onto the skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "While the skewers are grilling, cook the shirataki noodles according to package instructions.",
+    "Once the skewers are cooked, brush with soy sauce and serve with shirataki noodles.",
+    "Garnish with additional hot peppers and onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "vegan",
+    "gluten-free",
+    "latin-inspired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-charred-venezuelan-shirataki-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:36:23.475Z"
+}
