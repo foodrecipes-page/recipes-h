@@ -1,0 +1,98 @@
+{
+  "slug": "herbal-smoked-japanese-mackerel-katsudon",
+  "title": "Smoked Mackerel Katsudon",
+  "description": "A Japanese-inspired twist on traditional katsudon, featuring smoked mackerel and herbal notes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ponzu Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mentsuyu",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a saucepan over medium heat.",
+    "Add grated ginger and cook for 1 minute.",
+    "Add soy sauce, ponzu sauce, and honey. Whisk to combine.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, or until slightly thickened.",
+    "Cook Japanese rice according to package instructions.",
+    "Cut smoked mackerel into small pieces and set aside.",
+    "To assemble the katsudon, place a scoop of cooked rice in a bowl.",
+    "Add a piece of smoked mackerel on top of the rice.",
+    "Pour the sauce over the mackerel and rice.",
+    "Garnish with chopped scallions and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "smoked",
+    "mackerel",
+    "katsudon",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-smoked-japanese-mackerel-katsudon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:49:05.112Z"
+}
