@@ -2281,17 +2281,15 @@
   },
   {
     "slug": "hearty-briny-indian-lamb-rogan-josh",
-    "title": "Hearty Briny Indian Lamb Rogan Josh",
+    "title": "Rogan Josh with Naan Bread",
     "tags": [
-      "bain-marie",
-      "hearty-meals",
-      "indian-food",
-      "kerala-cuisine",
-      "lamb-recipes",
-      "whole30-friendly"
+      "indian",
+      "lamb",
+      "rogan-josh",
+      "naan-bread"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 170,
+    "cuisine": "indian",
+    "totalTimeMin": 195,
     "shard": "h"
   },
   {
@@ -4068,17 +4066,16 @@
   },
   {
     "slug": "hearty-fermented-australian-bush-herbs-bowl",
-    "title": "Hearty Fermented Australian Bush Herbs Bowl",
+    "title": "Australian Bush Herb Stew",
     "tags": [
       "australian",
+      "bush",
+      "hearty",
       "fermented",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15244,14 +15241,12 @@
   },
   {
     "slug": "hot-charred-venezuelan-shirataki-skewers",
-    "title": "Hot Charred Venezuelan Shirataki Skewers",
+    "title": "Grilled Skewers with Hot and Charred Flair",
     "tags": [
-      "date-night",
-      "deep-fried",
+      "grilled",
+      "vegan",
       "gluten-free",
-      "kosher-friendly",
-      "shirataki-recipes",
-      "venezuelan-cuisine"
+      "latin-inspired"
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 30,
