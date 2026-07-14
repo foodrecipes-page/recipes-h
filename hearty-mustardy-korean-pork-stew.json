@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-mustardy-korean-pork-stew",
+  "title": "Pork Korean BBQ Stew",
+  "description": "A hearty, mustardy Korean-inspired stew made with tender pork and a variety of spices.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Doenjang (Korean fermented soybean paste)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes. Remove the pork from the pot and set aside.",
+    "Add the remaining 2 tablespoons of sesame oil to the pot, then add the garlic and ginger. Cook for 1 minute.",
+    "Add the gochujang, soy sauce, brown sugar, and doenjang to the pot. Whisk until smooth.",
+    "Return the pork to the pot and stir to coat with the sauce.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Stir in the chopped green onions and season with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mustardy-korean-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:07:05.348Z"
+}
