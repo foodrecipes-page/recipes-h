@@ -1,0 +1,76 @@
+{
+  "slug": "herbal-creamy-french-pilchard-stir-fry",
+  "title": "Herbal Pilchard Stir Fry",
+  "description": "A quick and easy stir fry recipe featuring pilchard and a hint of herbal flavors.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilchard fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Herbal oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green herbs (parsley, dill, thyme)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "French onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fry seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the herbal oil in a wok or large skillet over medium-high heat.",
+    "Add the green herbs, French onion, ginger, and garlic. Stir-fry for 2-3 minutes.",
+    "Add the pilchard fillets and fry seasoning. Stir-fry for an additional 3-4 minutes.",
+    "Cook until the pilchard is cooked through and flakes easily with a fork.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilchard",
+    "herbal",
+    "stir-fry",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-creamy-french-pilchard-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:32:43.689Z"
+}
