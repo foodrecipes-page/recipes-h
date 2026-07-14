@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-briny-indian-lamb-rogan-josh",
+  "title": "Rogan Josh with Naan Bread",
+  "description": "A classic Indian dish made with tender lamb, rogan josh spices, and a blend of aromatic flavors. Serve with warm naan bread for a comforting meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Bone-in lamb shoulder for tender meat"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced for added flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated for aromatic flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin for added warmth"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": "Ground coriander for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning the lamb"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Naan Bread",
+      "amount": "4-6 pieces",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of ghee or oil over medium-high heat.",
+    "Add the lamb shoulder and sear until browned on all sides, about 5-7 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add more oil if necessary, then sauté the sliced onion until lightly browned.",
+    "Add the grated ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the cumin, cayenne pepper, coriander powder, salt, and black pepper. Cook for 1-2 minutes, until the spices are fragrant.",
+    "Add the browned lamb back to the pot and pour in enough water to cover the lamb.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the lamb is tender and falls apart easily.",
+    "While the lamb is cooking, warm the naan bread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "To serve, slice the lamb and serve it with the warm naan bread and the flavorful sauce from the pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": "4-6",
+  "difficulty": "hard",
+  "tags": [
+    "indian",
+    "lamb",
+    "rogan-josh",
+    "naan-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-briny-indian-lamb-rogan-josh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:44:05.296Z"
+}
