@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-juicy-italian-pistachio-suppli",
+  "title": "Italian Suppli",
+  "description": "A hearty Italian snack filled with juicy mozzarella and crispy on the outside. Perfect for a quick bite.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 cup",
+      "notes": "Italian bread, cut into small cubes"
+    },
+    {
+      "name": "Mozzarella",
+      "amount": "8 ounces",
+      "notes": "Juicy and fresh"
+    },
+    {
+      "name": "Ricotta",
+      "amount": "1/2 cup",
+      "notes": "Add a touch of creaminess"
+    },
+    {
+      "name": "Parmesan",
+      "amount": "1/4 cup",
+      "notes": "Grated, for extra flavor"
+    },
+    {
+      "name": "Pistachio",
+      "amount": "1 tablespoon",
+      "notes": "Chopped pistachios for added crunch"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten, for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add a pinch of salt for flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying",
+      "notes": "For crispy exterior"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. In a large bowl, combine the bread, mozzarella, ricotta, parmesan, and pistachio.",
+    "3. Mix well until everything is fully incorporated.",
+    "4. Cover the mixture and refrigerate for 30 minutes.",
+    "5. Using your hands, shape the mixture into small balls.",
+    "6. Dip each ball into the beaten egg, then roll in the bread crumbs to coat.",
+    "7. Fry the suppli in batches until golden brown, about 3-4 minutes per side.",
+    "8. Remove the suppli from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-juicy-italian-pistachio-suppli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:40:32.966Z"
+}
