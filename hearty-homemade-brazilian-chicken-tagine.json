@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-homemade-brazilian-chicken-tagine",
+  "title": "Brazilian Chicken Tagine",
+  "description": "A hearty and flavorful dish originating from Brazil, made with chicken and a blend of spices.",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Homemade tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Seeded and chopped"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Remove chicken and set aside.",
+    "Add onions and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add red bell pepper and cook for an additional 2-3 minutes.",
+    "Stir in tagine spice blend and cook for 1 minute.",
+    "Add diced tomatoes, chicken broth, salt, and black pepper.",
+    "Return chicken to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until chicken is cooked through.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "brazilian-cuisine",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-brazilian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:03:01.487Z"
+}
