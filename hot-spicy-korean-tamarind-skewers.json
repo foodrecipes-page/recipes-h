@@ -1,0 +1,87 @@
+{
+  "slug": "hot-spicy-korean-tamarind-skewers",
+  "title": "Spicy Korean Tamarind Chicken Skewers",
+  "description": "Tender chicken pieces marinated in a sweet and spicy Korean-inspired tamarind sauce, grilled to perfection on skewers.",
+  "cuisine": "Korean",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "Diluted with 2 tablespoons water"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hot sauce (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine tamarind paste, gochujang, honey, soy sauce, rice vinegar, hot sauce, and garlic. Blend until smooth.",
+    "In a large bowl, whisk together tamarind mixture, sesame oil, and 2 tablespoons water.",
+    "Add chicken to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through and slightly charred.",
+    "Transfer skewers to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-spicy-korean-tamarind-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:36:49.025Z"
+}
