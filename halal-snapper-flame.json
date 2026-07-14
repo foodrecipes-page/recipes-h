@@ -1,0 +1,73 @@
+{
+  "slug": "halal-snapper-flame",
+  "title": "Pan-Seared Snapper with Halal Spices",
+  "description": "A flavorful and aromatic dish made with halal spices, snapper, and a hint of flame. Perfect for a quick and delicious dinner.",
+  "cuisine": null,
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Halal spices",
+      "amount": "1 tsp",
+      "notes": "Mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Flame",
+      "amount": "1",
+      "notes": "Wooden skewer for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Fresh and juicy"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the snapper fillets with salt and pepper.",
+    "Brush the grill with a small amount of oil to prevent sticking.",
+    "Add the snapper fillets to the grill and cook for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix the halal spices in a small bowl.",
+    "Once the snapper is cooked, brush the halal spice mixture evenly over the top of each fillet.",
+    "Serve immediately with a squeeze of lemon juice.",
+    "Garnish with additional halal spices, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "halal",
+    "snapper",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-snapper-flame",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:35:05.468Z"
+}
