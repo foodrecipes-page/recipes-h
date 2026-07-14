@@ -2043,18 +2043,15 @@
   },
   {
     "slug": "hearty-beef-tunisian-beef-stew",
-    "title": "Hearty Beef Tunisian Beef Stew",
+    "title": "Tunisian Beef Stew",
     "tags": [
       "beef",
-      "comfort-food",
-      "hearty",
-      "one-pan",
       "stew",
-      "tunisian",
-      "weeknight"
+      "north african",
+      "comfort food"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 195,
+    "totalTimeMin": 80,
     "shard": "h"
   },
   {
@@ -9288,17 +9285,16 @@
   },
   {
     "slug": "hearty-smoky-italian-white-yam-panettone",
-    "title": "Hearty Smoky Italian White Yam Panettone",
+    "title": "Panettone French Toast with Caramelized Yam",
     "tags": [
-      "comfort-food",
-      "gluten-free",
+      "breakfast",
       "italian",
-      "smoky",
-      "vegetarian",
-      "winter-dish"
+      "yam",
+      "panettone",
+      "caramelized"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -13103,15 +13099,16 @@
   },
   {
     "slug": "herbal-fluffy-spanish-chicken-stir-fry",
-    "title": "Herbal Fluffy Spanish Chicken Stir-Fry",
+    "title": "Chicken Fajita Stir Fry",
     "tags": [
-      "fluffy",
-      "spicy",
-      "mediterranean",
-      "quick"
+      "chicken",
+      "fajita",
+      "stir-fry",
+      "spanish",
+      "quick-dinner"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 65,
+    "cuisine": "spanish",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
