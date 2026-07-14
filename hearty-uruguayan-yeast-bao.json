@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-uruguayan-yeast-bao",
+  "title": "Uruguayan-Style Beef Empanadas",
+  "description": "A hearty twist on traditional empanadas, filled with Uruguayan-style seasoned beef and served with a side of tangy chimichurri.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (Ground)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri (store-bought or homemade)",
+      "amount": "for serving",
+      "notes": ""
+    },
+    {
+      "name": "Bao Dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 packet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine beef, onion, egg, salt, black pepper, and cumin in a large bowl.",
+    "Mix well with your hands until just combined.",
+    "Divide bao dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and use a rolling pin to flatten into a thin circle.",
+    "Place a tablespoon of beef mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the dough in half to form a half-moon shape, pressing edges together to seal.",
+    "Repeat with remaining dough and filling.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Brush tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm with chimichurri for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "uruguayan",
+    "empanadas",
+    "baodough"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-uruguayan-yeast-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:15:29.216Z"
+}
