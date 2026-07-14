@@ -12720,16 +12720,15 @@
   },
   {
     "slug": "herbal-creamy-french-pilchard-stir-fry",
-    "title": "Herbal Creamy French Pilchards",
+    "title": "Herbal Pilchard Stir Fry",
     "tags": [
+      "pilchard",
       "herbal",
-      "creamy",
-      "french-pilchards",
-      "meal-prep",
-      "high-protein-friendly"
+      "stir-fry",
+      "fry"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
@@ -15884,16 +15883,15 @@
   },
   {
     "slug": "hot-spicy-korean-tamarind-skewers",
-    "title": "Hot Spicy Korean Tamarind Skewers",
+    "title": "Spicy Korean Tamarind Chicken Skewers",
     "tags": [
-      "asian-inspired",
-      "easy-entertaining",
-      "korean-street-food",
-      "spicy-snacks",
-      "vegetarian-appetizers"
+      "korean",
+      "spicy",
+      "chicken",
+      "skewers"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
