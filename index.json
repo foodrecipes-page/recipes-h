@@ -1886,10 +1886,14 @@
   },
   {
     "slug": "hearty-arabian-lamb-tagine",
-    "title": "Hearty Arabian Lamb Tagine",
-    "tags": [],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": null,
+    "title": "Classic Moroccan Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "moroccan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 140,
     "shard": "h"
   },
   {
@@ -2666,14 +2670,12 @@
   },
   {
     "slug": "hearty-charred-kenyan-meat-kebabs",
-    "title": "Hearty Charred Kenyan Meat Kebabs",
+    "title": "Kenyan-Style Meat Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "kenyan-cuisine",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "kenyan",
+      "meat",
+      "kebabs",
+      "grilling"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
@@ -9896,14 +9898,12 @@
   },
   {
     "slug": "hearty-spicy-greek-chickpeas-revithia",
-    "title": "Hearty Spicy Greek Chickpeas Revithia",
+    "title": "Spicy Revithia Chickpea Stew",
     "tags": [
-      "chickpeas",
-      "gluten-free",
+      "stew",
       "greek",
-      "one-pot",
-      "spicy",
-      "vegetarian"
+      "veggie",
+      "spicy"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 45,
