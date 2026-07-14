@@ -3653,16 +3653,15 @@
   },
   {
     "slug": "hearty-dense-mexican-pork-rajas-con-crema",
-    "title": "Hearty Dense Mexican Pork Rajas Con Crema",
+    "title": "Pork and Rajas Tacos",
     "tags": [
-      "comfort-food",
-      "mexican-inspired",
-      "one-pot",
-      "pork-based",
-      "rich-and-creamy"
+      "mexican",
+      "tacos",
+      "pork",
+      "rajas"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 150,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -3899,16 +3898,15 @@
   },
   {
     "slug": "hearty-egyptian-chicken-broth",
-    "title": "Hearty Egyptian Chicken Broth",
+    "title": "Hearty Egyptian Chicken Stew",
     "tags": [
-      "hearty",
-      "kid-friendly",
-      "paleo",
-      "silky",
-      "spicy"
+      "stew",
+      "chicken",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -5997,16 +5995,15 @@
   },
   {
     "slug": "hearty-indulgent-american-mung-bean-sprout-casserole",
-    "title": "Hearty Indulgent American Mung Bean Sprout Casserole",
+    "title": "American Bean Sprout Casserole",
     "tags": [
-      "american-classics",
+      "american",
       "casserole",
-      "comfort-food",
       "vegetarian",
-      "weeknight-dinner"
+      "gluten-free"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -7416,16 +7413,15 @@
   },
   {
     "slug": "hearty-moroccan-chickpeas-tagine",
-    "title": "Hearty Moroccan Chickpeas Tagine",
+    "title": "Hearty Moroccan Chickpea Tagine",
     "tags": [
-      "brunch-ideas",
-      "chickpea-recipes",
-      "macrobiotic-friendly",
-      "moroccan-cuisine",
-      "vegetarian-meals"
+      "moroccan",
+      "chickpeas",
+      "vegan",
+      "slow-cooker"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "h"
   },
   {
@@ -10975,17 +10971,15 @@
   },
   {
     "slug": "hearty-uruguayan-yeast-bao",
-    "title": "Hearty Uruguayan Yeast Bao",
+    "title": "Uruguayan-Style Beef Empanadas",
     "tags": [
-      "family-meal",
-      "kid-friendly",
-      "nut-free",
-      "raclette-grill",
-      "uruguayan-cuisine",
-      "yeast-bread"
+      "beef",
+      "uruguayan",
+      "empanadas",
+      "baodough"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 60,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
