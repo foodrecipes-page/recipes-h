@@ -7042,17 +7042,15 @@
   },
   {
     "slug": "hearty-mediterranean-chicken-tagine",
-    "title": "Hearty Mediterranean Chicken Tagine",
+    "title": "Chicken Tagine with Artichokes",
     "tags": [
-      "brine-wet",
-      "gluten-free",
-      "high-protein",
-      "mediterranean",
-      "one-pot",
-      "weeknight"
+      "chicken",
+      "artichokes",
+      "north-african",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -15067,19 +15065,16 @@
   },
   {
     "slug": "honeyed-spicy-peruvian-chickpeas-peruvian-raw-fish-dish",
-    "title": "Honeyed Spicy Peruvian Chickpea Tiradito",
+    "title": "Spicy Peruvian Fish Stew",
     "tags": [
-      "breakfast",
-      "chickpea",
-      "high-protein",
-      "low-glycemic",
-      "meal-prep",
       "peruvian",
-      "snack",
-      "vegan"
+      "fish",
+      "stew",
+      "spicy",
+      "lunch"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
