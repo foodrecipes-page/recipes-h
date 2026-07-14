@@ -1,0 +1,61 @@
+{
+  "slug": "hearty-smoky-italian-white-yam-panettone",
+  "title": "Panettone French Toast with Caramelized Yam",
+  "description": "A sweet breakfast recipe combining the flavors of Italy with a smoky twist.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "1 (12 oz) loaf"
+    },
+    {
+      "name": "yam",
+      "amount": "2 medium, peeled and sliced"
+    },
+    {
+      "name": "white sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together almond milk, sugar, and cinnamon.",
+    "Heat a non-stick skillet over medium heat.",
+    "Dip each panettone slice into the milk mixture, coating both sides.",
+    "Cook the panettone slices for 2-3 minutes on each side, or until golden brown.",
+    "Meanwhile, caramelize the yam slices in a separate skillet with a bit of oil.",
+    "Serve the French toast with caramelized yam, drizzled with maple syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "italian",
+    "yam",
+    "panettone",
+    "caramelized"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-italian-white-yam-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:42:37.813Z"
+}
