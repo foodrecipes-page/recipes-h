@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-spicy-greek-chickpeas-revithia",
+  "title": "Spicy Revithia Chickpea Stew",
+  "description": "A hearty, flavorful stew inspired by Greek cuisine, perfect for a cold evening. Made with chickpeas, revithia, and a kick of spice.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "revithia",
+      "amount": "2 cups, dried"
+    },
+    {
+      "name": "chickpeas, canned",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chili flakes and cook for 1 minute, until fragrant.",
+    "Add revithia, chickpeas, tomato paste, and lemon juice.",
+    "Stir to combine, then add 4 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with lemon wedges and chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "greek",
+    "veggie",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-greek-chickpeas-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:02:07.680Z"
+}
