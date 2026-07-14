@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-indulgent-american-mung-bean-sprout-casserole",
+  "title": "American Bean Sprout Casserole",
+  "description": "A comforting, indulgent American casserole made with mung beans and sprouts. Perfect for a hearty dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mung beans",
+      "amount": "1 cup, dried",
+      "notes": "Soaked overnight"
+    },
+    {
+      "name": "Sprouts",
+      "amount": "2 cups, fresh",
+      "notes": "Any variety"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the mung beans according to package instructions. Drain and set aside.",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the sprouts and cook until tender.",
+    "Stir in the tomato sauce and cook for 2-3 minutes.",
+    "In a large bowl, combine the cooked mung beans, sprout mixture, and cheddar cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with breadcrumbs.",
+    "Bake for 25-30 minutes, or until golden brown and heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "casserole",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-american-mung-bean-sprout-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:52:14.494Z"
+}
