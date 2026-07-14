@@ -1,0 +1,85 @@
+{
+  "slug": "heated-turkish-chicken-kebabs",
+  "title": "Delicious Chicken Kebabs",
+  "description": "A classic Turkish dish featuring marinated chicken cooked to perfection on skewers. Serve with your favorite sides for a flavorful meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, garlic powder, salt, and black pepper. Add the chicken and mix to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the chicken, red bell pepper, and yellow onion onto skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve the kebabs hot with pita bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heated-turkish-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:53:30.620Z"
+}
