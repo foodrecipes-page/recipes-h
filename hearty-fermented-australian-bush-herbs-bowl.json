@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-fermented-australian-bush-herbs-bowl",
+  "title": "Australian Bush Herb Stew",
+  "description": "A hearty stew made with bush herbs and australian bush ingredients, perfect for a cold winter's night.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian bush tomato",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fermented bush herbs",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bowl of vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Hearty beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the beef broth in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Add the chopped bush tomato and fermented bush herbs, stir for 1-2 minutes.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes.",
+    "Add the chopped potatoes and green beans, and continue to simmer for another 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: serve with crusty bread or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "bush",
+    "hearty",
+    "fermented",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fermented-australian-bush-herbs-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:50:40.554Z"
+}
