@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-beef-tunisian-beef-stew",
+  "title": "Tunisian Beef Stew",
+  "description": "A hearty stew from Tunisia, typically served with crusty bread. This recipe is perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "carnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Tunisian harissa",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large pot over medium-high heat. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions and garlic until softened.",
+    "Add the carrots and potatoes, cook for 5 minutes.",
+    "Add the tomato paste, cook for 1 minute.",
+    "Add the beef broth, chickpeas, harissa, salt, and browned beef.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 hour.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "north african",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "40g",
+    "carbs": "30g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-beef-tunisian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:03:03.311Z"
+}
