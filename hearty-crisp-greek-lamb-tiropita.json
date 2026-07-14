@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-crisp-greek-lamb-tiropita",
+  "title": "Greek Tiropita",
+  "description": "A classic Greek cheese pie made with crispy phyllo dough and a savory filling of lamb and feta cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": " Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the phyllo dough into 2-inch squares.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it is no longer pink, about 5-7 minutes.",
+    "Stir in the crumbled feta cheese, salt, and black pepper.",
+    "Place a phyllo square on a flat surface and brush with butter.",
+    "Place a tablespoon of the lamb and feta mixture in the center of the phyllo square.",
+    "Fold the phyllo square in half to form a triangle and press the edges together to seal.",
+    "Repeat with the remaining phyllo squares and filling.",
+    "Place the tiropita on a baking sheet lined with parchment paper.",
+    "Brush the tops with butter and bake until golden brown, about 20-25 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese-pie",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crisp-greek-lamb-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:53:28.078Z"
+}
