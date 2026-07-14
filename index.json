@@ -3327,17 +3327,13 @@
   },
   {
     "slug": "hearty-crumbly-earthly-polish-bake",
-    "title": "Hearty Crumbly Earthly Polish Bake",
+    "title": "Polish Potato Bake",
     "tags": [
-      "bake",
-      "comfort-food",
-      "crumbly",
-      "dessert",
-      "earthly",
-      "polish",
-      "post-workout"
+      "potato-bake",
+      "polish-food",
+      "comfort-food"
     ],
-    "cuisine": "Polish",
+    "cuisine": "polish",
     "totalTimeMin": 50,
     "shard": "h"
   },
@@ -8962,17 +8958,14 @@
   },
   {
     "slug": "hearty-smoked-british-smoked-salmon-cottage-pie",
-    "title": "Hearty Smoked British Smoked Salmon Cottage Pie",
+    "title": "Smoked Salmon Cottage Pie",
     "tags": [
-      "british-classic",
-      "comfort-food",
-      "one-pot",
-      "pescatarian",
       "smoked-salmon",
-      "wine-based"
+      "cottage-pie",
+      "british-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
