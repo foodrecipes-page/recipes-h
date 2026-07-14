@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-crumbly-earthly-polish-bake",
+  "title": "Polish Potato Bake",
+  "description": "A hearty, crumbly potato bake with a twist of polish flavors. This dish is perfect for a cold evening.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup (60g)",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup (115g)",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grate the potatoes using a box grater or food processor.",
+    "In a large skillet, sauté the grated potatoes with butter, salt, and pepper until lightly browned.",
+    "In a separate bowl, mix together flour, caraway seeds, and shredded cheddar cheese.",
+    "Add the dry mixture to the skillet with the potatoes and stir to combine.",
+    "Gradually pour in milk while stirring constantly to prevent lumps.",
+    "Transfer the potato mixture to a greased 9x13-inch baking dish.",
+    "Bake for 25-30 minutes or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato-bake",
+    "polish-food",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crumbly-earthly-polish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:31:08.327Z"
+}
