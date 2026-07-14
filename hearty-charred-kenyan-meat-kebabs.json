@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-charred-kenyan-meat-kebabs",
+  "title": "Kenyan-Style Meat Kebabs",
+  "description": "A hearty and flavorful dish inspired by Kenyan cuisine, featuring charred meat kebabs served with a side of spicy sauce.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef skewers",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread beef onto skewers, alternating with onion and garlic.",
+    "3. Brush skewers with vegetable oil and season with salt and pepper.",
+    "4. Grill skewers for 8-10 minutes per side, or until charred.",
+    "5. Meanwhile, mix together tomato paste, ketchup, soy sauce, honey, and paprika in a small bowl.",
+    "6. Brush sauce onto skewers during last 2 minutes of grilling.",
+    "7. Serve hot with additional sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "meat",
+    "kebabs",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-charred-kenyan-meat-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:11:44.071Z"
+}
