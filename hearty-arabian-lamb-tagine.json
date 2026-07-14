@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-arabian-lamb-tagine",
+  "title": "Classic Moroccan Lamb Tagine",
+  "description": "A traditional and flavorful North African stew originating from the Tagine pottery dish. This recipe serves a hearty and aromatic lamb tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "2 teaspoons",
+      "notes": "for spice"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 teaspoon",
+      "notes": "for spice"
+    },
+    {
+      "name": "paprika powder",
+      "amount": "1 teaspoon",
+      "notes": "for spice"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "for braising"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Brown the lamb chunks until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and grated ginger; cook for 1 minute.",
+    "Add cumin, cinnamon, and paprika; cook for 1 minute.",
+    "Add diced tomatoes and chicken broth; bring to a boil.",
+    "Return lamb to the pot and cover with a tight-fitting lid.",
+    "Transfer the tagine to the preheated oven and cook for 2 hours or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:58:20.515Z"
+}
