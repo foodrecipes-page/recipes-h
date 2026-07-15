@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-garlicky-norwegian-pork-stew",
+  "title": "Norwegian Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and a blend of Norwegian spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1.5 lb",
+      "notes": ""
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth and red wine (if using), whisking constantly.",
+    "Return the pork to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2-3 hours, or until the pork is tender.",
+    "Stir in the apple cider vinegar and dried thyme.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-garlicky-norwegian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:53:48.974Z"
+}
