@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-thai-chicken-nam-prik",
+  "title": "Spicy Thai Chicken Stir-Fry",
+  "description": "A quick and flavorful stir-fry dish originating from Thailand, with spicy chicken and crunchy vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "nam prik",
+      "amount": "2 tbsp",
+      "notes": "Thai chili paste"
+    },
+    {
+      "name": "hearty bell pepper",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "hearty onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "hearty broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add nam prik, bell pepper, and onion. Cook for 3-4 minutes.",
+    "Add broccoli and cook until tender, about 2-3 minutes.",
+    "Stir in Thai basil.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "quick-cooking",
+    "chicken",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-thai-chicken-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:47:59.948Z"
+}
