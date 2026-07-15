@@ -15146,16 +15146,15 @@
   },
   {
     "slug": "honeyed-wholesome-cauliflower-bake",
-    "title": "Honeyed Wholesome Cauliflower Bake",
+    "title": "Cauliflower Delight",
     "tags": [
-      "autumn-vegetarian",
-      "ayurvedic-tamasic-friendly",
-      "no-gluten",
-      "oil-free",
-      "whole-foods-based"
+      "cauliflower",
+      "vegetarian",
+      "side-dish",
+      "main-course"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
