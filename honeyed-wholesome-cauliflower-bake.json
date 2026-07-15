@@ -1,0 +1,68 @@
+{
+  "slug": "honeyed-wholesome-cauliflower-bake",
+  "title": "Cauliflower Delight",
+  "description": "A sweet and savory dish made with wholesome cauliflower, perfect as a side or main course.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "main",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "honeyed bake seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the cauliflower head and remove leaves.",
+    "Cut the cauliflower into florets.",
+    "In a bowl, mix together olive oil, honeyed bake seasoning, salt, and pepper.",
+    "Add the cauliflower florets to the bowl and toss to coat.",
+    "Transfer the cauliflower to a baking sheet.",
+    "Bake for 20-25 minutes or until the cauliflower is tender and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "vegetarian",
+    "side-dish",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-wholesome-cauliflower-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:45:42.600Z"
+}
