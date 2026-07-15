@@ -1902,15 +1902,14 @@
   },
   {
     "slug": "hearty-argentinian-beef-empanadas",
-    "title": "Hearty Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
+      "beef",
+      "empanadas",
       "argentinian",
-      "beef-empanadas",
-      "low-sodium",
-      "quick",
-      "savory"
+      "snack"
     ],
-    "cuisine": "Argentinian",
+    "cuisine": "argentinian",
     "totalTimeMin": 50,
     "shard": "h"
   },
@@ -11087,17 +11086,14 @@
   },
   {
     "slug": "hearty-velvety-vietnamese-pork-bun-bo-hue",
-    "title": "Hearty Velvety Vietnamese Pork Bun Bo Hue",
+    "title": "Vietnamese Hue-Style Pork Noodle Soup",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "pork-based",
-      "soups",
-      "spicy",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "hue-style",
+      "pork-noodle-soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 75,
     "shard": "h"
   },
   {
