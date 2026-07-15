@@ -4670,17 +4670,14 @@
   },
   {
     "slug": "hearty-garlicky-norwegian-pork-stew",
-    "title": "Hearty Garlicky Norwegian Pork Stew",
+    "title": "Norwegian Pork Stew",
     "tags": [
-      "comfort-food",
-      "norwegian-cuisine",
-      "one-pot-meals",
-      "pork-recipes",
-      "stew-recipes",
-      "winter-meals"
+      "norwegian",
+      "pork",
+      "stew"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -9596,16 +9593,16 @@
   },
   {
     "slug": "hearty-soft-chewy-german-sausage-burger",
-    "title": "Hearty, Soft, Chewy German Sausage Burger",
+    "title": "Classic German Bratwurst",
     "tags": [
       "german",
-      "high-protein",
-      "one-pan",
+      "bratwurst",
       "sausage",
-      "weeknight"
+      "grilled",
+      "pretzels"
     ],
     "cuisine": "german",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
