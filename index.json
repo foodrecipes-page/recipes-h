@@ -1430,18 +1430,15 @@
   },
   {
     "slug": "healthy-heavenly-filipino-semolina-halo-halo",
-    "title": "Healthy Heavenly Filipino Semolina Halo Halo",
+    "title": "Filipino Halo-Halo Dessert",
     "tags": [
-      "diabetic-friendly",
-      "filipino-dessert",
-      "gluten-free",
-      "healthy",
-      "refreshing",
-      "semolina",
-      "summer-treats"
+      "filipino",
+      "dessert",
+      "summer",
+      "cooling"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -10445,18 +10442,15 @@
   },
   {
     "slug": "hearty-thai-chicken-nam-prik",
-    "title": "Hearty Thai Chicken Nam Prik",
+    "title": "Spicy Thai Chicken Stir-Fry",
     "tags": [
-      "high-protein",
-      "nam-prik",
-      "nut-free",
-      "post-workout",
-      "quick",
-      "thai",
-      "weeknight"
+      "spicy",
+      "quick-cooking",
+      "chicken",
+      "thai"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -13017,15 +13011,15 @@
   },
   {
     "slug": "herbal-ethiopian-mustard-seeds-stir-fry",
-    "title": "Herbal Ethiopian Mustard Seeds Stir-fry",
+    "title": "Spicy Ethiopian Stir Fry",
     "tags": [
+      "ethiopian",
+      "stir-fry",
       "herbal",
-      "mustard seeds",
-      "lazy sunday",
-      "tender"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
