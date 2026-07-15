@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-kenyan-beef-skillet",
+  "title": "Kenyan Beef Skillet",
+  "description": "A hearty Kenyan-inspired beef skillet recipe, perfect for a quick weeknight dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "beef",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye works well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "green or red, sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Skillet oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+    "Add bell pepper and cook until tender, about 2-3 minutes.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add chili powder, salt, and black pepper. Stir to combine.",
+    "Return beef to skillet and stir to coat with spice mixture.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until beef is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "hearty",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-kenyan-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:35:54.375Z"
+}
