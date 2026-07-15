@@ -6574,16 +6574,15 @@
   },
   {
     "slug": "hearty-kenyan-beef-skillet",
-    "title": "Hearty Kenyan Beef Skillet",
+    "title": "Kenyan Beef Skillet",
     "tags": [
-      "fodmap-friendly",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "kenyan",
+      "hearty",
+      "skillet"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
