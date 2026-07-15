@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-velvety-vietnamese-pork-bun-bo-hue",
+  "title": "Vietnamese Hue-Style Pork Noodle Soup",
+  "description": "A hearty and flavorful Vietnamese soup made with braised pork, pork blood cubes, and a variety of spices served over a bed of noodles.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": "Cut into large chunks"
+    },
+    {
+      "name": "Pork blood cubes",
+      "amount": "200g",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hue-style spice paste",
+      "amount": "2 tablespoons",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "Hue-style noodle",
+      "amount": "200g",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "handful",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and ginger and sauté until fragrant.",
+    "Add pork shoulder and cook until browned on all sides.",
+    "Add fish sauce, soy sauce, and spice paste, and stir to combine.",
+    "Add pork blood cubes and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Cook noodles according to package instructions.",
+    "To serve, place noodles in a bowl, then add braised pork and blood cubes.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "vietnamese",
+    "hue-style",
+    "pork-noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-vietnamese-pork-bun-bo-hue",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:53:12.219Z"
+}
