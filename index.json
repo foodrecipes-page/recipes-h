@@ -1236,18 +1236,15 @@
   },
   {
     "slug": "healing-arabian-lentil-tagine",
-    "title": "Healing Arabian Lentil Tagine",
+    "title": "Healing Lentil Tagine",
     "tags": [
-      "halal-friendly",
-      "hangover-cure",
       "lentil",
-      "mid-east",
-      "one-pot",
       "tagine",
-      "winey"
+      "arabian",
+      "comfort-food"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "arabian",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
