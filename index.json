@@ -10395,17 +10395,15 @@
   },
   {
     "slug": "hearty-tender-moroccan-broad-beans-zaalouk",
-    "title": "Hearty Tender Moroccan Broad Beans Zaalouk",
+    "title": "Moroccan Braised Beans",
     "tags": [
-      "comfort-food",
-      "fermented",
       "moroccan",
-      "one-pot",
-      "vegan",
+      "stew",
+      "beans",
       "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 80,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -12788,17 +12786,14 @@
   },
   {
     "slug": "herbal-crispy-russian-cabbage-stir-fry",
-    "title": "Herbal Crispy Russian Cabbage Stir-fry",
+    "title": "Russian Stir Fry",
     "tags": [
-      "herbal",
-      "crispy",
-      "russian",
-      "cabbage",
       "stir-fry",
-      "vegan-friendly"
+      "russian",
+      "veggie"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "russian",
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
