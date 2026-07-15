@@ -1,0 +1,70 @@
+{
+  "slug": "herbal-crispy-russian-cabbage-stir-fry",
+  "title": "Russian Stir Fry",
+  "description": "A hearty and flavorful dish made with stir-fried cabbage and a crispy herbal twist.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Herbal oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fry spices",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Russian dill",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of herbal oil in a large skillet over medium-high heat.",
+    "Add 1 teaspoon of fry spices and 1 teaspoon of Russian dill. Cook for 1 minute, until fragrant.",
+    "Add the chopped cabbage and cook for 5 minutes, until it starts to soften.",
+    "Add the remaining 1 tablespoon of herbal oil and season with salt and pepper to taste.",
+    "Stir-fry the cabbage for another 2-3 minutes, until it's tender but still crisp.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "russian",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crispy-russian-cabbage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:42:03.655Z"
+}
