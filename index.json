@@ -3272,17 +3272,15 @@
   },
   {
     "slug": "hearty-croatian-tortilla-quesadilla",
-    "title": "Hearty Croatian Tortilla Quesadilla",
+    "title": "Croatian Quesadilla Tortilla",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
+      "croatian",
       "vegetarian",
-      "weeknight"
+      "quesadilla",
+      "tortilla"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
