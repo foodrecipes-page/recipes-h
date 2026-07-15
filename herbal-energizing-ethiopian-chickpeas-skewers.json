@@ -1,0 +1,74 @@
+{
+  "slug": "herbal-energizing-ethiopian-chickpeas-skewers",
+  "title": "Ethiopian Chickpea Skewers",
+  "description": "A flavorful and healthy Ethiopian-inspired dish featuring chickpeas and vegetables, perfect for a quick and easy dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can"
+    },
+    {
+      "name": "ethiopian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together the oil, Ethiopian spice blend, and herbal notes.",
+    "Add the chickpeas, onion, bell pepper, tomato, and cucumber to the bowl and toss to coat with the spice mixture.",
+    "Thread the chickpea mixture onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Transfer the skewers to a plate and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "chickpeas",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-energizing-ethiopian-chickpeas-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:08:25.055Z"
+}
