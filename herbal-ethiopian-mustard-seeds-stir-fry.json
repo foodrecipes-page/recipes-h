@@ -1,0 +1,72 @@
+{
+  "slug": "herbal-ethiopian-mustard-seeds-stir-fry",
+  "title": "Spicy Ethiopian Stir Fry",
+  "description": "A flavorful and spicy stir fry dish from Ethiopia, made with a blend of aromatic spices and herbs.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 tsp",
+      "notes": "store-bought mix"
+    },
+    {
+      "name": "Herbs (such as thyme, oregano)",
+      "amount": "fresh",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil or ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil or ghee in a large skillet over medium heat.",
+    "Add the onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add the mustard seeds and sauté for 1 minute, until fragrant.",
+    "Add the Ethiopian spices and sauté for 1 minute, until fragrant.",
+    "Add the chopped herbs and sauté for 1 minute, until wilted.",
+    "Stir in any additional ingredients, such as vegetables or tofu, and cook until heated through.",
+    "Serve hot over rice or injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stir-fry",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-ethiopian-mustard-seeds-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:00:24.445Z"
+}
