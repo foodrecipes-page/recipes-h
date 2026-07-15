@@ -1,0 +1,102 @@
+{
+  "slug": "hearty-algerian-fenugreek-skillet",
+  "title": "Algerian Fenugreek Skillet",
+  "description": "A hearty Algerian-inspired skillet dish featuring fenugreek and a variety of spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced red bell pepper and cook for 2-3 minutes.",
+    "Add the chopped fenugreek leaves and cook until wilted, about 3-4 minutes.",
+    "Add the cumin powder, paprika, salt, and black pepper. Stir to combine.",
+    "Add the chickpeas and cook for 1-2 minutes.",
+    "Add the tomato paste and stir to combine. Cook for 1-2 minutes.",
+    "Reduce heat to low and simmer for 5-7 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot with crusty bread, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "fenugreek",
+    "skillet",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-algerian-fenugreek-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:33:20.642Z"
+}
