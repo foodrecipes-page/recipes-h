@@ -1,0 +1,81 @@
+{
+  "slug": "healthy-heavenly-filipino-semolina-halo-halo",
+  "title": "Filipino Halo-Halo Dessert",
+  "description": "A classic Filipino dessert made with shaved ice, sweetened beans, fruits, and creamy milk, topped with a scoop of ice cream.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shaved ice",
+      "amount": "2 cups",
+      "notes": "You can also use crushed ice"
+    },
+    {
+      "name": "Red bean",
+      "amount": "1/2 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Kesong puti (Filipino cheese)",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Ube halaya (purple yam jam)",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Leche flan (Filipino custard pudding)",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fruit (such as jackfruit, langka, and kaong)",
+      "amount": "1 cup",
+      "notes": "Choose your favorite fruits"
+    },
+    {
+      "name": "Evaporated milk",
+      "amount": "1 cup",
+      "notes": "You can also use regular milk or cream"
+    },
+    {
+      "name": "Ice cream (vanilla or ube)",
+      "amount": "1 scoop",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shaved ice, red bean, kesong puti, ube halaya, and leche flan (if using)",
+    "Add the evaporated milk and mix well",
+    "Top with your favorite fruits",
+    "If desired, add a scoop of ice cream on top",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "summer",
+    "cooling"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healthy-heavenly-filipino-semolina-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:27:19.793Z"
+}
