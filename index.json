@@ -12958,10 +12958,15 @@
   },
   {
     "slug": "herbal-energizing-ethiopian-chickpeas-skewers",
-    "title": "Herbal Energizing Ethiopian Chickpeas Skewers",
-    "tags": [],
+    "title": "Ethiopian Chickpea Skewers",
+    "tags": [
+      "ethiopian",
+      "chickpeas",
+      "skewers",
+      "vegetarian"
+    ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
