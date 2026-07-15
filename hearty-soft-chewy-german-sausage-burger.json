@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-soft-chewy-german-sausage-burger",
+  "title": "Classic German Bratwurst",
+  "description": "A traditional German dish featuring grilled bratwurst sausage served with a side of soft pretzels. This recipe is perfect for a casual dinner or weekend gathering.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausage",
+      "amount": "1 pound",
+      "notes": "You can find bratwurst sausage at most German or specialty grocery stores"
+    },
+    {
+      "name": "Soft Pretzel Buns",
+      "amount": "4-6",
+      "notes": "You can also make your own pretzel buns from scratch"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 large onion",
+      "notes": "Slice the onion thinly and cook it in a pan with some oil until it's caramelized and sweet"
+    },
+    {
+      "name": "German-Style Mustard",
+      "amount": "1/4 cup",
+      "notes": "You can find German-style mustard at most grocery stores or make your own"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Sprinkle chopped parsley on top of the bratwurst for added flavor"
+    },
+    {
+      "name": "Bun-Sized Sauerkraut",
+      "amount": "1 cup",
+      "notes": "You can find sauerkraut at most grocery stores or make your own"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the bratwurst with salt and pepper.",
+    "Grill the bratwurst for 5-7 minutes per side, or until it reaches an internal temperature of 160°F.",
+    "Meanwhile, toast the pretzel buns on the grill or in a toaster.",
+    "Slice the bratwurst and serve on the toasted pretzel buns.",
+    "Top with caramelized onions, German-style mustard, and chopped parsley.",
+    "Serve with a side of bun-sized sauerkraut.",
+    "Enjoy your delicious German-style bratwurst!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "sausage",
+    "grilled",
+    "pretzels"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-soft-chewy-german-sausage-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:16:53.309Z"
+}
