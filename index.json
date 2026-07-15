@@ -292,18 +292,15 @@
   },
   {
     "slug": "handful-korean-dish-bao",
-    "title": "Gyeonggi Bao",
+    "title": "Steamed Bao with Korean BBQ Beef",
     "tags": [
-      "date-night",
-      "easy-to-make",
       "korean",
-      "low-glycemic",
-      "one-pan",
-      "pillowy",
-      "umami"
+      "bbq",
+      "steamed",
+      "bacon"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
