@@ -1,0 +1,68 @@
+{
+  "slug": "hearty-croatian-tortilla-quesadilla",
+  "title": "Croatian Quesadilla Tortilla",
+  "description": "A hearty twist on traditional quesadillas, blending Croatian flavors with Mexican comfort food.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tortilla",
+      "amount": "4-6"
+    },
+    {
+      "name": "Quesadilla Cheese",
+      "amount": "1 block (8 oz)"
+    },
+    {
+      "name": "Kajmak (or Croatian Cheese)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Prosciutto (or Croatian Ham)",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Lay a tortilla in the skillet and sprinkle with cheese.",
+    "Add a few slices of prosciutto on one half of the tortilla.",
+    "Sprinkle with parsley and garlic.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is also crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "vegetarian",
+    "quesadilla",
+    "tortilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-tortilla-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:32:47.874Z"
+}
