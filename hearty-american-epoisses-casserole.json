@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-american-epoisses-casserole",
+  "title": "Hearty American Casserole",
+  "description": "A classic American comfort dish made with ground beef, macaroni, and a blend of cheeses.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Macaroni",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the butter, flour, and cooked macaroni to the skillet with the ground beef. Stir to combine.",
+    "Pour in the milk and stir until the mixture thickens. Bring to a simmer and cook for 2-3 minutes.",
+    "Stir in the shredded cheddar and mozzarella cheese until melted and smooth.",
+    "Remove the skillet from the heat and stir in the crumbled Epoisses cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with additional shredded cheese if desired.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "casserole",
+    "mac-and-cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-american-epoisses-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:28:25.081Z"
+}
