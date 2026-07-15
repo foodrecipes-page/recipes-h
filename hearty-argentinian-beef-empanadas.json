@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A traditional Argentinian dish filled with tender beef, onions, and spices, wrapped in a flaky pastry crust.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Pastry Dough",
+      "amount": "homemade or store-bought",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the chili flakes, cumin, salt, and pepper to the beef mixture and stir to combine.",
+    "On a lightly floured surface, roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Brush the tops of the empanadas with the remaining egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "argentinian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:19:48.320Z"
+}
