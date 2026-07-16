@@ -1,0 +1,69 @@
+{
+  "slug": "honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae--mexican",
+  "title": "Spicy Mexican Menudo Stew",
+  "description": "A traditional Mexican breakfast dish made with a flavorful broth, tender tripe, and a hint of spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Menudo",
+      "amount": "1 lb",
+      "notes": "Tripe or hominy"
+    },
+    {
+      "name": "Kkaennip",
+      "amount": "1/4 cup",
+      "notes": "Korean perilla leaves, chopped"
+    },
+    {
+      "name": "Perilla",
+      "amount": "2 tbsp",
+      "notes": "Perilla oil"
+    },
+    {
+      "name": "Honeyed Bitter Gourd",
+      "amount": "1/2 gourd",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Filipino Chili Peppers",
+      "amount": "2-3",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Heat the perilla oil in a large pot over medium-high heat.",
+    "Add the diced chili peppers and cook until fragrant.",
+    "Add the menudo and cook until lightly browned.",
+    "Add the sliced honeyed bitter gourd and chopped kkaennip.",
+    "Pour in enough water to cover the ingredients and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 1/2 hours.",
+    "Season with salt to taste.",
+    "Serve hot with lime wedges and chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "spicy",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:43:07.860Z"
+}
