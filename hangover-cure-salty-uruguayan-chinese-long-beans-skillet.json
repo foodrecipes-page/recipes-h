@@ -1,0 +1,80 @@
+{
+  "slug": "hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
+  "title": "Uruguayan Hangover Breakfast",
+  "description": "A hearty breakfast dish to cure your hangover, inspired by Uruguayan cuisine. This skillet meal is packed with flavor and will leave you feeling satisfied.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Uruguayan sausage",
+      "amount": "4 links",
+      "notes": null
+    },
+    {
+      "name": "Cure beans (black beans)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salty skillet cornbread mix",
+      "amount": "1 package",
+      "notes": "Follow package instructions"
+    },
+    {
+      "name": "Chinese long hot sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Uruguayan sausage in a skillet over medium-high heat, breaking it up with a spoon as it cooks, until browned, about 5 minutes.",
+    "Add the Cure beans, Chinese long hot sauce, and olive oil to the skillet. Cook for 1-2 minutes.",
+    "Crack in the eggs and scramble them with the bean mixture.",
+    "Add the cooked sausage back into the skillet and stir to combine.",
+    "Pour in the Saltly skillet cornbread mix and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until the cornbread is golden brown.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "uruguayan",
+    "skillet-dish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:10:01.265Z"
+}
