@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-herbal-croatian-bok-choi-skewers",
+  "title": "Croatian Bok Choi Stir-Fry",
+  "description": "A hearty and flavorful Croatian-inspired stir-fry made with bok choy and served with herbal skewers on the side.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "2 bunches",
+      "notes": "Separate the leaves from the stalks"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Croatian Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skewers (Herbal)",
+      "amount": "1 pack",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the separated bok choy leaves and cook until wilted.",
+    "Add the red pepper flakes and Croatian paprika, and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir-fry hot, accompanied by herbal skewers on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stir-fry",
+    "bok-choi",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-croatian-bok-choi-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:12:42.790Z"
+}
