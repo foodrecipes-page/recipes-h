@@ -1,0 +1,69 @@
+{
+  "slug": "hearty-velvety-filipino-grass-halo-halo",
+  "title": "Halo-Halo Filipino Dessert",
+  "description": "A classic Filipino dessert consisting of shaved ice, sweetened beans, fruits, and creamy milk. This version adds a unique twist with the addition of velvety coconut milk.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Shredded ice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sweetened beans (red and white)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kesong puti (Filipino cheese)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Leche flan (caramel custard)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ube halaya (purple yam jam)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Velvety coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh langka (jackfruit) and kaong (palm fruit)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded ice, sweetened beans, kesong puti, and leche flan.",
+    "Pour the ube halaya over the top of the mixture.",
+    "Drizzle the velvety coconut milk over the ube halaya.",
+    "Top with fresh langka and kaong.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "frozen",
+    "philippine",
+    "filipino",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-filipino-grass-halo-halo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:21:05.613Z"
+}
