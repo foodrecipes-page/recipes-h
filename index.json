@@ -549,16 +549,15 @@
   },
   {
     "slug": "hangover-cure-salty-uruguayan-chinese-long-beans-skillet",
-    "title": "Hangover-cure Salty Uruguayan Chinese Long Beans Skillet",
+    "title": "Uruguayan Hangover Breakfast",
     "tags": [
+      "breakfast",
       "hangover-cure",
-      "low-sodium",
-      "one-pan",
-      "spicy",
-      "uruguayan"
+      "uruguayan",
+      "skillet-dish"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 30,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -14040,16 +14039,15 @@
   },
   {
     "slug": "herby-show-off-fried-german-pistachio-fritters",
-    "title": "Herby Show-Off Fried German Pistachio Fritters",
+    "title": "Herby German Fritters",
     "tags": [
-      "fritters",
       "german",
-      "herby",
-      "keto",
-      "snack"
+      "snack",
+      "fritters",
+      "herby"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -17049,6 +17047,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 170,
+    "shard": "h"
+  },
+  {
+    "slug": "harmonic-australian-flaxseed-pancakes--italian",
+    "title": "Italian Flaxseed Pancakes",
+    "tags": [
+      "italian",
+      "breakfast",
+      "flaxseed",
+      "pancakes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "h"
   }
 ]
