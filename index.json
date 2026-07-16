@@ -16971,5 +16971,31 @@
     "cuisine": "thai",
     "totalTimeMin": 32,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-shaggy-algerian-tamarind-ball-tagine--italian",
+    "title": "Herbal Shaggy Tagine Chicken",
+    "tags": [
+      "italian",
+      "chicken",
+      "tagine",
+      "braised"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-bitter-filipino-perilla-leaf-kkaennip-filipino-menudo-jjigae--mexican",
+    "title": "Spicy Mexican Menudo Stew",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "spicy",
+      "soup"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 105,
+    "shard": "h"
   }
 ]
