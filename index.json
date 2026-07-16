@@ -1031,16 +1031,16 @@
   },
   {
     "slug": "hazy-and-energizing-croatian-croatian-flatbread-dish-pizza",
-    "title": "croatian flatbread pizza",
+    "title": "Croatian Flatbread Pizza",
     "tags": [
       "croatian",
-      "easy",
+      "flatbread",
+      "pizza",
       "snack",
-      "tagine",
-      "vegan"
+      "quick"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 27,
+    "cuisine": "Croatian",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -16996,6 +16996,45 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 105,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-energizing-ethiopian-chickpeas-skewers--german",
+    "title": "Energizing German Skewers with Chickpeas",
+    "tags": [
+      "german",
+      "chickpeas",
+      "energy-boosting"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-grilled-syrian-penne-pasta-grill--german",
+    "title": "German Grilled Bratwurst Penne",
+    "tags": [
+      "german",
+      "pasta",
+      "grilled",
+      "meat",
+      "sausages"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-almond-menemen--mexican",
+    "title": "Turkish-Style Breakfast Tacos",
+    "tags": [
+      "breakfast",
+      "tacos",
+      "mexican",
+      "turkish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
