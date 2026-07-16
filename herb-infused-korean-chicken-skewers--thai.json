@@ -1,0 +1,67 @@
+{
+  "slug": "herb-infused-korean-chicken-skewers--thai",
+  "title": "Thai Chicken Skewers",
+  "description": "A classic Thai dish featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "thai",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "such as lemongrass or chili oil"
+    },
+    {
+      "name": "herb",
+      "amount": "2 tablespoons",
+      "notes": "such as cilantro or basil"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with sriracha"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 skewers",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together infused oil, herb, and korean chili flakes.",
+    "Add the chicken cubes to the marinade and mix until coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve hot with your favorite Thai sides, such as rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herb-infused-korean-chicken-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:34:41.565Z"
+}
