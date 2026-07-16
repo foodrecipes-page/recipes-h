@@ -1,0 +1,65 @@
+{
+  "slug": "herbal-egyptian-raspberries-tart--italian",
+  "title": "Tart Raspberry Panna Cotta",
+  "description": "A creamy Italian dessert made with fresh raspberries and a tangy tart crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tart",
+      "amount": "1 sheet (thawed)"
+    },
+    {
+      "name": "raspberries",
+      "amount": "2 cups (fresh)"
+    },
+    {
+      "name": "herbal honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egyptian cream",
+      "amount": "1 cup (heavy cream)"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Roll out the tart and place on a baking sheet. Bake for 10-12 minutes, or until lightly browned.",
+    "In a medium bowl, whisk together the raspberries and honey until well combined.",
+    "In a separate bowl, whip the cream until stiff peaks form.",
+    "Fold the whipped cream into the raspberry mixture until no white streaks remain.",
+    "Pour the mixture into the baked tart crust.",
+    "Chill in the refrigerator for at least 2 hours, or until set.",
+    "Drizzle with additional honey, if desired.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "raspberry",
+    "panna-cotta"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-egyptian-raspberries-tart--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:56:07.891Z"
+}
