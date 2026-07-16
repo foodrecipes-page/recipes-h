@@ -11778,19 +11778,15 @@
   },
   {
     "slug": "heavily-sugared-portuguese-duck-pate",
-    "title": "Heavily Sugared Portuguese Duck Pate",
+    "title": "Portuguese Duck Pate",
     "tags": [
-      "buddhist-friendly",
-      "date-night",
-      "duck",
-      "fondue",
-      "pate",
       "portuguese",
-      "romantic",
-      "vegan-friendly"
+      "duck",
+      "pate",
+      "appetizer"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -16934,6 +16930,46 @@
     ],
     "cuisine": null,
     "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-juicy-french-chicken-tarte-tatin--german",
+    "title": "German Chicken Tarte Tatin",
+    "tags": [
+      "german",
+      "chicken",
+      "dessert",
+      "tarte",
+      "french"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-juicy-french-chicken-tarte-tatin--gluten-free",
+    "title": "French Gluten-Free Chicken Tarte Tatin",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "dessert",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "herb-infused-korean-chicken-skewers--thai",
+    "title": "Thai Chicken Skewers",
+    "tags": [
+      "thai",
+      "grilled",
+      "chicken",
+      "skewers"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 32,
     "shard": "h"
   }
 ]
