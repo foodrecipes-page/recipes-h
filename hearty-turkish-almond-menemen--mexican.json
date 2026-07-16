@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-turkish-almond-menemen--mexican",
+  "title": "Turkish-Style Breakfast Tacos",
+  "description": "A hearty twist on traditional tacos, featuring scrambled eggs, chorizo, and a tangy salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chorizo",
+      "amount": "1/2 pound",
+      "notes": "Mexican-style chorizo"
+    },
+    {
+      "name": "eggs",
+      "amount": "4-6",
+      "notes": "Fresh eggs"
+    },
+    {
+      "name": "menemen spice blend",
+      "amount": "1 tablespoon",
+      "notes": "Turkish-inspired spice blend"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "Warm tortillas for serving"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro for garnish"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": "Optional feta cheese for topping"
+    },
+    {
+      "name": "menemen salsa",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought salsa"
+    },
+    {
+      "name": "almond oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking chorizo"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of almond oil in a large skillet over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until browned and crispy, about 5-7 minutes.",
+    "Remove the chorizo from the skillet with a slotted spoon and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of almond oil.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Push the garlic to one side of the skillet.",
+    "Crack in 2-3 eggs and scramble them until cooked through.",
+    "Add the menemen spice blend to the eggs and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the scrambled eggs onto a tortilla, followed by some chorizo, a sprinkle of feta cheese, and a dollop of menemen salsa.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "tacos",
+    "mexican",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-turkish-almond-menemen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:30:14.825Z"
+}
