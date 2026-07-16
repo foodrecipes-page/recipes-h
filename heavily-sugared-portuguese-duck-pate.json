@@ -1,0 +1,83 @@
+{
+  "slug": "heavily-sugared-portuguese-duck-pate",
+  "title": "Portuguese Duck Pate",
+  "description": "A rich and savory Portuguese-style duck pate, perfect for spreading on crackers or bread.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat-only",
+    "pork-free",
+    "fish-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Heavily Sugared Duck Liver",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Pork Fat",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Rinse the duck liver and pat it dry with paper towels.",
+    "3. In a skillet, heat the pork fat over medium heat.",
+    "4. Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "5. Add the duck liver to the skillet and cook until browned.",
+    "6. In a blender or food processor, combine the cooked duck liver mixture, salt, and pepper.",
+    "7. Blend the mixture until smooth.",
+    "8. Stir in the chopped parsley.",
+    "9. Transfer the mixture to a 9x13 inch baking dish.",
+    "10. Bake the pate in the preheated oven for 25-30 minutes, or until it reaches an internal temperature of 160°F (71°C).",
+    "11. Remove the pate from the oven and let it cool to room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "duck",
+    "pate",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavily-sugared-portuguese-duck-pate",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:02:36.189Z"
+}
