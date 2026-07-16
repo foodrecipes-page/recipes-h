@@ -1,0 +1,107 @@
+{
+  "slug": "hearty-smoky-algerian-lamb-tagine--indian",
+  "title": "Smoky Algerian Lamb Tagine",
+  "description": "A hearty and flavorful North African-inspired lamb tagine with smoky spices.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "or regular paprika"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium-high.",
+    "Brown lamb in batches, then remove from pot and set aside.",
+    "Reduce heat to medium, add more oil if needed, and cook onions until softened.",
+    "Add garlic, cumin, coriander, turmeric, cayenne pepper (if using), salt, and black pepper; cook 1 minute.",
+    "Add browned lamb back to pot, along with 1 cup of water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until lamb is tender.",
+    "Stir in smoked paprika and cook 10 minutes more.",
+    "Taste and adjust seasoning.",
+    "Garnish with cilantro and serve hot over couscous or rice.",
+    "Serve with warm pita bread or flatbread for dipping in the juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "indian-inspired",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-algerian-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:34:31.126Z"
+}
