@@ -17036,5 +17036,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-algerian-lamb-tagine--indian",
+    "title": "Smoky Algerian Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "north-african",
+      "indian-inspired",
+      "smoky"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 170,
+    "shard": "h"
   }
 ]
