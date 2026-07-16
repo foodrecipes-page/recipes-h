@@ -1,0 +1,80 @@
+{
+  "slug": "harmonic-australian-flaxseed-pancakes--italian",
+  "title": "Italian Flaxseed Pancakes",
+  "description": "A twist on traditional pancakes, these Italian flaxseed pancakes are a delicious breakfast option. The flaxseed adds a nutty flavor and crunch to the pancake.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "australian wheat flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "harmonic sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pancakes",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons, melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flaxseed, flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, crumbled pancakes, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "flaxseed",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harmonic-australian-flaxseed-pancakes--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:11:05.668Z"
+}
