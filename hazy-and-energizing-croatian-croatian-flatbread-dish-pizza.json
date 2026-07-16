@@ -1,0 +1,80 @@
+{
+  "slug": "hazy-and-energizing-croatian-croatian-flatbread-dish-pizza",
+  "title": "Croatian Flatbread Pizza",
+  "description": "A simple flatbread pizza recipe with a twist of Croatian flavors. This dish is perfect for a quick snack or light meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Croatian Flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": "Optional, for extra Croatian flavor"
+    },
+    {
+      "name": "Pizza",
+      "amount": "1 jar (homemade or store-bought)",
+      "notes": null
+    },
+    {
+      "name": "Hazy",
+      "amount": "to taste",
+      "notes": "Optional, a unique twist"
+    },
+    {
+      "name": "Energizing",
+      "amount": "to taste",
+      "notes": "Optional, add a burst of energy"
+    },
+    {
+      "name": "Dish",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Spread a thin layer of pizza sauce or homemade pizza topping on each flatbread piece.",
+    "Add shredded mozzarella cheese, if desired.",
+    "Bake in the preheated oven for 10-12 minutes, or until the crust is golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Top with hazy, energizing, and dish, to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Add another layer of Croatian flatbread for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "flatbread",
+    "pizza",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": "250-350",
+    "protein": "10-15g",
+    "carbs": "30-40g",
+    "fat": "10-15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hazy-and-energizing-croatian-croatian-flatbread-dish-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:12:32.991Z"
+}
