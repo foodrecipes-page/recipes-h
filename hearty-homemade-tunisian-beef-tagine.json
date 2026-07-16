@@ -1,0 +1,105 @@
+{
+  "slug": "hearty-homemade-tunisian-beef-tagine",
+  "title": "Tunisian Beef Tagine",
+  "description": "A hearty, slow-cooked stew originating from Tunisia, made with tender beef and aromatic spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Chuck",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute.",
+    "Stir in the cumin, coriander, cinnamon, turmeric, salt, and pepper. Cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the beef to the pot and bring to a simmer.",
+    "Cover the pot and transfer it to the oven. Braise the tagine for 2 1/2 hours, or until the beef is tender.",
+    "Skim off any excess fat from the surface of the tagine.",
+    "Serve the tagine hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "tunisian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-tunisian-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:31:01.358Z"
+}
