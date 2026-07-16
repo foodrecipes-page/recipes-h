@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-grilled-syrian-penne-pasta-grill--german",
+  "title": "German Grilled Bratwurst Penne",
+  "description": "A hearty German-inspired pasta dish with grilled bratwurst and penne pasta, perfect for a quick and satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausages",
+      "amount": "4-6 count",
+      "notes": "German-style pork sausages"
+    },
+    {
+      "name": "Penne Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "Halved"
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill bratwurst sausages for 5-7 minutes per side, or until cooked through.",
+    "Cook penne pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add chopped onion, bell pepper, and tomato to the skillet.",
+    "Cook until vegetables are tender, about 5 minutes.",
+    "Add cherry tomatoes to the skillet and cook for an additional 2 minutes.",
+    "Slice grilled bratwurst sausages and add to the skillet.",
+    "Stir in grill seasoning and cook for 1-2 minutes.",
+    "Combine cooked penne pasta with the skillet mixture and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pasta",
+    "grilled",
+    "meat",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-grilled-syrian-penne-pasta-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:22:06.708Z"
+}
