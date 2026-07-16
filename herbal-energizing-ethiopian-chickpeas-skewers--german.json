@@ -1,0 +1,61 @@
+{
+  "slug": "herbal-energizing-ethiopian-chickpeas-skewers--german",
+  "title": "Energizing German Skewers with Chickpeas",
+  "description": "A flavorful German-inspired dish made with energizing ingredients, perfect for a summer evening. Chickpeas add a boost of protein and fiber to this tasty skewer.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "herbal tea",
+      "amount": "1 cup",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, whisk together herbal tea, olive oil, and Ethiopian spices.",
+    "3. Add the chickpeas to the bowl and toss to coat.",
+    "4. Thread the chickpeas onto skewers.",
+    "5. Grill the skewers for 5-7 minutes, turning frequently.",
+    "6. Serve hot with additional Ethiopian spices on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "chickpeas",
+    "energy-boosting"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "10g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-energizing-ethiopian-chickpeas-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:02:07.254Z"
+}
