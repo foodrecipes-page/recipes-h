@@ -5330,17 +5330,15 @@
   },
   {
     "slug": "hearty-herbal-croatian-bok-choi-skewers",
-    "title": "Hearty Herbal Croatian Bok Choi Skewers",
+    "title": "Croatian Bok Choi Stir-Fry",
     "tags": [
-      "cheesy",
-      "gluten-free",
-      "grilled",
-      "healthy",
-      "herbal",
-      "vegetarian"
+      "croatian",
+      "stir-fry",
+      "bok-choi",
+      "herbal"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -5770,17 +5768,15 @@
   },
   {
     "slug": "hearty-homemade-tunisian-beef-tagine",
-    "title": "Hearty Homemade Tunisian Beef Tagine",
+    "title": "Tunisian Beef Tagine",
     "tags": [
       "beef",
-      "comfort-food",
-      "hearty",
-      "homemade",
-      "tagine",
-      "tunisian"
+      "stew",
+      "tunisian",
+      "slow-cooked"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
