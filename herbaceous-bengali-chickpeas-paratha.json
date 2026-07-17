@@ -1,0 +1,88 @@
+{
+  "slug": "herbaceous-bengali-chickpeas-paratha",
+  "title": "Bengali Chickpea Paratha Wrap",
+  "description": "A flavorful and easy-to-make Indian-inspired wrap filled with spiced chickpeas, served in a crispy paratha.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Herbaceous Chutney",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "for brushing paratha"
+    },
+    {
+      "name": "Paratha",
+      "amount": "1-2 (depending on size)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a bowl, mix together chickpeas, garam masala, cumin, coriander, salt, and herbaceous chutney.",
+    "Brush the paratha with butter and cook for 1-2 minutes or until it starts to puff up.",
+    "Flip the paratha and cook for another minute.",
+    "Spoon the chickpea mixture onto one half of the paratha and fold the other half over to enclose.",
+    "Cook for an additional 2-3 minutes or until the paratha is crispy and the filling is heated through.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Repeat with the remaining ingredients to make additional wraps."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lunch",
+    "wrap",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-bengali-chickpeas-paratha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:50:29.867Z"
+}
