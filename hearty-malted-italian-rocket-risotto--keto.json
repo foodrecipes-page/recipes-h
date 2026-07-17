@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-malted-italian-rocket-risotto--keto",
+  "title": "Malted Italian Risotto with Rocket",
+  "description": "A keto-friendly twist on traditional risotto, featuring malted flavors and a peppery kick from rocket.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian-Style Risotto Rice",
+      "amount": "250g",
+      "notes": "Make sure to use a keto-friendly brand."
+    },
+    {
+      "name": "Malted Broth",
+      "amount": "500ml",
+      "notes": "Use a low-carb broth to stay keto."
+    },
+    {
+      "name": "Rocket Leaves",
+      "amount": "100g",
+      "notes": "Fresh or frozen, but make sure they're not wilted."
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "50g",
+      "notes": "Choose a keto-friendly, aged Parmesan."
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "20g",
+      "notes": "Use a high-quality, salted butter."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, for added flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use a keto-friendly salt, like Himalayan pink salt."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the malted broth to a simmer in a separate pot.",
+    "Melt 10g of butter in a large skillet over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the Italian-Style Risotto Rice and cook for 2-3 minutes, until lightly toasted.",
+    "Add 250ml of the malted broth to the skillet, stirring constantly until absorbed.",
+    "Repeat the process, adding the broth in 250ml increments, and stirring until absorbed, for 15-20 minutes, or until the risotto is cooked through.",
+    "Stir in the remaining 10g of butter and the Parmesan cheese.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the risotto to a serving dish and top with rocket leaves.",
+    "Serve immediately, garnished with additional rocket leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "rocket",
+    "malted",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 52
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malted-italian-rocket-risotto--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:28:48.367Z"
+}
