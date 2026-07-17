@@ -1,0 +1,75 @@
+{
+  "slug": "healthy-hearty-japanese-cabbage-agedashi",
+  "title": "Agedashi Cabbage Tempura",
+  "description": "A crispy and savory Japanese-inspired dish featuring cabbage and a light batter.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "agedashi broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the cabbage into thin wedges and separate the leaves.",
+    "In a large bowl, whisk together the flour, cornstarch, and a pinch of salt.",
+    "Add the daikon and mix well.",
+    "Add the cabbage to the bowl and toss to coat with the batter.",
+    "Heat about 2 inches of vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add the cabbage wedges in batches and fry until golden brown.",
+    "Using a slotted spoon, remove the tempura from the oil and drain on paper towels.",
+    "Serve the tempura hot with a side of agedashi broth for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agedashi",
+    "cabbage",
+    "japanese",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healthy-hearty-japanese-cabbage-agedashi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:41:33.454Z"
+}
