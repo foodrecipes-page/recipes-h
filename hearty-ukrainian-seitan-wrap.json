@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-ukrainian-seitan-wrap",
+  "title": "Seitan Ukrainian Wrap",
+  "description": "A hearty and flavorful Ukrainian-inspired wrap filled with seitan and vegetables.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Seitan",
+      "amount": "1 package"
+    },
+    {
+      "name": "Vine tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "creamy"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Wraps",
+      "amount": "4 large",
+      "notes": "whole wheat"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tsp of oil and sauté the garlic until fragrant.",
+    "Add the diced tomatoes, shredded cabbage, and chopped green onions. Cook for 5 minutes.",
+    "Add the seitan and cook for an additional 2 minutes.",
+    "In a small bowl, mix together the tahini and lemon juice.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the seitan mixture onto the center of each wrap, then drizzling with the tahini-lemon sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "gluten-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-ukrainian-seitan-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:39:29.160Z"
+}
