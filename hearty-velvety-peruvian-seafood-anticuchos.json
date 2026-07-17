@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-velvety-peruvian-seafood-anticuchos",
+  "title": "Grilled Anticuchos with Peruvian-Style Sauce",
+  "description": "A traditional Peruvian dish featuring grilled beef heart skewers served with a tangy and creamy sauce. Perfect for a quick and flavorful meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "peruvian aji amarillo sauce",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread beef heart cubes onto skewers, leaving a small space between each cube.",
+    "3. Brush skewers with oil and season with salt and pepper.",
+    "4. Grill skewers for 2-3 minutes per side, or until cooked to desired level of doneness.",
+    "5. Meanwhile, heat aji amarillo sauce in a saucepan over medium heat.",
+    "6. Add sliced red onion and red bell pepper to the saucepan and cook until tender.",
+    "7. Stir in chopped cilantro, garlic, and soy sauce (if using).",
+    "8. Serve grilled anticuchos with peruvian-style sauce and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood-free",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-peruvian-seafood-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:48:20.798Z"
+}
