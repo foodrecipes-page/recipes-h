@@ -11478,18 +11478,15 @@
   },
   {
     "slug": "heavenly-flaky-mexican-chicken-sizzling-fajita-sizzle",
-    "title": "Heavenly Flaky Mexican Chicken Sizzling Fajita Sizzle",
+    "title": "Sizzling Chicken Fajita",
     "tags": [
-      "healthy-recipe",
-      "high-protein",
-      "mexican-food",
-      "one-pan",
-      "romantic",
-      "shojin-friendly",
-      "weeknight"
+      "chicken",
+      "fajita",
+      "mexican",
+      "easy-dinner"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -17073,6 +17070,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-malted-italian-rocket-risotto--keto",
+    "title": "Malted Italian Risotto with Rocket",
+    "tags": [
+      "italian",
+      "risotto",
+      "rocket",
+      "malted",
+      "keto"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "h"
   }
 ]
