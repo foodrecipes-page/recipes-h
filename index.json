@@ -10676,17 +10676,15 @@
   },
   {
     "slug": "hearty-umami-egyptian-sausage-skewers",
-    "title": "Hearty Umami Egyptian Sausage Skewers",
+    "title": "Egyptian Sausage Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "egyptian",
+      "kebabs",
+      "sausages",
+      "grill"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17148,6 +17146,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-indulgent-jamaican-cheese-grill--indian",
+    "title": "Grilled Cheese Naan Bites",
+    "tags": [
+      "indian",
+      "grill",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 16,
     "shard": "h"
   }
 ]
