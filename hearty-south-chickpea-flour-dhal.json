@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-south-chickpea-flour-dhal",
+  "title": "South Indian Chickpea Dhal Curry",
+  "description": "A flavorful and nutritious curry made with chickpeas and dhal, inspired by South Indian cuisine. Serve with steaming hot rice or roti.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "dhal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 sprig",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, garlic, and ginger. Sauté until the onion is translucent.",
+    "Add curry leaves (if using) and sauté for another minute.",
+    "Add chickpeas, dhal, salt, and chili powder. Mix well.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and let it simmer for 20-25 minutes or until the dhal is cooked.",
+    "Check the seasoning and adjust as needed.",
+    "Serve hot with steaming hot rice or roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "south indian",
+    "chickpea",
+    "dhal",
+    "curry",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-south-chickpea-flour-dhal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:12:09.977Z"
+}
