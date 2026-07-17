@@ -17083,5 +17083,32 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-crumbly-algerian-potatoes-tagine--chinese",
+    "title": "Spicy Herbal Crusted Potatoes",
+    "tags": [
+      "chinese",
+      "herbal",
+      "potatoes",
+      "crumbly"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hangover-cure-vietnamese-kale-cha-gio--indian",
+    "title": "Kale Hangover Cure Chaats",
+    "tags": [
+      "indian",
+      "breakfast",
+      "kale",
+      "chaat",
+      "hangover-cure"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
