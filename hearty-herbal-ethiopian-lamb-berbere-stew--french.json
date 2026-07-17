@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-herbal-ethiopian-lamb-berbere-stew--french",
+  "title": "French Lamb Stew with Berbere",
+  "description": "A rich and flavorful French-inspired stew made with lamb, berbere spice, and hearty vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chop"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb cubes in batches until browned on all sides, about 5 minutes.",
+    "Remove lamb from pot and set aside.",
+    "Add more oil if necessary, then sauté onions and garlic until softened, about 5 minutes.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add berbere spice, red wine, and beef broth, scraping up browned bits.",
+    "Return lamb to pot, bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F (150°C) for 2.5 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "berbere",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-ethiopian-lamb-berbere-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:13:12.766Z"
+}
