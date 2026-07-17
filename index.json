@@ -17110,5 +17110,17 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-crispy-ukrainian-potato-dumplings--vegan",
+    "title": "Crispy Ukrainian-Style Vegan Potato Dumplings",
+    "tags": [
+      "vegan",
+      "ukrainian",
+      "dumplings"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
