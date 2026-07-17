@@ -11035,18 +11035,14 @@
   },
   {
     "slug": "hearty-velvety-peruvian-seafood-anticuchos",
-    "title": "Hearty Velvety Peruvian Seafood Anticuchos",
+    "title": "Grilled Anticuchos with Peruvian-Style Sauce",
     "tags": [
-      "dinner",
-      "gluten-free",
-      "paleo",
       "peruvian",
-      "seafood",
-      "stone-bowl",
-      "whole30"
+      "seafood-free",
+      "beef"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "h"
   },
   {
@@ -17181,6 +17177,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-malty-ukrainian-soya-pudding--gluten-free",
+    "title": "Soya Pudding with Ukrainian Flair",
+    "tags": [
+      "soya",
+      "ukrainian",
+      "pudding",
+      "gluten-free",
+      "dessert"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-canadian-lentils-lasagna--gluten-free",
+    "title": "Hearty Canadian Lentil Stew",
+    "tags": [
+      "gluten-free",
+      "lentils",
+      "stew"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
     "shard": "h"
   }
 ]
