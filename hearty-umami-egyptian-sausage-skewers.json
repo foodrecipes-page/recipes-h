@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-umami-egyptian-sausage-skewers",
+  "title": "Egyptian Sausage Kebabs",
+  "description": "A flavorful and aromatic kebab recipe inspired by Egyptian cuisine, featuring juicy sausage and vegetables.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "4-6 pieces",
+      "notes": "You can use any type of sausage, but Egyptian sausage is a good option"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Cut the onion into large chunks"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2 large",
+      "notes": "Any color bell pepper works well"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Cherry tomatoes or large tomatoes both work well"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before adding it to the kebabs"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Use sweet or smoked paprika for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt before serving"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Use fresh or pre-ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat (400°F / 200°C).",
+    "In a small bowl, mix together minced garlic and paprika.",
+    "Thread the sausage, onion, bell pepper, tomato, and garlic onto skewers.",
+    "Brush the kebabs with oil and season with salt and black pepper.",
+    "Place the kebabs on the grill and cook for 8-10 minutes, turning occasionally.",
+    "Check the internal temperature of the sausage to ensure it reaches 160°F (71°C).",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "kebabs",
+    "sausages",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-egyptian-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:47:35.650Z"
+}
