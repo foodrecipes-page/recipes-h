@@ -1,0 +1,60 @@
+{
+  "slug": "herbal-crumbly-algerian-potatoes-tagine--chinese",
+  "title": "Spicy Herbal Crusted Potatoes",
+  "description": "Inspired by traditional Chinese flavors, this dish combines herbal notes with a crunchy crumbly crust.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "algerian crumbly",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 tbsp",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss potatoes with herbal, algerian crumbly, and tagine until well coated.",
+    "Transfer potatoes to a baking sheet and roast for 20 minutes.",
+    "Increase oven temperature to broil and cook for an additional 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "herbal",
+    "potatoes",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crumbly-algerian-potatoes-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:17:52.519Z"
+}
