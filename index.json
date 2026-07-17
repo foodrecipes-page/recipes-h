@@ -17136,5 +17136,18 @@
     "cuisine": "Thai",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-herbal-ethiopian-lamb-berbere-stew--french",
+    "title": "French Lamb Stew with Berbere",
+    "tags": [
+      "lamb",
+      "berbere",
+      "stew",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 180,
+    "shard": "h"
   }
 ]
