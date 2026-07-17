@@ -9642,16 +9642,17 @@
   },
   {
     "slug": "hearty-south-chickpea-flour-dhal",
-    "title": "Hearty South Chickpea Flour Dhal",
+    "title": "South Indian Chickpea Dhal Curry",
     "tags": [
-      "high-fiber",
-      "indian",
-      "one-pan",
-      "south-indian",
+      "south indian",
+      "chickpea",
+      "dhal",
+      "curry",
+      "vegan",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -17170,6 +17171,18 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-ukrainian-chicken-skillet--indian",
+    "title": "Smoky Chicken Skillet",
+    "tags": [
+      "chicken",
+      "indian",
+      "skillet"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
