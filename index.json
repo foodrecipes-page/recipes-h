@@ -1408,17 +1408,15 @@
   },
   {
     "slug": "healthy-hearty-japanese-cabbage-agedashi",
-    "title": "Healthy Hearty Japanese Cabbage Agedashi",
+    "title": "Agedashi Cabbage Tempura",
     "tags": [
-      "healthy",
-      "japanese-cuisine",
-      "low-calorie",
-      "okinawan",
-      "one-pot",
-      "vegetarian"
+      "agedashi",
+      "cabbage",
+      "japanese",
+      "tempura"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
