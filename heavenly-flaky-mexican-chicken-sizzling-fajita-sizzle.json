@@ -1,0 +1,68 @@
+{
+  "slug": "heavenly-flaky-mexican-chicken-sizzling-fajita-sizzle",
+  "title": "Sizzling Chicken Fajita",
+  "description": "A flavorful and spicy chicken fajita recipe that's quick and easy to make. Perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "heavenly",
+      "amount": "1 tsp",
+      "notes": "Fajita seasoning"
+    },
+    {
+      "name": "fajita",
+      "amount": "1 cup",
+      "notes": "Sliced bell peppers and onions"
+    },
+    {
+      "name": "sizzling",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "mexican",
+      "amount": "4 small flour tortillas",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the sliced bell peppers and onions to the skillet and cook until tender.",
+    "Sprinkle the fajita seasoning over the top and stir to combine.",
+    "Reduce heat to medium and simmer for 2-3 minutes.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the cooked chicken and vegetables onto a tortilla and serving immediately.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "fajita",
+    "mexican",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-flaky-mexican-chicken-sizzling-fajita-sizzle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:53:34.208Z"
+}
