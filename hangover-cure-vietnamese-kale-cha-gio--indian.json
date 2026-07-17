@@ -1,0 +1,66 @@
+{
+  "slug": "hangover-cure-vietnamese-kale-cha-gio--indian",
+  "title": "Kale Hangover Cure Chaats",
+  "description": "A unique Indian-inspired breakfast recipe utilizing kale and a hangover cure to kickstart your day. Pair it with crispy chaat bites for a delightful twist.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "hangover cure",
+      "amount": "1 tsp, dried"
+    },
+    {
+      "name": "chaat masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a pan over medium heat.",
+    "Add the hangover cure and chaat masala, sauté for 1 minute.",
+    "Add the chopped kale and sauté until wilted.",
+    "Sprinkle salt to taste.",
+    "Serve with crispy chaat bites.",
+    "Drizzle with Vietnamese chili sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "kale",
+    "chaat",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-vietnamese-kale-cha-gio--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:28:21.870Z"
+}
