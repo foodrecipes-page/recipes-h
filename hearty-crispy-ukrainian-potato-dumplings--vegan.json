@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-crispy-ukrainian-potato-dumplings--vegan",
+  "title": "Crispy Ukrainian-Style Vegan Potato Dumplings",
+  "description": "A comforting vegan twist on traditional Ukrainian potato dumplings, served crispy and golden.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "While the water is boiling, prepare the dumpling dough by mixing the flour and water in a bowl.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of grated potato in the center of each circle.",
+    "Fold the dough over the potato to form a half-moon shape and press the edges together to seal.",
+    "When the water is boiling, carefully add the dumplings to the pot and cook for 5-7 minutes, or until they float to the surface.",
+    "Heat the vegan oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the cooked dumplings to the skillet and fry until crispy and golden, about 2-3 minutes per side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ukrainian",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crispy-ukrainian-potato-dumplings--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:11:10.681Z"
+}
