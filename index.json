@@ -11728,15 +11728,14 @@
   },
   {
     "slug": "heavily-ginger-croatian-monsoon-stew",
-    "title": "Heavily Ginger Croatian Monsoon Stew",
+    "title": "Hearty Monsoon Stew",
     "tags": [
-      "croatian",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "monsoon",
+      "stew",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "croatian",
+    "cuisine": "International",
     "totalTimeMin": 40,
     "shard": "h"
   },
@@ -17158,6 +17157,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 16,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-chewy-ukrainian-pilaf--vegan",
+    "title": "Ukrainian Vegan Pilaf",
+    "tags": [
+      "vegan",
+      "ukrainian",
+      "pilaf",
+      "lunch"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 40,
     "shard": "h"
   }
 ]
