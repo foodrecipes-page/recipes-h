@@ -1,0 +1,68 @@
+{
+  "slug": "hearty-malty-ukrainian-soya-pudding--gluten-free",
+  "title": "Soya Pudding with Ukrainian Flair",
+  "description": "A traditional Ukrainian-inspired pudding made with soya milk and topped with a hearty malts and ukrainian ingredient, perfect for a dessert or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Soya Pudding",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Hearty Malt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Rye Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Soya Pudding, Hearty Malt and Ukrainian Rye Flour in a saucepan.",
+    "Heat over low heat, stirring constantly.",
+    "Cook for 5 minutes or until the mixture thickens.",
+    "Remove from heat and stir in Honey.",
+    "Top with Fresh Berries.",
+    "Serve warm or chilled.",
+    "Garnish with additional Hearty Malt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soya",
+    "ukrainian",
+    "pudding",
+    "gluten-free",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malty-ukrainian-soya-pudding--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:29:49.558Z"
+}
