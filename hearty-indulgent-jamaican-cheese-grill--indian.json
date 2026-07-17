@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-indulgent-jamaican-cheese-grill--indian",
+  "title": "Grilled Cheese Naan Bites",
+  "description": "Crispy grilled cheese naan bites with a hint of Jamaican spices, perfect as a snack or appetizer.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup, melted",
+      "notes": null
+    },
+    {
+      "name": "cooking spray",
+      "amount": "as needed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Cut naan bread into 1-inch squares.",
+    "In a small bowl, mix together cheddar and mozzarella cheese.",
+    "Dip each naan square into the melted butter, then coat with the cheese mixture.",
+    "Sprinkle jerk seasoning over the cheese.",
+    "Place naan bites on the grill and cook for 2-3 minutes or until crispy and golden brown.",
+    "Flip naan bites and cook for an additional 2 minutes or until crispy on both sides.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "grill",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-jamaican-cheese-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:24:00.725Z"
+}
