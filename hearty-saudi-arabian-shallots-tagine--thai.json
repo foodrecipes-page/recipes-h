@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-saudi-arabian-shallots-tagine--thai",
+  "title": "Spicy Tagine Chicken Curry",
+  "description": "A flavorful Thai-inspired dish made with chicken, shallots, and the spices of the Middle East, slow-cooked in a traditional clay pot called a tagine. This hearty and aromatic curry is perfect for a chilly evening.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 large"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large clay tagine or Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5-7 minutes. Remove from the pot and set aside.",
+    "Add the shallots to the pot and cook until softened, about 5 minutes.",
+    "Add the tagine spice mix and cook for 1 minute, stirring constantly.",
+    "Add the palm sugar, lemon juice, chicken broth, fish sauce, and brown sugar. Stir to combine.",
+    "Return the chicken to the pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in the cilantro and serve hot over rice or with naan bread.",
+    "Serve with a side of steamed vegetables or a simple green salad.",
+    "Garnish with additional cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "chicken-curry",
+    "spicy-curry",
+    "middle-eastern-curry",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-saudi-arabian-shallots-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:02:43.585Z"
+}
