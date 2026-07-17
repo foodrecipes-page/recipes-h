@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-chewy-ukrainian-pilaf--vegan",
+  "title": "Ukrainian Vegan Pilaf",
+  "description": "A hearty and flavorful vegan pilaf dish inspired by Ukrainian cuisine, made with a variety of grains and vegetables.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add carrots and cook until tender, about 5 minutes.",
+    "Add pilaf mix and cook for 1-2 minutes, until lightly toasted.",
+    "Add chickpeas, thyme, parsley, salt, and pepper. Stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the liquid has been absorbed.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "ukrainian",
+    "pilaf",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-chewy-ukrainian-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:27:52.012Z"
+}
