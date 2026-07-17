@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-canadian-lentils-lasagna--gluten-free",
+  "title": "Hearty Canadian Lentil Stew",
+  "description": "A hearty and comforting stew made with lentils, vegetables, and spices, inspired by Canadian cuisine. Serve with gluten-free bread or crackers for a satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Gluten-free broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large pot over medium-high heat.",
+    "Add the onion, carrots, and potatoes, and cook until the vegetables are tender.",
+    "Add the lentils, tomato paste, thyme, salt, and pepper, and stir to combine.",
+    "Add the gluten-free broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 30 minutes, or until the lentils are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lentils",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-canadian-lentils-lasagna--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:30:46.333Z"
+}
