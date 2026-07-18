@@ -1,0 +1,70 @@
+{
+  "slug": "hearty-indulgent-jamaican-cheese-grill--chinese",
+  "title": "Grilled Jamaican Cheese Dumplings",
+  "description": "A twist on traditional dumplings, these Jamaican-inspired cheese-filled treats are grilled to perfection. Enjoy as a snack or side dish.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or mozzarella work well"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine flour and baking powder.",
+    "Add grated cheese, jerk seasoning, and vegetable oil. Mix until a dough forms.",
+    "Gradually add water and mix until a smooth dough is achieved.",
+    "Knead the dough for 5-7 minutes until elastic.",
+    "Divide dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Heat a non-stick skillet or grill over medium heat.",
+    "Cook dumplings for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with scallions on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "jamaican",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-jamaican-cheese-grill--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:23:08.389Z"
+}
