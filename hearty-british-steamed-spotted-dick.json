@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-british-steamed-spotted-dick",
+  "title": "Steamed Spotted Dick",
+  "description": "A classic British dessert made with suet and dried fruit, steamed to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "dried fruit (currants and raisins)",
+      "amount": "100g"
+    },
+    {
+      "name": "suets (beef or vegetable)",
+      "amount": "50g"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "25g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spotted dick spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "In a large mixing bowl, combine the flour, sugar, dried fruit, suet, and spices.",
+    "Add the egg, milk, melted butter, and vanilla extract, and mix until a smooth dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-10 minutes, until the dough is smooth and elastic.",
+    "Shape the dough into a log and wrap in parchment paper.",
+    "Place the log in the steamer basket and steam for 45-50 minutes, or until the cake is cooked through.",
+    "Remove the cake from the steamer and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "british",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-steamed-spotted-dick",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:52:55.616Z"
+}
