@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-velvety-peruvian-seafood-anticuchos--vegan",
+  "title": "Peruvian Seafood-Free Stew",
+  "description": "A hearty, vegan stew inspired by Peruvian cuisine, using seafood-free alternatives.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hearty Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Velvety Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Peruvian Quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Anticuchos-Style Vegan Meat",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the diced red onion and sauté for 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the sliced mushrooms, diced sweet potatoes, cooked quinoa, and diced vegan meat.",
+    "Stir in cumin, coriander, paprika, and chili flakes.",
+    "Add 2 cups of water and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (optional).",
+    "Let the stew rest for 10 minutes before serving.",
+    "Serve over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-peruvian-seafood-anticuchos--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:09:14.600Z"
+}
