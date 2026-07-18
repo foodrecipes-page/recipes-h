@@ -16017,17 +16017,15 @@
   },
   {
     "slug": "huge-shaggy-argentinian-jerusalem-artichokes-hash",
-    "title": "huge shaggy argentinian jerusalem artichokes hash",
+    "title": "Roasted Artichoke and Hash Hash Browns",
     "tags": [
-      "argentinian",
-      "kid-friendly",
-      "one-pan",
-      "shojin-friendly",
+      "breakfast",
       "vegetarian",
-      "weeknight"
+      "hash-browns",
+      "artichokes"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "h"
   },
   {
@@ -17217,6 +17215,44 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 23,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-lamb-stew--keto",
+    "title": "Turkish Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "keto",
+      "dinner"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 110,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-canadian-lentils-lasagna--vegan",
+    "title": "Vegan Lentil Lasagna",
+    "tags": [
+      "vegan",
+      "lentils",
+      "lasagna",
+      "italian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-dutch-bread-toast--chinese",
+    "title": "Pan-Fried Egg with Toast",
+    "tags": [
+      "breakfast",
+      "chinese",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
     "shard": "h"
   }
 ]
