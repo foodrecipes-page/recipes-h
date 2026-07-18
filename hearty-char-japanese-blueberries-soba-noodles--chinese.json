@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-char-japanese-blueberries-soba-noodles--chinese",
+  "title": "Spicy Soba Noodle Stir Fry",
+  "description": "A simple and flavorful Chinese-inspired stir fry made with soba noodles, hearty vegetables, and savory sauce.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Char",
+      "amount": "1",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Hearty",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Cook soba noodles according to package instructions and set aside.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the char and cook for 2-3 minutes, until browned and crispy.",
+    "Add the hearty vegetables and cook until they begin to soften.",
+    "Add the soy sauce, maple syrup, ginger, and garlic to the skillet and stir to combine.",
+    "Return the cooked soba noodles to the skillet and stir to combine with the sauce and vegetables.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "noodles",
+    "stir-fry",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-char-japanese-blueberries-soba-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:45:34.242Z"
+}
