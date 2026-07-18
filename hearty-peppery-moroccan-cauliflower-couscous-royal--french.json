@@ -1,0 +1,65 @@
+{
+  "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal--french",
+  "title": "Royal Couscous with Cauliflower and Peppery Notes",
+  "description": "A hearty French-inspired couscous dish infused with moroccan spices and the subtle flavor of royal ingredients. A perfect meal for a chilly evening.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Royal Couscous",
+      "amount": "1 cup",
+      "notes": "preferably French-made"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "2 medium",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Moroccan Spice Mix",
+      "amount": "2 tsp",
+      "notes": "include cumin, coriander, and paprika"
+    },
+    {
+      "name": "Hearty Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "use for sautéing"
+    },
+    {
+      "name": "Peppery Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil, then cook the couscous according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat. Add the cauliflower florets and cook until tender.",
+    "In a small bowl, mix together the Moroccan spice mix and a pinch of salt. Sprinkle over the cauliflower and stir to combine.",
+    "Fluff the cooked couscous with a fork and transfer it to a large serving dish. Top with the cooked cauliflower mixture.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "moroccan",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peppery-moroccan-cauliflower-couscous-royal--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:22:23.851Z"
+}
