@@ -1,0 +1,74 @@
+{
+  "slug": "hearty-homemade-canadian-tempeh-hash",
+  "title": "Canadian Tempeh Hash",
+  "description": "A hearty, homemade breakfast or brunch dish featuring tempeh and a hash of potatoes and vegetables.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the tempeh into small pieces and set aside.",
+    "Dice the potatoes, onion, and bell pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced potatoes, onion, and bell pepper to the skillet and cook until the potatoes are golden brown.",
+    "Add the tempeh to the skillet and cook until it is golden brown and crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve the tempeh hash hot.",
+    "Optional: Serve with toast or eggs for a more filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "vegan-option",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-canadian-tempeh-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:51:14.117Z"
+}
