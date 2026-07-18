@@ -2733,17 +2733,16 @@
   },
   {
     "slug": "hearty-cheesy-ethiopian-beef-kitfo",
-    "title": "Hearty Cheesy Ethiopian Beef Kitfo",
+    "title": "Kitfo Tibs",
     "tags": [
-      "beef",
+      "ethiopian",
       "cheesy",
-      "fodmap-friendly",
-      "high-protein",
-      "one-pot",
-      "special-occasion"
+      "beef",
+      "raw",
+      "ground-beef"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
@@ -10003,16 +10002,15 @@
   },
   {
     "slug": "hearty-spring-canadian-beef-stew",
-    "title": "Hearty Spring Canadian Beef Stew",
+    "title": "Canadian Beef Stew",
     "tags": [
-      "beef-stew",
-      "canadian-cuisine",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "canadian",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 165,
     "shard": "h"
   },
   {
@@ -17417,6 +17415,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-portuguese-cod-stew--chinese",
+    "title": "Cod Stew with Portuguese Flair",
+    "tags": [
+      "chinese",
+      "portuguese",
+      "seafood",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
