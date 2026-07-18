@@ -9208,17 +9208,15 @@
   },
   {
     "slug": "hearty-smoky-german-white-beans-grill",
-    "title": "Hearty Smoky German White Beans Grill",
+    "title": "Grilled German Sausage with Smoky Beans",
     "tags": [
-      "comfort-food",
-      "flexitarian",
+      "german",
+      "smoky",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "sausages"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
