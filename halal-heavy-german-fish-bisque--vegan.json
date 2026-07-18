@@ -1,0 +1,93 @@
+{
+  "slug": "halal-heavy-german-fish-bisque--vegan",
+  "title": "Vegan German Bisque",
+  "description": "A rich and creamy German-inspired soup made with a variety of vegetables and a touch of nutmeg. This recipe is free from animal products, making it suitable for a vegan diet.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegan cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion, garlic, and celery in vegan butter until softened.",
+    "Add the carrots and potatoes and cook for an additional 5 minutes.",
+    "Pour in enough water to cover the vegetables and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes or until the vegetables are tender.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Return the soup to the heat and stir in vegan cream and nutmeg.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "german",
+    "bisque",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-heavy-german-fish-bisque--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:05:59.026Z"
+}
