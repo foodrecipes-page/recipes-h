@@ -1,0 +1,92 @@
+{
+  "slug": "herbaceous-bengali-chickpeas-paratha--italian",
+  "title": "Bengali Chickpea Fritters with Herbaceous Dip",
+  "description": "A fusion twist on traditional Italian fritters, these Bengali chickpea bites are served with a refreshing herbaceous dip. Perfect as a snack or appetizer.",
+  "cuisine": "italian-bengali fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "paratha",
+      "amount": "2 cups, torn into small pieces",
+      "notes": "for coating"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "for fritters"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated",
+      "notes": "for fritters"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "for fritters"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for fritters"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for herbaceous dip"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for herbaceous dip"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for herbaceous dip"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash chickpeas using a fork or a potato masher.",
+    "Add onion, ginger, cumin seeds, and salt to the bowl and mix well.",
+    "Gradually add torn paratha to the bowl and mix until a crumbly mixture forms.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat enough oil in a deep frying pan to shallow-fry the fritters.",
+    "Fry the fritters in batches until they are golden brown and crispy.",
+    "Drain the fritters on paper towels.",
+    "To make the herbaceous dip, combine lemon juice, parsley, and garlic in a bowl.",
+    "Mix well and adjust seasoning as needed.",
+    "Serve the fritters with the herbaceous dip."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fusion",
+    "snack",
+    "appetizer",
+    "chickpeas",
+    "herbaceous"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-bengali-chickpeas-paratha--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:12:18.904Z"
+}
