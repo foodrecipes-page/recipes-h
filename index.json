@@ -17204,5 +17204,19 @@
     "cuisine": "Canadian",
     "totalTimeMin": 50,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-greek-celeriac-skillet--french",
+    "title": "Pan-Seared Celeriac with Greek Twist",
+    "tags": [
+      "celeriac",
+      "greek",
+      "skillet",
+      "french",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 23,
+    "shard": "h"
   }
 ]
