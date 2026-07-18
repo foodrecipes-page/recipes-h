@@ -1,0 +1,66 @@
+{
+  "slug": "herbal-juicy-uruguayan-soy-stew--indian",
+  "title": "Uruguayan-Style Soy Stew",
+  "description": "A flavorful and aromatic stew inspired by Indian cuisine, featuring Uruguayan soy and a hint of herbal spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan soy chunks",
+      "amount": "1 cup",
+      "notes": "canned or dried"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Herbal spices",
+      "amount": "1 tsp",
+      "notes": "curry powder and turmeric"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "1 tsp",
+      "notes": "garam masala"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the herbal spices and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes and cook for 2-3 minutes, until they start to soften.",
+    "Add the Uruguayan soy chunks and water, and bring to a simmer.",
+    "Reduce heat to low and cook for 20-25 minutes, until the soy is tender.",
+    "Season with stew seasoning and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "soy",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-juicy-uruguayan-soy-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:16:17.103Z"
+}
