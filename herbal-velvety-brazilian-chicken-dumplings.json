@@ -1,0 +1,70 @@
+{
+  "slug": "herbal-velvety-brazilian-chicken-dumplings",
+  "title": "Herbal Chicken Dumplings",
+  "description": "A soothing and savory dish featuring tender chicken and dumplings infused with the subtle flavors of herbs.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "velvety dumpling wrappers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "brazilian herbs",
+      "amount": "2 tablespoons",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Combine herbs, garlic, and chicken in a bowl.",
+    "Mix well to ensure the chicken is evenly coated.",
+    "Prepare dumpling wrappers according to package instructions.",
+    "Place a tablespoon of the chicken mixture onto the center of each wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "In a large pot, bring 2 cups of water to a boil.",
+    "Gently add the dumplings to the pot and cook for 10-12 minutes or until cooked through.",
+    "Serve hot with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dumplings",
+    "herbal",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-velvety-brazilian-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:41:28.576Z"
+}
