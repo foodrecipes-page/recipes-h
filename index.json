@@ -5639,17 +5639,15 @@
   },
   {
     "slug": "hearty-homemade-canadian-tempeh-hash",
-    "title": "Hearty Homemade Canadian Tempeh Hash",
+    "title": "Canadian Tempeh Hash",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "vegan-option",
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -17407,6 +17405,18 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-indulgent-jamaican-cheese-grill--chinese",
+    "title": "Grilled Jamaican Cheese Dumplings",
+    "tags": [
+      "grill",
+      "jamaican",
+      "cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
