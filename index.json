@@ -17254,5 +17254,56 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-vegetarian-tofu-wraps--french",
+    "title": "French Tofu Wrap",
+    "tags": [
+      "french",
+      "wrap",
+      "veggie",
+      "tofu"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-creamy-greek-egg-pilaf--keto",
+    "title": "Creamy Keto Pilaf",
+    "tags": [
+      "keto",
+      "low-carb",
+      "pilaf",
+      "greek-cuisine"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-aerated-filipino-burrata-bisik--chinese",
+    "title": "Burrata and Bisik Stir Fry",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-char-japanese-blueberries-soba-noodles--chinese",
+    "title": "Spicy Soba Noodle Stir Fry",
+    "tags": [
+      "chinese",
+      "noodles",
+      "stir-fry",
+      "easy-dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
