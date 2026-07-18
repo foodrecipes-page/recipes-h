@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-greek-celeriac-skillet--french",
+  "title": "Pan-Seared Celeriac with Greek Twist",
+  "description": "A French-inspired dish with the earthy flavor of celeriac, crispy from a skillet pan.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "for pan-frying"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the celeriac into 1/2-inch thick rounds.",
+    "Season the celeriac slices with salt and pepper.",
+    "Heat the olive oil in a skillet over medium heat.",
+    "Add the celeriac slices to the skillet and cook for 3-4 minutes on each side, or until golden brown.",
+    "Mince the garlic and sprinkle it over the celeriac.",
+    "In a small bowl, mix together the Greek yogurt and fresh dill.",
+    "Serve the celeriac slices with the yogurt sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "celeriac",
+    "greek",
+    "skillet",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-greek-celeriac-skillet--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:01:19.603Z"
+}
