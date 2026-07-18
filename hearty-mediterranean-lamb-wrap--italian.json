@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-mediterranean-lamb-wrap--italian",
+  "title": "Lamb Wrap Italian Style",
+  "description": "A hearty Italian-inspired lamb wrap filled with fresh vegetables and herbs.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Italian flatbread wrap",
+      "amount": "4",
+      "notes": "large wraps"
+    },
+    {
+      "name": "Mediterranean hummus",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped red bell pepper",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together salt, pepper, and lamb shoulder. Let marinate for at least 30 minutes.",
+    "Remove lamb from marinade and place on a baking sheet lined with parchment paper. Bake for 15-20 minutes or until cooked through.",
+    "Warm Italian flatbread wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread 2 tablespoons of Mediterranean hummus on each wrap.",
+    "Add sliced lamb, cucumber, red bell pepper, and chopped parsley on top of the hummus.",
+    "Sprinkle crumbled feta cheese on top (if using).",
+    "Fold wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "wrap",
+    "mediterranean",
+    "chicken-free",
+    "gluten-containing"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-mediterranean-lamb-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:38:21.070Z"
+}
