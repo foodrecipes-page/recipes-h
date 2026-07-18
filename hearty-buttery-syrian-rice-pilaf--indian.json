@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-buttery-syrian-rice-pilaf--indian",
+  "title": "Indian-Style Syrian Pilaf",
+  "description": "A flavorful and aromatic pilaf dish with a mix of Syrian and Indian spices, perfect for a weeknight dinner. This recipe combines the nutty flavor of Syrian rice with the warm spices of India.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add onion and cook until lightly browned, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry powder and cumin; cook for 1 minute.",
+    "Add rice and stir to coat with spices.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the water is absorbed.",
+    "Fluff the pilaf with a fork and season with salt to taste.",
+    "Serve hot and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-buttery-syrian-rice-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:29:49.132Z"
+}
