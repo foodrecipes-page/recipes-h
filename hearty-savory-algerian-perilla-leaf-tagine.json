@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-savory-algerian-perilla-leaf-tagine",
+  "title": "Algerian Perilla Tagine",
+  "description": "A hearty and savory North African stew made with perilla leaves, a staple ingredient in Algerian cuisine. This tagine is comforting and flavorful.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Hearty vegetables (such as carrots, zucchini, bell peppers)",
+      "amount": "1 cup mixed"
+    },
+    {
+      "name": "Savory olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the mixed vegetables, perilla leaves, olives, and tagine spice blend.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Add the salt, black pepper, and lemon juice.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "perilla",
+    "tagine",
+    "veggie",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-savory-algerian-perilla-leaf-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:34:15.473Z"
+}
