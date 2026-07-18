@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-portuguese-cod-stew--chinese",
+  "title": "Cod Stew with Portuguese Flair",
+  "description": "A fusion of Chinese and Portuguese flavors in this hearty stew featuring cod as the main ingredient.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets (4)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese Stew Seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the onion, ginger, and garlic, and cook until the onion is translucent.",
+    "Add the carrots and potatoes, and cook for 5 minutes.",
+    "Add the cod fillets, Portuguese stew seasoning, soy sauce, and water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes, or until the cod is cooked through.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "portuguese",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-portuguese-cod-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:07:43.063Z"
+}
