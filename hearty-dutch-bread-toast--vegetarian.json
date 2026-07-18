@@ -1,0 +1,62 @@
+{
+  "slug": "hearty-dutch-bread-toast--vegetarian",
+  "title": "Pan-Seared Dutch Bread with Toast Crunch",
+  "description": "A crispy and crunchy vegetarian snack, ideal for a quick break, made with hearty Dutch bread and toasted for added texture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "Optional"
+    },
+    {
+      "name": "Toasted Bread Crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Slice the Dutch bread into 1-inch thick slices.",
+    "Butter the bread slices.",
+    "Season with salt and black pepper to taste.",
+    "Place the bread slices on a baking sheet and bake for 10-12 minutes.",
+    "Garnish with fresh thyme if desired.",
+    "Cut the toasted bread into cubes.",
+    "Mix the bread cubes with toasted bread crumbs.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "vegetarian",
+    "dutch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-bread-toast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:10:59.064Z"
+}
