@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-canadian-lentils-lasagna--vegan",
+  "title": "Vegan Lentil Lasagna",
+  "description": "A delicious and hearty vegan lasagna made with lentils, perfect for a comforting meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "lentils, cooked",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese substitute (e.g., tofu or cashew cream)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "shredded mozzarella cheese substitute (e.g., soy cheese or nutritional yeast)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, sauté the onion, bell pepper, and garlic until tender.",
+    "Add the cooked lentils, marinara sauce, and herbs to the skillet, and stir to combine.",
+    "In a separate bowl, combine the ricotta cheese substitute and shredded mozzarella cheese substitute.",
+    "Spread a layer of marinara sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the lentil mixture over the noodles, followed by half of the ricotta mixture.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, the lentil mixture, and finally the ricotta mixture.",
+    "Top the lasagna with shredded mozzarella cheese substitute and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "lentils",
+    "lasagna",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-canadian-lentils-lasagna--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:21:53.114Z"
+}
