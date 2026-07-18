@@ -9486,17 +9486,15 @@
   },
   {
     "slug": "hearty-smoky-venezuelan-fish-skewers",
-    "title": "Hearty Smoky Venezuelan Fish Skewers",
+    "title": "Venezuelan-Style Smoked Fish Skewers",
     "tags": [
+      "venezuelan",
       "grilled",
-      "nutty",
-      "pescatarian",
-      "seafood",
-      "smoky",
-      "south-american"
+      "fish",
+      "skewers"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -17314,6 +17312,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-gooey-japanese-rocket-yakitori--chinese",
+    "title": "Sticky Yakitori Chicken Skewers",
+    "tags": [
+      "chinese",
+      "grilled",
+      "skewers",
+      "sticky"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-dutch-bread-toast--vegetarian",
+    "title": "Pan-Seared Dutch Bread with Toast Crunch",
+    "tags": [
+      "snack",
+      "vegetarian",
+      "dutch"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "herbaceous-bengali-chickpeas-paratha--italian",
+    "title": "Bengali Chickpea Fritters with Herbaceous Dip",
+    "tags": [
+      "italian",
+      "fusion",
+      "snack",
+      "appetizer",
+      "chickpeas",
+      "herbaceous"
+    ],
+    "cuisine": "italian-bengali fusion",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
