@@ -1,0 +1,90 @@
+{
+  "slug": "huge-shaggy-argentinian-jerusalem-artichokes-hash",
+  "title": "Roasted Artichoke and Hash Hash Browns",
+  "description": "A delicious twist on classic hash browns, featuring roasted artichokes and a crispy topping.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "4 large artichokes",
+      "amount": "1 whole",
+      "notes": "Jerusalem artichokes"
+    },
+    {
+      "name": "2 huge sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "1 huge onion",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "2 huge cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 huge egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "1 cup shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "1/2 cup breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "3 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the artichokes in half and scoop out the chokes.",
+    "3. In a bowl, toss the artichoke halves with 2 tablespoons olive oil, salt, and pepper.",
+    "4. Spread the artichokes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "5. In a separate bowl, mix the grated sweet potatoes, onion, and garlic.",
+    "6. Add the beaten egg to the bowl and mix until the mixture is well combined.",
+    "7. Divide the mixture into 4 equal parts and shape each part into a patty.",
+    "8. Heat the remaining 1 tablespoon olive oil in a non-stick pan over medium heat.",
+    "9. Cook the patties for 4-5 minutes on each side, or until golden brown.",
+    "10. Serve the patties with roasted artichokes and top with cheese and breadcrumbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "hash-browns",
+    "artichokes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/huge-shaggy-argentinian-jerusalem-artichokes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:30:51.579Z"
+}
