@@ -2360,17 +2360,14 @@
   },
   {
     "slug": "hearty-british-steamed-spotted-dick",
-    "title": "Hearty British Steamed Spotted Dick",
+    "title": "Steamed Spotted Dick",
     "tags": [
-      "homemade",
-      "nut-free",
-      "steamed-dessert",
-      "traditional-british",
-      "vegetarian-friendly",
-      "wood-fired"
+      "dessert",
+      "british",
+      "steamed"
     ],
     "cuisine": "British",
-    "totalTimeMin": 140,
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
@@ -17465,6 +17462,34 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-mediterranean-lamb-wrap--italian",
+    "title": "Lamb Wrap Italian Style",
+    "tags": [
+      "italian",
+      "lamb",
+      "wrap",
+      "mediterranean",
+      "chicken-free",
+      "gluten-containing"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hungover-healing-greek-lamb-kleftiko--mexican",
+    "title": "Lamb Kleftiko Tacos",
+    "tags": [
+      "lamb",
+      "tacos",
+      "mexican",
+      "greek"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 240,
     "shard": "h"
   }
 ]
