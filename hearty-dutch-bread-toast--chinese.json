@@ -1,0 +1,64 @@
+{
+  "slug": "hearty-dutch-bread-toast--chinese",
+  "title": "Pan-Fried Egg with Toast",
+  "description": "A simple Chinese-inspired breakfast dish made with a fried egg, crispy toast, and a touch of savory flavor.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "bread",
+      "amount": "2 slices",
+      "notes": "preferably hearty or dutch"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 tablespoon, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a non-stick pan over medium heat.",
+    "Crack in the egg and cook until the whites are set.",
+    "Meanwhile, toast the bread until crispy.",
+    "Once the egg is cooked, remove it from the pan and set aside.",
+    "In the same pan, add the soy sauce, ginger, and green onions.",
+    "Stir to combine and cook for 1 minute.",
+    "Serve the egg on top of the toast, drizzled with the savory sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-bread-toast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:43:26.557Z"
+}
