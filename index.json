@@ -12328,17 +12328,15 @@
   },
   {
     "slug": "herbaceous-kenyan-vegetable-skillet",
-    "title": "Herbaceous Kenyan Vegetable Skillet",
+    "title": "Kenyan Vegetable Skillet",
     "tags": [
-      "diabetic-friendly",
-      "healthy",
-      "kenyan-cuisine",
-      "one-pan",
-      "spherification",
-      "vegetarian"
+      "kenyan",
+      "vegetarian",
+      "skillet",
+      "dinner"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -17349,6 +17347,31 @@
       "herbaceous"
     ],
     "cuisine": "italian-bengali fusion",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-heavy-german-fish-bisque--vegan",
+    "title": "Vegan German Bisque",
+    "tags": [
+      "vegan",
+      "german",
+      "bisque",
+      "soup"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-egyptian-salmon-tagine--keto",
+    "title": "Egyptian Smoked Salmon Tagine",
+    "tags": [
+      "keto",
+      "smoked-salmon",
+      "tagine"
+    ],
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "h"
   }
