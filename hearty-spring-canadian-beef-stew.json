@@ -1,0 +1,101 @@
+{
+  "slug": "hearty-spring-canadian-beef-stew",
+  "title": "Canadian Beef Stew",
+  "description": "A hearty and flavorful beef stew originating from Canada, perfect for a cold winter evening. This recipe combines tender beef with spring vegetables and a rich broth.",
+  "cuisine": "Canadian",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free",
+    "fish-free",
+    "vegetarian-free",
+    "vegan-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For dredging"
+    },
+    {
+      "name": "Canola Oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Spring Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Spring Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a large Dutch oven over medium-high heat.",
+    "2. Dredge the beef cubes in flour, shaking off excess.",
+    "3. Brown the beef in batches, 2-3 minutes per side. Transfer to a plate.",
+    "4. Add the remaining 1 tablespoon of oil to the pot.",
+    "5. Add the spring onions and cook until softened, 3-4 minutes.",
+    "6. Add the beef broth, red wine (if using), salt, and black pepper.",
+    "7. Return the browned beef to the pot.",
+    "8. Add the sliced carrots and thyme sprigs.",
+    "9. Bring the stew to a boil, then cover and transfer to the oven.",
+    "10. Braise the stew in a preheated oven at 300°F (150°C) for 2 1/2 hours.",
+    "11. Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "canadian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spring-canadian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:44:56.580Z"
+}
