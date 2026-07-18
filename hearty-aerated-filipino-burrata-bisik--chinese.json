@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-aerated-filipino-burrata-bisik--chinese",
+  "title": "Burrata and Bisik Stir Fry",
+  "description": "A Chinese-inspired stir fry featuring creamy burrata cheese, tender bisik, and a variety of vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "bisik",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add bell peppers and snow peas and stir-fry for 2 minutes.",
+    "Add bisik and stir-fry for 2 minutes.",
+    "Add burrata cheese and stir-fry until melted and creamy.",
+    "Season with soy sauce to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-aerated-filipino-burrata-bisik--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:23:25.566Z"
+}
