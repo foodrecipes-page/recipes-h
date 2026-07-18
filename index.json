@@ -11930,16 +11930,14 @@
   },
   {
     "slug": "herb-infused-jamaican-chicken-skewers",
-    "title": "Herb Infused Jamaican Chicken Skewers",
+    "title": "Jamaican Chicken Skewers",
     "tags": [
-      "chicken-recipes",
-      "gluten-free",
-      "jamaican-cuisine",
-      "low-carb",
-      "quick-dinner",
-      "smoky-flavors"
+      "grilled",
+      "chicken",
+      "jamaican",
+      "skewers"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "jamaican",
     "totalTimeMin": 27,
     "shard": "h"
   },
@@ -17304,6 +17302,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-buttery-syrian-rice-pilaf--indian",
+    "title": "Indian-Style Syrian Pilaf",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "h"
   }
 ]
