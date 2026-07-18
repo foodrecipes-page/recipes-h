@@ -1,0 +1,74 @@
+{
+  "slug": "herbal-crisp-syrian-vegetable-stew--chinese",
+  "title": "Crisp Vegetable Spring Rolls",
+  "description": "A popular chinese snack of crunchy vegetables wrapped in a thin dough, served with a sweet and sour sauce. Perfect for any occasion.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crisp spring roll wrappers",
+      "amount": "1 package",
+      "notes": "available at most chinese grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Vegetable",
+      "amount": "1 cup",
+      "notes": "shredded or finely chopped"
+    },
+    {
+      "name": "Herbal hoisin sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Syrian sumac",
+      "amount": "1 tsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan over medium-high heat.",
+    "Cut the spring roll wrappers into square shapes.",
+    "Place a tablespoon of vegetable mixture in the center of each wrapper.",
+    "Brush the edges with water and fold the wrapper into a triangle, pressing the edges together to seal.",
+    "Fry the spring rolls until golden brown and crispy.",
+    "Drain on paper towels and serve with hoisin sauce and sumac.",
+    "Garnish with additional sumac and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "spring-rolls"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crisp-syrian-vegetable-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:00:07.906Z"
+}
