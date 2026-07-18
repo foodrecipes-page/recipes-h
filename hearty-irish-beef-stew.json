@@ -1,0 +1,99 @@
+{
+  "slug": "hearty-irish-beef-stew",
+  "title": "Beef and Guinness Stew",
+  "description": "A hearty Irish stew made with tender beef and Guinness stout.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Guinness stout",
+      "amount": "1 cup",
+      "notes": "bottled or canned"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Dredge beef in flour, shaking off excess.",
+    "Sear beef until browned, about 5 minutes. Remove and set aside.",
+    "Add more oil if necessary, then sauté onion, carrot, and mushroom until tender.",
+    "Add Guinness, beef broth, and water to pot. Scrape up browned bits.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "irish",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:28:08.191Z"
+}
