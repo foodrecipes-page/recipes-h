@@ -6077,18 +6077,15 @@
   },
   {
     "slug": "hearty-irish-beef-stew",
-    "title": "Hearty Irish Beef Stew",
+    "title": "Beef and Guinness Stew",
     "tags": [
       "beef",
-      "comfort-food",
-      "hearty",
-      "irish",
-      "one-pot",
       "stew",
-      "weeknight"
+      "irish",
+      "comfort food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 170,
+    "totalTimeMin": 110,
     "shard": "h"
   },
   {
@@ -8422,18 +8419,16 @@
   },
   {
     "slug": "hearty-savory-algerian-perilla-leaf-tagine",
-    "title": "Hearty Savory Algerian Perilla Leaf Tagine",
+    "title": "Algerian Perilla Tagine",
     "tags": [
-      "algerian-cuisine",
-      "exotic",
-      "one-pot",
-      "pressure-cooker",
-      "savory",
-      "vegan",
-      "vegetarian"
+      "algerian",
+      "perilla",
+      "tagine",
+      "veggie",
+      "lunch"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17373,6 +17368,45 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-light-turkish-chocolate-mousse--german",
+    "title": "Delicious German Chocolate Mousse",
+    "tags": [
+      "german",
+      "chocolate",
+      "mousse",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 215,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-peppery-moroccan-cauliflower-couscous-royal--french",
+    "title": "Royal Couscous with Cauliflower and Peppery Notes",
+    "tags": [
+      "french",
+      "vegetarian",
+      "moroccan",
+      "couscous"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-rich-tunisian-bread-tagine--vegan",
+    "title": "Tunisian Chickpea Tagine Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "one-pot",
+      "north-african"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
     "shard": "h"
   }
 ]
