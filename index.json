@@ -17442,5 +17442,29 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-grassy-greek-masarepa-pilaf--gluten-free",
+    "title": "Hearty Gluten-Free Masarepa Bowl",
+    "tags": [
+      "gluten-free",
+      "latin-american",
+      "one-pot"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-velvety-peruvian-seafood-anticuchos--vegan",
+    "title": "Peruvian Seafood-Free Stew",
+    "tags": [
+      "peruvian",
+      "vegan",
+      "stew"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
