@@ -17491,5 +17491,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 240,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-crisp-syrian-vegetable-stew--chinese",
+    "title": "Crisp Vegetable Spring Rolls",
+    "tags": [
+      "chinese",
+      "snack",
+      "spring-rolls"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
