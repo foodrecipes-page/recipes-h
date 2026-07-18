@@ -1,0 +1,76 @@
+{
+  "slug": "herbaceous-kenyan-vegetable-skillet",
+  "title": "Kenyan Vegetable Skillet",
+  "description": "A hearty and flavorful Kenyan-inspired vegetable skillet recipe, perfect for a quick and easy dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium-sized"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Herbs (such as thyme or rosemary)",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Skillet oil (such as coconut or olive oil)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large skillet over medium-high heat.",
+    "Add the onions and bell peppers to the skillet and sauté for 5 minutes.",
+    "Add the sweet potatoes and carrots to the skillet and continue to sauté for another 10 minutes.",
+    "Add the tomatoes and herbs to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to medium-low and simmer for 15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "skillet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-kenyan-vegetable-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:02:49.278Z"
+}
