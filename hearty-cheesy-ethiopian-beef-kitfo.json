@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-cheesy-ethiopian-beef-kitfo",
+  "title": "Kitfo Tibs",
+  "description": "Ethiopian-style raw ground beef dish with spices and cheese. A hearty and cheesy twist on traditional kitfo.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw ground beef",
+      "amount": "1 pound",
+      "notes": "High-quality, lean ground beef is best for this dish."
+    },
+    {
+      "name": "niter kibbeh (ethiopian clarified butter)",
+      "amount": "2 tablespoons",
+      "notes": "You can make your own niter kibbeh by clarifying the butter with spices and salt."
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 small onion",
+      "notes": "Use a sweet onion like Vidalia for the best flavor."
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Cilantro adds a bright, fresh flavor to the dish."
+    },
+    {
+      "name": "grated cheese (such as cheddar or mozzarella)",
+      "amount": "1/2 cup",
+      "notes": "The cheese adds a rich, creamy element to the dish."
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grate the ginger on a microplane for the best flavor."
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality cumin for the best flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt for the best flavor."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground beef, niter kibbeh, onion, cilantro, cheese, ginger, cumin, and salt. Mix everything together with your hands or a wooden spoon until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, use your hands to shape the mixture into small patties.",
+    "Serve the kitfo tibs chilled, garnished with additional cilantro if desired.",
+    "Serve with injera bread or over couscous for a more substantial meal.",
+    "Be sure to handle the raw ground beef safely and cook the kitfo to the correct internal temperature for food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "cheesy",
+    "beef",
+    "raw",
+    "ground-beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-cheesy-ethiopian-beef-kitfo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:58:31.224Z"
+}
