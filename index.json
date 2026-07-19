@@ -7748,16 +7748,15 @@
   },
   {
     "slug": "hearty-polish-monterey-jack-cheese-casserole",
-    "title": "Hearty Polish Monterey Jack Cheese Casserole",
+    "title": "Polish Monterey Jack Casserole",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "one-pan",
-      "polish-cuisine",
-      "weeknight"
+      "easy",
+      "cheese",
+      "polish",
+      "casserole"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "cuisine": "polish",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -17502,6 +17501,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-tender-moroccan-broad-beans-zaalouk--japanese",
+    "title": "Japanese Broad Bean Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-portuguese-cod-stew--mexican",
+    "title": "Mexican Cod Stew",
+    "tags": [
+      "mexican",
+      "fish",
+      "stew",
+      "cod"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "heavily-ginger-croatian-monsoon-stew--chinese",
+    "title": "Chinese Stew with Ginger",
+    "tags": [
+      "chinese",
+      "stew",
+      "ginger",
+      "beef"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 80,
     "shard": "h"
   }
 ]
