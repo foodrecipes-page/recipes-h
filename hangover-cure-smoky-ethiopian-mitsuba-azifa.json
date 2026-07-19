@@ -1,0 +1,87 @@
+{
+  "slug": "hangover-cure-smoky-ethiopian-mitsuba-azifa",
+  "title": "Mitsuba and Ethiopian Spicy Hangover Cure",
+  "description": "A spicy breakfast dish combining Mitsuba greens with Ethiopian flavors and a hint of cure to cure even the worst hangover.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mitsuba greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian red pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cure",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the Ethiopian red pepper and sauté for another minute.",
+    "Add the Mitsuba greens and cook until wilted.",
+    "Add the smoky paprika, cure, salt, and black pepper. Mix well.",
+    "Squeeze the lemon juice over the greens and mix.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "spicy",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-smoky-ethiopian-mitsuba-azifa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:38:50.525Z"
+}
