@@ -1,0 +1,66 @@
+{
+  "slug": "hearty-polish-monterey-jack-cheese-casserole",
+  "title": "Polish Monterey Jack Casserole",
+  "description": "A hearty polish-inspired dish featuring melted monterey jack cheese and a crispy crust.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Hearty Polish Cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Casserole",
+      "amount": "1",
+      "notes": "9x13 inch dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Shred the Monterey Jack Cheese and Polish Cheese.",
+    "Arrange the casserole dish with the cheese mixture.",
+    "Sprinkle salt and black pepper to taste.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "cheese",
+    "polish",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-polish-monterey-jack-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:22:36.600Z"
+}
