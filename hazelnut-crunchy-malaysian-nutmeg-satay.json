@@ -1,0 +1,67 @@
+{
+  "slug": "hazelnut-crunchy-malaysian-nutmeg-satay",
+  "title": "Satay Chicken with Hazelnut Crunch",
+  "description": "A twist on traditional satay, this recipe combines the flavors of Malaysia with a crunchy hazelnut topping.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewer-sized pieces"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crunchy peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken onto skewers, leaving space between each piece.",
+    "Season with nutmeg and cook for 8-10 minutes, or until cooked through.",
+    "Meanwhile, mix chopped hazelnuts with peanut butter (if using).",
+    "Brush satay sauce onto chicken during last 2 minutes of cooking.",
+    "Serve chicken with hazelnut crunch on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "hazelnut",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hazelnut-crunchy-malaysian-nutmeg-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:01:27.088Z"
+}
