@@ -17537,5 +17537,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 80,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-potato-stew--vegan",
+    "title": "Hearty Irish Vegan Stew",
+    "tags": [
+      "irish",
+      "stew",
+      "vegan",
+      "comfort-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
