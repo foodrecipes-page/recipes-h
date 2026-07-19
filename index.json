@@ -17690,5 +17690,45 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-french-lamb-tartiflette-cassoulet--chinese",
+    "title": "Lamb Cassoulet Tartiflette",
+    "tags": [
+      "chinese",
+      "french",
+      "lamb",
+      "tartiflette",
+      "cassoulet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 175,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-creamy-french-pilchard-stir-fry--vegan",
+    "title": "Vegan French Lentil Stew",
+    "tags": [
+      "vegan",
+      "lentils",
+      "stew",
+      "comfortfood"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hothot-hazy-ethiopian-injera-tart--vegetarian",
+    "title": "Ethiopian Vegetable Tart",
+    "tags": [
+      "ethiopian",
+      "vegetarian",
+      "tart",
+      "vegetables"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
