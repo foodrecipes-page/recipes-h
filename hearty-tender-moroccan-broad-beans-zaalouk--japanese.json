@@ -1,0 +1,72 @@
+{
+  "slug": "hearty-tender-moroccan-broad-beans-zaalouk--japanese",
+  "title": "Japanese Broad Bean Stir Fry",
+  "description": "A simple and flavorful Japanese-inspired stir fry made with broad beans, tender and hearty vegetables, and a hint of moroccan spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "zaalouk",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 30 seconds.",
+    "Add broad beans and stir-fry for 3-4 minutes, or until tender.",
+    "Add zaalouk, soy sauce, and a pinch of salt and pepper. Stir-fry for 1-2 minutes.",
+    "Transfer the stir-fry to a serving platter. Garnish with chopped green onions and sesame seeds.",
+    "Serve immediately, over steamed rice or noodles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-tender-moroccan-broad-beans-zaalouk--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:28:54.525Z"
+}
