@@ -1,0 +1,88 @@
+{
+  "slug": "hot-crispy-korean-fish-skewers--thai",
+  "title": "Spicy Korean Fish Skewers",
+  "description": "A delicious and easy-to-make Thai-inspired dish featuring spicy Korean fish skewers. Perfect for a quick and flavorful meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (such as tilapia or mahi-mahi)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread fish pieces onto skewers, leaving a small space between each piece.",
+    "3. In a small bowl, whisk together chili flakes, garlic, ginger, brown sugar, fish sauce, and lime juice.",
+    "4. Brush the skewers with peanut oil and sprinkle with chili flake mixture.",
+    "5. Grill the skewers for 8-10 minutes, or until cooked through.",
+    "6. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fish",
+    "skewers",
+    "thai",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crispy-korean-fish-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:45:18.699Z"
+}
