@@ -1,0 +1,71 @@
+{
+  "slug": "hearty-french-lamb-tartiflette-cassoulet--chinese",
+  "title": "Lamb Cassoulet Tartiflette",
+  "description": "A unique fusion of Chinese flavors and French cuisine, this hearty dish combines the rich flavors of lamb with the savory taste of tartiflette.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Tartiflette",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "French green beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chinese five-spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with Chinese five-spice and salt.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to the preheated oven and cook for 2 hours, or until tender.",
+    "While the lamb is cooking, prepare the tartiflette according to the package instructions.",
+    "Add the French green beans to the Dutch oven and cook until tender, about 5 minutes.",
+    "Once the lamb is done, let it rest for 10 minutes before slicing.",
+    "Serve the sliced lamb with the tartiflette and green beans.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 160,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "french",
+    "lamb",
+    "tartiflette",
+    "cassoulet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-french-lamb-tartiflette-cassoulet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:53:37.117Z"
+}
