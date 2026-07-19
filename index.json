@@ -17629,5 +17629,31 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-dense-dutch-tofu-stew--japanese",
+    "title": "Japanese-Style Stew with Hearty Tofu",
+    "tags": [
+      "japanese",
+      "stew",
+      "tofu",
+      "curry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-rich-moroccan-bamboo-shoot-tagine--gluten-free",
+    "title": "Moroccan Tagine with Bamboo Shoots",
+    "tags": [
+      "moroccan",
+      "gluten-free",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
