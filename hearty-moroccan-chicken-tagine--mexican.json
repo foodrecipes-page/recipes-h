@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-moroccan-chicken-tagine--mexican",
+  "title": "Chicken Tagine Tacos",
+  "description": "A fusion twist on traditional Mexican street food, combining the flavors of Moroccan chicken tagine with crispy tacos.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "containing cumin, coriander, cinnamon, ginger"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Tortillas (corn or flour)",
+      "amount": "8-10",
+      "notes": "for tacos"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "chopped, for serving"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the remaining 1 tablespoon olive oil, then sauté the onions and garlic until softened, about 5 minutes.",
+    "Add the Moroccan spice blend and cook, stirring constantly, for 1 minute.",
+    "Add the diced tomatoes, red wine (if using), and browned chicken. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and cook, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the chicken and serving it in the warmed tortillas, topped with avocado and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tacos",
+    "mexican",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 38,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-moroccan-chicken-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:42:49.405Z"
+}
