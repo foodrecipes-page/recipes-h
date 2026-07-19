@@ -17557,5 +17557,30 @@
     "cuisine": "french",
     "totalTimeMin": 50,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-american-pork-skewers--vegan",
+    "title": "Smoked American Skewers",
+    "tags": [
+      "vegan",
+      "grilled",
+      "smoked"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "homestyle-mediterranean-pasta-pasta--french",
+    "title": "French Country Pasta",
+    "tags": [
+      "french",
+      "homestyle",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "h"
   }
 ]
