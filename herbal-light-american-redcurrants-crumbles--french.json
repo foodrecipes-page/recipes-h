@@ -1,0 +1,67 @@
+{
+  "slug": "herbal-light-american-redcurrants-crumbles--french",
+  "title": "Redcurrant Crumble",
+  "description": "A classic French dessert with a sweet and tangy twist, featuring fresh redcurrants topped with a crunchy crumble.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "american crumbles",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the redcurrants and pat them dry.",
+    "In a large bowl, mix together the flour, granulated sugar, and light brown sugar.",
+    "Add the unsalted butter and crumbles to the bowl and mix until crumbly.",
+    "Transfer the redcurrants to a baking dish and top with the crumble mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "redcurrant",
+    "crumble",
+    "french",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-light-american-redcurrants-crumbles--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:10:22.479Z"
+}
