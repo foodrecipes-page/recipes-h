@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-smoky-moroccan-lentil-harira",
+  "title": "Smoky Moroccan Lentil Stew",
+  "description": "A hearty and comforting stew inspired by the flavors of Morocco, made with smoky spices and lentils.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrots and cook for another 5 minutes.",
+    "Add smoked paprika, harissa, and cumin. Cook for 1 minute.",
+    "Add lentils, diced tomatoes, and 4 cups of water. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lentils are tender, about 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lentil",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-moroccan-lentil-harira",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:35:13.399Z"
+}
