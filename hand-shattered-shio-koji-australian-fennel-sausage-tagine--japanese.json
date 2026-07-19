@@ -1,0 +1,69 @@
+{
+  "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine--japanese",
+  "title": "Koji-Glazed Australian Sausage with Fennel",
+  "description": "A modern take on traditional Japanese flavors, this dish features a sweet and savory glaze made with koji.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian sausage",
+      "amount": "1 pound",
+      "notes": "Look for Japanese-style sausage or substitute with a similar variety"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "Thinly slice or chop for better flavor"
+    },
+    {
+      "name": "Koji",
+      "amount": "1 tablespoon",
+      "notes": "You can also use miso paste as a substitute"
+    },
+    {
+      "name": "Shio",
+      "amount": "1 tablespoon",
+      "notes": "Japanese salt, or substitute with kosher salt"
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": "Optional, but adds a nice anise flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a small saucepan, combine koji, shio, and fennel seeds. Cook over low heat, stirring constantly, until the mixture turns golden brown.",
+    "3. Add 1 tablespoon of water to the saucepan and bring to a simmer.",
+    "4. Meanwhile, cook the Australian sausage in a pan over medium-high heat, until browned on all sides.",
+    "5. Transfer the sausage to a baking dish and brush with the koji glaze.",
+    "6. Roast in the oven for 15-20 minutes, or until the glaze is caramelized and the sausage is cooked through.",
+    "7. Serve with sliced fennel and your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glazed-sausage",
+    "fennel",
+    "koji",
+    "australian-sausage",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hand-shattered-shio-koji-australian-fennel-sausage-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:48:51.450Z"
+}
