@@ -591,19 +591,15 @@
   },
   {
     "slug": "hangover-cure-smoky-ethiopian-mitsuba-azifa",
-    "title": "Smoky Ethiopian Mitsuba Azifa",
+    "title": "Mitsuba and Ethiopian Spicy Hangover Cure",
     "tags": [
       "breakfast",
-      "ethiopian-cuisine",
-      "hangover-cure",
-      "lacto-vegetarian",
-      "mitsuba",
-      "one-pan",
-      "smoky-spices",
-      "weeknight"
+      "ethiopian",
+      "spicy",
+      "hangover-cure"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
@@ -17605,6 +17601,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-normandy-lamb-gratin--thai",
+    "title": "Thai Lamb Gratin",
+    "tags": [
+      "thaifood",
+      "lamb",
+      "gratin",
+      "slowcooker",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 170,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-australian-chillies-bake--german",
+    "title": "Scharfes Australisches Hähnchen",
+    "tags": [
+      "german",
+      "chicken",
+      "bbq",
+      "spicy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
     "shard": "h"
   }
 ]
