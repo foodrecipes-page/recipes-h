@@ -957,16 +957,15 @@
   },
   {
     "slug": "hazelnut-crunchy-malaysian-nutmeg-satay",
-    "title": "Hazelnut Crunchy Malaysian Nutmeg Satay",
+    "title": "Satay Chicken with Hazelnut Crunch",
     "tags": [
-      "air-fry",
-      "low-calorie",
-      "malaysian",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "hazelnut",
+      "malaysian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 20,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -9822,17 +9821,15 @@
   },
   {
     "slug": "hearty-spicy-jamaican-chicken-fried-rice",
-    "title": "Hearty Spicy Jamaican Chicken Fried Rice",
+    "title": "Jamaican Fried Chicken and Rice",
     "tags": [
-      "chicken-recipes",
-      "fried-rice",
-      "jamaican-cuisine",
-      "low-carb",
-      "one-pan-meal",
-      "spicy-food"
+      "jamaican",
+      "fried",
+      "chicken",
+      "rice"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -17729,6 +17726,46 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-german-beans-stew--indian",
+    "title": "Smoky Indian Stew",
+    "tags": [
+      "indian",
+      "smoky",
+      "stew",
+      "beans",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-vietnamese-tofu-curry--italian",
+    "title": "Vietnamese-Style Hot Italian Sausage Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "spicy",
+      "vietnamese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-malaysian-frankfurter-dumplings--gluten-free",
+    "title": "Gluten-Free Frankfurter Dumplings",
+    "tags": [
+      "gluten-free",
+      "malaysian",
+      "dumplings",
+      "frankfurter"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
