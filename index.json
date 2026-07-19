@@ -17676,5 +17676,19 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine--japanese",
+    "title": "Koji-Glazed Australian Sausage with Fennel",
+    "tags": [
+      "glazed-sausage",
+      "fennel",
+      "koji",
+      "australian-sausage",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
