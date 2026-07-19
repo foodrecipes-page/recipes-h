@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-malaysian-frankfurter-dumplings--gluten-free",
+  "title": "Gluten-Free Frankfurter Dumplings",
+  "description": "A hearty, malaysian-inspired twist on traditional dumplings, featuring frankfurter sausages and a gluten-free wrapper.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frankfurter sausages",
+      "amount": "4",
+      "notes": "Gluten-free sausages"
+    },
+    {
+      "name": "Gluten-free dumpling wrappers",
+      "amount": "8-10",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying dumplings"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil. Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the frankfurter sausages to the skillet and cook for 2-3 minutes, or until browned.",
+    "Add the soy sauce, grated ginger, and sesame oil to the skillet and stir to combine.",
+    "Once the dumplings are done cooking, carefully remove them from the water with a slotted spoon and add them to the skillet with the sausages.",
+    "Serve the dumplings hot, garnished with chopped scallions, cilantro, and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "dumplings",
+    "frankfurter"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malaysian-frankfurter-dumplings--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:46:34.422Z"
+}
