@@ -1,0 +1,75 @@
+{
+  "slug": "hearty-smoked-american-pork-skewers--vegan",
+  "title": "Smoked American Skewers",
+  "description": "A twist on traditional skewers, using smoked American ingredients for a vegan option that's both flavorful and nutritious.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Portobello Mushrooms",
+      "amount": "1 1/2 pounds",
+      "notes": "Stemmed and sliced into 1-inch pieces"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "American Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "Diced into 1-inch cubes"
+    },
+    {
+      "name": "Hearty Marinara Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "American Bell Peppers",
+      "amount": "2 large",
+      "notes": "Diced into 1-inch pieces"
+    },
+    {
+      "name": "American Onion",
+      "amount": "1 large",
+      "notes": "Diced into 1-inch pieces"
+    },
+    {
+      "name": "Skewer Skewers",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together smoked paprika, olive oil, salt, and pepper. Add the mushrooms, sweet potatoes, bell peppers, and onion. Toss to coat.",
+    "Thread the skewer with the marinated vegetables, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Serve hot with a side of marinara sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "grilled",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-american-pork-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:17:00.200Z"
+}
