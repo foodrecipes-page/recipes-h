@@ -1,0 +1,99 @@
+{
+  "slug": "hearty-normandy-lamb-gratin--thai",
+  "title": "Thai Lamb Gratin",
+  "description": "A Thai-inspired twist on the classic lamb gratin, with the added flavors of lemongrass and galangal. This dish is perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1 1/2 pounds)",
+      "notes": "Bone-in for more flavor"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Galangal",
+      "amount": "1-inch piece",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    },
+    {
+      "name": "Hearty Normandy cheese",
+      "amount": "1 cup, shredded (for topping)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "In the same pot, add the chopped lemongrass and galangal and cook until fragrant, about 1 minute.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Return the lamb shoulder to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and bake for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and top the lamb with the shredded Normandy cheese.",
+    "Return the pot to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the pot from the oven and garnish with chopped cilantro.",
+    "Serve the lamb gratin hot, with the juices spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "thaifood",
+    "lamb",
+    "gratin",
+    "slowcooker",
+    "dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-normandy-lamb-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:46:15.491Z"
+}
