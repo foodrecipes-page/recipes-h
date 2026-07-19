@@ -1,0 +1,95 @@
+{
+  "slug": "herbal-australian-chillies-bake--german",
+  "title": "Scharfes Australisches Hähnchen",
+  "description": "Ein scharfes und leckeres Hähnchen aus Australien, mit einem Hauch von Gewürzen und einer leichten BBQ-Sauce.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hähnchenbrust",
+      "amount": "1-2 Stück",
+      "notes": null
+    },
+    {
+      "name": "Chillies",
+      "amount": "2-3 Stück",
+      "notes": null
+    },
+    {
+      "name": "Bake",
+      "amount": "2 TL",
+      "notes": null
+    },
+    {
+      "name": "Zitronensaft",
+      "amount": "1 EL",
+      "notes": "aus frischer Zitrone"
+    },
+    {
+      "name": "Olivenöl",
+      "amount": "2 EL",
+      "notes": null
+    },
+    {
+      "name": "Salz",
+      "amount": "1/2 TL",
+      "notes": null
+    },
+    {
+      "name": "Pfeffer",
+      "amount": "1/4 TL",
+      "notes": null
+    },
+    {
+      "name": "Thymian",
+      "amount": "1 TL",
+      "notes": "aus frischen Blättern"
+    },
+    {
+      "name": "Paprikapulver",
+      "amount": "1 TL",
+      "notes": null
+    },
+    {
+      "name": "Australian BBQ-Sauce",
+      "amount": "1/4 Tasse",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Den Backofen auf 180°C vorheizen.",
+    "2. Das Hähnchenbruststück mit Salz, Pfeffer und Thymian einreiben.",
+    "3. In einer Pfanne Olivenöl erhitzen und das Hähnchenbruststück anbraten, bis es goldbraun ist.",
+    "4. Den Backofen einstellen und das Hähnchenbruststück für 20-25 Minuten backen, bis es durchgegart ist.",
+    "5. In einer separaten Pfanne Olivenöl erhitzen und die Chillies anbraten, bis sie weich sind.",
+    "6. Mit Bake, Zitronensaft und Paprikapulver vermischen und die Chili-Mischung auf das Hähnchenbruststück geben.",
+    "7. Für weitere 5-10 Minuten backen, bis die Chili-Mischung leicht karamellisiert ist.",
+    "8. Das Hähnchenbruststück aus dem Ofen nehmen und mit Australian BBQ-Sauce überziehen.",
+    "9. Für weitere 2-3 Minuten backen, bis die Sauce leicht karamellisiert ist.",
+    "10. Das Hähnchenbruststück aus dem Ofen nehmen und servieren."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "bbq",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-australian-chillies-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:58:05.241Z"
+}
