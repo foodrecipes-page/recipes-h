@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-dense-dutch-tofu-stew--japanese",
+  "title": "Japanese-Style Stew with Hearty Tofu",
+  "description": "A hearty and comforting Japanese-inspired stew made with dense tofu and a blend of spices, perfect for a chilly evening.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hearty Dutch Heirloom Potatoes",
+      "amount": "2 large",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Dense Extra-Firm Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and diced"
+    },
+    {
+      "name": "Japanese Curry Powder",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven over medium heat.",
+    "Add grated ginger and minced garlic. Cook for 1 minute, until fragrant.",
+    "Add diced tofu and cook for 2-3 minutes, until lightly browned.",
+    "Add curry powder and cook for 1 minute, until fragrant.",
+    "Add chopped green onions, soy sauce, and water. Stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10-15 minutes.",
+    "Add diced potatoes and cook for an additional 15-20 minutes, or until tender.",
+    "Season with sesame seeds and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stew",
+    "tofu",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dense-dutch-tofu-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:29:28.303Z"
+}
