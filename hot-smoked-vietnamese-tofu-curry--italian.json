@@ -1,0 +1,86 @@
+{
+  "slug": "hot-smoked-vietnamese-tofu-curry--italian",
+  "title": "Vietnamese-Style Hot Italian Sausage Pasta",
+  "description": "A spicy twist on a classic Italian pasta dish, featuring hot Italian sausage and a blend of Vietnamese flavors.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hot Italian sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Vietnamese chili flakes (khai vien)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pasta (linguine)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Tofu (marinated in soy sauce, lime juice, and sugar)",
+      "amount": "1 block"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grapeseed oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a large skillet, heat oil over medium-high heat.",
+    "Add sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add smoked paprika, chili flakes, and curry powder. Cook for 1 minute.",
+    "Add marinaded tofu and cook until browned.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in cooked pasta, salt, and black pepper.",
+    "Toss to combine and top with fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "spicy",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-vietnamese-tofu-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:24:54.384Z"
+}
