@@ -4860,16 +4860,14 @@
   },
   {
     "slug": "hearty-gooey-vietnamese-pork-ca-kho-to",
-    "title": "Hearty Gooey Vietnamese Pork Ca Kho To",
+    "title": "Vietnamese-Style Braised Pork Belly",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "pork-recipes",
-      "vietnamese-cuisine",
-      "wood-fired-cooking"
+      "vietnamese",
+      "pork",
+      "braised"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 180,
+    "totalTimeMin": 165,
     "shard": "h"
   },
   {
@@ -8539,14 +8537,11 @@
   },
   {
     "slug": "hearty-shattering-egyptian-beef-roast",
-    "title": "Hearty Shattering Egyptian Beef Roast",
+    "title": "Egyptian Beef Roast",
     "tags": [
-      "beef-roast",
-      "egyptian-cuisine",
-      "enchilada-sauce",
-      "family-dinner",
-      "kid-friendly",
-      "sugar-free"
+      "beef",
+      "roast",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 170,
@@ -8890,17 +8885,15 @@
   },
   {
     "slug": "hearty-smoked-american-pork-skewers",
-    "title": "Hearty Smoked American Pork Skewers",
+    "title": "Smoked Pork Skewers with American BBQ Glaze",
     "tags": [
-      "american-comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "grilled-pork",
-      "smoked-meat",
-      "weeknight-dinner"
+      "smoked",
+      "american",
+      "barbecue",
+      "grill"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
