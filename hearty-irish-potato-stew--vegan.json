@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-irish-potato-stew--vegan",
+  "title": "Hearty Irish Vegan Stew",
+  "description": "A comforting, plant-based take on a classic Irish dish. Perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Vegan broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp dried",
+      "notes": null
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 tsp dried",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add mushrooms and cook until browned, about 5 minutes.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Pour in vegan broth and add thyme and rosemary.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "stew",
+    "vegan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-potato-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T23:02:23.164Z"
+}
