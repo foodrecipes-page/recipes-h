@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-smoked-american-pork-skewers",
+  "title": "Smoked Pork Skewers with American BBQ Glaze",
+  "description": "A delicious and easy-to-make dish featuring smoked pork, perfect for a summer barbecue. The American BBQ glaze adds a sweet and tangy flavor to the dish.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "american BBQ sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bacon, cut into 1-inch pieces",
+      "amount": "4 slices"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "american cheese, sliced",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together smoked paprika, brown sugar, garlic powder, salt, and black pepper.",
+    "Add pork cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the pork cubes onto skewers, leaving a small space between each piece.",
+    "Brush the bacon pieces with a little bit of oil and place on the grill.",
+    "Grill the bacon for 2-3 minutes per side, or until crispy.",
+    "Add the skewers to the grill and cook for 5-7 minutes per side, or until the pork is cooked through.",
+    "While the skewers are cooking, brush the American BBQ sauce onto the pork.",
+    "Once the pork is cooked, remove from the grill and top with crispy bacon, chopped cilantro, and sliced American cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "american",
+    "barbecue",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-american-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:11:49.034Z"
+}
