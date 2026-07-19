@@ -1,0 +1,74 @@
+{
+  "slug": "herbaceous-slovakian-veal-bao",
+  "title": "Slovakian Veal Bao",
+  "description": "A traditional Slovakian dish, this veal bao recipe combines the flavors of the region with the convenience of a bao.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "1 pound",
+      "notes": "preferably thinly sliced"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4-6",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Herbaceous sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "2 tablespoons",
+      "notes": "mild or hot, depending on preference"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add the Slovakian paprika and cook for 1 minute, stirring constantly.",
+    "Add the thinly sliced veal and cook until browned, about 3-4 minutes.",
+    "Add the herbaceous sauce and stir to coat the veal.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Split the bao buns in half and toast until lightly browned.",
+    "Assemble the bao by spooning the veal and sauce mixture into the buns.",
+    "Top with sour cream and chopped parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "veal",
+    "bao",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-slovakian-veal-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:36:44.821Z"
+}
