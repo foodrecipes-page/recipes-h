@@ -1,0 +1,76 @@
+{
+  "slug": "hothot-hazy-ethiopian-injera-tart--vegetarian",
+  "title": "Ethiopian Vegetable Tart",
+  "description": "A vegetarian take on a classic tart, featuring Ethiopian spices and served with a side of injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tart crust",
+      "amount": "1 9-inch",
+      "notes": null
+    },
+    {
+      "name": "Hothot oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing tart crust"
+    },
+    {
+      "name": "Hazy spices",
+      "amount": "1 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Injera crumbs",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Ethiopian vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "Ethiopian cheese",
+      "amount": "1/2 cup",
+      "notes": "such as ayib or tetra"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tart crust and place on a baking sheet.",
+    "Brush the crust with hothot oil and sprinkle with hazy spices.",
+    "Top the crust with Ethiopian vegetables and Ethiopian cheese.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the vegetables are tender.",
+    "Garnish with fresh cilantro and serve with a side of injera."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "tart",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hothot-hazy-ethiopian-injera-tart--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:49:25.062Z"
+}
