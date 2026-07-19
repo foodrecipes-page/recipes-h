@@ -6618,14 +6618,11 @@
   },
   {
     "slug": "hearty-korean-bun-noodles",
-    "title": "Hearty Korean Bun Noodles",
+    "title": "Spicy Korean Bun Noodle Soup",
     "tags": [
-      "diabetic-friendly",
-      "korean-food",
-      "low-carb",
-      "noodle-dish",
-      "one-pot",
-      "weeknight"
+      "korean",
+      "noodle-soup",
+      "vegetarian"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -12379,17 +12376,15 @@
   },
   {
     "slug": "herbaceous-slovakian-veal-bao",
-    "title": "Herbaceous Slovakian Veal Bao",
+    "title": "Slovakian Veal Bao",
     "tags": [
-      "bamboo-steamer",
-      "herbaceous",
-      "nutty",
       "slovakian",
-      "sugar-free",
-      "veal"
+      "veal",
+      "bao",
+      "eastern-european"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -17653,6 +17648,32 @@
       "comfort-food"
     ],
     "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-egyptian-bread-flatbread--vegan",
+    "title": "Smoked Flatbread Wrap with Egyptian Spices",
+    "tags": [
+      "vegan",
+      "middle eastern",
+      "lunch",
+      "wrap"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-british-sausages-toad-in-the-hole--french",
+    "title": "Toad in the Hole",
+    "tags": [
+      "british",
+      "french",
+      "sausages",
+      "toad-in-the-hole"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "h"
   }
