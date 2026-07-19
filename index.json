@@ -9303,17 +9303,14 @@
   },
   {
     "slug": "hearty-smoky-moroccan-lentil-harira",
-    "title": "Hearty Smoky Moroccan Lentil Harira",
+    "title": "Smoky Moroccan Lentil Stew",
     "tags": [
-      "comfort-food",
-      "lentil",
       "moroccan",
-      "one-pot",
-      "smoky",
-      "vegan"
+      "lentil",
+      "stew"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
