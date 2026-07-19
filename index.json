@@ -7580,18 +7580,15 @@
   },
   {
     "slug": "hearty-nutty-french-prawns-mille-feuille",
-    "title": "Hearty Nutty French Prawns Mille Feuille",
+    "title": "French Prawn Mille-Feuille Tart",
     "tags": [
-      "energizing",
       "french",
-      "mille-feuille",
-      "nutty",
-      "ovo-vegetarian",
       "seafood",
-      "tandoori"
+      "tart",
+      "pastry"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 27,
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -17581,6 +17578,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-moroccan-chicken-tagine--mexican",
+    "title": "Chicken Tagine Tacos",
+    "tags": [
+      "chicken",
+      "tacos",
+      "mexican",
+      "moroccan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-crispy-korean-fish-skewers--thai",
+    "title": "Spicy Korean Fish Skewers",
+    "tags": [
+      "korean",
+      "fish",
+      "skewers",
+      "thai",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "h"
   }
 ]
