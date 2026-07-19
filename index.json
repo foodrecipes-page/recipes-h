@@ -17550,5 +17550,19 @@
     "cuisine": "Irish",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-light-american-redcurrants-crumbles--french",
+    "title": "Redcurrant Crumble",
+    "tags": [
+      "redcurrant",
+      "crumble",
+      "french",
+      "dessert",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "h"
   }
 ]
