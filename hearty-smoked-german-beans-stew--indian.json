@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-smoked-german-beans-stew--indian",
+  "title": "Smoky Indian Stew",
+  "description": "A hearty, comforting stew infused with the deep flavors of India. Perfect for a cold winter night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "German Caraway Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kidney Beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Hearty German Bread",
+      "amount": "2 slices",
+      "notes": "crumbled (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add smoked paprika, caraway seeds, and cook for 1 minute.",
+    "Add beans, tomatoes, and vegetable broth.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Taste and adjust seasoning.",
+    "Serve hot, topped with crumbled bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "smoky",
+    "stew",
+    "beans",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-german-beans-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:18:18.202Z"
+}
