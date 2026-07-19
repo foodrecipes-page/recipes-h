@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-korean-bun-noodles",
+  "title": "Spicy Korean Bun Noodle Soup",
+  "description": "A hearty and flavorful Korean-inspired noodle soup made with spicy gochujang sauce and topped with crispy bun croutons.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bun",
+      "amount": "1 cup",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles or Korean-style noodles"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "spicy Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large pot over medium heat.",
+    "Add garlic and ginger and cook until fragrant.",
+    "Add gochujang and soy sauce and stir to combine.",
+    "Add noodles and cook until slightly browned.",
+    "Add bun cubes and cook until crispy.",
+    "Season with sesame oil and serve hot.",
+    "Divide noodles and bun among bowls and ladle soup over top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "noodle-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-korean-bun-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:37:57.084Z"
+}
