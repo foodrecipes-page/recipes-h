@@ -2739,17 +2739,16 @@
   },
   {
     "slug": "hearty-cheesy-italian-mozzarella-skewers",
-    "title": "Hearty Cheesy Italian Mozzarella Skewers",
+    "title": "Cheesy Italian Skewers",
     "tags": [
-      "fodmap-friendly",
-      "grilled-cheese",
-      "italian-inspired",
-      "kenyan-cuisine",
-      "rendered-fat",
-      "robata-grill"
+      "italian",
+      "cheesy",
+      "snack",
+      "vegetarian",
+      "appetizer"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 15,
     "shard": "h"
   },
   {
