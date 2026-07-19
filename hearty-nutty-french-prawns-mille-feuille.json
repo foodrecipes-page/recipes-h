@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-nutty-french-prawns-mille-feuille",
+  "title": "French Prawn Mille-Feuille Tart",
+  "description": "A modern twist on the classic French pastry, featuring succulent prawns and a flaky, buttery crust.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Large Prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mille-Feuille Pastry Sheets",
+      "amount": "4",
+      "notes": "thawed"
+    },
+    {
+      "name": "Grated Cheese",
+      "amount": "1/4 cup",
+      "notes": "Parmesan"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch. Cut into a rectangle, about 1/4 inch larger than a 9x13 inch baking dish.",
+    "In a pan, melt butter over medium heat. Add onion and garlic and cook until softened.",
+    "Add prawns and cook until pink. Season with salt and pepper.",
+    "Place puff pastry in the baking dish and fill with prawn mixture.",
+    "Cut mille-feuille pastry sheets into quarters and place on top of prawn mixture.",
+    "Bake for 20-25 minutes, or until pastry is golden brown.",
+    "Top with grated cheese and return to oven for an additional 2-3 minutes, or until cheese is melted.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "seafood",
+    "tart",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-nutty-french-prawns-mille-feuille",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:47:22.791Z"
+}
