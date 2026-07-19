@@ -1,0 +1,74 @@
+{
+  "slug": "hearty-smoked-egyptian-bread-flatbread--vegan",
+  "title": "Smoked Flatbread Wrap with Egyptian Spices",
+  "description": "A hearty, flavorful wrap filled with Egyptian spices and topped with a side of tangy slaw. This vegan dish is perfect for a quick and satisfying meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked flatbread",
+      "amount": "1 large piece"
+    },
+    {
+      "name": "egyptian spices (paprika, cumin, coriander, cayenne pepper)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "chickpeas, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tangy slaw (made with red cabbage, apple cider vinegar, and lemon juice)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the smoked flatbread into strips and grill until crispy, about 2-3 minutes per side.",
+    "In a large bowl, whisk together the Egyptian spices, roasted red peppers, chickpeas, cucumber, and mixed greens.",
+    "Add the grilled flatbread strips to the bowl and toss to combine.",
+    "Serve immediately, topped with a dollop of tangy slaw and a squeeze of lemon juice, if desired.",
+    "Refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "middle eastern",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-egyptian-bread-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:44:24.198Z"
+}
