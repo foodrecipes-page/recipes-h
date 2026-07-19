@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-spicy-jamaican-chicken-fried-rice",
+  "title": "Jamaican Fried Chicken and Rice",
+  "description": "A flavorful and spicy twist on a classic comfort food dish, featuring crispy fried chicken and savory rice.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "spicy seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, jerk seasoning, and 1 tablespoon of water. Add the chicken pieces and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "2. Preheat the oil in a large skillet over medium-high heat.",
+    "3. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "4. Dredge the chicken pieces in the flour, shaking off excess.",
+    "5. Fry the chicken pieces in batches until golden brown and cooked through, about 5-7 minutes per batch.",
+    "6. Transfer the fried chicken to a paper towel-lined plate to drain excess oil.",
+    "7. In the same skillet, add the chopped onion, scotch bonnet pepper (if using), and garlic. Cook until the onion is translucent, about 3-4 minutes.",
+    "8. Add the cooked rice to the skillet, breaking up any clumps with a spatula. Stir to combine with the onion mixture.",
+    "9. Cook the rice mixture for 2-3 minutes, stirring frequently, until heated through.",
+    "10. To serve, place a portion of the fried chicken on top of the rice mixture.",
+    "11. Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "fried",
+    "chicken",
+    "rice"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-jamaican-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:12:42.255Z"
+}
