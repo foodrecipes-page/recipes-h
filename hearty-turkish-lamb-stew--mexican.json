@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-turkish-lamb-stew--mexican",
+  "title": "Mexican Lamb Stew",
+  "description": "A hearty, flavorful Mexican-inspired lamb stew, perfect for a chilly evening. The combination of tender lamb, rich tomatoes, and spices will transport your taste buds to the heart of Mexico.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set it aside.",
+    "Reduce the heat to medium and add the onion to the pot. Cook until the onion is softened, about 5 minutes.",
+    "Add the garlic, cumin, and chili powder to the pot and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes, red wine, and chicken broth to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring the stew to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and stir in some chopped fresh cilantro, if desired.",
+    "Serve the stew hot, garnished with additional cilantro if desired.",
+    "Let the stew rest for 10-15 minutes before serving, to allow the flavors to meld.",
+    "Serve the stew hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-turkish-lamb-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:15:59.522Z"
+}
