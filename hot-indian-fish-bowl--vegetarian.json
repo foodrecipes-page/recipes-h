@@ -1,0 +1,79 @@
+{
+  "slug": "hot-indian-fish-bowl--vegetarian",
+  "title": "Vegetarian Fish Bowl",
+  "description": "A delicious and healthy vegetarian fish bowl recipe, packed with Indian spices and flavors. Serve in a hot bowl for a satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish-free tofu",
+      "amount": "250g",
+      "notes": "Drain and press tofu before use"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "Choose a variety of colorful vegetables"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "Use a blend of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1-2 tsp",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "A serving bowl to hold the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "Season the tofu with salt and pepper, and grill for 3-4 minutes per side.",
+    "In a separate pan, heat some oil over medium heat.",
+    "Add the mixed vegetables and cook until tender, about 5 minutes.",
+    "Stir in the Indian spices and cook for 1 minute.",
+    "Add the lime juice and cook for another minute.",
+    "To assemble the dish, place the grilled tofu on top of the vegetables.",
+    "Garnish with chopped cilantro and serve in a hot bowl.",
+    "If desired, add a few dashes of hot sauce on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "fish-free",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "20g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-indian-fish-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:43:01.177Z"
+}
