@@ -918,16 +918,15 @@
   },
   {
     "slug": "hawaiian-style-jamaican-beef-hash",
-    "title": "Hawaiian-Style Jamaican Beef Hash",
+    "title": "Jamaican Beef Hash",
     "tags": [
-      "jamaican",
-      "one-pan",
-      "paleo-friendly",
-      "weekend-brunch",
-      "weeknight"
+      "beef",
+      "caribbean",
+      "breakfast",
+      "hash"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -17853,6 +17852,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-braised-chinese-pork-bao--italian",
+    "title": "Pork Belly Bao",
+    "tags": [
+      "italian",
+      "pork",
+      "bao",
+      "braised"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 180,
     "shard": "h"
   }
 ]
