@@ -1,0 +1,77 @@
+{
+  "slug": "heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo--gluten-free",
+  "title": "Filipino-Style Bilo Bilo",
+  "description": "A classic Filipino dessert made with glutinous rice balls and coconut milk, served chilled. This gluten-free version is perfect for hot summer days.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "glutinous rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "food coloring (pink or red)",
+      "amount": "a few drops"
+    },
+    {
+      "name": "bilo bilo (glutinous rice balls)",
+      "amount": "1 package"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Combine glutinous rice flour and sugar in a large bowl.",
+    "Gradually add in coconut milk and mix until a dough forms.",
+    "Add a few drops of food coloring to tint the dough pink or red.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Cook the glutinous rice balls in boiling water for about 10-15 minutes, or until they float to the surface.",
+    "Drain the cooked rice balls and set aside.",
+    "Combine coconut cream and sugar in a separate bowl.",
+    "Chill the mixture in the refrigerator for at least 30 minutes.",
+    "To assemble the dessert, place a few cooked glutinous rice balls in a bowl and top with chilled coconut cream mixture.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "filipino",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-chewy-filipino-boudin-blanc-ginataang-bilo-bilo--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:06:52.666Z"
+}
