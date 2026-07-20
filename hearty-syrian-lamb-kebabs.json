@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "A hearty and flavorful dish inspired by traditional Syrian cuisine, featuring tender lamb kebabs grilled to perfection.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 pita rounds"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground lamb, olive oil, onion, garlic, paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Thread lamb mixture onto skewers, leaving a small space between each piece.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked through to an internal temperature of 145°F.",
+    "Warm pita bread by wrapping it in foil and heating it on the grill for a few minutes.",
+    "Assemble kebabs by placing cooked meat on pita bread and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "syrian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:26:03.647Z"
+}
