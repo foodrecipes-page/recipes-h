@@ -1,0 +1,81 @@
+{
+  "slug": "honeyed-hot-mediterranean-white-fish-en-croute",
+  "title": "Pan-Seared Fish with Mediterranean Croute",
+  "description": "A delicious and flavorful dish featuring pan-seared fish topped with a crispy Mediterranean croute.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4",
+      "notes": "Fresh, white fish"
+    },
+    {
+      "name": "Mediterranean croute",
+      "amount": "1",
+      "notes": "Available pre-made or homemade"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Honeyed butter",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1 tsp",
+      "notes": "Optional, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the fish with salt and black pepper.",
+    "3. Heat a skillet over medium-high heat. Add the white wine (if using).",
+    "4. Add the fish to the skillet, skin side up. Cook for 2-3 minutes.",
+    "5. Flip the fish over and cook for an additional 2-3 minutes.",
+    "6. Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "7. Meanwhile, toast the Mediterranean croute in the oven for 2-3 minutes.",
+    "8. Remove the skillet from the oven and top the fish with the honeyed butter.",
+    "9. Garnish with hot sauce (if using).",
+    "10. Serve the fish with the toasted croute on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "seafood",
+    "easy-entree"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-hot-mediterranean-white-fish-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:00:44.650Z"
+}
