@@ -10234,17 +10234,15 @@
   },
   {
     "slug": "hearty-syrian-lamb-kebabs",
-    "title": "Hearty Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "syrian",
+      "grilled"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "h"
   },
   {
@@ -17865,6 +17863,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-hot-irish-beef-stew--vegetarian",
+    "title": "Hearty Irish Stew",
+    "tags": [
+      "irish",
+      "comfort-food",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-holiday-turkish-cranberry-menemen--italian",
+    "title": "Cranberry and Prosciutto Menemen",
+    "tags": [
+      "italian",
+      "breakfast",
+      "cranberry",
+      "prosciutto",
+      "menemen"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-indian-fish-bowl--vegetarian",
+    "title": "Vegetarian Fish Bowl",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "fish-free",
+      "bowl"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
