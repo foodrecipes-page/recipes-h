@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-shaggy-croatian-lamb-kebabs--gluten-free",
+  "title": "Croatian Lamb Kebabs",
+  "description": "A gluten-free and flavorful recipe featuring Croatian lamb skewers. Perfect for a summer evening with friends and family.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "hearty red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "shaggy leaf lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and pepper.",
+    "Add the sliced red onion and chopped lettuce to the bowl. Toss to coat.",
+    "Thread the lamb shoulder onto skewers, leaving a small space between each piece.",
+    "Brush the lamb with the garlic-paprika mixture, making sure to coat all sides evenly.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "Let the lamb rest for 5 minutes before slicing.",
+    "Serve the lamb with the grilled onions and lettuce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "lamb",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-shaggy-croatian-lamb-kebabs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:52:04.104Z"
+}
