@@ -17762,5 +17762,30 @@
     "cuisine": "malaysian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-argentinian-beef-stew--japanese",
+    "title": "Smoky Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 270,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-peruvian-hazelnut-picarones--japanese",
+    "title": "Hazelnut Picarones with Matcha Whipped Cream",
+    "tags": [
+      "hazelnut",
+      "picarones",
+      "matcha",
+      "whipped-cream"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
