@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-hot-irish-beef-stew--vegetarian",
+  "title": "Hearty Irish Stew",
+  "description": "A comforting and flavorful vegetarian stew that's perfect for a chilly evening.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Pearl Barley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add vegetable broth, barley, and thyme. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "comfort-food",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-hot-irish-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:50:54.602Z"
+}
