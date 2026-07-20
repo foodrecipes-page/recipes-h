@@ -17904,5 +17904,18 @@
     "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-hydro-blue-german-cabbage-bao--italian",
+    "title": "Bao-Wrapped Italian Cabbage Rolls",
+    "tags": [
+      "italian",
+      "bao",
+      "cabbage",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "h"
   }
 ]
