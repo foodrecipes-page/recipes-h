@@ -17787,5 +17787,33 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-shaggy-croatian-lamb-kebabs--gluten-free",
+    "title": "Croatian Lamb Kebabs",
+    "tags": [
+      "croatian",
+      "gluten-free",
+      "lamb",
+      "kebabs"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hollow-briny-korean-collards-mandu--chinese",
+    "title": "Korean-Style Steamed Mandu with Collards",
+    "tags": [
+      "korean",
+      "chinese",
+      "steamed",
+      "mandu",
+      "collards",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
