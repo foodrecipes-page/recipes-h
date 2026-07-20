@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-south-chickpea-flour-dhal--german",
+  "title": "German Chickpea and Dhal Casserole",
+  "description": "A hearty German-inspired casserole made with chickpeas, dhal, and south Indian spices, served with a side of crusty bread.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "dhal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "south spices",
+      "amount": "1 tsp",
+      "notes": "cumin, coriander, turmeric"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the oil over medium heat. Add the onion, carrot, and celery and cook until the vegetables are softened.",
+    "Add the cumin, coriander, and turmeric to the skillet and cook for 1 minute.",
+    "Stir in the chickpeas, dhal, flour, and tomato paste. Cook for 2 minutes.",
+    "Add the tomato sauce to the skillet and stir to combine. Bring the mixture to a simmer.",
+    "Transfer the mixture to a greased 9x13-inch baking dish.",
+    "Bake the casserole for 30-40 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chickpea",
+    "lentil",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-south-chickpea-flour-dhal--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:53:29.449Z"
+}
