@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-smoky-argentinian-beef-stew--japanese",
+  "title": "Smoky Beef Stew",
+  "description": "A hearty and flavorful stew dish with smoky beef and argentinian spices, inspired by Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "shoyu",
+      "amount": "2 tablespoons",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup",
+      "notes": "Japanese rice wine"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dashi",
+      "amount": "2 cups",
+      "notes": "Japanese broth"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear beef cubes until browned, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Add onion and garlic to the pot and cook until softened, about 3 minutes.",
+    "Add shoyu, mirin, and sake to the pot, stirring to combine.",
+    "Return beef to the pot and add dashi.",
+    "Bring mixture to a boil, then reduce heat to low and simmer, covered, for 2 hours.",
+    "Add sugar, if using, and continue to simmer for another 30 minutes.",
+    "Serve stew hot, garnished with green onions, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-argentinian-beef-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:48:58.898Z"
+}
