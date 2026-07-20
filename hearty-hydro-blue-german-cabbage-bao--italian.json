@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-hydro-blue-german-cabbage-bao--italian",
+  "title": "Bao-Wrapped Italian Cabbage Rolls",
+  "description": "Italian-inspired cabbage rolls wrapped in sweet bao and baked to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "bao",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "hydro",
+      "amount": "1/2 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "german sausage seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "blue cheese crumbles",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Bring a large pot of salted hydro to a boil. Blanch cabbage for 5 minutes.",
+    "Remove cabbage from hydro and let cool. Remove leaves from cabbage and set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add garlic and cook for 1 minute.",
+    "Add italian seasoning and german sausage seasoning to skillet and cook for 1 minute.",
+    "Stuff each cabbage leaf with a portion of the garlic-herb mixture.",
+    "Place a tablespoon of hydro in the center of each cabbage leaf and roll up tightly.",
+    "Place bao on a flat surface and place a cabbage roll in the center of each bao.",
+    "Fold bao over cabbage roll to form a square shape and press edges to seal.",
+    "Brush bao with olive oil and place on a baking sheet.",
+    "Bake for 15-20 minutes or until bao is golden brown.",
+    "Optional: sprinkle with blue cheese crumbles before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bao",
+    "cabbage",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-hydro-blue-german-cabbage-bao--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:39:59.558Z"
+}
