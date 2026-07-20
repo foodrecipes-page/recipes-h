@@ -1,0 +1,99 @@
+{
+  "slug": "hearty-braised-chinese-pork-bao--italian",
+  "title": "Pork Belly Bao",
+  "description": "A twist on traditional Italian cuisine, this dish combines the flavors of braised pork belly with the Asian-inspired bao.",
+  "cuisine": "italian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 kg",
+      "notes": "Score the fat in a crisscross pattern"
+    },
+    {
+      "name": "Bao Buns",
+      "amount": "4-6",
+      "notes": "Available in most Asian markets"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 large onion",
+      "notes": "Slow-cooked in a mixture of olive oil and soy sauce"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced thinly and sautéed in butter"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and sautéed in butter"
+    },
+    {
+      "name": "Star Anise",
+      "amount": "2 whole",
+      "notes": "Added to the braise for depth of flavor"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp",
+      "notes": "Used to glaze the pork belly"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Used for cooking the onions and ginger"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Used to marinate the pork belly"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tbsp",
+      "notes": "Used as a glaze for the pork belly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Score the fat in the pork belly in a crisscross pattern.",
+    "Season the pork belly with salt and pepper.",
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork belly until browned on all sides, about 5 minutes per side.",
+    "Remove the pork belly from the pot and set aside.",
+    "Add 1 tablespoon of butter to the pot and sauté the sliced ginger until fragrant, about 1 minute.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced onions and cook until caramelized, stirring occasionally.",
+    "Add the star anise, soy sauce, and hoisin sauce to the pot and stir to combine.",
+    "Return the pork belly to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and let the pork belly rest for 10 minutes.",
+    "Slice the pork belly into thick slabs and serve on bao buns with caramelized onions and ginger."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "italian",
+    "pork",
+    "bao",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-braised-chinese-pork-bao--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:40:48.884Z"
+}
