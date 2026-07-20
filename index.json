@@ -17815,5 +17815,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-south-chickpea-flour-dhal--german",
+    "title": "German Chickpea and Dhal Casserole",
+    "tags": [
+      "german",
+      "chickpea",
+      "lentil",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-turkish-lamb-stew--mexican",
+    "title": "Mexican Lamb Stew",
+    "tags": [
+      "mexican",
+      "lamb",
+      "stew",
+      "hearty"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "h"
   }
 ]
