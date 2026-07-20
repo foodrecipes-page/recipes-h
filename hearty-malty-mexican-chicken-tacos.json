@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-malty-mexican-chicken-tacos",
+  "title": "Malty Chicken Tacos",
+  "description": "A twist on traditional tacos, this dish combines the flavors of malty and mexican cuisine with juicy chicken. Perfect for a quick weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "malty corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Season the chicken with cumin, chili powder, and salt and pepper.",
+    "Add the chicken to the skillet and cook for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing it into thin strips.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of chicken onto a tortilla, followed by a spoonful of sour cream and shredded cheese if using.",
+    "Top with cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mexican",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-malty-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:03:46.735Z"
+}
