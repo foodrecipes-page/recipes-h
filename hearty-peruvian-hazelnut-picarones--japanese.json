@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-peruvian-hazelnut-picarones--japanese",
+  "title": "Hazelnut Picarones with Matcha Whipped Cream",
+  "description": "A Japanese twist on traditional Peruvian picarones, these doughnuts are infused with hazelnut and topped with a matcha whipped cream.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "hazelnut syrup",
+      "amount": "1/2 cup",
+      "notes": "or hazelnut extract"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 teaspoons",
+      "notes": "or matcha extract"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, yeast, and sugar.",
+    "Add ricotta cheese, hazelnut syrup, eggs, and mix until a smooth batter forms.",
+    "Cover the bowl with plastic wrap and let the mixture rise in a warm place for 1 hour.",
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Using a cookie scoop or spoon, drop the dough into the hot oil, making sure not to overcrowd the pan.",
+    "Fry the doughnuts for 2-3 minutes on each side or until golden brown.",
+    "Using a slotted spoon, remove the doughnuts from the oil and place them on a paper towel-lined plate.",
+    "In a small bowl, whisk together matcha powder and heavy cream until smooth.",
+    "Drizzle the matcha whipped cream over the warm doughnuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "hazelnut",
+    "picarones",
+    "matcha",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-peruvian-hazelnut-picarones--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:49:56.168Z"
+}
