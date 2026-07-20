@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-holiday-turkish-cranberry-menemen--italian",
+  "title": "Cranberry and Prosciutto Menemen",
+  "description": "A Turkish-inspired breakfast dish with an Italian twist, featuring crispy prosciutto and sweet cranberries.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Menemen Spice Mix",
+      "amount": "1 tsp",
+      "notes": "or Italian seasoning blend"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Add 1 tablespoon olive oil and cook the prosciutto until crispy, about 3-4 minutes.",
+    "3. Remove the prosciutto from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon olive oil.",
+    "5. Crack in the eggs and scramble them until they're just set.",
+    "6. Add the menemen spice mix and stir to combine.",
+    "7. Stir in the cranberries and cook for an additional 2 minutes.",
+    "8. Use a spatula to create 4 wells in the egg mixture.",
+    "9. Crack a prosciutto slice into each well.",
+    "10. Sprinkle with feta cheese and chopped parsley, if using.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "cranberry",
+    "prosciutto",
+    "menemen"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-holiday-turkish-cranberry-menemen--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:03:24.599Z"
+}
