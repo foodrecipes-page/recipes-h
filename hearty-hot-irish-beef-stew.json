@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-hot-irish-beef-stew",
+  "title": "Irish Beef Stew",
+  "description": "A hearty, comforting beef stew originating from Ireland.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "Dredge beef in flour"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Dredge beef in flour, shaking off excess.",
+    "3. Brown beef on all sides in hot oil, then remove.",
+    "4. Add onion to pot, cooking until softened.",
+    "5. Add carrots and potatoes, cooking for 5 minutes.",
+    "6. Add beef broth, red wine (if using), thyme, salt, and pepper.",
+    "7. Return beef to pot, cover, and transfer to oven.",
+    "8. Braise at 300°F for 2 1/2 hours, or until beef is tender.",
+    "9. Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "irish",
+    "hearty",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-hot-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:29:05.289Z"
+}
