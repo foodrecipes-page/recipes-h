@@ -17917,5 +17917,18 @@
     "cuisine": "italian",
     "totalTimeMin": 50,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-grassy-greek-masarepa-pilaf--mexican",
+    "title": "Mexican Masarepa Patties",
+    "tags": [
+      "mexican",
+      "veggie",
+      "masarepa",
+      "cornmeal"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "h"
   }
 ]
