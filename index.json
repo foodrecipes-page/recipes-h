@@ -17941,5 +17941,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-nutty-french-prawns-mille-feuille--japanese",
+    "title": "Japanese Prawn Mille-Feuille",
+    "tags": [
+      "japanese",
+      "prawns",
+      "mille-feuille",
+      "pastry",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-syrian-lamb-kebabs--mexican",
+    "title": "Lamb Kebabs with Mexican Flair",
+    "tags": [
+      "mexican",
+      "lamb",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
