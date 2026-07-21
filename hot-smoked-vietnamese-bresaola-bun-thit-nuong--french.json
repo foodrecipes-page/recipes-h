@@ -1,0 +1,85 @@
+{
+  "slug": "hot-smoked-vietnamese-bresaola-bun-thit-nuong--french",
+  "title": "Vietnamese Bresaola Banh Mi",
+  "description": "A French-inspired sandwich using Vietnamese flavors and cured bresaola.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "thit nuong",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "bun",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked aioli",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Slice the bresaola into thin strips.",
+    "Grill or toast the buns until lightly browned.",
+    "Spread mayonnaise and smoked aioli on the bottom bun.",
+    "Add sliced bresaola and grilled thit nuong on top.",
+    "Add pickled carrots, cilantro, and fresh mint.",
+    "Finish with the top bun."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "banh-mi",
+    "french-vietnamese",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-vietnamese-bresaola-bun-thit-nuong--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:24:25.393Z"
+}
