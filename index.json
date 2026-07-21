@@ -8474,17 +8474,15 @@
   },
   {
     "slug": "hearty-scottish-puy-lentils-cottage-pie",
-    "title": "Hearty Scottish Puy Lentils Cottage Pie",
+    "title": "Hearty Scottish Lentil Pie",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "scottish",
-      "wood-fired"
+      "lentils",
+      "vegetarian",
+      "gluten-free",
+      "scottish"
     ],
     "cuisine": "Scottish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 50,
     "shard": "h"
   },
   {
@@ -8960,18 +8958,15 @@
   },
   {
     "slug": "hearty-smoked-kenyan-fish-braise",
-    "title": "Hearty Smoked Kenyan Fish Braise",
+    "title": "Smoked Fish Stew",
     "tags": [
-      "gluten-free",
-      "healthy",
+      "fish",
+      "stew",
       "kenyan",
-      "one-pan",
-      "paleo",
-      "quick",
-      "whole30"
+      "smoked"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
