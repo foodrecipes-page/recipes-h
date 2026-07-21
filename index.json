@@ -6541,13 +6541,13 @@
   },
   {
     "slug": "hearty-kenyan-chicken-biryani",
-    "title": "Hearty Kenyan Chicken Biryani",
+    "title": "Kenyan Chicken Biryani",
     "tags": [
-      "bento-box",
-      "biryani-recipe",
-      "kenyan-cuisine",
-      "kosher-friendly",
-      "stir-fry"
+      "kenyan",
+      "chicken",
+      "biryani",
+      "rice",
+      "spices"
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 50,
@@ -18053,6 +18053,33 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-croatian-uni-bake--mexican",
+    "title": "Croatian Chili",
+    "tags": [
+      "chili",
+      "mexican",
+      "stew",
+      "hearty"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 75,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-aerated-irish-chickpea-flour-stew--italian",
+    "title": "Hearty Italian Chickpea Stew",
+    "tags": [
+      "italian",
+      "lunch",
+      "stew",
+      "chickpea",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "h"
   }
 ]
