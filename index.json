@@ -12262,16 +12262,13 @@
   },
   {
     "slug": "herbaceous-japanese-tofu-stir-fry",
-    "title": "Herbaceous Japanese Tofu Stir-fry",
+    "title": "Japanese-Style Tofu Stir Fry",
     "tags": [
-      "balsamic",
-      "herbaceous",
-      "japanese",
-      "one-pan",
-      "quick",
       "stir-fry",
-      "vegan",
-      "weeknight"
+      "tofu",
+      "japanese",
+      "vegetarian",
+      "quick"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
@@ -18002,6 +17999,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 105,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-homemade-venezuelan-sauerkraut-empanadas--thai",
+    "title": "Thai Empanada Spring Rolls",
+    "tags": [
+      "thai",
+      "empanadas",
+      "spring-rolls",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
