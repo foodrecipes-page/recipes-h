@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-irish-beef-stew--vegan",
+  "title": "Hearty Irish Mushroom Stew",
+  "description": "A vegetarian take on the classic Irish beef stew, featuring sautéed mushrooms and root vegetables in a rich broth.",
+  "cuisine": "irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 1/2 cups sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrots, and celery; cook until tender.",
+    "Add mushrooms and cook until they release their liquid and start to brown.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add vegetable broth, whisking continuously.",
+    "Bring to a boil, then reduce heat and simmer.",
+    "Add thyme, salt, and pepper.",
+    "Return to a boil, then reduce heat and simmer for 20-25 minutes.",
+    "Add potatoes and continue to simmer for another 15-20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "mushroom",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-beef-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:07:02.580Z"
+}
