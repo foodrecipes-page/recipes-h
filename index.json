@@ -18081,5 +18081,31 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hand-pulled-smoked-chinese-lamb-bao--indian",
+    "title": "Smoked Lamb Bao Rolls",
+    "tags": [
+      "indian",
+      "snack",
+      "bao",
+      "lamb"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-beef-stew--vegan",
+    "title": "Hearty Irish Mushroom Stew",
+    "tags": [
+      "irish",
+      "mushroom",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 60,
+    "shard": "h"
   }
 ]
