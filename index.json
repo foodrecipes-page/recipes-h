@@ -18107,5 +18107,18 @@
     "cuisine": "irish",
     "totalTimeMin": 60,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-italian-white-yam-panettone--indian",
+    "title": "Smoky Yam Fritters",
+    "tags": [
+      "indian",
+      "italian",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
