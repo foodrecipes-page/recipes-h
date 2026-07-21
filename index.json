@@ -18014,5 +18014,45 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-vietnamese-bresaola-bun-thit-nuong--french",
+    "title": "Vietnamese Bresaola Banh Mi",
+    "tags": [
+      "banh-mi",
+      "french-vietnamese",
+      "sandwich"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-juicy-saudi-arabian-gouda-tagine--vegan",
+    "title": "Saudi Arabian Vegan Stuffed Bell Peppers",
+    "tags": [
+      "vegan",
+      "saudi",
+      "arabian",
+      "stuffed-peppers",
+      "bell-peppers",
+      "quinoa"
+    ],
+    "cuisine": "saudi",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-vegetarian-tofu-wraps--indian",
+    "title": "Indian-Style Tofu Wrap",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "easy",
+      "healthy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
