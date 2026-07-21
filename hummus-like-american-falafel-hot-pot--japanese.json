@@ -1,0 +1,82 @@
+{
+  "slug": "hummus-like-american-falafel-hot-pot--japanese",
+  "title": "Tokyo-Style Hot Pot with Sesame Falafel",
+  "description": "A Japanese-inspired twist on the classic hot pot, served with crispy sesame-crusted falafel and a side of creamy hummus.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hot pot",
+      "amount": "1"
+    },
+    {
+      "name": "falafel",
+      "amount": "4"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "like (soy sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "american (chopped scallions)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pot (water pot)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Prepare a Japanese-style hot pot with water and a dash of soy sauce.",
+    "Meanwhile, mix sesame seeds and sesame oil in a bowl.",
+    "Coat the falafel with the sesame seed mixture.",
+    "Heat a non-stick pan and cook the falafel until crispy.",
+    "Serve the falafel with a side of creamy hummus and chopped scallions.",
+    "Place the hot pot in the center of the table and let everyone cook their favorite ingredients.",
+    "Serve with a variety of dipping sauces, such as soy sauce or wasabi.",
+    "Cook the falafel for 5-7 minutes, or until crispy.",
+    "Serve the hot pot with steaming hot water and a side of sesame-crusted falafel.",
+    "Add a dash of soy sauce and chopped scallions to the hot pot for added flavor.",
+    "Cook for an additional 2-3 minutes, or until the flavors have melded together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "hot-pot",
+    "falafel",
+    "hummus"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hummus-like-american-falafel-hot-pot--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:02:42.468Z"
+}
