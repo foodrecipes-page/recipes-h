@@ -17989,5 +17989,19 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-velvety-saudi-arabian-beef-stew--chinese",
+    "title": "Chinese Beef Stew",
+    "tags": [
+      "chinese",
+      "stew",
+      "beef",
+      "herbal",
+      "velvety"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 105,
+    "shard": "h"
   }
 ]
