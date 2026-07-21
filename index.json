@@ -18115,5 +18115,31 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hummus-like-american-falafel-hot-pot--japanese",
+    "title": "Tokyo-Style Hot Pot with Sesame Falafel",
+    "tags": [
+      "japanese",
+      "hot-pot",
+      "falafel",
+      "hummus"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-norwegian-kidney-bean-grill--indian",
+    "title": "Smoked Kidney Bean Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "lentil-free",
+      "bean-based"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
