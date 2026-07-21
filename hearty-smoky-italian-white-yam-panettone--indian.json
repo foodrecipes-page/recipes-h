@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-smoky-italian-white-yam-panettone--indian",
+  "title": "Smoky Yam Fritters",
+  "description": "A unique fusion of Indian and Italian flavors, these crispy fritters are a perfect snack for any occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yam",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "panettone",
+      "amount": "1/2 cup",
+      "notes": "crumbs"
+    },
+    {
+      "name": "italian",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "hearty",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "smoky",
+      "amount": "1/4 cup",
+      "notes": "garam masala"
+    },
+    {
+      "name": "white",
+      "amount": "1/2 cup",
+      "notes": "plain yogurt"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (175°C) in a deep frying pan.",
+    "In a large bowl, combine grated yam, panettone crumbs, italian olive oil, hearty all-purpose flour, smoky garam masala, salt, and black pepper. Mix well.",
+    "Add white plain yogurt and mix until a thick batter forms.",
+    "Drop small balls of the mixture into the hot oil and fry until golden brown.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "italian",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-italian-white-yam-panettone--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:18:45.762Z"
+}
