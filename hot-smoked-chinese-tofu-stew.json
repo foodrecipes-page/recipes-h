@@ -1,0 +1,81 @@
+{
+  "slug": "hot-smoked-chinese-tofu-stew",
+  "title": "Smoky Stew with Tofu",
+  "description": "A hearty and comforting stew made with smoky flavors and tender tofu, perfect for a cold evening.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Hot Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block, cut into cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium, peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese Five-spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for another 5 minutes.",
+    "Add the tofu, tomato paste, and Chinese Five-spice powder to the pot. Cook for 1 minute.",
+    "Add the soy sauce, water, and browned sausage back to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "chinese",
+    "tofu",
+    "smoked sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-chinese-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:52:31.201Z"
+}
