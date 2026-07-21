@@ -1,0 +1,92 @@
+{
+  "slug": "hearty-vegetarian-tofu-wraps--indian",
+  "title": "Indian-Style Tofu Wrap",
+  "description": "A flavorful and healthy vegetarian wrap filled with spiced tofu, crunchy vegetables, and creamy sauce. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-Firm Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Whole Wheat Wraps",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the grated ginger and minced garlic. Cook for 1-2 minutes, until fragrant.",
+    "Add the cumin powder and cook for another minute.",
+    "Add the pressed tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Warm the whole wheat wraps in the pan for a few seconds.",
+    "Assemble the wraps by spreading a layer of yogurt, followed by mixed greens, sliced cucumber, grated carrots, chopped cilantro, and the cooked tofu.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "easy",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-vegetarian-tofu-wraps--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:05:19.280Z"
+}
