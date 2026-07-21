@@ -1,0 +1,87 @@
+{
+  "slug": "herbal-velvety-saudi-arabian-beef-stew--chinese",
+  "title": "Chinese Beef Stew",
+  "description": "A hearty and flavorful Chinese-inspired stew made with tender beef and aromatic spices.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Slice the beef into thin strips"
+    },
+    {
+      "name": "Herbal stew mix",
+      "amount": "2 tbsp",
+      "notes": "Available at most Chinese grocery stores"
+    },
+    {
+      "name": "Velvety soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Add depth of flavor to the stew"
+    },
+    {
+      "name": "Saudi Arabian cinnamon",
+      "amount": "1 tsp",
+      "notes": "Add warmth and spice to the stew"
+    },
+    {
+      "name": "Arabian allspice",
+      "amount": "1 tsp",
+      "notes": "Add a hint of sweetness and spice"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1L",
+      "notes": "Use low-sodium broth for a healthier option"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "Balance the flavors in the stew"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "Add a nutty flavor to the stew"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grate the ginger and add to the stew"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large Dutch oven or pot over medium-high heat.",
+    "Add the beef to the pot and cook until browned, about 3-4 minutes. Remove the beef from the pot and set aside.",
+    "Add the herbal stew mix, velvety soy sauce, Saudi Arabian cinnamon, and Arabian allspice to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the beef broth, sugar, and ginger to the pot. Stir to combine.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stew",
+    "beef",
+    "herbal",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-velvety-saudi-arabian-beef-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:41:37.339Z"
+}
