@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-homemade-venezuelan-sauerkraut-empanadas--thai",
+  "title": "Thai Empanada Spring Rolls",
+  "description": "A fusion twist on traditional spring rolls, combining the crunch of fried empanada dough with the flavors of Thai cuisine.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Homemade Empanada Dough",
+      "amount": "1 package",
+      "notes": "Homemade empanada dough can be store-bought if unavailable"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the empanada dough into small squares and roll out each square into a thin sheet.",
+    "2. Heat 1/2 cup of vegetable oil in a pan over medium heat.",
+    "3. Add the Thai red curry paste and cook for 1 minute until fragrant.",
+    "4. Add the shredded carrots and cook for 2 minutes until slightly tender.",
+    "5. Add the sauerkraut, cheese, green onions, and Thai basil. Cook for 2 minutes until the sauerkraut is slightly tender.",
+    "6. Place a spoonful of the filling mixture onto one half of each empanada sheet.",
+    "7. Fold the other half of the empanada sheet over the filling and press the edges together to seal.",
+    "8. Heat the remaining 1/2 cup of vegetable oil in a pan over medium-high heat.",
+    "9. Fry the empanada spring rolls until golden brown, about 2-3 minutes per side.",
+    "10. Drain the spring rolls on paper towels and serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "empanadas",
+    "spring-rolls",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-venezuelan-sauerkraut-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:06:15.374Z"
+}
