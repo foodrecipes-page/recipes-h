@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-croatian-uni-bake--mexican",
+  "title": "Croatian Chili",
+  "description": "Hearty, comforting Mexican-inspired stew made with Croatian sausage and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "14.5 ounces",
+      "notes": "Crushed by hand"
+    },
+    {
+      "name": "Bake Beans",
+      "amount": "15 ounces",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the sliced Croatian sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the crushed canned diced tomatoes, chili powder, cumin, and salt.",
+    "Stir to combine and bring to a simmer.",
+    "Return the browned sausage to the pot and stir in the bake beans.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chili",
+    "mexican",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-uni-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:44:48.463Z"
+}
