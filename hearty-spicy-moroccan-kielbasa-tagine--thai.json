@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-spicy-moroccan-kielbasa-tagine--thai",
+  "title": "Spicy Kielbasa Tagine",
+  "description": "A twist on traditional Moroccan tagine, this spicy kielbasa tagine combines the bold flavors of Thailand with the hearty taste of kielbasa.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add kielbasa and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and ginger, and cook until onion is softened, about 5 minutes.",
+    "Add red bell pepper and cook for an additional 2 minutes.",
+    "Add chicken broth, fish sauce, brown sugar, cumin, coriander, and cayenne pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10 minutes.",
+    "Add kielbasa back to the pot and simmer for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "moroccan",
+    "tagine",
+    "kielbasa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-moroccan-kielbasa-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:51:25.310Z"
+}
