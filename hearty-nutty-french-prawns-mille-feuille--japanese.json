@@ -1,0 +1,72 @@
+{
+  "slug": "hearty-nutty-french-prawns-mille-feuille--japanese",
+  "title": "Japanese Prawn Mille-Feuille",
+  "description": "A modern twist on the classic French pastry, infused with Japanese flavors. Thin sheets of puff pastry are layered with prawns and a nutty filling, all topped with a sweet and crunchy mille-feuille.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Mille-Feuille Pastry Sheets",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Almond Paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch. Cut into rectangles, about 4 inches wide and 6 inches long.",
+    "In a small bowl, mix together almond paste and granulated sugar.",
+    "Place a prawn on one end of each pastry rectangle, leaving a 1/2 inch border around it.",
+    "Brush the edges of the pastry with a little water, then roll up each rectangle to form a cylinder.",
+    "Place the cylinders seam-side down on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While the pastry is baking, prepare the mille-feuille filling. Mix together almond paste, granulated sugar, and a pinch of salt.",
+    "Once the pastry is done, let it cool for a few minutes before slicing it into thin sheets.",
+    "Assemble the mille-feuille by layering the pastry sheets with the prawn filling and the almond paste mixture.",
+    "Top with a sprinkle of granulated sugar and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "prawns",
+    "mille-feuille",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-nutty-french-prawns-mille-feuille--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:23:07.110Z"
+}
