@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-scottish-puy-lentils-cottage-pie",
+  "title": "Hearty Scottish Lentil Pie",
+  "description": "A traditional Scottish-inspired pie made with lentils and topped with a crumbly cottage cheese crust.",
+  "cuisine": "Scottish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puy lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large saucepan, sauté the onions and carrots in butter until tender.",
+    "Add the lentils, salt, and black pepper. Cook for 5 minutes.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "While the lentils are cooking, prepare the crust by mixing the cottage cheese and flour in a bowl.",
+    "Transfer the lentil mixture to a 9-inch pie dish and top with the cottage cheese crust.",
+    "Bake the pie in the preheated oven for 25-30 minutes or until the crust is golden brown.",
+    "Let the pie cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "vegetarian",
+    "gluten-free",
+    "scottish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-scottish-puy-lentils-cottage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:44:58.792Z"
+}
