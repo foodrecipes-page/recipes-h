@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-syrian-lamb-kebabs--mexican",
+  "title": "Lamb Kebabs with Mexican Flair",
+  "description": "A fusion twist on traditional lamb kebabs, combining hearty flavors with the boldness of Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "syrup",
+      "amount": "2 tablespoons",
+      "notes": "Honey or agave nectar"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "Ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together cumin, chili powder, and lime juice.",
+    "Add the lamb cubes to the bowl and toss to coat.",
+    "Thread the lamb onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "While the lamb is cooking, mix together the syrup and garlic.",
+    "Brush the syrup mixture onto the lamb kebabs during the last 2 minutes of cooking.",
+    "Remove the lamb kebabs from the grill and let them rest for a few minutes.",
+    "Serve hot with your preferred sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-lamb-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:32:03.754Z"
+}
