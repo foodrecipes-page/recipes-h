@@ -1,0 +1,93 @@
+{
+  "slug": "hearty-smoky-norwegian-kidney-bean-grill--indian",
+  "title": "Smoked Kidney Bean Curry",
+  "description": "A hearty and flavorful Indian-inspired curry made with smoked kidney beans, perfect for a comforting meal. Serve with steaming hot rice or naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Kidney Beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian Bean",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Saute the onion, garlic, and ginger until the onion is translucent.",
+    "Add the cumin powder, coriander powder, and turmeric. Cook for 1 minute.",
+    "Add the tomato paste and cook for another minute.",
+    "Add the smoked kidney beans, Norwegian bean, and salt. Stir well.",
+    "Bring the mixture to a simmer and cook for 15-20 minutes or until the flavors have melded together.",
+    "Serve hot with steaming hot rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "lentil-free",
+    "bean-based"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-norwegian-kidney-bean-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:55:22.066Z"
+}
