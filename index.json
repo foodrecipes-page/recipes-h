@@ -8671,16 +8671,14 @@
   },
   {
     "slug": "hearty-silky-vietnamese-duck-bun-cha",
-    "title": "Hearty Silky Vietnamese Duck Bun Cha",
+    "title": "Vietnamese Duck Meatball Buns",
     "tags": [
-      "buddhist-friendly",
-      "duck-recipes",
-      "lazy-sunday",
-      "one-pot-meals",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "street-food",
+      "duck-buns"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -17929,6 +17927,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-friendly-jamaican-bread-bowl--chinese",
+    "title": "Jamaican Chicken Fried Rice",
+    "tags": [
+      "chicken",
+      "fried rice",
+      "jamaican",
+      "halal"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
