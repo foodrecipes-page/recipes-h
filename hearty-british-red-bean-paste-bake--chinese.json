@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-british-red-bean-paste-bake--chinese",
+  "title": "Red Bean Paste Buns",
+  "description": "Soft and fluffy buns filled with sweet red bean paste, a classic Chinese dessert.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Red bean paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, sugar, and yeast in a bowl. Let it sit for 5 minutes.",
+    "Add flour, salt, and butter to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Divide the dough into 8 equal pieces. Roll each piece into a ball and then flatten it slightly.",
+    "Place a tablespoon of red bean paste in the center of each dough piece. Fold the dough over the filling and seal it tightly.",
+    "Place the buns on a baking sheet lined with parchment paper. Brush the tops with egg wash.",
+    "Bake the buns for 18-20 minutes, or until they are golden brown.",
+    "Let the buns cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-red-bean-paste-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:49:29.281Z"
+}
