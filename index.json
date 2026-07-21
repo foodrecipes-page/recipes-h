@@ -5706,17 +5706,15 @@
   },
   {
     "slug": "hearty-homemade-italian-tomatoes-cacio-e-pepe",
-    "title": "Hearty Homemade Italian Tomatoes Cacio E Pepe",
+    "title": "Spaghetti alla Cacio e Pepe",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "italian-food",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "pasta",
+      "cheese",
+      "lactose-free"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -10638,17 +10636,16 @@
   },
   {
     "slug": "hearty-umami-korean-chickpeas-jeon",
-    "title": "Hearty Umami Korean Chickpeas Jeon",
+    "title": "Spicy Korean Chickpea Jeon",
     "tags": [
-      "buddhist-friendly",
-      "comfort-food",
-      "korean-cuisine",
-      "lunch-ideas",
-      "umami",
+      "korean",
+      "chickpea",
+      "pancake",
+      "snack",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -15430,16 +15427,15 @@
   },
   {
     "slug": "hot-smoked-chinese-tofu-stew",
-    "title": "Hot Smoked Chinese Tofu Stew",
+    "title": "Smoky Stew with Tofu",
     "tags": [
-      "low-carb",
-      "satvik-friendly",
-      "smoked-paprika",
-      "tofu-dish",
-      "winter-stew"
+      "stew",
+      "chinese",
+      "tofu",
+      "smoked sausage"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -17967,6 +17963,31 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-british-red-bean-paste-bake--chinese",
+    "title": "Red Bean Paste Buns",
+    "tags": [
+      "chinese",
+      "dessert",
+      "buns"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-moroccan-kielbasa-tagine--thai",
+    "title": "Spicy Kielbasa Tagine",
+    "tags": [
+      "spicy",
+      "moroccan",
+      "tagine",
+      "kielbasa"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "h"
   }
 ]
