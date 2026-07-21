@@ -1,0 +1,83 @@
+{
+  "slug": "hand-pulled-smoked-chinese-lamb-bao--indian",
+  "title": "Smoked Lamb Bao Rolls",
+  "description": "Crispy bao rolls filled with tender smoked lamb, perfect for a unique Indian-inspired meal.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked lamb",
+      "amount": "1 pound",
+      "notes": "Shredded or chopped"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Hand-pulled flour",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lamb fat or oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out bao dough to 1/4-inch thickness.",
+    "Cut into desired shapes.",
+    "Brush with lamb fat or oil.",
+    "Dust with hand-pulled flour.",
+    "Bake for 15 minutes, or until golden brown.",
+    "Fry shredded lamb in a pan until crispy.",
+    "Season with five-spice powder, salt, and black pepper.",
+    "Assemble bao rolls with crispy lamb and garnish with cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "bao",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hand-pulled-smoked-chinese-lamb-bao--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:05:25.570Z"
+}
