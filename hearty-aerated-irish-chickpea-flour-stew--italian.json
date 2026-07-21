@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-aerated-irish-chickpea-flour-stew--italian",
+  "title": "Hearty Italian Chickpea Stew",
+  "description": "A simple yet flavorful Italian-inspired stew made with chickpeas, hearty Irish stew meat, and a touch of aerated chickpea flour.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Aerated chickpea flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the chickpeas, water, flour, thyme, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the aerated chickpea flour and continue to simmer for an additional 5 minutes.",
+    "Serve hot and enjoy!",
+    "Note: If using fresh thyme, use 2 sprigs instead of 1 teaspoon dried.",
+    "Also, adjust the amount of water according to your desired consistency."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lunch",
+    "stew",
+    "chickpea",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-aerated-irish-chickpea-flour-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:53:21.021Z"
+}
