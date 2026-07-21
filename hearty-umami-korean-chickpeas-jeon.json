@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-umami-korean-chickpeas-jeon",
+  "title": "Spicy Korean Chickpea Jeon",
+  "description": "A flavorful and spicy Korean-style pancake filled with chickpeas. Perfect for a snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can, drained and rinsed",
+      "notes": null
+    },
+    {
+      "name": "jeon batter",
+      "amount": "1 cup, store-bought or homemade",
+      "notes": "See note for homemade batter recipe"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together jeon batter and 1/2 cup of water until smooth.",
+    "Add gochujang, soy sauce, green onions, sesame oil, salt, and black pepper to the bowl and stir to combine.",
+    "Stir in the chickpeas until they are evenly coated with the batter.",
+    "Heat a non-stick pan or a cast-iron skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan and spread it out to form a round shape.",
+    "Cook for 2-3 minutes or until the edges start to curl and the bottom is golden brown.",
+    "Flip the jeon and cook for another 1-2 minutes or until the other side is also golden brown.",
+    "Repeat with the remaining batter, adjusting the heat as needed to prevent burning.",
+    "Serve the jeon warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chickpea",
+    "pancake",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-korean-chickpeas-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:49:15.866Z"
+}
