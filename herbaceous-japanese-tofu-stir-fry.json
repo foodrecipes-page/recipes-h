@@ -1,0 +1,73 @@
+{
+  "slug": "herbaceous-japanese-tofu-stir-fry",
+  "title": "Japanese-Style Tofu Stir Fry",
+  "description": "A quick and flavorful stir-fry recipe featuring pan-seared tofu and mixed vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add ginger and cook for 1 minute, until fragrant.",
+    "Add bok choy and cook until wilted, about 3-4 minutes.",
+    "Add tofu and cook until golden brown, about 5-6 minutes.",
+    "Stir in soy sauce and rice vinegar.",
+    "Cook for an additional 1-2 minutes, until sauce is bubbly and slightly thickened.",
+    "Stir in green onions.",
+    "Serve immediately.",
+    "Garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "tofu",
+    "japanese",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-japanese-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:09:17.230Z"
+}
