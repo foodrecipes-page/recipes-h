@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-silky-vietnamese-duck-bun-cha",
+  "title": "Vietnamese Duck Meatball Buns",
+  "description": "Soft, silky buns filled with hearty duck meatballs, a classic Vietnamese street food.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck meat",
+      "amount": "1 lb",
+      "notes": "Ground duck"
+    },
+    {
+      "name": "Bun dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing buns"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "For meatballs"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For meatballs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the bun dough according to package instructions.",
+    "Mix duck meat, soy sauce, sugar, and 1 tablespoon sesame oil in a bowl.",
+    "Form duck mixture into small meatballs and bake for 12-15 minutes.",
+    "Meanwhile, toast bun dough in a pan until lightly browned.",
+    "Brush toasted buns with sesame oil.",
+    "Assemble the meatball buns by placing a meatball in each bun and topping with green onions.",
+    "Serve with Vietnamese chili sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "street-food",
+    "duck-buns"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-silky-vietnamese-duck-bun-cha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:45:03.418Z"
+}
