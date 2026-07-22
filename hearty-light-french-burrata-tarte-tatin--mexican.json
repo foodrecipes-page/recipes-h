@@ -1,0 +1,71 @@
+{
+  "slug": "hearty-light-french-burrata-tarte-tatin--mexican",
+  "title": "Mexican Tarte Tatin",
+  "description": "A twist on the classic French dessert, with the bold flavors of Mexico. The sweetness of the tarte meets the spiciness of the Mexican chili powder.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 sheet of light puff pastry",
+      "amount": "1",
+      "notes": "thawed"
+    },
+    {
+      "name": "1/4 cup of burrata cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "1/4 cup of chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "1/4 cup of honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tablespoon of chili powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "1/4 teaspoon of cumin",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "In a small bowl, mix together the honey, chili powder, and cumin.",
+    "Spread the honey mixture evenly over the center of the puff pastry, leaving a 1-inch border around the edges.",
+    "Top the honey mixture with the crumbled burrata cheese.",
+    "Fold the edges of the puff pastry up over the filling, pressing gently to seal.",
+    "Transfer the tarte to a baking sheet lined with parchment paper.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove the tarte from the oven and let it cool for 5 minutes.",
+    "Sprinkle the chopped cilantro over the top of the tarte before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "tarte-tatin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-light-french-burrata-tarte-tatin--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:02:00.688Z"
+}
