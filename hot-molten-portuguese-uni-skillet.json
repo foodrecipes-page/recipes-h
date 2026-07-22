@@ -1,0 +1,65 @@
+{
+  "slug": "hot-molten-portuguese-uni-skillet",
+  "title": "Pan-Seared Uni with Portuguese Skillet Hash",
+  "description": "A simple yet elegant dish featuring seared uni on a bed of crispy portuguese skillet hash. The combination of textures and flavors is sure to impress.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uni (Sea Urchin)",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese Skillet (Chouriço, Potatoes, and Onions)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Hot Skillet Oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of hot skillet oil in a large skillet over medium-high heat.",
+    "Add the chopped Portuguese Skillet and cook until crispy, about 5 minutes.",
+    "Add the uni to the skillet and sear for 2-3 minutes on each side.",
+    "Season with salt and black pepper to taste.",
+    "Serve the seared uni on top of the crispy Portuguese Skillet hash."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "breakfast-for-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-molten-portuguese-uni-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:35:36.403Z"
+}
