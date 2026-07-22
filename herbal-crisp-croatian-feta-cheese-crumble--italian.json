@@ -1,0 +1,62 @@
+{
+  "slug": "herbal-crisp-croatian-feta-cheese-crumble--italian",
+  "title": "Italian Feta Crumble",
+  "description": "A twist on the classic Italian cheese dish, featuring crumbled feta cheese and a crunchy topping.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "crisp croatian bread",
+      "amount": "1 1/2 cups, cubed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 ounces, crumbled"
+    },
+    {
+      "name": "italian cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 tablespoon, chopped fresh parsley"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup, breadcrumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the cubed bread, crumbled feta cheese, and shredded Italian cheese.",
+    "In a small bowl, mix together the chopped parsley and breadcrumbs.",
+    "Add the parsley and breadcrumb mixture to the bread mixture and toss to combine.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until the top is golden brown and the bread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "feta",
+    "cheese",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-crisp-croatian-feta-cheese-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:05:24.110Z"
+}
