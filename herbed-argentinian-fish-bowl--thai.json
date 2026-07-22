@@ -1,0 +1,84 @@
+{
+  "slug": "herbed-argentinian-fish-bowl--thai",
+  "title": "Herbed Fish Bowl",
+  "description": "A Thai-inspired dish featuring fish cooked in a flavorful herb sauce served in a bowl.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Herbed sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Argentinian fish fillet",
+      "amount": "2 pieces (6 oz)",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Lime",
+      "amount": "1"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt, pepper, and chili flakes.",
+    "Heat 1 tbsp of oil in an oven-safe skillet over medium-high heat.",
+    "Sear the fish for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "While the fish is cooking, prepare the herb sauce by blending the basil, mint, cilantro, ginger, and garlic in a blender.",
+    "Add the herbed sauce to the skillet with the fish and stir to combine.",
+    "Squeeze the lime juice over the fish and herbs.",
+    "Serve the fish in a bowl with the herb sauce spooned over the top.",
+    "Garnish with additional herbs and a sprinkle of chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "herbed",
+    "argentinian",
+    "fish",
+    "bowl",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": "40g",
+    "carbs": "10g",
+    "fat": "14g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbed-argentinian-fish-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:36:55.719Z"
+}
