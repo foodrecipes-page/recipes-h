@@ -1,0 +1,65 @@
+{
+  "slug": "hearty-velvety-cantonese-noodles-lo-me-in",
+  "title": "Cantonese Noodle Soup",
+  "description": "A hearty and comforting noodle soup inspired by Cantonese flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "lo mein sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "in a pinch of soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "veggies",
+      "amount": "",
+      "notes": "cantonese mix of cabbage, carrots, and green onions"
+    },
+    {
+      "name": "lo mein noodles' package seasoning",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil a large pot of water and cook the lo mein noodles according to the package instructions.",
+    "In a separate pan, heat the lo mein sauce and soy sauce over medium heat.",
+    "Add the veggies and cook until they are tender.",
+    "Combine the cooked noodles and the veggie mixture in the pan.",
+    "Season with the package seasoning provided.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cantonese",
+    "noodle-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-velvety-cantonese-noodles-lo-me-in",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:06:47.256Z"
+}
