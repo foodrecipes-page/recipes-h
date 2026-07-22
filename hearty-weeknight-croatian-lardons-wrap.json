@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-weeknight-croatian-lardons-wrap",
+  "title": "Croatian Weeknight Wrap",
+  "description": "A hearty twist on the classic wrap, featuring lardons and a blend of spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lardons",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pork sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Croatian flatbread",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the lardons in a pan over medium heat until crispy.",
+    "Add the sausage, cabbage, garlic, paprika, salt, and black pepper to the pan.",
+    "Cook until the sausage is browned and the cabbage is tender.",
+    "Warm the flatbread according to package instructions.",
+    "Assemble the wraps by spooning the sausage mixture onto the flatbread and topping with cheese.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "weeknight",
+    "wrap",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-weeknight-croatian-lardons-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:01:59.620Z"
+}
