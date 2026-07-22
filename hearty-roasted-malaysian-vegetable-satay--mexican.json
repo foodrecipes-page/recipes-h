@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-roasted-malaysian-vegetable-satay--mexican",
+  "title": "Vegetable Satay Tacos",
+  "description": "A fusion of mexican and malaysian flavors, this dish combines the sweetness of roasted vegetables with the spice of satay sauce, all wrapped up in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4",
+      "notes": "stemmed and sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Brush the mushrooms, bell pepper, and onion with vegetable oil and season with salt and pepper.",
+    "Grill the vegetables for 3-4 minutes per side, or until tender and lightly charred.",
+    "Meanwhile, warm the satay sauce in a small saucepan over low heat.",
+    "Assemble the tacos by placing a few slices of the grilled vegetables onto a taco shell, followed by a spoonful of satay sauce.",
+    "Top with shredded cheese, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "grilled",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-roasted-malaysian-vegetable-satay--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:38:39.116Z"
+}
