@@ -18300,5 +18300,17 @@
     "cuisine": "german",
     "totalTimeMin": 10,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-light-american-redcurrants-crumbles--keto",
+    "title": "Keto Redcurrant Crumble",
+    "tags": [
+      "keto",
+      "dessert",
+      "redcurrant"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
