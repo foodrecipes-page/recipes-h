@@ -4738,17 +4738,15 @@
   },
   {
     "slug": "hearty-german-sun-dried-tomato-stew",
-    "title": "Hearty German Sun Dried Tomato Stew",
+    "title": "German Sun-Dried Tomato Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "hearty-stew",
-      "one-pot",
-      "vegan",
-      "vegetarian"
+      "german",
+      "stew",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
