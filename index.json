@@ -10924,17 +10924,15 @@
   },
   {
     "slug": "hearty-velvety-italian-egg-frittata",
-    "title": "Hearty Velvety Italian Egg Frittata",
+    "title": "Classic Italian Frittata",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "italian-inspired",
-      "nut-free",
-      "one-pan",
-      "post-workout"
+      "italian",
+      "breakfast",
+      "eggs",
+      "frittata"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -15369,17 +15367,14 @@
   },
   {
     "slug": "hot-molten-portuguese-uni-skillet",
-    "title": "hot molten Portuguese uni Skillet",
+    "title": "Pan-Seared Uni with Portuguese Skillet Hash",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "portuguese-cuisine",
-      "post-workout",
       "seafood",
-      "weeknight"
+      "spanish",
+      "breakfast-for-dinner"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -18311,6 +18306,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-spicy-malaysian-chicken-satay--japanese",
+    "title": "Japanese Chicken Satay",
+    "tags": [
+      "japanese",
+      "chicken",
+      "satay",
+      "grilled",
+      "peanut-sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "h"
   }
 ]
