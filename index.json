@@ -18192,5 +18192,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "hawaiian-style-jamaican-beef-hash--keto",
+    "title": "Jamaican Beef Hash",
+    "tags": [
+      "jamaican",
+      "beef",
+      "hash",
+      "keto"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-kenyan-chicken-biryani--indian",
+    "title": "Kenyan-Style Chicken Biryani",
+    "tags": [
+      "indian",
+      "kenyan",
+      "biryani",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
