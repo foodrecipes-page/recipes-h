@@ -18211,5 +18211,31 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-zest-chicken--chinese",
+    "title": "Szechuan Chicken Stir Fry",
+    "tags": [
+      "szechuan",
+      "chinese",
+      "stir-fry",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-brazilian-eggplant-stew--gluten-free",
+    "title": "Brazilian Stew",
+    "tags": [
+      "brazilian",
+      "stew",
+      "gluten-free",
+      "dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
