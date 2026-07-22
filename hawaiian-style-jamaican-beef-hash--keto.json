@@ -1,0 +1,77 @@
+{
+  "slug": "hawaiian-style-jamaican-beef-hash--keto",
+  "title": "Jamaican Beef Hash",
+  "description": "A keto twist on the classic hash, with the bold flavors of Jamaica. Perfect for a quick and easy dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (ground)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Jamaican hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hawaiian salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bell pepper (any color)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "2. Add the beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "3. Add the Jamaican hash, bell pepper, onion, and garlic to the skillet. Cook until the vegetables are tender.",
+    "4. Add the cayenne pepper and stir to combine.",
+    "5. Season with Hawaiian salt to taste.",
+    "6. Serve the beef and hash mixture hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "beef",
+    "hash",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hawaiian-style-jamaican-beef-hash--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:15:03.835Z"
+}
