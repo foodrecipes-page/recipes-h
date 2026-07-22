@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-smoked-american-pork-skewers--gluten-free",
+  "title": "Smoked Pork Skewers",
+  "description": "A delicious and easy-to-make recipe for smoked pork skewers. Perfect for a gluten-free meal.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to pat dry with paper towels before marinating"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Heavy-duty aluminum foil",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Wood chips (such as apple or cherry)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Skewers (soaked in water for at least 30 minutes)",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your smoker to 225°F (110°C).",
+    "In a small bowl, mix together smoked paprika, brown sugar, garlic powder, salt, and black pepper.",
+    "Add the spice mixture to the pork cubes and toss to coat.",
+    "Thread the marinated pork onto the skewers.",
+    "Place the skewers in the smoker, fat side up.",
+    "Close the lid and smoke for 4-5 hours, or until the pork reaches an internal temperature of 160°F (71°C).",
+    "While the pork is smoking, set up your grill for indirect heat.",
+    "Once the pork is done, remove it from the smoker and brush with vegetable oil.",
+    "Grill the skewers for an additional 2-3 minutes per side, or until nicely charred.",
+    "Let the pork rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 300,
+  "totalTimeMin": 330,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "smoked-pork",
+    "american-cuisine",
+    "summer-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-american-pork-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:59:54.861Z"
+}
