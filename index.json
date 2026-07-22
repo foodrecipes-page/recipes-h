@@ -18141,5 +18141,57 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-crisp-croatian-feta-cheese-crumble--italian",
+    "title": "Italian Feta Crumble",
+    "tags": [
+      "italian",
+      "feta",
+      "cheese",
+      "crunchy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-jamaican-chicken-fried-rice--thai",
+    "title": "Jamaican Chicken Fried Rice",
+    "tags": [
+      "thai",
+      "jamaican",
+      "spicy",
+      "chicken",
+      "fried rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-american-pork-skewers--gluten-free",
+    "title": "Smoked Pork Skewers",
+    "tags": [
+      "gluten-free",
+      "smoked-pork",
+      "american-cuisine",
+      "summer-recipes"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 330,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-light-french-burrata-tarte-tatin--mexican",
+    "title": "Mexican Tarte Tatin",
+    "tags": [
+      "mexican",
+      "dessert",
+      "tarte-tatin"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
