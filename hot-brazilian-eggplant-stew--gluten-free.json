@@ -1,0 +1,91 @@
+{
+  "slug": "hot-brazilian-eggplant-stew--gluten-free",
+  "title": "Brazilian Stew",
+  "description": "A hearty and flavorful stew from Brazil, made with tender eggplant and a blend of spices. This dish is perfect for a cold evening and can be served with rice or bread. It's also gluten-free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Hot peppers",
+      "amount": "2",
+      "notes": "You can use any type of hot pepper you like, such as jalapeno or habanero."
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "You can use fresh or canned tomatoes for this recipe."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "You can use any type of onion you like, such as yellow or red."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "You can use more or less garlic depending on your personal taste."
+    },
+    {
+      "name": "Stew meat",
+      "amount": "1 pound",
+      "notes": "You can use beef, pork, or a combination of the two for this recipe."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "You can adjust the amount of cumin to taste."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "You can adjust the amount of paprika to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "You can adjust the amount of salt to taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "You can adjust the amount of black pepper to taste."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and hot peppers to the pot. Cook until the onion is softened, about 5 minutes.",
+    "Add the tomatoes, cumin, paprika, salt, and black pepper to the pot. Stir to combine.",
+    "Add the eggplant to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "stew",
+    "gluten-free",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-brazilian-eggplant-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:57:23.770Z"
+}
