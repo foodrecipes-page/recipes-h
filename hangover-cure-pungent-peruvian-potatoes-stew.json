@@ -1,0 +1,58 @@
+{
+  "slug": "hangover-cure-pungent-peruvian-potatoes-stew",
+  "title": "Peruvian Hangover Stew",
+  "description": "A hearty, comforting Peruvian-inspired stew to soothe a hangover. This dish is rich in flavor and can be made with readily available ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "cure hangover",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "pungent peruvian chili",
+      "amount": "1",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Peel and chop the potatoes into bite-sized pieces.",
+    "2. Heat a large pot over medium heat.",
+    "3. Add the pungent Peruvian chili to the pot and cook for 2-3 minutes.",
+    "4. Add the chopped potatoes to the pot and cook for 5 minutes.",
+    "5. Add 2 cups of water to the pot and bring to a boil.",
+    "6. Reduce the heat to low and simmer for 20 minutes.",
+    "7. Season the stew with salt and pepper to taste.",
+    "8. If desired, add the hangover cure to the stew for an extra kick.",
+    "9. Serve the stew hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "hangover",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-pungent-peruvian-potatoes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:48:10.353Z"
+}
