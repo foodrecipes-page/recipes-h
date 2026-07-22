@@ -532,19 +532,14 @@
   },
   {
     "slug": "hangover-cure-pungent-peruvian-potatoes-stew",
-    "title": "Hangover-cure Pungent Peruvian Potatoes Stew",
+    "title": "Peruvian Hangover Stew",
     "tags": [
-      "emulsified",
-      "gluten-free",
-      "hangover-cure",
-      "kosher-friendly",
-      "one-pan",
       "peruvian",
-      "sesame-seed",
-      "weeknight"
+      "hangover",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -18236,6 +18231,19 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-roasted-malaysian-vegetable-satay--mexican",
+    "title": "Vegetable Satay Tacos",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "grilled",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
