@@ -1,0 +1,91 @@
+{
+  "slug": "herbal-zest-chicken--chinese",
+  "title": "Szechuan Chicken Stir Fry",
+  "description": "A classic Chinese dish with a spicy kick. This quick and easy stir fry is a great option for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "szechuan pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "1/4 cup",
+      "notes": "toasted and ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over high heat.",
+    "Add the chicken to the wok and cook until browned and cooked through, about 5-7 minutes. Remove from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil. Add the sliced ginger and minced garlic and cook until fragrant, about 30 seconds.",
+    "Add the Szechuan pepper, soy sauce, and chicken broth to the wok. Stir to combine and bring to a simmer.",
+    "Return the chicken to the wok and stir to coat with the sauce.",
+    "Add the chopped green onions and toasted Szechuan peppercorns to the wok and stir to combine.",
+    "Serve the Szechuan chicken hot, garnished with additional green onions and Szechuan peppercorns if desired.",
+    "Note: For an extra spicy kick, add some red pepper flakes to the sauce.",
+    "Cook time can be reduced by cooking the chicken in a preheated oven at 400°F (200°C) for 15-20 minutes, or until cooked through.",
+    "Be sure to cook the chicken to an internal temperature of 165°F (74°C) to ensure food safety.",
+    "Serve with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "szechuan",
+    "chinese",
+    "stir-fry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-zest-chicken--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:48:20.898Z"
+}
