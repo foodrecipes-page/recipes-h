@@ -18245,5 +18245,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-gooey-kenyan-prawns-roast--thai",
+    "title": "Prawn and Kenyan Spicy Stir Fry",
+    "tags": [
+      "thai",
+      "prawn",
+      "spicy",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-hangover-thai-chicken-khao-pad--indian",
+    "title": "Spicy Chicken Khao Pad",
+    "tags": [
+      "spicy",
+      "chicken",
+      "thai",
+      "indian",
+      "one-pot"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
