@@ -1,0 +1,92 @@
+{
+  "slug": "hot-spicy-malaysian-chicken-satay--japanese",
+  "title": "Japanese Chicken Satay",
+  "description": "A unique twist on traditional satay, this Japanese-inspired dish combines spicy chicken with malaysian flavors.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Malaysian Peanut Sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Hot Sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Satay Skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Wooden Skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, honey, sesame oil, grated ginger, and hot sauce.",
+    "2. Add the chicken to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat a grill or grill pan to medium-high heat. Thread the marinated chicken onto the satay skewers.",
+    "5. Grill the chicken for 8-10 minutes per side, or until cooked through.",
+    "6. Brush the satay with peanut sauce during the last 2 minutes of grilling.",
+    "7. Serve the chicken hot with additional peanut sauce for dipping.",
+    "8. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "satay",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-spicy-malaysian-chicken-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:48:32.736Z"
+}
