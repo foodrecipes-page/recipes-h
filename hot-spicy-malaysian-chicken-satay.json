@@ -1,0 +1,92 @@
+{
+  "slug": "hot-spicy-malaysian-chicken-satay",
+  "title": "Spicy Malaysian Chicken Satay",
+  "description": "A classic Malaysian dish of marinated chicken grilled to perfection and served with spicy peanut sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Cut into skewer-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Spicy peanut sauce",
+      "amount": "200ml",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, blend together coconut milk, lemongrass, ginger, garlic, brown sugar, salt, and black pepper to make marinade.",
+    "2. Add chicken pieces to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat. Thread marinated chicken onto skewers.",
+    "4. Grill chicken for 5-7 minutes per side, or until cooked through.",
+    "5. Brush with peanut oil during grilling.",
+    "6. Serve with spicy peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "satay",
+    "grilled",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-spicy-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:15:15.942Z"
+}
