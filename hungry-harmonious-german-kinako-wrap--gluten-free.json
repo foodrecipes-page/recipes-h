@@ -1,0 +1,67 @@
+{
+  "slug": "hungry-harmonious-german-kinako-wrap--gluten-free",
+  "title": "Harmonious Kinako Wrap",
+  "description": "A gluten-free, harmonious kinako wrap recipe for a delicious and satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kinako",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "German wheat-free wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Hungry man's hummus",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Harmonious mixed greens",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gluten-free salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Place the wrap in the pan and toast for 1 minute.",
+    "Spread 2 tablespoons of hummus on the wrap.",
+    "Add 1/4 cup of mixed greens on top of the hummus.",
+    "Sprinkle kinako and salt over the greens.",
+    "Fold the wrap in half and cook for an additional minute.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "german",
+    "harmonious",
+    "kinako",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hungry-harmonious-german-kinako-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:50:35.211Z"
+}
