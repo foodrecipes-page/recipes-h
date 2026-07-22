@@ -10905,15 +10905,13 @@
   },
   {
     "slug": "hearty-velvety-cantonese-noodles-lo-me-in",
-    "title": "Hearty Velvety Cantonese Noodles Lo MeIN",
+    "title": "Cantonese Noodle Soup",
     "tags": [
-      "easy-meal",
-      "kid-friendly",
-      "mediterranean-friendly",
-      "one-pan",
-      "weeknight"
+      "cantonese",
+      "noodle-soup",
+      "vegetarian"
     ],
-    "cuisine": "Cantonese",
+    "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "h"
   },
@@ -11147,16 +11145,15 @@
   },
   {
     "slug": "hearty-weeknight-croatian-lardons-wrap",
-    "title": "Hearty Weeknight Croatian Lardons Wrap",
+    "title": "Croatian Weeknight Wrap",
     "tags": [
-      "comfort-food",
       "croatian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "weeknight",
+      "wrap",
+      "breakfast"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 30,
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -16136,16 +16133,14 @@
   },
   {
     "slug": "hungry-man-s-hangover-cure-algerian-chicken-tagine",
-    "title": "Hungry Man's Hangover Cure Algerian Chicken Tagine",
+    "title": "Algerian Chicken Tagine for Hangover Cure",
     "tags": [
-      "cream-based",
-      "hangover-cure",
-      "high-protein",
-      "one-pot",
-      "smoky",
-      "spicy"
+      "breakfast",
+      "algerian",
+      "chicken",
+      "hangover cure"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "algerian",
     "totalTimeMin": 55,
     "shard": "h"
   },
