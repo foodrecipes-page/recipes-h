@@ -18369,5 +18369,42 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-saudi-arabian-shallots-tagine--vegetarian",
+    "title": "Vegetarian Saudi Arabian Tagine",
+    "tags": [
+      "saudi arabian",
+      "vegetarian",
+      "tagine"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "heavenly-indian-tuna-rajma-jhol--french",
+    "title": "Pan-Seared Tuna with French Indian Sauce",
+    "tags": [
+      "french",
+      "indian",
+      "tuna",
+      "seafood"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-smoked-german-beans-stew--mexican",
+    "title": "Smoked German Bean Stew",
+    "tags": [
+      "bean-stew",
+      "mexican-cuisine",
+      "hearty-meal"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 80,
+    "shard": "h"
   }
 ]
