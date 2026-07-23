@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-sweet-russian-milk-pudding--mexican",
+  "title": "Russian Pudding Tres Leches Cake",
+  "description": "A twist on the traditional Mexican Tres Leches cake, using Russian-style pudding for a rich and creamy dessert.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Russian Pudding",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9x13-inch baking dish.",
+    "In a medium bowl, whisk together the flour, baking powder, and salt.",
+    "In a large bowl, use an electric mixer to beat the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time.",
+    "With the mixer on low speed, gradually add the flour mixture to the wet ingredients and mix until just combined.",
+    "Pour in the pudding, milk, and vanilla extract, and mix until smooth.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Poke holes all over the top of the cake with a skewer or fork.",
+    "Pour the evaporated milk, condensed milk, and pudding mixture evenly over the top of the cake.",
+    "Cover the cake with plastic wrap and refrigerate for at least 2 hours or overnight."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "dessert",
+    "cake",
+    "tres-leches",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sweet-russian-milk-pudding--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:04:56.751Z"
+}
