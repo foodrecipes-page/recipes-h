@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-venezuelan-beef-skewers--indian",
+  "title": "Beef Kebab Tikka",
+  "description": "A flavorful Venezuelan-inspired Indian-style beef kebab dish. Marinated in yogurt and spices, grilled to perfection.",
+  "cuisine": "indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "skewers"
+    },
+    {
+      "name": "yogurt (1 cup)",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "lemon juice (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garam masala (2 tsp)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper (1/2 tsp)",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic (4 cloves)",
+      "amount": "4 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together yogurt, lemon juice, garam masala, cumin, coriander, red chili powder, salt, and black pepper.",
+    "Add minced garlic and mix well.",
+    "Add beef skewers to the marinade and mix until coated.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Remove skewers from the marinade, letting any excess liquid drip off.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "Let rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides, such as basmati rice and naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kebab",
+    "tandoori",
+    "indian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-venezuelan-beef-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:36:19.729Z"
+}
