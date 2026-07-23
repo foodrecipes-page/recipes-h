@@ -4048,17 +4048,14 @@
   },
   {
     "slug": "hearty-fermented-venezuelan-mushroom-empanadas",
-    "title": "Hearty Fermented Venezuelan Mushroom Empanadas",
+    "title": "Traditional Venezuelan Empanadas",
     "tags": [
-      "fermented",
-      "festive-dish",
-      "gluten-free",
-      "mushrooms",
-      "sattvic",
-      "venezuelan-style"
+      "venezuelan",
+      "empanadas",
+      "beef"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 400,
+    "totalTimeMin": 35,
     "shard": "h"
   },
   {
@@ -10285,14 +10282,12 @@
   },
   {
     "slug": "hearty-tangy-greek-beans-skillet",
-    "title": "Hearty Tangy Greek Beans Skillet",
+    "title": "Greek Bean Skillet",
     "tags": [
       "greek",
-      "hearty",
-      "midnight-craving",
-      "one-pan",
-      "tangy",
-      "vegan"
+      "skillet",
+      "beans",
+      "vegetarian"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 25,
@@ -18442,6 +18437,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-sweet-russian-milk-pudding--mexican",
+    "title": "Russian Pudding Tres Leches Cake",
+    "tags": [
+      "mexican",
+      "dessert",
+      "cake",
+      "tres-leches",
+      "pudding"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "h"
   }
 ]
