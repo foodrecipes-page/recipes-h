@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-croatian-gorgonzola-pasta--thai",
+  "title": "Gorgonzola Pasta with Thai Flair",
+  "description": "A creamy pasta dish with the bold flavors of gorgonzola cheese and the spices of Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gorgonzola cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 lb",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat oil over medium-high heat.",
+    "Add garlic and ginger; sauté 1-2 minutes until fragrant.",
+    "Add gorgonzola cheese; stir until melted and creamy.",
+    "Add coconut milk; stir until well combined.",
+    "Add fish sauce and chili flakes; stir to combine.",
+    "Add cooked pasta to skillet; toss with gorgonzola sauce.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-thai-fusion",
+    "gorgonzola",
+    "pasta",
+    "thai-spices"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-gorgonzola-pasta--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:47:28.968Z"
+}
