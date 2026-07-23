@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-venezuelan-oxtail-stew--mexican",
+  "title": "Venezuelan Oxtail Stew",
+  "description": "A hearty and flavorful stew originating from Venezuela, made with tender oxtail and bold spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown oxtail on all sides, remove from pot and set aside.",
+    "Reduce heat to medium and sauté onion until softened.",
+    "Add garlic and chili peppers and cook for 1 minute.",
+    "Add chili powder and cumin and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and red wine to the pot.",
+    "Return oxtail to the pot and bring to a boil.",
+    "Cover and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until oxtail is tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "venezuelan",
+    "stew",
+    "oxtail"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-venezuelan-oxtail-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:23:02.649Z"
+}
