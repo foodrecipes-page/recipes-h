@@ -18406,5 +18406,29 @@
     "cuisine": "Mexican",
     "totalTimeMin": 80,
     "shard": "h"
+  },
+  {
+    "slug": "hangover-cure-pungent-peruvian-potatoes-stew--german",
+    "title": "German Hangover Stew",
+    "tags": [
+      "german",
+      "stew",
+      "hangover-cure"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-rich-turkish-beans-kuru-fasulye--mexican",
+    "title": "Mexican Fasulye",
+    "tags": [
+      "mexican",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
