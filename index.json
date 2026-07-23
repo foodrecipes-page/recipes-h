@@ -18478,5 +18478,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hummus-energizer--italian",
+    "title": "Italian Hummus Panini",
+    "tags": [
+      "italian",
+      "panini",
+      "hummus",
+      "wrap"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 14,
+    "shard": "h"
+  },
+  {
+    "slug": "harmonious-crispy-chinese-pork-dim-sum--chinese",
+    "title": "Crispy Pork Dim Sum",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "pork",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "h"
   }
 ]
