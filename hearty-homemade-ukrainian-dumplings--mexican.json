@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-homemade-ukrainian-dumplings--mexican",
+  "title": "Mexican-Style Ukrainian Dumplings",
+  "description": "A fusion twist on traditional Ukrainian dumplings, filled with spicy Mexican flavors. Serve as a main dish or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "make sure to use a gluten-free flour for a gluten-free option"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "warm water for dough"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "cooked and seasoned with Mexican spices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped and sautéed with garlic"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced and sautéed with onion"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded and melted on top"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water to form a dough.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of seasoned ground beef in the center of each circle.",
+    "Fold the dough over the filling and press the edges to seal.",
+    "Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes.",
+    "While the dumplings are cooking, heat a skillet with a tablespoon of oil over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Serve the cooked dumplings with the onion and garlic mixture, topped with shredded Mexican cheese and a dollop of sour cream.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "ukrainian",
+    "dumplings",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-ukrainian-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:23:24.269Z"
+}
