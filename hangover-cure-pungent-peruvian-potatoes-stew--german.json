@@ -1,0 +1,66 @@
+{
+  "slug": "hangover-cure-pungent-peruvian-potatoes-stew--german",
+  "title": "German Hangover Stew",
+  "description": "A hearty German stew to cure your hangover. This comforting dish is made with tender potatoes and a flavorful broth.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "diced"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "cure",
+      "amount": "1 teaspoon",
+      "notes": "ginger, grated"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "hangover",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced potatoes, chopped cilantro, grated ginger, and vegetable broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stew",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-pungent-peruvian-potatoes-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:55:49.622Z"
+}
