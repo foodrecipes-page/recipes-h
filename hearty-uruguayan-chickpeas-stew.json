@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-uruguayan-chickpeas-stew",
+  "title": "Uruguayan Chickpea Stew",
+  "description": "A hearty, comforting stew inspired by Uruguayan cuisine, featuring chickpeas as the main ingredient.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup dried or 2 cups cooked",
+      "notes": "Canned chickpeas can also be used"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peeled and cubed"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Or 1 tablespoon chopped fresh oregano"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and bell pepper, and cook until the vegetables are tender.",
+    "Add carrots and potatoes, and cook for 5 minutes.",
+    "Add chickpeas, tomato paste (if using), oregano, salt, and black pepper.",
+    "Stir well to combine.",
+    "Pour in enough water to cover the ingredients, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "stew",
+    "uruguayan",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-uruguayan-chickpeas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:42:21.388Z"
+}
