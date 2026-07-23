@@ -1,0 +1,95 @@
+{
+  "slug": "heavenly-indian-tuna-rajma-jhol--french",
+  "title": "Pan-Seared Tuna with French Indian Sauce",
+  "description": "A fusion of French and Indian flavors, this dish features seared tuna steaks served with a rich and creamy sauce.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks (6 oz)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Rajma (Kidney Beans)",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Jhol (Indian Spice Blend)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavenly (Garam Masala)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Indian (Coriander Powder)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the tuna steaks with salt and black pepper.",
+    "Heat 1 tbsp of butter in a skillet over medium-high heat. Add the tuna steaks and sear for 2-3 minutes per side, or until cooked to desired doneness.",
+    "Remove the tuna from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of butter. Add the Indian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the kidney beans, coriander powder, and garam masala to the skillet. Cook for 2-3 minutes, stirring occasionally.",
+    "Add the white wine to the skillet and cook until the liquid has almost completely evaporated.",
+    "Stir in the heavy cream and bring the mixture to a simmer.",
+    "Return the tuna steaks to the skillet and spoon some of the sauce over the top of each steak.",
+    "Simmer the tuna in the sauce for 1-2 minutes, or until heated through.",
+    "Serve the tuna steaks hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "indian",
+    "tuna",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-indian-tuna-rajma-jhol--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:08:43.981Z"
+}
