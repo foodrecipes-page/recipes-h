@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-spicy-brazilian-chicken-pasta--mexican",
+  "title": "Spicy Brazilian Chicken Pasta",
+  "description": "A flavorful Mexican-inspired dish featuring chicken, pasta, and spices.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Brazilian chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "spicy diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in the chili flakes, cumin, paprika, salt, and pepper. Cook for 1 minute.",
+    "Add the diced tomatoes and stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes.",
+    "Stir in the cooked pasta and shredded cheese (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "pasta",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-brazilian-chicken-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:13:03.192Z"
+}
