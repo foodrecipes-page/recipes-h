@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-rich-turkish-beans-kuru-fasulye--mexican",
+  "title": "Mexican Fasulye",
+  "description": "A hearty and rich Mexican dish inspired by Turkish fasulye, made with beans and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fasulye beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crushed tortilla chips",
+      "amount": "1/4 cup (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add chili powder, cumin, and paprika, cook for 1 minute.",
+    "Add beans, water, salt, and black pepper. Bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Taste and adjust seasoning.",
+    "Serve hot, topped with crushed tortilla chips (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-rich-turkish-beans-kuru-fasulye--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:26:01.587Z"
+}
