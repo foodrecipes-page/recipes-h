@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-fermented-venezuelan-mushroom-empanadas",
+  "title": "Traditional Venezuelan Empanadas",
+  "description": "A classic Venezuelan dish filled with a mix of beef, onions, and spices, wrapped in a crispy pastry. This recipe is perfect for a quick snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fermented cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the salt, black pepper, and cumin to the skillet and stir to combine.",
+    "Let the mixture cool to room temperature.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef mixture in the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and bake for 15-20 minutes, or until golden brown.",
+    "If using, sprinkle shredded fermented cheese on top of the empanadas during the last 2 minutes of baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fermented-venezuelan-mushroom-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:09:58.852Z"
+}
