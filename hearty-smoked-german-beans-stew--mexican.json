@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-smoked-german-beans-stew--mexican",
+  "title": "Smoked German Bean Stew",
+  "description": "A hearty, smoky twist on traditional German bean stew, inspired by Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "canned black beans",
+      "amount": "1 can (15 oz)",
+      "notes": null
+    },
+    {
+      "name": "dried kidney beans",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, chili powder, and smoked paprika; cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add dried kidney beans, black beans, and 4 cups water; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Stir in german mustard and salt.",
+    "Serve hot, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "mexican-cuisine",
+    "hearty-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoked-german-beans-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:49:34.052Z"
+}
