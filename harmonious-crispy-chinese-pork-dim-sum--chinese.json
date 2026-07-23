@@ -1,0 +1,84 @@
+{
+  "slug": "harmonious-crispy-chinese-pork-dim-sum--chinese",
+  "title": "Crispy Pork Dim Sum",
+  "description": "A classic Chinese dim sum dish with a crispy twist, featuring tender pork and a delicate wrapper.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "harmonious sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or wok over medium-high heat.",
+    "Dust wonton wrappers with flour and place a small amount of pork in the center of each wrapper.",
+    "Brush the edges of the wrapper with egg and fold the wrapper into a triangle, pressing the edges to seal.",
+    "Add a tablespoon of soy sauce to the center of each dim sum and top with chopped cabbage and scallions.",
+    "Brush the tops of the dim sum with sesame oil and transfer to a baking sheet.",
+    "Bake in a preheated oven at 400°F for 12-15 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dim-sum",
+    "pork",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harmonious-crispy-chinese-pork-dim-sum--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:54:37.400Z"
+}
