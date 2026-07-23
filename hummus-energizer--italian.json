@@ -1,0 +1,68 @@
+{
+  "slug": "hummus-energizer--italian",
+  "title": "Italian Hummus Panini",
+  "description": "A twist on the classic panini, featuring Italian-style ingredients and a creamy hummus spread.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "energizer",
+      "amount": "1 package (6-8 wraps)",
+      "notes": "Italian-style wraps"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "4 slices"
+    },
+    {
+      "name": "arugula",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, shaved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a panini press or grill to medium-high heat.",
+    "2. Spread 1-2 tbsp of hummus on the inside of each wrap.",
+    "3. Top the hummus with a slice of prosciutto, a handful of arugula, and a sprinkle of Parmesan cheese.",
+    "4. Drizzle the top with olive oil and season with salt.",
+    "5. Place the wraps in the press or grill and cook for 3-4 minutes, or until crispy and golden.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "panini",
+    "hummus",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hummus-energizer--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:16:44.589Z"
+}
