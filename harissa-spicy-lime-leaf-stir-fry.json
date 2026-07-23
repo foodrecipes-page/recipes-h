@@ -1,0 +1,79 @@
+{
+  "slug": "harissa-spicy-lime-leaf-stir-fry",
+  "title": "Harissa Lime Leaf Stir Fry",
+  "description": "A spicy and flavorful stir fry made with harissa, lime, and leafy greens, perfect for a quick weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped leafy greens (such as kale or spinach)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fry onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onions and cook until they start to caramelize, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the sliced bell peppers and cook until they start to soften, about 2-3 minutes.",
+    "Add the chopped leafy greens and cook until they are wilted, about 2-3 minutes.",
+    "Stir in the harissa and lime juice, and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "vegetarian",
+    "easy-dinner",
+    "quick-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harissa-spicy-lime-leaf-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:43:52.116Z"
+}
