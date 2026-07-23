@@ -14526,17 +14526,14 @@
   },
   {
     "slug": "honey-glazed-saudi-fish-curry",
-    "title": "Honey Glazed Saudi Fish Curry",
+    "title": "Glazed Fish Curry",
     "tags": [
-      "low-carb",
-      "pressure-cook",
-      "honey",
-      "saudi-arabian",
-      "fish-curry",
-      "quick",
-      "gluten-free"
+      "fish",
+      "curry",
+      "glazed",
+      "indian"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "Indian",
     "totalTimeMin": 25,
     "shard": "h"
   },
@@ -18344,6 +18341,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-homemade-ukrainian-dumplings--mexican",
+    "title": "Mexican-Style Ukrainian Dumplings",
+    "tags": [
+      "mexican",
+      "ukrainian",
+      "dumplings",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-algerian-ackee-hash--mexican",
+    "title": "Mexican Hash and Ackee Breakfast Burrito",
+    "tags": [
+      "breakfast",
+      "mexican",
+      "ackee",
+      "hash",
+      "eggs"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
