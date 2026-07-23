@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-algerian-ackee-hash--mexican",
+  "title": "Mexican Hash and Ackee Breakfast Burrito",
+  "description": "A twist on traditional breakfast burritos, this dish combines the flavors of Mexico with the creaminess of ackee and the crunch of hash.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "diced and pan-fried"
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "4",
+      "notes": "freshly scrambled"
+    },
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1",
+      "notes": "flour or corn"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1 tbsp",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. Scramble the eggs in a bowl and set aside.",
+    "2. Pan-fry the hash until crispy and set aside.",
+    "3. Heat a tortilla in a dry pan for 30 seconds on each side.",
+    "4. Add the scrambled eggs to the tortilla and top with a spoonful of ackee, hash, and Mexican cheese blend.",
+    "5. Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the burrito up.",
+    "6. Heat a small amount of oil in a pan over medium heat.",
+    "7. Add the burrito to the pan and cook for 2-3 minutes on each side, until the tortilla is crispy and the filling is heated through.",
+    "8. Serve hot with a side of salsa and chopped cilantro.",
+    "9. Season with salt and pepper to taste.",
+    "10. Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "mexican",
+    "ackee",
+    "hash",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-algerian-ackee-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:31:13.956Z"
+}
