@@ -10805,17 +10805,16 @@
   },
   {
     "slug": "hearty-uruguayan-chickpeas-stew",
-    "title": "Hearty Uruguayan Chickpeas Stew",
+    "title": "Uruguayan Chickpea Stew",
     "tags": [
       "chickpeas",
-      "high-protein",
-      "one-pan",
       "stew",
       "uruguayan",
-      "weeknight"
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -18332,6 +18331,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 180,
+    "shard": "h"
+  },
+  {
+    "slug": "herbed-crunchy-indian-cabbage-salad--mexican",
+    "title": "Mexican Cabbage Slaw",
+    "tags": [
+      "mexican",
+      "salad",
+      "cabbage",
+      "slaw"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
     "shard": "h"
   }
 ]
