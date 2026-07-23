@@ -18430,5 +18430,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-croatian-gorgonzola-pasta--thai",
+    "title": "Gorgonzola Pasta with Thai Flair",
+    "tags": [
+      "italian-thai-fusion",
+      "gorgonzola",
+      "pasta",
+      "thai-spices"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
