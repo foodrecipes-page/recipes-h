@@ -1,0 +1,71 @@
+{
+  "slug": "herbed-crunchy-indian-cabbage-salad--mexican",
+  "title": "Mexican Cabbage Slaw",
+  "description": "A crunchy and refreshing slaw made with Indian-style cabbage and a hint of Mexican flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head, shredded",
+      "notes": ""
+    },
+    {
+      "name": "herbed",
+      "amount": "2 tbsp, chopped fresh cilantro",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup, crushed tortilla chips",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded cabbage and chopped cilantro.",
+    "In a small bowl, whisk together the lime juice, salt, and pepper.",
+    "Pour the dressing over the cabbage mixture and toss to coat.",
+    "Sprinkle the crushed tortilla chips over the top and toss again to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "salad",
+    "cabbage",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbed-crunchy-indian-cabbage-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:39:51.015Z"
+}
