@@ -1,0 +1,99 @@
+{
+  "slug": "hearty-dutch-vegetables-braise--german",
+  "title": "Braised Sauerbraten",
+  "description": "A traditional German dish made by marinating beef in vinegar, water, and spices, then slow-cooking it in liquid on low heat.",
+  "cuisine": "german",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "2 pounds",
+      "notes": "preferably with bone"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "plus more to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "plus more to taste"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup",
+      "notes": "plus 1 cup water"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together vinegar, water, salt, black pepper, caraway seeds, allspice, and bay leaves.",
+    "Add the beef to the marinade, cover, and refrigerate for at least 2 days or up to 4 days.",
+    "Preheat oven to 300°F (150°C).",
+    "Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the beef to a plate.",
+    "Add the onion to the pot and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the beef broth to the pot, scraping up any browned bits.",
+    "Return the beef to the pot, cover, and transfer to the preheated oven.",
+    "Braise the beef for 2 1/2 to 3 hours, or until tender and easily shredded with a fork.",
+    "Let the beef rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "beef",
+    "sauerbraten",
+    "baked",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-dutch-vegetables-braise--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:24:05.427Z"
+}
