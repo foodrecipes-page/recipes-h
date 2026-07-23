@@ -1,0 +1,88 @@
+{
+  "slug": "herbaceous-german-chickpea-bowl--german",
+  "title": "Classic German Chickpea Bowl",
+  "description": "A hearty, comforting bowl filled with chickpea, German sausage, and herbs, all in a rich and tangy broth.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "German sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "herbaceous herb blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the German sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and caraway seeds, and cook until the onion is softened.",
+    "Add the chickpea, beer, tomato paste, salt, and pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the herbaceous herb blend and cook for an additional 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the chickpea mixture hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chickpea",
+    "lunch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-german-chickpea-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:16:56.776Z"
+}
