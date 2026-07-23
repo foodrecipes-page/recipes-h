@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-brazilian-date-skewers",
+  "title": "Brazilian Churrasco Skewers with Date BBQ Sauce",
+  "description": "A classic Brazilian-inspired skewer dish served with a sweet and tangy date BBQ sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Pork sausage",
+      "amount": "1/2 pound, cut into 1-inch slices",
+      "notes": "such as chorizo or linguiça"
+    },
+    {
+      "name": "Date",
+      "amount": "1 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, cut into 1-inch slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style BBQ sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, pork sausage, onion, bell pepper, and zucchini onto skewers.",
+    "In a blender or food processor, combine date, cilantro, garlic, and 1/4 cup of the BBQ sauce. Blend until smooth.",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "Meanwhile, heat remaining BBQ sauce in a small saucepan over medium heat.",
+    "Brush skewers with BBQ sauce during last 2 minutes of grilling.",
+    "Serve skewers with additional BBQ sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "churrasco",
+    "skewers",
+    "bbq",
+    "date",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-brazilian-date-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:57:07.507Z"
+}
