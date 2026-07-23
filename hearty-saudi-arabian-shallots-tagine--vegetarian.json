@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-saudi-arabian-shallots-tagine--vegetarian",
+  "title": "Vegetarian Saudi Arabian Tagine",
+  "description": "A hearty and flavorful vegetarian dish from Saudi Arabia, made with a rich and aromatic tagine sauce.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped shallots and cook until softened, about 5 minutes.",
+    "Add the grated ginger, ground cumin, ground coriander, and ground cayenne pepper. Cook for 1 minute, stirring constantly.",
+    "Add the dried tagine and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Stir in chopped fresh parsley and serve hot.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "vegetarian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-saudi-arabian-shallots-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:07:45.433Z"
+}
