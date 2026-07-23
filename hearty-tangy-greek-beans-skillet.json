@@ -1,0 +1,71 @@
+{
+  "slug": "hearty-tangy-greek-beans-skillet",
+  "title": "Greek Bean Skillet",
+  "description": "A hearty, flavorful skillet dish with beans and Greek twist. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned kidney beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "crushed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add chopped onion and red bell pepper, cook until tender, about 5 minutes.",
+    "Add crushed tomatoes, kidney beans, and skillet seasoning; stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 10 minutes.",
+    "Stir in feta cheese until melted and well combined.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Serve with crusty bread for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "skillet",
+    "beans",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-tangy-greek-beans-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:41:04.359Z"
+}
