@@ -1,0 +1,67 @@
+{
+  "slug": "honey-glazed-saudi-fish-curry",
+  "title": "Glazed Fish Curry",
+  "description": "A sweet and spicy curry dish made with glazed fish, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 pieces",
+      "notes": "Any firm white fish works well"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For glazing the fish"
+    },
+    {
+      "name": "Glazed sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Saudi Arabian spices",
+      "amount": "1 teaspoon",
+      "notes": "Or use garam masala as a substitute"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with curry powder and Saudi Arabian spices.",
+    "Heat the glazed sauce in a saucepan over medium heat.",
+    "Add the fish fillets to the saucepan and cook for 2-3 minutes on each side.",
+    "Transfer the fish to a baking dish and brush with honey.",
+    "Bake in the preheated oven for 8-10 minutes, or until cooked through.",
+    "Serve hot with additional glazed sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "curry",
+    "glazed",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-saudi-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:44:18.225Z"
+}
