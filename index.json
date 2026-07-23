@@ -7743,16 +7743,15 @@
   },
   {
     "slug": "hearty-polish-pork-hash",
-    "title": "Hearty Polish Pork Hash",
+    "title": "Polish-Style Pork Hash",
     "tags": [
-      "gluten-free",
-      "kid-friendly",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "polish",
+      "breakfast",
+      "hash",
+      "pork"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -18504,6 +18503,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 27,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-venezuelan-beef-skewers--indian",
+    "title": "Beef Kebab Tikka",
+    "tags": [
+      "beef",
+      "kebab",
+      "tandoori",
+      "indian",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 38,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-venezuelan-oxtail-stew--mexican",
+    "title": "Venezuelan Oxtail Stew",
+    "tags": [
+      "mexican",
+      "venezuelan",
+      "stew",
+      "oxtail"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 180,
     "shard": "h"
   }
 ]
