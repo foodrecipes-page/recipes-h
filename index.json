@@ -18556,5 +18556,19 @@
     "cuisine": "italian",
     "totalTimeMin": 60,
     "shard": "h"
+  },
+  {
+    "slug": "hot-smoked-peruvian-bamboo-shoot-suspiro-limeno--french",
+    "title": "Smoked Salmon Suspiro Tartine",
+    "tags": [
+      "french",
+      "appetizer",
+      "breakfast",
+      "salmon",
+      "suspiro"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 27,
+    "shard": "h"
   }
 ]
