@@ -1,0 +1,75 @@
+{
+  "slug": "herbal-australian-chillies-bake--japanese",
+  "title": "Japanese Chilli Crusted Salmon",
+  "description": "A Japanese-inspired dish featuring a spicy chilli crust on pan-seared salmon. Best served with steamed vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 x 120g",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "chillies",
+      "amount": "2",
+      "notes": "Finely chopped and seeded"
+    },
+    {
+      "name": "herbal oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "bake flour",
+      "amount": "1 cup",
+      "notes": "Panko or regular flour for coating"
+    },
+    {
+      "name": "australian sea salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F). Line a baking tray with parchment paper.",
+    "Season the salmon fillets with salt and set aside.",
+    "In a bowl, mix together the chillies, herbal oil, and a pinch of salt.",
+    "Coat the salmon fillets evenly with the chilli mixture, pressing gently to adhere.",
+    "Dip the chilli-coated salmon in the bake flour, shaking off excess.",
+    "Place the coated salmon on the prepared baking tray and bake for 12-15 minutes.",
+    "While the salmon is baking, heat a non-stick pan over medium heat.",
+    "Remove the salmon from the oven and carefully place it in the pan, skin-side up.",
+    "Pan-fry the salmon for 2-3 minutes on each side, until cooked through.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "spicy",
+    "salmon",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-australian-chillies-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:38:04.272Z"
+}
