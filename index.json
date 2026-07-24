@@ -18711,5 +18711,31 @@
     "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "herbaceous-german-chickpea-bowl--japanese",
+    "title": "Miso Chickpea Bowl",
+    "tags": [
+      "japanese",
+      "chickpea",
+      "veggie"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hungry-harmonious-german-kinako-wrap--thai",
+    "title": "Thai Wrap with Kinako Crunch",
+    "tags": [
+      "thai",
+      "japanese",
+      "fusion",
+      "snack",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "h"
   }
 ]
