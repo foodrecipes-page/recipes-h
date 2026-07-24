@@ -18684,5 +18684,20 @@
     "cuisine": "chinese",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-canadian-gruyere-gratin--japanese",
+    "title": "Smoky Gratin Canadian Gruyere Bites",
+    "tags": [
+      "canadian",
+      "gruyere",
+      "gratin",
+      "japanese",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
