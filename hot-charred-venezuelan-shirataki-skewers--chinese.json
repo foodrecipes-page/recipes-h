@@ -1,0 +1,80 @@
+{
+  "slug": "hot-charred-venezuelan-shirataki-skewers--chinese",
+  "title": "Charred Hot Pot",
+  "description": "A spicy and savory hot pot dish, inspired by Venezuelan flavors, with a Chinese twist. Enjoy with noodles or rice.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Charred bell peppers",
+      "amount": "2",
+      "notes": "Roasted at 450°F for 20 minutes"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan chili flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil and cook the shirataki noodles according to package instructions.",
+    "In a separate pot, combine the soy sauce, hot sauce, and chili flakes. Bring to a simmer.",
+    "Add the ginger and garlic to the pot and cook for 1 minute.",
+    "Add the charred bell peppers to the pot and simmer for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the hot pot over the cooked noodles and garnish with scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hot-pot",
+    "vegan",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-charred-venezuelan-shirataki-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:21:32.609Z"
+}
