@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-herbal-italian-fish-pasta",
+  "title": "Herb Crusted Baked Cod with Pasta",
+  "description": "A light and flavorful Italian-inspired dish featuring a hearty herb crust on cod paired with a simple pasta side dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Herbal breadcrumbs",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a small bowl, mix together herbal breadcrumbs, garlic, and parsley.",
+    "Season cod fillets with salt and pepper.",
+    "Drizzle olive oil over cod and coat with breadcrumb mixture, pressing gently to adhere.",
+    "Place cod on a baking sheet lined with parchment paper and bake for 12-15 minutes or until cooked through.",
+    "Reserve 1 cup of pasta water and then drain the pasta.",
+    "Add reserved pasta water to the pasta and toss with grated Parmesan cheese.",
+    "Serve cod with pasta and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "fish",
+    "pasta",
+    "herb",
+    "baked"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-italian-fish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:56:35.916Z"
+}
