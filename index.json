@@ -2262,17 +2262,15 @@
   },
   {
     "slug": "hearty-british-almond-flour-fritters",
-    "title": "Hearty British Almond Flour Fritters",
+    "title": "British Almond Fritters",
     "tags": [
       "british",
-      "bubble-and-squeak",
-      "buddhist-temple-friendly",
-      "energizing",
-      "gluten-free",
-      "nutty"
+      "dessert",
+      "fritters",
+      "almond"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "h"
   },
   {
@@ -18543,6 +18541,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-roasted-indian-lentil-dal--italian",
+    "title": "Roasted Vegetable Dal Casserole",
+    "tags": [
+      "italian",
+      "vegan",
+      "lentil",
+      "dal",
+      "roasted"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
     "shard": "h"
   }
 ]
