@@ -1,0 +1,90 @@
+{
+  "slug": "hearty-egyptian-lamb-skillet",
+  "title": "Pan-Seared Egyptian Lamb Koftas",
+  "description": "A flavorful and aromatic dish inspired by Egyptian street food, featuring tender lamb koftas cooked to perfection in a skillet.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Lamb",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Skim Milk",
+      "amount": "2 tbsp",
+      "notes": "for moisture"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "In a large bowl, combine ground lamb, chopped onion, minced garlic, smoked paprika, ground cumin, ground coriander, salt, and black pepper. Mix well with your hands until just combined.",
+    "Cover the mixture with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the oven to 375°F (190°C).",
+    "Using your hands, shape the lamb mixture into 8-10 koftas, about 1 1/2 inches in diameter and 3-4 inches long.",
+    "Place the koftas on a plate or tray, leaving a little space between each.",
+    "Heat a large oven-safe skillet over medium-high heat. Add a small amount of oil to the preheated skillet.",
+    "Sear the koftas for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the koftas are cooked through.",
+    "Remove the skillet from the oven and let the koftas rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lamb",
+    "skillet",
+    "koftas"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-egyptian-lamb-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:12:14.298Z"
+}
