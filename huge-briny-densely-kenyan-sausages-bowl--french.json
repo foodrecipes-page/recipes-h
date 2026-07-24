@@ -1,0 +1,82 @@
+{
+  "slug": "huge-briny-densely-kenyan-sausages-bowl--french",
+  "title": "French Briny Sausage Casserole",
+  "description": "A hearty, comforting casserole filled with French sausages and a briny, savory sauce.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French sausages",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Densely packed tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Kenyan olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bowl of beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the sausages into 1-inch pieces and cook in a large skillet over medium-high heat until browned, about 5 minutes.",
+    "Add the onion, carrots, and potato to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the beef broth and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "sausage",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/huge-briny-densely-kenyan-sausages-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:03:46.499Z"
+}
