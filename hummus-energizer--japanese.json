@@ -1,0 +1,88 @@
+{
+  "slug": "hummus-energizer--japanese",
+  "title": "Hummus-Wrapped Energizer Rolls",
+  "description": "A unique fusion of Japanese flavors with the creamy richness of hummus, wrapped in crispy energizer rolls.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "energizer",
+      "amount": "8 oz",
+      "notes": "thawed"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "short-grain Japanese rice"
+    },
+    {
+      "name": "northern-style sushi nori",
+      "amount": "1 sheet",
+      "notes": "or other Japanese nori sheets"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/4 cup",
+      "notes": "mashed"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the energizer by thawing it according to package instructions.",
+    "2. Prepare the sushi rice according to package instructions.",
+    "3. Lay the nori sheet flat and spread a thin layer of sushi rice onto it.",
+    "4. Spread a thin layer of hummus on top of the rice.",
+    "5. Arrange cucumber, carrots, and avocado slices horizontally across the center of the nori.",
+    "6. Place the energizer on top of the vegetables, leaving a small border around it.",
+    "7. Sprinkle toasted sesame seeds and soy sauce over the energizer (if using).",
+    "8. Roll the nori tightly but gently to form a compact roll.",
+    "9. Slice the roll into 8 equal pieces using a sharp knife.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "healthy",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hummus-energizer--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:54:56.615Z"
+}
