@@ -18699,5 +18699,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "huge-briny-densely-kenyan-sausages-bowl--french",
+    "title": "French Briny Sausage Casserole",
+    "tags": [
+      "french",
+      "sausage",
+      "casserole"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
