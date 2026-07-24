@@ -3893,14 +3893,12 @@
   },
   {
     "slug": "hearty-egyptian-lamb-skillet",
-    "title": "Hearty Egyptian Lamb Skillet",
+    "title": "Pan-Seared Egyptian Lamb Koftas",
     "tags": [
-      "brunch-ideas",
-      "cheese-pull",
-      "lamb-recipes",
-      "low-carb",
-      "middle-eastern",
-      "one-pan"
+      "egyptian",
+      "lamb",
+      "skillet",
+      "koftas"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
@@ -10400,17 +10398,16 @@
   },
   {
     "slug": "hearty-tunisian-pork-belly-skillet",
-    "title": "Hearty Tunisian Pork Belly Skillet",
+    "title": "Pan-Seared Pork Belly with Tunisian Flair",
     "tags": [
-      "cast-iron",
-      "comfort-food",
-      "jain-friendly",
-      "one-pan",
-      "pork-belly",
-      "tunisian-cuisine"
+      "pork",
+      "belly",
+      "tunisian",
+      "north-african",
+      "skillet"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -18674,6 +18671,18 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 18,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-charred-venezuelan-shirataki-skewers--chinese",
+    "title": "Charred Hot Pot",
+    "tags": [
+      "hot-pot",
+      "vegan",
+      "noodles"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "h"
   }
 ]
