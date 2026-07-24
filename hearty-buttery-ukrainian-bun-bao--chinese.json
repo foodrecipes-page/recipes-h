@@ -1,0 +1,69 @@
+{
+  "slug": "hearty-buttery-ukrainian-bun-bao--chinese",
+  "title": "Pan-Fried Bao with Ukrainian Butter",
+  "description": "A delicious Chinese-inspired dish featuring soft bao buns filled with a rich Ukrainian butter and pan-fried to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ukrainian butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Freshly baked bao buns",
+      "amount": "4",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Hearty all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Dust the bao buns with a pinch of flour to prevent sticking.",
+    "Add the softened Ukrainian butter to a small bowl and microwave for 10-15 seconds or until melted.",
+    "Brush the bao buns with the melted butter, making sure to get both sides.",
+    "Place the bao buns on the preheated pan and cook for 2-3 minutes on the first side or until golden brown.",
+    "Flip the bao buns and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve the pan-fried bao buns warm, garnished with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "bao",
+    "ukrainian",
+    "chinese",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-buttery-ukrainian-bun-bao--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:32:55.627Z"
+}
