@@ -1,0 +1,77 @@
+{
+  "slug": "hungry-harmonious-german-kinako-wrap--thai",
+  "title": "Thai Wrap with Kinako Crunch",
+  "description": "A fusion of Thai and Japanese flavors in a crispy wrap. Crunchy kinako adds texture to this sweet and savory dish.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kinako",
+      "amount": "1/2 cup",
+      "notes": "Roasted soybean flour"
+    },
+    {
+      "name": "Hungry Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Harmonious Hummus",
+      "amount": "1/4 cup",
+      "notes": "Classic hummus recipe with chickpeas, tahini, garlic, and lemon"
+    },
+    {
+      "name": "German Curry Powder",
+      "amount": "1 tsp",
+      "notes": "Mild, aromatic curry powder"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For brushing wrap"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a dry skillet or griddle over medium heat.",
+    "2. Brush the wrap with sesame oil and toast until crispy.",
+    "3. Spread harmonious hummus on the wrap, leaving a 1-inch border around the edges.",
+    "4. Sprinkle German curry powder over the hummus.",
+    "5. Top with thinly sliced green onions and chopped cilantro.",
+    "6. Sprinkle kinako crumbs over the top.",
+    "7. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "japanese",
+    "fusion",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hungry-harmonious-german-kinako-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:32:09.004Z"
+}
