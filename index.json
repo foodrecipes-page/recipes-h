@@ -18570,5 +18570,30 @@
     "cuisine": "French",
     "totalTimeMin": 27,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-croatian-mascarpone-pilaf--indian",
+    "title": "Saffron Pilaf with Mascarpone Raita",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "saffron",
+      "raita"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-croatian-gorgonzola-pasta--keto",
+    "title": "Gorgonzola Pasta Bake",
+    "tags": [
+      "keto",
+      "pasta",
+      "gorgonzola"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
