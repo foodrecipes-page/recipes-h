@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-smoky-canadian-gruyere-gratin--japanese",
+  "title": "Smoky Gratin Canadian Gruyere Bites",
+  "description": "A unique twist on traditional Japanese appetizers, combining smoky flavors with hearty, crispy elements.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "canadian bacon",
+      "amount": "6 slices",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "hearty whole wheat bread",
+      "amount": "1 baguette",
+      "notes": "cut into 1/2-inch cubes"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "gratin cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Canadian bacon into 1-inch pieces and cook in a pan until crispy. Set aside.",
+    "Cube the bread and place half in a food processor. Pulse until coarse crumbs form.",
+    "In a large bowl, combine the grated Gruyere cheese, cooked Canadian bacon, bread crumbs, smoky paprika, eggs, salt, and black pepper. Mix until well combined.",
+    "Transfer the mixture to a greased mini muffin tin, pressing the mixture firmly into each cup.",
+    "Top each cup with the remaining bread crumbs and grated Gruyere cheese.",
+    "Drizzle with olive oil and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm, garnished with additional smoky paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gruyere",
+    "gratin",
+    "japanese",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-canadian-gruyere-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:28:15.878Z"
+}
