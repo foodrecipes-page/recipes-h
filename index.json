@@ -5367,16 +5367,16 @@
   },
   {
     "slug": "hearty-herbal-italian-fish-pasta",
-    "title": "Hearty Herbal Italian Fish Pasta",
+    "title": "Herb Crusted Baked Cod with Pasta",
     "tags": [
-      "brunch-ideas",
-      "fish-recipes",
-      "healthy-meals",
-      "italian-food",
-      "seafood-pasta"
+      "italian",
+      "fish",
+      "pasta",
+      "herb",
+      "baked"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "h"
   },
   {
@@ -18634,6 +18634,19 @@
     ],
     "cuisine": "american",
     "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-australian-chillies-bake--japanese",
+    "title": "Japanese Chilli Crusted Salmon",
+    "tags": [
+      "japanese",
+      "spicy",
+      "salmon",
+      "seafood"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "h"
   }
 ]
