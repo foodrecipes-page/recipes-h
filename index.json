@@ -18648,5 +18648,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hummus-energizer--japanese",
+    "title": "Hummus-Wrapped Energizer Rolls",
+    "tags": [
+      "japanese",
+      "healthy",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-buttery-ukrainian-bun-bao--chinese",
+    "title": "Pan-Fried Bao with Ukrainian Butter",
+    "tags": [
+      "bao",
+      "ukrainian",
+      "chinese",
+      "breakfast",
+      "brunch"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "h"
   }
 ]
