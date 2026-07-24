@@ -1,0 +1,94 @@
+{
+  "slug": "herbaceous-german-chickpea-bowl--japanese",
+  "title": "Miso Chickpea Bowl",
+  "description": "A Japanese-inspired bowl filled with miso-glazed chickpeas, served over a bed of steaming hot rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "steamed rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, whisk together miso paste, soy sauce, rice vinegar, sugar, and sesame oil.",
+    "Add the chickpeas to the bowl and toss to coat with the miso glaze.",
+    "Transfer the chickpeas to a baking sheet lined with parchment paper.",
+    "Roast the chickpeas in the oven for 20-25 minutes, or until crispy and golden brown.",
+    "While the chickpeas are roasting, cook the steamed rice according to package instructions.",
+    "In a small pan, toast the sesame seeds over medium heat until fragrant.",
+    "Once the chickpeas are done, remove them from the oven and toss with toasted sesame seeds.",
+    "To assemble the bowls, place a scoop of steamed rice in the bottom, followed by roasted chickpeas, pickled ginger, and green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chickpea",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-german-chickpea-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:11:56.172Z"
+}
