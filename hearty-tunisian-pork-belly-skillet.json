@@ -1,0 +1,101 @@
+{
+  "slug": "hearty-tunisian-pork-belly-skillet",
+  "title": "Pan-Seared Pork Belly with Tunisian Flair",
+  "description": "A hearty, crispy-skinned pork belly dish infused with the bold flavors of Tunisia, served with a side of caramelized onions.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "harissa",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 400°F (200°C).",
+    "Pat the pork belly dry with paper towels.",
+    "Season the pork belly with salt, black pepper, cumin, coriander, and harissa.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork belly for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the oven and roast for 20-25 minutes, or until the pork belly reaches an internal temperature of 160°F (71°C).",
+    "While the pork belly is cooking, caramelize the onions by cooking them in a separate skillet over low heat for 20-25 minutes, stirring occasionally.",
+    "Once the pork belly is cooked, let it rest for 5 minutes before slicing it into thick medallions.",
+    "Serve the pork belly with caramelized onions, fresh parsley, and a squeeze of lemon juice.",
+    "Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "belly",
+    "tunisian",
+    "north-african",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-tunisian-pork-belly-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:41:13.327Z"
+}
