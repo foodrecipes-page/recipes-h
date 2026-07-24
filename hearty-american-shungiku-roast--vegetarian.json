@@ -1,0 +1,80 @@
+{
+  "slug": "hearty-american-shungiku-roast--vegetarian",
+  "title": "Hearty American Roast Vegetable Soup",
+  "description": "A comforting, flavorful soup made with roasted vegetables and hearty american ingredients.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast",
+      "amount": "2 pounds",
+      "notes": "such as butternut squash or carrots"
+    },
+    {
+      "name": "American",
+      "amount": "1 can (14.5 oz)",
+      "notes": "crushed tomatoes"
+    },
+    {
+      "name": "Shungiku",
+      "amount": "1 bunch (about 1 pound)",
+      "notes": "chopped"
+    },
+    {
+      "name": "Hearty",
+      "amount": "4 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the Roast into 1-inch pieces.",
+    "Toss the Roast with 1 tablespoon of Olive oil, Salt, and Black pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large pot, heat the remaining 1 tablespoon of Olive oil over medium heat.",
+    "Add the chopped Shungiku and cook until wilted.",
+    "Add the crushed Tomatoes, Hearty, and roasted Roast to the pot.",
+    "Bring to a boil, then reduce the heat and simmer for 20-25 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "fall",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-american-shungiku-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:34:43.494Z"
+}
