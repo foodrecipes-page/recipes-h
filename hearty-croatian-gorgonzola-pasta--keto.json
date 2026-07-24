@@ -1,0 +1,69 @@
+{
+  "slug": "hearty-croatian-gorgonzola-pasta--keto",
+  "title": "Gorgonzola Pasta Bake",
+  "description": "A keto version of the classic pasta bake, using hearty Croatian pasta and a rich gorgonzola sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Gorgonzola cheese",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup (15g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Croatian pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large saucepan, combine the gorgonzola cheese, heavy cream, and garlic. Heat over medium heat, stirring occasionally, until the cheese is melted and the sauce is smooth.",
+    "Stir in the cooked pasta, parsley, salt, and black pepper. Transfer the mixture to a baking dish.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pasta",
+    "gorgonzola"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-gorgonzola-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:46:35.335Z"
+}
