@@ -18531,5 +18531,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 180,
     "shard": "h"
+  },
+  {
+    "slug": "halal-friendly-jamaican-bread-bowl--italian",
+    "title": "Bread Bowl Bruschetta",
+    "tags": [
+      "italian",
+      "bruschetta",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
