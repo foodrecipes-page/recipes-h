@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-croatian-mascarpone-pilaf--indian",
+  "title": "Saffron Pilaf with Mascarpone Raita",
+  "description": "A flavorful and creamy Indian-inspired pilaf dish paired with a cool and tangy mascarpone raita.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 1 tablespoon of hot water"
+    },
+    {
+      "name": "hearty pilaf",
+      "amount": "1 cup",
+      "notes": "preferably basmati or jeera rice"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 ounces",
+      "notes": "softened at room temperature"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "greek yogurt or regular plain yogurt"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon",
+      "notes": "ground coriander powder"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cumin powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the soaked saffron and its liquid, and stir for 1-2 seconds.",
+    "Add the pilaf and stir to coat with oil, then add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the pilaf is cooked.",
+    "In a separate bowl, mix together mascarpone, yogurt, cucumber, coriander, cumin, and salt.",
+    "Fluff the cooked pilaf with a fork and serve hot with the raita on the side.",
+    "Adjust seasoning as needed and garnish with chopped coriander if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "saffron",
+    "raita"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-croatian-mascarpone-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:33:26.784Z"
+}
