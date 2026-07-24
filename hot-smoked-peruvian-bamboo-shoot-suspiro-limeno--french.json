@@ -1,0 +1,79 @@
+{
+  "slug": "hot-smoked-peruvian-bamboo-shoot-suspiro-limeno--french",
+  "title": "Smoked Salmon Suspiro Tartine",
+  "description": "A French-inspired appetizer featuring smoked salmon, topped with a rich and creamy suspiro sauce, served on toasted bamboo shoots.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 oz",
+      "notes": null
+    },
+    {
+      "name": "Suspiro Sauce (see notes)",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade suspiro sauce made with hot chocolate, sugar, and milk"
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "4-6 shoots",
+      "notes": "Canned or fresh bamboo shoots"
+    },
+    {
+      "name": "Limeno Zest",
+      "amount": "1 tsp",
+      "notes": "Freshly grated limeno zest"
+    },
+    {
+      "name": "Hot Water",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Peruvian Lime Juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the bamboo shoots and slice them into 1/4-inch thick rounds.",
+    "Place the bamboo shoots on a baking sheet lined with parchment paper and toast in the oven for 10-12 minutes, or until lightly browned.",
+    "Meanwhile, mix the suspiro sauce with the hot water and peruvian lime juice in a small bowl.",
+    "To assemble the tartine, place a toasted bamboo shoot round on a plate, top with a slice of smoked salmon, and spoon the suspiro sauce mixture over the top.",
+    "Garnish with fresh chives and a sprinkle of limeno zest.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "appetizer",
+    "breakfast",
+    "salmon",
+    "suspiro"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-smoked-peruvian-bamboo-shoot-suspiro-limeno--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:01:53.223Z"
+}
