@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-spicy-syrian-lamb-kebabs--thai",
+  "title": "Spicy Syrian Lamb Kebabs",
+  "description": "A flavorful and spicy twist on traditional kebabs, inspired by Syrian cuisine. Perfect for a summer evening with a refreshing Thai twist.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1 1/2-inch cubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, curry paste, onion, bell pepper, cilantro, soy sauce, honey, and lime juice. Toss to coat.",
+    "Thread lamb mixture onto skewers, leaving a little space between each piece.",
+    "Brush grill with vegetable oil to prevent sticking.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, or until lamb reaches an internal temperature of 145°F.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Serve with your favorite Thai sides, such as steamed jasmine rice or spicy stir-fried vegetables.",
+    "Adjust seasoning with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "thai",
+    "spicy",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-syrian-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:08:57.268Z"
+}
