@@ -8806,17 +8806,15 @@
   },
   {
     "slug": "hearty-slow-cooked-venezuelan-beef-stew",
-    "title": "Hearty Slow Cooked Venezuelan Beef Stew",
+    "title": "Caracas-Style Beef Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "hearty-stew",
-      "jamaican-curry",
-      "slow-cooked",
-      "venezuelan-cuisine"
+      "beef",
+      "stew",
+      "venezuelan",
+      "comfort-food"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 510,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
