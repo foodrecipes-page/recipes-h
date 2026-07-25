@@ -2084,17 +2084,15 @@
   },
   {
     "slug": "hearty-bitter-spanish-mushrooms-pulpo-a-la-gallega",
-    "title": "Hearty Bitter Spanish Mushrooms Pulpo A La Gallega",
+    "title": "Gallega Pulpo a la Parrilla",
     "tags": [
-      "date-night",
-      "mushroom-recipes",
-      "spanish-cuisine",
-      "stone-bowl-recipes",
-      "thyme-recipes",
-      "vegetarian"
+      "octopus",
+      "grilled",
+      "spanish",
+      "gallega"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "cuisine": "spanish",
+    "totalTimeMin": 18,
     "shard": "h"
   },
   {
@@ -18830,6 +18828,19 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hangover-cure-smoky-ethiopian-mitsuba-azifa--japanese",
+    "title": "Smoky Ethiopian Mitsuba Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "h"
   }
 ]
