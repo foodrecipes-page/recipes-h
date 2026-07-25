@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-irish-fish-tagine--japanese",
+  "title": "Pan-Seared Cod with Teriyaki Sauce and Stir-Fried Vegetables",
+  "description": "A Japanese-inspired dish featuring pan-seared cod, served with a sweet and savory teriyaki sauce and stir-fried vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the cod fillets and cook for 3-4 minutes on each side, until cooked through.",
+    "Transfer the cod to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the sliced green onions and cook for 1-2 minutes, until tender.",
+    "Add the sliced bell peppers and julienned carrots, and cook for an additional 2-3 minutes, until tender.",
+    "In a small bowl, whisk together the soy sauce, honey, rice vinegar, and grated ginger.",
+    "Pour the teriyaki sauce over the cooked vegetables and stir to combine.",
+    "Return the cod fillets to the skillet and spoon some of the teriyaki sauce over the top.",
+    "Serve immediately, garnished with additional green onions if desired.",
+    "Serve with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "japanesecuisine",
+    "weeknightdinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "40g",
+    "carbs": "20g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-fish-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:31:43.366Z"
+}
