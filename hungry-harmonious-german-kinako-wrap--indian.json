@@ -1,0 +1,67 @@
+{
+  "slug": "hungry-harmonious-german-kinako-wrap--indian",
+  "title": "Harmonious German Wrap",
+  "description": "A delicious and easy-to-make wrap inspired by German and Indian flavors, perfect for a quick snack or lunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "harmonious",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kinako",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "german",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "hungry",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add German and Harmonious to the pan and sauté for 2-3 minutes.",
+    "Add Kinako and Hungry to the pan and mix well.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by adding the filling and serving hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "german",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hungry-harmonious-german-kinako-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:13:04.160Z"
+}
