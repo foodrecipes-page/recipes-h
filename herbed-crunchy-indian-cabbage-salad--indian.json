@@ -1,0 +1,67 @@
+{
+  "slug": "herbed-crunchy-indian-cabbage-salad--indian",
+  "title": "Crispy Indian Cabbage Salad",
+  "description": "A crunchy and flavorful salad with an Indian twist, featuring cabbage, salad, and a hint of herbed spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup, mixed greens"
+    },
+    {
+      "name": "herbed",
+      "amount": "2 tbsp, herbed oil"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup, crunchy slaw mix"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine shredded cabbage and mixed greens.",
+    "2. In a small bowl, whisk together herbed oil and salt.",
+    "3. Pour the herbed oil mixture over the cabbage mixture and toss to coat.",
+    "4. Sprinkle crunchy slaw mix over the top and toss again to combine.",
+    "5. Season with black pepper to taste.",
+    "6. Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "7. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "salad",
+    "crunchy",
+    "herbed"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbed-crunchy-indian-cabbage-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:44:08.486Z"
+}
