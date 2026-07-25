@@ -18762,5 +18762,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 170,
     "shard": "h"
+  },
+  {
+    "slug": "hungry-harmonious-german-kinako-wrap--indian",
+    "title": "Harmonious German Wrap",
+    "tags": [
+      "indian",
+      "german",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
+    "shard": "h"
   }
 ]
