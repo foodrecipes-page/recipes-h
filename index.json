@@ -18901,5 +18901,45 @@
     "cuisine": "moroccan",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "honeyed-hot-mediterranean-white-fish-en-croute--mexican",
+    "title": "Baked Fish en Papillote with Mediterranean Crust",
+    "tags": [
+      "fish",
+      "mexican",
+      "healthy",
+      "baked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-low-fat-friendly-american-reblochon-roast--mexican",
+    "title": "Reblochon and Roast Beef Tacos",
+    "tags": [
+      "tacos",
+      "mexican",
+      "reblochon",
+      "roast-beef",
+      "low-fat"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "honeyed-russian-mars-bar-crisp-cake--mexican",
+    "title": "Tres Leches Cake Bars",
+    "tags": [
+      "mexican",
+      "cake",
+      "bars",
+      "tres-leches"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
