@@ -1,0 +1,79 @@
+{
+  "slug": "hearty-bitter-spanish-mushrooms-pulpo-a-la-gallega",
+  "title": "Gallega Pulpo a la Parrilla",
+  "description": "Grilled octopus in the style of Galicia, Spain, with a smoky, slightly bitter flavor.",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pulpo (octopus)",
+      "amount": "1 pound, cleaned and cut into tentacle pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Smoked paprika (pimentón)",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together olive oil, garlic, smoked paprika, and lemon juice.",
+    "Add the octopus to the marinade and toss to coat. Let it sit for at least 30 minutes.",
+    "Preheat your grill to medium-high heat.",
+    "Remove the octopus from the marinade, letting any excess liquid drip off.",
+    "Season the octopus with salt and pepper.",
+    "Grill the octopus for 2-3 minutes per side, or until slightly charred.",
+    "Transfer the octopus to a plate and garnish with chopped parsley.",
+    "Serve immediately, with a squeeze of lemon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "octopus",
+    "grilled",
+    "spanish",
+    "gallega"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-bitter-spanish-mushrooms-pulpo-a-la-gallega",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:33:08.880Z"
+}
