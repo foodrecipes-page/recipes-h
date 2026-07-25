@@ -1,0 +1,93 @@
+{
+  "slug": "herbal-snappy-dutch-fish-papillote",
+  "title": "Dutch-Style Fish with Papillote",
+  "description": "A delicate fish dish cooked in a parchment bag with herbs and snappy vegetables. This recipe is a classic Dutch dish that is easy to prepare and requires minimal cooking time.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (cod or tilapia)",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Papillote",
+      "amount": "2",
+      "notes": "Fresh from the market"
+    },
+    {
+      "name": "Chopped fresh herbs (parsley or dill)",
+      "amount": "2 tablespoons",
+      "notes": "Fresh from the garden"
+    },
+    {
+      "name": "Snappy carrots",
+      "amount": "1 medium",
+      "notes": "Wash and peel"
+    },
+    {
+      "name": "Snappy green beans",
+      "amount": "1 cup",
+      "notes": "Trimmed and washed"
+    },
+    {
+      "name": "Dutch cheese (Gouda or Edam)",
+      "amount": "1/4 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Fresh and high-quality"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillet with salt and black pepper.",
+    "Place the fish on the prepared baking sheet.",
+    "Dot the top of the fish with butter.",
+    "Place a few sprigs of fresh herbs on top of the fish.",
+    "Fold the parchment paper over the fish to create a papillote.",
+    "Bake for 8-10 minutes or until the fish is cooked through.",
+    "Meanwhile, toss the carrots and green beans with a little bit of butter and season with salt and pepper.",
+    "Add the carrots and green beans to the baking sheet for the last 5 minutes of cooking.",
+    "Remove the papillote from the oven and serve with the roasted vegetables and a sprinkle of grated Dutch cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "dutch",
+    "papillote",
+    "herb",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-snappy-dutch-fish-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:24:08.501Z"
+}
