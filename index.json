@@ -18780,5 +18780,31 @@
     "cuisine": "Saudi",
     "totalTimeMin": 90,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-venezuelan-fish-skewers--indian",
+    "title": "Grilled Fish Tikka Skewers",
+    "tags": [
+      "indian-food",
+      "fish-recipe",
+      "grilled-fish",
+      "tikka-masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 36,
+    "shard": "h"
+  },
+  {
+    "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine--french",
+    "title": "French Fennel and Sausage Tagine",
+    "tags": [
+      "french",
+      "fennel",
+      "sausage",
+      "tagine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
