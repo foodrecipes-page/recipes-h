@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-sour-argentinian-beef-empanadas",
+  "title": "Argentinian Beef Empanadas",
+  "description": "A classic Argentinian dish, these beef empanadas are a flavorful and satisfying meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Hard-Boiled Egg",
+      "amount": "1, diced",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Beef Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the hard-boiled egg, chopped parsley, salt, black pepper, and Argentinian beef seasoning.",
+    "In a large bowl, combine the flour and a pinch of salt. Add the beaten egg and mix until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of the beef mixture onto the center of each disk. Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve the empanadas hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-sour-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:55:13.155Z"
+}
