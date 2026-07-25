@@ -1,0 +1,72 @@
+{
+  "slug": "hearty-molten-german-avocado-casserole",
+  "title": "Hearty German Casserole",
+  "description": "A comforting, cheesy casserole packed with ground beef and veggies, perfect for a chilly evening. Serve warm and enjoy!",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Molten cheddar cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "German wheat bread, cubed",
+      "amount": "100g"
+    },
+    {
+      "name": "Avocado, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "Casserole seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook ground beef in a pan over medium-high heat until browned, breaking into small pieces.",
+    "Add diced onion and cook until softened.",
+    "Stir in canned diced tomatoes, casserole seasoning, and molten cheddar cheese.",
+    "Transfer the mixture to a 20x20cm baking dish.",
+    "Arrange cubed German wheat bread on top.",
+    "Bake in the preheated oven for 20 minutes.",
+    "Remove from the oven and top with sliced avocado.",
+    "Return to the oven and bake for an additional 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-molten-german-avocado-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:28:57.102Z"
+}
