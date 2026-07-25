@@ -1,0 +1,100 @@
+{
+  "slug": "hearty-slovakian-pork-dumplings--indian",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish, inspired by Indian cuisine, featuring pork dumplings in a rich and flavorful sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "slovakian all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tablespoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for sauce"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water to form a dough.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of pork filling in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Heat oil in a large frying pan over medium heat.",
+    "Add the dumplings to the pan and cook until golden brown on both sides.",
+    "Remove the dumplings from the pan and set aside.",
+    "In the same pan, add onion, garlic, and ginger.",
+    "Cook until the onion is translucent.",
+    "Add the crushed tomatoes, curry powder, salt, and black pepper.",
+    "Stir well to combine.",
+    "Return the dumplings to the pan and simmer for 10-15 minutes.",
+    "Serve the dumplings hot with the rich and flavorful sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "indian",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-slovakian-pork-dumplings--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:19:06.263Z"
+}
