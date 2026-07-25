@@ -1,0 +1,84 @@
+{
+  "slug": "herbed-saudi-arabian-lamb-roast--gluten-free",
+  "title": "Saudi Arabian Roast Lamb",
+  "description": "A traditional Saudi dish featuring roast lamb marinated in herbed spices and served with a side of Arabian rice.",
+  "cuisine": "Saudi",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast lamb",
+      "amount": "1.5 kg",
+      "notes": "Bone-in lamb shoulder"
+    },
+    {
+      "name": "Herbed spice mix",
+      "amount": "2 tbsp",
+      "notes": "Make sure to include ingredients like cinnamon, cardamom, and cumin"
+    },
+    {
+      "name": "Arabian rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "For basting the lamb"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a large bowl, mix together herbed spice mix, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb to the bowl and coat it evenly with the spice mixture.",
+    "Place the lamb in a large roasting pan and drizzle with ghee or oil.",
+    "Roast the lamb in the preheated oven for 30 minutes.",
+    "Reduce the oven temperature to 160°C (325°F) and continue roasting for another 30-40 minutes, or until the lamb is cooked to your liking.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving with Arabian rice.",
+    "Cook the Arabian rice according to package instructions.",
+    "Serve the roasted lamb with a side of Arabian rice and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "roast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbed-saudi-arabian-lamb-roast--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:03:03.232Z"
+}
