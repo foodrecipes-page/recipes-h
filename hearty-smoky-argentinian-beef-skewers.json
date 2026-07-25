@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-smoky-argentinian-beef-skewers",
+  "title": "Argentinian Beef Skewers",
+  "description": "A hearty and flavorful dish inspired by the cuisine of Argentina, featuring tender beef skewers smothered in a smoky marinade.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, smoked paprika, garlic, oregano, salt, and pepper.",
+    "3. Add beef cubes to the bowl and toss to coat with marinade.",
+    "4. Thread 4-5 beef cubes onto each skewer.",
+    "5. Brush skewers with olive oil and season with salt and pepper.",
+    "6. Grill skewers for 8-10 minutes, or until beef reaches 145°F for medium-rare.",
+    "7. Let skewers rest for 5 minutes before serving.",
+    "8. Serve with chimichurri sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-argentinian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:19:59.268Z"
+}
