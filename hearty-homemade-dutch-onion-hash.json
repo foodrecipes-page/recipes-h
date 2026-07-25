@@ -1,0 +1,66 @@
+{
+  "slug": "hearty-homemade-dutch-onion-hash",
+  "title": "Dutch Hash with Hearty Onion",
+  "description": "A hearty and flavorful hash recipe made with homemade potato and crispy onions, inspired by Dutch cuisine.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Homemade Potato",
+      "amount": "2 large potatoes, peeled and diced",
+      "notes": "Use leftover mashed potato if available"
+    },
+    {
+      "name": "Hearty Onion",
+      "amount": "2 large onions, thinly sliced",
+      "notes": "Caramelize the onions before adding to the hash"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/4 cup hash browns",
+      "notes": "Optional, adds extra crunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add 2 tablespoons of oil and sauté diced potatoes until golden brown.",
+    "Add sliced onions and cook until caramelized.",
+    "Add hash browns (if using) and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Cook for an additional 5 minutes, stirring occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dutch",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-dutch-onion-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:00:09.450Z"
+}
