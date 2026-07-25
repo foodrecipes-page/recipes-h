@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-egyptian-chickpeas-stew--gluten-free",
+  "title": "Egyptian Chickpea Stew",
+  "description": "A flavorful and hearty stew from Egypt, packed with chickpeas, vegetables, and aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add chickpeas, carrots, and potatoes. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with fresh parsley if desired.",
+    "Serve over gluten-free bread or with a side of rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "gluten-free",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-egyptian-chickpeas-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:28:26.331Z"
+}
