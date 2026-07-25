@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-slow-cooked-venezuelan-beef-stew",
+  "title": "Caracas-Style Beef Stew",
+  "description": "A hearty, comforting beef stew inspired by the flavors of Caracas, Venezuela. Perfect for a cold winter's night.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ground oregano",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Reduce heat to medium and cook the chopped onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and cook for 5 minutes, or until they begin to soften.",
+    "Add the cubed potatoes, beef broth, tomato paste, cumin, and oregano.",
+    "Stir to combine and bring to a boil.",
+    "Return the browned beef to the pot and cover with a lid.",
+    "Transfer to the preheated oven and braise for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-slow-cooked-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:43:16.107Z"
+}
