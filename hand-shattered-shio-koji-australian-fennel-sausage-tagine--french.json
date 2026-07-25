@@ -1,0 +1,63 @@
+{
+  "slug": "hand-shattered-shio-koji-australian-fennel-sausage-tagine--french",
+  "title": "French Fennel and Sausage Tagine",
+  "description": "A hearty French-inspired tagine with fennel, sausage, and a hint of anise, perfect for a chilly evening",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "Shio",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shattered",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the fennel into wedges and set aside.",
+    "Heat a large Dutch oven over medium-high heat. Add the sausage and cook until browned, about 5 minutes.",
+    "Add the sliced fennel to the pot and cook until tender, about 10 minutes.",
+    "Add the shio, koji, and shattered to the pot. Stir to combine.",
+    "Transfer the pot to the preheated oven and cook for 20-25 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fennel",
+    "sausage",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hand-shattered-shio-koji-australian-fennel-sausage-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:31:36.741Z"
+}
