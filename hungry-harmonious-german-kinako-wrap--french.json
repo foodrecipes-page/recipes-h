@@ -1,0 +1,79 @@
+{
+  "slug": "hungry-harmonious-german-kinako-wrap--french",
+  "title": "French Wrap with Kinako Flair",
+  "description": "A modern twist on traditional French cuisine, combining the crunch of kinako and the softness of a wrap. Perfect for a quick and satisfying meal.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Kinako",
+      "amount": "2 tablespoons",
+      "notes": "Roasted soybean flour"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "Pure, raw honey"
+    },
+    {
+      "name": "German Butter",
+      "amount": "1 tablespoon",
+      "notes": "Unsalted, softened"
+    },
+    {
+      "name": "Apple",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground cinnamon powder"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add the German butter and let it melt.",
+    "Add the sliced apple and cook until caramelized.",
+    "In a small bowl, mix together the kinako, cinnamon, and sugar.",
+    "Add the kinako mixture to the skillet and stir to combine.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the kinako mixture on the wrap, followed by the caramelized apple.",
+    "Drizzle with honey and fold the wrap in half.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "snack",
+    "dessert",
+    "kinako"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hungry-harmonious-german-kinako-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:54:56.987Z"
+}
