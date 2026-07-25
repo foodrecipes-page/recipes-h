@@ -1,0 +1,75 @@
+{
+  "slug": "hangover-cure-smoky-ethiopian-mitsuba-azifa--japanese",
+  "title": "Smoky Ethiopian Mitsuba Stir Fry",
+  "description": "A spicy and savory Japanese-inspired stir fry featuring the unique flavor of Ethiopian Mitsuba and a smoky kick.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Ethiopian Red Pepper",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Smoky Sweet Potatoes",
+      "amount": "2 medium, peeled and cubed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the Mitsuba, ginger, and red pepper, and cook for 5 minutes.",
+    "Add the sweet potatoes and cook for an additional 5 minutes.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and sugar.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with sesame seeds and chopped green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-smoky-ethiopian-mitsuba-azifa--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:27:33.074Z"
+}
