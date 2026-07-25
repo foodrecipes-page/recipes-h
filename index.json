@@ -18737,5 +18737,30 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-velvety-saudi-arabian-beef-stew--mexican",
+    "title": "Carne Guisada con Aromáticas",
+    "tags": [
+      "beef",
+      "mexican",
+      "stew"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 150,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-lamb-stew--chinese",
+    "title": "Irish Lamb Stew Chinese Fusion",
+    "tags": [
+      "chinese",
+      "irish",
+      "lamb",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 170,
+    "shard": "h"
   }
 ]
