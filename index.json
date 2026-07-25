@@ -18806,5 +18806,30 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-fish-tagine--japanese",
+    "title": "Pan-Seared Cod with Teriyaki Sauce and Stir-Fried Vegetables",
+    "tags": [
+      "fish",
+      "japanesecuisine",
+      "weeknightdinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-egyptian-chickpeas-stew--gluten-free",
+    "title": "Egyptian Chickpea Stew",
+    "tags": [
+      "chickpeas",
+      "gluten-free",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
