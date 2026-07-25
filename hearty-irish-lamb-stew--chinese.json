@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-irish-lamb-stew--chinese",
+  "title": "Irish Lamb Stew Chinese Fusion",
+  "description": "A hearty Irish lamb stew with a Chinese twist, blending tender lamb with vegetables in a savory soy-based broth.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the browned lamb from the pot and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot and sauté the chopped onion until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped carrots and potatoes to the pot, and cook for 5 minutes, stirring occasionally.",
+    "Add the browned lamb back to the pot, along with the soy sauce, and stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake at 300°F (150°C) for 2-3 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Stir in the sesame oil before serving.",
+    "Serve hot, garnished with chopped green onions and toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "irish",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-lamb-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:35:35.558Z"
+}
