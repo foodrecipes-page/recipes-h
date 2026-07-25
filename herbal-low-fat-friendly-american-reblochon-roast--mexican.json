@@ -1,0 +1,72 @@
+{
+  "slug": "herbal-low-fat-friendly-american-reblochon-roast--mexican",
+  "title": "Reblochon and Roast Beef Tacos",
+  "description": "A twist on traditional Mexican tacos with rich, creamy reblochon cheese and tender roast beef.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast beef, thinly sliced",
+      "amount": "8 oz",
+      "notes": "Rarely cooked roast beef"
+    },
+    {
+      "name": "Reblochon cheese, crumbled",
+      "amount": "8 oz",
+      "notes": "Strong, creamy cheese"
+    },
+    {
+      "name": "Low-fat friendly tortillas",
+      "amount": "6-8",
+      "notes": "Small, pliable tortillas"
+    },
+    {
+      "name": "Herbs (such as cilantro, parsley)",
+      "amount": "chopped",
+      "notes": "Add fresh flavor to your tacos"
+    },
+    {
+      "name": "American cheese (optional)",
+      "amount": "1/2 cup, shredded",
+      "notes": "Add extra creaminess"
+    },
+    {
+      "name": "Salsa (homemade or store-bought)",
+      "amount": "1/2 cup",
+      "notes": "Add spicy kick to your tacos"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. Cook sliced roast beef for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "3. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble tacos by placing a slice of roast beef onto a tortilla, followed by a sprinkle of reblochon cheese, some chopped herbs, and a dollop of salsa.",
+    "5. Top with a sprinkle of American cheese, if using.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "reblochon",
+    "roast-beef",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-low-fat-friendly-american-reblochon-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:23:34.677Z"
+}
