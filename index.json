@@ -9519,18 +9519,15 @@
   },
   {
     "slug": "hearty-sour-argentinian-beef-empanadas",
-    "title": "Hearty Sour Argentinian Beef Empanadas",
+    "title": "Argentinian Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-empanadas",
-      "corn-husk-wrap",
-      "hearty-dinner",
-      "latin-american",
-      "nut-free",
-      "weeknight-dinner"
+      "argentinian",
+      "beef",
+      "empanadas",
+      "dinner"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
