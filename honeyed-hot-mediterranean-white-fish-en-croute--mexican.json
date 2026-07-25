@@ -1,0 +1,61 @@
+{
+  "slug": "honeyed-hot-mediterranean-white-fish-en-croute--mexican",
+  "title": "Baked Fish en Papillote with Mediterranean Crust",
+  "description": "Moist and flavorful fish baked in parchment paper with a crunchy Mediterranean crust. Perfect for a light and healthy dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4",
+      "notes": "white fish such as cod or tilapia"
+    },
+    {
+      "name": "Mediterranean croute",
+      "amount": "1 cup",
+      "notes": "crushed crackers and herbs"
+    },
+    {
+      "name": "Honeyed oil",
+      "amount": "2 tbsp",
+      "notes": "olive oil infused with honey"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillet with salt and pepper.",
+    "In a bowl, mix together the Mediterranean croute and a pinch of salt.",
+    "Place a piece of parchment paper on a baking sheet.",
+    "Place the fish fillet in the center of the parchment paper.",
+    "Sprinkle the Mediterranean croute mixture evenly over the fish.",
+    "Drizzle the honeyed oil over the croute.",
+    "Fold the parchment paper to create a packet, sealing the edges.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mexican",
+    "healthy",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honeyed-hot-mediterranean-white-fish-en-croute--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:18:33.313Z"
+}
