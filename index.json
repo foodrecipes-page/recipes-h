@@ -7196,17 +7196,14 @@
   },
   {
     "slug": "hearty-molten-german-avocado-casserole",
-    "title": "Hearty Molten German Avocado Casserole",
+    "title": "Hearty German Casserole",
     "tags": [
-      "dutch-oven",
-      "flexitarian-friendly",
-      "german-cuisine",
-      "meal-prep",
-      "one-pan",
-      "wood-fired"
+      "german",
+      "casserole",
+      "comfortfood"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 65,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -18841,6 +18838,59 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-norwegian-fish-poke--german",
+    "title": "Kjøttkaker med Fiskefrikadeller (German-Style Meatballs with Fish Patties)",
+    "tags": [
+      "german",
+      "meat",
+      "seafood",
+      "norwegian",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hungry-harmonious-german-kinako-wrap--french",
+    "title": "French Wrap with Kinako Flair",
+    "tags": [
+      "french",
+      "snack",
+      "dessert",
+      "kinako"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-slovakian-pork-dumplings--indian",
+    "title": "Slovakian Pork Dumplings",
+    "tags": [
+      "slovakian",
+      "indian",
+      "pork",
+      "dumplings"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "herbed-crunchy-indian-cabbage-salad--indian",
+    "title": "Crispy Indian Cabbage Salad",
+    "tags": [
+      "indian",
+      "salad",
+      "crunchy",
+      "herbed"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "h"
   }
 ]
