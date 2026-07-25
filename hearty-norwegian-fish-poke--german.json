@@ -1,0 +1,99 @@
+{
+  "slug": "hearty-norwegian-fish-poke--german",
+  "title": "Kjøttkaker med Fiskefrikadeller (German-Style Meatballs with Fish Patties)",
+  "description": "A hearty German-inspired dish featuring Norwegian-style meatballs and fish patties, perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cod fillet",
+      "amount": "1 pound",
+      "notes": "skin removed, flaked"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine ground beef, ground pork, breadcrumbs, eggs, onion, allspice, salt, and black pepper. Mix well with your hands until just combined.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place on a baking sheet lined with parchment paper.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through.",
+    "In a separate bowl, mix together flaked cod, panko breadcrumbs, and a pinch of salt and pepper.",
+    "Using your hands, shape the cod mixture into patties, about 1 inch (2.5 cm) thick.",
+    "Heat a large non-stick skillet over medium heat. Add a small amount of oil and cook the fish patties for 3-4 minutes per side, or until golden brown and cooked through.",
+    "Serve the meatballs and fish patties hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "meat",
+    "seafood",
+    "norwegian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-norwegian-fish-poke--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:45:13.290Z"
+}
