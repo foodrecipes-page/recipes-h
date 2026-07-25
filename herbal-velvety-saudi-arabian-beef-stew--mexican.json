@@ -1,0 +1,86 @@
+{
+  "slug": "herbal-velvety-saudi-arabian-beef-stew--mexican",
+  "title": "Carne Guisada con Aromáticas",
+  "description": "A hearty Mexican beef stew infused with the warmth of saudi spices and the earthiness of herbal notes.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef stew meat"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 teaspoon ground coriander"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 sprigs fresh oregano, chopped"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 can (14.5 oz) diced tomatoes"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2 chipotle peppers in adobo sauce, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Brown the beef in batches until browned on all sides, about 5 minutes. Remove the browned beef from the pot and set aside.",
+    "Reduce the heat to medium and add the onion to the pot. Cook until the onion is translucent, about 5 minutes.",
+    "Add the garlic, cumin, coriander, and chipotle peppers to the pot. Cook for 1 minute.",
+    "Stir in the diced tomatoes, beef broth, oregano, salt, and pepper. Bring the mixture to a boil.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 hours.",
+    "Serve the stew hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "mexican",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-velvety-saudi-arabian-beef-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:07:41.496Z"
+}
