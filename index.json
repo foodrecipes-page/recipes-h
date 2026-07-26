@@ -9603,17 +9603,15 @@
   },
   {
     "slug": "hearty-spanish-fish-toast",
-    "title": "Hearty Spanish Fish Toast",
+    "title": "Spanish-Style Baked Fish",
     "tags": [
-      "breakfast",
-      "brunch",
-      "easy-to-make",
-      "fish",
       "spanish",
-      "turmeric"
+      "fish",
+      "baked",
+      "healthy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
