@@ -19193,5 +19193,44 @@
     "cuisine": "chinese",
     "totalTimeMin": 22,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-irish-potato-stew--thai",
+    "title": "Thai-Style Potato Stew",
+    "tags": [
+      "thaistyle",
+      "potatostew",
+      "thairedcurry",
+      "coconutmilk"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-portuguese-cod-stew--french",
+    "title": "Bouillabaisse Cod Stew",
+    "tags": [
+      "french",
+      "fish",
+      "stew",
+      "cod"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-japanese-parma-ham-dorayaki--mexican",
+    "title": "Dorayaki Carnitas Tacos",
+    "tags": [
+      "mexican",
+      "japanese",
+      "fusion",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
