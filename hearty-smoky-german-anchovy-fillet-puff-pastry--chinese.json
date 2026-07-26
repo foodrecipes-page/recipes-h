@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-smoky-german-anchovy-fillet-puff-pastry--chinese",
+  "title": "Smoked Pork Dumplings",
+  "description": "Delicious smoked pork dumplings made with a hearty German-inspired filling, wrapped in flaky puff pastry, and steamed to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Smoked Pork Fillet",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer.",
+    "In a mixing bowl, combine the smoked pork fillet, chopped onion, chopped cabbage, ginger, soy sauce, salt, and black pepper. Mix well.",
+    "Roll out the puff pastry sheet to a thickness of 1/8 inch.",
+    "Use a round cookie cutter to cut out circles of puff pastry.",
+    "Place 1 tablespoon of the smoked pork mixture onto the center of each puff pastry circle.",
+    "Fold the pastry in half to form a half-moon shape, and press the edges to seal.",
+    "Place the dumplings in the steamer, leaving about 1 inch of space between each dumpling.",
+    "Steam the dumplings for 12-15 minutes, or until the pastry is golden brown and the filling is heated through.",
+    "Serve the smoked pork dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "smoked",
+    "pork",
+    "dumplings",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-smoky-german-anchovy-fillet-puff-pastry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:22:26.805Z"
+}
