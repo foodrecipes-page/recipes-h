@@ -2259,15 +2259,15 @@
   },
   {
     "slug": "hearty-british-almond-flour-fritters",
-    "title": "British Almond Fritters",
+    "title": "British-Style Pan-Fried Fritters",
     "tags": [
       "british",
-      "dessert",
-      "fritters",
-      "almond"
+      "breakfast",
+      "cheese",
+      "fritters"
     ],
     "cuisine": "British",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -19166,6 +19166,32 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-slow-mediterranean-celery-stew--keto",
+    "title": "Hearty Beef Stew",
+    "tags": [
+      "keto",
+      "beef",
+      "stew",
+      "mediterranean"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
+    "slug": "healthy-velvety-ethiopian-shrimp-dulet--chinese",
+    "title": "Kung Pao Shrimp with Dulet Sauce",
+    "tags": [
+      "chinese",
+      "spicy",
+      "seafood",
+      "dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
     "shard": "h"
   }
 ]
