@@ -19154,5 +19154,18 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "heavenly-filipino-milk-chocolate-leche-flan--french",
+    "title": "French Crème Caramel",
+    "tags": [
+      "creme-caramel",
+      "french-dessert",
+      "chocolate",
+      "caramel"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
