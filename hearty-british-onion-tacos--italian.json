@@ -1,0 +1,71 @@
+{
+  "slug": "hearty-british-onion-tacos--italian",
+  "title": "Hearty Italian Onion Frittata",
+  "description": "A classic Italian-style omelette packed with caramelized onions and a touch of British charm.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "caramelized"
+    },
+    {
+      "name": "hearty british cheddar",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the minced garlic over low heat until fragrant.",
+    "Add the caramelized onion and cook for an additional 2 minutes.",
+    "In a large bowl, whisk together the eggs and grated cheddar.",
+    "Season the egg mixture with salt to taste.",
+    "Pour the egg mixture over the onion mixture in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Serve the frittata hot, sliced into wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "frittata",
+    "italian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-onion-tacos--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:18:14.304Z"
+}
