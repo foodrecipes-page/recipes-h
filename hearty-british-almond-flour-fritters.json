@@ -1,81 +1,79 @@
 {
   "slug": "hearty-british-almond-flour-fritters",
-  "title": "British Almond Fritters",
-  "description": "A delicious and traditional British dessert, these fritters are filled with ground almonds and perfect for snacking.",
+  "title": "British-Style Pan-Fried Fritters",
+  "description": "A classic British recipe for pan-fried fritters, perfect as a snack or breakfast side dish.",
   "cuisine": "British",
   "diet": [
-    "vegetarian"
+    "gluten-free"
   ],
-  "meal": "dessert",
+  "meal": "breakfast",
   "ingredients": [
     {
-      "name": "ground almonds",
-      "amount": "1 cup"
+      "name": "250g self-raising flour",
+      "amount": "250g",
+      "notes": null
     },
     {
-      "name": "all-purpose flour",
-      "amount": "1/2 cup"
+      "name": "150g grated cheddar cheese",
+      "amount": "150g",
+      "notes": null
     },
     {
-      "name": "baking powder",
-      "amount": "1 teaspoon"
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": "beaten"
     },
     {
-      "name": "salt",
-      "amount": "1/4 teaspoon"
+      "name": "1/2 teaspoon baking powder",
+      "amount": "1/2",
+      "notes": null
     },
     {
-      "name": "sugar",
-      "amount": "2 tablespoons"
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4",
+      "notes": null
     },
     {
-      "name": "buttermilk",
-      "amount": "1/2 cup"
+      "name": "25g chopped fresh parsley",
+      "amount": "25g",
+      "notes": null
     },
     {
-      "name": "large eggs",
-      "amount": "2"
-    },
-    {
-      "name": "unsalted butter, melted",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "confectioners' sugar",
-      "amount": "1 cup"
+      "name": "20g unsalted butter, melted",
+      "amount": "20g",
+      "notes": null
     }
   ],
   "instructions": [
-    "Preheat the oil in a deep frying pan to 375°F (190°C).",
-    "In a medium bowl, whisk together the flour, baking powder, and salt.",
-    "In a large bowl, whisk together the ground almonds, sugar, and eggs.",
-    "Add the flour mixture to the almond mixture and whisk until just combined.",
-    "Add the buttermilk and melted butter, and whisk until the batter is smooth.",
-    "Using a tablespoon, drop the batter into the hot oil, making sure not to overcrowd the pan.",
-    "Fry the fritters for 2-3 minutes on each side, or until they are golden brown.",
-    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate.",
-    "Dust the fritters with confectioners' sugar and serve warm.",
-    "Repeat with the remaining batter, adjusting the heat as needed to prevent the oil from getting too hot."
+    "1. Preheat your oven to 200°C (400°F).",
+    "2. In a large bowl, whisk together the flour, cheese, eggs, baking powder, and salt.",
+    "3. Stir in the chopped parsley and melted butter.",
+    "4. Heat a large non-stick frying pan over medium heat.",
+    "5. Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "6. Flatten the batter slightly with a spatula.",
+    "7. Cook for 2-3 minutes, until golden brown.",
+    "8. Flip the fritters over and cook for a further 2 minutes.",
+    "9. Serve warm and enjoy!"
   ],
-  "prepTimeMin": 10,
+  "prepTimeMin": 15,
   "cookTimeMin": 10,
-  "totalTimeMin": 20,
+  "totalTimeMin": 25,
   "servings": 8,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "british",
-    "dessert",
-    "fritters",
-    "almond"
+    "breakfast",
+    "cheese",
+    "fritters"
   ],
   "nutrition": {
     "calories": 220,
-    "protein": 4,
-    "carbs": 30,
-    "fat": 10
+    "protein": 15,
+    "carbs": 15,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-almond-flour-fritters",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T22:47:44.142Z"
+  "createdAt": "2026-07-21T19:39:54.132Z"
 }
