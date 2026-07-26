@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-romantic-jamaican-pappardelle-pasta",
+  "title": "Jamaican Pappardelle Pasta",
+  "description": "A spicy and aromatic Jamaican-inspired pasta dish, perfect for a romantic dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pappardelle pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pappardelle pasta according to package instructions until al dente.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato sauce, Jamaican jerk seasoning, and diced tomatoes.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 10-15 minutes.",
+    "Stir in coconut milk and cook for an additional 2-3 minutes.",
+    "Combine cooked pappardelle pasta and sauce in a large bowl.",
+    "Toss to combine and serve hot.",
+    "Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pasta",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-romantic-jamaican-pappardelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:41:37.718Z"
+}
