@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-irish-potato-stew--thai",
+  "title": "Thai-Style Potato Stew",
+  "description": "A twist on traditional Irish stew, this Thai-style potato stew combines hearty potatoes with aromatic Thai spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 1/2 pounds",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large pot over medium-high heat.",
+    "2. Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "3. Add the curry paste and cook for 1-2 minutes, until fragrant.",
+    "4. Add the potatoes, coconut milk, fish sauce, and sugar. Stir to combine.",
+    "5. Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes, or until the potatoes are tender.",
+    "6. Stir in the Thai basil and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaistyle",
+    "potatostew",
+    "thairedcurry",
+    "coconutmilk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-irish-potato-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:04:51.464Z"
+}
