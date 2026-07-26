@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-british-onion-tacos",
+  "title": "Authentic British Beef Stew",
+  "description": "A hearty, comforting stew made with tender beef and rich flavors. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Stew Meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Hearty Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 teaspoon",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "serves 4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Gradually add the beef broth, whisking continuously, and bring to a boil.",
+    "Add the browned beef, red wine (if using), brown sugar, thyme, salt, and pepper. Stir to combine.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Serve hot over mashed potatoes, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-onion-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:18:35.630Z"
+}
