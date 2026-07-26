@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-indulgent-kenyan-cheese-lasagna--vegetarian",
+  "title": "Kenyan Vegetarian Lasagna",
+  "description": "A hearty and indulgent vegetarian twist on the classic lasagna, inspired by the flavors of Kenya.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Vegetarian ground beef substitute",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add onion, carrots, and bell peppers. Cook until vegetables are tender.",
+    "Add mushrooms and cook until they release their liquid and start to brown.",
+    "Add vegetarian ground beef substitute and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in tomato sauce and bring to a simmer. Reduce heat to low and let sauce simmer while you prepare the cheese mixture.",
+    "In a medium bowl, combine shredded cheese and chopped basil.",
+    "To assemble the lasagna, spread a layer of tomato sauce on the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles, followed by half of the tomato sauce. Repeat the layers, starting with the noodles, then the cheese mixture, and finally the remaining tomato sauce.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes. Remove the foil and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "lasagna",
+    "indulgent",
+    "heart"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-indulgent-kenyan-cheese-lasagna--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:36:38.545Z"
+}
