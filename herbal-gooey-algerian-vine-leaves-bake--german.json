@@ -1,0 +1,71 @@
+{
+  "slug": "herbal-gooey-algerian-vine-leaves-bake--german",
+  "title": "German Herbal Vine Leaf Bake",
+  "description": "A traditional German dish featuring herbal flavors, crispy leaves, and a gooey center, served in a vine-infused bake.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Herbal Vine Leaves",
+      "amount": "4 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Gooey Vine Fruit",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Algerian Almonds",
+      "amount": "1/4 cup",
+      "notes": "Chopped and toasted"
+    },
+    {
+      "name": "Vine Syrup",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Bake Mix",
+      "amount": "1 cup",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw frozen leaves and pat dry.",
+    "In a bowl, mix together gooey fruit, almonds, and syrup.",
+    "Brush leaves with oil and place on a baking sheet.",
+    "Spoon gooey mixture onto leaves.",
+    "Sprinkle bake mix over the top.",
+    "Bake for 20 minutes or until golden brown.",
+    "Serve warm, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "herbal",
+    "dessert",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-gooey-algerian-vine-leaves-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:41:29.956Z"
+}
