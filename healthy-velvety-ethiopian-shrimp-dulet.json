@@ -1,0 +1,92 @@
+{
+  "slug": "healthy-velvety-ethiopian-shrimp-dulet",
+  "title": "Ethiopian Shrimp Tibs with Dulet Sauce",
+  "description": "A fusion of Ethiopian flavors with the succulence of shrimp. This dish is a twist on traditional Tibs, served with a rich Dulet sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "16-20 count"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dulet spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "healthy tomato paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "velvety sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian berbere spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onions and cook until translucent, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add shrimp and cook until pink, 2-3 minutes per side.",
+    "Add dulet spice mix and cook for 1 minute.",
+    "Stir in tomato paste and cook for 1 minute.",
+    "Add red wine vinegar and cook until liquid is almost gone.",
+    "Stir in sour cream and cook until heated through.",
+    "Season with berbere spice blend to taste.",
+    "Serve shrimp with Dulet sauce spooned over the top.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "seafood",
+    "dinner",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 14,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healthy-velvety-ethiopian-shrimp-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:46:06.912Z"
+}
