@@ -1522,16 +1522,15 @@
   },
   {
     "slug": "healthy-velvety-ethiopian-shrimp-dulet",
-    "title": "Healthy Velvety Ethiopian Shrimp Dulet",
+    "title": "Ethiopian Shrimp Tibs with Dulet Sauce",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "shojin-friendly",
-      "weeknight"
+      "ethiopian",
+      "seafood",
+      "dinner",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "h"
   },
   {
@@ -2273,18 +2272,15 @@
   },
   {
     "slug": "hearty-british-onion-tacos",
-    "title": "Hearty British Onion Tacos",
+    "title": "Authentic British Beef Stew",
     "tags": [
-      "british-cuisine",
+      "beef",
+      "british",
       "comfort-food",
-      "deep-fry",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "stew"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": "british",
+    "totalTimeMin": 170,
     "shard": "h"
   },
   {
@@ -8171,18 +8167,13 @@
   },
   {
     "slug": "hearty-romantic-jamaican-pappardelle-pasta",
-    "title": "Hearty Romantic Jamaican Pappardelle Pasta",
+    "title": "Jamaican Pappardelle Pasta",
     "tags": [
-      "caribbean-inspired",
-      "colorful-dish",
-      "date-night",
-      "halal-friendly",
-      "jamaican-cuisine",
-      "one-pot",
-      "pasta-lovers",
-      "special-occasion"
+      "jamaican",
+      "pasta",
+      "romantic"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "jamaican",
     "totalTimeMin": 35,
     "shard": "h"
   },
