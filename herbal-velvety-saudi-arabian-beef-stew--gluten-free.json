@@ -1,0 +1,86 @@
+{
+  "slug": "herbal-velvety-saudi-arabian-beef-stew--gluten-free",
+  "title": "Saudi Beef Stew",
+  "description": "A hearty and flavorful stew originating from Saudi Arabia, made with tender beef and a blend of aromatic spices. This recipe is gluten-free and perfect for a cold winter's day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Saudi stew spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "arabian herbal tea",
+      "amount": "2 cups",
+      "notes": "used for flavoring and tenderizing the beef"
+    },
+    {
+      "name": "velvety tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove it from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the Saudi stew spices and cook for 1 minute.",
+    "Add the beef broth, browned beef, and chopped onion to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Add the velvety tomatoes and continue to simmer for another 30 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "beef",
+    "stew",
+    "middle-eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-velvety-saudi-arabian-beef-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:15:51.138Z"
+}
