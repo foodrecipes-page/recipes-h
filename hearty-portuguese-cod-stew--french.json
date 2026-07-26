@@ -1,0 +1,94 @@
+{
+  "slug": "hearty-portuguese-cod-stew--french",
+  "title": "Bouillabaisse Cod Stew",
+  "description": "A hearty French-inspired stew from the port city of Marseille, using cod as the main ingredient. This Bouillabaisse recipe brings together the best of French cuisine with a rich and flavorful broth.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "Dry"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced fennel and cook for 2-3 minutes.",
+    "Add the diced tomatoes, white wine, fish stock, bay leaves, and thyme.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the cod fillets to the pot and cook for 8-10 minutes, or until cooked through.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the cod and stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "stew",
+    "cod"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-portuguese-cod-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:25:24.898Z"
+}
