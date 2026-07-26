@@ -1,0 +1,78 @@
+{
+  "slug": "hearty-slow-mediterranean-celery-stew--keto",
+  "title": "Hearty Beef Stew",
+  "description": "A keto-friendly stew made with tender beef, hearty vegetables, and a rich broth.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add celery, onion, and garlic; cook until vegetables are tender, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and wine (if using); bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2-3 hours, or until beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "beef",
+    "stew",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-slow-mediterranean-celery-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:41:16.548Z"
+}
