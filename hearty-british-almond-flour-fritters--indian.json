@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-british-almond-flour-fritters--indian",
+  "title": "Almond Fritter Naan",
+  "description": "A unique twist on traditional naan, these fritters are filled with ground almonds and spices, inspired by Indian cuisine. Serve warm with a side of chutney or raita.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, ground almonds, yogurt, ghee or oil, cumin seeds, coriander powder, baking powder, and salt. Mix well to form a dough.",
+    "Gradually add water and knead the dough for 5-7 minutes until smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Heat a non-stick skillet or tava over medium heat.",
+    "Pinch a small ball of dough and flatten it slightly into a disk shape.",
+    "Place the disk in the skillet and cook for 1-2 minutes or until golden brown.",
+    "Flip the fritter and cook for another 1-2 minutes or until golden brown.",
+    "Repeat with the remaining dough to make more fritters.",
+    "Serve warm with a side of chutney or raita.",
+    "Note: If the dough becomes too sticky, add a little more flour. If it becomes too dry, add a little more water."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "naan",
+    "fritters",
+    "almond",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-british-almond-flour-fritters--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:23:28.042Z"
+}
