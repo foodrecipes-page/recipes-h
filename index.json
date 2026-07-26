@@ -18953,5 +18953,45 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-croatian-meat-stew--german",
+    "title": "Traditional German Beef Goulash",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-fermented-australian-bush-herbs-bowl--thai",
+    "title": "Thai Bush Meat Curry",
+    "tags": [
+      "thai",
+      "bushmeat",
+      "curry",
+      "herbs"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-british-almond-flour-fritters--indian",
+    "title": "Almond Fritter Naan",
+    "tags": [
+      "indian",
+      "naan",
+      "fritters",
+      "almond",
+      "breakfast"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
