@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-fermented-australian-bush-herbs-bowl--thai",
+  "title": "Thai Bush Meat Curry",
+  "description": "A hearty, comforting Thai curry made with Australian bush meat and a blend of herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Bush Meat (400g)",
+      "amount": "1",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "or coconut milk for creaminess"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large bowl over medium heat.",
+    "Add onion and garlic; cook until softened.",
+    "Add bush meat; cook until browned.",
+    "Add curry paste; cook for 1 minute.",
+    "Add fish sauce, sugar, and water; stir to combine.",
+    "Bring to a simmer; reduce heat to low.",
+    "Add kaffir lime leaves and basil; stir to combine.",
+    "Simmer for 10-15 minutes or until meat is tender.",
+    "Season with salt to taste.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "bushmeat",
+    "curry",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fermented-australian-bush-herbs-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:11:41.488Z"
+}
