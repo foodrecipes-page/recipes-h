@@ -1,0 +1,89 @@
+{
+  "slug": "hot-brazilian-eggplant-stew--vegetarian",
+  "title": "Brazilian Stew Eggplant",
+  "description": "A hearty and flavorful Brazilian-inspired stew made with eggplant and a blend of spices, perfect for a comforting meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Hot pepper",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced tomatoes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add diced hot pepper and cook for 1 minute.",
+    "Add stew, tomato paste, salt, and black pepper.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 20-25 minutes.",
+    "Add sliced eggplant and continue to cook for 10-15 minutes, or until tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "eggplant",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-brazilian-eggplant-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:20:55.405Z"
+}
