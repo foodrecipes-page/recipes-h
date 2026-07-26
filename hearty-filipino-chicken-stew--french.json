@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-filipino-chicken-stew--french",
+  "title": "Chicken Stew à la Bourguignonne",
+  "description": "A hearty French-inspired stew made with tender chicken and flavorful vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "chicken"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove chicken from pot and set aside.",
+    "Add carrots, celery, and red bell pepper to pot and cook until vegetables are slightly tender, about 5 minutes.",
+    "Add red wine to pot and cook until reduced by half, about 2 minutes.",
+    "Add broth, flour, salt, and pepper to pot and stir to combine.",
+    "Return chicken to pot and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "french",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-filipino-chicken-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:47:41.321Z"
+}
