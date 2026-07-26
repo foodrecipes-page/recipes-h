@@ -1,0 +1,91 @@
+{
+  "slug": "hearty-midnight-cravings-french-sausages-tagine--vegetarian",
+  "title": "Vegetarian French Sausage Tagine",
+  "description": "A twist on the traditional Moroccan tagine, this vegetarian version is packed with the flavors of French sausages and hearty vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French sausages",
+      "amount": "1 pound",
+      "notes": "look for vegetarian sausages made from tofu or tempeh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots and potatoes and cook for an additional 5 minutes.",
+    "Add the cherry tomatoes and cook for 2 minutes.",
+    "Add the French sausages and cook until browned, about 5 minutes.",
+    "Add the cumin and coriander and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the vegetables are tender and the sausages are cooked through, about 20 minutes.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "lunch",
+    "dinner",
+    "tagine",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-midnight-cravings-french-sausages-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:27:35.017Z"
+}
