@@ -1,0 +1,81 @@
+{
+  "slug": "hearty-bitter-algerian-chicken-tagine--thai",
+  "title": "Thai Chicken Tagine",
+  "description": "A hearty and flavorful Thai-inspired dish made with chicken, tagine spices, and a hint of bitterness.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "algerian bitter greens",
+      "amount": "1 bunch",
+      "notes": "such as kale or collard greens"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet and cook the tagine spice blend over medium heat, stirring constantly, until fragrant, about 1 minute.",
+    "Add the brown sugar and fish sauce (if using) to the skillet and stir to combine.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 10-15 minutes.",
+    "Stir in the algerian bitter greens and cook until wilted.",
+    "Serve the chicken and sauce over the greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "tagine",
+    "hearty",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-bitter-algerian-chicken-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:29:31.706Z"
+}
