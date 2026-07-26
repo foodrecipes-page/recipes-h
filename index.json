@@ -18993,5 +18993,69 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "harmonious-light-tunisian-chilli-tagine--mexican",
+    "title": "Tunisian Chilli Tagine Tacos",
+    "tags": [
+      "tunisian",
+      "mexican",
+      "veggie",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-gooey-algerian-vine-leaves-bake--german",
+    "title": "German Herbal Vine Leaf Bake",
+    "tags": [
+      "german",
+      "herbal",
+      "dessert",
+      "bake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "huge-briny-densely-kenyan-sausages-bowl--thai",
+    "title": "Spicy Kenyan Sausage Stir Fry",
+    "tags": [
+      "thai",
+      "sausages",
+      "stir-fry",
+      "kenyan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-brazilian-eggplant-stew--vegetarian",
+    "title": "Brazilian Stew Eggplant",
+    "tags": [
+      "brazilian",
+      "eggplant",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-braised-turkish-cabbage-su-boregi--french",
+    "title": "Braised Cabbage Boregi",
+    "tags": [
+      "french",
+      "turkish",
+      "braised"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
