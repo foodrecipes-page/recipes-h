@@ -1,0 +1,94 @@
+{
+  "slug": "herbal-juicy-irish-berry-tart--thai",
+  "title": "Thai Berry Irish Stew",
+  "description": "A twist on the classic Irish stew with a Thai twist, featuring juicy berries and herbal notes.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Lamb",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Juicy Berries",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Tart Lemongrass",
+      "amount": "2 stalks",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Herbal Curry Powder",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then add onion, ginger, and lemongrass. Cook until softened, about 5 minutes.",
+    "Add potatoes, curry powder, fish sauce, and soy sauce (if using). Cook for 1 minute.",
+    "Add lamb back into the pot, along with the berries and Thai basil. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste. Serve hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "irish",
+    "stew",
+    "lamb",
+    "berries",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-juicy-irish-berry-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:54:23.611Z"
+}
