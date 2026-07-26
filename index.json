@@ -19057,5 +19057,34 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-smoky-german-anchovy-fillet-puff-pastry--chinese",
+    "title": "Smoked Pork Dumplings",
+    "tags": [
+      "chinese",
+      "smoked",
+      "pork",
+      "dumplings",
+      "pastry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "herbal-juicy-irish-berry-tart--thai",
+    "title": "Thai Berry Irish Stew",
+    "tags": [
+      "thai",
+      "irish",
+      "stew",
+      "lamb",
+      "berries",
+      "herbal"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "h"
   }
 ]
