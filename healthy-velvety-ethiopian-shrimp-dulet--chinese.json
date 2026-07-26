@@ -1,0 +1,90 @@
+{
+  "slug": "healthy-velvety-ethiopian-shrimp-dulet--chinese",
+  "title": "Kung Pao Shrimp with Dulet Sauce",
+  "description": "A spicy and savory Chinese-inspired dish packed with shrimp, dulet, and a hint of velvety goodness.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "16-20 count"
+    },
+    {
+      "name": "Dulet",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ethiopian Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Healthy olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Velvety peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the dulet and cook until slightly browned, about 3-4 minutes.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes.",
+    "In a small bowl, whisk together the peanut butter, soy sauce, and rice vinegar.",
+    "Pour the sauce over the shrimp and dulet, and stir-fry until the sauce is bubbly and slightly thickened.",
+    "Stir in the Berbere spice and cook for an additional 1-2 minutes.",
+    "Serve immediately over rice or noodles, garnished with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spicy",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healthy-velvety-ethiopian-shrimp-dulet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:08:57.968Z"
+}
