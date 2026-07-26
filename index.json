@@ -19113,5 +19113,46 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-velvety-saudi-arabian-beef-stew--gluten-free",
+    "title": "Saudi Beef Stew",
+    "tags": [
+      "saudi",
+      "beef",
+      "stew",
+      "middle-eastern",
+      "gluten-free"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 105,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-midnight-cravings-french-sausages-tagine--vegetarian",
+    "title": "Vegetarian French Sausage Tagine",
+    "tags": [
+      "vegetarian",
+      "lunch",
+      "dinner",
+      "tagine",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-filipino-chicken-stew--french",
+    "title": "Chicken Stew à la Bourguignonne",
+    "tags": [
+      "chicken",
+      "stew",
+      "french",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
