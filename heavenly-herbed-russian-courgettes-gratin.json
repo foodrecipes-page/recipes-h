@@ -1,0 +1,79 @@
+{
+  "slug": "heavenly-herbed-russian-courgettes-gratin",
+  "title": "Russian Courgette Gratin",
+  "description": "A flavorful and comforting gratin dish made with courgettes, heavenly and herbed russian cheese. Perfect for a dinner or a special occasion.",
+  "cuisine": "european",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Heavenly Cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Russian Herbed Cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1 small"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Slice the courgettes into 1/2-inch thick rounds.",
+    "3. In a large saucepan, heat the olive oil over medium heat.",
+    "4. Add the sliced courgettes and cook for 5-7 minutes on each side, until tender.",
+    "5. In a separate saucepan, melt the heavenly cheese over low heat.",
+    "6. Add the russian herbed cheese and stir until well combined.",
+    "7. In a greased 8x8-inch baking dish, arrange a layer of cooked courgettes.",
+    "8. Pour a layer of the cheese mixture over the courgettes.",
+    "9. Repeat steps 7 and 8 until all ingredients are used, finishing with a layer of cheese on top.",
+    "10. Bake for 25-30 minutes, or until the top is golden brown and the gratin is heated through.",
+    "11. Remove from the oven and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "vegetarian",
+    "rusian-cheese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-herbed-russian-courgettes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:29:48.670Z"
+}
