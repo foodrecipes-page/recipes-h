@@ -1,0 +1,77 @@
+{
+  "slug": "hearty-japanese-parma-ham-dorayaki--mexican",
+  "title": "Dorayaki Carnitas Tacos",
+  "description": "A fusion of Japanese dorayaki pancakes and Mexican carnitas, served in a taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dorayaki Pancakes",
+      "amount": "4",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Dorayaki Filling",
+      "amount": "1 cup",
+      "notes": "Mix of azuki bean paste and sugar"
+    },
+    {
+      "name": "Carnitas",
+      "amount": "1 pound",
+      "notes": "Slow-cooked pork shoulder"
+    },
+    {
+      "name": "Mexican Street Corn",
+      "amount": "1 cup",
+      "notes": "Grilled corn with cotija cheese, chili powder, and lime juice"
+    },
+    {
+      "name": "Sliced Radishes",
+      "amount": "1 cup",
+      "notes": "Thinly sliced radishes for garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro for garnish"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Warm the dorayaki pancakes according to package instructions.",
+    "Spoon the dorayaki filling onto the warmed pancakes.",
+    "Shred the carnitas into bite-sized pieces.",
+    "Grill the Mexican street corn until slightly charred.",
+    "Assemble the tacos by placing a spoonful of carnitas onto a taco shell, followed by a dollop of dorayaki filling, a sprinkle of Mexican street corn, and a slice of radish.",
+    "Garnish with cilantro and serve with a lime wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "japanese",
+    "fusion",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-japanese-parma-ham-dorayaki--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:41:48.764Z"
+}
