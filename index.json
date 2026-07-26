@@ -12322,15 +12322,14 @@
   },
   {
     "slug": "herbaceous-thai-chicken-stir-fry",
-    "title": "Herbaceous Thai Chicken Stir-fry",
+    "title": "Thai Chicken Stir Fry",
     "tags": [
-      "herbaceous",
-      "tender",
-      "kid-friendly",
-      "raw-friendly"
+      "thai",
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
