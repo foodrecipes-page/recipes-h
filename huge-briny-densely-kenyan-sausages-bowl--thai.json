@@ -1,0 +1,94 @@
+{
+  "slug": "huge-briny-densely-kenyan-sausages-bowl--thai",
+  "title": "Spicy Kenyan Sausage Stir Fry",
+  "description": "A Thai-inspired stir fry featuring Kenyan sausages, densely packed with flavor and spice. Serve over a bed of huge, fluffy rice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "densely packed"
+    },
+    {
+      "name": "huge bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "briny fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bowl of cooked rice",
+      "amount": "1",
+      "notes": "huge, fluffy"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large bowl over medium-high heat.",
+    "Add the Thai chili peppers and cook for 1 minute.",
+    "Add the onion and cook until it starts to brown, about 3-4 minutes.",
+    "Add the bell pepper and cook until it's tender, about 4-5 minutes.",
+    "Add the Kenyan sausages and cook until browned, about 5-6 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes and cook until the sauce has thickened, about 5 minutes.",
+    "Stir in the briny fish sauce and chopped cilantro.",
+    "Serve the sausage mixture over a bed of huge, fluffy rice.",
+    "Cook the rice according to package instructions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "sausages",
+    "stir-fry",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/huge-briny-densely-kenyan-sausages-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:44:58.186Z"
+}
