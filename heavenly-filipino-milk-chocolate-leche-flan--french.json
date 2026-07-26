@@ -1,0 +1,95 @@
+{
+  "slug": "heavenly-filipino-milk-chocolate-leche-flan--french",
+  "title": "French Crème Caramel",
+  "description": "A classic French dessert made with caramelized sugar, creamy leche, and a rich chocolate sauce.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Leche",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Chocolate",
+      "amount": "2 oz (60g)",
+      "notes": ""
+    },
+    {
+      "name": "Flan",
+      "amount": "1 package (12 oz)",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Heavenly",
+      "amount": "1 tsp (5mL)",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Filipino",
+      "amount": "1 tsp (5mL)",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium saucepan, combine the sugar, 1/4 cup water, and 1 tablespoon butter. Cook over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Increase the heat to medium-high and cook, without stirring, until the sugar turns a deep amber color, about 5-7 minutes.",
+    "Remove from heat and slowly pour in the milk, whisking constantly to prevent the mixture from boiling over.",
+    "Return the saucepan to medium heat and cook, stirring constantly, until the caramel sauce thickens, about 5 minutes.",
+    "Remove from heat and stir in the chocolate until melted and smooth.",
+    "Pour the caramel sauce into 6 (1/2 cup) ramekins or custard cups.",
+    "Bake for 12-15 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "To serve, run a knife around the edges of each ramekin and invert onto plates.",
+    "Drizzle with additional caramel sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creme-caramel",
+    "french-dessert",
+    "chocolate",
+    "caramel"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavenly-filipino-milk-chocolate-leche-flan--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:41:18.180Z"
+}
