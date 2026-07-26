@@ -18939,5 +18939,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-bitter-algerian-chicken-tagine--thai",
+    "title": "Thai Chicken Tagine",
+    "tags": [
+      "thai",
+      "chicken",
+      "tagine",
+      "hearty",
+      "flavorful"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
