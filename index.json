@@ -18780,14 +18780,15 @@
   },
   {
     "slug": "hearty-irish-fish-tagine--japanese",
-    "title": "Pan-Seared Cod with Teriyaki Sauce and Stir-Fried Vegetables",
+    "title": "Pan-Seared Cod with Miso Glaze",
     "tags": [
-      "fish",
-      "japanesecuisine",
-      "weeknightdinner"
+      "japanese",
+      "miso-glazed",
+      "pan-seared",
+      "cod"
     ],
     "cuisine": "japanese",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
@@ -19303,6 +19304,20 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 10,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-midnight-cravings-french-sausages-tagine--indian",
+    "title": "Midnight French Tagine Sausage Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "sausages",
+      "tagine",
+      "midnight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "h"
   }
 ]
