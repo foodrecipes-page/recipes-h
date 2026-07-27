@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-briny-indian-lamb-rogan-josh--italian",
+  "title": "Italian Braised Lamb Shanks",
+  "description": "Fall-off-the-bone tender lamb shanks in a rich and hearty Italian-inspired sauce. Perfect for a special occasion or a cozy night in.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shanks",
+      "amount": "4"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Hearty red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rogan josh spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shanks with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the red wine and chicken broth to the pot, scraping up any browned bits.",
+    "Add the rogan josh spice blend and tomato paste to the pot.",
+    "Return the lamb shanks to the pot and bring to a boil.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the lamb shanks with the rich and flavorful sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "lamb",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 14,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-briny-indian-lamb-rogan-josh--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:54:44.725Z"
+}
