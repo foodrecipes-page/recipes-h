@@ -1,0 +1,95 @@
+{
+  "slug": "herbaceous-grassy-indian-paneer-paneer-tikka",
+  "title": "Paneer Tikka Masala",
+  "description": "A popular Indian dish made with marinated paneer in a rich tomato sauce. Serve with basmati rice or naan.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cubed"
+    },
+    {
+      "name": "tikka masala spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "diluted with 1 cup water"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "canned, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together yogurt, lemon juice, garam masala, cumin powder, and salt. Add the cubed paneer and mix well to coat.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Heat 1 tablespoon of ghee or oil in a large skillet over medium-high heat. Remove the paneer from the marinade, letting any excess liquid drip off.",
+    "4. Add the paneer to the skillet and cook until golden brown, about 3-4 minutes per side.",
+    "5. Remove the paneer from the skillet and set aside.",
+    "6. In the same skillet, add the remaining 1 tablespoon of ghee or oil. Add the diced onion and cook until lightly browned, about 5 minutes.",
+    "7. Stir in the diced tomatoes, tikka masala spice blend, and 1 cup of water. Bring the mixture to a simmer.",
+    "8. Add the cooked paneer back to the skillet and stir to coat with the sauce.",
+    "9. Reduce the heat to low and simmer, uncovered, for 10-15 minutes or until the sauce has thickened.",
+    "10. Serve the paneer tikka masala hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "paneer",
+    "tikka"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-grassy-indian-paneer-paneer-tikka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:05:25.972Z"
+}
