@@ -1307,17 +1307,14 @@
   },
   {
     "slug": "healing-korean-myeongnan-roe-pudding",
-    "title": "Healing Korean Myeongnan Roe Pudding",
+    "title": "Spicy Myeongnan Roe Pudding Bites",
     "tags": [
+      "korean",
       "dessert",
-      "easy-to-make",
-      "hangover-cure",
-      "healthy-snack",
-      "korean-dish",
-      "lacto-vegetarian"
+      "snack"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 150,
     "shard": "h"
   },
   {
@@ -19282,6 +19279,30 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "halal-friendly-smoky-brazilian-milk-bake--chinese",
+    "title": "Smoky Brazilian Chicken Wings",
+    "tags": [
+      "chinese",
+      "brazilian",
+      "smoky"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hard-crunchy-kenyan-tomato-salad--vegan",
+    "title": "Kenyan Crunchy Salad",
+    "tags": [
+      "kenyan",
+      "vegan",
+      "salad"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 10,
     "shard": "h"
   }
 ]
