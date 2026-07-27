@@ -3307,16 +3307,15 @@
   },
   {
     "slug": "hearty-crunchy-australian-broccoli-skillet",
-    "title": "Hearty Crunchy Australian Broccoli Skillet",
+    "title": "Australian Broccoli Skillet",
     "tags": [
-      "crunchy",
-      "healthy",
-      "one-pan",
-      "tangy",
-      "weeknight"
+      "australian",
+      "broccoli",
+      "skillet",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "h"
   },
   {
