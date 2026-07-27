@@ -1,0 +1,73 @@
+{
+  "slug": "hearty-crunchy-australian-broccoli-skillet",
+  "title": "Australian Broccoli Skillet",
+  "description": "A hearty and crunchy Australian-inspired skillet dish made with broccoli and pan-fried goodness.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large-sized"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Australian bush tomato sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add 1 tbsp of veggie oil to the skillet and swirl it around.",
+    "Add the diced onion and cook for 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the broccoli florets and cook for 4-5 minutes.",
+    "If using Australian bush tomato sauce, add it now and stir well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "broccoli",
+    "skillet",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crunchy-australian-broccoli-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:15:09.080Z"
+}
