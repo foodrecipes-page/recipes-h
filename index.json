@@ -12181,17 +12181,14 @@
   },
   {
     "slug": "herbaceous-italian-brown-rice-pasta",
-    "title": "Herbaceous Italian Brown Rice Pasta",
+    "title": "Creamy Herb Pasta Bake",
     "tags": [
-      "banana-leaf",
-      "calabrian",
-      "carbonara",
-      "lazy-sunday",
-      "mediterranean",
-      "one-pan",
-      "vegetarian"
+      "italian",
+      "herbaceous",
+      "comfort-food",
+      "pasta-bake"
     ],
-    "cuisine": "Italian Calabrian",
+    "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "h"
   },
@@ -19318,6 +19315,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-molten-dutch-semolina-pasta--german",
+    "title": "German Semolina Pasta Bake",
+    "tags": [
+      "german",
+      "pasta",
+      "cheese",
+      "bake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-briny-indian-lamb-rogan-josh--italian",
+    "title": "Italian Braised Lamb Shanks",
+    "tags": [
+      "braised",
+      "lamb",
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
     "shard": "h"
   }
 ]
