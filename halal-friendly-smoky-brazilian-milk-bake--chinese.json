@@ -1,0 +1,84 @@
+{
+  "slug": "halal-friendly-smoky-brazilian-milk-bake--chinese",
+  "title": "Smoky Brazilian Chicken Wings",
+  "description": "A fusion dish that brings together the bold flavors of Brazil and the spices of China. This recipe is a perfect combination of sweet and savory.",
+  "cuisine": "chinese",
+  "diet": [
+    "halal",
+    "friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "Drumsticks and flats"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Used for marinade"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "Used for glaze"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Adds smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together soy sauce, honey, garlic, ginger, smoked paprika, salt, and black pepper.",
+    "Add the chicken wings to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Arrange the chicken wings on the prepared baking sheet in a single layer.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and caramelized.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "brazilian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/halal-friendly-smoky-brazilian-milk-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:55:16.383Z"
+}
