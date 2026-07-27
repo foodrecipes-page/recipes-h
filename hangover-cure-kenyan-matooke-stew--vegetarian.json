@@ -1,0 +1,77 @@
+{
+  "slug": "hangover-cure-kenyan-matooke-stew--vegetarian",
+  "title": "Matooke Stew",
+  "description": "A hearty Kenyan-inspired vegetarian stew with matooke as the main ingredient.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Matooke",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add tomato, curry powder, salt, and pepper, cook for 2 minutes.",
+    "Add matooke and stew, stir to combine.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "matooke",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hangover-cure-kenyan-matooke-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:17:46.564Z"
+}
