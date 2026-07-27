@@ -1,0 +1,84 @@
+{
+  "slug": "hot-crispy-korean-fish-skewers--japanese",
+  "title": "Japanese-Style Grilled Fish Skewers",
+  "description": "A simple and flavorful Japanese-inspired dish perfect for a quick dinner. The combination of sweet and savory flavors from the soy sauce and sesame oil pairs well with the smoky taste of the grilled fish.",
+  "cuisine": "japanese",
+  "diet": [
+    "non-vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Unflavored"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a medium bowl, whisk together soy sauce, sesame oil, brown sugar, ginger, and Korean chili flakes (if using).",
+    "3. Add the salmon pieces to the bowl and toss to coat evenly.",
+    "4. Thread the marinated salmon pieces onto skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, or until the fish is cooked through and slightly charred.",
+    "6. Serve immediately, garnished with green onions and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "fish",
+    "skewers",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hot-crispy-korean-fish-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:12:52.289Z"
+}
