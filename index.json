@@ -19354,5 +19354,31 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-hangover-jamaican-cheese-casserole--japanese",
+    "title": "Japanese Hangover Jambalaya Casserole",
+    "tags": [
+      "japanese",
+      "breakfast",
+      "casserole"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hot-crispy-korean-fish-skewers--japanese",
+    "title": "Japanese-Style Grilled Fish Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "fish",
+      "skewers",
+      "salmon"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "h"
   }
 ]
