@@ -1,0 +1,79 @@
+{
+  "slug": "harmonious-crisp-italian-tofu-pasta--italian",
+  "title": "Tofu Pasta Primavera",
+  "description": "A vibrant and healthy Italian-inspired pasta dish loaded with sautéed vegetables and pan-seared tofu.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "harmonious",
+      "amount": "1 cup",
+      "notes": "mixed spring vegetables (e.g. bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the mixed spring vegetables and cook until tender, about 3-4 minutes.",
+    "Add the cooked pasta to the skillet, tossing to combine with the vegetables and reserved pasta water.",
+    "Return the tofu to the skillet and toss everything together.",
+    "Season with salt and pepper to taste. Garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "spring-vegetables",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/harmonious-crisp-italian-tofu-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:27:56.485Z"
+}
