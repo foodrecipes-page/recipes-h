@@ -19380,5 +19380,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 23,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-spanish-pork-jamon-iberico-cataplana--indian",
+    "title": "Iberico Cataplana Curry",
+    "tags": [
+      "curry",
+      "iberico",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
