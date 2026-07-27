@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-japanese-parma-ham-dorayaki--indian",
+  "title": "Dorayaki-Style Indian Crepes with Ham and Parma",
+  "description": "A fusion dessert where Japanese Dorayaki crepes are filled with spiced ham and melted Parma cheese, served with a side of warm Indian spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dorayaki crepe mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "parma cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "ham",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ghee or butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, crepe mix, and sugar.",
+    "Gradually add water and mix until a smooth batter forms.",
+    "Heat a non-stick pan over medium heat.",
+    "Pour a small amount of batter into the pan and tilt to evenly coat.",
+    "Cook for 1-2 minutes or until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for another 1-2 minutes or until the other side is lightly browned.",
+    "Repeat with the remaining batter to make 8-10 crepes.",
+    "In a separate pan, melt ghee or butter over medium heat.",
+    "Add ham and cook until lightly browned.",
+    "Add cardamom and cinnamon powder and mix well.",
+    "To assemble, place a spoonful of the ham mixture onto one half of a crepe.",
+    "Top with a slice of Parma cheese and fold the crepe in half.",
+    "Serve warm with a side of heavy cream for drizzling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian-desserts",
+    "fusion-desserts",
+    "dessert-crepes",
+    "parma-cheese-desserts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-japanese-parma-ham-dorayaki--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:33:34.895Z"
+}
