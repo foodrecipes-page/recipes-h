@@ -1,0 +1,66 @@
+{
+  "slug": "herbaceous-italian-brown-rice-pasta",
+  "title": "Creamy Herb Pasta Bake",
+  "description": "A rich and flavorful pasta dish with a creamy herb sauce and a crunchy brown rice crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "1 pound",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 teaspoons",
+      "notes": "dried basil and oregano"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh herbs (such as parsley, basil)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large saucepan, combine the cooked pasta, Italian seasoning, garlic powder, and chopped fresh herbs.",
+    "In a separate saucepan, heat the brown rice over low heat until warmed through.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish.",
+    "Top the pasta with the brown rice, spreading it evenly.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "herbaceous",
+    "comfort-food",
+    "pasta-bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbaceous-italian-brown-rice-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:02:43.155Z"
+}
