@@ -19243,5 +19243,45 @@
     "cuisine": "ukrainian",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "halal-friendly-jamaican-bread-bowl--indian",
+    "title": "Jamaican Chicken Tikka Wrap",
+    "tags": [
+      "indian",
+      "chicken",
+      "wrap",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hangover-cure-kenyan-matooke-stew--vegetarian",
+    "title": "Matooke Stew",
+    "tags": [
+      "kenyan",
+      "matooke",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-japanese-parma-ham-dorayaki--indian",
+    "title": "Dorayaki-Style Indian Crepes with Ham and Parma",
+    "tags": [
+      "indian-desserts",
+      "fusion-desserts",
+      "dessert-crepes",
+      "parma-cheese-desserts"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
