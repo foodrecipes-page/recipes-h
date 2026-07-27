@@ -1,0 +1,58 @@
+{
+  "slug": "hard-crunchy-kenyan-tomato-salad--vegan",
+  "title": "Kenyan Crunchy Salad",
+  "description": "A refreshing salad inspired by the flavors of Kenya, packed with crunchy vegetables and a hint of tanginess. Perfect for a light and satisfying meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hard",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tablespoons, chopped fresh cilantro"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "salad",
+      "amount": "2 cups, mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens, diced tomato, and chopped cilantro.",
+    "2. In a separate bowl, mix together the diced hard and chopped crunchy vegetables.",
+    "3. Add the mixed vegetable mixture to the bowl with the greens and toss to combine.",
+    "4. Drizzle with your favorite vegan dressing and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegan",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hard-crunchy-kenyan-tomato-salad--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:26:24.506Z"
+}
