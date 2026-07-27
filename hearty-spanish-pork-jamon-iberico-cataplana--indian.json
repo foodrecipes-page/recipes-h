@@ -1,0 +1,85 @@
+{
+  "slug": "hearty-spanish-pork-jamon-iberico-cataplana--indian",
+  "title": "Iberico Cataplana Curry",
+  "description": "A twist on traditional Indian curries, featuring the rich flavors of Iberico ham and cataplana spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iberico ham",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "cataplana spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp ground"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until onion is translucent.",
+    "Add cumin, coriander, and turmeric, cook for 1 minute.",
+    "Add diced Iberico ham, cook for 2-3 minutes.",
+    "Add diced tomato, cook for 2-3 minutes.",
+    "Add cataplana spice blend, stir well.",
+    "Pour in coconut milk, stir well.",
+    "Reduce heat to low, simmer for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Garnish with fresh cilantro, serve over rice or with naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "iberico",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-pork-jamon-iberico-cataplana--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:33:46.710Z"
+}
