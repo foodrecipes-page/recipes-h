@@ -19340,5 +19340,19 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "h"
+  },
+  {
+    "slug": "harmonious-crisp-italian-tofu-pasta--italian",
+    "title": "Tofu Pasta Primavera",
+    "tags": [
+      "italian",
+      "pasta",
+      "vegetarian",
+      "spring-vegetables",
+      "tofu"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
