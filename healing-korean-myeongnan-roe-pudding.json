@@ -1,0 +1,81 @@
+{
+  "slug": "healing-korean-myeongnan-roe-pudding",
+  "title": "Spicy Myeongnan Roe Pudding Bites",
+  "description": "A unique fusion of Korean and dessert flavors, these Spicy Myeongnan Roe Pudding Bites are a delicate balance of creamy pudding and spicy roe. A perfect snack for adventurous eaters.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Myeongnan Roe",
+      "amount": "1/4 cup",
+      "notes": "Available in most Asian markets"
+    },
+    {
+      "name": "Pudding Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Healing Honey",
+      "amount": "2 tbsp",
+      "notes": "Optional for added sweetness"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together pudding mix, soy sauce, and Korean chili flakes.",
+    "In a separate bowl, mix together Myeongnan roe, healing honey, and sesame seeds.",
+    "Add the pudding mixture to the roe mixture and stir until well combined.",
+    "Add in the butter and mix until smooth.",
+    "Pour the mixture into a lined baking dish and refrigerate for at least 2 hours.",
+    "Cut into bite-sized pieces and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 150,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/healing-korean-myeongnan-roe-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:09:35.882Z"
+}
