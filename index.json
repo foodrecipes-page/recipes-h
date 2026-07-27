@@ -19232,5 +19232,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-homemade-ukrainian-dumplings--keto",
+    "title": "Keto Ukrainian Dumplings with Hearty Filling",
+    "tags": [
+      "dinner",
+      "keto",
+      "ukrainian",
+      "homemade",
+      "dumplings"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
