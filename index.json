@@ -4267,17 +4267,16 @@
   },
   {
     "slug": "hearty-fluffy-irish-custard-gratin",
-    "title": "Hearty Fluffy Irish Custard Gratin",
+    "title": "Irish Custard Gratin",
     "tags": [
-      "comfort-food",
+      "irish",
       "custard",
-      "dessert",
-      "egg-based",
       "gratin",
-      "irish"
+      "dessert",
+      "snack"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "h"
   },
   {
@@ -19571,6 +19570,34 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-syrian-lamb-pie--thai",
+    "title": "Lamb and Vegetable Pie",
+    "tags": [
+      "lamb",
+      "thai",
+      "pie",
+      "vegetable",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spanish-vegetable-gazpacho--vegan",
+    "title": "Spanish Gazpacho",
+    "tags": [
+      "gazpacho",
+      "spanish",
+      "vegan",
+      "soup",
+      "cold"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 165,
     "shard": "h"
   }
 ]
