@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-herbal-ethiopian-sesame-seed-skewers--italian",
+  "title": "Grilled Italian Herb Skewers",
+  "description": "Tender vegetable skewers marinated in a blend of herbs and grilled to perfection, served with a side of crispy sesame seed bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seed bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, italian seasoning, and a pinch of salt and pepper.",
+    "Add the sliced bell peppers, onions, zucchinis, and cherry tomatoes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Meanwhile, slice the sesame seed bread into 1-inch thick slices and toast until crispy.",
+    "Serve the grilled skewers with a side of toasted sesame seed bread and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "grilled",
+    "herbs",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-ethiopian-sesame-seed-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:12:49.714Z"
+}
