@@ -19482,5 +19482,59 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-herbal-ethiopian-sesame-seed-skewers--italian",
+    "title": "Grilled Italian Herb Skewers",
+    "tags": [
+      "italian",
+      "grilled",
+      "herbs",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-crisp-portuguese-casabe-paella--german",
+    "title": "Crisp Paella Casserole",
+    "tags": [
+      "german",
+      "sausage",
+      "casserole",
+      "cheesy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-crisp-portuguese-casabe-paella--mexican",
+    "title": "Crispy Paella Casserole",
+    "tags": [
+      "mexican",
+      "paella",
+      "casserole",
+      "beef",
+      "shrimp"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spanish-vegetable-gazpacho--german",
+    "title": "German Gazpacho Soup",
+    "tags": [
+      "german",
+      "soups",
+      "cold",
+      "summer",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
