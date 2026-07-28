@@ -19559,5 +19559,18 @@
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-ukrainian-seitan-wrap--chinese",
+    "title": "Seitan Wraps with Ukrainian Twist",
+    "tags": [
+      "chinese-fusion",
+      "vegetarian-recipe",
+      "seitan-recipe",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
