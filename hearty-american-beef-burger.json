@@ -1,0 +1,101 @@
+{
+  "slug": "hearty-american-beef-burger",
+  "title": "Classic American Beef Burger",
+  "description": "A simple recipe for a classic beef burger that is juicy and full of flavor. Serve on a toasted bun with your favorite toppings.",
+  "cuisine": "American",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "4 slices",
+      "notes": "American or Cheddar"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mayonnaise or Ketchup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Divide the ground beef into 4 equal portions and shape each into a ball.",
+    "3. Flatten each ball of beef into a patty.",
+    "4. Season the patties with salt and pepper.",
+    "5. Add the patties to the grill and cook for 4-5 minutes per side, or until they reach your desired level of doneness.",
+    "6. While the burgers are cooking, toast the buns on the grill.",
+    "7. Once the burgers are cooked, assemble the burgers by spreading mayonnaise or ketchup on the bottom bun, followed by a lettuce leaf, a tomato slice, a cheese slice, a beef patty, and finally the top bun.",
+    "8. Serve the burgers immediately and enjoy!",
+    "9. If desired, add sliced onions and pickles on top of the burger.",
+    "10. Serve with a side of fries or a salad.",
+    "11. Cook butter in a pan until it's golden brown and then brush it on the buns."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "american",
+    "burger",
+    "classic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-american-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:56:44.441Z"
+}
