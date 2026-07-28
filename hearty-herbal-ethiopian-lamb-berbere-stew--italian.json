@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-herbal-ethiopian-lamb-berbere-stew--italian",
+  "title": "Italian Lamb Stew with Berbere",
+  "description": "A hearty Italian lamb stew featuring the bold flavors of berbere spice and the comfort of a rich, herbal broth.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Berbere Spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and cook for an additional 2 minutes.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the red wine and cook until reduced by half, about 5 minutes.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the lamb to the pot and reduce heat to low.",
+    "Simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Stir in chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "stew",
+    "berbere"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-herbal-ethiopian-lamb-berbere-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:41:52.776Z"
+}
