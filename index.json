@@ -19536,5 +19536,18 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "herbal-gooey-kenyan-prawns-roast--japanese",
+    "title": "Kenyan Prawn Tempura",
+    "tags": [
+      "prawn",
+      "japanese",
+      "tempura",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "h"
   }
 ]
