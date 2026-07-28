@@ -1,0 +1,88 @@
+{
+  "slug": "hearty-molten-german-avocado-casserole--chinese",
+  "title": "Chinese Casserole with Avocado Salsa",
+  "description": "A unique and flavorful Chinese-inspired casserole dish served with a creamy avocado salsa.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Casserole Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the casserole noodles according to the package instructions.",
+    "In a large skillet, heat 1 tbsp of olive oil over medium-high heat.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the soy sauce, ginger, and garlic to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the pork mixture.",
+    "Transfer the noodle mixture to a baking dish and top with sesame seeds.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown.",
+    "While the casserole is baking, make the avocado salsa by mashing the avocado in a bowl with a fork.",
+    "Stir in the chopped scallions and season with salt and pepper to taste.",
+    "Serve the casserole hot with a dollop of avocado salsa on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "casserole-recipe",
+    "avocado-salsa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-molten-german-avocado-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:47:08.650Z"
+}
