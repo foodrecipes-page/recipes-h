@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-spanish-vegetable-gazpacho--german",
+  "title": "German Gazpacho Soup",
+  "description": "A refreshing twist on the Spanish classic, made with hearty German ingredients. This cold soup is perfect for hot summer days.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": "stale bread, torn into pieces"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and chop the cucumber, red bell pepper, and red onion.",
+    "In a blender or food processor, puree the tomatoes, bread, vinegar, garlic, salt, and black pepper until smooth.",
+    "Add the chopped cucumber, red bell pepper, and red onion to the blender.",
+    "Blend until the mixture is well combined and the vegetables are finely chopped.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "soups",
+    "cold",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-vegetable-gazpacho--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:42:25.581Z"
+}
