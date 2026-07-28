@@ -1,0 +1,89 @@
+{
+  "slug": "hearty-spicy-russian-knafeh-pilaf--chinese",
+  "title": "Szechuan Knafeh Pilaf",
+  "description": "A spicy twist on traditional Chinese pilaf, incorporating the popular Middle Eastern dessert knafeh.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Knafeh cheese",
+      "amount": "250g",
+      "notes": "shop-bought or homemade"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Szechuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sichuan hot pot oil",
+      "amount": "2 teaspoons",
+      "notes": "substitute with chili oil if needed"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Pilaf spice blend",
+      "amount": "1 teaspoon",
+      "notes": "custom or shop-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large pan over medium-high heat.",
+    "Add onion and garlic, stir-frying until translucent.",
+    "Add Szechuan peppercorns and Sichuan hot pot oil, stir-frying for 1 minute.",
+    "Add knafeh cheese, breaking it up with a spoon as it melts.",
+    "Add jasmine rice, stir-frying for 2 minutes.",
+    "Add soy sauce, pilaf spice blend, and stir-fry for 1 minute.",
+    "Transfer to a serving dish and garnish with extra Szechuan peppercorns if desired.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chinese",
+    "spicy",
+    "vegetarian",
+    "knesh",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spicy-russian-knafeh-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:06:02.512Z"
+}
