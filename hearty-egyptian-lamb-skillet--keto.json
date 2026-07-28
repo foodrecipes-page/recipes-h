@@ -1,0 +1,95 @@
+{
+  "slug": "hearty-egyptian-lamb-skillet--keto",
+  "title": "Keto Egyptian Lamb Skillet",
+  "description": "A flavorful and spicy keto lamb skillet with an Egyptian twist. Serve with a side of vegetables or a salad.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Skillet-cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "such as avocado oil or coconut oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large skillet over medium-high heat.",
+    "2. Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "3. Remove the lamb from the skillet and set aside.",
+    "4. Add the onion and garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "5. Add the cumin, coriander, and cayenne pepper to the skillet and cook for 1 minute.",
+    "6. Stir in the tomato paste and cook for 1 minute.",
+    "7. Add the chicken broth to the skillet and bring to a boil.",
+    "8. Return the lamb to the skillet and simmer, covered, until the lamb is tender, about 10-15 minutes.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "skillet",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-egyptian-lamb-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:25:49.750Z"
+}
