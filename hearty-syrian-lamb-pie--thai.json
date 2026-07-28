@@ -1,0 +1,97 @@
+{
+  "slug": "hearty-syrian-lamb-pie--thai",
+  "title": "Lamb and Vegetable Pie",
+  "description": "A hearty, flavorful pie filled with lamb and vegetables, inspired by Thai cuisine. This dish is perfect for a satisfying dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup frozen",
+      "notes": ""
+    },
+    {
+      "name": "Syrian pie crust",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the lamb over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, carrot, and peas to the skillet and cook until the vegetables are tender.",
+    "Stir in the Thai red curry paste and cook for 1 minute.",
+    "Add the coconut milk, fish sauce, soy sauce, and brown sugar to the skillet and stir to combine.",
+    "Roll out the pie crust and place it in a 9x13 inch baking dish.",
+    "Fill the pie crust with the lamb and vegetable mixture and spread it out evenly.",
+    "Roll out the remaining pie crust and use it to cover the pie. Crimp the edges to seal.",
+    "Cut a few slits in the top of the pie to allow steam to escape.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown.",
+    "Let the pie rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "thai",
+    "pie",
+    "vegetable",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-lamb-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:02:21.335Z"
+}
