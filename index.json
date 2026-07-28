@@ -19442,5 +19442,45 @@
     "cuisine": "Australian",
     "totalTimeMin": 25,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-umami-egyptian-sausage-skewers--japanese",
+    "title": "Japanese Sausage Skewers",
+    "tags": [
+      "grilled",
+      "skewers",
+      "japanese",
+      "sausage",
+      "umami"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hip-american-cornmeal-fritters--german",
+    "title": "German Cornmeal Fritters",
+    "tags": [
+      "german",
+      "snack",
+      "cornmeal"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 16,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-spicy-russian-knafeh-pilaf--chinese",
+    "title": "Szechuan Knafeh Pilaf",
+    "tags": [
+      "chinese",
+      "spicy",
+      "vegetarian",
+      "knesh",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
