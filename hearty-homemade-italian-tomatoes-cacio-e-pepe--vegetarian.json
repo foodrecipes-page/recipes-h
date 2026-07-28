@@ -1,0 +1,70 @@
+{
+  "slug": "hearty-homemade-italian-tomatoes-cacio-e-pepe--vegetarian",
+  "title": "Vegetarian Cacio e Pepe Fettuccine",
+  "description": "A vegetarian twist on the classic Italian pasta dish, featuring a rich and creamy sauce made with roasted tomatoes.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Roasted Tomatoes",
+      "amount": "2 cups",
+      "notes": "see notes"
+    },
+    {
+      "name": "Cacio e Pepe",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss cherry tomatoes with olive oil, salt, and pepper. Roast for 15-20 minutes.",
+    "Cook fettuccine according to package instructions. Reserve 1 cup of pasta water before draining.",
+    "In a large saucepan, combine roasted tomatoes, Cacio e Pepe, and garlic. Cook over medium heat, stirring constantly.",
+    "Add reserved pasta water and cook for an additional 2-3 minutes.",
+    "Combine cooked fettuccine and tomato sauce. Toss to coat, adding more pasta water if needed.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh basil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-homemade-italian-tomatoes-cacio-e-pepe--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:19:34.300Z"
+}
