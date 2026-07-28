@@ -1,0 +1,83 @@
+{
+  "slug": "hearty-crunchy-australian-broccoli-skillet--keto",
+  "title": "Keto Aussie Skillet Scramble",
+  "description": "A hearty, crunchy keto breakfast skillet dish featuring Australian-style scrambled eggs, broccoli, and a crispy skillet crust.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian sausage",
+      "amount": "1 link, sliced",
+      "notes": "Choose a keto-friendly sausage option"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "Cast-iron or stainless steel"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "Fresh, straight from the fridge"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "Keto-friendly, low-carb option"
+    },
+    {
+      "name": "Chopped bacon",
+      "amount": "4 slices",
+      "notes": "Keto-friendly, low-carb option"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the skillet crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add the chopped bacon and cook until crispy, flipping halfway through. Remove from the skillet and set aside.",
+    "Add the sliced Australian sausage to the skillet and cook until browned, breaking apart with a spoon as it cooks.",
+    "Add the broccoli florets to the skillet and cook for 3-4 minutes, or until tender.",
+    "Push the sausage and broccoli mixture to one side of the skillet.",
+    "Crack the eggs into the other side of the skillet and scramble until cooked through.",
+    "Stir the eggs and sausage mixture together, then add the shredded cheddar cheese and stir until melted.",
+    "Season with salt and pepper to taste.",
+    "Serve the skillet scramble hot, topped with crispy bacon and additional cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "breakfast",
+    "skillet",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crunchy-australian-broccoli-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:06:33.024Z"
+}
