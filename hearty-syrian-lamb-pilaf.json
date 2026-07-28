@@ -1,0 +1,87 @@
+{
+  "slug": "hearty-syrian-lamb-pilaf",
+  "title": "Lamb and Pilaf Pilaf",
+  "description": "A hearty and flavorful syrian dish made with lamb and pilaf, perfect for a special occasion.",
+  "cuisine": "Syrian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (2 pounds)",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pilaf to the pan and stir to combine with the onion and garlic mixture.",
+    "Return the lamb to the pan and stir to combine with the pilaf mixture.",
+    "Season with salt, black pepper, and paprika.",
+    "Transfer the pan to the preheated oven and cook for 30 minutes, or until the lamb is cooked through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "syrian",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-syrian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:20:44.576Z"
+}
