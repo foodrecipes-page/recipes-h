@@ -19549,5 +19549,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 22,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-egyptian-lamb-skillet--keto",
+    "title": "Keto Egyptian Lamb Skillet",
+    "tags": [
+      "keto",
+      "lamb",
+      "skillet",
+      "egyptian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
