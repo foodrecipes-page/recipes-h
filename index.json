@@ -19599,5 +19599,44 @@
     "cuisine": "spanish",
     "totalTimeMin": 165,
     "shard": "h"
+  },
+  {
+    "slug": "honey-glazed-saudi-fish-curry--italian",
+    "title": "Curry Fish with Honey Glaze",
+    "tags": [
+      "italian",
+      "fish",
+      "curry",
+      "honey",
+      "glazed"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-herbal-ethiopian-lamb-berbere-stew--italian",
+    "title": "Italian Lamb Stew with Berbere",
+    "tags": [
+      "italian",
+      "lamb",
+      "stew",
+      "berbere"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 140,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-molten-german-avocado-casserole--chinese",
+    "title": "Chinese Casserole with Avocado Salsa",
+    "tags": [
+      "chinese-food",
+      "casserole-recipe",
+      "avocado-salsa"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "h"
   }
 ]
