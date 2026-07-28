@@ -1,0 +1,80 @@
+{
+  "slug": "herbal-gooey-kenyan-prawns-roast--japanese",
+  "title": "Kenyan Prawn Tempura",
+  "description": "Crispy tempura prawns with a hint of Kenyan spices, inspired by Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 teaspoons",
+      "notes": "Kenyan curry powder"
+    },
+    {
+      "name": "herbal",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "roast",
+      "amount": "1 cup",
+      "notes": "roasted vegetable oil"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "egg",
+      "amount": "1 egg",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "ice-cold water"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together Kenyan curry powder, thyme, and flour.",
+    "2. Gradually add ice-cold water to the bowl, and mix until a smooth batter forms.",
+    "3. Add beaten egg to the batter, and mix until well combined.",
+    "4. Cut prawns in half lengthwise, and pat dry with paper towels.",
+    "5. Add prawns to the batter, and toss to coat evenly.",
+    "6. Heat roasted vegetable oil in a deep frying pan over medium-high heat.",
+    "7. When the oil reaches 350°F (175°C), add prawns to the pan in batches.",
+    "8. Fry prawns for 2-3 minutes on each side, or until golden brown and crispy.",
+    "9. Remove prawns from the oil with a slotted spoon, and drain on paper towels.",
+    "10. Serve Kenyan prawn tempura hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawn",
+    "japanese",
+    "tempura",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/herbal-gooey-kenyan-prawns-roast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:46:28.044Z"
+}
