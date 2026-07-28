@@ -1,0 +1,82 @@
+{
+  "slug": "hearty-umami-egyptian-sausage-skewers--japanese",
+  "title": "Japanese Sausage Skewers",
+  "description": "Grilled Japanese sausage skewers infused with umami flavors, perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "500g",
+      "notes": "Japanese-style sausages"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4-6",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8oz",
+      "notes": "Button or shiitake"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, brown sugar, and grated ginger.",
+    "3. Add sliced green onions, bell peppers, and mushrooms to the marinade and toss to coat.",
+    "4. Thread sausage and marinated vegetables onto skewers.",
+    "5. Brush skewers with sesame oil and season with salt and pepper.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally.",
+    "7. Cook to an internal temperature of 160°F (71°C) for sausage.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "japanese",
+    "sausage",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-umami-egyptian-sausage-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:46:25.572Z"
+}
