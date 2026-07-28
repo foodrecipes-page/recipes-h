@@ -1,0 +1,84 @@
+{
+  "slug": "hearty-spanish-vegetable-gazpacho--vegan",
+  "title": "Spanish Gazpacho",
+  "description": "A refreshing cold soup originating from southern Spain, made with a blend of tomatoes, peppers, cucumbers, and bread for a hearty and satisfying meal.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Heirloom tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan bread",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine tomatoes, bell pepper, cucumber, bread, onion, and garlic.",
+    "Blend until smooth.",
+    "With the blender running, slowly pour in oil and vinegar.",
+    "Add smoked paprika and salt to taste.",
+    "Blend until well combined.",
+    "Taste and adjust seasoning as needed.",
+    "Cover and refrigerate for at least 2 hours to allow flavors to meld.",
+    "Serve chilled, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gazpacho",
+    "spanish",
+    "vegan",
+    "soup",
+    "cold"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-spanish-vegetable-gazpacho--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:32:45.063Z"
+}
