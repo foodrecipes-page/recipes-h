@@ -1742,17 +1742,15 @@
   },
   {
     "slug": "hearty-american-beef-burger",
-    "title": "Hearty American Beef Burger",
+    "title": "Classic American Beef Burger",
     "tags": [
-      "american-classics",
-      "beef-recipes",
-      "easy-dinners",
-      "family-friendly",
-      "grilled-meats",
-      "kid-friendly"
+      "beef",
+      "american",
+      "burger",
+      "classic"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "h"
   },
   {
@@ -10205,16 +10203,15 @@
   },
   {
     "slug": "hearty-syrian-lamb-pilaf",
-    "title": "Hearty Syrian Lamb Pilaf",
+    "title": "Lamb and Pilaf Pilaf",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "middle-eastern",
-      "one-pot",
-      "syrian-cuisine"
+      "lamb",
+      "pilaf",
+      "syrian",
+      "hearty"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
