@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-fermented-venezuelan-mushroom-empanadas--indian",
+  "title": "Venezuelan Mushroom Empanadas with Indian Twist",
+  "description": "A fusion of Venezuelan empanadas with an Indian twist, filled with sautéed mushrooms and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mushrooms (button)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Venezuelan cheese (Queso Blanco)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Empanada dough (homemade or store-bought)",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, heat 2 tbsp of ghee over medium heat. Add the onion and cook until softened.",
+    "Add the mushrooms and cook until they release their moisture and start browning.",
+    "Add the garam masala, cumin powder, and coriander powder. Cook for 1 minute.",
+    "Add the salt to taste and cook for another minute.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the mushroom mixture onto one half of each dough circle.",
+    "Brush the edges with ghee and fold the dough in half to form a half-moon shape.",
+    "Press the edges with a fork to seal the empanada.",
+    "Brush the tops with ghee and bake for 20-25 minutes or until golden brown.",
+    "Serve hot with a side of chutney or salsa."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegan",
+    "snack",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fermented-venezuelan-mushroom-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:23:46.364Z"
+}
