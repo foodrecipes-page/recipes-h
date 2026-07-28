@@ -1,0 +1,96 @@
+{
+  "slug": "hearty-crisp-portuguese-casabe-paella--mexican",
+  "title": "Crispy Paella Casserole",
+  "description": "A twist on the classic Spanish dish, this Mexican-inspired paella casserole is crispy on the outside and hearty on the inside.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paella",
+      "amount": "1 box",
+      "notes": ""
+    },
+    {
+      "name": "casabe",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "crisp tortilla chips",
+      "amount": "1 bag",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare the paella according to the package instructions.",
+    "Cut the casabe into 1-inch cubes and set aside.",
+    "Cut the portuguese bread into 1-inch cubes and set aside.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and red bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the diced tomatoes and chicken broth to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Stir in the cooked paella, casabe, and portuguese bread. Cook for an additional 2 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the shrimp.",
+    "Bake the casserole in the preheated oven for 15-20 minutes, or until the shrimp are pink and the casserole is hot and bubbly.",
+    "Sprinkle the crisp tortilla chips on top of the casserole and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "paella",
+    "casserole",
+    "beef",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-crisp-portuguese-casabe-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:24:42.590Z"
+}
