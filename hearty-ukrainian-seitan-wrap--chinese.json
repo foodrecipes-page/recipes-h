@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-ukrainian-seitan-wrap--chinese",
+  "title": "Seitan Wraps with Ukrainian Twist",
+  "description": "A fusion dish bringing together the heartiness of Ukrainian cuisine and the simplicity of Chinese street food. Served in a crispy wrap with marinated seitan.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Seitan",
+      "amount": "200g"
+    },
+    {
+      "name": "Whole Wheat Wrap",
+      "amount": "4"
+    },
+    {
+      "name": "Ukrainian Sauerkraut",
+      "amount": "100g"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cut the seitan into thin strips and marinate in a mixture of 1 tbsp soy sauce, 1 tsp ginger, 1 tsp garlic, and 1 tbsp sesame oil for at least 30 minutes.",
+    "2. Grill the seitan until golden brown and crispy.",
+    "3. Warm the wraps in the oven for 2-3 minutes.",
+    "4. Fill each wrap with a portion of the seitan, Ukrainian sauerkraut, chopped green onions, and chopped cilantro.",
+    "5. Drizzle with a bit of soy sauce and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-fusion",
+    "vegetarian-recipe",
+    "seitan-recipe",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-ukrainian-seitan-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:24:41.498Z"
+}
