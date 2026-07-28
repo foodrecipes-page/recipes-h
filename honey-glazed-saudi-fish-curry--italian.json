@@ -1,0 +1,78 @@
+{
+  "slug": "honey-glazed-saudi-fish-curry--italian",
+  "title": "Curry Fish with Honey Glaze",
+  "description": "A unique Italian-inspired dish that combines the flavors of curry and honey.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Any white fish works well, such as cod or tilapia."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season fish fillets with salt and black pepper.",
+    "Heat olive oil in an oven-safe skillet over medium heat. Add garlic and cook for 1 minute.",
+    "Add fish fillets to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, mix honey and curry powder in a small bowl.",
+    "Remove the skillet from the oven and brush the honey-curry glaze over the fish.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the glaze is caramelized.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "curry",
+    "honey",
+    "glazed"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-saudi-fish-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:22:24.914Z"
+}
