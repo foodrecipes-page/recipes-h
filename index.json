@@ -19392,5 +19392,30 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-fermented-venezuelan-mushroom-empanadas--indian",
+    "title": "Venezuelan Mushroom Empanadas with Indian Twist",
+    "tags": [
+      "indian",
+      "vegan",
+      "snack",
+      "empanadas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-homemade-italian-tomatoes-cacio-e-pepe--vegetarian",
+    "title": "Vegetarian Cacio e Pepe Fettuccine",
+    "tags": [
+      "italian",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "h"
   }
 ]
