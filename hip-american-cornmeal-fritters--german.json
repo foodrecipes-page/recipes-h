@@ -1,0 +1,62 @@
+{
+  "slug": "hip-american-cornmeal-fritters--german",
+  "title": "German Cornmeal Fritters",
+  "description": "A traditional German-style cornmeal fritter recipe made with fresh corn and spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "american",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "hip",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, flour, and salt.",
+    "In a separate bowl, whisk together eggs and buttermilk.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Add the chopped corn and stir until just combined.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "snack",
+    "cornmeal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hip-american-cornmeal-fritters--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:53:11.346Z"
+}
