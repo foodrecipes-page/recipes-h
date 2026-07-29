@@ -1,0 +1,64 @@
+{
+  "slug": "heavy-honeyed-egyptian-date-cake--japanese",
+  "title": "Japanese Date Cake",
+  "description": "A traditional Japanese-style date cake made with heavy, honeyed, and egyptian ingredients, perfect for a sweet breakfast or dessert.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "250g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "120ml"
+    },
+    {
+      "name": "honey",
+      "amount": "100g"
+    },
+    {
+      "name": "egyptian vanilla extract",
+      "amount": "10ml"
+    },
+    {
+      "name": "cake flour",
+      "amount": "200g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Grease a 20cm round cake pan and set aside.",
+    "In a large mixing bowl, whisk together the dates, heavy cream, honey, and egyptian vanilla extract until well combined.",
+    "In a separate bowl, whisk together the cake flour and baking powder.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/heavy-honeyed-egyptian-date-cake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:56:55.453Z"
+}
