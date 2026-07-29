@@ -1,0 +1,63 @@
+{
+  "slug": "hearty-flaky-dutch-kielbasa-pastry--thai",
+  "title": "Thai Kielbasa Pastry",
+  "description": "A Thai-inspired twist on traditional savory pastry, featuring kielbasa sausage and hearty ingredients.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kielbasa sausage",
+      "amount": "1 pound",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "hearty pastry dough",
+      "amount": "1 package",
+      "notes": "Thawed according to package instructions"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pastry"
+    },
+    {
+      "name": "flaky salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out pastry dough to a thickness of 1/8 inch.",
+    "Brush pastry with dutch mustard.",
+    "Arrange kielbasa slices on one half of pastry, leaving a 1-inch border around edges.",
+    "Fold other half of pastry over kielbasa, pressing edges to seal.",
+    "Brush top of pastry with egg wash (beaten egg mixed with 1 tablespoon water).",
+    "Sprinkle with flaky salt.",
+    "Bake for 25-30 minutes, or until pastry is golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "kielbasa",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-flaky-dutch-kielbasa-pastry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:00:00.622Z"
+}
