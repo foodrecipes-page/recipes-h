@@ -1,0 +1,64 @@
+{
+  "slug": "hearty-fermented-venezuelan-mushroom-empanadas--thai",
+  "title": "Spicy Mushroom Empanadas",
+  "description": "A twist on traditional Thai street food, these empanadas are filled with sautéed mushrooms and served with a side of spicy sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Mushroom Empanada Filling (see instructions)",
+      "amount": "enough for 8 empanadas",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine flour and salt. Gradually add water, mixing until dough forms.",
+    "Knead dough for 5 minutes. Divide into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of mushroom filling in the center of each circle.",
+    "Fold dough in half and press edges together to seal.",
+    "Brush tops with beaten egg and bake for 15 minutes.",
+    "Meanwhile, heat oil in a pan over medium-high heat.",
+    "Add 1-2 empanadas to the pan and fry until golden brown.",
+    "Serve hot with spicy sauce (see notes)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "mushroom",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-fermented-venezuelan-mushroom-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:22:38.860Z"
+}
