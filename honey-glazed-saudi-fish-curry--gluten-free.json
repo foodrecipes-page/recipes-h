@@ -1,0 +1,73 @@
+{
+  "slug": "honey-glazed-saudi-fish-curry--gluten-free",
+  "title": "Glazed Fish with Honey Curry Sauce",
+  "description": "A flavorful and aromatic dish featuring pan-seared fish glazed with a sweet honey curry sauce, gluten-free.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish, e.g., cod, tilapia)",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Glazed (e.g., soy sauce, maple syrup, or honey)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "depending on the fish type"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish fillets with salt.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the fish fillets for 2-3 minutes per side, then transfer the skillet to the preheated oven.",
+    "Bake the fish for 8-10 minutes or until cooked through.",
+    "While the fish cooks, whisk together honey, glazed, and curry powder in a small bowl.",
+    "Remove the skillet from the oven and brush the honey curry sauce over the fish fillets.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes or until the sauce is caramelized.",
+    "Serve the glazed fish hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/honey-glazed-saudi-fish-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:30:10.339Z"
+}
