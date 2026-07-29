@@ -1,0 +1,76 @@
+{
+  "slug": "hearty-german-potato-casserole--italian",
+  "title": "German-Style Italian Potato Casserole",
+  "description": "A hearty twist on traditional Italian cuisine, this potato casserole combines the best of both worlds.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the potatoes and slice them thinly.",
+    "In a large skillet, cook the bacon until crispy, then set aside.",
+    "In the same skillet, sauté the onion and garlic until softened.",
+    "Add the tomato sauce and stir to combine.",
+    "In a large bowl, combine the sliced potatoes, tomato sauce mixture, and cooked bacon.",
+    "Transfer the mixture to a baking dish and top with mozzarella cheese.",
+    "Bake for 30-40 minutes, or until the cheese is melted and bubbly.",
+    "Let the casserole rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "potato",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 16,
+    "carbs": 45,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-german-potato-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:31:41.955Z"
+}
