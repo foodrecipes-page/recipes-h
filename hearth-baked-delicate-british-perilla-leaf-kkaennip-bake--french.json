@@ -1,0 +1,80 @@
+{
+  "slug": "hearth-baked-delicate-british-perilla-leaf-kkaennip-bake--french",
+  "title": "Delicate British Leaf Tarts",
+  "description": "A classic French dessert with a delicate British twist, these leaf tarts are a delight to make and eat.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1/4 cup",
+      "notes": "delicate"
+    },
+    {
+      "name": "Hearth-baked puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut out small squares of pastry, about 3 inches per side.",
+    "In a small bowl, whisk together the eggs and heavy cream until well combined.",
+    "Place a small spoonful of the egg mixture onto one half of each square of pastry.",
+    "Top with a few fresh thyme leaves.",
+    "Fold the other half of the pastry square over the filling, pressing the edges to seal.",
+    "Brush the tops of the tarts with a little bit of butter.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown.",
+    "Allow the tarts to cool on a wire rack for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "british",
+    "leaf",
+    "tarts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearth-baked-delicate-british-perilla-leaf-kkaennip-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:06:07.683Z"
+}
