@@ -19715,5 +19715,17 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "h"
+  },
+  {
+    "slug": "honey-glazed-saudi-fish-curry--gluten-free",
+    "title": "Glazed Fish with Honey Curry Sauce",
+    "tags": [
+      "fish",
+      "gluten-free",
+      "curry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "h"
   }
 ]
