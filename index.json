@@ -2950,17 +2950,14 @@
   },
   {
     "slug": "hearty-crisp-mexican-chicken-tagine",
-    "title": "Hearty Crisp Mexican Chicken Tagine",
+    "title": "Crisp Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "flexitarian",
-      "gluten-free",
-      "mexican-cuisine",
-      "one-pot",
-      "sous-vide"
+      "chicken",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "h"
   },
   {
@@ -7143,17 +7140,14 @@
   },
   {
     "slug": "hearty-midnight-pulled-argentinian-duck-legs-empanadas",
-    "title": "hearty midnight pulled argentinian duck legs empanadas",
+    "title": "Argentinian Pulled Duck Empanadas",
     "tags": [
       "argentinian",
-      "cheese-pull",
-      "diabetic-friendly",
-      "midnight-craving",
-      "one-pan",
-      "weeknight"
+      "empanadas",
+      "pulled-duck"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "h"
   },
   {
@@ -19726,6 +19720,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "h"
+  },
+  {
+    "slug": "hearth-baked-delicate-british-perilla-leaf-kkaennip-bake--french",
+    "title": "Delicate British Leaf Tarts",
+    "tags": [
+      "french",
+      "dessert",
+      "british",
+      "leaf",
+      "tarts"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "h"
+  },
+  {
+    "slug": "heavy-honeyed-egyptian-date-cake--japanese",
+    "title": "Japanese Date Cake",
+    "tags": [
+      "japanese",
+      "dessert",
+      "cake"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
     "shard": "h"
   }
 ]
