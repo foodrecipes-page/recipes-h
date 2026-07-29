@@ -19638,5 +19638,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-fermented-venezuelan-mushroom-empanadas--thai",
+    "title": "Spicy Mushroom Empanadas",
+    "tags": [
+      "empanadas",
+      "mushroom",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-german-potato-casserole--italian",
+    "title": "German-Style Italian Potato Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "potato",
+      "german"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "h"
   }
 ]
