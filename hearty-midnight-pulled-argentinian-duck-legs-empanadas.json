@@ -1,0 +1,86 @@
+{
+  "slug": "hearty-midnight-pulled-argentinian-duck-legs-empanadas",
+  "title": "Argentinian Pulled Duck Empanadas",
+  "description": "A twist on traditional empanadas, filled with tender pulled duck and spices.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Midnight empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Hearty red wine",
+      "amount": "1/4 cup",
+      "notes": "for duck braising liquid"
+    },
+    {
+      "name": "Argentinian spices",
+      "amount": "1 tsp",
+      "notes": "dried oregano and cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pulled duck fat",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck legs with salt, black pepper, and argentinian spices.",
+    "Heat the hearty red wine in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Transfer the duck legs to a large bowl and cover with aluminum foil.",
+    "Braise the duck in the oven for 30 minutes, or until tender.",
+    "Shred the duck with two forks and set aside.",
+    "Roll out the midnight empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the pulled duck in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal the empanada.",
+    "Brush the tops with pulled duck fat and bake in the oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "pulled-duck"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-midnight-pulled-argentinian-duck-legs-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:19:51.948Z"
+}
