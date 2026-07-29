@@ -1,7 +1,7 @@
 {
   "slug": "homely-australian-baked-treat-scones",
-  "title": "Homely Australian Scones",
-  "description": "Classic Australian-style scones, perfect for a morning treat. Serve with butter and jam for an authentic experience.",
+  "title": "Classic Australian Scones",
+  "description": "Soft and flaky scones, perfect for breakfast or as a snack. Serve with butter and jam for a classic treat.",
   "cuisine": "australian",
   "diet": [
     "vegetarian"
@@ -9,51 +9,40 @@
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "all-purpose flour",
+      "name": "self-raising flour",
       "amount": "2 cups"
     },
     {
       "name": "granulated sugar",
-      "amount": "4 teaspoons"
-    },
-    {
-      "name": "baking powder",
-      "amount": "2 teaspoons"
-    },
-    {
-      "name": "kosher salt",
-      "amount": "1/4 teaspoon"
+      "amount": "2 tablespoons"
     },
     {
       "name": "cold unsalted butter",
-      "amount": "1/2 cup"
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
     },
     {
-      "name": "heavy cream",
-      "amount": "1 cup"
+      "name": "buttermilk",
+      "amount": "3/4 cup"
     },
     {
-      "name": "large eggs",
-      "amount": "2"
-    },
-    {
-      "name": "vanilla extract",
-      "amount": "1 teaspoon"
+      "name": "large egg",
+      "amount": "1"
     }
   ],
   "instructions": [
     "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
-    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
-    "Add cold butter to the dry ingredients and use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
-    "In a separate bowl, whisk together cream, eggs, and vanilla extract.",
-    "Pour the wet ingredients into the dry ingredients and stir until the dough just comes together.",
+    "In a large bowl, whisk together flour and sugar.",
+    "Add the cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together the buttermilk and egg.",
+    "Add the wet ingredients to the dry ingredients and stir until the dough just comes together.",
     "Turn the dough out onto a floured surface and gently knead a few times until it comes together.",
     "Pat the dough into a circle that is about 1 inch (2.5 cm) thick.",
     "Use a biscuit cutter or the rim of a glass to cut out scones.",
     "Place the scones on the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each scone.",
-    "Brush the tops of the scones with a little extra cream and sprinkle with granulated sugar.",
+    "Brush the tops of the scones with a little extra buttermilk.",
     "Bake for 15-20 minutes, or until the scones are golden brown.",
-    "Remove the scones from the oven and let them cool on a wire rack for 5-10 minutes before serving."
+    "Serve warm, split open and topped with butter and jam."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -61,11 +50,11 @@
   "servings": 8,
   "difficulty": "easy",
   "tags": [
-    "homely",
     "australian",
-    "baked",
-    "treat",
-    "scones"
+    "scones",
+    "breakfast",
+    "snack",
+    "baked"
   ],
   "nutrition": {
     "calories": 220,
@@ -76,5 +65,5 @@
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/homely-australian-baked-treat-scones",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T16:03:30.944Z"
+  "createdAt": "2026-07-23T01:54:21.510Z"
 }
