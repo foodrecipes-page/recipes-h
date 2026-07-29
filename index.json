@@ -14235,13 +14235,13 @@
   },
   {
     "slug": "homely-australian-baked-treat-scones",
-    "title": "Homely Australian Scones",
+    "title": "Classic Australian Scones",
     "tags": [
-      "homely",
       "australian",
-      "baked",
-      "treat",
-      "scones"
+      "scones",
+      "breakfast",
+      "snack",
+      "baked"
     ],
     "cuisine": "australian",
     "totalTimeMin": 30,
@@ -19686,6 +19686,33 @@
       "pastry"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "h"
+  },
+  {
+    "slug": "healthy-smoky-tunisian-rice-wrap--keto",
+    "title": "Tunisian Keto Chicken Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "chicken",
+      "wrap"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "h"
+  },
+  {
+    "slug": "hearty-harmonious-syrian-seafood-bisque--italian",
+    "title": "Seafood Bisque with Syrian Twist",
+    "tags": [
+      "italian",
+      "seafood",
+      "bisque",
+      "soup",
+      "harissa"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "h"
   }
