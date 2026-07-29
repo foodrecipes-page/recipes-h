@@ -1,0 +1,111 @@
+{
+  "slug": "hearty-harmonious-syrian-seafood-bisque--italian",
+  "title": "Seafood Bisque with Syrian Twist",
+  "description": "A hearty Italian-inspired seafood bisque with a hint of Syrian spices, perfect for a cold winter's night.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Clams",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add garlic and onion, sauté until softened.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add white wine and bring to a simmer.",
+    "Add fish stock and bring to a boil.",
+    "Reduce heat and add heavy cream, lemon juice, paprika, sea salt, and black pepper.",
+    "Simmer for 10 minutes.",
+    "Add shrimp, mussels, and clams, and cook until seafood is cooked through.",
+    "Stir in harissa and oregano.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "bisque",
+    "soup",
+    "harissa"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/hearty-harmonious-syrian-seafood-bisque--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:46:11.478Z"
+}
