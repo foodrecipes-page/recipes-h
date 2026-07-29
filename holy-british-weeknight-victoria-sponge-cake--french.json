@@ -1,0 +1,74 @@
+{
+  "slug": "holy-british-weeknight-victoria-sponge-cake--french",
+  "title": "French Victoria Sponge Cake",
+  "description": "A classic French dessert, this Victoria sponge cake is a simple yet elegant treat, perfect for a weeknight dessert or special occasion.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "gr granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C). Line two 8-inch round cake pans with parchment paper.",
+    "In a medium bowl, whisk together the flour and sugar. Set aside.",
+    "In a large bowl, whisk together the eggs and butter until light and fluffy.",
+    "Add the vanilla extract and whisk to combine.",
+    "Gradually add the flour mixture to the wet ingredients and whisk until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of each cake comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Once the cakes are cool, spread a layer of raspberry jam on top of one of the cakes.",
+    "Dust the top of the second cake with confectioners' sugar and place it on top of the first cake.",
+    "Dust the top of the cake with confectioners' sugar and serve.",
+    "Note: This cake is best served on the day it's made, but it can be stored in an airtight container at room temperature for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "weeknight",
+    "dessert",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/holy-british-weeknight-victoria-sponge-cake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:36:27.953Z"
+}
