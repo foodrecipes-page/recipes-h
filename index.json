@@ -19676,5 +19676,17 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "h"
+  },
+  {
+    "slug": "hearty-flaky-dutch-kielbasa-pastry--thai",
+    "title": "Thai Kielbasa Pastry",
+    "tags": [
+      "thai",
+      "kielbasa",
+      "pastry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "h"
   }
 ]
