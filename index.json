@@ -19663,5 +19663,18 @@
     "cuisine": "italian",
     "totalTimeMin": 55,
     "shard": "h"
+  },
+  {
+    "slug": "holy-british-weeknight-victoria-sponge-cake--french",
+    "title": "French Victoria Sponge Cake",
+    "tags": [
+      "french",
+      "weeknight",
+      "dessert",
+      "cake"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "h"
   }
 ]
